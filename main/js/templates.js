@@ -1,4 +1,8 @@
-const article_template = ({title, img, desc})  => `
+const article_template = ({
+	title,
+	img,
+	desc
+}) => `
 <li class="${title} article">
 	<span>
 		${title}

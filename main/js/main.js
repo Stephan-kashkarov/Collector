@@ -1,8 +1,8 @@
-$(document).ready(function(e) {
-	$(".edit").submit(function(e){
+$(document).ready(function (e) {
+	$(".edit").submit(function (e) {
 		event.preventDefault();
 		var id = articles.length + 1;
-		var articleid = "article"+String(id);
+		var articleid = "article" + String(id);
 		var new_img = $(".img").val();
 		var new_title = $(".new-title").val();
 		var new_desc = $(".new-desc").val();

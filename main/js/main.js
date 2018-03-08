@@ -9,6 +9,7 @@ $(document).ready(function(e) {
 		var articleid = new article(id, new_title, new_desc, new_img);
 		console.log(articleid, articleid.list_format());
 		articleid.push_to_list();
+		print_posts(articles);
 		$(".new-desc").val("");
 		$(".new-title").val("");
 		$(".new-img").val("");

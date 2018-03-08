@@ -16,4 +16,8 @@ class article {
 		var formatted = list_format();
 		articles.push(formatted);
 	}
+
+	id() {
+		return this.id
+	}
 }

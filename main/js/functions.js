@@ -1,7 +1,7 @@
 var articles = [];
 
 class article {
-	constructor(id, title, desc, img) {
+	constructor(id, title, desc, img="") {
 		this.id = id;
 		this.title = title;
 		this.desc = desc;
@@ -13,7 +13,7 @@ class article {
 	}
 
 	push_to_list() {
-		var formatted = list_format();
+		var formatted = this.list_format();
 		articles.push(formatted);
 	}
 

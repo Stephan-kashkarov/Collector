@@ -1,11 +1,14 @@
 $(document).ready(function(e) {
 	$(".edit").submit(function(e){
 		event.preventDefault();
-
+		var id = articles.length + 1;
+		var articleid = "article"+String(id);
 		var new_img = $(".img").val();
 		var new_title = $(".new-title").val();
 		var new_desc = $(".new-desc").val();
-		articles.push({title: new_title, img: new_img, desc: new_desc});
-		console.log(articles)
+		var articleid = new article(id, new_title, new_desc, new_img);
+		console.log(articleid, articleid.list_format());
+		articleid.push_to_list();
+		$(".edit").val("");
 	});
 });

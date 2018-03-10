@@ -1,0 +1,6 @@
+{
+	"title":"Hello, World!",
+	"img": "../img/downloads/hello_world.jpg",
+	"desc": "Testing object fpr JSON and AJAX",
+	"tags": ["test", "first", "0"]
+}

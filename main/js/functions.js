@@ -24,9 +24,15 @@ class article {
 }
 
 function print_posts(list) {
+	$(".article").remove();
 	if(list != "") {
 		for(var i = 0; i < list.length; i++) {
-			$(".main").html([articles[i]].map(article_template).join(""));
+			$(".main").append([articles[i]].map(article_template).join(""));
 		}
 	}
+}
+
+function prepareUpload(event)
+{
+	files = event.target.files;
 }

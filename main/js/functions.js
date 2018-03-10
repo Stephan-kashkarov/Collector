@@ -36,3 +36,9 @@ function prepareUpload(event)
 {
 	files = event.target.files;
 }
+
+class database {
+	constructor(ajaxdb) {
+		this.db = ajaxdb;
+	}
+}

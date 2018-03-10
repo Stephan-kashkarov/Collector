@@ -1,12 +1,19 @@
 $(document).ready(function (e) {
-	var db = $.ajax("database/posts.json")
-		.done(function(){
+	var db = $.ajax(
+		type: "GET",
+		url: "127.0.0.1:8000/database/posts.json",
+		async: false,
+		success: function(text){
 			console.log("Json loaded succsessfully!");
-		})
-		.fail(function(){
-			console.log("Json failed to load!");
-		});
-	console.log(db.posts);
+			console.log("Data:", text);
+			var response=text;
+		},
+		// fail: function(){
+		// 	console.log("Json failed to load!");
+		// }
+	);
+
+	console.log(db.responseText);
 	if(localStorage.lenght) {
 		for(var i = 0; i < localStorage.length; i++) {
 			console.log("localStorage: " + localStorage.key(i));

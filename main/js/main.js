@@ -1,7 +1,15 @@
 $(document).ready(function (e) {
+	var db = $.ajax("database/posts.json")
+		.done(function(){
+			console.log("Json loaded succsessfully!");
+		})
+		.fail(function(){
+			console.log("Json failed to load!");
+		});
+	console.log(db.posts);
 	if(localStorage.lenght) {
 		for(var i = 0; i < localStorage.length; i++) {
-			console.log(localStorage.getItem[i]);
+			console.log("localStorage: " + localStorage.key(i));
 		}
 	}
 	$(".edit").submit(function (e) {

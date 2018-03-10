@@ -1,6 +1,7 @@
-{
+"posts":" {
 	"title":"Hello, World!",
 	"img": "../img/downloads/hello_world.jpg",
 	"desc": "Testing object fpr JSON and AJAX",
+	"id": 0,
 	"tags": ["test", "first", "0"]
-}
+}"

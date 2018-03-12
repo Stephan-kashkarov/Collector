@@ -22,9 +22,9 @@ $(document).ready(function (e) {
 	console.log(items[1]);
 	for (var i in items) {
 		console.log("Appending and printing:", items[i]);
-		var article = items[i];
-		var id = article.id;
-		var id = new article(article.id, article.title, article.desc, article.img="");
+		var articleid = "article" + String(items[i].id);
+		console.log("Id of article:", articleid);
+		var articleid = new article (item[i].id, item[i].title, item[i].desc, item[i].img);
 		console.log(id, id.list_format());
 		id.append_article();
 		print_posts(articles);
@@ -43,7 +43,7 @@ $(document).ready(function (e) {
 		var new_img = $(".img").val();
 		var new_title = $(".new-title").val();
 		var new_desc = $(".new-desc").val();
-		var id = new article(id, new_title, new_desc, new_img);
+		var id = new article (id, new_title, new_desc, new_img);
 		console.log(id, id.list_format());
 		id.append_article();
 		print_posts();

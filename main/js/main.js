@@ -27,7 +27,7 @@ $(document).ready(function (e) {
 		var id = article.id
 		var id = new article(article.id, article.title, article.desc, article.img="");
 		console.log(id, id.list_format());
-		id.push_to_list();
+		id.append_article();
 		print_posts(articles);
 	}
 
@@ -46,7 +46,7 @@ $(document).ready(function (e) {
 		var new_desc = $(".new-desc").val();
 		var id = new article(id, new_title, new_desc, new_img);
 		console.log(id, id.list_format());
-		id.push_to_list();
+		id.append_article();
 		print_posts(articles);
 		$(".new-desc").val("");
 		$(".new-title").val("");

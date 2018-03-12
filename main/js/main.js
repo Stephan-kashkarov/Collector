@@ -2,16 +2,14 @@ $(document).ready(function (e) {
 	var db = $.ajax({
 		url: 'database/posts.json',
 		async: false,
-		success: function(text){
-			console.log('Json loaded succsessfully!');
-			console.log('Data:', text);
-			var response = text;
-		},
 		fail: function(){
 			console.log("Json failed to load!");
 		},
-		error: function(xhr){
-			console.log("An error occured: " + xhr.status + " " + xhr.statusText);
+		error: function(xhr, text){
+			console.log("Error log: " + xhr.status + " " + xhr.statusText);
+			if (xhr.status === 200) {
+
+			}
 		},
 		done: function(){
 			console.log("AJAX operation complete!");
@@ -19,7 +17,20 @@ $(document).ready(function (e) {
 
 	});
 
+
+
 	console.log(db.responseText);
+	var items = JSON.parse(db.responseText);
+	console.log(items);
+	for (var i = 0; i < items.length; i++) {
+		var article = items[i]
+		var id = article.id
+		var id = new article(article.id, article.title, article.desc, article.img="");
+		console.log(id, id.list_format());
+		id.push_to_list();
+		print_posts(articles);
+	}
+
 	if(localStorage.lenght) {
 		for(var i = 0; i < localStorage.length; i++) {
 			console.log("localStorage: " + localStorage.key(i));

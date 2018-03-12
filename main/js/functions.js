@@ -1,12 +1,11 @@
 var articles = [];
 
-class article {
-	constructor(id, title, desc, img = "") {
+class article(id, title, desc, img = "") {
 		this.id = id;
 		this.title = title;
 		this.desc = desc;
 		this.img = img;
-	}
+
 	list_format() {
 		return {
 			title: this.title,

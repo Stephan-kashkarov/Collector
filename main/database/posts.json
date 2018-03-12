@@ -1,7 +1,23 @@
-"posts":" {
-	"title":"Hello, World!",
-	"img": "../img/downloads/hello_world.jpg",
-	"desc": "Testing object fpr JSON and AJAX",
-	"id": 0,
-	"tags": ["test", "first", "0"]
-}"
+{
+	"0": {
+		"title":"Hello, World!",
+		"img": "../img/downloads/hello_world.jpg",
+		"desc": "Testing object fpr JSON and AJAX",
+		"id": 0,
+		"tags": ["test", "first", "0"]
+	},
+	"1": {
+		"title":"Hello, World!",
+		"img": "../img/downloads/hello_world.jpg",
+		"desc": "Testing object fpr JSON and AJAX",
+		"id": 1,
+		"tags": ["test", "first", "1"]
+	},
+	"2": {
+		"title":"Hello, World!",
+		"img": "../img/downloads/hello_world.jpg",
+		"desc": "Testing object fpr JSON and AJAX",
+		"id": 2,
+		"tags": ["test", "first", "2"]
+	}
+}

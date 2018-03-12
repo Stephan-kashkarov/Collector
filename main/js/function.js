@@ -17,20 +17,24 @@ class article {
 	append_article() {
 		var formatted = this.listify();
 		articles.push(formatted);
+		console.log("Article Pushed");
 	};
 	id() {
 		return this.id
 	};
 };
 
-function print_posts(list) {
+function print_posts() {
 	$(".article").remove();
-	if(list != "") {
-		for(var i = 0; i < list.length; i++) {
+	console.log("Refreshing posts!");
+	if(articles != "") {
+		console.log("Articles not empty!");
+		for(var i = 0; i < articles.length; i++) {
 			$(".main").append([articles[i]].map(article_template).join(""));
 			console.log(articles[i], "Printed");
 		};
 	};
+	console.log("Posts refreshed!");
 };
 
 function prepareUpload(event) {

@@ -7,14 +7,10 @@ $(document).ready(function (e) {
 		},
 		error: function(xhr, text){
 			console.log("Error log: " + xhr.status + " " + xhr.statusText);
-			if (xhr.status === 200) {
-
-			}
 		},
 		done: function(){
 			console.log("AJAX operation complete!");
 		}
-
 	});
 
 
@@ -22,9 +18,12 @@ $(document).ready(function (e) {
 	console.log(db.responseText);
 	var items = JSON.parse(db.responseText);
 	console.log(items);
-	for (var i = 0; i < items.length; i++) {
-		var article = items[i]
-		var id = article.id
+	console.log(items.lenght);
+	console.log(items[1]);
+	for (var i in items) {
+		console.log("Appending and printing:", items[i]);
+		var article = items[i];
+		var id = article.id;
 		var id = new article(article.id, article.title, article.desc, article.img="");
 		console.log(id, id.list_format());
 		id.append_article();
@@ -32,7 +31,7 @@ $(document).ready(function (e) {
 	}
 
 	if(localStorage.lenght) {
-		for(var i = 0; i < localStorage.length; i++) {
+		for(var i=0; i < localStorage.length; i++) {
 			console.log("localStorage: " + localStorage.key(i));
 		}
 	}
@@ -47,11 +46,14 @@ $(document).ready(function (e) {
 		var id = new article(id, new_title, new_desc, new_img);
 		console.log(id, id.list_format());
 		id.append_article();
-		print_posts(articles);
+		print_posts();
 		$(".new-desc").val("");
 		$(".new-title").val("");
 		$(".new-img").val("");
 		window.localStorage.clear();
 		window.localStorage.setItem(1, "articles");
+	});
+	$(".refresh-posts").click(function(e){
+		print_posts();
 	});
 });

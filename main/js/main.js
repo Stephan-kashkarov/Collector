@@ -15,18 +15,15 @@ $(document).ready(function (e) {
 
 
 
-	console.log(db.responseText);
+	console.log("Contents of ajaxed file(s):",db.responseText);
 	var items = JSON.parse(db.responseText);
-	console.log(items);
-	console.log(items.lenght);
-	console.log(items[1]);
 	for (var i in items) {
 		console.log("Appending and printing:", items[i]);
 		var articleid = "article" + String(items[i].id);
 		console.log("Id of article:", articleid);
-		var articleid = new article (item[i].id, item[i].title, item[i].desc, item[i].img);
-		console.log(id, id.list_format());
-		id.append_article();
+		var articleid = new article (items[i].id, items[i].title, items[i].desc, items[i].img);
+		console.log(articleid, articleid.listify());
+		articleid.append_article();
 		print_posts(articles);
 	}
 
@@ -44,7 +41,7 @@ $(document).ready(function (e) {
 		var new_title = $(".new-title").val();
 		var new_desc = $(".new-desc").val();
 		var id = new article (id, new_title, new_desc, new_img);
-		console.log(id, id.list_format());
+		console.log(id, id.listify());
 		id.append_article();
 		print_posts();
 		$(".new-desc").val("");

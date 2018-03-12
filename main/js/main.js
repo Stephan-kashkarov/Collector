@@ -1,17 +1,23 @@
 $(document).ready(function (e) {
-	var db = $.ajax(
-		type: "GET",
-		url: "127.0.0.1:8000/database/posts.json",
+	var db = $.ajax({
+		url: 'database/posts.json',
 		async: false,
 		success: function(text){
-			console.log("Json loaded succsessfully!");
-			console.log("Data:", text);
-			var response=text;
+			console.log('Json loaded succsessfully!');
+			console.log('Data:', text);
+			var response = text;
 		},
-		// fail: function(){
-		// 	console.log("Json failed to load!");
-		// }
-	);
+		fail: function(){
+			console.log("Json failed to load!");
+		},
+		error: function(xhr){
+			console.log("An error occured: " + xhr.status + " " + xhr.statusText);
+		},
+		done: function(){
+			console.log("AJAX operation complete!");
+		}
+
+	});
 
 	console.log(db.responseText);
 	if(localStorage.lenght) {

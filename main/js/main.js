@@ -16,6 +16,11 @@ $(document).ready(function (e) {
 	var items = JSON.parse(db.responseText);
 	for (var i in items) {
 		console.log(items[i]);
+		var item = items[i];
+		var id = i;
+		var i = new post(item.title, item.desc, item.img, item.tags)
+		console.log(i);
+		print(i);
 	}
 
 

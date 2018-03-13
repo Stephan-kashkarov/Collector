@@ -20,6 +20,7 @@ $(document).ready(function (e) {
 		var id = i;
 		var i = new post(item.title, item.desc, item.img, item.tags)
 		console.log(i);
+		appendlist(i);
 		print(i);
 	}
 

@@ -19,13 +19,24 @@ class post{
 }
 
 function appendlist(post){
-	article.append(post);
+	articles.push(post);
 }
 
 function print(_post) {
 	$(".main").append([_post].map(article_template).join(""));
 }
 
-function sort_tag(tag) {
+function clear(){
+	$(".article").remove();
+}
 
+function sort_tag(tag) {
+	clear()
+	for(var i in articles){
+		for(var j in articles[i].tags){
+			if(articles[i].tags[j] == "tag"){
+				print(article[i]);
+			}
+		}
+	}
 }

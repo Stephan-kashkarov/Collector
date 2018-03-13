@@ -11,21 +11,38 @@ class article {
 		return {
 			title: this.title,
 			img: this.img,
-			desc: this.desc
+			desc: this.desc,
+			id: this.id
 		};
 	};
+
 	append_article() {
 		var formatted = this.listify();
 		articles.push(formatted);
 		console.log("Article Pushed");
 	};
 	id() {
-		return this.id
+		return this.id;
 	};
+};
+
+function db() {
+	var database = window.localStorage.getItem("db");
+	console.log("Unstringified DB:", database);
+	var database = JSON.stringify(database);
+	console.log("Stringified DB:", database);
+	$.ajax({
+		url: "database/posts.json",
+		async: false,
+		method: "POST",
+		data: database
+	});
 };
 
 function print_posts() {
 	$(".article").remove();
+	window.localStorage.setItem("db", articles);
+	db()
 	console.log("Refreshing posts!");
 	if(articles != "") {
 		console.log("Articles not empty!");

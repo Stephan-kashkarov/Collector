@@ -22,7 +22,6 @@ $(document).ready(function (e) {
 		var articleid = "article" + String(items[i].id);
 		console.log("Id of article:", articleid);
 		var articleid = new article (items[i].id, items[i].title, items[i].desc, items[i].img);
-		console.log(articleid, articleid.listify());
 		articleid.append_article();
 		print_posts(articles);
 	}
@@ -47,8 +46,6 @@ $(document).ready(function (e) {
 		$(".new-desc").val("");
 		$(".new-title").val("");
 		$(".new-img").val("");
-		window.localStorage.clear();
-		window.localStorage.setItem(1, "articles");
 	});
 	$(".refresh-posts").click(function(e){
 		print_posts();

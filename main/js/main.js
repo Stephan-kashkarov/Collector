@@ -23,11 +23,19 @@ $(document).ready(function (e) {
 		appendlist(i);
 		print(i);
 	}
+	generate_dropdown(articles);
+
 
 
 	$(".refresh-posts").click(function(e){
 		console.log("refrshing posts");
-		tag = $(".tagsort").val();
-		sort_tag(tag)
+		console.log(articles);
+		tag = $(".tagoptions").val();
+		if (tag == "*"){
+			print_all()
+		}
+		else {
+			sort_tag(tag)
+		}
 	});
 });

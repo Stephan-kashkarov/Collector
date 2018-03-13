@@ -26,6 +26,8 @@ $(document).ready(function (e) {
 
 
 	$(".refresh-posts").click(function(e){
-
+		console.log("refrshing posts");
+		tag = $(".tagsort").val();
+		sort_tag(tag)
 	});
 });

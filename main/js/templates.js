@@ -7,7 +7,7 @@ const article_template = ({
 	<span>
 		${title}
 	</span>
-	<img src="${img}" width="100px" height="100px">
+	<img src="${img}" width="100px" height="100">
 	<p>${desc}</p>
 </li>
 `;

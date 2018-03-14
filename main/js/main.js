@@ -2,7 +2,7 @@ $(document).ready(function (e) {
 	var db = $.ajax({
 		url: 'database/posts.json',
 		async: false,
-		method: "POST",
+		method: "GET",
 		fail: function(){
 			console.log("Json failed to load!");
 		},

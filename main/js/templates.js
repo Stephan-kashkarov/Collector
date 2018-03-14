@@ -11,3 +11,11 @@ const article_template = ({
 	<p>${desc}</p>
 </li>
 `;
+
+const option_template = ({
+	title
+}) => `
+<option value="${title}">
+	${title}
+</option>
+`;

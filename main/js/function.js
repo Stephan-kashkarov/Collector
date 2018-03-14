@@ -41,13 +41,11 @@ function generate_dropdown(articles) {
 	console.log("Generating Tags");
 	for(var i = 0; i < articles.length; i++) {
 		for(var j = 0; j < articles[i].tags.length; j++) {
-			for(var k = 0; k < tag.length; k++) {
-				if(!tag.includes(articles[i].tags[j])) {
-					console.log("Compairing:", articles[i].tags[j], "which is a", typeof(articles[i].tags[j]),"and", tag, "which is a:", typeof(tag));
-					if(typeof articles[i].tags[j] != "undefined") {
-						tag.push(articles[i].tags[j]);
-						console.log("Pushing tag", articles[i].tags[j]);
-					}
+			if(!tag.includes(articles[i].tags[j])) {
+				console.log("Compairing:", articles[i].tags[j], "which is a", typeof (articles[i].tags[j]), "and", tag, "which is a:", typeof (tag));
+				if(typeof articles[i].tags[j] != "undefined") {
+					tag.push(articles[i].tags[j]);
+					console.log("Pushing tag", articles[i].tags[j]);
 				}
 			}
 		}
@@ -70,6 +68,7 @@ function print_all() {
 
 function sort_tag(tag) {
 	clear()
+	window.localStorage.setItem(lastdropdown, tag)
 	console.log("sorting by tag:", tag);
 	for(var i = 0; i < articles.length; i++) {
 		for(var j in articles[i].tags) {

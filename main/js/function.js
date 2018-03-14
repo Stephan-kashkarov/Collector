@@ -42,7 +42,6 @@ function generate_dropdown(articles) {
 	for(var i = 0; i < articles.length; i++) {
 		for(var j = 0; j < articles[i].tags.length; j++) {
 			if(!tag.includes(articles[i].tags[j])) {
-				console.log("Compairing:", articles[i].tags[j], "which is a", typeof (articles[i].tags[j]), "and", tag, "which is a:", typeof (tag));
 				if(typeof articles[i].tags[j] != "undefined") {
 					tag.push(articles[i].tags[j]);
 					console.log("Pushing tag", articles[i].tags[j]);
@@ -50,11 +49,9 @@ function generate_dropdown(articles) {
 			}
 		}
 	}
-	console.log(tag);
 	for(var i = 0; i < tag.length; i++) {
 		var thing = new _tag(tag[i]);
-		console.log("adding tag to dropdown:", [thing]);
-		console.log([thing].map(option_template).join(""));
+		console.log("adding tag to dropdown:", tag[i]);
 		$(".tagoptions").append([thing].map(option_template).join(""));
 	}
 }

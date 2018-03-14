@@ -14,8 +14,8 @@ const article_template = ({
 
 const option_template = ({
 	title
-}) =>`
+}) => `
 <option value="${title}">
 	${title}
 </option>
-`
+`;

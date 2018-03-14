@@ -1,5 +1,5 @@
 var articles = [];
-var tag = ["*"];
+var tag = [];
 
 class post {
 	constructor(title, desc, img = "", tags) {
@@ -16,6 +16,12 @@ class post {
 			"desc": this.desc
 		}
 		return objform;
+	}
+}
+
+class _tag {
+	constructor(title) {
+		this.title = title;
 	}
 }
 
@@ -36,7 +42,8 @@ function generate_dropdown(articles) {
 	for(var i = 0; i < articles.length; i++) {
 		for(var j = 0; j < articles[i].tags.length; j++) {
 			for(var k = 0; k < tag.length; k++) {
-				if(!articles[i].tags[j].includes(tag[k])) {
+				if(!tag.includes(articles[i].tags[j])) {
+					console.log("Compairing:", articles[i].tags[j], "which is a", typeof(articles[i].tags[j]),"and", tag, "which is a:", typeof(tag));
 					if(typeof articles[i].tags[j] != "undefined") {
 						tag.push(articles[i].tags[j]);
 						console.log("Pushing tag", articles[i].tags[j]);
@@ -47,8 +54,10 @@ function generate_dropdown(articles) {
 	}
 	console.log(tag);
 	for(var i = 0; i < tag.length; i++) {
-		console.log("adding tag to dropdown:", tag[i]);
-		$(".tagoptions").append([tag[i]].map(option_template).join(""));
+		var thing = new _tag(tag[i]);
+		console.log("adding tag to dropdown:", [thing]);
+		console.log([thing].map(option_template).join(""));
+		$(".tagoptions").append([thing].map(option_template).join(""));
 	}
 }
 

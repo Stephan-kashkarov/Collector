@@ -26,8 +26,6 @@ $(document).ready(function (e) {
 	}
 	generate_dropdown(articles);
 
-
-
 	$(".refresh-posts").click(function(e){
 		console.log("refrshing posts");
 		console.log(articles);

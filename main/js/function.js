@@ -45,7 +45,7 @@ function generate_dropdown(articles){
 	}
 	for (var i = 0; i < tag.length; i++) {
 		console.log("adding tag to dropdown:", tags[i]);
-		$(".tagoptions").append([tags[i]].map(options_template).join(""));
+		$(".tagoptions").append([tag[i]].map(options_template).join(""));
 	}
 }
 

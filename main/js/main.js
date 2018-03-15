@@ -3,19 +3,19 @@ $(document).ready(function (e) {
 		url: 'database/posts.json',
 		async: false,
 		method: "GET",
-		fail: function(){
+		fail: function () {
 			console.log("Json failed to load!");
 		},
-		error: function(xhr, text){
+		error: function (xhr, text) {
 			console.log("Error log: " + xhr.status + " " + xhr.statusText);
 		},
-		done: function(){
+		done: function () {
 			console.log("AJAX operation complete!");
 		}
 	});
 
 	var items = JSON.parse(db.responseText);
-	for (var i in items) {
+	for(var i in items) {
 		console.log(items[i]);
 		var item = items[i];
 		var id = i;
@@ -26,14 +26,13 @@ $(document).ready(function (e) {
 	}
 	generate_dropdown(articles);
 
-	$(".refresh-posts").click(function(e){
+	$(".refresh-posts").click(function (e) {
 		console.log("refrshing posts");
 		console.log(articles);
 		tag = $(".tagoptions").val();
-		if (tag == "*"){
+		if(tag == "*") {
 			print_all()
-		}
-		else {
+		} else {
 			sort_tag(tag)
 		}
 	});

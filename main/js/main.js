@@ -26,6 +26,11 @@ $(document).ready(function (e) {
 	}
 	generate_dropdown(articles);
 
+	if (window.localStorage.length != 0){
+		$(".tagoptions").val(window.localStorage.getItem("lastdropdown"));
+		sort_tag(window.localStorage.getItem("lastdropdown"));
+	}
+
 	$(".refresh-posts").click(function (e) {
 		console.log("refrshing posts");
 		console.log(articles);

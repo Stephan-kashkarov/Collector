@@ -65,8 +65,8 @@ function print_all() {
 
 function sort_tag(tag) {
 	clear()
-	var lastdropdown = $(".tagoptions").value;
-	window.localStorage.setItem(lastdropdown, tag)
+	console.log(tag);
+	window.localStorage.setItem("lastdropdown", tag)
 	console.log("sorting by tag:", tag);
 	for(var i = 0; i < articles.length; i++) {
 		for(var j in articles[i].tags) {

@@ -1,0 +1,12 @@
+nav{
+	background-color: #FCE3FF;
+	height: 10%;
+	width: 100%;
+}
+nav h1, nav img {
+	float: left;
+	padding: 40px;
+}
+nav select, nav button {
+	float: right;
+}

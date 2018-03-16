@@ -1,12 +1,43 @@
+
+/* NAVIGATION BAR */
 nav{
 	background-color: #FCE3FF;
-	height: 10%;
+	height: 120px;
 	width: 100%;
 }
 nav h1, nav img {
 	float: left;
+	font-size: 40px;
+	font-family: 'IBM Plex Mono', monospace;
+}
+nav select {
+	float: right;
+	font-family: 'IBM Plex Mono', monospace;
+	width: 30%;
+	height: 40px;
+	color: #403B40;
+}
+
+nav button {
+	width: 70px;
+	height: 40px;
+	float: right;
+	font-size: 20px;
+	font-family: 'IBM Plex Mono', monospace;
+	color: #403B40;
+}
+
+.nav-wrapper {
+	height: 40px;
 	padding: 40px;
 }
-nav select, nav button {
-	float: right;
+
+/* MAIN */
+
+/* FOOTER */
+
+/* MISC */
+.main-wrapper {
+	width: 80%;
+	margin: 0 10% 0 10%;
 }

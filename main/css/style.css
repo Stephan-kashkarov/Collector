@@ -30,6 +30,7 @@ nav button {
 .nav-wrapper {
 	height: 40px;
 	padding: 40px;
+	margin: 0 10% 0 10%;
 }
 
 /* MAIN */

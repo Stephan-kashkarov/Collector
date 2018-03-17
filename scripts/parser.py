@@ -47,9 +47,10 @@ with open("../data/artistcsvdata.csv", newline="") as data:
 				cascade_all(last_name, line)
 				artist_profile(line)
 				art_profile(line)
-			else:
 				cascade_art()
+			else:
 				art_profile(line)
+				cascade_art()
 
 		if x == 20:
 			break

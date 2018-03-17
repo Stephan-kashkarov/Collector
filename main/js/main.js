@@ -1,43 +1,50 @@
 $(document).ready(function (e) {
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
 
 
 	console.log("Contents of ajaxed file(s):",db.responseText);
+=======
+	var db = $.ajax({
+		url: 'database/posts.json',
+		async: false,
+		method: "GET",
+		fail: function(){
+			console.log("Json failed to load!");
+		},
+		error: function(xhr, text){
+			console.log("Error log: " + xhr.status + " " + xhr.statusText);
+		},
+		done: function(){
+			console.log("AJAX operation complete!");
+		}
+	});
+
+>>>>>>> bd99b0d5f358ac9fc6c0b1715bd44ad6304e818e
 	var items = JSON.parse(db.responseText);
 	for (var i in items) {
-		console.log("Appending and printing:", items[i]);
-		var articleid = "article" + String(items[i].id);
-		console.log("Id of article:", articleid);
-		var articleid = new article (items[i].id, items[i].title, items[i].desc, items[i].img);
-		articleid.append_article();
-		print_posts(articles);
+		console.log(items[i]);
+		var item = items[i];
+		var id = i;
+		var i = new post(item.title, item.desc, item.img, item.tags)
+		console.log(i);
+		appendlist(i);
+		print(i);
 	}
+	generate_dropdown(articles);
 
-	if(localStorage.lenght) {
-		for(var i=0; i < localStorage.length; i++) {
-			console.log("localStorage: " + localStorage.key(i));
-		}
-	}
-	$(".edit").submit(function (e) {
-		event.preventDefault();
-		var id = articles.length + 1;
-		var idnum = articles.length + 1;
-		var articleid = "article" + String(id);
-		var new_img = $(".img").val();
-		var new_title = $(".new-title").val();
-		var new_desc = $(".new-desc").val();
-		var id = new article (id, new_title, new_desc, new_img);
-		console.log(id, id.listify());
-		id.append_article();
-		print_posts();
-		$(".new-desc").val("");
-		$(".new-title").val("");
-		$(".new-img").val("");
-	});
 	$(".refresh-posts").click(function(e){
-		print_posts();
+		console.log("refrshing posts");
+		console.log(articles);
+		tag = $(".tagoptions").val();
+		if (tag == "*"){
+			print_all()
+		}
+		else {
+			sort_tag(tag)
+		}
 	});
 >>>>>>> parent of b4baa65... did things
 });

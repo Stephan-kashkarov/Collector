@@ -1,0 +1,16 @@
+{
+	"article1": {
+		"title": "Hello World!",
+		"desc": "This is the first post on this website!",
+		"img": "",
+		"id": 0,
+		"tags": ["Shout", "initial"]
+	},
+	"article2":{
+		"title": "Hello Programmer",
+		"desc": "This is the second post",
+		"img": "",
+		"id": 1,
+		"tags": ["Echo","initial"]
+	}
+}

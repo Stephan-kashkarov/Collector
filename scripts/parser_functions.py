@@ -7,4 +7,5 @@ def cascade(last_name, line):
 def artist_profile(line):
 	artist_cache["last_name"] = line[0][1:]
 	artist_cache["first_name"] = line[1][1:-1]
-	artist_cache[]
+	artist_cache["born"] = [line[3][1:], line[2][5:]]
+	artist_cache["died"] = [line[5][1:-2], line[4][3:]]

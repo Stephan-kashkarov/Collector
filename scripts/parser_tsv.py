@@ -63,8 +63,18 @@ def art_profile(line, art_cache):
         black_list.append(last_name)
 
 
-with open("../data/artist.tsv") as data:
-	data = data.split("\n")
-	for line in data:
-		line = line.split("\t")
-		if prev_name == "":
+with open("../data/artist.tsv", "r") as data:
+    for line in csv.reader(data, dialect="excel-tab"):
+        if x != 1:
+            print(line)
+            for data in line:
+                data = data.split("\t")
+                if x == 10:
+                    break
+                else:
+                    x += 1
+                # if last_name == "":
+                #     last_name
+                #
+
+print(data)

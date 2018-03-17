@@ -19,6 +19,7 @@ def next_field(list, pos):
 
     return their_title, pos
 
+
 writer = open('../data/processed.txt', 'w')
 artist_index = 0
 with open('../data/artistcsvdata.csv', newline='\n', encoding='utf-8') as f:
@@ -27,8 +28,8 @@ with open('../data/artistcsvdata.csv', newline='\n', encoding='utf-8') as f:
 
 for line in lines:
     fields = line.split(',')
-    num_fields=len(fields) 
-    pos=0
+    num_fields = len(fields)
+    pos = 0
     name, pos = next_field(fields, pos)
     if len(name) == 0:
         continue

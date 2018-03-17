@@ -1,6 +1,8 @@
 # MODULE IMPORTS
 import json
-import csv
+#import csv
+import unicodecsv as csv
+#from io import BytesIO
 
 # VARIABLE DEFINITION
 x = 0
@@ -11,7 +13,6 @@ art_list = []
 last_name = ""
 current_name = ""
 black_list = []
-
 
 def cascade_art(art_list, art_cache):
 	art_list.append(art_cache)  # APPEND DICTIONARY OF ARTWORK TO LIST
@@ -60,9 +61,9 @@ def art_profile(line, art_cache):
 	except:  # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
 		black_list.append(last_name)
 
-
-with open("../data/artist.tsv", "r") as data:
-	for line in csv.reader(data, dialect="excel-tab"):
+with open('../data/artist.tsv', newline='', encoding='utf-8') as f:
+	r = csv.reader(f, dialect="excel-tab")
+	for line in r:
 		if x != 0:
 			print(line)
 			break

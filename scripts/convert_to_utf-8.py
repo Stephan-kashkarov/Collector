@@ -1,18 +1,3 @@
-def author(list, pos):
-    curent_pos = pos
-    name = ""
-    if list[pos].startswith('\"'):
-        name = name + list[pos]
-        pos += 1
-        if list[pos].endswith('\"'):
-            name += list[pos]
-            pos += 1
-            name = name[1:-1]
-    # else:
-    #     print("Wrong position, cannot extract artist's name")
-
-    return name, pos
-
 def next_field(list, pos):
     curent_pos = pos
     their_title = ""
@@ -36,7 +21,7 @@ def next_field(list, pos):
 
 writer = open('../data/processed.txt', 'w')
 artist_index = 0
-with open('../data/artist-database-index.csv', newline='\n', encoding='utf-8') as f:
+with open('../data/artistcsvdata.csv', newline='\n', encoding='utf-8') as f:
     data = f.read()
     lines = data.split('\n')
 
@@ -44,7 +29,7 @@ for line in lines:
     fields = line.split(',')
     num_fields=len(fields) 
     pos=0
-    name, pos = author(fields, pos)
+    name, pos = next_field(fields, pos)
     if len(name) == 0:
         continue
 

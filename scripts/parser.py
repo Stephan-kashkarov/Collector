@@ -23,9 +23,9 @@ def cascade_all(last_name, line, artist_cache, parsed_data, art_cache, art_list)
 	artist_cache["art"] = art_list # ADDS ART LIST AS A ATTRIBUTE OF THE ARTIST
 	parsed_data[last_name] = artist_cache # ADDS THE ARTIST TO THE FINAL LIST
 	# CLEARING OF ALL CACHES
-	print("Art Cache:", art_cache)
-	print("Artist Cache:", artist_cache)
-	print("Art list:", art_list)
+	# print("Art Cache:", art_cache)
+	# print("Artist Cache:", artist_cache)
+	# print("Art list:", art_list)
 	art_cache = {}
 	artist_cache = {}
 	art_list = []
@@ -42,45 +42,59 @@ def artist_profile(line, artist_cache, last_name):
 		art_profile(line, art_cache)
 	except IndexError: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
 		black_list.append(last_name)
+	except UnicodeDecodeError:
+		black_list.append(last_name)
 
 # CREATES A DICTIONARY FOR THE SPECIFIC WORK OF ART
 def art_profile(line, art_cache):
-	# ALL OF THE DATA IS SEPARATED INTO CATAGORIES
-	art_cache["piece"] = line[6]
-	art_cache["date"] = line[7]
-	art_cache["technique"] = line[8][1:] + line[9][:-1]
-	art_cache["location"] = line[10][1:] + line[11][:-1]
-	art_cache["url"] = line[12]
-	art_cache["type"] = line[13]
-	art_cache["theme"] = line[14]
+	try: # RUNS EXEPTION FOR INDEX ERROR
+		# ALL OF THE DATA IS SEPARATED INTO CATAGORIES
+		art_cache["piece"] = line[6]
+		art_cache["date"] = line[7]
+		art_cache["technique"] = line[8][1:] + line[9][:-1]
+		art_cache["location"] = line[10][1:] + line[11][:-1]
+		art_cache["url"] = line[12]
+		art_cache["type"] = line[13]
+		art_cache["theme"] = line[14]
+	except IndexError: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
+		black_list.append(last_name)
+	except UnicodeDecodeError:
+		black_list.append(last_name)
 
 #MAIN LOOP
 with open("../data/artistcsvdata.csv", newline="") as data: # OPENS THE CSV FILE
 	linereader = csv.reader(data, delimiter=",", quotechar="|") # FORMATS THE CSV FILE
 	for line in linereader: # LOOPS THROUGH CSV FILE
-		if x > 0: # LIMITER
-			if last_name == "": # FIRST LOOP CHECK
-				last_name = line[0][1:]+ " " + line[1][1:-1] # LAST NAME DEFINED
-			current_name = line[0][1:]+ " " + line[1][1:-1] # FIRST NAME DEFINED
-			if current_name != last_name: # CHECKS FOR NEW AUTHOR
-				if current_name not in black_list: #CHECKS FOR BLACKLIST
-					old_name = last_name # STORES OLD LAST NAME
-					last_name = current_name # CHANGES LAST ARTIST
-					cascade_all(last_name, line, artist_cache, parsed_data, art_cache, art_list) # WHIPES CACHE
-					artist_profile(line, artist_cache, last_name) # MAKES AN ARTIST PROFILE
+		print(x)
+		if last_name == "": # FIRST LOOP CHECK
+			last_name = line[0][1:]+ " " + line[1][1:-1] # LAST NAME DEFINED
+		current_name = line[0][1:]+ " " + line[1][1:-1] # FIRST NAME DEFINED
+		if current_name != last_name: # CHECKS FOR NEW AUTHOR
+			if current_name not in black_list: #CHECKS FOR BLACKLIST
+				old_name = last_name # STORES OLD LAST NAME
+				last_name = current_name # CHANGES LAST ARTIST
+				cascade_all(last_name, line, artist_cache, parsed_data, art_cache, art_list) # WHIPES CACHE
+				if artist_cache != {} or art_cache != {} or art_list != []:
+					artist_cache = {}
+					art_cache = {}
+					art_list = []
+				artist_profile(line, artist_cache, last_name) # MAKES AN ARTIST PROFILE
+				if last_name not in black_list: # CHECKS IF ARTIST PROFILE TRIGGERED INDEX ERROR
+					art_profile(line, art_cache) # MAKES A POST FOR CURRENT ART
 					if last_name not in black_list: # CHECKS IF ARTIST PROFILE TRIGGERED INDEX ERROR
-						art_profile(line, art_cache) # MAKES A POST FOR CURRENT ART
 						cascade_art(art_list, art_cache) # ADDS THAT PIECE TO LIST
+						if artist_cache != {} or art_cache != {} or art_list != []:
+							art_cache = {}
 					else: # SKIPS BLACKLISTED AUTHOR
 						last_name = old_name
-			else: # IF SAME USER AS LAST TIME
-				art_profile(line, art_cache) # MAKES AN ART PROFILE
-				cascade_art(art_list, art_cache) # COMMITS IT TO LIST
-
-		if x == 10:# lIMITER
-			break # LIMIT
-		else:
-			x+= 1
+				else: # SKIPS BLACKLISTED AUTHOR
+					last_name = old_name
+		else: # IF SAME USER AS LAST TIME
+			art_profile(line, art_cache) # MAKES AN ART PROFILE
+			cascade_art(art_list, art_cache) # COMMITS IT TO LIST
+			if artist_cache != {} or art_cache != {} or art_list != []:
+				art_cache = {}
+		x += 1
 
 with open("../data/artists.json", "w") as outfile: # SETS JSON FILE AS WRITE
 	json.dump(parsed_data, outfile) # DUMPS DATA TO JSON FILE

@@ -40,9 +40,7 @@ def artist_profile(line, artist_cache, last_name):
 		artist_cache["died"] = [line[5][1:-2], line[4][3:]]
 		artist_cache["school"] = line[-2]
 		art_profile(line, art_cache)
-	except IndexError: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
-		black_list.append(last_name)
-	except UnicodeDecodeError:
+	except: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
 		black_list.append(last_name)
 
 # CREATES A DICTIONARY FOR THE SPECIFIC WORK OF ART
@@ -56,9 +54,7 @@ def art_profile(line, art_cache):
 		art_cache["url"] = line[12]
 		art_cache["type"] = line[13]
 		art_cache["theme"] = line[14]
-	except IndexError: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
-		black_list.append(last_name)
-	except UnicodeDecodeError:
+	except: # IF ERROR ARTIST IS ADDED TO THE UNFORMATTED BLACKLIST
 		black_list.append(last_name)
 
 #MAIN LOOP
@@ -66,6 +62,8 @@ with open("../data/artistcsvdata.csv", newline="") as data: # OPENS THE CSV FILE
 	linereader = csv.reader(data, delimiter=",", quotechar="|") # FORMATS THE CSV FILE
 	for line in linereader: # LOOPS THROUGH CSV FILE
 		print(x)
+		if x == 420:
+			break
 		if last_name == "": # FIRST LOOP CHECK
 			last_name = line[0][1:]+ " " + line[1][1:-1] # LAST NAME DEFINED
 		current_name = line[0][1:]+ " " + line[1][1:-1] # FIRST NAME DEFINED

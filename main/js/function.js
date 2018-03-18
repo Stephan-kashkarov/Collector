@@ -35,6 +35,28 @@ class artist_full {
 
 
 	print_art(name) {
+		for (var i = 0; i < object["art"].length; i++) {
+			piece = object["art"][i]["title"];
+			if piece == name {
+				obj = new art(piece)
+				obj.print()
+			}
+		}
+	}
+}
+
+class art {
+	constructor(object) {
+		this.title = object["title"];
+		this.date = object["date"];
+		this.technique = object["technique"];
+		this.location = object["url"];
+		this.form = object["form"];
+		this.painting_type = object["painting_type"];
+		this.index = object["index"];
+	}
+
+	print(){
 
 	}
 }

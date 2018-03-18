@@ -1,12 +1,6 @@
 $(document).ready(function (e) {
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
-
 
 	console.log("Contents of ajaxed file(s):",db.responseText);
-=======
 	var db = $.ajax({
 		url: 'database/posts.json',
 		async: false,
@@ -22,7 +16,6 @@ $(document).ready(function (e) {
 		}
 	});
 
->>>>>>> bd99b0d5f358ac9fc6c0b1715bd44ad6304e818e
 	var items = JSON.parse(db.responseText);
 	for (var i in items) {
 		console.log(items[i]);
@@ -46,5 +39,4 @@ $(document).ready(function (e) {
 			sort_tag(tag)
 		}
 	});
->>>>>>> parent of b4baa65... did things
 });

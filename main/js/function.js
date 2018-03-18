@@ -35,13 +35,10 @@ class _tag {
 		return this.id;
 	};
 };
-<<<<<<< HEAD
-=======
-=======
+
 function appendlist(post) {
 	articles.push(post);
 }
->>>>>>> bd99b0d5f358ac9fc6c0b1715bd44ad6304e818e
 
 function print(_post) {
 	$(".main").append([_post].map(article_template).join(""));
@@ -83,8 +80,6 @@ class database {
 		this.db = ajaxdb;
 	};
 };
->>>>>>> parent of b4baa65... did things
-=======
 function sort_tag(tag) {
 	clear()
 	window.localStorage.setItem(lastdropdown, tag)
@@ -97,4 +92,3 @@ function sort_tag(tag) {
 		}
 	}
 }
->>>>>>> bd99b0d5f358ac9fc6c0b1715bd44ad6304e818e

@@ -1,0 +1,29 @@
+{
+    "name": "PYNAS Jan Symonsz.",
+    "life": "(b. ca. 1581 Alkmaar d. 1631 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Aaron Changes the Water of the Nile into Blood",
+            "date": "1610",
+            "technique": "Oil on panel 69 x 169 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/pynas/jan/aaron.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32651
+        },
+        {
+            "title": "Historical Allegory",
+            "date": "1605-10",
+            "technique": "Oil on wood 32 x 52 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pynas/jan/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 32652
+        },
+        {}
+    ]
+}

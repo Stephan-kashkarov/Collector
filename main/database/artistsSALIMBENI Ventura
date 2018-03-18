@@ -1,0 +1,59 @@
+{
+    "name": "SALIMBENI Ventura",
+    "life": "(b. 1568 Siena d. 1613 Siena)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Annunciation",
+            "date": "c. 1605",
+            "technique": "Oil on wood 428 x 29 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/salimben/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36022
+        },
+        {
+            "title": "St Catherine of Alexandria",
+            "date": "1606",
+            "technique": "Oil on canvas 127 x 96 cm",
+            "location": "Museo Nazionale di Palazzo Mansi Lucca",
+            "url": "https://www.wga.hu/html/s/salimben/catheri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36023
+        },
+        {
+            "title": "St Catherine of Alexandria (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas",
+            "location": "Museo Nazionale di Palazzo Mansi Lucca",
+            "url": "https://www.wga.hu/html/s/salimben/catheri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36024
+        },
+        {
+            "title": "Descent into Limbo",
+            "date": "1600-10",
+            "technique": "Oil on canvas 69 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/salimben/descent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36025
+        },
+        {
+            "title": "Descent into Limbo (detail)",
+            "date": "1600-10",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/salimben/descent1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36026
+        },
+        {}
+    ]
+}

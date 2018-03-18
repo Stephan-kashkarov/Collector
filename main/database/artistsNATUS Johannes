@@ -1,0 +1,29 @@
+{
+    "name": "NATUS Johannes",
+    "life": "(active 1658-1662 in Middelburg)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Peasants Smoking and Making Music in an Inn",
+            "date": "1660",
+            "technique": "Oil on panel 52 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/natus/peasants.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29434
+        },
+        {
+            "title": "An Interior with Card Players and a Blacksmith",
+            "date": "1661",
+            "technique": "Oil on oak panel 54 x 51 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/n/natus/players.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29435
+        },
+        {}
+    ]
+}

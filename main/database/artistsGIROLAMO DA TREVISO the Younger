@@ -1,0 +1,39 @@
+{
+    "name": "GIROLAMO DA TREVISO the Younger",
+    "life": "(b. ca. 1497 Treviso d. 1544 Boulogne-sur-Mer)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "A Protestant Allegory",
+            "date": "1542-44",
+            "technique": "Oil on panel 68 x 844 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/g/girolamo/treviso/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16730
+        },
+        {
+            "title": "Holy Family",
+            "date": "-",
+            "technique": "Oil on panel 72 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/girolamo/treviso/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16731
+        },
+        {
+            "title": "Sleeping Venus",
+            "date": "c. 1523",
+            "technique": "Oil on canvas 130 x 213 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/g/girolamo/treviso/sleeping.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16732
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "LAMPI Johann Baptist I",
+    "life": "(b. 1751 Romeno d. 1830 Wien)",
+    "school": "Austrian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of Catherine II with Allegorical Figures of Strength and Truth",
+            "date": "1793",
+            "technique": "Oil on canvas 290 x 208 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lampi/father/catheri.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21412
+        },
+        {
+            "title": "Portrait of Catherine II",
+            "date": "1794",
+            "technique": "Oil on canvas 230 x 132 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lampi/father/catherin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21413
+        },
+        {
+            "title": "Portrait of a Pastor",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lampi/father/pastor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21414
+        },
+        {
+            "title": "Count Stanislas Felix Potocki and his Two Sons",
+            "date": "1789-90",
+            "technique": "Oil on canvas 138 x 119 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lampi/father/potocki.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21415
+        },
+        {
+            "title": "Portrait of Charles Whitworth",
+            "date": "1789",
+            "technique": "Oil on canvas 99 x 79 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lampi/father/whitwort.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21416
+        },
+        {
+            "title": "Portrait of Prince Nikolai Yusupov with a Dog",
+            "date": "1780s",
+            "technique": "Oil on canvas 61 x 58 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lampi/father/yusupov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21417
+        },
+        {}
+    ]
+}

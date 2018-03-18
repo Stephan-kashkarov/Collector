@@ -1,0 +1,29 @@
+{
+    "name": "EGERI Carl von",
+    "life": "(b. ca. 1510 ? d. 1562 Z\u00fcrich)",
+    "school": "Swiss",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Stained-Glass Panel",
+            "date": "1551",
+            "technique": "Coloured and transparent glass 43 x 22 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/e/egeri/stained1.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 13113
+        },
+        {
+            "title": "Stained-Glass Panel",
+            "date": "1542",
+            "technique": "Coloured and transparent glass 42 x 33 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/e/egeri/stained2.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 13114
+        },
+        {}
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "BURGKMAIR Hans",
+    "life": "(b. 1473 Augsburg d. 1531 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Crucifix with Mary Mary Magdalen and St John the Evangelist",
+            "date": "1519",
+            "technique": "Oil on wood 179 x 166 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/burgkmai/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6854
+        },
+        {
+            "title": "The Story of Esther",
+            "date": "1528",
+            "technique": "Panel 103 x 156 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/burgkmai/esther.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6855
+        },
+        {
+            "title": "Holy Family with the Child St John",
+            "date": "c. 1525",
+            "technique": "Oil on wood 742 x 535 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/burgkmai/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6856
+        },
+        {
+            "title": "Madonna with Grape",
+            "date": "1510",
+            "technique": "Oil on wood",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/burgkmai/madgrape.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6857
+        },
+        {
+            "title": "St John Altarpiece",
+            "date": "1518",
+            "technique": "Wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/burgkmai/patmos.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6858
+        },
+        {
+            "title": "St John Altarpiece: St John the Evangelist in Patmos (central panel)",
+            "date": "1518",
+            "technique": "Wood 153 x 127 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/burgkmai/patmos1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6859
+        },
+        {
+            "title": "Barbara and Hans Schellenberger",
+            "date": "1505-07",
+            "technique": "Limewood 415 x 28 cm (each)",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/b/burgkmai/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6860
+        },
+        {
+            "title": "Gypsies in the Market",
+            "date": "c. 1510",
+            "technique": "Pen and ink drawing 220 x 320 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/b/burgkmai/xgypsies.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 6861
+        },
+        {
+            "title": "Emperor Maximilian on Horseback",
+            "date": "1508",
+            "technique": "Tonal woodcut 317 x 225 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/b/burgkmai/zemperor.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 6862
+        },
+        {
+            "title": "Portrait of Johannes Paumgartner",
+            "date": "1516",
+            "technique": "Colour woodcut 294 x 243 mm",
+            "location": "Kupferstichkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/burgkmai/zpaumgar.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 6863
+        },
+        {
+            "title": "Portrait of Jacob Fugger",
+            "date": "1510-12",
+            "technique": "Chiaroscuro woodcut using two blocks 210 x 145 mm",
+            "location": "Kupferstichkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/burgkmai/zportrai.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 6864
+        },
+        {}
+    ]
+}

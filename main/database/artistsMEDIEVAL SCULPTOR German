@@ -1,0 +1,809 @@
+{
+    "name": "MEDIEVAL SCULPTOR German",
+    "life": "(active 1120s)",
+    "school": "German",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Capital with figural decoration",
+            "date": "1120s",
+            "technique": "Stone",
+            "location": "St Servatius Quedlinburg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c1/4g1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25626
+        },
+        {
+            "title": "Capital with mask and dragons",
+            "date": "1150-75",
+            "technique": "Stone",
+            "location": "Church of Sts Simon and Jude Goslar",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/2g1_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25627
+        },
+        {
+            "title": "Capital with mask and dragons",
+            "date": "1150-75",
+            "technique": "Stone",
+            "location": "Church of Sts Simon and Jude Goslar",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/2g1_1168.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25628
+        },
+        {
+            "title": "Capital with foliage and heads",
+            "date": "1180s",
+            "technique": "Stone",
+            "location": "St Michael Hildesheim",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/2g2_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25629
+        },
+        {
+            "title": "Capital with bearded mask and heads",
+            "date": "c. 1200",
+            "technique": "Stone",
+            "location": "Church of St John the Baptist Spieskappel",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/2g3_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25630
+        },
+        {
+            "title": "Man in vine foliage",
+            "date": "c. 1240",
+            "technique": "Stone",
+            "location": "Protestant parish church Gelnhausen",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/2g1_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25631
+        },
+        {
+            "title": "North portal",
+            "date": "c. 1190",
+            "technique": "Stone",
+            "location": "Church of St James Regensburg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/3g1_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25632
+        },
+        {
+            "title": "Animal column",
+            "date": "c. 1200",
+            "technique": "Stone height 259 cm",
+            "location": "Cathedral of St Mary and St Corbinian Freising",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/3g2_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25633
+        },
+        {
+            "title": "Golden Gate",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Freiberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g1_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25634
+        },
+        {
+            "title": "Princes' Portal",
+            "date": "1225-37",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g2_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25635
+        },
+        {
+            "title": "Last Judgment",
+            "date": "1225-37",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g2_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25636
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g3_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25637
+        },
+        {
+            "title": "Wise Virgins",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Magdeburg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g4_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25638
+        },
+        {
+            "title": "Foolish Virgins",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Magdeburg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g4_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25639
+        },
+        {
+            "title": "Main portal",
+            "date": "1280-1300",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g5_1251.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25640
+        },
+        {
+            "title": "Stories of the Passion",
+            "date": "1280-1300",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g5_1252.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25641
+        },
+        {
+            "title": "The King of the World and the Foolish Virgins",
+            "date": "1280-1300",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g5_1253.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25642
+        },
+        {
+            "title": "Christ and the Wise Virgins",
+            "date": "1280-1300",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/3g5_1254.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25643
+        },
+        {
+            "title": "Tombstone of Rudolf of Swabia",
+            "date": "1090s",
+            "technique": "Bronze",
+            "location": "Church of St John the Baptist and St Lawrence Merseburg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25644
+        },
+        {
+            "title": "Font",
+            "date": "c. 1100",
+            "technique": "Stone",
+            "location": "Protestant church Freudenstadt",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25645
+        },
+        {
+            "title": "Burial chamber (western outer wall)",
+            "date": "1100-30",
+            "technique": "Stone",
+            "location": "Church of St Cyriakus Gernrode",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g3_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25646
+        },
+        {
+            "title": "Burial chamber (interior)",
+            "date": "1100-30",
+            "technique": "Stone",
+            "location": "Church of St Cyriakus Gernrode",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g4_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25647
+        },
+        {
+            "title": "Tombstone of Rheinhildis",
+            "date": "1130-35",
+            "technique": "Sandstone",
+            "location": "Church of St Calixtus Riesenbeck",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g5_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25648
+        },
+        {
+            "title": "Font",
+            "date": "c. 1225",
+            "technique": "Bronze height 173 cm diameter 97 cm",
+            "location": "Cathedral Hildesheim",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g6_1200.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25649
+        },
+        {
+            "title": "Font",
+            "date": "c. 1225",
+            "technique": "Bronze height 173 cm diameter 97 cm",
+            "location": "Cathedral Hildesheim",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g6_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25650
+        },
+        {
+            "title": "Font (detail)",
+            "date": "c. 1225",
+            "technique": "Bronze",
+            "location": "Cathedral Hildesheim",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g6_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25651
+        },
+        {
+            "title": "Font (detail)",
+            "date": "c. 1225",
+            "technique": "Bronze",
+            "location": "Cathedral Hildesheim",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g6_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25652
+        },
+        {
+            "title": "Tomb slab of Archbishop Siegfried III van Epstein",
+            "date": "after 1249",
+            "technique": "Stone",
+            "location": "Cathedral of St. Martin and St. Stephen Mainz",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g7_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25653
+        },
+        {
+            "title": "Tomb of Henry the Lion and his Wife Matilda",
+            "date": "1230s",
+            "technique": "Limestone",
+            "location": "Cathedral Braunschweig",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g8_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25654
+        },
+        {
+            "title": "Tomb of Henry the Lion (detail)",
+            "date": "1230s",
+            "technique": "Limestone",
+            "location": "Cathedral Braunschweig",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g8_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25655
+        },
+        {
+            "title": "St Elizabeth",
+            "date": "1225-37",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g9_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25656
+        },
+        {
+            "title": "Synagoga",
+            "date": "1225-37",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/1g9_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25657
+        },
+        {
+            "title": "Owl tower (detail)",
+            "date": "1100-20",
+            "technique": "Stone",
+            "location": "Monastery Calw-Hirsau",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g1_1100.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25658
+        },
+        {
+            "title": "Lion Taking a Lamb",
+            "date": "c. 1140",
+            "technique": "Stone",
+            "location": "Monastery Church Mariental",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25659
+        },
+        {
+            "title": "Devil Noting down Man's Sins",
+            "date": "c. 1210",
+            "technique": "Limestone",
+            "location": "Minster of St Martin Bonn",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25660
+        },
+        {
+            "title": "Angel Noting down Man's Good Deeds",
+            "date": "c. 1210",
+            "technique": "Limestone",
+            "location": "Minster of St Martin Bonn",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g3_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25661
+        },
+        {
+            "title": "Two Apostles",
+            "date": "1210-20",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g4_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25662
+        },
+        {
+            "title": "Head of the Prophet Jonah",
+            "date": "1210s",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/2g5_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25663
+        },
+        {
+            "title": "Death of the Virgin",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/15g_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25664
+        },
+        {
+            "title": "Death of the Virgin (detail)",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/15g_1231.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25665
+        },
+        {
+            "title": "South portal",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1229.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25666
+        },
+        {
+            "title": "Ecclesia",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25667
+        },
+        {
+            "title": "Synagogue",
+            "date": "c. 1230",
+            "technique": "Stone height 193 cm",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1231.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25668
+        },
+        {
+            "title": "Synagoga",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1232.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25669
+        },
+        {
+            "title": "Synagoga",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1233.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25670
+        },
+        {
+            "title": "Synagoga",
+            "date": "c. 1230",
+            "technique": "Stone height 193 cm",
+            "location": "Mus\u00e9e de l'Oeuvre Notre-Dame Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1234.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25671
+        },
+        {
+            "title": "Angels' Pillar",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25672
+        },
+        {
+            "title": "Angels' Pillar (detail)",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1231.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25673
+        },
+        {
+            "title": "Angels' Pillar (detail)",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1232.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25674
+        },
+        {
+            "title": "Angels' Pillar (detail)",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1233.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25675
+        },
+        {
+            "title": "Angels' Pillar (detail)",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1234.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25676
+        },
+        {
+            "title": "Angels' Pillar (detail)",
+            "date": "1225-30",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/17g_1235.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25677
+        },
+        {
+            "title": "Choir screen (detail)",
+            "date": "1200-20",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/18g_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25678
+        },
+        {
+            "title": "The Virgin Mary",
+            "date": "1230-35",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/07g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25679
+        },
+        {
+            "title": "Cunigunde and Henry II",
+            "date": "1230-35",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/07g_1251.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25680
+        },
+        {
+            "title": "Prophets",
+            "date": "1230-35",
+            "technique": "Stone",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/08g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25681
+        },
+        {
+            "title": "Bamberg Rider",
+            "date": "1230-35",
+            "technique": "Sandstone height 236 cm",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/09g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25682
+        },
+        {
+            "title": "Count Eckhart and Uta",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/10g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25683
+        },
+        {
+            "title": "Uta",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/11g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25684
+        },
+        {
+            "title": "Timo von Kistritz",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/12g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25685
+        },
+        {
+            "title": "Hermann and Reglindis",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/13g_1250.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 25686
+        },
+        {
+            "title": "Choir screen with the Crucifixion",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/14g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25687
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1245",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/15g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25688
+        },
+        {
+            "title": "Head of Mary",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/16g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25689
+        },
+        {
+            "title": "The Capture",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/17g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25690
+        },
+        {
+            "title": "Peter's Renunciation",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/18g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25691
+        },
+        {
+            "title": "Christ before Pilate",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/19g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25692
+        },
+        {
+            "title": "Lord's Supper",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/20g_1250.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25693
+        },
+        {
+            "title": "God Creating the Universe",
+            "date": "13th century",
+            "technique": "Stone",
+            "location": "Cathedral Freiburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/2/22g_1251.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25694
+        },
+        {
+            "title": "Figures of Benefactors",
+            "date": "c. 1260",
+            "technique": "Stone",
+            "location": "Cathedral Meissen",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/11g_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25695
+        },
+        {
+            "title": "Head of Adelheid",
+            "date": "c. 1260",
+            "technique": "Stone",
+            "location": "Cathedral Meissen",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/12g_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25696
+        },
+        {
+            "title": "St Matthew",
+            "date": "before 1322",
+            "technique": "Stone",
+            "location": "Cathedral Cologne",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/03g_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25697
+        },
+        {
+            "title": "Prophets",
+            "date": "c. 1300",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/04g_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25698
+        },
+        {
+            "title": "St Peter",
+            "date": "1400-20",
+            "technique": "Stone",
+            "location": "Cathedral Regensburg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/06g_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25699
+        },
+        {
+            "title": "Monument to Prince-Bishop Dieter von Isenburg (d. 1482)",
+            "date": "1480s",
+            "technique": "Stone",
+            "location": "Cathedral Mainz",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/07g_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25700
+        },
+        {
+            "title": "Head of Christ",
+            "date": "c. 1450",
+            "technique": "Stone",
+            "location": "Cathedral Ulm",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/08g_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25701
+        },
+        {
+            "title": "Ptolemaus (detail)",
+            "date": "1469-74",
+            "technique": "Wood",
+            "location": "Monastery Ulm",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/09g_1500.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 25702
+        },
+        {
+            "title": "Pulpit",
+            "date": "1484-85",
+            "technique": "Stone",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/09g_1501.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25703
+        },
+        {
+            "title": "St John the Evangelist (detail)",
+            "date": "1500-10",
+            "technique": "Wood",
+            "location": "Marienkirche L\u00fcbeck",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/10g_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25704
+        },
+        {
+            "title": "St John (detail)",
+            "date": "c. 1520",
+            "technique": "Wood",
+            "location": "Nikolaikirche Calcar",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/11g_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25705
+        },
+        {}
+    ]
+}

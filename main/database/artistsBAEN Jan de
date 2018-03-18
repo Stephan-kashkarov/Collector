@@ -1,0 +1,39 @@
+{
+    "name": "BAEN Jan de",
+    "life": "(b. 1633 Haarlem d. 1702 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Corpses of the De Witt Brothers",
+            "date": "1672",
+            "technique": "Oil on canvas 70 x 56 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/baen/corpses.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 2943
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on canvas 117 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/baen/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2944
+        },
+        {
+            "title": "Self-Portrait with His Wife Maria de Kinderen",
+            "date": "1674",
+            "technique": "Oil on canvas 101 x 93 cm",
+            "location": "Museum Bredius The Hague",
+            "url": "https://www.wga.hu/html/b/baen/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2945
+        },
+        {}
+    ]
+}

@@ -1,0 +1,2099 @@
+{
+    "name": "MEMLING Hans",
+    "life": "(b. ca. 1440 Seligenstadt d. 1494 Bruges)",
+    "school": "Flemish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Presentation in the Temple",
+            "date": "1463",
+            "technique": "Oil on wood 60 x 48 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/1early1/01prese.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25963
+        },
+        {
+            "title": "The Presentation in the Temple (detail)",
+            "date": "1463",
+            "technique": "Oil on wood",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/1early1/01prese1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25964
+        },
+        {
+            "title": "Virgin and Child Enthroned with two Musical Angels",
+            "date": "1465-67",
+            "technique": "Oil on oak panel 754 x 523 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/m/memling/1early1/01virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25965
+        },
+        {
+            "title": "Virgin and Child in a Landscape",
+            "date": "-",
+            "technique": "Oil on wood 50 x 29 cm",
+            "location": "Collection Rotschild Paris",
+            "url": "https://www.wga.hu/html/m/memling/1early1/01wirgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25966
+        },
+        {
+            "title": "Triptych of Jan Crabbe",
+            "date": "1467-70",
+            "technique": "Oil on oak panel 78 x 63 cm (central panel) 833 x 267 cm (each wing)",
+            "location": "Museo Civico Vicenza",
+            "url": "https://www.wga.hu/html/m/memling/1early1/03crabb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25967
+        },
+        {
+            "title": "Annunciation",
+            "date": "1467-70",
+            "technique": "Oil on panels. 833 x 265 cm (each)",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/1early1/03crabb0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25968
+        },
+        {
+            "title": "Portrait of an Old Woman",
+            "date": "1468-70",
+            "technique": "Oil on wood 25.6 x 17.7 cm",
+            "location": "Museum of Fine Arts Houston",
+            "url": "https://www.wga.hu/html/m/memling/1early1/04nooldw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25969
+        },
+        {
+            "title": "Tommaso Portinari and his Wife",
+            "date": "c. 1470",
+            "technique": "Oil on wood 44 x 34 cm (each)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/1early1/04noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25970
+        },
+        {
+            "title": "Maria Maddalena Baroncelli",
+            "date": "c. 1470",
+            "technique": "Oil on wood 44 x 34 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/1early1/04noporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25971
+        },
+        {
+            "title": "Triptych",
+            "date": "c. 1470",
+            "technique": "Oil on wood 964 x 147 cm (central) 98 x 635 cm (each wing)",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04notri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25972
+        },
+        {
+            "title": "Wings of a Triptych",
+            "date": "c. 1470",
+            "technique": "Oil on wood 98 x 635 cm (each wing)",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04notri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25973
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1470",
+            "technique": "Oil on wood 964 x 147 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04notri2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25974
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04notri3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25975
+        },
+        {
+            "title": "Scenes from the Passion of Christ",
+            "date": "1470-71",
+            "technique": "Oil on oak panel 567 x 922 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25976
+        },
+        {
+            "title": "Scenes from the Passion of Christ (left side)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25977
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25978
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25979
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25980
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25981
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25982
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25983
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25984
+        },
+        {
+            "title": "Scenes from the Passion of Christ (detail)",
+            "date": "1470-71",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/memling/1early2/04passi9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25985
+        },
+        {
+            "title": "Nativity",
+            "date": "1470-72",
+            "technique": "Oil on oak panel 286 x 213 cm",
+            "location": "Museum f\u00fcr Angewandte Kunst Cologne",
+            "url": "https://www.wga.hu/html/m/memling/1early2/05nativi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25986
+        },
+        {
+            "title": "Last Judgment Triptych (open)",
+            "date": "1467-71",
+            "technique": "Oil on wood 221 x 161 cm (central) 2235 x 725 cm (each wing)",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25987
+        },
+        {
+            "title": "Last Judgment Triptych (open)",
+            "date": "1467-71",
+            "technique": "Oil on wood 221 x 161 cm (central) 2235 x 725 cm (each wing)",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25988
+        },
+        {
+            "title": "Last Judgment Triptych (open)",
+            "date": "1467-71",
+            "technique": "Oil on wood 221 x 161 cm (central) 2235 x 725 cm (each wing)",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last00.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25989
+        },
+        {
+            "title": "Last Judgment Triptych (left wing)",
+            "date": "1467-71",
+            "technique": "Oil on wood 223 x 72 cm",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25990
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last10.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25991
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25992
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last12.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25993
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last13.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25994
+        },
+        {
+            "title": "Last Judgment Triptych (central)",
+            "date": "1467-71",
+            "technique": "Oil on wood 221 x 160 cm",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25995
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood 221 x 161 cm",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25996
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last22.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25997
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last23.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25998
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last24.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25999
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last25.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26000
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last26.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26001
+        },
+        {
+            "title": "Last Judgment",
+            "date": "1467-71",
+            "technique": "Oil on wood 223 x 72 cm",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26002
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26003
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last32.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26004
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last33.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26005
+        },
+        {
+            "title": "Last Judgment Triptych (closed)",
+            "date": "1467-71",
+            "technique": "Oil on oak panel 2235 x 725 cm (each wing)",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26006
+        },
+        {
+            "title": "Last Judgment Triptych (detail)",
+            "date": "1467-71",
+            "technique": "Oil on wood",
+            "location": "Muzeum Narodowe Gdansk",
+            "url": "https://www.wga.hu/html/m/memling/1early3/02last41.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26007
+        },
+        {
+            "title": "Portrait of Gilles Joye",
+            "date": "1472",
+            "technique": "Oil on oak panel 305 x 224 cm",
+            "location": "Sterling and Francine Clark Art Institute Williamstown",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/06gijoye.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26008
+        },
+        {
+            "title": "Virgin and Child with St Anthony the Abbot and a Donor",
+            "date": "1472",
+            "technique": "Oil on wood 93 x 55 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/06novirg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26009
+        },
+        {
+            "title": "Young Man at Prayer",
+            "date": "c. 1475",
+            "technique": "Oak wood 387 x 254 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26010
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1475",
+            "technique": "Oil on panel",
+            "location": "Kunsthaus Zurich",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07noporu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26011
+        },
+        {
+            "title": "Portrait of an Old Man",
+            "date": "1470-75",
+            "technique": "Oil on wood 34 x 29 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07noporv.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26012
+        },
+        {
+            "title": "Portrait of an Old Woman",
+            "date": "1470-75",
+            "technique": "Oil on wood 35 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07noporw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26013
+        },
+        {
+            "title": "The Martyrdom of St Sebastian",
+            "date": "c. 1475",
+            "technique": "Oil on wood 674 x 677 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07noseba.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26014
+        },
+        {
+            "title": "Portraits of Willem Moreel and His Wife",
+            "date": "c. 1482",
+            "technique": "Oil on oak 39 x 297 cm (each)",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/07portr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26015
+        },
+        {
+            "title": "The Archangel Michael",
+            "date": "c. 1479",
+            "technique": "Oil on wood 37 x 16 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/08nomich.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26016
+        },
+        {
+            "title": "Angel with an Olive Branch Emblem of Divine Peace",
+            "date": "1475-80",
+            "technique": "Oil on panel 16 x 10 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/08olive.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26017
+        },
+        {
+            "title": "The Virgin Showing the Man of Sorrows",
+            "date": "1475 or 1479",
+            "technique": "Oil on oak panel 274 x 199 cm",
+            "location": "National Gallery of Victoria Melbourne",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/08sorrow.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26018
+        },
+        {
+            "title": "Lamentation",
+            "date": "1475-80",
+            "technique": "Oil on oak panel",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/09lament.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26019
+        },
+        {
+            "title": "Christ Giving His Blessing",
+            "date": "1478",
+            "technique": "Oil on oak panel 381 x 282 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/10bless.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26020
+        },
+        {
+            "title": "Portrait of a Man with an Arrow",
+            "date": "1478-80",
+            "technique": "Oil on oak panel 319 x 258 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/11marrow.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26021
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine",
+            "date": "1479-80",
+            "technique": "Oil on wood 67 x 72 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/11mystic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26022
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1478-80",
+            "technique": "Oil on oak panel 318 x 271 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/m/memling/2middle1/12portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26023
+        },
+        {
+            "title": "St John Altarpiece",
+            "date": "1474-79",
+            "technique": "Oil on oak panel 1736 x 1737 cm (central) 176 x 789 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26024
+        },
+        {
+            "title": "St John Altarpiece (left wing)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel 176 x 789 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26025
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26026
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john12.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26027
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john13.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26028
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john14.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26029
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john15.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26030
+        },
+        {
+            "title": "St John Altarpiece (central panel)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel 1736 x 1737 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26031
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john20.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26032
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26033
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john22.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26034
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john23.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26035
+        },
+        {
+            "title": "St John Altarpiece (right wing)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel 176 x 789 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26036
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john30.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26037
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26038
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john32.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26039
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john33.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26040
+        },
+        {
+            "title": "St John Altarpiece (closed)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel 176 x 789 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26041
+        },
+        {
+            "title": "St John Altarpiece (detail)",
+            "date": "1474-79",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13john41.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26042
+        },
+        {
+            "title": "Diptych of Jean de Cellier",
+            "date": "c. 1475",
+            "technique": "Oil on wood 25 x 15 cm (each)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13nocel0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26043
+        },
+        {
+            "title": "Diptych of Jean de Cellier",
+            "date": "c. 1475",
+            "technique": "Oil on wood 25 x 15 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13nocel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26044
+        },
+        {
+            "title": "Diptych of Jean de Cellier",
+            "date": "c. 1475",
+            "technique": "Oil on wood 25 x 15 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle2/13nocel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26045
+        },
+        {
+            "title": "The Donne Triptych",
+            "date": "c. 1475",
+            "technique": "Oil on oak 705 x 705 cm (central panel) 705 x 305 cm (wings)",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26046
+        },
+        {
+            "title": "The Donne Triptych (left wing)",
+            "date": "c. 1475",
+            "technique": "Oil on oak 705 x 305 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26047
+        },
+        {
+            "title": "The Donne Triptych (centre panel)",
+            "date": "c. 1475",
+            "technique": "Oil on oak 705 x 305 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26048
+        },
+        {
+            "title": "The Donne Triptych (detail)",
+            "date": "c. 1475",
+            "technique": "Oil on oak",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26049
+        },
+        {
+            "title": "The Donne Triptych (detail)",
+            "date": "c. 1475",
+            "technique": "Oil on oak",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo22.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26050
+        },
+        {
+            "title": "The Donne Triptych (detail)",
+            "date": "c. 1475",
+            "technique": "Oil on oak",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo23.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26051
+        },
+        {
+            "title": "The Donne Triptych (right wing)",
+            "date": "c. 1475",
+            "technique": "Oil on oak 705 x 305 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/13nodo3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26052
+        },
+        {
+            "title": "Triptych of Jan Floreins",
+            "date": "1479",
+            "technique": "Oil on oak panel 463 x 574 cm (central panel) 48 x 25 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/14flore.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26053
+        },
+        {
+            "title": "Triptych of Jan Floreins (central panel)",
+            "date": "1479",
+            "technique": "Oil on oak panel 463 x 574 cm (inside frame)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/14flore2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26054
+        },
+        {
+            "title": "Triptych of Jan Floreins (reverse)",
+            "date": "1479",
+            "technique": "Oil on oak panel 48 x 25 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/14flore4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26055
+        },
+        {
+            "title": "Triptych of the Rest on the Flight into Egypt",
+            "date": "1475-80",
+            "technique": "Oil on canvas 47 x 26 cm (central panel)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/14tripti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26056
+        },
+        {
+            "title": "Allegory with a Virgin",
+            "date": "1479-80",
+            "technique": "Oil on oak panel 383 x 319 cm",
+            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/15allego.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26057
+        },
+        {
+            "title": "Virgin and Child with Musician Angels",
+            "date": "1480",
+            "technique": "Oil on oak 40 x 29 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/2middle3/15novirg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26058
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "1480",
+            "technique": "Oil on oak panel 38 x 265 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/16portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26059
+        },
+        {
+            "title": "Advent and Triumph of Christ",
+            "date": "1480",
+            "technique": "Oil on wood 81 x 189 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17noadv.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26060
+        },
+        {
+            "title": "Advent and Triumph of Christ (detail)",
+            "date": "1480",
+            "technique": "Oil on wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17noadv1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26061
+        },
+        {
+            "title": "Advent and Triumph of Christ (detail)",
+            "date": "1480",
+            "technique": "Oil on wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17noadv2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26062
+        },
+        {
+            "title": "Triptych of Adriaan Reins",
+            "date": "1480",
+            "technique": "Oil on oak panel 438 x 358 cm (central panel) 453 x 153 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17rein.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26063
+        },
+        {
+            "title": "Triptych of Adriaan Reins (detail)",
+            "date": "1480",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17rein11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26064
+        },
+        {
+            "title": "Triptych of Adriaan Reins (central panel)",
+            "date": "1480",
+            "technique": "Oil on oak panel 438 x 358 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17rein2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26065
+        },
+        {
+            "title": "Triptych of Adriaan Reins (detail)",
+            "date": "1480",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17rein21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26066
+        },
+        {
+            "title": "Triptych of Adriaan Reins (closed)",
+            "date": "1480",
+            "technique": "Oil on oak panel 453 x 153 cm (each wing)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/17rein4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26067
+        },
+        {
+            "title": "The Virgin Showing the Man of Sorrows",
+            "date": "c. 1480",
+            "technique": "Oil on wood 52 x 36 cm",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/18nosorr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26068
+        },
+        {
+            "title": "Portrait of a Man at Prayer before a Landscape",
+            "date": "c. 1480",
+            "technique": "Oil on oak panel 30 x 22 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/18portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26069
+        },
+        {
+            "title": "Portrait of a Man at a Loggia",
+            "date": "1472-75",
+            "technique": "Oil on oak panel 40 x 29 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/190portr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26070
+        },
+        {
+            "title": "Portrait of a Man with a Roman Coin",
+            "date": "1480 or later",
+            "technique": "Oil on oak panel 31 x 232 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/19coin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26071
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1480s",
+            "technique": "Oil on wood 33 x 25 cm",
+            "location": "Galleria Corsini Florence",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/20noyoun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26072
+        },
+        {
+            "title": "Portrait of a Young Man before a Landscape",
+            "date": "c. 1480",
+            "technique": "Oil on oak panel 26 x 20 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/m/memling/3mature1/20young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26073
+        },
+        {
+            "title": "Virgin Enthroned with Child and Angel",
+            "date": "c. 1480",
+            "technique": "Oil on wood 66 x 465 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/21novirg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26074
+        },
+        {
+            "title": "Virgin and Child Enthroned",
+            "date": "1480s",
+            "technique": "Oil on oak panel 81 x 55 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/21virgi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26075
+        },
+        {
+            "title": "Virgin and Child Enthroned (detail)",
+            "date": "1480s",
+            "technique": "Oil on oak panel",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/21virgi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26076
+        },
+        {
+            "title": "Man of Sorrows",
+            "date": "1480s",
+            "technique": "Oil on oak panel 534 x 391 cm",
+            "location": "Palazzo Bianco Genoa",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/22sorrow.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26077
+        },
+        {
+            "title": "Mater Dolorosa",
+            "date": "1480s",
+            "technique": "Oil on wood 55 x 33 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/23nomate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26078
+        },
+        {
+            "title": "Virgin and Child in a Rose-Garden with Two Angels",
+            "date": "1480s",
+            "technique": "Oil on oak panel 377 x 277 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/23virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26079
+        },
+        {
+            "title": "Christ Giving His Blessing",
+            "date": "1481",
+            "technique": "Oil on oak panel 348 x 262 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/24blessi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26080
+        },
+        {
+            "title": "Virgin with Child",
+            "date": "-",
+            "technique": "Oil on panel 45 x 32 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/24virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26081
+        },
+        {
+            "title": "Bathsheba",
+            "date": "1485",
+            "technique": "Oil on wood 191 x 84 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/25nobath.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 26082
+        },
+        {
+            "title": "Triptych",
+            "date": "c. 1485",
+            "technique": "Oil on wood 69 x 47 cm (central) 635 x 185 cm each wing)",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/25notri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26083
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "c. 1485",
+            "technique": "Oil on oak 693 x 173 cm (each)",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/memling/3mature2/25notri2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26084
+        },
+        {
+            "title": "St John and Veronica Diptych (left wing)",
+            "date": "c. 1483",
+            "technique": "Oil on wood 316 x 244 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/24nojov1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26085
+        },
+        {
+            "title": "St John and Veronica Diptych (reverse of the left wing)",
+            "date": "c. 1483",
+            "technique": "Oil on wood 312 x 244 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/24nojov2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26086
+        },
+        {
+            "title": "St John and Veronica Diptych (right wing)",
+            "date": "c. 1483",
+            "technique": "Oil on wood 312 x 244 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/24nojov3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26087
+        },
+        {
+            "title": "St John and Veronica Diptych (reverse of the right wing)",
+            "date": "c. 1483",
+            "technique": "Oil on wood 316 x 244 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/24nojov4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26088
+        },
+        {
+            "title": "Triptych of the Family Moreel",
+            "date": "1484",
+            "technique": "Oil on wood 141 x 174 cm (central) 141 x 87 cm (wings)",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26089
+        },
+        {
+            "title": "Triptych of the Family Moreel (left wing)",
+            "date": "1484",
+            "technique": "Oil on wood 141 x 87 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26090
+        },
+        {
+            "title": "Triptych of the Family Moreel (central panel)",
+            "date": "1484",
+            "technique": "Oil on wood 141 x 174 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26091
+        },
+        {
+            "title": "Triptych of the Family Moreel (right wing)",
+            "date": "1484",
+            "technique": "Oil on wood 141 x 87 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26092
+        },
+        {
+            "title": "Triptych of the Family Moreel (detail)",
+            "date": "1484",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26093
+        },
+        {
+            "title": "Triptych of the Family Moreel (closed)",
+            "date": "1484",
+            "technique": "Oil on wood 141 x 87 cm (each wing)",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature3/25more4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26094
+        },
+        {
+            "title": "Madonna and Child with Angels",
+            "date": "c. 1485",
+            "technique": "Oil on wood 59 x 48 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26095
+        },
+        {
+            "title": "Angel Musicians",
+            "date": "1480s",
+            "technique": "Oil on wood 165 x 230 cm (each panel)",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26nomus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26096
+        },
+        {
+            "title": "Christ Surrounded by Musician Angels",
+            "date": "1480s",
+            "technique": "Oil on wood 164 x 212 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26nomus1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26097
+        },
+        {
+            "title": "Christ Surrounded by Musician Angels (detail)",
+            "date": "1480s",
+            "technique": "Oil on wood",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26nomus2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26098
+        },
+        {
+            "title": "Angel Musicians (left panel)",
+            "date": "1480s",
+            "technique": "Oil on wood 165 x 230 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26nomus3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26099
+        },
+        {
+            "title": "Triptych of Earthly Vanity and Divine Salvation (front)",
+            "date": "c. 1485",
+            "technique": "Oil on oak panel 22 x 15 cm (each wing)",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26100
+        },
+        {
+            "title": "Vanity",
+            "date": "c. 1485",
+            "technique": "Oil on wood 22 x 14 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26101
+        },
+        {
+            "title": "Triptych of Earthly Vanity and Divine Salvation (detail)",
+            "date": "c. 1485",
+            "technique": "Oil on oak panel",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani12.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26102
+        },
+        {
+            "title": "Hell",
+            "date": "c. 1485",
+            "technique": "Oil on wood 22 x 14 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani13.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26103
+        },
+        {
+            "title": "Triptych of Earthly Vanity and Divine Salvation (detail)",
+            "date": "c. 1485",
+            "technique": "Oil on oak panel",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani14.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26104
+        },
+        {
+            "title": "Triptych of Earthly Vanity and Divine Salvation (rear)",
+            "date": "c. 1485",
+            "technique": "Oil on oak panel 22 x 15 cm (each wing)",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/m/memling/3mature4/26vani2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26105
+        },
+        {
+            "title": "Christ at the Column",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 588 x 343 cm (with original frame)",
+            "location": "Colecci\u00f3n Mateu Barcelona",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/27column.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26106
+        },
+        {
+            "title": "St Jerome",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 878 x 592 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/28jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26107
+        },
+        {
+            "title": "St Jerome and the Lion",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 37 x 245 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/29jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26108
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 292 x 225 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/30young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26109
+        },
+        {
+            "title": "Flower Still-life",
+            "date": "c. 1490",
+            "technique": "Oil on oak panel 292 x 225 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/30young1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 26110
+        },
+        {
+            "title": "Diptych with the Allegory of True Love",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 43 x 18 (each)",
+            "location": "Metropolitan Museum of Art New York and Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/31tlove.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 26111
+        },
+        {
+            "title": "Diptych with the Allegory of True Love (detail)",
+            "date": "1485-90",
+            "technique": "Oil on oak panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/31tlove1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 26112
+        },
+        {
+            "title": "Virgin and Child Enthroned with Two Angels",
+            "date": "1485-90",
+            "technique": "Oil on oak panel 682 x 515 cm",
+            "location": "St Osyth's Priory St Osyth",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/32virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26113
+        },
+        {
+            "title": "Virgin and Child with Sts James and Dominic",
+            "date": "1488-90",
+            "technique": "Oil on panel 130 x 160 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/33virgi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26114
+        },
+        {
+            "title": "Virgin and Child with Sts James and Dominic (detail)",
+            "date": "1488-90",
+            "technique": "Oil on panel",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/33virgi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26115
+        },
+        {
+            "title": "Virgin and Child with Sts James and Dominic (detail)",
+            "date": "1488-90",
+            "technique": "Oil on panel",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/3mature5/33virgi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26116
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove",
+            "date": "1487",
+            "technique": "Oil on oak panel 52 x 415 cm (each)",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26117
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (left panel)",
+            "date": "1487",
+            "technique": "Oil on oak panel 52 x 415 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26118
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (detail)",
+            "date": "1487",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26119
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (detail)",
+            "date": "1487",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26120
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (detail)",
+            "date": "1487",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26121
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (detail)",
+            "date": "1487",
+            "technique": "Oil on oak panel",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw4.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 26122
+        },
+        {
+            "title": "Diptych of Maarten Nieuwenhove (right panel)",
+            "date": "1487",
+            "technique": "Oil on oak panel 52 x 415 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nieuw5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26123
+        },
+        {
+            "title": "Portinari Triptych (central panel)",
+            "date": "1487",
+            "technique": "Oil on wood 415 x 315 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nopor1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26124
+        },
+        {
+            "title": "Portinari Triptych (left wing)",
+            "date": "1487",
+            "technique": "Oil on wood 45 x 34 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nopor2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26125
+        },
+        {
+            "title": "Portinari Triptych (right wing)",
+            "date": "1487",
+            "technique": "Oil on wood 45 x 34 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/33nopor3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26126
+        },
+        {
+            "title": "Portrait of a Young Man at Prayer",
+            "date": "c. 1487",
+            "technique": "Oil on oak panel 16 x 12 cm",
+            "location": "Upton House Banbury",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/34prayer.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26127
+        },
+        {
+            "title": "Virgin Suckling the Child",
+            "date": "1487-90",
+            "technique": "Oil on oak panel diameter 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/35tondo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26128
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1489",
+            "technique": "Oil on wood 79 x 55 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/3mature6/36noannu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26129
+        },
+        {
+            "title": "St Ursula Shrine",
+            "date": "1489",
+            "technique": "Gilded and painted wood 87 x 33 x 91 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26130
+        },
+        {
+            "title": "St Ursula Shrine",
+            "date": "1489",
+            "technique": "Gilded and painted wood 87 x 33 x 91 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26131
+        },
+        {
+            "title": "St Ursula Shrine: Arrival in Cologne (scene 1)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu01.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26132
+        },
+        {
+            "title": "St Ursula Shrine: Arrival in Basel (scene 2)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu02.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26133
+        },
+        {
+            "title": "St Ursula Shrine: Arrival in Rome (scene 3)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu03.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26134
+        },
+        {
+            "title": "St Ursula Shrine: Departure from Basel (scene 4)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu04.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26135
+        },
+        {
+            "title": "St Ursula Shrine: Martyrdom (scene 5)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu05.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26136
+        },
+        {
+            "title": "St Ursula Shrine: Martyrdom (scene 6)",
+            "date": "1489",
+            "technique": "Oil on panel 35 x 253 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu06.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26137
+        },
+        {
+            "title": "St Ursula Shrine: Virgin and Child",
+            "date": "1489",
+            "technique": "Wood 915 x 415 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu07.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26138
+        },
+        {
+            "title": "St Ursula Shrine: St Ursula and the Holy Virgins",
+            "date": "1489",
+            "technique": "Wood 915 x 415 cm",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu08.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26139
+        },
+        {
+            "title": "St Ursula Shrine: Medallions",
+            "date": "1489",
+            "technique": "Wood",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu09.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26140
+        },
+        {
+            "title": "St Ursula Shrine: Medallions",
+            "date": "1489",
+            "technique": "Wood",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu10.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26141
+        },
+        {
+            "title": "St Ursula Shrine: Figures",
+            "date": "1489",
+            "technique": "Gilded and painted",
+            "location": "Memlingmuseum Sint-Janshospitaal Bruges",
+            "url": "https://www.wga.hu/html/m/memling/4ursula/36ursu11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26142
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1490",
+            "technique": "Oil on wood 35 x 25 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/5late/370nopor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26143
+        },
+        {
+            "title": "Donor",
+            "date": "c. 1490",
+            "technique": "Oil on oak panel 45 x 32 cm",
+            "location": "Muzeul National de Arta Bucharest",
+            "url": "https://www.wga.hu/html/m/memling/5late/37frag1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26144
+        },
+        {
+            "title": "Standing Virgin and Child",
+            "date": "c. 1490",
+            "technique": "Oil on oak panel 43 x 36 cm",
+            "location": "Aurora Art Fund Bucharest",
+            "url": "https://www.wga.hu/html/m/memling/5late/37frag2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26145
+        },
+        {
+            "title": "Standing Virgin and Child (detail)",
+            "date": "c. 1490",
+            "technique": "Oil on oak panel",
+            "location": "Aurora Art Fund Bucharest",
+            "url": "https://www.wga.hu/html/m/memling/5late/37frag21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26146
+        },
+        {
+            "title": "Donor",
+            "date": "c. 1490",
+            "technique": "Oil on oak panel 45 x 32 cm",
+            "location": "Muzeul National de Arta Bucharest",
+            "url": "https://www.wga.hu/html/m/memling/5late/37frag3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26147
+        },
+        {
+            "title": "Triptych of the Resurrection",
+            "date": "c. 1490",
+            "technique": "Oil on wood 62 x 45 cm (central panel) 62 x 19 cm (each wing)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/memling/5late/37noares.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26148
+        },
+        {
+            "title": "Madonna Enthroned with Child and Two Angels",
+            "date": "1490-91",
+            "technique": "Oil on wood 57 x 42 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/5late/37noflo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26149
+        },
+        {
+            "title": "Madonna Enthroned with Child and Two Angels (detail)",
+            "date": "1490-91",
+            "technique": "Oil on wood 57 x 42 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/memling/5late/37noflo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26150
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (central panel)",
+            "date": "1491",
+            "technique": "Oil on wood 205 x 150 cm",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26151
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (detail)",
+            "date": "1491",
+            "technique": "Oil on wood",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26152
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (left wing)",
+            "date": "1491",
+            "technique": "Oil on wood 205 x 75 cm",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26153
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (right wing)",
+            "date": "1491",
+            "technique": "Oil on wood 205 x 75 cm",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26154
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (first closed position)",
+            "date": "1491",
+            "technique": "Oil on wood 205 x 75 cm (inside the frame each)",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26155
+        },
+        {
+            "title": "Passion (Greverade) Altarpiece (closed)",
+            "date": "1491",
+            "technique": "Oil on wood 205 x 75 cm (inside the frame each)",
+            "location": "Museum f\u00fcr Kunst- und Kulturgedichte L\u00fcbeck",
+            "url": "https://www.wga.hu/html/m/memling/5late/37nogr5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26156
+        },
+        {
+            "title": "Man of Sorrows",
+            "date": "after 1490",
+            "technique": "Oil on oak panel 129 x 922 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/m/memling/5late/38sorrow.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26157
+        },
+        {
+            "title": "Diptych with the Deposition",
+            "date": "1492-94",
+            "technique": "Oil on oak panel 538 x 383 cm (each panel)",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/m/memling/5late/39dipty.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26158
+        },
+        {
+            "title": "Portrait of Jacob Obrecht",
+            "date": "1496",
+            "technique": "Oil on oak panel 508 x 361 cm",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/m/memling/5late/40obrech.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26159
+        },
+        {
+            "title": "Portrait of Anthony of Burgundy",
+            "date": "1467-70",
+            "technique": "Oil on 45 x 355 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0149burg.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26160
+        },
+        {
+            "title": "Portrait of Jacques of Savoy",
+            "date": "1470s",
+            "technique": "Oil on oak panel 347 x 25 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0245savo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26161
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1478",
+            "technique": "Oil on oak panel 334 x 238 cm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0341virg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26162
+        },
+        {
+            "title": "Virgin with the Child Reaching for his Toe",
+            "date": "1490s",
+            "technique": "Oil on oak panel 241 x 178 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0442virg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26163
+        },
+        {
+            "title": "Nativity",
+            "date": "1475-1500",
+            "technique": "Oil on oak panel 992 x 723 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0546nati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26164
+        },
+        {
+            "title": "Deposition (left wing of a diptych)",
+            "date": "1490s",
+            "technique": "Oil on oak panel 538 x 39 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0685depo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26165
+        },
+        {
+            "title": "St Andrew (left wing of a diptych reverse)",
+            "date": "1490s",
+            "technique": "Oil on oak panel 538 x 39 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/memling/6copies/0785stan.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26166
+        },
+        {
+            "title": "Crucifixion",
+            "date": "-",
+            "technique": "Oil on oak 56 x 63 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/memling/6copies/08notri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26167
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "-",
+            "technique": "Oil on oak 56 x 63 cm (full panel)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/memling/6copies/08notri2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26168
+        },
+        {
+            "title": "Carrying the Cross",
+            "date": "-",
+            "technique": "Oil on oak 582 x 275 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/memling/6copies/08notri3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26169
+        },
+        {
+            "title": "Resurrection",
+            "date": "-",
+            "technique": "Oil on oak 58 x 282 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/memling/6copies/08notri4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26170
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Diocesan Museum of the Cathedral Burgos",
+            "url": "https://www.wga.hu/html/m/memling/6copies/09novirg_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26171
+        },
+        {}
+    ]
+}

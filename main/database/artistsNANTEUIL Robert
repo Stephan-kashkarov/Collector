@@ -1,0 +1,29 @@
+{
+    "name": "NANTEUIL Robert",
+    "life": "(b. 1623 Reims d. 1678 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Louis XIV",
+            "date": "1664",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/n/nanteuir/louis_14.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 29357
+        },
+        {
+            "title": "Cardinal Mazarin in His Palace",
+            "date": "1659",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/n/nanteuir/mazarin.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 29358
+        },
+        {}
+    ]
+}

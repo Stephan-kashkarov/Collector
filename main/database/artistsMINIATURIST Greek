@@ -1,0 +1,229 @@
+{
+    "name": "MINIATURIST Greek",
+    "life": "(active around 880 in Constantinople)",
+    "school": "Greek",
+    "timeframe": "0851-0900",
+    "art": [
+        {
+            "title": "Homilies of St. Gregory of Nazianzus",
+            "date": "879-83",
+            "technique": "Manuscript (Ms. gr. 510) 435 x 300 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/2other/3greek1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27966
+        },
+        {
+            "title": "The Joshua Roll",
+            "date": "913-50",
+            "technique": "Roll (Pal. gr. 431) 315 mm high 1064 m long",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0901-950/1greek1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27967
+        },
+        {
+            "title": "The Joshua Roll",
+            "date": "913-50",
+            "technique": "Roll (Pal. gr. 431) 315 mm high 1064 m long",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0901-950/1greek2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27968
+        },
+        {
+            "title": "The Joshua Roll",
+            "date": "913-50",
+            "technique": "Roll (Pal. gr. 431) 315 mm high 1064 m long",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0901-950/1greek3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27969
+        },
+        {
+            "title": "Bible of Leo the Patrician",
+            "date": "925-50",
+            "technique": "Manuscript (Reg. gr. 1B) 410 x 270 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0901-950/1greek4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27970
+        },
+        {
+            "title": "Psalter",
+            "date": "10th century",
+            "technique": "Manuscript (Ms. gr. 20)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0901-950/1greek5.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27971
+        },
+        {
+            "title": "Paris Psalter",
+            "date": "c. 975",
+            "technique": "Manuscript (Ms. gr. 139) 370 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/1greek1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27972
+        },
+        {
+            "title": "Paris Psalter",
+            "date": "c. 975",
+            "technique": "Manuscript (Ms. gr. 139) 370 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/1greek2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27973
+        },
+        {
+            "title": "Paris Psalter",
+            "date": "c. 975",
+            "technique": "Manuscript (Ms. gr. 139) 370 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/1greek3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27974
+        },
+        {
+            "title": "Collection of Medical Texts",
+            "date": "c. 1000",
+            "technique": "Manuscript (Plut. 74. 7)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/1greek4.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27975
+        },
+        {
+            "title": "Gospel Book",
+            "date": "c. 1000",
+            "technique": "Manuscript (Gr. 1)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/1greek5.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27976
+        },
+        {
+            "title": "Gospel Book",
+            "date": "c. 1000",
+            "technique": "Manuscript (Gr. 1)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/01_1001.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27977
+        },
+        {
+            "title": "Collection of Medical Texts",
+            "date": "c. 1000",
+            "technique": "Manuscript (Plut. 74. 7)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/02_1001.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27978
+        },
+        {
+            "title": "Oppian: Cynegetica",
+            "date": "11th century",
+            "technique": "Manuscript (Gr. Z. 479)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/02_1051.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27979
+        },
+        {
+            "title": "Illustrated initial",
+            "date": "c. 1100",
+            "technique": "Manuscript (Ms Canon Gr 103)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/02_1052.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27980
+        },
+        {
+            "title": "Homilies of Ioannes Chrysostomos",
+            "date": "c. 1078",
+            "technique": "Manuscript (Ms. Coislin 79)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/02_1053.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27981
+        },
+        {
+            "title": "Evangeliary",
+            "date": "11th century",
+            "technique": "Manuscript (Cod. gr. 1)",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/02_1054.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27982
+        },
+        {
+            "title": "Oppian: Cynegetica",
+            "date": "11th century",
+            "technique": "Manuscript (Gr. Z. 479)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/03_1051.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27983
+        },
+        {
+            "title": "Transfiguration",
+            "date": "13th century",
+            "technique": "Manuscript (MS Ludwig II 5. 83.MB.69)",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/4other/07_1201.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27984
+        },
+        {
+            "title": "Missal",
+            "date": "1250-75",
+            "technique": "Manuscript (MS 6) 320 x 230 mm",
+            "location": "Capitolo della Cattedrale di San Lorenzo Perugia",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/14_1251.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27985
+        },
+        {
+            "title": "Leo VI: Oracles",
+            "date": "1566-74",
+            "technique": "Manuscript (Ms. I. E. 8))",
+            "location": "Biblioteca Centrale Palermo",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/15_1501.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27986
+        },
+        {
+            "title": "Leo VI: Oracles",
+            "date": "1566-74",
+            "technique": "Manuscript (Ms. I. E. 8))",
+            "location": "Biblioteca Centrale Palermo",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/16_1501.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27987
+        },
+        {}
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "name": "BELLINI Jacopo",
+    "life": "(b. ca. 1400 Venezia d. 1470 Venezia)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1444",
+            "technique": "Panel",
+            "location": "Sant'Alessandro Brescia",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3924
+        },
+        {
+            "title": "Annunciation",
+            "date": "-",
+            "technique": "Tempera on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/birth1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3925
+        },
+        {
+            "title": "Birth of the Virgin",
+            "date": "-",
+            "technique": "Tempera on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/birth2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3926
+        },
+        {
+            "title": "Crucifixion",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3927
+        },
+        {
+            "title": "Madonna and Child Adored by Lionello d'Este",
+            "date": "c. 1450",
+            "technique": "Wood 60 x 40 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/m_child.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3928
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1448",
+            "technique": "Tempera on canvas on panel 50 x 45 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/ma_child.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3929
+        },
+        {
+            "title": "Madonna with Child",
+            "date": "c. 1465",
+            "technique": "Panel",
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3930
+        },
+        {
+            "title": "Madonna and Child Blessing",
+            "date": "c. 1455",
+            "technique": "Tempera on wood 94 x 66 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3931
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1450",
+            "technique": "Tempera on wood 111 x 62 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/madon_ch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3932
+        },
+        {
+            "title": "Viirgin and Child",
+            "date": "c. 1450",
+            "technique": "97 x 71 cm (with original frame)",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/madonnc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3933
+        },
+        {
+            "title": "St John the Evangelist",
+            "date": "1430-35",
+            "technique": "Poplar panel 85 x 24 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/saints_1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3934
+        },
+        {
+            "title": "The Aposle Peter",
+            "date": "1430-35",
+            "technique": "Poplar panel 85 x 24 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/saints_2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3935
+        },
+        {
+            "title": "St Bernardino da Siena",
+            "date": "1450-55",
+            "technique": "Tempera on wood 30 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/stbernar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3936
+        },
+        {
+            "title": "Triptych of St Lawrence",
+            "date": "1464-70",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/triptic1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3937
+        },
+        {
+            "title": "Triptych of the Virgin",
+            "date": "1464-70",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/triptic2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3938
+        },
+        {
+            "title": "Triptych of St Sebastian",
+            "date": "1464-70",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/triptic3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3939
+        },
+        {
+            "title": "Triptych of the Nativity",
+            "date": "1464-70",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/triptic4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3940
+        },
+        {
+            "title": "Jacopo Antonio Marcello",
+            "date": "1453",
+            "technique": "Tempera on vellum",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/y_portra.html",
+            "form": "illumination",
+            "painting_type": "portrait",
+            "index": 3941
+        },
+        {
+            "title": "The Twelve Apostles in a Barrel Vaulted Passage",
+            "date": "1440-70",
+            "technique": "Leadpoint brown wash 415 x 335 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_apostl.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3942
+        },
+        {
+            "title": "Dormition of the Virgin",
+            "date": "c. 1450",
+            "technique": "Leadpoint on parchment 425 x 285 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_dormit.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3943
+        },
+        {
+            "title": "Flagellation",
+            "date": "c. 1450",
+            "technique": "Leadpoint on parchment 426 x 286 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_flagei.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3944
+        },
+        {
+            "title": "Lamentation (from the sketchook folios 57b-58a)",
+            "date": "1440s",
+            "technique": "Pen 427 x 580 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_lament.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3945
+        },
+        {
+            "title": "Nativity",
+            "date": "1440s",
+            "technique": "Leadpoint 290 x 427 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_nativi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3946
+        },
+        {
+            "title": "St John the Baptist Preaching",
+            "date": "1440s",
+            "technique": "Leadpoint",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_preach.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3947
+        },
+        {
+            "title": "Presentation of the Virgin at the Temple",
+            "date": "1440s",
+            "technique": "Leadpoint",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bellini/jacopo/z_presen.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3948
+        },
+        {}
+    ]
+}

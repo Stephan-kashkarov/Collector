@@ -1,0 +1,29 @@
+{
+    "name": "RAGUENET Nicolas-Jean-Baptiste",
+    "life": "(b. 1715 Paris d. 1793 Gentilly)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Eastern Tip of Ile Saint-Louis",
+            "date": "1757",
+            "technique": "Oil on canvas 47 x 85 cm",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/r/raguenet/ilelouis.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 33184
+        },
+        {
+            "title": "The Pont Neuf and the Samaritaine",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/r/raguenet/pontneuf.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 33185
+        },
+        {}
+    ]
+}

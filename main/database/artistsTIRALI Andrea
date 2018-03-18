@@ -1,0 +1,39 @@
+{
+    "name": "TIRALI Andrea",
+    "life": "(b. 1657 Venezia d. 1737 Monselice)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Three-Arched Bridge",
+            "date": "1688",
+            "technique": "Photo",
+            "location": "Cannaregio Venice",
+            "url": "https://www.wga.hu/html/t/tirali/3arched.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 39518
+        },
+        {
+            "title": "Monumental staircase",
+            "date": "1732",
+            "technique": "Photo",
+            "location": "Palazzo Morosini Sagredo Venice",
+            "url": "https://www.wga.hu/html/t/tirali/morosini.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 39519
+        },
+        {
+            "title": "San Nicol\u00f2 da Tolentino: Fa\u00e7ade",
+            "date": "1706-14",
+            "technique": "Photo",
+            "location": "Campo dei Tolentini Venice",
+            "url": "https://www.wga.hu/html/t/tirali/tolentin.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 39520
+        },
+        {}
+    ]
+}

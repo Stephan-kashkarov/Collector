@@ -1,0 +1,149 @@
+{
+    "name": "BARBARI Jacopo de'",
+    "life": "(b. ca. 1445 Venezia d. 1516 Bruxelles)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ",
+            "date": "c. 1503",
+            "technique": "Oil on panel 31 x 25 cm",
+            "location": "Schlossmuseum Weimar",
+            "url": "https://www.wga.hu/html/b/barbari/christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3154
+        },
+        {
+            "title": "Cleopatra",
+            "date": "1495-1516",
+            "technique": "Engraving 181 x 117 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/barbari/cleopatr.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 3155
+        },
+        {
+            "title": "Virgin and Child Flanked by St John the Baptist and St Anthony Abbot",
+            "date": "1490s",
+            "technique": "Oil on canvas 47 x 55 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barbari/fountain.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3156
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1505-06",
+            "technique": "Oil on linden panel 38 x 30 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/barbari/man_port.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3157
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1497-1500",
+            "technique": "Oil on poplar panel 61 x 46 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/barbari/manpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3158
+        },
+        {
+            "title": "Allegory (verso of the Portrait of a Man)",
+            "date": "1497-1500",
+            "technique": "Oil on poplar panel 61 x 46 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/barbari/manpor_r.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3159
+        },
+        {
+            "title": "Nude Woman Holding a Mirror",
+            "date": "1503-04",
+            "technique": "Engraving 85 x 60 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/barbari/nude_wom.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 3160
+        },
+        {
+            "title": "Portrait of Fra Luca Pacioli and an Unknown Young Man",
+            "date": "c. 1495",
+            "technique": "Wood",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/b/barbari/pacioli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3161
+        },
+        {
+            "title": "Perspective plan of Venice",
+            "date": "1500",
+            "technique": "Woodcut produced with six blocks 135 x 282 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/barbari/planven.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 3162
+        },
+        {
+            "title": "Perspective plan of Venice (detail)",
+            "date": "1500",
+            "technique": "Woodcut produced with six blocks",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/barbari/planven1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 3163
+        },
+        {
+            "title": "Perspective plan of Venice (detail)",
+            "date": "1500",
+            "technique": "Woodcut produced with six blocks",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/barbari/planven2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 3164
+        },
+        {
+            "title": "Perspective plan of Venice (detail)",
+            "date": "1500",
+            "technique": "Woodcut produced with six blocks",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/barbari/planven3.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 3165
+        },
+        {
+            "title": "Still-Life with Partridge and Gauntlet",
+            "date": "1504",
+            "technique": "Wood 52 x 425 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/barbari/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3166
+        },
+        {
+            "title": "Mars and Venus",
+            "date": "1509-16",
+            "technique": "Engraving 290 x 180 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/barbari/venus.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 3167
+        },
+        {}
+    ]
+}

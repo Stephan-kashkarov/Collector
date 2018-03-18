@@ -1,0 +1,39 @@
+{
+    "name": "TOM\u00c9 Narciso",
+    "life": "(b. 1694 Toro d. 1742 Toledo)",
+    "school": "Spanish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Transparente",
+            "date": "1721-32",
+            "technique": "Stucco bronze marble",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/t/tome/transpa.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 39865
+        },
+        {
+            "title": "Transparente",
+            "date": "1721-32",
+            "technique": "Stucco bronze marble",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/t/tome/transpar.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 39866
+        },
+        {
+            "title": "Transparente",
+            "date": "1721-32",
+            "technique": "Stucco bronze marble",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/t/tome/transpax.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39867
+        },
+        {}
+    ]
+}

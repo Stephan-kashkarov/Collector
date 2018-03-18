@@ -1,0 +1,69 @@
+{
+    "name": "DOMENICO DI MICHELINO",
+    "life": "(b. 1417 Firenze d. 1491 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Three Franciscan Saints",
+            "date": "c. 1470",
+            "technique": "Panel 159 x 162 cm",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/3saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11686
+        },
+        {
+            "title": "Dante and the Three Kingdoms",
+            "date": "1465",
+            "technique": "Oil on canvas",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/dante.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11687
+        },
+        {
+            "title": "Dante and the Three Kingdoms (detail)",
+            "date": "1465",
+            "technique": "Oil on canvas",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/dante0.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 11688
+        },
+        {
+            "title": "Dante Illuminating Florence with his Poem (detail)",
+            "date": "1465",
+            "technique": "Oil on canvas",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/dante1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 11689
+        },
+        {
+            "title": "Dante Illuminating Florence with his Poem (detail)",
+            "date": "1465",
+            "technique": "Oil on canvas",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/dante2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 11690
+        },
+        {
+            "title": "The Triumph of Fame the Triumph of Time and the Triumph of Eternity",
+            "date": "-",
+            "technique": "Tempera on panel gold ground 42 x 177 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/domenico/michelin/triumphs.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 11691
+        },
+        {}
+    ]
+}

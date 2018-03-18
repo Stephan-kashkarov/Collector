@@ -1,0 +1,69 @@
+{
+    "name": "DAUCHER Hans",
+    "life": "(b. ca. 1485 Ulm d. ca. 1538 Stuttgart)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Allegory of Virtues and Vices at the Court of Charles V",
+            "date": "1522",
+            "technique": "Limestone 28 x 47 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/daucher/hans/allegor.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10842
+        },
+        {
+            "title": "Allegory of Virtues and Vices at the Court of Charles V (detail)",
+            "date": "1522",
+            "technique": "Limestone",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/daucher/hans/allegor1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10843
+        },
+        {
+            "title": "Shield Bearer with the Ducal Arms of Savoy",
+            "date": "c. 1520",
+            "technique": "Limestone partially painted and gilt height 49 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/daucher/hans/bearer.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 10844
+        },
+        {
+            "title": "Charles V on Horseback",
+            "date": "1522",
+            "technique": "Stone relief 19 x 13 cm",
+            "location": "Tiroler Landesmuseum Ferdinandeum Innsbruck",
+            "url": "https://www.wga.hu/html/d/daucher/hans/charles5.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10845
+        },
+        {
+            "title": "Madonna and Child with Angels",
+            "date": "1520",
+            "technique": "Limestone 42 x 31 cm",
+            "location": "Maximiliansmuseum Augsburg",
+            "url": "https://www.wga.hu/html/d/daucher/hans/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10846
+        },
+        {
+            "title": "Portal of the ducal chapel",
+            "date": "1518-21",
+            "technique": "Limestone height 5 m",
+            "location": "Cathedral Meissen",
+            "url": "https://www.wga.hu/html/d/daucher/hans/meissen.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 10847
+        },
+        {}
+    ]
+}

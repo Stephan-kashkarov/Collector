@@ -1,0 +1,119 @@
+{
+    "name": "DALOU Jules",
+    "life": "(b. 1838 Paris d. 1902 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Bather Drying her Right Foot",
+            "date": "-",
+            "technique": "Bronze height 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/bather.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 10741
+        },
+        {
+            "title": "The Courtesan",
+            "date": "-",
+            "technique": "Bronze 20 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/courtesa.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 10742
+        },
+        {
+            "title": "Embroideress",
+            "date": "1870",
+            "technique": "Plaster height 28 cm",
+            "location": "Mus\u00e9e du Petit Palais Paris",
+            "url": "https://www.wga.hu/html/d/dalou/embroide.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 10743
+        },
+        {
+            "title": "The Embroiderer",
+            "date": "1870",
+            "technique": "Bronze height 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/embroidf.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10744
+        },
+        {
+            "title": "Girl Wearing a Headscarf",
+            "date": "1890-92",
+            "technique": "Marble height 40 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/d/dalou/girlhead.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10745
+        },
+        {
+            "title": "Young Mother from Boulogne Feeding her Child",
+            "date": "1876",
+            "technique": "Terracotta height 137 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/mother.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 10746
+        },
+        {
+            "title": "Young Mother from Boulogne Feeding her Child (detail)",
+            "date": "1876",
+            "technique": "Terracotta",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/mother1.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 10747
+        },
+        {
+            "title": "Peasant Woman with her Child",
+            "date": "1873",
+            "technique": "Terracotta height 125 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/d/dalou/peasant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 10748
+        },
+        {
+            "title": "Triumph of the Republic",
+            "date": "1879-99",
+            "technique": "Bronze height 12 m",
+            "location": "Place de la Nation Paris",
+            "url": "https://www.wga.hu/html/d/dalou/triumph.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10749
+        },
+        {
+            "title": "Blacksmith",
+            "date": "1879-89",
+            "technique": "Plaster height 68 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/d/dalou/triumph1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 10750
+        },
+        {
+            "title": "Truth Unacknowledged",
+            "date": "-",
+            "technique": "Bronze 32 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalou/truth.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10751
+        },
+        {}
+    ]
+}

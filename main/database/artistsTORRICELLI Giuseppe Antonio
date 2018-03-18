@@ -1,0 +1,29 @@
+{
+    "name": "TORRICELLI Giuseppe Antonio",
+    "life": "(b. 1659 Firenze d. 1719 Firenze)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Cosimo III de' Medici",
+            "date": "c. 1710",
+            "technique": "Hard stone bronze and wood height 46 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/t/torricel/cosimo3.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 39914
+        },
+        {
+            "title": "Cosimo III and Tuscany before the Temple of Peace",
+            "date": "c. 1710",
+            "technique": "Chalcedony cameo 17 x 11 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/t/torricel/tuscany.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 39915
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "GONZ\u00c1LEZ VEL\u00c1ZQUEZ Antonio",
+    "life": "(b. 1723 Madrid d. 1794 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Gentleness Accompanied by the Four Cardinal Virtues",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palacio Real Madrid",
+            "url": "https://www.wga.hu/html/g/gonzvela/antonio/ceiling.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 17444
+        },
+        {
+            "title": "Crucifixion with St Michael",
+            "date": "-",
+            "technique": "Oil on canvas 49 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gonzvela/antonio/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 17445
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on canvas 87 x 68 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/g/gonzvela/antonio/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 17446
+        },
+        {}
+    ]
+}

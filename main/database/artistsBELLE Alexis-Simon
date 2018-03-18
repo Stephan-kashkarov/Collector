@@ -1,0 +1,59 @@
+{
+    "name": "BELLE Alexis-Simon",
+    "life": "(b. 1674 Paris d. 1734 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/belle/alexis/gentlema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3720
+        },
+        {
+            "title": "Queen Marie Leczinska of France with Dauphin Louis",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 170 x 139 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/b/belle/alexis/leczinsk.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3721
+        },
+        {
+            "title": "Portrait of Louis XV",
+            "date": "-",
+            "technique": "Oil on canvas 116 x 89 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/belle/alexis/louis_14.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3722
+        },
+        {
+            "title": "Prince James Francis Edward Stuart and Princess Louisa Maria Theresa",
+            "date": "1699",
+            "technique": "Oil on canvas 189 x 132 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/b/belle/alexis/prince.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3723
+        },
+        {
+            "title": "Catherine and Eug\u00e8ne de B\u00e9thisy",
+            "date": "-",
+            "technique": "Oil on canvas 144 x 133 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/b/belle/alexis/sisters.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3724
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "DERMOYEN Willem",
+    "life": "(active 1520-1530s in Brussels)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Mutiny of the Swiss Pikemen",
+            "date": "1528-31",
+            "technique": "Wool and silk tapestry 440 x 818 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/d/dermoyen/battle.html",
+            "form": "tapestry",
+            "painting_type": "historical",
+            "index": 11441
+        },
+        {
+            "title": "November",
+            "date": "1531-33",
+            "technique": "Tapestry",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dermoyen/tapestry.html",
+            "form": "tapestry",
+            "painting_type": "mythological",
+            "index": 11442
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "BIANCHI Pietro II",
+    "life": "(b. 1787 Lugano d. 1849 Napoli)",
+    "school": "Swiss",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1809-36",
+            "technique": "Photo",
+            "location": "Foro Murat Naples",
+            "url": "https://www.wga.hu/html/b/bianch1/foromura.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4518
+        },
+        {
+            "title": "Interior view",
+            "date": "1836",
+            "technique": "Photo",
+            "location": "San Francesco di Paola Naples Naples",
+            "url": "https://www.wga.hu/html/b/bianch1/paola.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 4519
+        },
+        {}
+    ]
+}

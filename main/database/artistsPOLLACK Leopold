@@ -1,0 +1,29 @@
+{
+    "name": "POLLACK Leopold",
+    "life": "(b. 1751 Wien d. 1806 Milano)",
+    "school": "Austrian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1791-93",
+            "technique": "Photo",
+            "location": "Villa Reale Milan",
+            "url": "https://www.wga.hu/html/p/pollack/leopold/villare1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31866
+        },
+        {
+            "title": "Exterior view",
+            "date": "1791-93",
+            "technique": "Photo",
+            "location": "Villa Reale Milan",
+            "url": "https://www.wga.hu/html/p/pollack/leopold/villare2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31867
+        },
+        {}
+    ]
+}

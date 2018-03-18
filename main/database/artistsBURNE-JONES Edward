@@ -1,0 +1,99 @@
+{
+    "name": "BURNE-JONES Edward",
+    "life": "(b. 1833 Birmingham d. 1898 London)",
+    "school": "English",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Princess Sabra (The King's Daughter)",
+            "date": "1865-66",
+            "technique": "Oil on canvas 100 x 60 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/b/burnejon/1sabra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6868
+        },
+        {
+            "title": "The Baleful Head",
+            "date": "1886-87",
+            "technique": "Oil on canvas 155 x 130 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/b/burnejon/baleful.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6869
+        },
+        {
+            "title": "The Wheel of Fortune",
+            "date": "1875-83",
+            "technique": "Oil on canvas 200 x 100 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/b/burnejon/fortune.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 6870
+        },
+        {
+            "title": "The Golden Stairs",
+            "date": "1876-80",
+            "technique": "Oil on canvas 277 x 117 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/b/burnejon/goldenst.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 6871
+        },
+        {
+            "title": "Garden of the Hesperides",
+            "date": "c. 1870",
+            "technique": "Watercolour and gouache on paper 119 x 98 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/b/burnejon/hesperid.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 6872
+        },
+        {
+            "title": "The Beguiling of Merlin",
+            "date": "1874",
+            "technique": "Oil on canvas 186 x 111 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/burnejon/merlin.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 6873
+        },
+        {
+            "title": "The Mirror of Venus",
+            "date": "-",
+            "technique": "Oil on canvas 120 x 200 cm",
+            "location": "Museu Calouste Gulbenkian Lisbon",
+            "url": "https://www.wga.hu/html/b/burnejon/mirror.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6874
+        },
+        {
+            "title": "The Mirror of Venus (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museu Calouste Gulbenkian Lisbon",
+            "url": "https://www.wga.hu/html/b/burnejon/mirror1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6875
+        },
+        {
+            "title": "Well at the World's End",
+            "date": "1896",
+            "technique": "Woodcut",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/b/burnejon/worldend.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 6876
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "ROMANESQUE GLASS PAINTER German",
+    "life": "(active c. 1130s in Swabia)",
+    "school": "German",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Prophet Daniel and King David",
+            "date": "after 1132",
+            "technique": "Stained glass window 222 x 54 and 224 x 53 cm respectively",
+            "location": "Cathedral Augsburg",
+            "url": "https://www.wga.hu/html/zgothic/stained/12c/1/00g_1100.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 34883
+        },
+        {
+            "title": "Hosea",
+            "date": "after 1132",
+            "technique": "Stained glass window 220 x 50 cm",
+            "location": "Cathedral Augsburg",
+            "url": "https://www.wga.hu/html/zgothic/stained/12c/1/01g_1100.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 34884
+        },
+        {
+            "title": "Moses and the Burning Bush",
+            "date": "c. 1150",
+            "technique": "Stained glass 53 x 51 cm",
+            "location": "Westf\u00e4lisches Landesmuseum M\u00fcnster",
+            "url": "https://www.wga.hu/html/zgothic/stained/12c/1/02g_1100.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 34885
+        },
+        {
+            "title": "Samson with the City Gates of Gaza",
+            "date": "1180-1200",
+            "technique": "Stained glass window",
+            "location": "W\u00fcrtenbergisches Landesmuseum Stuttgart",
+            "url": "https://www.wga.hu/html/zgothic/stained/12c/1/02g_1101.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 34886
+        },
+        {}
+    ]
+}

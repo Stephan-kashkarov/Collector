@@ -1,0 +1,99 @@
+{
+    "name": "ANTONIAZZO ROMANO",
+    "life": "(c. 1430-1508/12)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1485",
+            "technique": "Wood",
+            "location": "Santa Maria sopra Minerva Rome",
+            "url": "https://www.wga.hu/html/a/antoniaz/annunci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1116
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "1485",
+            "technique": "Wood",
+            "location": "Santa Maria sopra Minerva Rome",
+            "url": "https://www.wga.hu/html/a/antoniaz/annunci1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1117
+        },
+        {
+            "title": "Madonna Adoring the Child",
+            "date": "c. 1480",
+            "technique": "Wood gold ground 63 x 50 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/a/antoniaz/mad_ador.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1118
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Tempera on panel gold ground 103 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoniaz/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1119
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Tempera on panel gold ground 43 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoniaz/madonn_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1120
+        },
+        {
+            "title": "Madonna Enthroned with the Infant Christ and Saints",
+            "date": "1487",
+            "technique": "Oil on panel 166 x 165 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/a/antoniaz/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1121
+        },
+        {
+            "title": "Nativity with Sts Lawrence and Andrew",
+            "date": "1480-85",
+            "technique": "Tempera on panel 142 x 176 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/a/antoniaz/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1122
+        },
+        {
+            "title": "The Navicella",
+            "date": "c. 1485",
+            "technique": "Wood transferred to canvas 190 x 179 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/a/antoniaz/navicell.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1123
+        },
+        {
+            "title": "Profile Portrait of Cardinal Philippe de L\u00e9vis",
+            "date": "1475",
+            "technique": "Tempera on panel 48 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoniaz/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1124
+        },
+        {}
+    ]
+}

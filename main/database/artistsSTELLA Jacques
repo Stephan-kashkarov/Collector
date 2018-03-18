@@ -1,0 +1,39 @@
+{
+    "name": "STELLA Jacques",
+    "life": "(b. 1596 Lyon d. 1657 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "-",
+            "technique": "Oil on slate 15 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stella/judith.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38016
+        },
+        {
+            "title": "The Liberality of Louis XIII and Cardinal Richelieu",
+            "date": "c. 1636",
+            "technique": "Oil on canvas 178 x 147 cm",
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/s/stella/liberali.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38017
+        },
+        {
+            "title": "Minerva and the Muses",
+            "date": "1640-45",
+            "technique": "Oil on canvas 116 x 162 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stella/minerva.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38018
+        },
+        {}
+    ]
+}

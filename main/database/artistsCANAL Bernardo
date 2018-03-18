@@ -1,0 +1,49 @@
+{
+    "name": "CANAL Bernardo",
+    "life": "(b. 1664 Venezia d. 1744 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Temple of Antoninus and Faustina in Rome",
+            "date": "1720-21",
+            "technique": "Oil on canvas 148 x 199 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/canal/antoninu.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7146
+        },
+        {
+            "title": "The Grand Canal with the Church of La Carit\u00e0",
+            "date": "1734-37",
+            "technique": "Oil on canvas 70 x 120 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canal/carita.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7147
+        },
+        {
+            "title": "The Grand Canal with the Fabbriche Nuove at Rialto",
+            "date": "1734-37",
+            "technique": "Oil on canvas 70 x 120 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canal/rialto.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7148
+        },
+        {
+            "title": "View of Rome",
+            "date": "1720s",
+            "technique": "Oil on canvas 73 x 112 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canal/viewrome.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7149
+        },
+        {}
+    ]
+}

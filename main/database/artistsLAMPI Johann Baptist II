@@ -1,0 +1,29 @@
+{
+    "name": "LAMPI Johann Baptist II",
+    "life": "(b. 1775 Trento d. 1837 Wien)",
+    "school": "Austrian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Portrait of Antonio Canova",
+            "date": "after 1806",
+            "technique": "Oil on canvas 113 x 93 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/l/lampi/son/canova.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21418
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1809",
+            "technique": "Oil on canvas painted oval 76 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lampi/son/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21419
+        },
+        {}
+    ]
+}

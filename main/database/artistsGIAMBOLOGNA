@@ -1,0 +1,619 @@
+{
+    "name": "GIAMBOLOGNA",
+    "life": "(b. ca. 1524 Douai d. 1608 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Bacchus",
+            "date": "1560-61",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/11giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15656
+        },
+        {
+            "title": "Samson and a Philistine",
+            "date": "1560-62",
+            "technique": "Marble height 210 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/g/giambolo/1/12giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15657
+        },
+        {
+            "title": "Allegory of Francesco I de' Medici",
+            "date": "1562-63",
+            "technique": "Alabaster 31 x 46 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/g/giambolo/1/13giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15658
+        },
+        {
+            "title": "Allegory",
+            "date": "1564",
+            "technique": "Bronze 31 x 46 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/14giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15659
+        },
+        {
+            "title": "Fountain of Neptune",
+            "date": "1563-66",
+            "technique": "Bronze and marble 335 cm (central figure)",
+            "location": "Piazza Maggiore Bologna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/15giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15660
+        },
+        {
+            "title": "Neptune from the Fountain of Neptune",
+            "date": "1563-66",
+            "technique": "Bronze 335 cm",
+            "location": "Piazza Maggiore Bologna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/16giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15661
+        },
+        {
+            "title": "Neptune",
+            "date": "1560s",
+            "technique": "Bronze",
+            "location": "Museo Civico Bologna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/17giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15662
+        },
+        {
+            "title": "Mercury",
+            "date": "1563-64",
+            "technique": "Bronze height 56 cm",
+            "location": "Museo Civico Bologna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/18giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15663
+        },
+        {
+            "title": "Bather",
+            "date": "1565",
+            "technique": "Bronze height 25 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/19giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15664
+        },
+        {
+            "title": "Bather",
+            "date": "1565",
+            "technique": "Bronze height 25 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/20giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15665
+        },
+        {
+            "title": "Florence Triumphant over Pisa",
+            "date": "1565",
+            "technique": "Marble height 262 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/21giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15666
+        },
+        {
+            "title": "Florence Triumphant over Pisa",
+            "date": "1565",
+            "technique": "Terracotta",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/g/giambolo/1/22giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15667
+        },
+        {
+            "title": "Eagle",
+            "date": "c. 1567",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/23giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15668
+        },
+        {
+            "title": "Turkey",
+            "date": "1560s",
+            "technique": "Bronze 62 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/24giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15669
+        },
+        {
+            "title": "Architecture",
+            "date": "1560s",
+            "technique": "Bronze height 45 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/g/giambolo/1/25giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15670
+        },
+        {
+            "title": "Female figure",
+            "date": "1571-73",
+            "technique": "Marble height 115 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/giambolo/1/26giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15671
+        },
+        {
+            "title": "Venus",
+            "date": "1573",
+            "technique": "Marble",
+            "location": "Grotto Buontalenti Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/27giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15672
+        },
+        {
+            "title": "Venus",
+            "date": "1573",
+            "technique": "Marble",
+            "location": "Grotto Buontalenti Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/28giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15673
+        },
+        {
+            "title": "Fata Morgana",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giambolo/1/29giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15674
+        },
+        {
+            "title": "Apollo",
+            "date": "1573-75",
+            "technique": "Bronze",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/30giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15675
+        },
+        {
+            "title": "Perseus",
+            "date": "c. 1576",
+            "technique": "Marble",
+            "location": "Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/31giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15676
+        },
+        {
+            "title": "The Fountain of Oceanus",
+            "date": "1576",
+            "technique": "Marble",
+            "location": "Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/32giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15677
+        },
+        {
+            "title": "The Fountain of Oceanus",
+            "date": "1576",
+            "technique": "Marble",
+            "location": "Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/1/33giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15678
+        },
+        {
+            "title": "Study for the Oceanus Fountain",
+            "date": "1570s",
+            "technique": "Ink on paper",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/g/giambolo/1/34giambo.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 15679
+        },
+        {
+            "title": "Appenine",
+            "date": "1570s",
+            "technique": "Rock lava brick etc. height 10 m",
+            "location": "Garden of the Villa Medici Pratolino",
+            "url": "https://www.wga.hu/html/g/giambolo/1/35giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15680
+        },
+        {
+            "title": "Appenine (detail)",
+            "date": "1570s",
+            "technique": "Rock lava brick",
+            "location": "Garden of the Villa Medici Pratolino",
+            "url": "https://www.wga.hu/html/g/giambolo/1/36giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15681
+        },
+        {
+            "title": "Hercules and Antaeus",
+            "date": "1578-80",
+            "technique": "Bronze height 41 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/37giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15682
+        },
+        {
+            "title": "Man with a Club",
+            "date": "-",
+            "technique": "Bronze",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giambolo/1/38giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15683
+        },
+        {
+            "title": "Altar of Liberty",
+            "date": "1579",
+            "technique": "Marble",
+            "location": "Cathedral of San Martino Lucca",
+            "url": "https://www.wga.hu/html/g/giambolo/1/39giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15684
+        },
+        {
+            "title": "Mercury (front view)",
+            "date": "1580",
+            "technique": "Bronze height 180 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/51giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15685
+        },
+        {
+            "title": "Mercury (rear view)",
+            "date": "1580",
+            "technique": "Bronze height 180 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/52giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15686
+        },
+        {
+            "title": "Abduction Scene",
+            "date": "c. 1580",
+            "technique": "Bronze",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/g/giambolo/2/53giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15687
+        },
+        {
+            "title": "Rape of the Sabines",
+            "date": "1581-83",
+            "technique": "Marble height 410 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/54giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15688
+        },
+        {
+            "title": "Rape of the Sabines",
+            "date": "1581-83",
+            "technique": "Marble height 410 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/55giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15689
+        },
+        {
+            "title": "Rape of the Sabines (back view)",
+            "date": "1581-83",
+            "technique": "Marble height 410 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/56giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15690
+        },
+        {
+            "title": "Rape of the Sabines",
+            "date": "1581-83",
+            "technique": "Marble height 410 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/57giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15691
+        },
+        {
+            "title": "Rape of the Sabines",
+            "date": "1581-83",
+            "technique": "Marble height 410 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/58giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15692
+        },
+        {
+            "title": "Rape of the Sabines",
+            "date": "c. 1585",
+            "technique": "Bronze height 98 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giambolo/2/59giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15693
+        },
+        {
+            "title": "Temperance",
+            "date": "1582-84",
+            "technique": "Bronze",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/601giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15694
+        },
+        {
+            "title": "Justice",
+            "date": "1582-84",
+            "technique": "Bronze height 175 cm",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/602giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15695
+        },
+        {
+            "title": "Hope",
+            "date": "1582-84",
+            "technique": "Bronze",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/603giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15696
+        },
+        {
+            "title": "Faith",
+            "date": "1582-84",
+            "technique": "Bronze",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/604giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15697
+        },
+        {
+            "title": "Charity",
+            "date": "1582-84",
+            "technique": "Bronze",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/605giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15698
+        },
+        {
+            "title": "Fortitude",
+            "date": "1582-84",
+            "technique": "Bronze",
+            "location": "University Genoa",
+            "url": "https://www.wga.hu/html/g/giambolo/2/606giamb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15699
+        },
+        {
+            "title": "Equestrian Portrait of Cosimo I",
+            "date": "1587-94",
+            "technique": "Bronze height 450 cm",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/60giambo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 15700
+        },
+        {
+            "title": "Equestrian Portrait of Cosimo I",
+            "date": "1587-94",
+            "technique": "Bronze height 450 cm",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/61giambo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 15701
+        },
+        {
+            "title": "Equestrian Portrait of Cosimo I",
+            "date": "1587-94",
+            "technique": "Bronze height 450 cm",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/62giambo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 15702
+        },
+        {
+            "title": "Cosimo I Triumphant over Siena",
+            "date": "1595-99",
+            "technique": "Bronze height 30 cm",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/63giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15703
+        },
+        {
+            "title": "Cosimo I Triumphant over Siena (detail)",
+            "date": "1595-99",
+            "technique": "Bronze height 30 cm",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/64giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15704
+        },
+        {
+            "title": "Florence Rendering Obeisance to Duke Cosimo",
+            "date": "1595-99",
+            "technique": "Bronze",
+            "location": "Piazza della Signoria Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/65giambo.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 15705
+        },
+        {
+            "title": "General View",
+            "date": "1589",
+            "technique": "-",
+            "location": "Salviati Chapel San Marco Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/66giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15706
+        },
+        {
+            "title": "General View",
+            "date": "1589",
+            "technique": "-",
+            "location": "Salviati Chapel San Marco Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/67giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15707
+        },
+        {
+            "title": "Study for the Salviati Chapel",
+            "date": "1580s",
+            "technique": "Ink on paper",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/68giambo.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 15708
+        },
+        {
+            "title": "St Antoninus",
+            "date": "1589",
+            "technique": "Bronze",
+            "location": "Sacristy San Marco Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/69giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15709
+        },
+        {
+            "title": "St Antoninus's Ceremonial Entry into the Piazza della Signoria",
+            "date": "1589",
+            "technique": "Bronze",
+            "location": "Salviati Chapel San Marco Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/70giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15710
+        },
+        {
+            "title": "Crucifix",
+            "date": "1598",
+            "technique": "Bronze life-size",
+            "location": "Soccorso Chapel Santissima Annunziata Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/71giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15711
+        },
+        {
+            "title": "Way to Calvary",
+            "date": "1598",
+            "technique": "Bronze",
+            "location": "Soccorso Chapel Santissima Annunziata Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/72giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15712
+        },
+        {
+            "title": "Pilate Washing His Hands",
+            "date": "1598",
+            "technique": "Bronze",
+            "location": "Soccorso Chapel Santissima Annunziata Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/73giambo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15713
+        },
+        {
+            "title": "Fishing Boy",
+            "date": "1590s",
+            "technique": "Bronze height 57 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/74giambo.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15714
+        },
+        {
+            "title": "Hercules and the Centaur",
+            "date": "1600",
+            "technique": "Marble height 269 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/75giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15715
+        },
+        {
+            "title": "Hercules and the Centaur",
+            "date": "1600",
+            "technique": "Marble height 269 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/g/giambolo/2/76giambo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15716
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "UNKNOWN POTTER German",
+    "life": "(active around 1725 in Meissen)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Tea bowl and saucer",
+            "date": "1725",
+            "technique": "Porcelain height 43 cm (bowl) 123 cm (saucer)",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/meissen/1meissen.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41814
+        },
+        {
+            "title": "Purple-Ground Baluster Vase and Cover",
+            "date": "c. 1730",
+            "technique": "Porcelain height 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/meissen/2meissen.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41815
+        },
+        {
+            "title": "Teapot",
+            "date": "c. 1735",
+            "technique": "Porcelain height 11 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/meissen/3meissen.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41816
+        },
+        {
+            "title": "Teapot",
+            "date": "c. 1740",
+            "technique": "Porcelain height 75 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/meissen/4meissen.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41817
+        },
+        {}
+    ]
+}

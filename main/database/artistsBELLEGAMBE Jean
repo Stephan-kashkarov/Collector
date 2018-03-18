@@ -1,0 +1,49 @@
+{
+    "name": "BELLEGAMBE Jean",
+    "life": "(b. ca. 1470 Douai  d. ca. 1535 Douai)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1516-17",
+            "technique": "Oil on canvas tansferred from wood 109 x 80 cm (central) 103 x 33 cm (side)",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bellegam/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3728
+        },
+        {
+            "title": "The Le Cellier Triptych",
+            "date": "1508-09",
+            "technique": "Tempera and oil on wood 102 x 61 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bellegam/cellier.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3729
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "c. 1525",
+            "technique": "Oil on oak panel 222 x 178 (central) 222 x 82 cm (each wing)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bellegam/lastjudg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3730
+        },
+        {
+            "title": "The Last Judgment (left wing detail)",
+            "date": "c. 1525",
+            "technique": "Oil on oak panel",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bellegam/lastjudx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3731
+        },
+        {}
+    ]
+}

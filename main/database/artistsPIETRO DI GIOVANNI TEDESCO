@@ -1,0 +1,29 @@
+{
+    "name": "PIETRO DI GIOVANNI TEDESCO",
+    "life": "(active 1386-1402 in Florence)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Madonna of the Roses",
+            "date": "c. 1399",
+            "technique": "Marble",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/p/pietro/tedesco/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31322
+        },
+        {
+            "title": "Porta dei Canonici",
+            "date": "1402",
+            "technique": "Marble",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/p/pietro/tedesco/porta.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 31323
+        },
+        {}
+    ]
+}

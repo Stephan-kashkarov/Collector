@@ -1,0 +1,69 @@
+{
+    "name": "NOMELLINI Plinio",
+    "life": "(b. 1866 Livorno d. 1943 Firenze)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The First Birthday",
+            "date": "1914",
+            "technique": "Oil on canvas 285 x 305 cm",
+            "location": "Galleria d'Arte Moderna Florence",
+            "url": "https://www.wga.hu/html/n/nomellin/birthday.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29685
+        },
+        {
+            "title": "The First Birthday (detail)",
+            "date": "1914",
+            "technique": "Oil on canvas",
+            "location": "Galleria d'Arte Moderna Florence",
+            "url": "https://www.wga.hu/html/n/nomellin/birthdaz.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29686
+        },
+        {
+            "title": "Garibaldi",
+            "date": "1907",
+            "technique": "Oil on canvas 200 x 180 cm",
+            "location": "Museo Civico Giovanni Fattori Livorno",
+            "url": "https://www.wga.hu/html/n/nomellin/garibald.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 29687
+        },
+        {
+            "title": "The Haymaker",
+            "date": "1888",
+            "technique": "Oil on canvas 178 x 150 cm",
+            "location": "Museo Civico Giovanni Fattori Livorno",
+            "url": "https://www.wga.hu/html/n/nomellin/haymaker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29688
+        },
+        {
+            "title": "Little Bacchus",
+            "date": "c. 1910",
+            "technique": "Oil on canvas 121 x 94 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/n/nomellin/littleba.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29689
+        },
+        {
+            "title": "The Working Day Dawns",
+            "date": "1903",
+            "technique": "Oil on canvas 60 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nomellin/workingd.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29690
+        },
+        {}
+    ]
+}

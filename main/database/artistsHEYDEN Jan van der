@@ -1,0 +1,219 @@
+{
+    "name": "HEYDEN Jan van der",
+    "life": "(b. 1637 Gorinchem d. 1712 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Stone Bridge",
+            "date": "1662-72",
+            "technique": "Oil on panel 37 x 45 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heyden/bridge1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19667
+        },
+        {
+            "title": "The Drawbridge",
+            "date": "1660-72",
+            "technique": "Oil on panel 36 x 45 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heyden/bridge2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19668
+        },
+        {
+            "title": "Dam Square Amsterdam",
+            "date": "c. 1668",
+            "technique": "Oil on canvas",
+            "location": "Historisch Museum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heyden/damsquar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19669
+        },
+        {
+            "title": "Elegant Figures in the Grounds of a Baroque Palace",
+            "date": "1670s",
+            "technique": "Oil on silvered copper 12 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heyden/elegant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19670
+        },
+        {
+            "title": "Amsterdam: Street before Haarlem Tower",
+            "date": "-",
+            "technique": "Oil on oak 34 x 41 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/heyden/haarlemt.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19671
+        },
+        {
+            "title": "The Huis ten Bosch at The Hague and Its Formal Garden (View from the South)",
+            "date": "1668-70",
+            "technique": "Oil on panel 39 x 55 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/heyden/huisten1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19672
+        },
+        {
+            "title": "The Huis ten Bosch at The Hague and Its Formal Garden (View from the East)",
+            "date": "1668-70",
+            "technique": "Oil on panel 39 x 55 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/heyden/huisten2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19673
+        },
+        {
+            "title": "The Martelaarsgracht in Amsterdam",
+            "date": "c. 1670",
+            "technique": "Oil on panel 44 x 58 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heyden/martelaa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19674
+        },
+        {
+            "title": "The Oude Kerk on the Oude Delft in Delft (detail)",
+            "date": "1675",
+            "technique": "Oil on panel 45 x 57 cm",
+            "location": "Nasjonalgalleriet Oslo",
+            "url": "https://www.wga.hu/html/h/heyden/oudekerk.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19675
+        },
+        {
+            "title": "A Palatial Garden",
+            "date": "c. 1670",
+            "technique": "Oil on oak panel 38 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heyden/palatial.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19676
+        },
+        {
+            "title": "Still-Life with Globe Books and Chinese Silk",
+            "date": "c. 1669",
+            "technique": "Oil on panel 62 x 49 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/heyden/private.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19677
+        },
+        {
+            "title": "Still-Life with Rarities",
+            "date": "1712",
+            "technique": "Oil on canvas 74 x 64 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/heyden/rarities.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19678
+        },
+        {
+            "title": "View of a Small Town Square",
+            "date": "c. 1660",
+            "technique": "Oil on oak panel 32 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heyden/small_to.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19679
+        },
+        {
+            "title": "Amsterdam Dam Square with the Town Hall and the Nieuwe Kerk",
+            "date": "1667",
+            "technique": "Oil on canvas 85 x 92 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/h/heyden/townhal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19680
+        },
+        {
+            "title": "The New Town Hall in Amsterdam",
+            "date": "after 1652",
+            "technique": "Oil on canvas 73 x 86 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/heyden/townhall.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19681
+        },
+        {
+            "title": "Approach to the Town of Veere",
+            "date": "c. 1665",
+            "technique": "Oil on panel 46 x 56 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/h/heyden/veere.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19682
+        },
+        {
+            "title": "View of a Bridge",
+            "date": "-",
+            "technique": "Oil on panel 24 x 31 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/h/heyden/view_bri.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19683
+        },
+        {
+            "title": "View of Delft",
+            "date": "-",
+            "technique": "Oil on panel 55 x 71 cm",
+            "location": "Institute of Arts Detroit",
+            "url": "https://www.wga.hu/html/h/heyden/view_d.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19684
+        },
+        {
+            "title": "View of the Herengracht Amsterdam",
+            "date": "c. 1670",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heyden/view_her.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19685
+        },
+        {
+            "title": "View of the Westerkerk Amsterdam",
+            "date": "c. 1660",
+            "technique": "Oil on oak 91 x 114 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/heyden/westerk.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19686
+        },
+        {
+            "title": "View of the Westerkerk Amsterdam",
+            "date": "1670s",
+            "technique": "Oil on panel 41 x 59 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/h/heyden/westerke.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19687
+        },
+        {}
+    ]
+}

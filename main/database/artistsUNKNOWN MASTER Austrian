@@ -1,0 +1,119 @@
+{
+    "name": "UNKNOWN MASTER Austrian",
+    "life": "(active 1490s in Innsbruck)",
+    "school": "Austrian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Festivities",
+            "date": "1490s",
+            "technique": "Stone",
+            "location": "Tiroler Landesmuseum Innsbruck",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/053festi.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 40778
+        },
+        {
+            "title": "Cardinal Matth\u00e4us Lang von Wellenburg",
+            "date": "1529",
+            "technique": "Oil on parchment mounted on mahogany 76 x 61 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/cardinal.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40779
+        },
+        {
+            "title": "Christ as Man of Sorrow below the Cross",
+            "date": "1420-40",
+            "technique": "Fir 25 x 34 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/mansorro.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40780
+        },
+        {
+            "title": "Mary of Burgundy",
+            "date": "1528",
+            "technique": "Oil on fir panel 44 x 31 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/maryburg.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40781
+        },
+        {
+            "title": "The Nativity",
+            "date": "c. 1400",
+            "technique": "Tempera on walnut 41 x 295 cm",
+            "location": "Galerie mittelalterlicher \u00f6sterreichischer Kunst Vienna",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40782
+        },
+        {
+            "title": "Portrait of Kunigunde of Austria",
+            "date": "c. 1485",
+            "technique": "Oil on panel 46 x 32 cm",
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/portkuni.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40783
+        },
+        {
+            "title": "Altar",
+            "date": "1626",
+            "technique": "Wood painted and gilt",
+            "location": "Former monastery church Mondsee",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/salzburg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40784
+        },
+        {
+            "title": "Hercules and Achelous",
+            "date": "c. 1650",
+            "technique": "Ivory height 28 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/shercule.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40785
+        },
+        {
+            "title": "Hercules and Achelous (detail)",
+            "date": "c. 1650",
+            "technique": "Ivory",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/sherculx.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40786
+        },
+        {
+            "title": "Madonna on a Crescent",
+            "date": "c. 1520",
+            "technique": "Wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/smadonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40787
+        },
+        {
+            "title": "St Catherine",
+            "date": "c. 1520",
+            "technique": "Painted wood height 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/zunk_au/stcather.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40788
+        },
+        {}
+    ]
+}

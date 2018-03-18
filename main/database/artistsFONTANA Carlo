@@ -1,0 +1,39 @@
+{
+    "name": "FONTANA Carlo",
+    "life": "(b. 1634 Brusata d. 1714 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "San Marcello al Corso: Fa\u00e7ade",
+            "date": "1682-86",
+            "technique": "Photo",
+            "location": "Piazza di San Marcello Rome",
+            "url": "https://www.wga.hu/html/f/fontanac/marcell1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13977
+        },
+        {
+            "title": "San Marcello al Corso: Fa\u00e7ade",
+            "date": "1682-86",
+            "technique": "Photo",
+            "location": "Piazza di San Marcello Rome",
+            "url": "https://www.wga.hu/html/f/fontanac/marcell2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13978
+        },
+        {
+            "title": "Palazzo Montecitorio: Fa\u00e7ade",
+            "date": "1682-86",
+            "technique": "Photo",
+            "location": "Piazza di Montecitorio Rome",
+            "url": "https://www.wga.hu/html/f/fontanac/montecit.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13979
+        },
+        {}
+    ]
+}

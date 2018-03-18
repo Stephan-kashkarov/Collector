@@ -1,0 +1,29 @@
+{
+    "name": "MAUVE Anton",
+    "life": "(b. 1838 Zaandam d. 1888 Arnhem)",
+    "school": "Dutch",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Morning Ride on the Beach",
+            "date": "1876",
+            "technique": "Oil on canvas 45 x 70 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/mauve/morning.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 25299
+        },
+        {
+            "title": "Laren Woman with Goat",
+            "date": "1885",
+            "technique": "Oil on canvas 50 x 75 cm",
+            "location": "Haags Gemeentemuseum The Hague",
+            "url": "https://www.wga.hu/html/m/mauve/womangoa.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 25300
+        },
+        {}
+    ]
+}

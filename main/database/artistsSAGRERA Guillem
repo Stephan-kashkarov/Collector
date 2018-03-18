@@ -1,0 +1,29 @@
+{
+    "name": "SAGRERA Guillem",
+    "life": "(b. ca. 1380 Felanitx d. 1456 Napoli)",
+    "school": "Spanish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1424-46",
+            "technique": "Photo",
+            "location": "Llotja Palma de Mallorca",
+            "url": "https://www.wga.hu/html/s/sagrera/llotja1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35981
+        },
+        {
+            "title": "Interior view",
+            "date": "1424-46",
+            "technique": "Photo",
+            "location": "Llotja Palma de Mallorca",
+            "url": "https://www.wga.hu/html/s/sagrera/llotja2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 35982
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "PUCCIO DI SIMONE",
+    "life": "(active 1343-1357 in Florence)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "The Coronation of the Virgin",
+            "date": "1354-57",
+            "technique": "Tempera on poplar panel gold ground 61 x 30 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/p/puccio/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32548
+        },
+        {
+            "title": "Madonna and Child with Angels",
+            "date": "c. 1350",
+            "technique": "Tempera on panel 97 x 57 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/p/puccio/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32549
+        },
+        {
+            "title": "St James the Lesser",
+            "date": "1347-49",
+            "technique": "Tempera on panel gold ground 100 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/puccio/panel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32550
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1347-49",
+            "technique": "Tempera on panel gold ground 100 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/puccio/panel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32551
+        },
+        {
+            "title": "Polyptych",
+            "date": "c. 1357",
+            "technique": "Tempera on panel",
+            "location": "Museo di Arte Sacra Certaldo",
+            "url": "https://www.wga.hu/html/p/puccio/polyptyc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32552
+        },
+        {
+            "title": "Triptych",
+            "date": "1354",
+            "technique": "Tempera on panel 151 x 67 cm (framed)",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/puccio/triptich.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32553
+        },
+        {}
+    ]
+}

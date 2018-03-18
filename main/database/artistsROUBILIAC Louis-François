@@ -1,0 +1,59 @@
+{
+    "name": "ROUBILIAC Louis-Fran\u00e7ois",
+    "life": "(b. 1705 Lyon d. 1762 London)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bust of Alexander Pope",
+            "date": "-",
+            "technique": "Marble height 63 cm (with pedestal)",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/r/roubilia/alexpope.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 35320
+        },
+        {
+            "title": "Bust of John Belchier",
+            "date": "1749",
+            "technique": "Marble",
+            "location": "Royal College of Surgeons of England London",
+            "url": "https://www.wga.hu/html/r/roubilia/belchier.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 35321
+        },
+        {
+            "title": "George II King of England",
+            "date": "-",
+            "technique": "Marble height 79 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/r/roubilia/george2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 35322
+        },
+        {
+            "title": "George Frideric Handel",
+            "date": "1738",
+            "technique": "Marble height 136 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/r/roubilia/handel.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 35323
+        },
+        {
+            "title": "Tomb of Sir Joseph and Lady Elizabeth Nightingale",
+            "date": "1761",
+            "technique": "Marble",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/r/roubilia/nighting.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 35324
+        },
+        {}
+    ]
+}

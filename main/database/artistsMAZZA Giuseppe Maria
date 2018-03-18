@@ -1,0 +1,59 @@
+{
+    "name": "MAZZA Giuseppe Maria",
+    "life": "(b. 1653 Bologna d. 1741 Bologna)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Scenes from the Life of St Dominic",
+            "date": "1716-35",
+            "technique": "Bronze reliefs",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/m/mazza/dominic1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25316
+        },
+        {
+            "title": "Scenes from the Life of St Dominic",
+            "date": "1716-35",
+            "technique": "Bronze reliefs",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/m/mazza/dominic2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25317
+        },
+        {
+            "title": "Death of St Dominic",
+            "date": "1716-35",
+            "technique": "Bronze",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/m/mazza/dominic3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25318
+        },
+        {
+            "title": "St Jerome",
+            "date": "1676",
+            "technique": "Marble",
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "url": "https://www.wga.hu/html/m/mazza/stjerome.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25319
+        },
+        {
+            "title": "Stucco Decoration of the Main Altar",
+            "date": "1690s",
+            "technique": "Stucco",
+            "location": "Church of Corpus Domini Bologna",
+            "url": "https://www.wga.hu/html/m/mazza/stucco.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25320
+        },
+        {}
+    ]
+}

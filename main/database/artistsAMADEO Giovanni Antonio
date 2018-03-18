@@ -1,0 +1,49 @@
+{
+    "name": "AMADEO Giovanni Antonio",
+    "life": "(b. ca. 1447 Pavia d. 1522 Milano)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Certosa: Fa\u00e7ade",
+            "date": "1473",
+            "technique": "Photo",
+            "location": "Certosa Pavia",
+            "url": "https://www.wga.hu/html/a/amadeo/certosa.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 440
+        },
+        {
+            "title": "Certosa: Fa\u00e7ade",
+            "date": "1473",
+            "technique": "Marble",
+            "location": "Certosa Pavia",
+            "url": "https://www.wga.hu/html/a/amadeo/certosa1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 441
+        },
+        {
+            "title": "Fa\u00e7ade of the church (detail)",
+            "date": "1473",
+            "technique": "Marble",
+            "location": "Certosa Pavia",
+            "url": "https://www.wga.hu/html/a/amadeo/certosa2.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 442
+        },
+        {
+            "title": "Exterior",
+            "date": "1472-76",
+            "technique": "-",
+            "location": "Cappella Colleoni Bergamo",
+            "url": "https://www.wga.hu/html/a/amadeo/colleoni.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 443
+        },
+        {}
+    ]
+}

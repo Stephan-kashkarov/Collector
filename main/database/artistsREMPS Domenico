@@ -1,0 +1,29 @@
+{
+    "name": "REMPS Domenico",
+    "life": "(c. 1620-c. 1699)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Cabinet of Curiosities",
+            "date": "c. 1689",
+            "technique": "Oil on shaped canvas 99 x 137 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/r/remps/cabinet.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 33915
+        },
+        {
+            "title": "Cabinet of Curiosities (detail)",
+            "date": "1690s",
+            "technique": "Oil on canvas",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/r/remps/cabinet1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 33916
+        },
+        {}
+    ]
+}

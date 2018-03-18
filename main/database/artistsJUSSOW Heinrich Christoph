@@ -1,0 +1,39 @@
+{
+    "name": "JUSSOW Heinrich Christoph",
+    "life": "(b. 1754 Kassel d. 1825 Kassel)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1791-99",
+            "technique": "Photo",
+            "location": "Castle of L\u00f6wenburg Wilhelmsh\u00f6he Kassel",
+            "url": "https://www.wga.hu/html/j/jussow/lowenbur.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20836
+        },
+        {
+            "title": "Exterior view",
+            "date": "1786-99",
+            "technique": "Photo",
+            "location": "Schloss Wilhelmsh\u00f6he Kassel",
+            "url": "https://www.wga.hu/html/j/jussow/wilhelm1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20837
+        },
+        {
+            "title": "The aqueduct",
+            "date": "1791-99",
+            "technique": "Photo",
+            "location": "Bergpark Wilhelmsh\u00f6he Kassel",
+            "url": "https://www.wga.hu/html/j/jussow/wilhelm3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20838
+        },
+        {}
+    ]
+}

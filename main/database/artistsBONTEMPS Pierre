@@ -1,0 +1,49 @@
+{
+    "name": "BONTEMPS Pierre",
+    "life": "(b. ca. 1512 Sens d. ca. 1570 Verneuil-sur-Oise)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Tomb of Francis I and Claude de France",
+            "date": "1549-59",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/b/bontemps/claude.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5048
+        },
+        {
+            "title": "Tomb of Francis I and Claude de France",
+            "date": "1549-59",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/b/bontemps/claude0.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5049
+        },
+        {
+            "title": "Tomb of Francis I and Claude de France (detail)",
+            "date": "1549-59",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/b/bontemps/claude1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 5050
+        },
+        {
+            "title": "Monument for the Heart of Francis I",
+            "date": "1550",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/b/bontemps/heart_fr.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 5051
+        },
+        {}
+    ]
+}

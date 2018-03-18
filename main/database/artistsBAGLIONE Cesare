@@ -1,0 +1,39 @@
+{
+    "name": "BAGLIONE Cesare",
+    "life": "(b. ca. 1545 Cremona d. 1615)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "c. 1570",
+            "technique": "Fresco",
+            "location": "Sala dei Gesta Rossiana Rocca dei Rossi San Secondo",
+            "url": "https://www.wga.hu/html/b/baglion/rocca1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 2955
+        },
+        {
+            "title": "Grotesques with Imaginary Landscapes",
+            "date": "1570-75",
+            "technique": "Fresco",
+            "location": "Stanza del Lupo Rocca dei Rossi San Secondo",
+            "url": "https://www.wga.hu/html/b/baglion/rocca2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2956
+        },
+        {
+            "title": "Grotesques",
+            "date": "c. 1588",
+            "technique": "Fresco",
+            "location": "Salone Rocca Meli Lupi Soragna",
+            "url": "https://www.wga.hu/html/b/baglion/soragna.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 2957
+        },
+        {}
+    ]
+}

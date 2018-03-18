@@ -1,0 +1,49 @@
+{
+    "name": "BISSEN Hermann Wilhelm",
+    "life": "(b. 1798 Schleswig d. 1868 K\u00f8benhavn)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bathing Girl",
+            "date": "1858-60",
+            "technique": "Marble",
+            "location": "Ny Carlsberg Glyptotek Copenhagen",
+            "url": "https://www.wga.hu/html/b/bissen/bathing.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 4650
+        },
+        {
+            "title": "The The Isted Lion (Istedl\u00f8ven)",
+            "date": "1862",
+            "technique": "Bronze",
+            "location": "Copenhagen",
+            "url": "https://www.wga.hu/html/b/bissen/istedlio.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 4651
+        },
+        {
+            "title": "Prince Paris",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Ny Carlsberg Glyptotek Copenhagen",
+            "url": "https://www.wga.hu/html/b/bissen/prince.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 4652
+        },
+        {
+            "title": "Soldiers Burying their Dead",
+            "date": "1849",
+            "technique": "Stone",
+            "location": "Fridericia Denmark",
+            "url": "https://www.wga.hu/html/b/bissen/soldiers.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 4653
+        },
+        {}
+    ]
+}

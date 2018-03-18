@@ -1,0 +1,59 @@
+{
+    "name": "MIJTENS Jan",
+    "life": "(b. ca. 1614 Den Haag d. 1670 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Family of Willem Van Der Does",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/m/mijtens/jan/der_does.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27153
+        },
+        {
+            "title": "Lady Playing the Lute",
+            "date": "1648",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/m/mijtens/jan/lute.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27154
+        },
+        {
+            "title": "Matthijs Pompe van Slingelandt and His Family",
+            "date": "c. 1654",
+            "technique": "Oil on canvas 112 x 106 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/m/mijtens/jan/pompe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27155
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 70 x 57 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/m/mijtens/jan/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27156
+        },
+        {
+            "title": "Govert van Slingelandt and Family",
+            "date": "1657",
+            "technique": "Oil on canvas 100 x 87 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/mijtens/jan/slingela.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27157
+        },
+        {}
+    ]
+}

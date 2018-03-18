@@ -1,0 +1,29 @@
+{
+    "name": "BROSSE Salomon de",
+    "life": "(b. 1571 Verneuil-en-Halatte d. 1626 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1615-24",
+            "technique": "Photo",
+            "location": "Palais du Luxembourg Paris",
+            "url": "https://www.wga.hu/html/b/brosse/palais.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6285
+        },
+        {
+            "title": "Exterior view",
+            "date": "1616-21",
+            "technique": "Photo",
+            "location": "Saint-Gervais Paris",
+            "url": "https://www.wga.hu/html/b/brosse/sgervais.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6286
+        },
+        {}
+    ]
+}

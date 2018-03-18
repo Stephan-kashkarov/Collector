@@ -1,0 +1,39 @@
+{
+    "name": "VICO Enea",
+    "life": "(b. 1523 Parma d. 1567 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Aristotle",
+            "date": "1546",
+            "technique": "Engraving 351 x 225 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vico/aristotl.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43132
+        },
+        {
+            "title": "Conversion of St Paul",
+            "date": "1545",
+            "technique": "Engraving 535 x 935 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vico/conversi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 43133
+        },
+        {
+            "title": "Portrait of Anton Francesco Doni",
+            "date": "c. 1548",
+            "technique": "Engraving",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/vico/portrait.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 43134
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "VENDRI Antonio da",
+    "life": "(b. ca. 1476 Verona d. 1555 Verona)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Giusti Family of Verona",
+            "date": "c. 1520",
+            "technique": "Oil on canvas 55 x 153 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/v/vendri/giusti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42423
+        },
+        {
+            "title": "Judgment of Paris",
+            "date": "1500-24",
+            "technique": "Oil on canvas 71 x 77 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/vendri/judgment.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42424
+        },
+        {}
+    ]
+}

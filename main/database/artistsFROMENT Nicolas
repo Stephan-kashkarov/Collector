@@ -1,0 +1,59 @@
+{
+    "name": "FROMENT Nicolas",
+    "life": "(b. ca. 1435 Uzes d. ca. 1486 Avignon)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Burning Bush",
+            "date": "1476",
+            "technique": "Wood 410 x 305 cm",
+            "location": "Cathedrale Saint Sauveur Aix-en-Provence",
+            "url": "https://www.wga.hu/html/f/froment/burning.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14510
+        },
+        {
+            "title": "The Burning Bush (detail)",
+            "date": "1476",
+            "technique": "Wood",
+            "location": "Cathedrale Saint Sauveur Aix-en-Provence",
+            "url": "https://www.wga.hu/html/f/froment/burning1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14511
+        },
+        {
+            "title": "Matheron Diptych",
+            "date": "1474",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/f/froment/diptych.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14512
+        },
+        {
+            "title": "Triptych",
+            "date": "1461",
+            "technique": "Oil on wood 175 x 134 cm (central) 175 x 66 cm (each side wing)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/f/froment/lazar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14513
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1461",
+            "technique": "Wood 175 x 134 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/f/froment/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14514
+        },
+        {}
+    ]
+}

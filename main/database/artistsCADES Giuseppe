@@ -1,0 +1,29 @@
+{
+    "name": "CADES Giuseppe",
+    "life": "(b. 1750 Roma d. 1799 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Alexander the Great Refuses to Take Water",
+            "date": "1792",
+            "technique": "Tempera with wax on canvas 81 x 114 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/cades/alexande.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 6945
+        },
+        {
+            "title": "The Meeting of Gautier Count of Antwerp and his Daughter Violante",
+            "date": "c. 1787",
+            "technique": "Oil on canvas 37 x 70 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/cades/meeting.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 6946
+        },
+        {}
+    ]
+}

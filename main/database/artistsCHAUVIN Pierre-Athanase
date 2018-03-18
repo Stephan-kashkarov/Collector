@@ -1,0 +1,29 @@
+{
+    "name": "CHAUVIN Pierre-Athanase",
+    "life": "(b. 1774 Paris 1832 Roma)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Italian Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 31 x 31 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/chauvin/italian1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8745
+        },
+        {
+            "title": "Italian Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 31 x 31 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/chauvin/italian2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8746
+        },
+        {}
+    ]
+}

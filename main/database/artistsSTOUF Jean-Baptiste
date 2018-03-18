@@ -1,0 +1,109 @@
+{
+    "name": "STOUF Jean-Baptiste",
+    "life": "(b. 1742 Paris d. 1826 Charenton-le-Pont)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Abel Dying",
+            "date": "1785",
+            "technique": "Marble 30 x 102 x 46 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/abel1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38145
+        },
+        {
+            "title": "Abel Dying",
+            "date": "1785",
+            "technique": "Marble 30 x 102 x 46 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/abel2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38146
+        },
+        {
+            "title": "Abel Dying",
+            "date": "1785",
+            "technique": "Marble 30 x 102 x 46 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/abel3.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38147
+        },
+        {
+            "title": "Belisarius",
+            "date": "1785-91",
+            "technique": "Marble height 60 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/s/stouf/belisari.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 38148
+        },
+        {
+            "title": "Crying Girl",
+            "date": "1789",
+            "technique": "Marble height 61 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/crying1.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 38149
+        },
+        {
+            "title": "Crying Girl",
+            "date": "1789",
+            "technique": "Marble height 61 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/crying2.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 38150
+        },
+        {
+            "title": "Distressed Girl",
+            "date": "1785",
+            "technique": "Terracotta height 38 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/distress.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 38151
+        },
+        {
+            "title": "The Composer Gr\u00e9try",
+            "date": "1804-08",
+            "technique": "Marble height 171 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/stouf/gretry.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38152
+        },
+        {
+            "title": "The Composer Gr\u00e9try (detail)",
+            "date": "1804-08",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/stouf/gretry1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38153
+        },
+        {
+            "title": "Rubens",
+            "date": "1802",
+            "technique": "Marble height 64 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/stouf/rubens.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38154
+        },
+        {}
+    ]
+}

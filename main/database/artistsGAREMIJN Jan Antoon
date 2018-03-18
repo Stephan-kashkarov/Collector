@@ -1,0 +1,29 @@
+{
+    "name": "GAREMIJN Jan Antoon",
+    "life": "(b. 1712 Brugge d. 1799 Brugge)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Garden of the Willaeys-Vleys Family at Groeninge Bruges",
+            "date": "1759",
+            "technique": "Oil on canvas 179 x 93 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/garemijn/garden_w.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 14814
+        },
+        {
+            "title": "The Pandreitje in Bruges",
+            "date": "1778",
+            "technique": "Oil on canvas 795 x 1085 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/garemijn/pandreit.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 14815
+        },
+        {}
+    ]
+}

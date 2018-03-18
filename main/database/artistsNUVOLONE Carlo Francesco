@@ -1,0 +1,79 @@
+{
+    "name": "NUVOLONE Carlo Francesco",
+    "life": "(b. 1609 Milano d. ca. 1662 Milano)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St Anthony of Padua and the Infant Christ",
+            "date": "-",
+            "technique": "Oil on panel 31 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/anthony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29723
+        },
+        {
+            "title": "The Artist and his Family",
+            "date": "-",
+            "technique": "Oil on canvas transferred from panel 126 x 180 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29724
+        },
+        {
+            "title": "Portrait of a Gentleman in Armour",
+            "date": "1650s",
+            "technique": "Oil on canvas 215 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29725
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1647-49",
+            "technique": "Oil on canvas 200 x 120 cm",
+            "location": "Collezioni Comunali d'Arte di Palazzo d'Accursio Bologna",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29726
+        },
+        {
+            "title": "Joseph and the Wife of Potiphar",
+            "date": "-",
+            "technique": "Oil on canvas 150 x 116 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/potiphar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29727
+        },
+        {
+            "title": "Roman Charity",
+            "date": "-",
+            "technique": "Oil on canvas 111 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/rcharity.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29728
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "-",
+            "technique": "Oil on canvas 141 x 181 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nuvolone/carlofra/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29729
+        },
+        {}
+    ]
+}

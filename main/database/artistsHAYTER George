@@ -1,0 +1,29 @@
+{
+    "name": "HAYTER George",
+    "life": "(b. 1792 London d. 1871 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Portrait of Countess Yelizaveta Vorontsova",
+            "date": "1832",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hayter/countess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19387
+        },
+        {
+            "title": "The Marriage of Queen Victoria 10 February 1840",
+            "date": "1840",
+            "technique": "Oil on panel 20 x 27 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/h/hayter/marriage.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19388
+        },
+        {}
+    ]
+}

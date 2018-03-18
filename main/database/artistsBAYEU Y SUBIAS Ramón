@@ -1,0 +1,29 @@
+{
+    "name": "BAYEU Y SUBIAS Ram\u00f3n",
+    "life": "(b. 1746 Zaragoza d. 1793 Aranjuez)",
+    "school": "Spanish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Blind Singer",
+            "date": "c. 1786",
+            "technique": "Oil on canvas 93 x 145 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bayeu/ramon/blindsin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3540
+        },
+        {
+            "title": "Rural Homage",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bayeu/ramon/ruralhom.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3541
+        },
+        {}
+    ]
+}

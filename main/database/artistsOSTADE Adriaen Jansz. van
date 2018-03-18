@@ -1,0 +1,499 @@
+{
+    "name": "OSTADE Adriaen Jansz. van",
+    "life": "(b. 1610 Haarlem d. 1685 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Barber Extracting of Tooth",
+            "date": "1630-35",
+            "technique": "Wood 34 x 41 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/barber.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29909
+        },
+        {
+            "title": "Brawl",
+            "date": "-",
+            "technique": "Oil on wood 41 x 55 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/brawl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29910
+        },
+        {
+            "title": "Carousing Peasants in a Tavern",
+            "date": "c. 1635",
+            "technique": "Oil on oak panel 29 x 36 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/carousin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29911
+        },
+        {
+            "title": "Comedian Reading in a Tavern",
+            "date": "c. 1635",
+            "technique": "Oil on wood 41 x 33 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/comedian.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29912
+        },
+        {
+            "title": "Rustic Concert with Pipe and Violin",
+            "date": "1635-37",
+            "technique": "Oil on panel 27 x 30 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/countryc.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29913
+        },
+        {
+            "title": "Peasants in an Interior",
+            "date": "1661",
+            "technique": "Oil on copper 37 x 47 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/countryp.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29914
+        },
+        {
+            "title": "A Fight",
+            "date": "1637",
+            "technique": "Oil on panel 25 x 34 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/fight.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29915
+        },
+        {
+            "title": "Inn Scene",
+            "date": "-",
+            "technique": "Oil on panel 31 x 46 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/innscene.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29916
+        },
+        {
+            "title": "Piping and Drinking in the Tavern",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/intavern.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29917
+        },
+        {
+            "title": "Interior of a Farmhouse with Skaters",
+            "date": "1650",
+            "technique": "Oil on panel 44 x 36 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/interior.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29918
+        },
+        {
+            "title": "Merry Peasants",
+            "date": "1648",
+            "technique": "Oil on canvas 61 x 52 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/merrypea.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29919
+        },
+        {
+            "title": "Village Musicians",
+            "date": "1645",
+            "technique": "Oil on wood 39 x 31 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/musician.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29920
+        },
+        {
+            "title": "Peasant Family in a Cottage Interior",
+            "date": "1661",
+            "technique": "Oil on oak panel 35 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_cottag.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29921
+        },
+        {
+            "title": "Peasant Family in a Cottage Interior (detail)",
+            "date": "1661",
+            "technique": "Oil on oak panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_cottax.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29922
+        },
+        {
+            "title": "Peasant Family",
+            "date": "1667",
+            "technique": "Oil on panel 23 x 19 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_famil.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29923
+        },
+        {
+            "title": "Interior with a Peasant Family",
+            "date": "1647",
+            "technique": "Oil on oakwood 431 x 365 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_family.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29924
+        },
+        {
+            "title": "Peasant Family by a Hearth",
+            "date": "1660",
+            "technique": "Oil on oak panel 46 x 39 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_heart.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29925
+        },
+        {
+            "title": "Peasant Family by a Hearth (detail)",
+            "date": "1660",
+            "technique": "Oil on oak panel",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/p_heart1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29926
+        },
+        {
+            "title": "Peasants Drinking and Making Music in a Barn",
+            "date": "c. 1635",
+            "technique": "Oil on panel 34 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/peasant1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29927
+        },
+        {
+            "title": "Peasants Carousing and Dancing outside an Inn",
+            "date": "1660",
+            "technique": "Oil on oak panel 43 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/peasants.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29928
+        },
+        {
+            "title": "Scene in the Tavern",
+            "date": "-",
+            "technique": "Pen watercolor",
+            "location": "Graphic Cabinet Dresden",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/scene_t.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 29929
+        },
+        {
+            "title": "Smoker",
+            "date": "c. 1655",
+            "technique": "Oil on panel 18 x 16 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/smoker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29930
+        },
+        {
+            "title": "Old Man Smoking a Pipe",
+            "date": "-",
+            "technique": "Oil on panel 21 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/smoker1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29931
+        },
+        {
+            "title": "Rustic Concert",
+            "date": "1638",
+            "technique": "Oil on panel 20 x 39 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/v_feast.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29932
+        },
+        {
+            "title": "Village Tavern with Four Figures",
+            "date": "1635",
+            "technique": "Oil on oak 13 x 17 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/vill_tav.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29933
+        },
+        {
+            "title": "Interior of a Tavern with Violin Player",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/violin_p.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29934
+        },
+        {
+            "title": "The Violinist",
+            "date": "1673",
+            "technique": "Oil on panel 45 x 42 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/violinis.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29935
+        },
+        {
+            "title": "Wandering Musician",
+            "date": "1648",
+            "technique": "Oil on panel 27 x 22 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/1/wanderin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29936
+        },
+        {
+            "title": "Alchemist",
+            "date": "1661",
+            "technique": "Oil on oak 342 x 452 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/alchemis.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29937
+        },
+        {
+            "title": "Cutting the Feather",
+            "date": "-",
+            "technique": "Oil on oak panel 332 x 267 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/cutting.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29938
+        },
+        {
+            "title": "The Drinker",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/drinker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29939
+        },
+        {
+            "title": "Feasting Peasants in a Tavern",
+            "date": "1673",
+            "technique": "Oil on canvas 219 x 257 cm",
+            "location": "Historisch Museum Amsterdam",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/feasting.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29940
+        },
+        {
+            "title": "The Fish Market",
+            "date": "1659",
+            "technique": "Oil on canvas 41 x 36 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/fishmark.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29941
+        },
+        {
+            "title": "The Fishwife",
+            "date": "c. 1672",
+            "technique": "Oil on canvas 29 x 265 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/fishsell.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29942
+        },
+        {
+            "title": "Flute Player",
+            "date": "1660",
+            "technique": "Oil on wood 29 x 23 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/flute_pl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29943
+        },
+        {
+            "title": "The Interior of a Peasant's Cottage",
+            "date": "1668",
+            "technique": "Oil on canvas",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/interior.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29944
+        },
+        {
+            "title": "Merrymakers in an Inn",
+            "date": "1674",
+            "technique": "Oil on panel",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/merrymak.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29945
+        },
+        {
+            "title": "Mother Holding her Child in a Doorway",
+            "date": "1667",
+            "technique": "Oil on oak panel 37 x 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/mother_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29946
+        },
+        {
+            "title": "The Painter in His Studio",
+            "date": "1663",
+            "technique": "Oil on oak 38 x 355 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/painstud.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29947
+        },
+        {
+            "title": "A Man With Pince-Nez (The Sense of Sight)",
+            "date": "-",
+            "technique": "Oil on panel 16 x 11 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/pincene.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29948
+        },
+        {
+            "title": "Portrait of a Family",
+            "date": "1654",
+            "technique": "Oil on wood 70 x 88 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/port_fam.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29949
+        },
+        {
+            "title": "Prayer before the Meal",
+            "date": "1653",
+            "technique": "Etching 152 x 127 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/prayer.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 29950
+        },
+        {
+            "title": "The School Master",
+            "date": "1662",
+            "technique": "Oil on wood 40 x 33 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/school_m.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29951
+        },
+        {
+            "title": "The Stall-keeper",
+            "date": "-",
+            "technique": "Oil on wood 30 x 23 cm",
+            "location": "Staatliche Galerie Dessau",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/stall_ke.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29952
+        },
+        {
+            "title": "Tavern Interior",
+            "date": "1680",
+            "technique": "Watercolour on paper 228 x 203 mm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/tavernin.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 29953
+        },
+        {
+            "title": "The Breakfast",
+            "date": "c. 1650",
+            "technique": "Etching",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/zbreakfa.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 29954
+        },
+        {
+            "title": "The Family",
+            "date": "c. 1647",
+            "technique": "Pen and brown ink over black chalk 174 x 154 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/zfamily1.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 29955
+        },
+        {
+            "title": "The Family",
+            "date": "1647",
+            "technique": "Etching 178 x 159 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/zfamily2.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 29956
+        },
+        {
+            "title": "Interior of an Inn",
+            "date": "c. 1653",
+            "technique": "Pen and ink on paper 167 x 175 mm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/o/ostade/adriaen/2/zinterio.html",
+            "form": "graphics",
+            "painting_type": "interior",
+            "index": 29957
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "SARTORIUS Francis I",
+    "life": "(b. 1734 London d. 1804 London)",
+    "school": "",
+    "timeframe": "",
+    "art": [
+        {
+            "title": "The Chestnut Racehorse \"\"Eclipse\"\"\"1770s\"Oil on canvas 64 x 76 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/s/sartoriu/francis1/eclipse.html",
+            "location": "painting",
+            "url": "other",
+            "form": "English",
+            "painting_type": "1751-1800",
+            "index": 36359
+        },
+        {
+            "title": "Two Race Horses",
+            "date": "c. 1765",
+            "technique": "Oil on panel 51 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sartoriu/francis1/horses1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36360
+        },
+        {
+            "title": "Two Race Horses",
+            "date": "c. 1765",
+            "technique": "Oil on panel 29 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sartoriu/francis1/horses2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36361
+        },
+        {
+            "title": "Lord Milsington's Bay Racehorse \"\"Laburnum\"\" with Jockey up at Newmarket\"1782\"Oil on canvas 64 x 76 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/s/sartoriu/francis1/laburnum.html",
+            "location": "painting",
+            "url": "other",
+            "form": "English",
+            "painting_type": "1751-1800",
+            "index": 36362
+        },
+        {
+            "title": "A Spaniel and a Flintlock Shotgun in a Landscape",
+            "date": "1783",
+            "technique": "Oil on canvas 103 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sartoriu/francis1/spaniel.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36363
+        },
+        {}
+    ]
+}

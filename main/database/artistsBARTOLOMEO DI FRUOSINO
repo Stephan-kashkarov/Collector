@@ -1,0 +1,59 @@
+{
+    "name": "BARTOLOMEO DI FRUOSINO",
+    "life": "(b. ca. 1366 Firenze d. 1441 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Antiphonary (Cod. B folio 148)",
+            "date": "1420s",
+            "technique": "Tempera and gold on parchment 158 x 124 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bartolom/fruosino/antiphon.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 3299
+        },
+        {
+            "title": "Inferno from the Divine Comedy by Dante (Folio 1v)",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. it. 74) 365 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/b/bartolom/fruosino/dante1.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 3300
+        },
+        {
+            "title": "Inferno from the Divine Comedy by Dante (Folio 3v)",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. it. 74) 365 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/b/bartolom/fruosino/dante2.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 3301
+        },
+        {
+            "title": "Desco da parto (recto)",
+            "date": "1428",
+            "technique": "Tempera on panel diameter 59 cm",
+            "location": "New York Historical Society New York",
+            "url": "https://www.wga.hu/html/b/bartolom/fruosino/desco1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3302
+        },
+        {
+            "title": "Desco da parto (verso)",
+            "date": "1428",
+            "technique": "Tempera on panel diameter 59 cm",
+            "location": "New York Historical Society New York",
+            "url": "https://www.wga.hu/html/b/bartolom/fruosino/desco2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3303
+        },
+        {}
+    ]
+}

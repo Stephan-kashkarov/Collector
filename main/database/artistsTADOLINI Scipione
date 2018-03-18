@@ -1,0 +1,29 @@
+{
+    "name": "TADOLINI Scipione",
+    "life": "(b. 1822 Roma d. 1892 Roma)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Greek Slave",
+            "date": "1862",
+            "technique": "Marble",
+            "location": "Museo de Bellas Artes Seville",
+            "url": "https://www.wga.hu/html/t/tadolini/greek_sl.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 38469
+        },
+        {
+            "title": "Susanna",
+            "date": "-",
+            "technique": "White marble 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tadolini/susanna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 38470
+        },
+        {}
+    ]
+}

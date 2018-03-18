@@ -1,0 +1,29 @@
+{
+    "name": "WENTZINGER Johann Christian",
+    "life": "(b. 1710 Ehrenstetten im Breisgau d. 1797 Freiburg im Breisgau)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Morning Spirit",
+            "date": "1745",
+            "technique": "Terracotta painted height 82 cm",
+            "location": "Liebighaus Frankfurt",
+            "url": "https://www.wga.hu/html/w/wentzing/mountol1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43880
+        },
+        {
+            "title": "Vagrant with Canteen",
+            "date": "1745",
+            "technique": "Terracotta painted height 55 cm",
+            "location": "Liebighaus Frankfurt",
+            "url": "https://www.wga.hu/html/w/wentzing/mountol2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43881
+        },
+        {}
+    ]
+}

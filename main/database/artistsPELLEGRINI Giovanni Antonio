@@ -1,0 +1,269 @@
+{
+    "name": "PELLEGRINI Giovanni Antonio",
+    "life": "(b. 1675 Venezia d. 1741 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Allegory of Sculpture",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 142 x 132 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/1/1sculptu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30591
+        },
+        {
+            "title": "Allegory of Painting",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 143 x 132 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/1/2paintin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30592
+        },
+        {
+            "title": "Painting and Drawing Instructing Love",
+            "date": "1733",
+            "technique": "Oil on canvas 99 x 85 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pellegri/1/3drawing.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30593
+        },
+        {
+            "title": "Brazen Serpent",
+            "date": "1707",
+            "technique": "Oil on canvas",
+            "location": "San Mois\u00e8 Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/1/brazen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30594
+        },
+        {
+            "title": "Young Hannibal Swears Enmity to Rome",
+            "date": "c. 1731",
+            "technique": "Oil on canvas 71 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pellegri/1/hannibal.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30595
+        },
+        {
+            "title": "Mucius Scaevola before Porsenna",
+            "date": "1706-08",
+            "technique": "Oil on canvas 179 x 139 cm",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/1/muciussc.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30596
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1708-13",
+            "technique": "Oil on canvas 126 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pellegri/1/pair1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30597
+        },
+        {
+            "title": "Sophonisba Receiving a Cup of Poison",
+            "date": "1708-13",
+            "technique": "Oil on canvas 126 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pellegri/1/pair2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30598
+        },
+        {
+            "title": "Christ Healing the Paralytic",
+            "date": "1730-31",
+            "technique": "Oil on canvas 95 x 50 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pellegri/1/paralyti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30599
+        },
+        {
+            "title": "Decoration of the portego",
+            "date": "c. 1696",
+            "technique": "Fresco",
+            "location": "Casino Correr Murano",
+            "url": "https://www.wga.hu/html/p/pellegri/2/1murano1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30600
+        },
+        {
+            "title": "Decoration of the portego",
+            "date": "c. 1696",
+            "technique": "Fresco",
+            "location": "Casino Correr Murano",
+            "url": "https://www.wga.hu/html/p/pellegri/2/1murano2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30601
+        },
+        {
+            "title": "Decoration of the portego",
+            "date": "c. 1696",
+            "technique": "Fresco",
+            "location": "Casino Correr Murano",
+            "url": "https://www.wga.hu/html/p/pellegri/2/1murano3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30602
+        },
+        {
+            "title": "Bedroom ceiling",
+            "date": "c. 1696",
+            "technique": "Fresco",
+            "location": "Casino Correr Murano",
+            "url": "https://www.wga.hu/html/p/pellegri/2/1murano4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30603
+        },
+        {
+            "title": "View of the central hall in the foresteria",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira01.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 30604
+        },
+        {
+            "title": "Sleeping Endymion",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira02.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30605
+        },
+        {
+            "title": "Dana\u00eb and the Shower of Gold",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira03.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30606
+        },
+        {
+            "title": "Apollo and Daphne",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira04.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30607
+        },
+        {
+            "title": "Venus Weeping over the Death of Adonis",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira05.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30608
+        },
+        {
+            "title": "Narcissus at the Spring (detail)",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira06.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30609
+        },
+        {
+            "title": "Rape of Deianira (detail)",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira07.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30610
+        },
+        {
+            "title": "Salmacis and the Hermaphrodite (detail)",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira08.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30611
+        },
+        {
+            "title": "Pan and Syrinx (detail)",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira09.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30612
+        },
+        {
+            "title": "Trompe l'oeil vitrine",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira10.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30613
+        },
+        {
+            "title": "View of the northwest room in the foresteria",
+            "date": "c. 1704",
+            "technique": "Fresco",
+            "location": "Villa Alessandri Mira",
+            "url": "https://www.wga.hu/html/p/pellegri/2/2mira11.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 30614
+        },
+        {
+            "title": "Allegory",
+            "date": "1700-10",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Albrizzi Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/2/3albriz1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30615
+        },
+        {
+            "title": "Allegory",
+            "date": "1700-10",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Albrizzi Venice",
+            "url": "https://www.wga.hu/html/p/pellegri/2/3albriz2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30616
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PIERMARINI Giuseppe",
+    "life": "(b. 1734 Foligno d. 1808 Foligno)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1772-81",
+            "technique": "Photo",
+            "location": "Palazzo Belgioioso Milan",
+            "url": "https://www.wga.hu/html/p/piermari/belgioi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31050
+        },
+        {
+            "title": "General view",
+            "date": "1772-81",
+            "technique": "Photo",
+            "location": "Piazza Belgioioso Milan",
+            "url": "https://www.wga.hu/html/p/piermari/belgioi2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31051
+        },
+        {
+            "title": "Exterior view",
+            "date": "1776-78",
+            "technique": "Photo",
+            "location": "Teatro alla Scala Milan",
+            "url": "https://www.wga.hu/html/p/piermari/scala1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31052
+        },
+        {
+            "title": "Interior view",
+            "date": "1776-78",
+            "technique": "Photo",
+            "location": "Teatro alla Scala Milan",
+            "url": "https://www.wga.hu/html/p/piermari/scala2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 31053
+        },
+        {}
+    ]
+}

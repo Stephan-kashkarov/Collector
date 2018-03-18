@@ -1,0 +1,29 @@
+{
+    "name": "VERSTAPPEN Martin",
+    "life": "(b. 1773 Antwerpen d. 1853 Roma)",
+    "school": "Belgian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "View of a Monastery in the Roman Countryside",
+            "date": "1819",
+            "technique": "Oil on canvas 98 x 138 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verstapp/monaster.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43075
+        },
+        {
+            "title": "View of the Waterfalls at Terni",
+            "date": "-.",
+            "technique": "Oil on canvas 77 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verstapp/terni.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43076
+        },
+        {}
+    ]
+}

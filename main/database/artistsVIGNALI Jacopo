@@ -1,0 +1,49 @@
+{
+    "name": "VIGNALI Jacopo",
+    "life": "(b. 1592 Pratovecchio d. 1664 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of Alessandro Strozzi Called Beato Alessio",
+            "date": "1628",
+            "technique": "Oil on canvas 58 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vignali/alessio.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43189
+        },
+        {
+            "title": "The Archangel Michael",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 115 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vignali/archange.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43190
+        },
+        {
+            "title": "View of the Room of the Angels",
+            "date": "1623",
+            "technique": "Fresco",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/v/vignali/roomange.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 43191
+        },
+        {
+            "title": "Jael and Sisera",
+            "date": "1630s",
+            "technique": "Oil on canvas 124 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vignali/sisera.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43192
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "KERSTING Georg Friedrich",
+    "life": "(b. 1785 G\u00fcstrow d. 1847 Meissen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Caspar David Friedrich in his Studio",
+            "date": "1811",
+            "technique": "Oil on canvas 51 x 40 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/k/kersting/caspar1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20936
+        },
+        {
+            "title": "Caspar David Friedrich in his Studio",
+            "date": "1812",
+            "technique": "Oil on canvas 51 x 40 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/k/kersting/caspar2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20937
+        },
+        {
+            "title": "Man Reading at Lamplight",
+            "date": "1814",
+            "technique": "Oil on canvas 48 x 37 cm",
+            "location": "Oskar Reinhart Collection Winterthur",
+            "url": "https://www.wga.hu/html/k/kersting/lampligh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20938
+        },
+        {
+            "title": "At the Mirror",
+            "date": "1827",
+            "technique": "Oil on canvas 46 x 35 cm",
+            "location": "Kunsthalle Kiel",
+            "url": "https://www.wga.hu/html/k/kersting/mirror.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20939
+        },
+        {
+            "title": "On Outpost Duty",
+            "date": "1815",
+            "technique": "Oil on canvas 46 x 35 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/k/kersting/outpost.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20940
+        },
+        {
+            "title": "Young Woman Sewing by the Light of a Lamp",
+            "date": "1823",
+            "technique": "Oil on canvas 40 x 34 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/kersting/sewing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20941
+        },
+        {}
+    ]
+}

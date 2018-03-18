@@ -1,0 +1,59 @@
+{
+    "name": "ALMA-TADEMA Lawrence",
+    "life": "(b. 1836 Dronrijp d. 1912 Wiesbaden)",
+    "school": "English",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Reading from Homer",
+            "date": "1885",
+            "technique": "Oil on canvas 91 x 183 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/a/almatade/almatad1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 354
+        },
+        {
+            "title": "Tibullus at Delias House",
+            "date": "1866",
+            "technique": "Oil on panel 44 x 65 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/a/almatade/almatad2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 355
+        },
+        {
+            "title": "Roman Art Lover",
+            "date": "1868",
+            "technique": "Oil on panel 56 x 85 cm",
+            "location": "Yale University Art Gallery New Haven",
+            "url": "https://www.wga.hu/html/a/almatade/almatad3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 356
+        },
+        {
+            "title": "Women of Amphissa",
+            "date": "1887",
+            "technique": "Oil on canvas 122 x 183 cm",
+            "location": "Sterling and Francine Clark Art Institute Williamstown",
+            "url": "https://www.wga.hu/html/a/almatade/almatad4.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 357
+        },
+        {
+            "title": "On the Steps of the Capitol",
+            "date": "-",
+            "technique": "Watercolour 191 x 400 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/almatade/almatad5.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 358
+        },
+        {}
+    ]
+}

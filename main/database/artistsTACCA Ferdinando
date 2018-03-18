@@ -1,0 +1,29 @@
+{
+    "name": "TACCA Ferdinando",
+    "life": "(b. 1619 Firenze d. ca. 1688 Firenze)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bacchino",
+            "date": "1658-65",
+            "technique": "Bronze",
+            "location": "Museo Civico Prato",
+            "url": "https://www.wga.hu/html/t/tacca/son/bacchino.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38448
+        },
+        {
+            "title": "Putto Holding Shield to His Right",
+            "date": "1650-55",
+            "technique": "Bronze height 65 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/t/tacca/son/putto.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 38449
+        },
+        {}
+    ]
+}

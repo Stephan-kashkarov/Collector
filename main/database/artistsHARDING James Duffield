@@ -1,0 +1,29 @@
+{
+    "name": "HARDING James Duffield",
+    "life": "(b. 1798 London d. 1863 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bologna",
+            "date": "-",
+            "technique": "Watercolour over pencil heightened with body colour and gum arabic 196 x 294 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/harding/bologna.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 19294
+        },
+        {
+            "title": "Locarno Switzerland",
+            "date": "-",
+            "technique": "Oil on canvas 117 x 179 cm",
+            "location": "Museum and Art Gallery Blackburn",
+            "url": "https://www.wga.hu/html/h/harding/locarno.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19295
+        },
+        {}
+    ]
+}

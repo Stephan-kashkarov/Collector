@@ -1,0 +1,29 @@
+{
+    "name": "LEMERCIER Jacques",
+    "life": "(b. ca. 1584 Pontoise d. 1654 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "begun 1626",
+            "technique": "Photo",
+            "location": "Church of the Sorbonne Paris",
+            "url": "https://www.wga.hu/html/l/lemercie/sorbonn1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21874
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1626",
+            "technique": "Photo",
+            "location": "Church of the Sorbonne Paris",
+            "url": "https://www.wga.hu/html/l/lemercie/sorbonn2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21875
+        },
+        {}
+    ]
+}

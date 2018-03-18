@@ -1,0 +1,49 @@
+{
+    "name": "FISCHER Johann Michael",
+    "life": "(b. 1692 Burglengenfeld d. 1766 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "1753-55",
+            "technique": "Photo",
+            "location": "Pilgrimage church of St. Anne Haigerloch",
+            "url": "https://www.wga.hu/html/f/fischerm/haigerlo.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13877
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1739",
+            "technique": "Photo",
+            "location": "St. Michael Berg am Laim Munich",
+            "url": "https://www.wga.hu/html/f/fischerm/laim1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13878
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1739",
+            "technique": "Photo",
+            "location": "St. Michael Berg am Laim Munich",
+            "url": "https://www.wga.hu/html/f/fischerm/laim2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13879
+        },
+        {
+            "title": "Interior view",
+            "date": "1738-65",
+            "technique": "Photo",
+            "location": "Benedictine Abbey Church Zwiefalten",
+            "url": "https://www.wga.hu/html/f/fischerm/zwiefal.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13880
+        },
+        {}
+    ]
+}

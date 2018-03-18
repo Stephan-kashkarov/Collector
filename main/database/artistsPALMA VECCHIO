@@ -1,0 +1,249 @@
+{
+    "name": "PALMA VECCHIO",
+    "life": "(b. 1480 Serina d. 1528 Venezia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Three Sisters (detail)",
+            "date": "about 1520",
+            "technique": "Oil on wood 88 x 123 cm (entire painting)",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/3sisters.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30247
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "date": "1510-11",
+            "technique": "Oil on canvas 82 x 70 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/adultery.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30248
+        },
+        {
+            "title": "Assumption of Mary",
+            "date": "1512-14",
+            "technique": "Oil on panel 191 x 137 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30249
+        },
+        {
+            "title": "Polyptych of St Barbara",
+            "date": "1524-25",
+            "technique": "Oil on panel",
+            "location": "Santa Maria Formosa Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/barbara.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30250
+        },
+        {
+            "title": "Polyptych of St Barbara (central panel)",
+            "date": "1524-25",
+            "technique": "Oil on panel 214 x 85 cm",
+            "location": "Santa Maria Formosa Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/barbara1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30251
+        },
+        {
+            "title": "A Blonde Woman",
+            "date": "-",
+            "technique": "Oil on wood 775 x 641 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/blonde.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30252
+        },
+        {
+            "title": "Sacra Conversazione",
+            "date": "1516-18",
+            "technique": "Oil on panel 64 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/conversa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30253
+        },
+        {
+            "title": "Jacob and Rachel",
+            "date": "1515-25",
+            "technique": "Oil on canvas 1465 x 2505 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/jacob_ra.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30254
+        },
+        {
+            "title": "Judith",
+            "date": "1525-28",
+            "technique": "Oil on canvas 90 x 71 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/judith.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30255
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1515-16",
+            "technique": "Oil on canvas 59 x 72 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30256
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1512-15",
+            "technique": "Oil on canvas 94 x 72 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30257
+        },
+        {
+            "title": "Portrait of a Woman (La Bella)",
+            "date": "1518-20",
+            "technique": "Oil on canvas 95 x 80 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30258
+        },
+        {
+            "title": "Portrait of Paola Priuli",
+            "date": "1527-28",
+            "technique": "Oil on panel 88 x 72 cm",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/portpriu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30259
+        },
+        {
+            "title": "Portrait of Francesco Querini",
+            "date": "1527-28",
+            "technique": "Oil on panel 88 x 72 cm",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/querini.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30260
+        },
+        {
+            "title": "Sacred Conversation",
+            "date": "c. 1525",
+            "technique": "Oil on canvas 127 x 195 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/s_conver.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30261
+        },
+        {
+            "title": "Sacred Conversation (detail)",
+            "date": "c. 1525",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/s_convex.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30262
+        },
+        {
+            "title": "Sacred Conversation (detail)",
+            "date": "c. 1525",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/s_convey.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30263
+        },
+        {
+            "title": "Sacred Conversation with Saints and Donor",
+            "date": "1520-25",
+            "technique": "Oil on panel 69 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/sacra_co.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30264
+        },
+        {
+            "title": "Adoration of the Shepherds with a Doonor",
+            "date": "1523-25",
+            "technique": "Oil on canvas 140 x 210 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/shepherd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30265
+        },
+        {
+            "title": "A Sibyl",
+            "date": "c. 1520",
+            "technique": "Oil on poplar panel 74 x 551 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/sibyl.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30266
+        },
+        {
+            "title": "Venus",
+            "date": "c. 1520",
+            "technique": "Oil on canvas 113 x 186 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/venus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30267
+        },
+        {
+            "title": "Virgin and Child with St John the Baptist and Mary Magdalene",
+            "date": "c. 1525",
+            "technique": "Oil on panel 71 x 108 cm",
+            "location": "Palazzo Bianco Genoa",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30268
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "-",
+            "technique": "Oil on panel 387 x 29 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/y_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30269
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "-",
+            "technique": "Oil on panel 388 x 285 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/palma/vecchio/y_woman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30270
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "FRIESS Joachim",
+    "life": "(b. ca 1579 L\u00fcbeck d. 1620 Augsburg)",
+    "school": "German",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Diana and the Stag",
+            "date": "c. 1620",
+            "technique": "Silver partially gilt height 38 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/f/friess/clock1.html",
+            "form": "metalwork",
+            "painting_type": "mythological",
+            "index": 14501
+        },
+        {
+            "title": "Diana and Stag Automaton",
+            "date": "1610s",
+            "technique": "Silver partially gilded 33 x 24 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/f/friess/clock2.html",
+            "form": "metalwork",
+            "painting_type": "mythological",
+            "index": 14502
+        },
+        {
+            "title": "Clockwork Drinking Vessel",
+            "date": "1610s",
+            "technique": "Silver 34 x 24 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/f/friess/clock3.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 14503
+        },
+        {}
+    ]
+}

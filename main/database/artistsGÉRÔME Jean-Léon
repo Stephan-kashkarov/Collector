@@ -1,0 +1,99 @@
+{
+    "name": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+    "life": "(b. 1824 Vesoul d. 1904 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Young Greeks at a Cockfight",
+            "date": "1846",
+            "technique": "Oil on canvas 143 x 204 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/g/gerome/cockfigh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 15296
+        },
+        {
+            "title": "Duel after a Masked Ball",
+            "date": "1857",
+            "technique": "Oil on canvas 68 x 99 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/gerome/duel.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 15297
+        },
+        {
+            "title": "The Gulf of Aqaba",
+            "date": "-",
+            "technique": "Oil on canvas 27 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gerome/gulf_aqa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 15298
+        },
+        {
+            "title": "Pool in a Harem",
+            "date": "c. 1876",
+            "technique": "Oil on canvas 74 x 62 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/gerome/harem.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 15299
+        },
+        {
+            "title": "Lion Drinking from a Desert Stream",
+            "date": "c. 1885",
+            "technique": "Oil on canvas 29 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gerome/liondrin.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15300
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1886",
+            "technique": "Oil on canvas 41 x 31 cm",
+            "location": "Art Gallery Aberdeen",
+            "url": "https://www.wga.hu/html/g/gerome/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15301
+        },
+        {
+            "title": "Slave Market in Rome",
+            "date": "c. 1884",
+            "technique": "Oil on canvas 92 x 74 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/gerome/slavmark.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 15302
+        },
+        {
+            "title": "Tanagra",
+            "date": "1890",
+            "technique": "Marble.height 155 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/g/gerome/ytanagra.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15303
+        },
+        {
+            "title": "Tanagra (detail)",
+            "date": "1890",
+            "technique": "Marble.height 23 cm (size of the figurine)",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/g/gerome/ztanagra.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15304
+        },
+        {}
+    ]
+}

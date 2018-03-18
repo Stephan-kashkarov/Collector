@@ -1,0 +1,69 @@
+{
+    "name": "GIOVANNI DI PIAMONTE",
+    "life": "(active 1456-1472)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Prophet Isaiah",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16675
+        },
+        {
+            "title": "The Prophet Isaiah (detail)",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16676
+        },
+        {
+            "title": "Angel",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16677
+        },
+        {
+            "title": "St Augustine",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16678
+        },
+        {
+            "title": "St Ambrose",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16679
+        },
+        {
+            "title": "St Ambrose (detail)",
+            "date": "1456-66",
+            "technique": "Fresco",
+            "location": "San Francesco Arezzo",
+            "url": "https://www.wga.hu/html/g/giovanni/piamonte/arezzo6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16680
+        },
+        {}
+    ]
+}

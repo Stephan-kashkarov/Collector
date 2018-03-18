@@ -1,0 +1,29 @@
+{
+    "name": "VIGRI Caterina",
+    "life": "(b. 1413 Bologna d. 1463 Bologna)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Breviary with Miniatures",
+            "date": "1452",
+            "technique": "Tempera on parchment 200 x 300 mm",
+            "location": "Convent of the Corpus Domini Bologna",
+            "url": "https://www.wga.hu/html/v/vigri/breviar1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 43215
+        },
+        {
+            "title": "Breviary with Miniatures",
+            "date": "1452",
+            "technique": "Tempera on parchment 200 x 300 mm",
+            "location": "Convent of the Corpus Domini Bologna",
+            "url": "https://www.wga.hu/html/v/vigri/breviar2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 43216
+        },
+        {}
+    ]
+}

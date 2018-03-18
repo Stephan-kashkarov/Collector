@@ -1,0 +1,49 @@
+{
+    "name": "WALPOLE Horace",
+    "life": "(b. 1717 London d. 1797 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view from the south-east",
+            "date": "1749-76",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/w/walpole/strawbe.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43728
+        },
+        {
+            "title": "Great Gallery",
+            "date": "1759-63",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/w/walpole/strawbe1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 43729
+        },
+        {
+            "title": "Library",
+            "date": "1754",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/w/walpole/strawbe2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 43730
+        },
+        {
+            "title": "Library",
+            "date": "1754",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/w/walpole/strawbe3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 43731
+        },
+        {}
+    ]
+}

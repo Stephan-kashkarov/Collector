@@ -1,0 +1,29 @@
+{
+    "name": "GUTSCHE Jonas",
+    "life": "(b. 1624 Sleghien d. ca. 1671 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Goblet of the Hague Confr\u00e8rie",
+            "date": "1670",
+            "technique": "Silver height 34 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/g/gutsche/goblet.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 18998
+        },
+        {
+            "title": "Boy Triton",
+            "date": "-",
+            "technique": "Gilt lead height 65 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/gutsche/triton.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 18999
+        },
+        {}
+    ]
+}

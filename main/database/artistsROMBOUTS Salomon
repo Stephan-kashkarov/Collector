@@ -1,0 +1,49 @@
+{
+    "name": "ROMBOUTS Salomon",
+    "life": "(b. ca. 1652 Haarlem d. ca. 1702 Italy)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Coast at Scheveningen",
+            "date": "1680s",
+            "technique": "Oil on canvas",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/r/rombout/salomon/beach.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35046
+        },
+        {
+            "title": "Torrent in a Scandinavian Landscape",
+            "date": "-",
+            "technique": "Oil on panel 37 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rombout/salomon/torrent.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35047
+        },
+        {
+            "title": "A Village Street Scene",
+            "date": "-",
+            "technique": "Oil on panel 58 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rombout/salomon/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35048
+        },
+        {
+            "title": "Wooded Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 65 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rombout/salomon/woodedla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35049
+        },
+        {}
+    ]
+}

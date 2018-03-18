@@ -1,0 +1,49 @@
+{
+    "name": "GANDOLFI Ubaldo",
+    "life": "(b. 1728 San Matteo della Decima d. 1781 Ravenna)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "A Bearded Man",
+            "date": "1770s",
+            "technique": "Oil on canvas 45 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/ubaldo/bearded.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14796
+        },
+        {
+            "title": "Emperor Henry IV at Canossa",
+            "date": "1770-75",
+            "technique": "Terracotta height 61 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/gandolfi/ubaldo/henry4.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 14797
+        },
+        {
+            "title": "Portrait of a Young Boy",
+            "date": "c. 1778",
+            "technique": "Pastel on beige paper 395 x 285 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/gandolfi/ubaldo/portrait.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 14798
+        },
+        {
+            "title": "The Visitation",
+            "date": "c. 1767",
+            "technique": "Oil on canvas 137 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/ubaldo/visitati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14799
+        },
+        {}
+    ]
+}

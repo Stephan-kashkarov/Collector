@@ -1,0 +1,49 @@
+{
+    "name": "UNKNOWN GLASS MASTER Netherlandish",
+    "life": "(second half of 16th century)",
+    "school": "Netherlandish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Goblet",
+            "date": "1550-1600",
+            "technique": "Clear grey-brown and opaque turquoise glass gilding height 205 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/4glass/2n_1gobl.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 40526
+        },
+        {
+            "title": "Goblet",
+            "date": "1550-1600",
+            "technique": "Clear grey-brown and opaque turquoise glass gilding height 252 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/4glass/2n_2gobl.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 40527
+        },
+        {
+            "title": "Dice Glass",
+            "date": "1580s",
+            "technique": "White glass with engraving and silver mount height 17 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/4glass/2n_3dice.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 40528
+        },
+        {
+            "title": "Roemer with the motto of Prince Maurits",
+            "date": "1606",
+            "technique": "Clear green glass with diamond-point engraving height 112 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/4glass/2n_4roem.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 40529
+        },
+        {}
+    ]
+}

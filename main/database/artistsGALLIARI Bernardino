@@ -1,0 +1,39 @@
+{
+    "name": "GALLIARI Bernardino",
+    "life": "(b. 1707 Andorno Micca d. 1794 Andorno Micca)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Ballroom decoration",
+            "date": "1750s",
+            "technique": "Fresco",
+            "location": "Villa Crivelli Castellazzo",
+            "url": "https://www.wga.hu/html/g/galliari/bernardi/crivelli.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 14773
+        },
+        {
+            "title": "The Marriage of Bacchus and Ariadne",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/galliari/bernardi/marriage.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14774
+        },
+        {
+            "title": "The Marriage of Bacchus and Ariadne (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/galliari/bernardi/marriagx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14775
+        },
+        {}
+    ]
+}

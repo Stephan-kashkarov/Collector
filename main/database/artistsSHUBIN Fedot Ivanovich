@@ -1,0 +1,79 @@
+{
+    "name": "SHUBIN Fedot Ivanovich",
+    "life": "(b. 1740 Techkovskaya d. 1805 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Bust of an Unknown Man",
+            "date": "1770s",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36990
+        },
+        {
+            "title": "Bust of A. M. Golitzin",
+            "date": "1775",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36991
+        },
+        {
+            "title": "Bust of I. G. Chernishev",
+            "date": "1776",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust3.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36992
+        },
+        {
+            "title": "Bust of M. R. Panina",
+            "date": "c. 1775",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust4.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36993
+        },
+        {
+            "title": "Bust of P. G. Chernishev",
+            "date": "1779",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust5.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36994
+        },
+        {
+            "title": "Bust of Lomonosov",
+            "date": "1792",
+            "technique": "Gypsum",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shubin/bust6.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36995
+        },
+        {
+            "title": "Bust of Tsar Paul I",
+            "date": "1800",
+            "technique": "Bronze",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/s/shubin/bust7.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36996
+        },
+        {}
+    ]
+}

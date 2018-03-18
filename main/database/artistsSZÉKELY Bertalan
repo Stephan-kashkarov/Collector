@@ -1,0 +1,109 @@
+{
+    "name": "SZ\u00c9KELY Bertalan",
+    "life": "(b. 1835 Kolozsv\u00e1r d. 1910 Budapest)",
+    "school": "Hungarian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Self-Portrait",
+            "date": "1860",
+            "technique": "Oil on canvas 60 x 48 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/1selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38424
+        },
+        {
+            "title": "Discovery of the Body of King Louis the Second",
+            "date": "1860",
+            "technique": "Oil on canvas 140 x 182 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/2louis.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38425
+        },
+        {
+            "title": "Discovery of the Body of King Louis the Second (detail)",
+            "date": "1860",
+            "technique": "Oil on canvas",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/2louis1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38426
+        },
+        {
+            "title": "Discovery of the Body of King Louis the Second (detail)",
+            "date": "1860",
+            "technique": "Oil on canvas",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/2louis2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38427
+        },
+        {
+            "title": "Women of Eger",
+            "date": "1867",
+            "technique": "Oil on canvas 227 x 177 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/3eger.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38428
+        },
+        {
+            "title": "King L\u00e1szl\u00f3 V and Ulrik Cillei",
+            "date": "1870",
+            "technique": "Oil on canvas 123 x 222 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/4laszlo.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38429
+        },
+        {
+            "title": "Dancer",
+            "date": "c. 1875",
+            "technique": "Oil on canvas 61 x 52 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/5dancer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38430
+        },
+        {
+            "title": "Boating Lovers",
+            "date": "c. 1875",
+            "technique": "Oil on canvas 115 x 80 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/6boating.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38431
+        },
+        {
+            "title": "Boy with Bread and Butter",
+            "date": "c. 1875",
+            "technique": "Oil on canvas 69 x 55 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/s/szekely/7boy.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38432
+        },
+        {
+            "title": "Japanese Woman",
+            "date": "1903",
+            "technique": "Oil on canvas 168 x 120 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/szekely/8japanes.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38433
+        },
+        {}
+    ]
+}

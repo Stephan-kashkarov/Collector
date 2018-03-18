@@ -1,0 +1,59 @@
+{
+    "name": "SPADA Lionello",
+    "life": "(b. 1576 Bologna d. 1622 Parma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Aeneas and Anchises",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 195 x 132 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/spada/aeneas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37704
+        },
+        {
+            "title": "The Concert",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 143 x 172 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/spada/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37705
+        },
+        {
+            "title": "The Gypsy Fortune Teller",
+            "date": "1614-15",
+            "technique": "Oil on canvas 211 x 158 cm",
+            "location": "Galleria Estense Modena",
+            "url": "https://www.wga.hu/html/s/spada/fortunet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37706
+        },
+        {
+            "title": "St Jerome",
+            "date": "1610s",
+            "technique": "Oil on canvas 112 x 143 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/s/spada/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37707
+        },
+        {
+            "title": "Martyrdom of St Peter",
+            "date": "-",
+            "technique": "Oil on canvas 232 x 201 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/spada/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37708
+        },
+        {}
+    ]
+}

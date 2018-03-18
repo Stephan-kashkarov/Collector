@@ -1,0 +1,159 @@
+{
+    "name": "RIEMENSCHNEIDER Tilman",
+    "life": "(b. ca. 1460 Osterode d. 1531 W\u00fcrzburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Mary Magdalen with two Angels",
+            "date": "1490-92",
+            "technique": "Unpainted wood height 187 cm",
+            "location": "Bayerisches Nationalmuseum Munich",
+            "url": "https://www.wga.hu/html/r/riemensc/1magdal1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34372
+        },
+        {
+            "title": "Noli me tangere",
+            "date": "1490-92",
+            "technique": "Limewood",
+            "location": "Parish Church M\u00fcnnerstadt",
+            "url": "https://www.wga.hu/html/r/riemensc/1magdal2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34373
+        },
+        {
+            "title": "Eve",
+            "date": "1491-93",
+            "technique": "Wood",
+            "location": "Marienkirche W\u00fcrzburg",
+            "url": "https://www.wga.hu/html/r/riemensc/2wurzbu.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34374
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "1491-93",
+            "technique": "Sandstone",
+            "location": "Mainfr\u00e4nkisches Museum W\u00fcrzburg",
+            "url": "https://www.wga.hu/html/r/riemensc/2wurzbu1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34375
+        },
+        {
+            "title": "St John",
+            "date": "1505-10",
+            "technique": "Unpainted wood height 56 cm",
+            "location": "Bayerisches Nationalmuseum Munich",
+            "url": "https://www.wga.hu/html/r/riemensc/2wurzbu2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34376
+        },
+        {
+            "title": "Tomb of Rudolf von Scherenbergs (detail)",
+            "date": "c. 1495",
+            "technique": "Stone",
+            "location": "Dom W\u00fcrzburg",
+            "url": "https://www.wga.hu/html/r/riemensc/3scheren.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34377
+        },
+        {
+            "title": "Holy Blood Altarpiece",
+            "date": "1501-02",
+            "technique": "Limewood height 900 cm",
+            "location": "Sankt Jakob Rothenburg ob der Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/4rothen.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34378
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1501-02",
+            "technique": "Limewood height of figures c. 100 cm",
+            "location": "Sankt Jakob Rothenburg ob der Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/4rotheo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34379
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1501-02",
+            "technique": "Limewood height of figures c. 100 cm",
+            "location": "Sankt Jakob Rothenburg ob der Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/4rothep.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34380
+        },
+        {
+            "title": "Mary's Altar",
+            "date": "1505-10",
+            "technique": "Wood",
+            "location": "Herrgottskirche Creglingen am Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/5cregli.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34381
+        },
+        {
+            "title": "Mary's Altar",
+            "date": "1505-10",
+            "technique": "Wood",
+            "location": "Herrgottskirche Creglingen am Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/5cregli1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34382
+        },
+        {
+            "title": "Assumption of the Virgin (detail)",
+            "date": "1505-10",
+            "technique": "Limewood",
+            "location": "Herrgottskirche Creglingen am Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/5cregli2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34383
+        },
+        {
+            "title": "Mary's Altar (detail)",
+            "date": "1505-10",
+            "technique": "Wood",
+            "location": "Herrgottskirche Creglingen am Tauber",
+            "url": "https://www.wga.hu/html/r/riemensc/5cregli3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34384
+        },
+        {
+            "title": "Tomb of Emperor Henry II and his Wife Cunigunde",
+            "date": "1499-1513",
+            "technique": "Marble",
+            "location": "Cathedral Bamberg",
+            "url": "https://www.wga.hu/html/r/riemensc/6tomb.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 34385
+        },
+        {
+            "title": "Salome",
+            "date": "1500-10",
+            "technique": "Limewood half life-size",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/r/riemensc/salome.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34386
+        },
+        {}
+    ]
+}

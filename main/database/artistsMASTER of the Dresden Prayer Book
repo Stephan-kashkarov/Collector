@@ -1,0 +1,39 @@
+{
+    "name": "MASTER of the Dresden Prayer Book",
+    "life": "(active 1465-1515 in Bruges)",
+    "school": "Flemish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Hours of Philip the Fair",
+            "date": "c. 1495",
+            "technique": "Manuscript (Additional MS 17280)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/m/master/dresden/hours1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25012
+        },
+        {
+            "title": "Hours of Philip the Fair",
+            "date": "c. 1495",
+            "technique": "Manuscript (Additional MS 17280)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/m/master/dresden/hours2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25013
+        },
+        {
+            "title": "Faits et dits m\u00e9morables des romains",
+            "date": "1475-80",
+            "technique": "Manuscript (Ms 43:91 MS 81) 175 x 194 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/m/master/dresden/memorabl.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 25014
+        },
+        {}
+    ]
+}

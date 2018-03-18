@@ -1,0 +1,39 @@
+{
+    "name": "ROOS Johann Heinrich",
+    "life": "(b. 1631 Reipoltskirchen d. 1685 Frankfurt am Main)",
+    "school": "German",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Pastoral Landscape",
+            "date": "1684",
+            "technique": "Oil on canvas 76 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/roos/johann/pastoral.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35083
+        },
+        {
+            "title": "Self-Portrait with Wife in an Arcadian Landscape",
+            "date": "1671",
+            "technique": "Oil on canvas 107 x 131 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/roos/johann/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35084
+        },
+        {
+            "title": "Cow and Shepherd at Well",
+            "date": "-",
+            "technique": "Oil on canvas 58 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/roos/johann/shepherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35085
+        },
+        {}
+    ]
+}

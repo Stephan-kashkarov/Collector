@@ -1,0 +1,179 @@
+{
+    "name": "TINO DI CAMAINO",
+    "life": "(b. ca. 1285 Siena d. ca. 1337 Napoli)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Charity",
+            "date": "c. 1321",
+            "technique": "Marble height 136 cm",
+            "location": "Museo Bardini Florence",
+            "url": "https://www.wga.hu/html/t/tino/charity1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39208
+        },
+        {
+            "title": "Charity",
+            "date": "c. 1321",
+            "technique": "Marble height 136 cm",
+            "location": "Museo Bardini Florence",
+            "url": "https://www.wga.hu/html/t/tino/charity2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39209
+        },
+        {
+            "title": "Charity",
+            "date": "c. 1323",
+            "technique": "Marble height 99 cm",
+            "location": "San Lorenzo Maggiore Naples",
+            "url": "https://www.wga.hu/html/t/tino/charity3.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39210
+        },
+        {
+            "title": "Tomb of Emperor Henry VII (detail)",
+            "date": "1315",
+            "technique": "Marble",
+            "location": "Camposanto Pisa",
+            "url": "https://www.wga.hu/html/t/tino/henry7.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39211
+        },
+        {
+            "title": "Head of St John the Baptist",
+            "date": "1320-21",
+            "technique": "White marble height 55 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/t/tino/johnbapt.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39212
+        },
+        {
+            "title": "Tomb of Mary of Valois",
+            "date": "1331-33",
+            "technique": "Marble",
+            "location": "Santa Chiara Naples",
+            "url": "https://www.wga.hu/html/t/tino/m_valois.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39213
+        },
+        {
+            "title": "Tomb of Mary of Valois (detail)",
+            "date": "1333-37",
+            "technique": "Marble",
+            "location": "Santa Chiara Naples",
+            "url": "https://www.wga.hu/html/t/tino/m_valoix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39214
+        },
+        {
+            "title": "Tomb of Mary of Valois (detail)",
+            "date": "1333-37",
+            "technique": "Marble",
+            "location": "Santa Chiara Naples",
+            "url": "https://www.wga.hu/html/t/tino/m_valoiy.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39215
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1321",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/t/tino/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39216
+        },
+        {
+            "title": "Madonna and Child (detail)",
+            "date": "1321",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/t/tino/madonnx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39217
+        },
+        {
+            "title": "Tomb of Mary of Hungary",
+            "date": "after 1235",
+            "technique": "Marble",
+            "location": "Santa Maria Donna Regina Naples",
+            "url": "https://www.wga.hu/html/t/tino/mary_hun.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39218
+        },
+        {
+            "title": "Tomb of Mary of Hungary (detail)",
+            "date": "1325",
+            "technique": "Marble height 60 cm",
+            "location": "Santa Maria Donnaregina Naples",
+            "url": "https://www.wga.hu/html/t/tino/mary_hux.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39219
+        },
+        {
+            "title": "Monument of Bishop Antonio degli Orsi",
+            "date": "1321",
+            "technique": "Marble",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/t/tino/orsi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39220
+        },
+        {
+            "title": "Monument of Bishop Antonio degli Orsi (detail)",
+            "date": "1321",
+            "technique": "Marble height 132 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/t/tino/orso.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39221
+        },
+        {
+            "title": "Monument of Bishop Antonio degli Orsi (detail)",
+            "date": "1321",
+            "technique": "Marble",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/t/tino/orsu.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39222
+        },
+        {
+            "title": "Funeral Monument of Cardinal Petroni",
+            "date": "1318",
+            "technique": "Marble height 130 cm",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/t/tino/petroni.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 39223
+        },
+        {
+            "title": "Funeral Monument of Cardinal Petroni (detail)",
+            "date": "1318",
+            "technique": "Marble height 130 cm",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/t/tino/petroni1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39224
+        },
+        {}
+    ]
+}

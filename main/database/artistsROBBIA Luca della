@@ -1,0 +1,709 @@
+{
+    "name": "ROBBIA Luca della",
+    "life": "(b. 1399/1400 Firenze d. 1482 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Cantoria",
+            "date": "1431-38",
+            "technique": "Marble 328 x 560 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/0canto1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34553
+        },
+        {
+            "title": "Cantoria",
+            "date": "1431-38",
+            "technique": "Marble 328 x 560 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/0canto2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34554
+        },
+        {
+            "title": "Cantoria",
+            "date": "1431-38",
+            "technique": "Marble 328 x 560 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/0canto3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34555
+        },
+        {
+            "title": "Cantoria",
+            "date": "1431-38",
+            "technique": "Marble 328 x 560 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/0canto4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34556
+        },
+        {
+            "title": "Cantoria: first top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34557
+        },
+        {
+            "title": "Cantoria: first top relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto11.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34558
+        },
+        {
+            "title": "Cantoria: second top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34559
+        },
+        {
+            "title": "Cantoria: second top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto20.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34560
+        },
+        {
+            "title": "Cantoria: second top relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto21.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34561
+        },
+        {
+            "title": "Cantoria: third top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34562
+        },
+        {
+            "title": "Cantoria: fourth top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34563
+        },
+        {
+            "title": "Cantoria: fourth top relief",
+            "date": "1431-38",
+            "technique": "Marble 100 x 94 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto40.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34564
+        },
+        {
+            "title": "Cantoria: fourth top relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/1canto41.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34565
+        },
+        {
+            "title": "Cantoria: first bottom relief",
+            "date": "1431-38",
+            "technique": "Marble 99 x 92 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34566
+        },
+        {
+            "title": "Cantoria: first bottom relief",
+            "date": "1431-38",
+            "technique": "Marble 99 x 92 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto10.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34567
+        },
+        {
+            "title": "Cantoria: first bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto11.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34568
+        },
+        {
+            "title": "Cantoria: first bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto12.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34569
+        },
+        {
+            "title": "Cantoria: second bottom relief",
+            "date": "1431-38",
+            "technique": "Marble 99 x 92 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34570
+        },
+        {
+            "title": "Cantoria: second bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto21.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34571
+        },
+        {
+            "title": "Cantoria: second bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto22.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34572
+        },
+        {
+            "title": "Cantoria: third bottom relief",
+            "date": "1431-38",
+            "technique": "Marble 99 x 92 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34573
+        },
+        {
+            "title": "Cantoria: third bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto31.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34574
+        },
+        {
+            "title": "Cantoria: fourth bottom relief",
+            "date": "1431-38",
+            "technique": "Marble 99 x 92 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34575
+        },
+        {
+            "title": "Cantoria: fourth bottom relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/2canto41.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34576
+        },
+        {
+            "title": "Cantoria: left side relief",
+            "date": "1431-38",
+            "technique": "Marble 96 x 61 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/3canto1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34577
+        },
+        {
+            "title": "Cantoria: left side relief (detail)",
+            "date": "1431-38",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/3canto11.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34578
+        },
+        {
+            "title": "Cantoria: right side relief",
+            "date": "1431-38",
+            "technique": "Marble 96 x 61 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/cantoria/3canto2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34579
+        },
+        {
+            "title": "Logic (or Philosophy)",
+            "date": "c. 1437",
+            "technique": "Stone 83 x 69 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/1duomo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 34580
+        },
+        {
+            "title": "Grammar",
+            "date": "c. 1437",
+            "technique": "Stone 83 x 69 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/2duomo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 34581
+        },
+        {
+            "title": "North Sacristy Doors with the Resurrection",
+            "date": "1442-75",
+            "technique": "Enameled terracotta and bronze",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/3duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34582
+        },
+        {
+            "title": "Resurrection",
+            "date": "1442-45",
+            "technique": "Glazed and polychromed terracotta 200 x 265 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/4duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34583
+        },
+        {
+            "title": "Bronze Doors of the New Sacristy",
+            "date": "1446-75",
+            "technique": "Bronze 420 x 200 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/5duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34584
+        },
+        {
+            "title": "Ascension of Christ",
+            "date": "1446",
+            "technique": "Glazed terracotta 200 x 260 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/6duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34585
+        },
+        {
+            "title": "Candelabrum-Bearing Angel",
+            "date": "1448",
+            "technique": "Glazed terracotta 84 x 57 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/7duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34586
+        },
+        {
+            "title": "Candelabrum-Bearing Angel",
+            "date": "1448",
+            "technique": "Glazed terracotta 84 x 57 cm",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/duomo/8duomo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34587
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1445-50",
+            "technique": "Glazed terracotta 75 x 43 cm",
+            "location": "Museo dell'Ospedale degli Innocenti Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/01madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34588
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1445-50",
+            "technique": "Glazed terracotta partially gilt 48 x 39 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/02madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34589
+        },
+        {
+            "title": "Madonna and Child (detail)",
+            "date": "1445-50",
+            "technique": "Glazed terracotta partially gilt",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/02madon1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34590
+        },
+        {
+            "title": "Madonna and Child between Saints",
+            "date": "1449-50",
+            "technique": "Glazed terracotta 111 x 230 cm",
+            "location": "Galleria Nazionale delle Marche Urbino",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/03madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34591
+        },
+        {
+            "title": "Madonna with Child and Angels",
+            "date": "-",
+            "technique": "Glazed terracotta",
+            "location": "Palazzo di Parte Guelfa Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/04madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34592
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1440s",
+            "technique": "Painted and gilded terracotta and wood diameter 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/05madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34593
+        },
+        {
+            "title": "Madonna and Child between Two Angels",
+            "date": "c. 1450",
+            "technique": "Glazed terracotta diameter 100 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/06madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34594
+        },
+        {
+            "title": "Madonna in a Rose-Garden (Madonna del Roseto)",
+            "date": "1450-55",
+            "technique": "Glazed terracotta 83 x 63 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/07madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34595
+        },
+        {
+            "title": "Madonna of the Apple",
+            "date": "1455-60",
+            "technique": "Glazed terracotta 70 x 52 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/08madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34596
+        },
+        {
+            "title": "Madonna of the Apple (detail)",
+            "date": "1455-60",
+            "technique": "Glazed terracotta",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/09madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34597
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1455-60",
+            "technique": "Glazed terracotta",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/10madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34598
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1455-60",
+            "technique": "Glazed terracott diameter 180 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/11madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34599
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1465",
+            "technique": "Glazed terracotta",
+            "location": "Santa Maria Impruneta",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/12madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34600
+        },
+        {
+            "title": "Madonna and Child between Angels",
+            "date": "1475",
+            "technique": "Glazed terracotta 160 x 22 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/madonna/13madon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34601
+        },
+        {
+            "title": "Deliverance of St Peter from Prison",
+            "date": "1439",
+            "technique": "Marble 69 x 78 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/01luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34602
+        },
+        {
+            "title": "Crucifixion of St Peter",
+            "date": "1439",
+            "technique": "Marble 69 x 78 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/02luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34603
+        },
+        {
+            "title": "Christ and Thomas",
+            "date": "-",
+            "technique": "Terracotta height 45 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/03luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34604
+        },
+        {
+            "title": "The Peretola Tabernacle",
+            "date": "1441-43",
+            "technique": "Marble bronze and glazed terracotta 260 x 122 cm",
+            "location": "Santa Maria Peretola",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/04luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34605
+        },
+        {
+            "title": "The Peretola Tabernacle (detail)",
+            "date": "1441-43",
+            "technique": "Marble and bronze",
+            "location": "Santa Maria Peretola",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/05luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34606
+        },
+        {
+            "title": "Visitation",
+            "date": "c. 1445",
+            "technique": "Glazed terracotta 184 x 153 cm",
+            "location": "San Giovanni Fuorcivitas Pistoia",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/06luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34607
+        },
+        {
+            "title": "Visitation (detail)",
+            "date": "c. 1445",
+            "technique": "Glazed terracotta",
+            "location": "San Giovanni Fuorcivitas Pistoia",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/07luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34608
+        },
+        {
+            "title": "Interior",
+            "date": "1440s",
+            "technique": "Glazed terracotta",
+            "location": "Pazzi Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/08luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34609
+        },
+        {
+            "title": "St James the Great",
+            "date": "1440s",
+            "technique": "Glazed terracotta diameter 134 cm",
+            "location": "Pazzi Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/09luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34610
+        },
+        {
+            "title": "Cupola of the Portico",
+            "date": "1440s",
+            "technique": "Glazed terracotta",
+            "location": "Pazzi Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/10luca.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 34611
+        },
+        {
+            "title": "Monument to Bishop Benozzo Federighi",
+            "date": "1453",
+            "technique": "Marble and glazed terracotta 270 x 275 cm",
+            "location": "Santa Trinita Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/11luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34612
+        },
+        {
+            "title": "Monument to Bishop Benozzo Federighi (detail)",
+            "date": "1453",
+            "technique": "Marble",
+            "location": "Santa Trinita Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/12luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34613
+        },
+        {
+            "title": "Monument to Bishop Benozzo Federighi (detail)",
+            "date": "1453",
+            "technique": "Marble and glazed terracotta",
+            "location": "Santa Trinita Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/13luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34614
+        },
+        {
+            "title": "Labours of the Months: January",
+            "date": "1450s",
+            "technique": "Glazed terracotta diameter 60 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/14luca.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 34615
+        },
+        {
+            "title": "Labours of the Months: June",
+            "date": "1450s",
+            "technique": "Glazed terracotta diameter 57 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/15luca.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 34616
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1461-62",
+            "technique": "Painted and glazed terracotta",
+            "location": "San Miniato al Monte Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/16luca.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 34617
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1461-62",
+            "technique": "Painted and glazed terracotta",
+            "location": "San Miniato al Monte Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/16luca1.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 34618
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1461-62",
+            "technique": "Painted and glazed terracotta",
+            "location": "San Miniato al Monte Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/16luca2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34619
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1465",
+            "technique": "Glazed terracotta 150 x 65 cm",
+            "location": "Santa Maria Impruneta",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/17luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34620
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "c. 1465",
+            "technique": "Glazed terracotta",
+            "location": "Santa Maria Impruneta",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/18luca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34621
+        },
+        {
+            "title": "Tondo Portrait of a Lady",
+            "date": "1465",
+            "technique": "Glazed terracotta diameter: 54 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/r/robbia/luca/various/19luca.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 34622
+        },
+        {}
+    ]
+}

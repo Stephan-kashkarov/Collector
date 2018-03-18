@@ -1,0 +1,49 @@
+{
+    "name": "MASTER of the Virgo inter Virgines",
+    "life": "(active 1470-1500 in Delft)",
+    "school": "Netherlandish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Virgin and Child with Sts Catherine Cecilia Barbara and Ursula",
+            "date": "c. 1490",
+            "technique": "Oil on panel 123 x 102 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/virgo/0_virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25211
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1485",
+            "technique": "Oak 63 x 48 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/virgo/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25212
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1487",
+            "technique": "Oil on panel 78 x 59 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/m/master/virgo/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25213
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1490s",
+            "technique": "Oil on wood 57 x 47 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/virgo/virgo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25214
+        },
+        {}
+    ]
+}

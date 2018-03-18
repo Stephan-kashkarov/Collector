@@ -1,0 +1,39 @@
+{
+    "name": "LEMMEN Georges",
+    "life": "(b. 1865 Schaerbeek d. 1916 Ukkel)",
+    "school": "Belgian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Beach at Heist",
+            "date": "1891",
+            "technique": "Oil on wood 37 x 46 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/l/lemmen/beach.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21876
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1890",
+            "technique": "Oil on canvas 43 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lemmen/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21877
+        },
+        {
+            "title": "View of the Thames",
+            "date": "1892",
+            "technique": "Oil on canvas 61 x 87 cm",
+            "location": "Museum of Art Rhode Island School of Design Providence",
+            "url": "https://www.wga.hu/html/l/lemmen/thames.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21878
+        },
+        {}
+    ]
+}

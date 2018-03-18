@@ -1,0 +1,129 @@
+{
+    "name": "GIOVANNI DA SAN GIOVANNI",
+    "life": "(b. 1592 San Giovanni Valdarno d. 1636 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "View of the Sala Terreno",
+            "date": "1635-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/1pitti.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16587
+        },
+        {
+            "title": "View of the Sala Terreno",
+            "date": "1635",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/2pitti.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16588
+        },
+        {
+            "title": "View of the east wall",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/3pitti.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16589
+        },
+        {
+            "title": "Fame Showing the Wandering Philosophers to Tuscany and Munificence",
+            "date": "c. 1635",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/4pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16590
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "c. 1637",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/5pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16591
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "c. 1637",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/6pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16592
+        },
+        {
+            "title": "Ceiling centre",
+            "date": "c. 1637",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/7pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16593
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1635-36",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/8pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16594
+        },
+        {
+            "title": "View of the apse and choir",
+            "date": "1622-24",
+            "technique": "Fresco",
+            "location": "Santi Quattro Coronati Rome",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/9quattro.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16595
+        },
+        {
+            "title": "Aurora and Tithonus",
+            "date": "1634-35",
+            "technique": "Detached fresco 360 x 160 cm",
+            "location": "Museo Bardini Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16596
+        },
+        {
+            "title": "Aurora and Tithonus (detail)",
+            "date": "1634-35",
+            "technique": "Detached fresco",
+            "location": "Museo Bardini Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/aurora1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16597
+        },
+        {
+            "title": "Venus Combing Cupid's Hair",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 229 x 173 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/venus_cu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16598
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "SANTINI AICHEL Johann Blasius",
+    "life": "(b. 1677 Prague d. 1723 Prague)",
+    "school": "Bohemian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1719-21",
+            "technique": "Photo",
+            "location": "St. John Nepomuk on the Green Hill Zdar",
+            "url": "https://www.wga.hu/html/s/santini/zdar1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36302
+        },
+        {
+            "title": "Exterior view",
+            "date": "1719-21",
+            "technique": "Photo",
+            "location": "St. John Nepomuk on the Green Hill Zdar",
+            "url": "https://www.wga.hu/html/s/santini/zdar2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36303
+        },
+        {
+            "title": "Exterior view",
+            "date": "1719-21",
+            "technique": "Photo",
+            "location": "St. John Nepomuk on the Green Hill Zdar",
+            "url": "https://www.wga.hu/html/s/santini/zdar3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36304
+        },
+        {}
+    ]
+}

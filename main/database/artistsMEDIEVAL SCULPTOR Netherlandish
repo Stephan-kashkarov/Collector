@@ -1,0 +1,29 @@
+{
+    "name": "MEDIEVAL SCULPTOR Netherlandish",
+    "life": "(active c. 1112-1132 in Holland)",
+    "school": "Netherlandish",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "The Egmond Tympanum",
+            "date": "1112-32",
+            "technique": "Sandstone 88 x 275 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c12/3n1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25762
+        },
+        {
+            "title": "Tomb of Arnold van der Sluis",
+            "date": "c. 1320",
+            "technique": "Stone 323 x 123 cm",
+            "location": "Museum Catharijneconvent Utrecht",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/02g_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25763
+        },
+        {}
+    ]
+}

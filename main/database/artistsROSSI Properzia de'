@@ -1,0 +1,39 @@
+{
+    "name": "ROSSI Properzia de'",
+    "life": "(b. ca. 1490 Bologna d. 1530 Bologna)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Joseph and Potiphar's Wife",
+            "date": "1520s",
+            "technique": "Marble",
+            "location": "Museo de San Petronio Bologna",
+            "url": "https://www.wga.hu/html/r/rossi_p/joseph.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 35242
+        },
+        {
+            "title": "Grassi Family Crest",
+            "date": "1510-30",
+            "technique": "Silver filigree and carved peach and plum stones 39 x 22 cm",
+            "location": "Museo Civico Medievale Bologna",
+            "url": "https://www.wga.hu/html/r/rossi_p/peach.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 35243
+        },
+        {
+            "title": "Carved Cherry Stone Pendant",
+            "date": "1510-30",
+            "technique": "Gold diamonds enamel pearls and cherry stone 42 x 23 cm",
+            "location": "Museo degli Argenti Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/r/rossi_p/pendant.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 35244
+        },
+        {}
+    ]
+}

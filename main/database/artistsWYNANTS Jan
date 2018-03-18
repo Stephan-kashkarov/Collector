@@ -1,0 +1,109 @@
+{
+    "name": "WYNANTS Jan",
+    "life": "(b. ca. 1630 Haarlem d. 1684 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Hilly Landscape",
+            "date": "1660-65",
+            "technique": "Oil on canvas 565 50 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/w/wynants/hilly_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44459
+        },
+        {
+            "title": "Landscape with Dune",
+            "date": "-",
+            "technique": "Oil on canvas 1085 x 1535 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/wynants/landdune.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44460
+        },
+        {
+            "title": "Dune Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 21 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wynants/landdunf.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44461
+        },
+        {
+            "title": "Parable of the Good Samaritan",
+            "date": "1670",
+            "technique": "Oil on canvas 127 x 137 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/wynants/parable.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44462
+        },
+        {
+            "title": "River Landscape",
+            "date": "1660-75",
+            "technique": "Oil on panel 26 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wynants/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44463
+        },
+        {
+            "title": "Wooded Landscape with a Dead Tree",
+            "date": "1667",
+            "technique": "Oil on canvas 65 x 88 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/wynants/road_fo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44464
+        },
+        {
+            "title": "Road beside the Forest (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/wynants/road_for.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44465
+        },
+        {
+            "title": "Landscape with a Ruined Archway",
+            "date": "-",
+            "technique": "Oil on canvas 22 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wynants/ruined_a.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44466
+        },
+        {
+            "title": "Wooded Landscape",
+            "date": "1670s",
+            "technique": "Oil on canvas 34 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wynants/woodedla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44467
+        },
+        {
+            "title": "Wooded Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 51 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wynants/woodland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44468
+        },
+        {}
+    ]
+}

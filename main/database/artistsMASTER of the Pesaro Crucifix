@@ -1,0 +1,49 @@
+{
+    "name": "MASTER of the Pesaro Crucifix",
+    "life": "(active 1380-1400 in Venice)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "St Cecilia and Her Husband Valerian Being Crowned by an Angel",
+            "date": "c. 1380",
+            "technique": "Tempera and gold on panel 51 x 36 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/m/master/pesaro/cecilia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25170
+        },
+        {
+            "title": "Crucifix",
+            "date": "1390s",
+            "technique": "Wood gold ground 113 x 59 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/m/master/pesaro/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25171
+        },
+        {
+            "title": "Virgin and Child Enthroned",
+            "date": "1380-1400",
+            "technique": "Tempera on panel gold ground shaped top 73 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/pesaro/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25172
+        },
+        {
+            "title": "Virgin and Child Enthroned (detail)",
+            "date": "1380-1400",
+            "technique": "Tempera on panel gold ground",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/pesaro/virgin_x.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25173
+        },
+        {}
+    ]
+}

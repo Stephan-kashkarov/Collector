@@ -1,0 +1,139 @@
+{
+    "name": "MINO DA FIESOLE",
+    "life": "(b. 1429 Poppi d. 1484 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Alfonso of Aragon",
+            "date": "-",
+            "technique": "Marble 52 x 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/mino/alfonso.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28304
+        },
+        {
+            "title": "Cardinal Guillaume d'Estouteville",
+            "date": "1460-64",
+            "technique": "Marble height 36 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/mino/cardinal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28305
+        },
+        {
+            "title": "Head of a Child",
+            "date": "c. 1465",
+            "technique": "Marble height 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mino/headchil.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28306
+        },
+        {
+            "title": "The Last Judgment (detail)",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Crypt Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/m/mino/lastjudg.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28307
+        },
+        {
+            "title": "Madonna (detail)",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Cathedral Fiesole",
+            "url": "https://www.wga.hu/html/m/mino/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28308
+        },
+        {
+            "title": "Portrait of Astorgio Manfredi",
+            "date": "c. 1456",
+            "technique": "Marble 52 x 54 x 28 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/mino/manfredi.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28309
+        },
+        {
+            "title": "Giovanni de' Medici",
+            "date": "c. 1455",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/m/mino/medici_g.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28310
+        },
+        {
+            "title": "Piero de' Medici",
+            "date": "c. 1453",
+            "technique": "Marble height 54 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/m/mino/medici_p.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28311
+        },
+        {
+            "title": "Diotisalvi Neroni",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/mino/neroni.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28312
+        },
+        {
+            "title": "Niccol\u00f2 di Leonardo Strozzi",
+            "date": "1454",
+            "technique": "Marble height 49 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/mino/strozzi.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28313
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1461-63",
+            "technique": "Marble",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/m/mino/tabernac.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28314
+        },
+        {
+            "title": "Tabernacle of the Sacrament",
+            "date": "c. 1473",
+            "technique": "Marble",
+            "location": "Santa Croce Florence",
+            "url": "https://www.wga.hu/html/m/mino/tabernax.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28315
+        },
+        {
+            "title": "Tabernacle of the Eucharistic Relic",
+            "date": "1481-84",
+            "technique": "Marble",
+            "location": "Sant'Ambrogio Florence",
+            "url": "https://www.wga.hu/html/m/mino/tabernay.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28316
+        },
+        {}
+    ]
+}

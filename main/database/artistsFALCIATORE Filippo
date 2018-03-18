@@ -1,0 +1,29 @@
+{
+    "name": "FALCIATORE Filippo",
+    "life": "(documented 1718-1768 in Naples)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "A Concert in a Garden",
+            "date": "-",
+            "technique": "Oil on canvas 39 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/falciato/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13472
+        },
+        {
+            "title": "Dance in a Garden",
+            "date": "-",
+            "technique": "Oil on canvas 39 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/falciato/dance.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13473
+        },
+        {}
+    ]
+}

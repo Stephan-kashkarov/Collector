@@ -1,0 +1,49 @@
+{
+    "name": "GIUSTI Giovanni",
+    "life": "(b. 1485 San Martino d. 1549 Tours)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Monument of Louis XII and Anne of Bretagne",
+            "date": "1515-31",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/louis12.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 16856
+        },
+        {
+            "title": "Monument of Louis XII and Anne of Bretagne (detail)",
+            "date": "1515-31",
+            "technique": "Marble",
+            "location": "Abbey Church Saint-Denis",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/louis12d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 16857
+        },
+        {
+            "title": "Monument to Thomas James",
+            "date": "1507",
+            "technique": "Marble",
+            "location": "Cath\u00e9drale Saint-Samson Dol-de-Bretagne",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/thomas1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 16858
+        },
+        {
+            "title": "Monument to Thomas James",
+            "date": "1507",
+            "technique": "Marble",
+            "location": "Cath\u00e9drale Saint-Samson Dol-de-Bretagne",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/thomas2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 16859
+        },
+        {}
+    ]
+}

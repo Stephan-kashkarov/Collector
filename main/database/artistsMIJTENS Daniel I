@@ -1,0 +1,49 @@
+{
+    "name": "MIJTENS Daniel I",
+    "life": "(b. ca. 1590 Delft d. ca. 1647 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Charles I King of England",
+            "date": "1629",
+            "technique": "Oil on canvas 200 x 141 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/mijtens/daniel1/charles.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27148
+        },
+        {
+            "title": "Charles I King of England (detail)",
+            "date": "1629",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/mijtens/daniel1/charles1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27149
+        },
+        {
+            "title": "Duke of Hamilton",
+            "date": "1629",
+            "technique": "Oil on canvas 221 x 140 cm",
+            "location": "Scottish National Portrait Gallery Edinburgh",
+            "url": "https://www.wga.hu/html/m/mijtens/daniel1/duke_ham.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27150
+        },
+        {
+            "title": "Duke of Buckingham",
+            "date": "-",
+            "technique": "Oil on canvas 217 x 140 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mijtens/daniel1/dukebuck.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27151
+        },
+        {}
+    ]
+}

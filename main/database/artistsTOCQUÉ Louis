@@ -1,0 +1,69 @@
+{
+    "name": "TOCQU\u00c9 Louis",
+    "life": "(b. 1696 Paris d. 1772 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Louis Grand Dauphin of France",
+            "date": "1739",
+            "technique": "Oil on canvas 80 x 64 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tocque/dauphin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39836
+        },
+        {
+            "title": "Portrait of Marquis de Lucker",
+            "date": "1743",
+            "technique": "Oil on canvas 81 x 64 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "url": "https://www.wga.hu/html/t/tocque/p_lucker.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39837
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1746",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tocque/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39838
+        },
+        {
+            "title": "Portrait of Empress Elizabeth",
+            "date": "1758",
+            "technique": "Oil on canvas 262 x 204 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tocque/portempr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39839
+        },
+        {
+            "title": "Portrait of a Lady and Her Daughter",
+            "date": "1747",
+            "technique": "Oil on canvas 134 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tocque/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39840
+        },
+        {
+            "title": "Marie Leczinska Queen of France",
+            "date": "1740",
+            "technique": "Oil on canvas 277 x 191 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/t/tocque/queen_fr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39841
+        },
+        {}
+    ]
+}

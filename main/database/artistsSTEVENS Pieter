@@ -1,0 +1,89 @@
+{
+    "name": "STEVENS Pieter",
+    "life": "(b. ca. 1567 Mechelen d. after 1624 Prague)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Landscape with a Footbridge",
+            "date": "c. 1600",
+            "technique": "Pen and brush brown wash and watercolour 206 x 296 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/stevens/landfoot.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38032
+        },
+        {
+            "title": "Landscape with Ruins",
+            "date": "1610",
+            "technique": "Pen brown ink wash 203 x 165 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/stevens/landsca1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38033
+        },
+        {
+            "title": "Weir",
+            "date": "after 1600",
+            "technique": "Pen brush brown ink wash 197 x 309 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/stevens/landsca2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38034
+        },
+        {
+            "title": "Landscape and Pond",
+            "date": "after 1600",
+            "technique": "Brush various pale watercolours pen brown ink 144 x 190 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/stevens/landsca3.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38035
+        },
+        {
+            "title": "Waterfall",
+            "date": "after 1607",
+            "technique": "Pen dark grey ink wash in watercolours 202 x 161 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/stevens/landsca4.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38036
+        },
+        {
+            "title": "Temptation of Christ",
+            "date": "c. 1594",
+            "technique": "Pen brown ink blue and brown wash 215 x 320 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/stevens/temptati.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 38037
+        },
+        {
+            "title": "Mountain Valley with Inn and Castle",
+            "date": "1593",
+            "technique": "Oil on oak 46 x 67 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/s/stevens/valley.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38038
+        },
+        {
+            "title": "Mountain Valley with Inn and Castle (detail)",
+            "date": "1593",
+            "technique": "Oil on oak",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/s/stevens/valley1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38039
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "CAMPA\u00d1A Pedro de",
+    "life": "(b. 1503 Bruxelles d. 1580 Bruxelles)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Altarpiece of the Purification",
+            "date": "1555",
+            "technique": "Oil on panel",
+            "location": "Cathedral Seville",
+            "url": "https://www.wga.hu/html/c/campana/altarpie.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7105
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1550",
+            "technique": "Canvas backed by wood 54 x 39 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/campana/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7106
+        },
+        {
+            "title": "Descent from the Cross (detail)",
+            "date": "1547",
+            "technique": "Oil on panel 320 x 191 cm (entire painting)",
+            "location": "Cathedral Seville",
+            "url": "https://www.wga.hu/html/c/campana/descent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7107
+        },
+        {}
+    ]
+}

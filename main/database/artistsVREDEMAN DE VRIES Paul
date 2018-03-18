@@ -1,0 +1,49 @@
+{
+    "name": "VREDEMAN DE VRIES Paul",
+    "life": "(b. 1567 Antwerpen 1617 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Dance Party",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/v/vredeman/son/dancepa.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43637
+        },
+        {
+            "title": "Dance Party (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/v/vredeman/son/dancepa1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43638
+        },
+        {
+            "title": "Interior of a Gothic Church",
+            "date": "1596-97",
+            "technique": "Oil on canvas 123 x 130 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/v/vredeman/son/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 43639
+        },
+        {
+            "title": "A buffet and a cupboard",
+            "date": "1630",
+            "technique": "Engraving on paper 194 x 271 mm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/v/vredeman/son/z_buffet.html",
+            "form": "graphics",
+            "painting_type": "still-life",
+            "index": 43640
+        },
+        {}
+    ]
+}

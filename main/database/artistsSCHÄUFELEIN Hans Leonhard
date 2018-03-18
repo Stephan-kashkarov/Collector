@@ -1,0 +1,149 @@
+{
+    "name": "SCH\u00c4UFELEIN Hans Leonhard",
+    "life": "(b. ca. 1480 N\u00fcrnberg? d. 1538/40 N\u00f6rdlingen?)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Agony in the Garden",
+            "date": "1516",
+            "technique": "Lime panel",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/schaufel/agony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36548
+        },
+        {
+            "title": "Reconstruction of an altarpiece (interior)",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36549
+        },
+        {
+            "title": "The Nativity",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36550
+        },
+        {
+            "title": "Christ in the Temple",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Shipley Art Gallery Gateshead England",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1b.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36551
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36552
+        },
+        {
+            "title": "The Dormition of the Virgin (interior)",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel 139 x 134 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36553
+        },
+        {
+            "title": "The Dormition of the Virgin (interior detail)",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schaufel/altar1d1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36554
+        },
+        {
+            "title": "Reconstruction of an altarpiece (exterior)",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/s/schaufel/altar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36555
+        },
+        {
+            "title": "Christ Carrying the Cross (exterior)",
+            "date": "c. 1510",
+            "technique": "Oil and gold on fir panel 139 x 134 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schaufel/altar2d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36556
+        },
+        {
+            "title": "The Birth of Christ",
+            "date": "1505-06",
+            "technique": "Wood 27 x 15 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/s/schaufel/birth.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36557
+        },
+        {
+            "title": "The Circumcision of Christ",
+            "date": "1505-06",
+            "technique": "Wood 26 x 15 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/s/schaufel/circumci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36558
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1505",
+            "technique": "Oil on wood",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/s/schaufel/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36559
+        },
+        {
+            "title": "Christ Taking Leave of His Mother",
+            "date": "1510",
+            "technique": "Pen and brown ink black chalk on paper 276 x 213 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/s/schaufel/study1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 36560
+        },
+        {
+            "title": "The Ascension",
+            "date": "1507",
+            "technique": "Woodcut 235 x 159 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/s/schaufel/study2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 36561
+        },
+        {}
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "MEDIEVAL SCULPTOR Catalan",
+    "life": "(active c. 1020 in Catalonia)",
+    "school": "Catalan",
+    "timeframe": "1001-1050",
+    "art": [
+        {
+            "title": "Capital",
+            "date": "c. 1020",
+            "technique": "Stone",
+            "location": "Monastery Sant Pere de Roda",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/21s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25387
+        },
+        {
+            "title": "View of the cloister",
+            "date": "1100-50",
+            "technique": "Stone",
+            "location": "Monasterio de Santa Mar\u00eda L'Estany",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c1/5s1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25388
+        },
+        {
+            "title": "Capital",
+            "date": "1100-50",
+            "technique": "Stone",
+            "location": "Monasterio de Santa Mar\u00eda L'Estany",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c1/5s2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25389
+        },
+        {
+            "title": "Capitals",
+            "date": "1210s",
+            "technique": "Stone",
+            "location": "Cathedral of La Seu Vella Lleida",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/1s1_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25390
+        },
+        {
+            "title": "West fa\u00e7ade and portal",
+            "date": "1140s",
+            "technique": "Marble",
+            "location": "Abbey Church of Santa Mar\u00eda Ripoll",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/2s1_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25391
+        },
+        {
+            "title": "West portal",
+            "date": "1140s",
+            "technique": "Stone",
+            "location": "Abbey Church of Santa Mar\u00eda Ripoll",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/2s2_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25392
+        },
+        {
+            "title": "West fa\u00e7ade and portal (detail)",
+            "date": "1140s",
+            "technique": "Stone",
+            "location": "Abbey Church of Santa Mar\u00eda Ripoll",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/2s3_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25393
+        },
+        {
+            "title": "Apostles",
+            "date": "1170s",
+            "technique": "Stone",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/4c2_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25394
+        },
+        {
+            "title": "West portal",
+            "date": "c. 1277",
+            "technique": "Stone",
+            "location": "Cathedral Tarragona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s4_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25395
+        },
+        {
+            "title": "Royal tombs",
+            "date": "1290s",
+            "technique": "Marble",
+            "location": "Cistercian convent Santes Creus (Tarragona)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s5_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25396
+        },
+        {
+            "title": "Sarcophagus of St. Eul\u00e1lia",
+            "date": "1327-39",
+            "technique": "Marble",
+            "location": "Cathedral Barcelona",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/09s_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25397
+        },
+        {}
+    ]
+}

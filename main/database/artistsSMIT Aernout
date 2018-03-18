@@ -1,0 +1,39 @@
+{
+    "name": "SMIT Aernout",
+    "life": "(b. ca. 1641 Amsterdam d. 1710 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Shipping off a Coast in Choppy Water",
+            "date": "1670s",
+            "technique": "Oil on canvas 872 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/smit/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37462
+        },
+        {
+            "title": "Shipping off a Coast in Choppy Water (detail)",
+            "date": "1670s",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/smit/shippinx.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37463
+        },
+        {
+            "title": "Ships on a Mediterranean Coast",
+            "date": "-",
+            "technique": "Oil on panel 24 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/smit/shipsmed.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37464
+        },
+        {}
+    ]
+}

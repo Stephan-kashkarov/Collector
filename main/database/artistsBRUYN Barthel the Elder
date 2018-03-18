@@ -1,0 +1,139 @@
+{
+    "name": "BRUYN Barthel the Elder",
+    "life": "(b. 1493 Cologne d. 1555 Cologne)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Burgomaster Arnold von Brauweiler",
+            "date": "1535",
+            "technique": "Oil on oak 57 x 385 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/burgomas.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6750
+        },
+        {
+            "title": "Portrait of Scholar Petrus von Clapis",
+            "date": "c. 1528",
+            "technique": "Wood 37 x 26 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/clapis.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6751
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1515",
+            "technique": "Oil on oak panel 87 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6752
+        },
+        {
+            "title": "Portrait of a Man with Three Sons",
+            "date": "c. 1530",
+            "technique": "Oil on canvas 76 x 46 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/man3sons.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6753
+        },
+        {
+            "title": "Portrait of a Woman with her Daughter",
+            "date": "c. 1540",
+            "technique": "Oil on canvas 77 x 46 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/man3woma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6754
+        },
+        {
+            "title": "Portrait of a Noblewoman",
+            "date": "1530-35",
+            "technique": "Oil on panel 45 x 36 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/p_noblew.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6755
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/p_youngw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6756
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1533",
+            "technique": "Oil on oak panel 30 x 21 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/portra01.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6757
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1533",
+            "technique": "Oil on oak panel 30 x 21 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/portra02.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6758
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1538-39",
+            "technique": "Oil on panel 35 x 26 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6759
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1539",
+            "technique": "Oil on panel 35 x 26 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6760
+        },
+        {
+            "title": "Vanitas Still-Life",
+            "date": "-",
+            "technique": "Oil on wood 61 x 51 cm",
+            "location": "Rijksmuseum Kr\u00f6ller-M\u00fcller Otterlo",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/vanitas.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6761
+        },
+        {
+            "title": "Skull in a Niche",
+            "date": "-",
+            "technique": "Oil on canvas 37 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bruyn/elder/vanitas1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6762
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "STORCK Jacobus",
+    "life": "(b. 1641 Amsterdam d. 1688 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "View of a Harbour",
+            "date": "-",
+            "technique": "Oil on panel 65 x 98 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/storck/jacobus/harbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38088
+        },
+        {
+            "title": "Capriccio View of Haarlem",
+            "date": "-",
+            "technique": "Oil on canvas 66 x 90",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/jacobus/imaginar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38089
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 66 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/jacobus/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38090
+        },
+        {
+            "title": "Riverlandscape with a Town in the Background",
+            "date": "-",
+            "technique": "Oil on panel 52 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/jacobus/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38091
+        },
+        {}
+    ]
+}

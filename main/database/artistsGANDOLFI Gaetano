@@ -1,0 +1,89 @@
+{
+    "name": "GANDOLFI Gaetano",
+    "life": "(b. 1734 S Matteo della Decima d. 1802 Bologna)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Agony of Christ",
+            "date": "-",
+            "technique": "Oil on copper 60 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/agony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14787
+        },
+        {
+            "title": "Study of a Bearded Man",
+            "date": "1770s",
+            "technique": "Oil on canvas 44 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/bearded.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 14788
+        },
+        {
+            "title": "St Giustina and the Guardian Angel Commending the Soul of an Infant to the Madonna and Child",
+            "date": "1792-93",
+            "technique": "Oil on canvas 52 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/giustina.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14789
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1775",
+            "technique": "Oil on canvas 99 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14790
+        },
+        {
+            "title": "The Holy Family",
+            "date": "-",
+            "technique": "Red chalk highlighted with white on beige paper 251 x 202 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/holyfamy.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 14791
+        },
+        {
+            "title": "Joseph's Dream",
+            "date": "c. 1790",
+            "technique": "Oil on canvas 95 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/joseph_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14792
+        },
+        {
+            "title": "Venus at Vulcan's Forge",
+            "date": "c. 1775",
+            "technique": "Oil on canvas 52 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/venus_vu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14793
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "1777",
+            "technique": "Oil on canvas 51 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gandolfi/gaetano/youngwom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14794
+        },
+        {}
+    ]
+}

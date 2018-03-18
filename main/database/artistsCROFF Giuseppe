@@ -1,0 +1,39 @@
+{
+    "name": "CROFF Giuseppe",
+    "life": "(b. 1810 Milano d. 1869 Torno)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Leda and the Swan",
+            "date": "-",
+            "technique": "White marble 167 x 123 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/croff/ledaswan.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10537
+        },
+        {
+            "title": "The Veiled Nun",
+            "date": "c. 1860",
+            "technique": "Marble height 38 cm",
+            "location": "Corcoran Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/croff/nun_veil.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10538
+        },
+        {
+            "title": "Nymph at the Fountain",
+            "date": "-",
+            "technique": "White marble height 125 cm (with base)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/croff/nymph.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10539
+        },
+        {}
+    ]
+}

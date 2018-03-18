@@ -1,0 +1,39 @@
+{
+    "name": "QUERFURT August",
+    "life": "(b. 1696 Wolfenb\u00fcttel d. 1761 Wien)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Cavalry Engagement",
+            "date": "-",
+            "technique": "Oil on canvas 107 x 144 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/querfurt/cavalry.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 32717
+        },
+        {
+            "title": "After the Hunt",
+            "date": "-",
+            "technique": "Oil on panel 21 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/querfurt/hunt1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32718
+        },
+        {
+            "title": "At the Field Camp",
+            "date": "-",
+            "technique": "Oil on panel 21 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/querfurt/hunt2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32719
+        },
+        {}
+    ]
+}

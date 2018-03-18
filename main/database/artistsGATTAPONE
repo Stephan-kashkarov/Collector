@@ -1,0 +1,59 @@
+{
+    "name": "GATTAPONE",
+    "life": "(b. ca. 1300 Gubbio d. 1383 Gubbio)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1365-70",
+            "technique": "Photo",
+            "location": "Collegio di Spagna Bologna",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14888
+        },
+        {
+            "title": "Interior view",
+            "date": "1365-70",
+            "technique": "Photo",
+            "location": "Collegio di Spagna Bologna",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 14889
+        },
+        {
+            "title": "Interior view",
+            "date": "1365-70",
+            "technique": "Photo",
+            "location": "Collegio di Spagna Bologna",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 14890
+        },
+        {
+            "title": "General view",
+            "date": "1362-70",
+            "technique": "Photo",
+            "location": "Rocca Albornoziana Spoleto",
+            "url": "https://www.wga.hu/html/g/gattapon/rocca1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14891
+        },
+        {
+            "title": "General view",
+            "date": "1362-70",
+            "technique": "Photo",
+            "location": "Rocca Albornoziana Spoleto",
+            "url": "https://www.wga.hu/html/g/gattapon/rocca2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14892
+        },
+        {}
+    ]
+}

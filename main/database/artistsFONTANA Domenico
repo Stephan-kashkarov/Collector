@@ -1,0 +1,89 @@
+{
+    "name": "FONTANA Domenico",
+    "life": "(b. 1543 Melide d. 1607 Napoli)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Fontana dell'Acqua Felice (Moses Fountain)",
+            "date": "1585-87",
+            "technique": "Travertine marble",
+            "location": "Piazza di San Bernardo Rome",
+            "url": "https://www.wga.hu/html/f/fontan/acqua_f.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13980
+        },
+        {
+            "title": "Fontana dell'Acqua Felice (Moses Fountain)",
+            "date": "1585-87",
+            "technique": "Travertine marble",
+            "location": "Piazza di San Bernardo Rome",
+            "url": "https://www.wga.hu/html/f/fontan/acqua_f1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13981
+        },
+        {
+            "title": "Fontana dell'Acqua Felice (Moses Fountain)",
+            "date": "1585-87",
+            "technique": "Travertine marble",
+            "location": "Piazza di San Bernardo Rome",
+            "url": "https://www.wga.hu/html/f/fontan/acqua_fe.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 13982
+        },
+        {
+            "title": "Palazzo del Laterano with the Loggia delle Benedizioni",
+            "date": "1589",
+            "technique": "-",
+            "location": "Piazza San Giovanni Rome",
+            "url": "https://www.wga.hu/html/f/fontan/lateran.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13983
+        },
+        {
+            "title": "View of the Sistine Chapel",
+            "date": "c. 1580",
+            "technique": "-",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/f/fontan/sistine.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13984
+        },
+        {
+            "title": "Moving the Vatican Obelisk",
+            "date": "1590",
+            "technique": "Engraving",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/fontan/zobelis1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 13985
+        },
+        {
+            "title": "Transportation of the Obelisk",
+            "date": "1590",
+            "technique": "Engraving",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/fontan/zobelis2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 13986
+        },
+        {
+            "title": "Installing the manger of Christ",
+            "date": "1590",
+            "technique": "Engraving",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/fontan/zobelis3.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 13987
+        },
+        {}
+    ]
+}

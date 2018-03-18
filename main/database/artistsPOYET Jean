@@ -1,0 +1,29 @@
+{
+    "name": "POYET Jean",
+    "life": "(active 1483-1503 in Tours)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Petites Heures d'Anne de Bretagne",
+            "date": "c. 1503",
+            "technique": "Manuscript (Ms. nouv. acqu. lat. 3027) 172 x 120 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/poyet/petites.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 32330
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Illumination on vellum 234 x 172 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/poyet/virgin_c.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 32331
+        },
+        {}
+    ]
+}

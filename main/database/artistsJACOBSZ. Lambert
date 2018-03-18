@@ -1,0 +1,49 @@
+{
+    "name": "JACOBSZ. Lambert",
+    "life": "(b. ca. 1598 Amsterdam d. 1636 Leeuwarden)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Disobedient Prophet",
+            "date": "1628-36",
+            "technique": "Oil on canvas 107 x 136 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/j/jacobszl/disobedi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20451
+        },
+        {
+            "title": "Elisha and Gehazi",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 82 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacobszl/elisha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20452
+        },
+        {
+            "title": "Joseph's Brothers on the Road from Egypt",
+            "date": "1632",
+            "technique": "Oil on panel 55 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacobszl/josephbr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20453
+        },
+        {
+            "title": "St Paul and the Soothsayer of Philippi",
+            "date": "-",
+            "technique": "Oil on canvas 156 x 207 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacobszl/soothsay.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20454
+        },
+        {}
+    ]
+}

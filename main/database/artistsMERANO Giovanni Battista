@@ -1,0 +1,29 @@
+{
+    "name": "MERANO Giovanni Battista",
+    "life": "(b. 1632 Genova d. 1698 Piacenza)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "-",
+            "technique": "Oil on canvas 111 x 155 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/merano/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26284
+        },
+        {
+            "title": "The Holy Family Served by Angels",
+            "date": "-",
+            "technique": "Oil on canvas 111 x 155 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/merano/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26285
+        },
+        {}
+    ]
+}

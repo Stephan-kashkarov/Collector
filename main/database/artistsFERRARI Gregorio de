@@ -1,0 +1,79 @@
+{
+    "name": "FERRARI Gregorio de",
+    "life": "(b. 1647 Porto Maurizio d. 1726 Genova)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Ascension of Christ",
+            "date": "c. 1690",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/ascensio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13724
+        },
+        {
+            "title": "Hercules and Antaeus",
+            "date": "1690s",
+            "technique": "Oil on canvas 217 x 148 cm",
+            "location": "Palazzo Cattaneo Genoa",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/hercules.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13725
+        },
+        {
+            "title": "Juno and Argus",
+            "date": "1685-95",
+            "technique": "Oil on canvas 140 x 138 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/junoargu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13726
+        },
+        {
+            "title": "Spring: Venus Driving away Mars",
+            "date": "1687-88",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/rosso.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13727
+        },
+        {
+            "title": "Summer: Apollo-Helios and Lion",
+            "date": "1687-88",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/rosso1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13728
+        },
+        {
+            "title": "Summer: Apollo-Helios and Lion (detail)",
+            "date": "1687-88",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/rosso1d.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13729
+        },
+        {
+            "title": "Fantasia poetica",
+            "date": "c. 1689",
+            "technique": "Oil on canvas 74 x 90 cm",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/f/ferrari1/gregorio/rosso2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 13730
+        },
+        {}
+    ]
+}

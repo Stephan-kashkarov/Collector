@@ -1,0 +1,49 @@
+{
+    "name": "DURET Francisque-Joseph",
+    "life": "(b. 1804 Paris d. 1865 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Chactas Meditating on Atala's Tomb",
+            "date": "1835",
+            "technique": "Bronze height 135 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/d/duret/chactas.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12446
+        },
+        {
+            "title": "Grape-picker Extemporizing",
+            "date": "1839",
+            "technique": "Bronze height 196 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duret/grapepic.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12447
+        },
+        {
+            "title": "Neapolitan Fisherman Dancing the Tarantella",
+            "date": "1833",
+            "technique": "Bronze height 158 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/duret/tarantel.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12448
+        },
+        {
+            "title": "Victory",
+            "date": "1857",
+            "technique": "Marble height 200 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/d/duret/victory.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 12449
+        },
+        {}
+    ]
+}

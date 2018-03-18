@@ -1,0 +1,29 @@
+{
+    "name": "ROOS Jan",
+    "life": "(b. 1591 d. 1638 Genova)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/r/roos_j/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35081
+        },
+        {
+            "title": "Still-Life with Game",
+            "date": "1620s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Rocca Chiavari",
+            "url": "https://www.wga.hu/html/r/roos_j/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35082
+        },
+        {}
+    ]
+}

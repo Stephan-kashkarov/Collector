@@ -1,0 +1,49 @@
+{
+    "name": "CAPANNA Puccio",
+    "life": "(active 1338-1348 in Assisi)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Singing gallery",
+            "date": "1337-38",
+            "technique": "Fresco",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/capanna/1singing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7412
+        },
+        {
+            "title": "Martyrdom of St Stanislas",
+            "date": "c. 1338",
+            "technique": "Fresco",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/capanna/2singing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7413
+        },
+        {
+            "title": "St Stanislas Raises a Body from the Death",
+            "date": "c. 1338",
+            "technique": "Fresco",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/capanna/3singing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7414
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1344",
+            "technique": "Fresco",
+            "location": "Chapterhouse San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/capanna/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7415
+        },
+        {}
+    ]
+}

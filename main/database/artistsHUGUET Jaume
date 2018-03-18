@@ -1,0 +1,99 @@
+{
+    "name": "HUGUET Jaume",
+    "life": "(b. ca. 1415 Valls d. 1492 Barcelona)",
+    "school": "Catalan",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Consecration of St Augustine",
+            "date": "1466-75",
+            "technique": "Tempera on panel 272 x 200 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/consacra.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20274
+        },
+        {
+            "title": "Epiphany (detail)",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Museu d'Historia de la Ciutat Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/epiphany.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20275
+        },
+        {
+            "title": "The Flagellation of Christ",
+            "date": "1450s",
+            "technique": "Wood 106 x 210 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/huguet/flagella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20276
+        },
+        {
+            "title": "Last Supper",
+            "date": "c. 1470",
+            "technique": "Wood 172 x 164 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/last_sup.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20277
+        },
+        {
+            "title": "Sts Abdon and Sennen",
+            "date": "1459-60",
+            "technique": "Mixed technique on wood 290 x 220 cm",
+            "location": "Santa Maria d'Egara Terrassa",
+            "url": "https://www.wga.hu/html/h/huguet/saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20278
+        },
+        {
+            "title": "The Archangel St Michael",
+            "date": "1456",
+            "technique": "Tempera on panel 213 x 136 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/smichael.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20279
+        },
+        {
+            "title": "Triptych of Saint George",
+            "date": "1459-60",
+            "technique": "Tempera on wood 92 x 58 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/stgeorge.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20280
+        },
+        {
+            "title": "Triptych of Saint George (detail)",
+            "date": "1459-60",
+            "technique": "Panel",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/stgeorgx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20281
+        },
+        {
+            "title": "Vinzenz Altarpiece",
+            "date": "c. 1458",
+            "technique": "Wood",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/h/huguet/vinzenz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20282
+        },
+        {}
+    ]
+}

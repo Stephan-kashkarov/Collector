@@ -1,0 +1,149 @@
+{
+    "name": "HOGARTH William",
+    "life": "(b. 1697 London d. 1764 London)",
+    "school": "English",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "An Election Entertainment",
+            "date": "1754",
+            "technique": "Oil on canvas 100 x 127 cm",
+            "location": "Sir John Soane's Museum London",
+            "url": "https://www.wga.hu/html/h/hogarth/elect01.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19793
+        },
+        {
+            "title": "Soliciting Votes",
+            "date": "1754",
+            "technique": "Oil on canvas 1016 x 127 cm",
+            "location": "Sir John Soane's Museum London",
+            "url": "https://www.wga.hu/html/h/hogarth/election.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19794
+        },
+        {
+            "title": "The Marriage of Stephen Beckingham and Mary Cox",
+            "date": "c. 1729",
+            "technique": "Oil on canvas 1283 x 103 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hogarth/m_beckin.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19795
+        },
+        {
+            "title": "Marriage \u00e0 la Mode",
+            "date": "c. 1743",
+            "technique": "Oil on canvas 70 x 91 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hogarth/marriag1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19796
+        },
+        {
+            "title": "Marriage \u00e0 la Mode",
+            "date": "1743",
+            "technique": "Oil on canvas 70 x 91 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hogarth/marriage.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19797
+        },
+        {
+            "title": "Portrait of Mary Edwards",
+            "date": "1742",
+            "technique": "Oil on canvas",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/h/hogarth/maryedwa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19798
+        },
+        {
+            "title": "The Painter and his Pug",
+            "date": "1745",
+            "technique": "Oil on canvas 90 x 70 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/h/hogarth/painter.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19799
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "-",
+            "technique": "Oil on canvas 765 x 635 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/h/hogarth/portr_yw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19800
+        },
+        {
+            "title": "The Orgy",
+            "date": "c. 1735",
+            "technique": "Oil on canvas 625 x 75 cm",
+            "location": "Sir John Soane's Museum London",
+            "url": "https://www.wga.hu/html/h/hogarth/rake_3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19801
+        },
+        {
+            "title": "A Scene from the Beggar's Opera",
+            "date": "1728-29",
+            "technique": "Oil on canvas 51 x 61",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hogarth/scene.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19802
+        },
+        {
+            "title": "Before the Seduction and After",
+            "date": "1731",
+            "technique": "Oil on canvas",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/h/hogarth/seductio.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19803
+        },
+        {
+            "title": "The Shrimp Girl",
+            "date": "c. 1740",
+            "technique": "Oil on canvas 635 x 525 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hogarth/shrimp_g.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19804
+        },
+        {
+            "title": "The Strode Family",
+            "date": "1738",
+            "technique": "Oil on canvas 87 x 915 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/h/hogarth/strode.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19805
+        },
+        {
+            "title": "Gin Lane",
+            "date": "1750-51",
+            "technique": "Etching and line engraving 359 x 341 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/h/hogarth/zginlane.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 19806
+        },
+        {}
+    ]
+}

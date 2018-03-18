@@ -1,0 +1,29 @@
+{
+    "name": "BENDZ Wilhelm",
+    "life": "(b. 1804 Odense d. 1832 Vicenza)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Waagepetersen Family",
+            "date": "1830",
+            "technique": "Oil on canvas 100 x 89 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/b/bendz/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4031
+        },
+        {
+            "title": "A Young Artist Examining a Sketch in a Mirror",
+            "date": "1826",
+            "technique": "Oil on canvas 98 x 85 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/b/bendz/youngart.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 4032
+        },
+        {}
+    ]
+}

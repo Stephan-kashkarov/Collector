@@ -1,0 +1,89 @@
+{
+    "name": "MASTER of the Life of the Virgin",
+    "life": "(active 1463-1480 in Cologne)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Birth of Mary",
+            "date": "c. 1470",
+            "technique": "Wood 85 x 109 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/master/life/birth_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25127
+        },
+        {
+            "title": "The Birth of Mary (detail)",
+            "date": "c. 1470",
+            "technique": "Wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/master/life/birth_m1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25128
+        },
+        {
+            "title": "Visitation",
+            "date": "1463",
+            "technique": "Wood 85 x 109 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/master/life/bvisitat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25129
+        },
+        {
+            "title": "Christ on the Cross with Mary John and Mary Magdalene",
+            "date": "1465-70",
+            "technique": "Oak 864 x 729 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/m/master/life/christ_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25130
+        },
+        {
+            "title": "Triptych of Canon Gerhard ter Streegen de Monte",
+            "date": "1480-90",
+            "technique": "Oak 144 x 99 cm (central panel) 142 x 44 cm (each wing)",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/m/master/life/triptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25131
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1470",
+            "technique": "Oak 58 x 51 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/life/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25132
+        },
+        {
+            "title": "The Virgin of Mercy",
+            "date": "c. 1480",
+            "technique": "Tempera on oak panel 1295 x 655 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/master/life/virgin_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25133
+        },
+        {
+            "title": "Virgin and Child with Three Saints",
+            "date": "c. 1470",
+            "technique": "Oak 98 x 87 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/life/virgin3s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25134
+        },
+        {}
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "NAGY BALOGH J\u00e1nos",
+    "life": "(b. 1874 Budapest d. 1919 Budapest)",
+    "school": "Hungarian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 31 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/1nagybal.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29326
+        },
+        {
+            "title": "The Artist's Mother",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 45 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/2nagybal.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29327
+        },
+        {
+            "title": "Women Harvesting Potatoes",
+            "date": "May-01",
+            "technique": "Olaj v\u00e1szon 37 x 54 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/3nagybal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29328
+        },
+        {
+            "title": "Still-Life with Sieve Roll and Mug",
+            "date": "c. 1910",
+            "technique": "Oil on cardboard 33 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nagy/4nagybal.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29329
+        },
+        {
+            "title": "Navvy",
+            "date": "c. 1912",
+            "technique": "Oil on canvas 27 x 33 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/5nagybal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29330
+        },
+        {
+            "title": "Atelier",
+            "date": "c. 1912",
+            "technique": "Oil on canvas on paste-board 255 x 32 cm",
+            "location": "Hungarian National Gallery Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/6nagybal.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29331
+        },
+        {
+            "title": "Navvies with Barrow",
+            "date": "1912",
+            "technique": "Oil on canvas 19 x 26 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/n/nagy/7nagybal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29332
+        },
+        {}
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "GUIDO DA SIENA",
+    "life": "(active in the second half of 13th century in Siena)",
+    "school": "Italian",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1270s",
+            "technique": "Tempera on wood 34 x 46 cm",
+            "location": "University Art Museum Princeton",
+            "url": "https://www.wga.hu/html/g/guido/01poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18943
+        },
+        {
+            "title": "Nativity",
+            "date": "1270s",
+            "technique": "Tempera on wood 36x 48 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guido/02poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18944
+        },
+        {
+            "title": "Massacre of the Innocents",
+            "date": "1270s",
+            "technique": "Tempera on wood 34 x 46 cm",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/03poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18945
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1270s",
+            "technique": "Tempera on wood 34 x 46 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/g/guido/04poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18946
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/g/guido/04poly1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18947
+        },
+        {
+            "title": "Flight into Egypt",
+            "date": "1270s",
+            "technique": "Tempera on wood 34 x 46 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/g/guido/05poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18948
+        },
+        {
+            "title": "Flight into Egypt (detail)",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/g/guido/05poly1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18949
+        },
+        {
+            "title": "Presentation of Jesus at the Temple",
+            "date": "1270s",
+            "technique": "Tempera on wood 35 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guido/06poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18950
+        },
+        {
+            "title": "Kiss of Judas",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/07poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18951
+        },
+        {
+            "title": "Flagellation",
+            "date": "1270s",
+            "technique": "Tempera on wood 34 x 46 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/g/guido/08poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18952
+        },
+        {
+            "title": "Christ Crucified",
+            "date": "1270s",
+            "technique": "Tempera on wood 40 x 52 cm",
+            "location": "Museum Catharijneconvent Utrecht",
+            "url": "https://www.wga.hu/html/g/guido/09poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18953
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/10poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18954
+        },
+        {
+            "title": "Deposition",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/11poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18955
+        },
+        {
+            "title": "Entombment",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/12poly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18956
+        },
+        {
+            "title": "Altarpiece",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/13altar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18957
+        },
+        {
+            "title": "Altarpiece (detail)",
+            "date": "1270s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/g/guido/13altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18958
+        },
+        {
+            "title": "Virgin and Christ Child Enthroned",
+            "date": "1270s",
+            "technique": "Tempera on panel 283 x 194 cm",
+            "location": "San Domenico Siena",
+            "url": "https://www.wga.hu/html/g/guido/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18959
+        },
+        {}
+    ]
+}

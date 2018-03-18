@@ -1,0 +1,149 @@
+{
+    "name": "SASSOFERRATO",
+    "life": "(b. 1609 Sassoferrato d. 1685 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Holy Family",
+            "date": "-",
+            "technique": "Oil on canvas 135 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/holyfam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36399
+        },
+        {
+            "title": "Holy Family with the Infant St John the Baptist and St Elizabeth",
+            "date": "-",
+            "technique": "Oil on panel 73 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36400
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1650",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/s/sassofer/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36401
+        },
+        {
+            "title": "Madonna at Prayer",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/s/sassofer/madonn_p.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36402
+        },
+        {
+            "title": "Madonna with the Christ Child",
+            "date": "-",
+            "technique": "Oil on canvas 99 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36403
+        },
+        {
+            "title": "The Mystic Marriage of St. Catherine",
+            "date": "1650",
+            "technique": "Oil on canvas",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/s/sassofer/mystic_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36404
+        },
+        {
+            "title": "The Mystic Marriage of St. Catherine",
+            "date": "-",
+            "technique": "Oil on canvas 34 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/mysticma.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36405
+        },
+        {
+            "title": "Portrait of Monsignor Ottaviano Prati",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 119 x 92 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/s/sassofer/prati.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36406
+        },
+        {
+            "title": "The Sleep of the Infant Jesus",
+            "date": "-",
+            "technique": "Oil on canvas 77 x 61 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sassofer/sleep.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36407
+        },
+        {
+            "title": "The Sleep of the Infant Jesus",
+            "date": "-",
+            "technique": "Oil on canvas 74 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/sleep1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36408
+        },
+        {
+            "title": "The Madonna",
+            "date": "-",
+            "technique": "Oil on canvas 50 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sassofer/virgin_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36409
+        },
+        {
+            "title": "The Virgin in Prayer",
+            "date": "1640-50",
+            "technique": "Oil on canvas 73 x 58 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/sassofer/virgin_p.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36410
+        },
+        {
+            "title": "Madonna in Prayer",
+            "date": "1640s",
+            "technique": "Oil on canvas",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/s/sassofer/virgin_x.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36411
+        },
+        {
+            "title": "Madonna at Prayer",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/s/sassofer/virgin_y.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36412
+        },
+        {}
+    ]
+}

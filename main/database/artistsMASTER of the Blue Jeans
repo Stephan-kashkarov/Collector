@@ -1,0 +1,59 @@
+{
+    "name": "MASTER of the Blue Jeans",
+    "life": "(active 1680-1700 in Lombardy)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Beggar Boy with a Piece of Pie",
+            "date": "1680s",
+            "technique": "Oil on canvas 86 x 71 cm",
+            "location": "Galerie Canesso Paris",
+            "url": "https://www.wga.hu/html/m/master/bluejean/beggar.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 24943
+        },
+        {
+            "title": "Woman Begging with Two Children",
+            "date": "1680-1700",
+            "technique": "Oil on canvas 152 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/bluejean/bluejea1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 24944
+        },
+        {
+            "title": "The Barber's Shop",
+            "date": "1680-1700",
+            "technique": "Oil on canvas 151 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/bluejean/bluejea2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 24945
+        },
+        {
+            "title": "Woman Spinning with Two Children",
+            "date": "1680-1700",
+            "technique": "Oil on canvas 90 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/bluejean/bluejea3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 24946
+        },
+        {
+            "title": "A Meal with a Woman and Two Children",
+            "date": "1680-1700",
+            "technique": "Oil on canvas 78 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/bluejean/bluejea4.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 24947
+        },
+        {}
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "ATTAVANTE DEGLI ATTAVANTI",
+    "life": "(b. 1452 Castelfiorentino d. ca. 1525 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Breviary of Matthias Corvinus",
+            "date": "1487-92",
+            "technique": "Manuscript (Urb. lat. 112) 397 x 271 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/a/attavant/breviar1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 2803
+        },
+        {
+            "title": "Breviary of Matthias Corvinus",
+            "date": "1487-92",
+            "technique": "Manuscript (Urb. lat. 112) 397 x 271 mm (folio size)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/a/attavant/breviar2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 2804
+        },
+        {
+            "title": "De nuptiis Philologiae et Mercurii",
+            "date": "1485-90",
+            "technique": "Manuscript (Lat. XIV. 35)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/a/attavant/capella.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 2805
+        },
+        {
+            "title": "Philostratus: Codex Heroica",
+            "date": "1487-90",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/a/attavant/heroica.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 2806
+        },
+        {
+            "title": "Philostratus: Codex Heroica",
+            "date": "1487-90",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/a/attavant/heroica1.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 2807
+        },
+        {
+            "title": "Philostratus: Codex Heroica",
+            "date": "1487-90",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/a/attavant/heroica2.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 2808
+        },
+        {
+            "title": "Missal",
+            "date": "1485-87",
+            "technique": "Manuscript (Ms. 9008)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/a/attavant/missal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2809
+        },
+        {}
+    ]
+}

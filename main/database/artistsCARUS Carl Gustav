@@ -1,0 +1,69 @@
+{
+    "name": "CARUS Carl Gustav",
+    "life": "(b. 1789 Leipzig d. 1869 Dresden)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "View of the Colosseum by Night",
+            "date": "1830-32",
+            "technique": "Oil on canvas 48 x 37 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carus/colosseo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8081
+        },
+        {
+            "title": "The Goethe Monument",
+            "date": "1832",
+            "technique": "Oil on canvas 72 x 54 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/c/carus/goethe_m.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8082
+        },
+        {
+            "title": "A Gondola on the Elbe near Dresden",
+            "date": "1827",
+            "technique": "Oil on canvas 29 x 22 cm",
+            "location": "Museum Kunstpalast D\u00fcsseldorf",
+            "url": "https://www.wga.hu/html/c/carus/gondola.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8083
+        },
+        {
+            "title": "Morning Fog",
+            "date": "c. 1825",
+            "technique": "Watercolour paper mounted on board 20 x 26 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/c/carus/morn_fog.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8084
+        },
+        {
+            "title": "Oaks at the Sea Shore",
+            "date": "1835",
+            "technique": "Oil on canvas 118 x 163 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/carus/oaks_sea.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8085
+        },
+        {
+            "title": "Pilgrim in a Rocky Valley",
+            "date": "c. 1820",
+            "technique": "Oil on canvas 28 x 22 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/c/carus/pilgrim.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8086
+        },
+        {}
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "name": "CAILLEBOTTE Gustave",
+    "life": "(b. 1848 Paris d. 1894 Gennevilliers)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Floor Scrapers",
+            "date": "1875",
+            "technique": "Oil on canvas 102 x 147 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/caillebo/01floor.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6983
+        },
+        {
+            "title": "Riverbank in Morning Haze",
+            "date": "1875",
+            "technique": "Oil on canvas 65 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/02river.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6984
+        },
+        {
+            "title": "On the Pont de l'Europe",
+            "date": "1876-77",
+            "technique": "Oil on canvas 106 x 131 cm",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/c/caillebo/03pont.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6985
+        },
+        {
+            "title": "Paris Street Rainy Day",
+            "date": "1877",
+            "technique": "Oil on canvas 212 x 276 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/caillebo/04rainy.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6986
+        },
+        {
+            "title": "Paris Street Rainy Day (detail)",
+            "date": "1877",
+            "technique": "Oil on canvas",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/caillebo/04rainy1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6987
+        },
+        {
+            "title": "Paris Street Rainy Day (detail)",
+            "date": "1877",
+            "technique": "Oil on canvas",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/caillebo/04rainy2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6988
+        },
+        {
+            "title": "Canoeing on the Yerres",
+            "date": "1877",
+            "technique": "Oil on canvas 89 x 112 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/05yerres.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6989
+        },
+        {
+            "title": "Canoeing",
+            "date": "1878",
+            "technique": "Oil on canvas 157 x 113 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Rennes",
+            "url": "https://www.wga.hu/html/c/caillebo/06canoe.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6990
+        },
+        {
+            "title": "Canoeing (detail)",
+            "date": "1878",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Rennes",
+            "url": "https://www.wga.hu/html/c/caillebo/06canoe1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6991
+        },
+        {
+            "title": "Snow-Covered Roofs in Paris",
+            "date": "1878",
+            "technique": "Oil on canvas 64 x 82 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/caillebo/07roof.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6992
+        },
+        {
+            "title": "Rooftops in the Snow",
+            "date": "1878",
+            "technique": "Oil on cardboard 60 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/08roof.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6993
+        },
+        {
+            "title": "Bathers about to Dive into the Yerres",
+            "date": "1878",
+            "technique": "Oil on canvas 117 x 89 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/09bather.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 6994
+        },
+        {
+            "title": "In a Caf\u00e9",
+            "date": "1880",
+            "technique": "Oil on canvas 155 x 115 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "url": "https://www.wga.hu/html/c/caillebo/10incafe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6995
+        },
+        {
+            "title": "Boulevard Haussmann Snow",
+            "date": "1880-81",
+            "technique": "Oil on canvas 65 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/11hausma.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6996
+        },
+        {
+            "title": "Farmhouse at Trouville",
+            "date": "1882",
+            "technique": "Oil on canvas 54 x 65 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/caillebo/12trouvi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6997
+        },
+        {
+            "title": "The Harbour at Argenteuil",
+            "date": "1882",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/13argent.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6998
+        },
+        {
+            "title": "Square at Argenteuil",
+            "date": "1883",
+            "technique": "Oil on canvas 61 x 71 cm",
+            "location": "Armand Hammer Collection Los Angeles",
+            "url": "https://www.wga.hu/html/c/caillebo/14square.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6999
+        },
+        {
+            "title": "Portrait of Henri Cordier",
+            "date": "1883",
+            "technique": "Oil on canvas 65 x 82 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/caillebo/15cordie.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7000
+        },
+        {
+            "title": "The Pink Villa Trouville",
+            "date": "1884",
+            "technique": "Oil on canvas 60 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/16pinkvi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7001
+        },
+        {
+            "title": "The Bridge at Argenteuil and the Seine",
+            "date": "1885",
+            "technique": "Oil on canvas 65 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/17bridge.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7002
+        },
+        {
+            "title": "Sailing Boats at Argenteuil",
+            "date": "c. 1888",
+            "technique": "Oil on canvas 65 x 56 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/caillebo/18boats.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7003
+        },
+        {
+            "title": "Boats on the Seine at Argenteuil",
+            "date": "1892",
+            "technique": "Oil on canvas 73 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caillebo/19boats.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7004
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "MIEL Jan",
+    "life": "(b. 1599 Beveren-Was d. 1663 Torino)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Carnival Time in Rome",
+            "date": "1653",
+            "technique": "Oil on canvas cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/miel/carnival.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27047
+        },
+        {
+            "title": "Ceres Bacchus and Venus ('Sine Cerere et Baccho friget Venus')",
+            "date": "1645",
+            "technique": "Oil on canvas 143 x 163 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/miel/ceres.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 27048
+        },
+        {
+            "title": "Dance in the Trattoria",
+            "date": "1647-49",
+            "technique": "Oil on canvas 51 x 67 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/m/miel/dance.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27049
+        },
+        {
+            "title": "Genre Scene",
+            "date": "1650s",
+            "technique": "Oil on copper 22 x 35 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/miel/genre_sc.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27050
+        },
+        {
+            "title": "Hunters at Rest",
+            "date": "-",
+            "technique": "Oil on canvas 51 x 74 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/miel/hunters.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27051
+        },
+        {}
+    ]
+}

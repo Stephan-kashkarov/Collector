@@ -1,0 +1,29 @@
+{
+    "name": "AYALA Josefa de",
+    "life": "(b. 1630 Sevilla d. 1684 \u00d3bidos",
+    "school": "Portuguese",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Holy Family with the Infant St John the Baptist St Elizabeth and Angels",
+            "date": "1678",
+            "technique": "Oil on copper 35 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/ayala/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2849
+        },
+        {
+            "title": "The Penitent Magdalene Comforted by Angels",
+            "date": "1679",
+            "technique": "Oil on copper 34 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/ayala/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2850
+        },
+        {}
+    ]
+}

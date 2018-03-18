@@ -1,0 +1,79 @@
+{
+    "name": "KOCH Joseph Anton",
+    "life": "(b. 1768 Obergibeln d. 1839 Roma)",
+    "school": "Austrian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Heroic Landscape with Rainbow",
+            "date": "1815",
+            "technique": "Oil on canvas 188 x 171 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/koch/heroicla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21145
+        },
+        {
+            "title": "Heroic Landscape with Rainbow",
+            "date": "1824",
+            "technique": "Oil on canvas 109 x 96 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/k/koch/heroicra.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21146
+        },
+        {
+            "title": "Monastery of San Francesco di Civitella in the Sabine Mountains",
+            "date": "1812",
+            "technique": "Oil on panel 34 x 46 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/koch/monaster.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21147
+        },
+        {
+            "title": "Mountain Scene",
+            "date": "1796",
+            "technique": "Oil on canvas 110 x 161 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/k/koch/mountain.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21148
+        },
+        {
+            "title": "The Upland near Bern",
+            "date": "1816",
+            "technique": "Oil on canvas 73 x 99 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/k/koch/nearbern.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21149
+        },
+        {
+            "title": "The Schmadribach Falls",
+            "date": "1821-22",
+            "technique": "Oil on canvas 132 x 110 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/koch/schmadri.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21150
+        },
+        {
+            "title": "Waterfall near Subiaco",
+            "date": "1813",
+            "technique": "Oil on canvas 58 x 68",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/k/koch/waterfa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21151
+        },
+        {}
+    ]
+}

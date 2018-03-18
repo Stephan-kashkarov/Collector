@@ -1,0 +1,59 @@
+{
+    "name": "JACQUE Charles \u00c9mile",
+    "life": "(b. 1813 Paris d. 1894 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "A Shepherd with His Flock",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacque/flock.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20551
+        },
+        {
+            "title": "Landscape with a Herd",
+            "date": "1872",
+            "technique": "Oil on cardboard 33 x 54 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/j/jacque/landherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20552
+        },
+        {
+            "title": "On the Pasture",
+            "date": "c. 1860",
+            "technique": "Oil on canvas 81 \u00d7 65 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/j/jacque/pasture.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20553
+        },
+        {
+            "title": "Rooster and Hens",
+            "date": "-",
+            "technique": "Oil on panel 17 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacque/rooster.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20554
+        },
+        {
+            "title": "Shepherdess and Sheep at the Edge of the Forest",
+            "date": "-",
+            "technique": "Oil on panel 25 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacque/shepherd.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20555
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "CRUIKSHANK George",
+    "life": "(b. 1792 London d. 1878 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Egypt a General View",
+            "date": "1829",
+            "technique": "Etching 250 x 350 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/c/cruiksha/egypt.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 10571
+        },
+        {
+            "title": "London Leaving the City",
+            "date": "1829",
+            "technique": "Etching 190 x 270 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cruiksha/london.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 10572
+        },
+        {}
+    ]
+}

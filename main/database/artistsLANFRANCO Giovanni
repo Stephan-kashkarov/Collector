@@ -1,0 +1,289 @@
+{
+    "name": "LANFRANCO Giovanni",
+    "life": "(b. 1582 Parma d. 1647 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St Peter Healing St Agatha",
+            "date": "c. 1614",
+            "technique": "Oil on canvas 100 x 133 cm",
+            "location": "Galleria Nazionale Parma",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/agatha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21478
+        },
+        {
+            "title": "Venus Playing the Harp (Allegory of Music)",
+            "date": "1630-34",
+            "technique": "Oil on canvas 214 x 150 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21479
+        },
+        {
+            "title": "Angelica and Medoro",
+            "date": "-",
+            "technique": "Oil on canvas 73 \u00d7 96 cm",
+            "location": "Fondantico di Tiziana Sass\u00f2li Bologna",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/angelica.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21480
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1610-30",
+            "technique": "Oil on copper 74 x 54 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21481
+        },
+        {
+            "title": "Coronation of the Virgin with St Augustine and St William of Aquitaine",
+            "date": "c. 1616",
+            "technique": "Oil on canvas 220 x 144 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21482
+        },
+        {
+            "title": "Mary Magdalen Raised by Angels",
+            "date": "c. 1616",
+            "technique": "Oil on canvas 109 x 78 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/eremiti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21483
+        },
+        {
+            "title": "Christ Served by Angels",
+            "date": "c. 1616",
+            "technique": "Oil on canvas 100 x 126 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/eremiti2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21484
+        },
+        {
+            "title": "Hagar in the Wilderness",
+            "date": "-",
+            "technique": "Oil on canvas 138 x 159 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/hagar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21485
+        },
+        {
+            "title": "Madonna and Child with Sts Anthony Abbot and James the Greater",
+            "date": "1622-23",
+            "technique": "Oil on canvas 220 x 128 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/madsaint.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21486
+        },
+        {
+            "title": "Ecstasy of St Margaret of Cortona",
+            "date": "1622",
+            "technique": "Oil on canvas 230 x 185 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/margaret.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21487
+        },
+        {
+            "title": "Miracle of the Bread and Fish",
+            "date": "1620-23",
+            "technique": "Oil on canvas 229 x 426 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21488
+        },
+        {
+            "title": "Norandino and Lucina Discovered by the Ogre",
+            "date": "c. 1624",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/norandin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21489
+        },
+        {
+            "title": "Rinaldo's Farewell to Armida",
+            "date": "1614",
+            "technique": "Oil on canvas 109 x 178 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/rinaldo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21490
+        },
+        {
+            "title": "St Ursula and the Virgins",
+            "date": "1622",
+            "technique": "Oil on canvas 209 x 138",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/s_ursula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21491
+        },
+        {
+            "title": "St Andrea Avellino",
+            "date": "1624",
+            "technique": "Oil on canvas 420 x 320 cm",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/1/standrea.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21492
+        },
+        {
+            "title": "Crossing cupola paintings",
+            "date": "1622-28",
+            "technique": "Fresco",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/andrea1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21493
+        },
+        {
+            "title": "Cupola vault",
+            "date": "1622-28",
+            "technique": "Fresco",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/andrea2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21494
+        },
+        {
+            "title": "Cupola vault (detail)",
+            "date": "1622-28",
+            "technique": "Fresco",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/andrea3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21495
+        },
+        {
+            "title": "The Healing of the Cripple at the Pool of Bethesda",
+            "date": "c. 1644",
+            "technique": "Fresco",
+            "location": "Santi Apostoli Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/apostoli.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21496
+        },
+        {
+            "title": "The Council of Gods",
+            "date": "1624-25",
+            "technique": "Fresco",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/borghese.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21497
+        },
+        {
+            "title": "View of the nave and choir",
+            "date": "1637-39",
+            "technique": "Fresco",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 21498
+        },
+        {
+            "title": "Nave vault",
+            "date": "1637-39",
+            "technique": "Fresco",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21499
+        },
+        {
+            "title": "Lunette of the entry wall",
+            "date": "1637-39",
+            "technique": "Fresco",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21500
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1637-39",
+            "technique": "Fresco",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21501
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1637-39",
+            "technique": "Fresco",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21502
+        },
+        {
+            "title": "Design for vault frescoes",
+            "date": "1637",
+            "technique": "Brown ink and watercolour with pencil 220 x 348 mm",
+            "location": "Teylers Museum Haarlem",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/certosa6.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 21503
+        },
+        {
+            "title": "The Council of Gods",
+            "date": "1624-25",
+            "technique": "Fresco",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/council.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21504
+        },
+        {
+            "title": "Christ Ascending",
+            "date": "1621-24",
+            "technique": "Fresco",
+            "location": "San Giovanni dei Fiorentini Rome",
+            "url": "https://www.wga.hu/html/l/lanfranc/2/fiorenti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21505
+        },
+        {}
+    ]
+}

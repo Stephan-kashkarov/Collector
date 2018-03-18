@@ -1,0 +1,79 @@
+{
+    "name": "BROCKY K\u00e1roly",
+    "life": "(b. 1807 Temesv\u00e1r d. 1855 London)",
+    "school": "Hungarian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Daughters of Istv\u00e1n Medgyasszay",
+            "date": "c. 1833",
+            "technique": "Oil on canvas 60 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brocky/01brocky.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6159
+        },
+        {
+            "title": "Lucy Ashton and Ravenswood Visiting Blind Alice",
+            "date": "1843",
+            "technique": "Oil on canvas 788 x 794 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brocky/02brocky.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6160
+        },
+        {
+            "title": "Does He Love Me?",
+            "date": "after 1847",
+            "technique": "Oil on canvas 49 x 38 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/b/brocky/03brocky.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6161
+        },
+        {
+            "title": "Mother and Child",
+            "date": "1846-50",
+            "technique": "Oil on canvas 62 x 548 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/b/brocky/04brocky.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6162
+        },
+        {
+            "title": "Portrait of a Woman with Veil",
+            "date": "1846-50",
+            "technique": "Oil on canvas 533 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brocky/05brocky.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6163
+        },
+        {
+            "title": "Sleeping Bacchante",
+            "date": "1850-55",
+            "technique": "Oil on canvas 46 x 46 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/b/brocky/06brocky.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6164
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "after 1850",
+            "technique": "Oil on canvas 215 x 177 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/b/brocky/07brocky.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6165
+        },
+        {}
+    ]
+}

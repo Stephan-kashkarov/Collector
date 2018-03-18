@@ -1,0 +1,29 @@
+{
+    "name": "STEFANO DA ZEVIO",
+    "life": "(b. ca. 1375 Verona d. 1451 Verona)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1435",
+            "technique": "Tempera on panel 72 x 47 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/s/stefano/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37988
+        },
+        {
+            "title": "Madonna in the Rosary",
+            "date": "c. 1410",
+            "technique": "Tempera on wood 129 x 95 cm",
+            "location": "Museo di Castelvecchio Verona",
+            "url": "https://www.wga.hu/html/s/stefano/m_rosary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37989
+        },
+        {}
+    ]
+}

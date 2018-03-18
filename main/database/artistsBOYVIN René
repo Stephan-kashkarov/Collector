@@ -1,0 +1,29 @@
+{
+    "name": "BOYVIN Ren\u00e9",
+    "life": "(b. ca. 1525 Angers d. ca. 1625 Angers)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Masked Head",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/b/boyvin/mask1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 5876
+        },
+        {
+            "title": "Masked Head",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/b/boyvin/mask2.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 5877
+        },
+        {}
+    ]
+}

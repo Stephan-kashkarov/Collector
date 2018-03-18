@@ -1,0 +1,29 @@
+{
+    "name": "DENIS Simon-Joseph-Alexandre-Cl\u00e9ment",
+    "life": "(b. 1755 Antwerpen d. 1812 Roma)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of Monticelli near Tivoli",
+            "date": "-",
+            "technique": "Oil on paper 31 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/denis/tivoli.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11434
+        },
+        {
+            "title": "View of the Cascades at Tivoli",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/denis/tivoli1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11435
+        },
+        {}
+    ]
+}

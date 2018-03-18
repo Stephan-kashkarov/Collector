@@ -1,0 +1,579 @@
+{
+    "name": "BALDUNG GRIEN Hans",
+    "life": "(b. 1484/85 Schw\u00e4bisch-Gm\u00fcnd d. 1545 Strasbourg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Knight the Young Girl and Death",
+            "date": "c. 1505",
+            "technique": "Oil on wood 355 x 296 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/baldung/1/01knight.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3007
+        },
+        {
+            "title": "Eve the Serpent and Death",
+            "date": "1510-12",
+            "technique": "Panel",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/b/baldung/1/02eve.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3008
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "-",
+            "technique": "Oil on wood 212 x 85 cm (each panel)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/baldung/1/03adam_e.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3009
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "1524",
+            "technique": "Oil on panel 208 x 835 cm (each)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/03adam_f.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3010
+        },
+        {
+            "title": "Adam",
+            "date": "1524",
+            "technique": "Oil on panel 208 x 835 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/04adam1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3011
+        },
+        {
+            "title": "Adam (detail)",
+            "date": "1524",
+            "technique": "Wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/04adam2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3012
+        },
+        {
+            "title": "Eve",
+            "date": "1524",
+            "technique": "Oil on panel 208 x 835 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/04eve1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3013
+        },
+        {
+            "title": "Eve",
+            "date": "1524",
+            "technique": "Wood 208 x 835 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/05eve1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3014
+        },
+        {
+            "title": "Eve (detail)",
+            "date": "1524",
+            "technique": "Wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/1/05eve2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3015
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "1531",
+            "technique": "Oil on panel 148 x 67 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/baldung/1/06_1adam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3016
+        },
+        {
+            "title": "Three Ages of the Woman and the Death",
+            "date": "1510",
+            "technique": "Oil on limewood 48 x 33 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/baldung/1/06_3ages.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3017
+        },
+        {
+            "title": "Death and the Maiden",
+            "date": "1518-20",
+            "technique": "Oil on panel 31 x 19 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/b/baldung/1/061death.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 3018
+        },
+        {
+            "title": "Death and the Maiden",
+            "date": "1517",
+            "technique": "Oil on panel 30 x 15 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/b/baldung/1/062death.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3019
+        },
+        {
+            "title": "The Seven Ages of Woman",
+            "date": "-",
+            "technique": "Oil on oak-wood 965 x 74 cm",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/b/baldung/1/07_7ages.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3020
+        },
+        {
+            "title": "Prudence",
+            "date": "1529",
+            "technique": "Oil on pine panel 83 x 36 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/baldung/1/08pruden.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3021
+        },
+        {
+            "title": "Music",
+            "date": "1529",
+            "technique": "Oil on pine panel 83 x 36 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/baldung/1/09music.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3022
+        },
+        {
+            "title": "Three Ages of Man and Three Graces",
+            "date": "1539",
+            "technique": "Oil on panel 151 x 61 cm (each)",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/baldung/1/10_3ages.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3023
+        },
+        {
+            "title": "Three Ages of Man",
+            "date": "1539",
+            "technique": "Oil on panel 151 x 61 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/baldung/1/11_3ages.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3024
+        },
+        {
+            "title": "The Three Graces",
+            "date": "c. 1540",
+            "technique": "Oil on wood 151 x 61 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/baldung/1/11_3grac.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3025
+        },
+        {
+            "title": "Pyramus and Thisbe",
+            "date": "c. 1530",
+            "technique": "Linden panel 93 x 67 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/1/12pyramu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3026
+        },
+        {
+            "title": "St Sebastian Altarpiece",
+            "date": "1507",
+            "technique": "Oil on wood 1212 x 786 cm (central panel) 1215 x 32 cm (each wing)",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/2/01altar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3027
+        },
+        {
+            "title": "Three Kings Altarpiece (open)",
+            "date": "1507",
+            "technique": "Linden panel 121 x 70 cm (central) 121 x 28 cm (each wing)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/01altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3028
+        },
+        {
+            "title": "Three Kings Altarpiece (closed)",
+            "date": "1507",
+            "technique": "Linden panel 121 x 28 cm (each wing)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/01altar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3029
+        },
+        {
+            "title": "Reconstruction of a triptych",
+            "date": "c. 1511",
+            "technique": "Oil on panel",
+            "location": "Washington Cleveland New York",
+            "url": "https://www.wga.hu/html/b/baldung/2/02altar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3030
+        },
+        {
+            "title": "St Anne with the Christ Child the Virgin and St John the Baptist",
+            "date": "c. 1511",
+            "technique": "Oil on hardboard transferred from panel 87 x 75 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/baldung/2/02altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3031
+        },
+        {
+            "title": "Mass of St Gregory",
+            "date": "c. 1511",
+            "technique": "Oil on panel 89 x 125 cm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/b/baldung/2/02altar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3032
+        },
+        {
+            "title": "St John on Patmos",
+            "date": "c. 1511",
+            "technique": "Oil on spruce panel 87 x 76 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/baldung/2/02altar3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3033
+        },
+        {
+            "title": "Rest on the Flight to Egypt",
+            "date": "c. 1514",
+            "technique": "Oil on wood 49 x 39 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/2/02egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3034
+        },
+        {
+            "title": "The Holy Family in the Open",
+            "date": "c. 1512",
+            "technique": "Tempera on wood 48 x 38 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/b/baldung/2/030holyf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3035
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1512",
+            "technique": "Linden panel 152 x 104 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/031cruci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3036
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1512-16",
+            "technique": "Panel 280 x 239 cm",
+            "location": "Cathedral Freiburg",
+            "url": "https://www.wga.hu/html/b/baldung/2/04corona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3037
+        },
+        {
+            "title": "Virgin and Child in a Room",
+            "date": "1516",
+            "technique": "Oil on wood 479 x 366 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/2/04virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3038
+        },
+        {
+            "title": "Mater Dolorosa",
+            "date": "c. 1516",
+            "technique": "Wood 153 x 46 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/2/05dolor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3039
+        },
+        {
+            "title": "Mater Dolorosa (detail)",
+            "date": "c. 1516",
+            "technique": "Wood 153 x 46 cm (full panel)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/baldung/2/05dolor1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3040
+        },
+        {
+            "title": "Virgin of the Vine Trellis",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Mus\u00e9e de l'Oeuvre Notre-Dame Strasbourg",
+            "url": "https://www.wga.hu/html/b/baldung/2/06virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3041
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "c. 1518",
+            "technique": "Lime panel 1413 x 96 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/07lamen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3042
+        },
+        {
+            "title": "The Lamentation of Christ (detail)",
+            "date": "c. 1518",
+            "technique": "Lime panel",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/07lamen1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3043
+        },
+        {
+            "title": "Nativity",
+            "date": "1520",
+            "technique": "Oil on wood 1055 x 704 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/baldung/2/08nativi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3044
+        },
+        {
+            "title": "Mucius Scaevola",
+            "date": "1531",
+            "technique": "Lime wood 98 x 68 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/b/baldung/2/09mucius.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 3045
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1539-40",
+            "technique": "Linden panel 91 x 64 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/2/10virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3046
+        },
+        {
+            "title": "Portrait of a Young Man with a Rosary",
+            "date": "1509",
+            "technique": "Oil on panel 514 x 368 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/baldung/3/1young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3047
+        },
+        {
+            "title": "Ludwig Count von L\u00f6wenstein",
+            "date": "1513",
+            "technique": "Linden panel 46 x 33 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/3/21ludwig.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3048
+        },
+        {
+            "title": "Count Christoph I of Baden",
+            "date": "1515",
+            "technique": "Wood 47 x 36 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/baldung/3/2christo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3049
+        },
+        {
+            "title": "Count Philip",
+            "date": "1517",
+            "technique": "Wood 41 x 31 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/baldung/3/3philip.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3050
+        },
+        {
+            "title": "Portrait of Ambroise Volmar Keller",
+            "date": "1538",
+            "technique": "Oil on lime panel",
+            "location": "Mus\u00e9e de l'Oeuvre Notre-Dame Strasbourg",
+            "url": "https://www.wga.hu/html/b/baldung/3/4keller.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3051
+        },
+        {
+            "title": "The Erection of the Cross",
+            "date": "1507",
+            "technique": "Woodcut 239 x 160 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/4/0crucifi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3052
+        },
+        {
+            "title": "Aristotle and Phyllis",
+            "date": "1513",
+            "technique": "Woodcut 330 x 236 mm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/4/1aristot.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 3053
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1511",
+            "technique": "Chiaroscuro woodcut 347 x 260 mm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/4/1crucifi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3054
+        },
+        {
+            "title": "Witches Sabbath",
+            "date": "1510",
+            "technique": "Woodcut with tone block 379 x 260 mm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/4/2sabbath.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 3055
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "1511",
+            "technique": "Chiaroscuro woodcut 373 x 255 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/baldung/4/31adam_e.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3056
+        },
+        {
+            "title": "Saint Christopher",
+            "date": "1510-11",
+            "technique": "Woodcut 387 x 267 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/baldung/4/31christ.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3057
+        },
+        {
+            "title": "Adam and Eve",
+            "date": "1519",
+            "technique": "Woodcut 250 x 95 mm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/b/baldung/4/32adam_e.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3058
+        },
+        {
+            "title": "St Christopher",
+            "date": "c. 1520",
+            "technique": "Woodcut 240 x 163 mm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/b/baldung/4/3christo.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3059
+        },
+        {
+            "title": "Portrait of Martin Luther",
+            "date": "1521",
+            "technique": "Woodcut",
+            "location": "-",
+            "url": "https://www.wga.hu/html/b/baldung/4/41luther.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 3060
+        },
+        {
+            "title": "The Groom Bewitched",
+            "date": "c. 1544",
+            "technique": "Woodcut 33 x 197 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/baldung/4/4groom.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 3061
+        },
+        {
+            "title": "Portrait of Caspar Hedio",
+            "date": "1543",
+            "technique": "Woodcut 175 x 138 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/baldung/4/5hedio.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 3062
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1510-11",
+            "technique": "Pen and ink on paper 184 x 137 mm",
+            "location": "Prentenkabinett Rijksuniversiteit Leiden",
+            "url": "https://www.wga.hu/html/b/baldung/4/virgin_c.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3063
+        },
+        {}
+    ]
+}

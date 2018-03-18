@@ -1,0 +1,29 @@
+{
+    "name": "KERRICX Willem Ignatius",
+    "life": "(b. 1682 Antwerpen d. 1745 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Confessionals",
+            "date": "1713",
+            "technique": "Oak",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/k/kerrickx/willem/confess.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20933
+        },
+        {
+            "title": "Confessionals (detail)",
+            "date": "1713",
+            "technique": "Oak",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/k/kerrickx/willem/confess1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20934
+        },
+        {}
+    ]
+}

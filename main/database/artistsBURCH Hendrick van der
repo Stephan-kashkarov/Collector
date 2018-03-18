@@ -1,0 +1,39 @@
+{
+    "name": "BURCH Hendrick van der",
+    "life": "(b. 1627 Naaldwijk d. after 1666 Delft)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Woman with a Child Blowing Bubbles in a Garden",
+            "date": "c. 1660",
+            "technique": "Oil on panel 59 x 50 cm",
+            "location": "Kunsthaus Zurich",
+            "url": "https://www.wga.hu/html/b/burch/bubbles.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6849
+        },
+        {
+            "title": "Dutch Interior",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 47 x 37 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/burch/dutchint.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 6850
+        },
+        {
+            "title": "Merry Company at a Table",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/burch/merry_co.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6851
+        },
+        {}
+    ]
+}

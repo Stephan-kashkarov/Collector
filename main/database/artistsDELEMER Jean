@@ -1,0 +1,29 @@
+{
+    "name": "DELEMER Jean",
+    "life": "(active mid 15th century in Tournai and Brussels)",
+    "school": "Flemish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Albrecht of Bavaria from the Tomb of Isabella of Bourbon",
+            "date": "1476",
+            "technique": "Bronze with black laquer patina height 56 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/delemer/tombisa1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 11377
+        },
+        {
+            "title": "Female Figure from the Tomb of Isabella of Bourbon",
+            "date": "1476",
+            "technique": "Bronze with black laquer patina height 58 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/delemer/tombisa2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 11378
+        },
+        {}
+    ]
+}

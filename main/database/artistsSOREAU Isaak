@@ -1,0 +1,69 @@
+{
+    "name": "SOREAU Isaak",
+    "life": "(b. 1604 Frankfurt d. ca. 1645)",
+    "school": "German",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Still-Life of Fruit in a Basket on a Ledge",
+            "date": "1638-40",
+            "technique": "Oil on oak panel 57 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/soreau/basket.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37674
+        },
+        {
+            "title": "Still-Life with a Basket of Flowers and Fruit",
+            "date": "1630s",
+            "technique": "Oil on oak panel 67 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/soreau/basket1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37675
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 49 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/soreau/basketgr.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37676
+        },
+        {
+            "title": "Still-Life with Chinese Bowl and Vase of Flowers",
+            "date": "1635-38",
+            "technique": "Oil on panel 49 x 65 cm",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/s/soreau/bowlvase.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37677
+        },
+        {
+            "title": "Still-Life with Grapes on a Platter",
+            "date": "-",
+            "technique": "Oil on panel 61 x 90 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/s/soreau/platter.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37678
+        },
+        {
+            "title": "Still-Life with Fruit and Flowers",
+            "date": "1635",
+            "technique": "Oil on panel 73 x 102 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/s/soreau/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37679
+        },
+        {}
+    ]
+}

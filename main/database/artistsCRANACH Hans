@@ -1,0 +1,109 @@
+{
+    "name": "CRANACH Hans",
+    "life": "(b. ca. 1513 Wittenberg d. 1537 Bologna)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of a Prince",
+            "date": "1529",
+            "technique": "Oil and tempera on wood laid on walnut 37 x 29 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/c/cranach/hans/1prince.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10064
+        },
+        {
+            "title": "Portrait of a Bearded Young Man",
+            "date": "1534",
+            "technique": "Oil and tempera on beechwood 51 x 35 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/cranach/hans/2portrai.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10065
+        },
+        {
+            "title": "Hercules with Omphale",
+            "date": "1537",
+            "technique": "Panel 56 x 84 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/cranach/hans/3omphale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10066
+        },
+        {
+            "title": "Travel sketchbook",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10067
+        },
+        {
+            "title": "Travel sketchbook (folio 1r)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10068
+        },
+        {
+            "title": "Travel sketchbook (folio 5r)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10069
+        },
+        {
+            "title": "Travel sketchbook (folio 7r)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch4.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10070
+        },
+        {
+            "title": "Travel sketchbook (folio 7v)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch5.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10071
+        },
+        {
+            "title": "Travel sketchbook (folio 2v)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch6.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10072
+        },
+        {
+            "title": "Travel sketchbook (folio 38v)",
+            "date": "1536-37",
+            "technique": "Paper 203 x 160 mm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch7.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10073
+        },
+        {}
+    ]
+}

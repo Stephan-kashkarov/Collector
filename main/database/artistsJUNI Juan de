@@ -1,0 +1,89 @@
+{
+    "name": "JUNI Juan de",
+    "life": "(b. 1506 Joigny d. 1577 Valladolid)",
+    "school": "Spanish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Ecce Homo",
+            "date": "1560-70",
+            "technique": "Polychrome wood",
+            "location": "Diocesan Museum Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/1eccehom.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20828
+        },
+        {
+            "title": "Antigua Altar",
+            "date": "1545-62",
+            "technique": "Polychrome wood",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/antigua.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20829
+        },
+        {
+            "title": "Antigua Altar (detail)",
+            "date": "1545-62",
+            "technique": "Polychrome wood",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/antigua1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20830
+        },
+        {
+            "title": "Antigua Altar (detail)",
+            "date": "1545-62",
+            "technique": "Polychrome wood",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/antigua2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20831
+        },
+        {
+            "title": "Crucifix",
+            "date": "1560s",
+            "technique": "Polychrome wood",
+            "location": "Convent of Santa Catalina Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/crucifix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20832
+        },
+        {
+            "title": "Entombment",
+            "date": "1544",
+            "technique": "Polychrome wood",
+            "location": "National Museum of Religious Carvings Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/entombme.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20833
+        },
+        {
+            "title": "Entombment (detail)",
+            "date": "1544",
+            "technique": "Polychrome wood",
+            "location": "National Museum of Religious Carvings Valladolid",
+            "url": "https://www.wga.hu/html/j/juni/entombmx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20834
+        },
+        {
+            "title": "San Segundo",
+            "date": "1573",
+            "technique": "Alabaster",
+            "location": "Church of San Segundo \u00c1vila",
+            "url": "https://www.wga.hu/html/j/juni/segundo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20835
+        },
+        {}
+    ]
+}

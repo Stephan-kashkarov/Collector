@@ -1,0 +1,79 @@
+{
+    "name": "BEHAM Barthel",
+    "life": "(b. 1502 N\u00fcrnberg d. 1540 Italy)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of Ludwig X Duke of Bavaria",
+            "date": "1535",
+            "technique": "Oil on limewood panel 40 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ludwig_x.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3686
+        },
+        {
+            "title": "Portrait of Duke Ludwig X of Bavaria",
+            "date": "1531",
+            "technique": "Oil on panel 69 x 59 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ludwig10.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3687
+        },
+        {
+            "title": "Portrait of Ottheinrich Prince of Pfalz",
+            "date": "1535",
+            "technique": "Wood 43 x 32 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ottheinr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3688
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1525-30",
+            "technique": "Oil on lime panel 62 x 46 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/b/beham/barthel/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3689
+        },
+        {
+            "title": "Chancellor Leonhard van Eck",
+            "date": "1527",
+            "technique": "Oil on spruce panel 56 x 38 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/beham/barthel/porteck1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3690
+        },
+        {
+            "title": "Chancellor Leonhard van Eck",
+            "date": "1527",
+            "technique": "Engraving 111 x 83 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/beham/barthel/porteck2.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 3691
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1529",
+            "technique": "Oil on panel 85 x 66 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/beham/barthel/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3692
+        },
+        {}
+    ]
+}

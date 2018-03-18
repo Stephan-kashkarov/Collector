@@ -1,0 +1,39 @@
+{
+    "name": "BREU J\u00f6rg the Elder",
+    "life": "(b. 1475/76 Augsburg d. 1537 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Crucifixion",
+            "date": "1524",
+            "technique": "Wood 87 x 63 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/breu/elder/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6109
+        },
+        {
+            "title": "Fugger Chapel",
+            "date": "1509-18",
+            "technique": "-",
+            "location": "St. Anna Augsburg",
+            "url": "https://www.wga.hu/html/b/breu/elder/fugger_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6110
+        },
+        {
+            "title": "The Suicide of Lucretia",
+            "date": "1528",
+            "technique": "Wood 103 x 148 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/breu/elder/lucretia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6111
+        },
+        {}
+    ]
+}

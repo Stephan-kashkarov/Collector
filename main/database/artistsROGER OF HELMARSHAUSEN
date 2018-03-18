@@ -1,0 +1,29 @@
+{
+    "name": "ROGER OF HELMARSHAUSEN",
+    "life": "(active 1100-1125 at Helmarshausen)",
+    "school": "German",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Book Cover",
+            "date": "1100-10",
+            "technique": "Silver gilded semi-precious stones height 38 cm",
+            "location": "Domschatz Trier",
+            "url": "https://www.wga.hu/html/r/roger/1cover.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34836
+        },
+        {
+            "title": "Portable Altar",
+            "date": "c. 1120",
+            "technique": "Oak box clad in partly gilded silver feet of gilded bronze 165 x 345 x 212 mm",
+            "location": "Cathedral Paderborn",
+            "url": "https://www.wga.hu/html/r/roger/2altar.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 34837
+        },
+        {}
+    ]
+}

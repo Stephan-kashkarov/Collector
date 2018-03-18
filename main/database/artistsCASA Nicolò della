@@ -1,0 +1,29 @@
+{
+    "name": "CASA Nicol\u00f2 della",
+    "life": "(active 1543-1548 in Italy)",
+    "school": "French",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Cosimo I de' Medici in Parade Armour",
+            "date": "1544",
+            "technique": "Engraving 435 x 301 mm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/c/casa/cosimo1.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 8087
+        },
+        {
+            "title": "Portrait of Baccio Bandinelli",
+            "date": "1530-35",
+            "technique": "Engraving 290 x 218 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/casa/portrait.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 8088
+        },
+        {}
+    ]
+}

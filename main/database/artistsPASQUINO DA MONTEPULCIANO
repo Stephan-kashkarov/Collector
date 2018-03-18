@@ -1,0 +1,39 @@
+{
+    "name": "PASQUINO DA MONTEPULCIANO",
+    "life": "(b. ca. 1425 Montepulciano d. 1485 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Frieze of the portal (detail)",
+            "date": "1450-54",
+            "technique": "Marble",
+            "location": "San Domenico Urbino",
+            "url": "https://www.wga.hu/html/p/pasquino/frieze.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 30463
+        },
+        {
+            "title": "God the Father (detail)",
+            "date": "1450-54",
+            "technique": "Marble",
+            "location": "San Domenico Urbino",
+            "url": "https://www.wga.hu/html/p/pasquino/god_fath.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 30464
+        },
+        {
+            "title": "Sphinx",
+            "date": "c. 1464",
+            "technique": "Marble",
+            "location": "Cathedral Prato",
+            "url": "https://www.wga.hu/html/p/pasquino/sphinx.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 30465
+        },
+        {}
+    ]
+}

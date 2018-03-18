@@ -1,0 +1,199 @@
+{
+    "name": "ARCHITECT Austrian",
+    "life": "(active 1290s in Lower Austria)",
+    "school": "Austrian",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "before 1295",
+            "technique": "Photo",
+            "location": "Cistercian church Heiligenkreuz",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/01a_1251.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1161
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1339",
+            "technique": "Photo",
+            "location": "Pilgrimage church P\u00f6llauberg",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/01a_1301.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1162
+        },
+        {
+            "title": "Interior view",
+            "date": "c. 1339",
+            "technique": "Photo",
+            "location": "Pilgrimage church P\u00f6llauberg",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/01a_1302.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1163
+        },
+        {
+            "title": "Castle",
+            "date": "14th century",
+            "technique": "Photo",
+            "location": "Hochosterwitz Carinthia",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/02a_1351.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1164
+        },
+        {
+            "title": "Exterior view",
+            "date": "1398-1450",
+            "technique": "Photo",
+            "location": "Maria am Gestade Vienna",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/01a_1401.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1165
+        },
+        {
+            "title": "Exterior view",
+            "date": "1398-1450",
+            "technique": "Photo",
+            "location": "Maria am Gestade Vienna",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/01a_1402.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1166
+        },
+        {
+            "title": "Exterior view",
+            "date": "15th century",
+            "technique": "Photo",
+            "location": "Stephansdom Vienna",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/02a_1401.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1167
+        },
+        {
+            "title": "Exterior view",
+            "date": "15th century",
+            "technique": "Photo",
+            "location": "Stephansdom Vienna",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/02a_1402.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1168
+        },
+        {
+            "title": "Exterior view",
+            "date": "15th century",
+            "technique": "Photo",
+            "location": "Stephansdom Vienna",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/02a_1403.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1169
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1450",
+            "technique": "Photo",
+            "location": "St. George's Chapel Wiener Neustadt",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/03a_1401.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1170
+        },
+        {
+            "title": "Interior view",
+            "date": "c. 1500",
+            "technique": "Photo",
+            "location": "Castle Graz",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/04a_1451.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1171
+        },
+        {
+            "title": "Exterior view",
+            "date": "1620-54",
+            "technique": "Photo",
+            "location": "St. Charles Church Volders",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/01a_1601.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1172
+        },
+        {
+            "title": "Exterior view",
+            "date": "1620-54",
+            "technique": "Photo",
+            "location": "St. Charles Church Volders",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/01a_1602.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1173
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1614",
+            "technique": "Photo",
+            "location": "Mausoleum of Emperor Ferdinand II Graz",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/01a_1603.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1174
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1714",
+            "technique": "Photo",
+            "location": "Pilgrimage church Graz",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/01a_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1175
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1714",
+            "technique": "Photo",
+            "location": "Pilgrimage church Graz",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/01a_1702.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1176
+        },
+        {
+            "title": "Exterior view",
+            "date": "1717-24",
+            "technique": "Photo",
+            "location": "Trinity church Stadl-Paura",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/02a_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1177
+        },
+        {
+            "title": "Exterior view",
+            "date": "1722-27",
+            "technique": "Photo",
+            "location": "Collegiate church Zwettl",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/03a_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1178
+        },
+        {
+            "title": "Exterior view",
+            "date": "1722-27",
+            "technique": "Photo",
+            "location": "Collegiate church Zwettl",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/03a_1702.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1179
+        },
+        {}
+    ]
+}

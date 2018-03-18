@@ -1,0 +1,59 @@
+{
+    "name": "PORPORA Paolo",
+    "life": "(b. 1617 Napoli d. 1673 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life of Flowers",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 64 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/porpora/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32080
+        },
+        {
+            "title": "Still-Life with Fungi",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/porpora/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32081
+        },
+        {
+            "title": "Still-Life with a Snake Frogs Tortoise and a Lizard",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "National Museum of Wales Cardiff",
+            "url": "https://www.wga.hu/html/p/porpora/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32082
+        },
+        {
+            "title": "Still-Life with an Owl and an Ibis",
+            "date": "1684-85",
+            "technique": "Oil on canvas 74 x 98 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/porpora/stillif3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32083
+        },
+        {
+            "title": "Underbrush with Tortoise and Crab",
+            "date": "1650-55",
+            "technique": "Oil on canvas 61 x 76 cm",
+            "location": "Mus\u00e9e des Beax-Arts Nancy",
+            "url": "https://www.wga.hu/html/p/porpora/underbru.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32084
+        },
+        {}
+    ]
+}

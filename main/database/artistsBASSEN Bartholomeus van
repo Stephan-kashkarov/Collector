@@ -1,0 +1,89 @@
+{
+    "name": "BASSEN Bartholomeus van",
+    "life": "(b. ca. 1590 Den Haag d. 1652 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Interior of a Gothic Cathedral",
+            "date": "1614",
+            "technique": "Oil on canvas 105 x 137 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassen/1interio.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3465
+        },
+        {
+            "title": "The Tomb of William the Silent in an Imaginary Church",
+            "date": "1620",
+            "technique": "Oil on canvas 112 x 151 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bassen/1william.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3466
+        },
+        {
+            "title": "Renaissance Interior with Banqueters",
+            "date": "1618-20",
+            "technique": "Oil on wood 575 x 87 cm",
+            "location": "North Carolina Museum of Art Raleigh",
+            "url": "https://www.wga.hu/html/b/bassen/2interio.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3467
+        },
+        {
+            "title": "Interior of an Imaginary Church",
+            "date": "1639",
+            "technique": "Oil on panel 38 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassen/3interio.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3468
+        },
+        {
+            "title": "A Church Interior",
+            "date": "-",
+            "technique": "Oil on oak panel 38 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassen/3interix.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3469
+        },
+        {
+            "title": "A Company in an Interior",
+            "date": "-",
+            "technique": "Oil on panel 72 x 100",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/bassen/4company.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3470
+        },
+        {
+            "title": "Figures at Mass in an Ornate Church Interior",
+            "date": "1623",
+            "technique": "Oil on canvas 83 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassen/5mass.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3471
+        },
+        {
+            "title": "Interior of the Cunerakerk Rhenen",
+            "date": "1638",
+            "technique": "Oil on panel 61 x 81 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bassen/rhenen.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 3472
+        },
+        {}
+    ]
+}

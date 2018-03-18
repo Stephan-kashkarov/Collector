@@ -1,0 +1,129 @@
+{
+    "name": "FLORIS Frans",
+    "life": "(b. ca. 1516 Antwerpen d. 1570 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Banquet of the Gods",
+            "date": "1550",
+            "technique": "Oil on panel 150 x 198 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/f/floris/frans/banquet.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13935
+        },
+        {
+            "title": "Head of a Woman",
+            "date": "1554-60",
+            "technique": "Oil on wood 45 x 32 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/floris/frans/head_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13936
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "c. 1548",
+            "technique": "Oil on oak 120 x 160 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/f/floris/frans/judparis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13937
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1550s",
+            "technique": "Oil on panel 135 x 188 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/floris/frans/jugparis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13938
+        },
+        {
+            "title": "Last Judgment",
+            "date": "1565",
+            "technique": "Oil on canvas 164 x 221 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/f/floris/frans/lastjudg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13939
+        },
+        {
+            "title": "Study Head of a Bearded Man",
+            "date": "c. 1565",
+            "technique": "Oil on panel 47 x 34 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/f/floris/frans/lastjudx.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 13940
+        },
+        {
+            "title": "The Fall of the Rebellious Angels",
+            "date": "1554",
+            "technique": "Oil on panel 308 x 220 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/f/floris/frans/rebellio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13941
+        },
+        {
+            "title": "The Fall of the Rebellious Angels (detail)",
+            "date": "1554",
+            "technique": "Oil on panel",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/f/floris/frans/rebellix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13942
+        },
+        {
+            "title": "The Sacrifice of Jesus Christ Son of God Gathering and Protecting Mankind",
+            "date": "1562",
+            "technique": "Oil on wood 165 x 230 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/f/floris/frans/sacrific.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13943
+        },
+        {
+            "title": "Venus at Vulcan's Forge",
+            "date": "1560-64",
+            "technique": "Oil on oak 150 x 198 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/f/floris/frans/venusvul.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13944
+        },
+        {
+            "title": "The Allegory of Touch",
+            "date": "c. 1560",
+            "technique": "Brush grey-brown ink heightened with white on blue paper 204 x 268 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/f/floris/frans/zallegor.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 13945
+        },
+        {
+            "title": "Apollo and the Muses",
+            "date": "c. 1545",
+            "technique": "Pen and brown ink on brown paper 202 x 312 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/f/floris/frans/zapollo.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 13946
+        },
+        {}
+    ]
+}

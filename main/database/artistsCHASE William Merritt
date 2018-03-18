@@ -1,0 +1,59 @@
+{
+    "name": "CHASE William Merritt",
+    "life": "(b. 1849 Williamsburg d. 1916 New York)",
+    "school": "American",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Open Air Breakfast",
+            "date": "c. 1888",
+            "technique": "Oil on canvas 95 x 144 cm",
+            "location": "Toledo Museum of Art Toledo Ohio",
+            "url": "https://www.wga.hu/html/c/chase/breakfas.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8718
+        },
+        {
+            "title": "End of the Season",
+            "date": "c. 1885",
+            "technique": "Pastel on paper 35 x 45 cm",
+            "location": "Mount Holyoke College Art Museum South Hadley",
+            "url": "https://www.wga.hu/html/c/chase/endseaso.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8719
+        },
+        {
+            "title": "Idle Hours",
+            "date": "1894",
+            "technique": "Oil on canvas 65 x 90 cm",
+            "location": "Amon Carter Museum Fort Worth",
+            "url": "https://www.wga.hu/html/c/chase/idlehour.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8720
+        },
+        {
+            "title": "The Kimono",
+            "date": "c. 1895",
+            "technique": "Oil on canvas 90 x 115 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/chase/kimono.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8721
+        },
+        {
+            "title": "The Shinnecock Hills",
+            "date": "1893-97",
+            "technique": "Oil on panel 44 x 55 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/chase/shinneck.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8722
+        },
+        {}
+    ]
+}

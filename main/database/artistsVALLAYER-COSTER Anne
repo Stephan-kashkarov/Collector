@@ -1,0 +1,79 @@
+{
+    "name": "VALLAYER-COSTER Anne",
+    "life": "(b. 1744 Paris d. 1818 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Attributes of Painting Sculpture and Architecture",
+            "date": "1769",
+            "technique": "Oil on canvas 90 x 121 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vallayer/attribut.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42014
+        },
+        {
+            "title": "Bouquet of Flowers in a Vase",
+            "date": "1777",
+            "technique": "Oil on canvas oval 42 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vallayer/bouquet.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42015
+        },
+        {
+            "title": "A Hound with Dead Game in a Landscape",
+            "date": "1785",
+            "technique": "Oil on canvas x cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vallayer/deadgame.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42016
+        },
+        {
+            "title": "Still-Life of Flowers in a Vase with a Shell",
+            "date": "1799",
+            "technique": "Oil on canvas 51 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vallayer/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42017
+        },
+        {
+            "title": "Still-Life with Musical Instruments",
+            "date": "-",
+            "technique": "Oil on canvas 89 x 179 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vallayer/musicali.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42018
+        },
+        {
+            "title": "Still-Life with Tuft of Marine Plants Shells and Corals",
+            "date": "1769",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vallayer/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42019
+        },
+        {
+            "title": "Portrait of a Violinist",
+            "date": "1773",
+            "technique": "Oil on canvas 116 x 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vallayer/violinis.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42020
+        },
+        {}
+    ]
+}

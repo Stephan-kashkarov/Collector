@@ -1,0 +1,119 @@
+{
+    "name": "VISSCHER Claes Jansz. the Younger",
+    "life": "(b. 1587 Amsterdam d. 1652 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Jan Deyman's Country House and Orchard",
+            "date": "c. 1608",
+            "technique": "Pen in brown grey wash 144 x 191 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/country1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43292
+        },
+        {
+            "title": "Jan Deyman's Country House and Orchard",
+            "date": "1608-09",
+            "technique": "Etching 150 x 208 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/country2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43293
+        },
+        {
+            "title": "Jan Deyman's Country House",
+            "date": "c. 1608",
+            "technique": "Pen in brown over a sketch in black chalk 108 x 164 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/country3.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43294
+        },
+        {
+            "title": "Two Farmhouses",
+            "date": "1610s",
+            "technique": "Pen and ink over black chalk 143 x 188 mm",
+            "location": "Frits Lugt Collection Paris",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/farmhous.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43295
+        },
+        {
+            "title": "Landscape",
+            "date": "-",
+            "technique": "Pen brown ink and grey wash on paper 120 x 183 mm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43296
+        },
+        {
+            "title": "Lion Map (Leo Belgicus)",
+            "date": "1609",
+            "technique": "Coloured etching and engraving 470 x 572 mm",
+            "location": "Stichting Atlas van Stolk Rotterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/lionmap.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43297
+        },
+        {
+            "title": "Lion Map (Leo Belgicus) (detail)",
+            "date": "1609",
+            "technique": "Coloured etching and engraving",
+            "location": "Stichting Atlas van Stolk Rotterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/lionmap1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43298
+        },
+        {
+            "title": "Ruins of t'Huys te Kleef",
+            "date": "1611-12",
+            "technique": "Etching 102 x 156 mm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/ruins.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43299
+        },
+        {
+            "title": "Four drawings",
+            "date": "c. 1614",
+            "technique": "Drawing",
+            "location": "University Library Glasgow",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/sinnepo.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43300
+        },
+        {
+            "title": "Emblem from Sinnepoppen",
+            "date": "1614",
+            "technique": "Engraving",
+            "location": "Universiteits-Bibliotheek Amsterdam",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/sinnepop.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43301
+        },
+        {
+            "title": "The Tribute Money",
+            "date": "c. 1612",
+            "technique": "Engraving 402 x 503 mm",
+            "location": "Teylers Museum Haarlem",
+            "url": "https://www.wga.hu/html/v/visscher/claes2/tributem.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 43302
+        },
+        {}
+    ]
+}

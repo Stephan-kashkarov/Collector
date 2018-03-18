@@ -1,0 +1,49 @@
+{
+    "name": "DORIGNY Michel",
+    "life": "(b. 1616 Saint-Quentin d. 1665 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/d/dorigny/michel/adormagi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 11985
+        },
+        {
+            "title": "Hercules and Omphale",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/d/dorigny/michel/hercules.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 11986
+        },
+        {
+            "title": "Pan and Syrinx",
+            "date": "1657",
+            "technique": "Oil on canvas 98 x 131 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dorigny/michel/pansyrin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 11987
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1636-38",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/d/dorigny/michel/seguier.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 11988
+        },
+        {}
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "TASSI Agostino",
+    "life": "(b. 1578 Roma d. 1644 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Embarkation of a Queen",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 94 x 136 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/1embarka.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38511
+        },
+        {
+            "title": "The Coral Fishers",
+            "date": "c. 1622",
+            "technique": "Oil on canvas 94 x 131 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/2coral_f.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38512
+        },
+        {
+            "title": "Competition on the Capitoline Hill",
+            "date": "1630s",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/t/tassi/competit.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38513
+        },
+        {
+            "title": "Imaginary Landscape with Temple of Sibyl at Tivoli",
+            "date": "c. 1625",
+            "technique": "Fresco",
+            "location": "Palazzo Lancellotti Rome",
+            "url": "https://www.wga.hu/html/t/tassi/imaginar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38514
+        },
+        {
+            "title": "Simulated loggia architecture with landscape views",
+            "date": "1619-21",
+            "technique": "Fresco",
+            "location": "Palazzo Lancellotti Rome",
+            "url": "https://www.wga.hu/html/t/tassi/lancelot.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 38515
+        },
+        {
+            "title": "The Capture of Troy",
+            "date": "c. 1639",
+            "technique": "Oil on canvas 75 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/pair1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38516
+        },
+        {
+            "title": "A Shipyard",
+            "date": "c. 1639",
+            "technique": "Oil on canvas 75 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/pair2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38517
+        },
+        {
+            "title": "Frieze with ambassadors and spectators (detail)",
+            "date": "1615-17",
+            "technique": "Fresco",
+            "location": "Palazzo del Quirinale Rome",
+            "url": "https://www.wga.hu/html/t/tassi/quirinal.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38518
+        },
+        {
+            "title": "View of the Acqua Acetosa Rome",
+            "date": "c. 1625",
+            "technique": "Pen and ink 15 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/zacetosa.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 38519
+        },
+        {
+            "title": "Capriccio with the Palazzo dei Conservatori",
+            "date": "early 1630s",
+            "technique": "Pen and ink 15 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/zcapricc.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38520
+        },
+        {
+            "title": "River Landscape",
+            "date": "c. 1625",
+            "technique": "Pen and ink 15 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassi/zriver.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38521
+        },
+        {}
+    ]
+}

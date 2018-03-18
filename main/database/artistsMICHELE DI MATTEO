@@ -1,0 +1,39 @@
+{
+    "name": "MICHELE DI MATTEO",
+    "life": "(active 1410-1469)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Polyptych of Sant'Elena",
+            "date": "c. 1427",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/m/michele/matteo/s_elena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27007
+        },
+        {
+            "title": "Polyptych of Sant'Elena (detail)",
+            "date": "c. 1427",
+            "technique": "Tempera on panel 114 x 66 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/m/michele/matteo/s_elena1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27008
+        },
+        {
+            "title": "St Mark",
+            "date": "c. 1427",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/m/michele/matteo/s_elena2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27009
+        },
+        {}
+    ]
+}

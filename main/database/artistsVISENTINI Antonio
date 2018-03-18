@@ -1,0 +1,119 @@
+{
+    "name": "VISENTINI Antonio",
+    "life": "(b. 1688 Venezia d. 1782 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Concert in a Villa",
+            "date": "1739-40",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Contarini Fasan Venice",
+            "url": "https://www.wga.hu/html/v/visentin/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43276
+        },
+        {
+            "title": "Concert in a Villa (detail)",
+            "date": "1739-40",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Contarini Fasan Venice",
+            "url": "https://www.wga.hu/html/v/visentin/concert1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43277
+        },
+        {
+            "title": "Concert in a Villa (detail)",
+            "date": "1739-40",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Contarini Fasan Venice",
+            "url": "https://www.wga.hu/html/v/visentin/concert2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43278
+        },
+        {
+            "title": "Architectural Fantasy",
+            "date": "1764-72",
+            "technique": "Oil on canvas 130 x 92 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/v/visentin/fantasy.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 43279
+        },
+        {
+            "title": "Piazza Santi Giovanni e Paolo",
+            "date": "-",
+            "technique": "Etching with line engraving 251 x 421 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/visentin/piazzasan.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43280
+        },
+        {
+            "title": "Portrait of Giovanni Antonio Canal called Canaletto",
+            "date": "before 1735",
+            "technique": "Engraving",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/v/visentin/prospec0.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 43281
+        },
+        {
+            "title": "San Geremia and the Entrance of Cannaregio",
+            "date": "1735",
+            "technique": "Etching",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/v/visentin/prospec1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43282
+        },
+        {
+            "title": "The Canal Grande from Santa Croce to the East",
+            "date": "1742",
+            "technique": "Etching",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/v/visentin/prospec2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43283
+        },
+        {
+            "title": "The Canal Grande with San Simeone Piccolo and the Scalzi",
+            "date": "1742",
+            "technique": "Etching",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/v/visentin/prospec3.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 43284
+        },
+        {
+            "title": "Fa\u00e7ade of San Francesco della Vigna",
+            "date": "1740s",
+            "technique": "Drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/visentin/vigna.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 43285
+        },
+        {
+            "title": "Washerwomen",
+            "date": "1739-40",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Contarini Fasan Venice",
+            "url": "https://www.wga.hu/html/v/visentin/w_women.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43286
+        },
+        {}
+    ]
+}

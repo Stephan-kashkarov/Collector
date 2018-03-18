@@ -1,0 +1,39 @@
+{
+    "name": "LISBOA Antonio Francisco",
+    "life": "(b. ca. 1738 Vila Rica d. 1814 Vila Rica)",
+    "school": "Portuguese",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Prophet Daniel",
+            "date": "1800-05",
+            "technique": "Stone",
+            "location": "Sanctuary of Congonhas do Campo Brazil",
+            "url": "https://www.wga.hu/html/l/lisboa/1prophet.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 22748
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1796-99",
+            "technique": "Polychromed wood",
+            "location": "Sanctuary of Congonhas do Campo Brazil",
+            "url": "https://www.wga.hu/html/l/lisboa/2christ.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 22749
+        },
+        {
+            "title": "The Bad Thief",
+            "date": "1796-99",
+            "technique": "Polychromed wood",
+            "location": "Sanctuary of Congonhas do Campo Brazil",
+            "url": "https://www.wga.hu/html/l/lisboa/3thief.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 22750
+        },
+        {}
+    ]
+}

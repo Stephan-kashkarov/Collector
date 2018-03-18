@@ -1,0 +1,99 @@
+{
+    "name": "RENAISSANCE GLASS PAINTER French",
+    "life": "(active 1510s)",
+    "school": "French",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "St Catherine of Alexandria",
+            "date": "1510s",
+            "technique": "Stained glass window",
+            "location": "Notre-Dame-la-Riche Tours",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/01f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33917
+        },
+        {
+            "title": "Emblematic Window",
+            "date": "c. 1550",
+            "technique": "Stained glass",
+            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/02f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 33918
+        },
+        {
+            "title": "The Wisdom of Solomon (detail)",
+            "date": "1531",
+            "technique": "Stained glass window",
+            "location": "Saint-Gervais-Saint-Protais Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/03f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33919
+        },
+        {
+            "title": "The Holy Women at the Tomb",
+            "date": "1531",
+            "technique": "Stained glass window",
+            "location": "Saint-\u00c9tienne-du-Mont Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/04f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33920
+        },
+        {
+            "title": "Life of the Virgin (detail)",
+            "date": "1545",
+            "technique": "Stained glass window",
+            "location": "Saint-Gervais-Saint-Protais Gisors",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/05f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33921
+        },
+        {
+            "title": "Life of the Virgin (detail)",
+            "date": "1545",
+            "technique": "Stained glass window",
+            "location": "Saint-Gervais-Saint-Protais Gisors",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/06f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33922
+        },
+        {
+            "title": "Life of the Virgin (detail)",
+            "date": "1545",
+            "technique": "Stained glass window",
+            "location": "Saint-Gervais-Saint-Protais Gisors",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/07f_1500.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33923
+        },
+        {
+            "title": "Fran\u00e7ois I Praying",
+            "date": "1551-56",
+            "technique": "Stained glass window",
+            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/08f_1550.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33924
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1556",
+            "technique": "Stained glass window 75 x 54 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/16c/08f_1551.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 33925
+        },
+        {}
+    ]
+}

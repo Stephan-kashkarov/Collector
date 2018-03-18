@@ -1,0 +1,39 @@
+{
+    "name": "SCHOENEWERK Alexandre",
+    "life": "(b. 1820 Paris d. 1885 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Girl Bathing",
+            "date": "-",
+            "technique": "White marble height 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schoenew/girlbath.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 36664
+        },
+        {
+            "title": "The Tarantine Girl",
+            "date": "1871",
+            "technique": "Marble 74 x 171 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/schoenew/taranti1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36665
+        },
+        {
+            "title": "The Tarantine Girl",
+            "date": "1871",
+            "technique": "Marble 74 x 171 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/schoenew/taranti2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36666
+        },
+        {}
+    ]
+}

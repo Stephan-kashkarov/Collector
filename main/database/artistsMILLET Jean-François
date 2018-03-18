@@ -1,0 +1,159 @@
+{
+    "name": "MILLET Jean-Fran\u00e7ois",
+    "life": "(b. 1814 Gruchy d. 1875 Barbizon)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Winnower",
+            "date": "1848",
+            "technique": "Oil on canvas 38 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/millet/01winnow.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27174
+        },
+        {
+            "title": "Peasant with a Wheelbarrow",
+            "date": "1848-52",
+            "technique": "Oil on canvas 45 x 38 cm",
+            "location": "Museum of Art Indianapolis",
+            "url": "https://www.wga.hu/html/m/millet/02peasan.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27175
+        },
+        {
+            "title": "Trussing Hay",
+            "date": "1850",
+            "technique": "Oil on canvas 56 x 65 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/millet/02trussi.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27176
+        },
+        {
+            "title": "Peasant-Girls with Brushwood",
+            "date": "c. 1852",
+            "technique": "Oil on canvas 38 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/millet/03girls.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27177
+        },
+        {
+            "title": "The Gleaners",
+            "date": "1857",
+            "technique": "Oil on canvas 855 x 111 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/millet/03gleaner.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27178
+        },
+        {
+            "title": "The Angelus",
+            "date": "1859-60",
+            "technique": "Oil on canvas 56 x 66 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/m/millet/04angel.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27179
+        },
+        {
+            "title": "The Angelus",
+            "date": "1859-60",
+            "technique": "Oil on canvas 56 x 66 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/m/millet/04angelu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27180
+        },
+        {
+            "title": "Farmer Inserting a Graft on a Tree",
+            "date": "1865",
+            "technique": "Oil on canvas 81 x 100 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/millet/04farmer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27181
+        },
+        {
+            "title": "Spring",
+            "date": "1868-73",
+            "technique": "Oil on canvas 86 x 111 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/m/millet/04spring.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27182
+        },
+        {
+            "title": "Buckwheat Harvest: Summer",
+            "date": "1868-74",
+            "technique": "Oil on canvas 85 x 111 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/m/millet/05summer.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27183
+        },
+        {
+            "title": "Haystacks: Autumn",
+            "date": "c. 1874",
+            "technique": "Oil on canvas 85 x 110 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/millet/06autumn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27184
+        },
+        {
+            "title": "Winter - The Faggot Gatherers",
+            "date": "1868-75",
+            "technique": "Oil on canvas 82 x 100 cm",
+            "location": "National Museum Cardiff",
+            "url": "https://www.wga.hu/html/m/millet/06winter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27185
+        },
+        {
+            "title": "Young Shepherdess",
+            "date": "c. 1871",
+            "technique": "Oil on canvas 162 x 113 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/m/millet/07shepher.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27186
+        },
+        {
+            "title": "Hunting Birds at Night",
+            "date": "1874",
+            "technique": "Oil on canvas 74 x 93 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/m/millet/08huntin.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 27187
+        },
+        {
+            "title": "Catherine Lemaire",
+            "date": "1848",
+            "technique": "Pencil on paper 550 x 420 mm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/m/millet/z_lemair.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 27188
+        },
+        {}
+    ]
+}

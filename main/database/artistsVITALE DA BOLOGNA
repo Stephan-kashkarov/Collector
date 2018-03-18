@@ -1,0 +1,69 @@
+{
+    "name": "VITALE DA BOLOGNA",
+    "life": "(b. 1289/1309 Bologna d. 1359/69 Bologna)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Crucifixion",
+            "date": "c. 1335",
+            "technique": "Tempera on panel 93 x 51 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/v/vitale/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43309
+        },
+        {
+            "title": "Fresco decoration",
+            "date": "1351",
+            "technique": "Fresco",
+            "location": "Pomposa Abbey Codigoro near Ferrara",
+            "url": "https://www.wga.hu/html/v/vitale/pomposa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43310
+        },
+        {
+            "title": "St George 's Battle with the Dragon",
+            "date": "around 1350",
+            "technique": "Tempera on wood 80 x 70 cm",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/v/vitale/stgeorge.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43311
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1345",
+            "technique": "Tempera on wood 155 x 73 cm",
+            "location": "Museo Civico d'Arte Industriale Imola",
+            "url": "https://www.wga.hu/html/v/vitale/triptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43312
+        },
+        {
+            "title": "Madonna dell'Umilt\u00e0",
+            "date": "c. 1353",
+            "technique": "Panel 41 x 24 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/v/vitale/umilta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43313
+        },
+        {
+            "title": "Madonna dell'Umilt\u00e0 (detail)",
+            "date": "c. 1353",
+            "technique": "Panel",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/v/vitale/umilta1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43314
+        },
+        {}
+    ]
+}

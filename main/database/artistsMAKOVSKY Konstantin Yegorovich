@@ -1,0 +1,89 @@
+{
+    "name": "MAKOVSKY Konstantin Yegorovich",
+    "life": "(b. 1839 Moscow d. 1915 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Portrait of an Arab",
+            "date": "c. 1875",
+            "technique": "Gouache on board 355 x 251 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/arabport.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 23729
+        },
+        {
+            "title": "Unloading Boats on the Bosphorus",
+            "date": "-",
+            "technique": "Watercolour on paper laid down on board 172 x 232 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/bosphoru.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 23730
+        },
+        {
+            "title": "Street Scene in Cairo",
+            "date": "-",
+            "technique": "Watercolour on paper 295 x 220 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/cairo1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 23731
+        },
+        {
+            "title": "A Cairo Street Scene",
+            "date": "c. 1875",
+            "technique": "Watercolour on paper 350 x 490 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/cairo2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 23732
+        },
+        {
+            "title": "False Dmitry's Agents Murdering Feodor Godunov and his Mother",
+            "date": "1862",
+            "technique": "Oil on canvas",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/falsedim.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23733
+        },
+        {
+            "title": "The Russian Bride's Attire",
+            "date": "1884",
+            "technique": "Oil on canvas",
+            "location": "Historical and Art Museum Serpukhov",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/rusbride.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 23734
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1856",
+            "technique": "Oil on canvas",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23735
+        },
+        {
+            "title": "Volkov's Family",
+            "date": "c. 1898",
+            "technique": "Oil on canvas 100 x 81 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/makovsky/konstant/volkov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23736
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "MERIAN Matth\u00e4us the Elder",
+    "life": "(b. 1593 Basel d. 1650 Schwalbach)",
+    "school": "Swiss",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Frankfurt",
+            "date": "c. 1612",
+            "technique": "Engraving",
+            "location": "-",
+            "url": "https://www.wga.hu/html/m/merian/elder/frankfur.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 26295
+        },
+        {
+            "title": "View of the Neuegeb\u00e4ude",
+            "date": "1649",
+            "technique": "Engraving",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/merian/elder/neuegeba.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 26296
+        },
+        {}
+    ]
+}

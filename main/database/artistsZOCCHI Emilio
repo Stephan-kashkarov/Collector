@@ -1,0 +1,49 @@
+{
+    "name": "ZOCCHI Emilio",
+    "life": "(b. 1835 Firenze d. 1913 Firenze)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Young Christopher Columbus Gazing Out at Sea",
+            "date": "1868",
+            "technique": "White marble height 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zocchi_e/columbus.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 44663
+        },
+        {
+            "title": "Young Peasant Couple",
+            "date": "-",
+            "technique": "Alabaster height 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zocchi_e/couple.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 44664
+        },
+        {
+            "title": "Michelangelo",
+            "date": "-",
+            "technique": "Marble height 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zocchi_e/michela1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 44665
+        },
+        {
+            "title": "The Young Michelangelo",
+            "date": "1861",
+            "technique": "Marble height 60 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/z/zocchi_e/michela2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 44666
+        },
+        {}
+    ]
+}

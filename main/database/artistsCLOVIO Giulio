@@ -1,0 +1,139 @@
+{
+    "name": "CLOVIO Giulio",
+    "life": "(b. 1498 Grizane d. 1578 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Farnese Hours",
+            "date": "1537-46",
+            "technique": "Manuscript (M. 69) 172 x 108 mm (each page)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/c/clovio/farnese.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9159
+        },
+        {
+            "title": "The Farnese Hours",
+            "date": "1537-46",
+            "technique": "Manuscript (M. 69) 172 x 108 mm (each page)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/c/clovio/farnese1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9160
+        },
+        {
+            "title": "The Farnese Hours",
+            "date": "1537-46",
+            "technique": "Manuscript (M. 69) 172 x 108 mm (each page)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/c/clovio/farnese2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9161
+        },
+        {
+            "title": "Page from the Colonna Missale",
+            "date": "c. 1532",
+            "technique": "Parchment",
+            "location": "John Rylands University Library Manchester",
+            "url": "https://www.wga.hu/html/c/clovio/missale.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9162
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1550s",
+            "technique": "Tempera over metal point on parchment on wood 368 x 257 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/clovio/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9163
+        },
+        {
+            "title": "Elymas Struck Blind by St Paul before the Proconsul Sergius Paulus",
+            "date": "-",
+            "technique": "Illumination on vellum 325 x 224 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/clovio/stpaul1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9164
+        },
+        {
+            "title": "The Three Theological Virtues",
+            "date": "-",
+            "technique": "Illumination on vellum 318 x 224 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/clovio/stpaul2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 9165
+        },
+        {
+            "title": "The Rape of Ganymede",
+            "date": "-",
+            "technique": "Black chalk 192 x 260 mm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/c/clovio/z1ganyme.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9166
+        },
+        {
+            "title": "The Rape of Ganymede",
+            "date": "-",
+            "technique": "Black chalk 191 x 247 mm",
+            "location": "Galleria Regionale di Palazzo Abatellis Palermo",
+            "url": "https://www.wga.hu/html/c/clovio/z2ganyme.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9167
+        },
+        {
+            "title": "Head of Minerva",
+            "date": "1540s",
+            "technique": "Gray chalk 280 x 197 mm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/c/clovio/z3minerv.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9168
+        },
+        {
+            "title": "The Flagellation of Christ",
+            "date": "1540s",
+            "technique": "Red chalk over a sketch in black chalk 200 x 182 mm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/c/clovio/z4flagel.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9169
+        },
+        {
+            "title": "The Crucifixion of Christ with Saints",
+            "date": "1550-68",
+            "technique": "Black chalk 279 x 222 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/clovio/z5crucif.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9170
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "before 1568",
+            "technique": "Black chalk 250 x 211 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/clovio/z6lament.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9171
+        },
+        {}
+    ]
+}

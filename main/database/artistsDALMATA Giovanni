@@ -1,0 +1,29 @@
+{
+    "name": "DALMATA Giovanni",
+    "life": "(b. 1440 Trau d. 1510 Trau)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Relief with the Blessing Christ",
+            "date": "c. 1479",
+            "technique": "Marble height 130.8 cm width 71 cm",
+            "location": "Musei Vaticani Vatican",
+            "url": "https://www.wga.hu/html/d/dalmata/fb-bless.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10737
+        },
+        {
+            "title": "Fragment of an Altar",
+            "date": "c. 1490",
+            "technique": "Marble 79 x 123 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/dalmata/fragment.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10738
+        },
+        {}
+    ]
+}

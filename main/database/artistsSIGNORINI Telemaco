@@ -1,0 +1,79 @@
+{
+    "name": "SIGNORINI Telemaco",
+    "life": "(b. 1835 Firenze d. 1901 Firenze)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Insane Ward at San Bonifacio's Florence",
+            "date": "1866-67",
+            "technique": "Oil on canvas 63 x 95 cm",
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "url": "https://www.wga.hu/html/s/signorin/insanewa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37144
+        },
+        {
+            "title": "Leith",
+            "date": "c. 1881",
+            "technique": "Oil on canvas 45 x 42 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/signorin/leith.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37145
+        },
+        {
+            "title": "Little Country Girl",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/s/signorin/little_g.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37146
+        },
+        {
+            "title": "The Suburb of Porta Adriana Ravenna",
+            "date": "1875",
+            "technique": "Oil on canvas 66 x 100 cm",
+            "location": "Galleria Nazionale d'Arte Moderna e Contemporanea Rome",
+            "url": "https://www.wga.hu/html/s/signorin/portadri.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37147
+        },
+        {
+            "title": "The Prison Baths at Portroferraio",
+            "date": "1894",
+            "technique": "Oil on canvas 56 x 80 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/s/signorin/prison.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 37148
+        },
+        {
+            "title": "September Morning in Settignano",
+            "date": "c. 1891",
+            "technique": "Oil on canvas 59 x 64 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/s/signorin/settigna.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37149
+        },
+        {
+            "title": "Terenzano near Settignano",
+            "date": "-",
+            "technique": "Oil on canvas 21 x 12 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/signorin/terenza.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37150
+        },
+        {}
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "name": "VERROCCHIO Andrea del",
+    "life": "(b. 1435 Firenze d. 1488 Venezia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Baptism of Christ",
+            "date": "1472-75",
+            "technique": "Oil on wood 177 x 151 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/baptism.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43019
+        },
+        {
+            "title": "The Baptism of Christ (detail by Leonardo da Vinci)",
+            "date": "1472-75",
+            "technique": "Tempera and oil on panel",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/baptism1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43020
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1472-75",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/baptism2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43021
+        },
+        {
+            "title": "The Battle of Pydna",
+            "date": "c. 1475",
+            "technique": "Tempera on panel 51 x 159 cm",
+            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43022
+        },
+        {
+            "title": "Head of a Girl (study)",
+            "date": "-",
+            "technique": "Drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/head_g.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43023
+        },
+        {
+            "title": "Madonna with Sts John the Baptist and Donatus",
+            "date": "1475-83",
+            "technique": "Wood 189 x 191 cm",
+            "location": "Duomo Pistoia",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/mad_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43024
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1470",
+            "technique": "Poplar 76 x 55 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43025
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1465",
+            "technique": "Paper on wood 41 x 27 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/s_jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43026
+        },
+        {
+            "title": "Saint Monica",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Santo Spirito Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/s_monica.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43027
+        },
+        {
+            "title": "Tobias and the Angel",
+            "date": "1470-80",
+            "technique": "Egg tempera on poplar 84 x 66 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/v/verocchi/painting/tobias.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43028
+        },
+        {
+            "title": "Resurrection of Christ",
+            "date": "c. 1463",
+            "technique": "Painted terracotta",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/1resurre.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43029
+        },
+        {
+            "title": "Beheading of St John the Baptist (detail of the altar)",
+            "date": "1477-80",
+            "technique": "Silver",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/beheadin.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43030
+        },
+        {
+            "title": "Christ and Doubting Thomas",
+            "date": "1476-83",
+            "technique": "Bronze height 230 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/christh.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43031
+        },
+        {
+            "title": "Christ and Doubting Thomas",
+            "date": "1476-83",
+            "technique": "Bronze height 230 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/christho.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43032
+        },
+        {
+            "title": "Christ and Doubting Thomas",
+            "date": "1476-83",
+            "technique": "Bronze height 230 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/christhp.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43033
+        },
+        {
+            "title": "Christ and Doubting Thomas (detail)",
+            "date": "1476-83",
+            "technique": "Bronze",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/christhr.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43034
+        },
+        {
+            "title": "Equestrian Statue of Colleoni",
+            "date": "1481-1495",
+            "technique": "Gilded bronze height 395 cm (without base)",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleoni.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43035
+        },
+        {
+            "title": "Equestrian Statue of Colleoni",
+            "date": "1481-1495",
+            "technique": "Gilded bronze height 395 cm (without base)",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleonj.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43036
+        },
+        {
+            "title": "Equestrian Statue of Colleoni",
+            "date": "1481-1495",
+            "technique": "Gilded bronze height 395 cm (without base)",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleonk.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43037
+        },
+        {
+            "title": "Equestrian Statue of Colleoni",
+            "date": "1481-1495",
+            "technique": "Gilded bronze height 395 cm (without base)",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleonl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43038
+        },
+        {
+            "title": "Equestrian Statue of Colleoni",
+            "date": "1481-1495",
+            "technique": "Gilded bronze height 395 cm (without base)",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleonm.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43039
+        },
+        {
+            "title": "Equestrian Statue of Colleoni (detail)",
+            "date": "1481-1495",
+            "technique": "Gilded bronze",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleonx.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43040
+        },
+        {
+            "title": "Equestrian Statue of Colleoni (detail)",
+            "date": "1481-1495",
+            "technique": "Gilded bronze",
+            "location": "Campo di Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/colleony.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43041
+        },
+        {
+            "title": "Giuliano di Piero de' Medici",
+            "date": "1475-78",
+            "technique": "Terracotta (formerly painted) height 61 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/g_medici.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43042
+        },
+        {
+            "title": "Ideal Portrait of Alexander the Great",
+            "date": "1480s",
+            "technique": "Marble 43 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/ideal_po.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43043
+        },
+        {
+            "title": "Lorenzo de Medici",
+            "date": "1480",
+            "technique": "Painted terracotta",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/l_medici.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43044
+        },
+        {
+            "title": "Piero de' Medici",
+            "date": "-",
+            "technique": "Terracotta height 56 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/p_medici.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43045
+        },
+        {
+            "title": "Putto with Dolphin",
+            "date": "c. 1470",
+            "technique": "Bronze height 125 cm",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/pdolphin.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43046
+        },
+        {
+            "title": "Bust of a Young Woman",
+            "date": "1465-66",
+            "technique": "Marble height 53 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portra.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43047
+        },
+        {
+            "title": "Lady with Primroses",
+            "date": "1475-80",
+            "technique": "Marble height 61 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portrai.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43048
+        },
+        {
+            "title": "Lady with Primroses",
+            "date": "1475-80",
+            "technique": "Marble height 61 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portrait.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43049
+        },
+        {
+            "title": "Lady with Primroses (detail)",
+            "date": "1475-80",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portraiu.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43050
+        },
+        {
+            "title": "Lady with Primroses (detail)",
+            "date": "1475-80",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portraix.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43051
+        },
+        {
+            "title": "Lady with Primroses (detail)",
+            "date": "1475-80",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/portraiy.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43052
+        },
+        {
+            "title": "Tomb of Piero and Giovanni de' Medici",
+            "date": "1469-72",
+            "technique": "Marble porphyry serpentine bronze and pietra serena height 540 cm",
+            "location": "San Lorenzo Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/tomb_med.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43053
+        },
+        {
+            "title": "Young Warrior",
+            "date": "c. 1470",
+            "technique": "Terracotta height 52 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/warrior.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43054
+        },
+        {
+            "title": "The Young David",
+            "date": "1473-75",
+            "technique": "Bronze height 125 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43055
+        },
+        {
+            "title": "The Young David",
+            "date": "1473-75",
+            "technique": "Bronze height 125 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43056
+        },
+        {
+            "title": "The Young David",
+            "date": "1473-75",
+            "technique": "Bronze height 125 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43057
+        },
+        {
+            "title": "The Young David (detail)",
+            "date": "1473-75",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43058
+        },
+        {
+            "title": "The Young David (detail)",
+            "date": "1473-75",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43059
+        },
+        {
+            "title": "The Young David (detail)",
+            "date": "1473-75",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/v/verocchi/sculptur/y_david5.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43060
+        },
+        {}
+    ]
+}

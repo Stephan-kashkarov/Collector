@@ -1,0 +1,49 @@
+{
+    "name": "MACHUCA Pedro",
+    "life": "(b. 1490/95 Toledo d. 1550 Granada)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Deposition",
+            "date": "1520-23",
+            "technique": "Oil on panel 141 x 128 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/machuca/descent1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23522
+        },
+        {
+            "title": "Descent from the Cross (with original frame)",
+            "date": "1547",
+            "technique": "Panel 141 x 128 cm (incl. frame)",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/machuca/descent2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23523
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/m/machuca/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23524
+        },
+        {
+            "title": "The Virgin and Souls in Purgatory",
+            "date": "1517",
+            "technique": "Oil on panel 167 x 135 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/machuca/virgin_s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23525
+        },
+        {}
+    ]
+}

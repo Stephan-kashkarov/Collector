@@ -1,0 +1,29 @@
+{
+    "name": "SYRLIN J\u00f6rg the Elder",
+    "life": "(b. 1420s Ulm d. 1481 Ulm)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Choir stalls",
+            "date": "1469-74",
+            "technique": "Oak",
+            "location": "M\u00fcnster Ulm",
+            "url": "https://www.wga.hu/html/s/syrlin/stalls1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 38422
+        },
+        {
+            "title": "Ptolemy",
+            "date": "1469-74",
+            "technique": "Oak",
+            "location": "M\u00fcnster Ulm",
+            "url": "https://www.wga.hu/html/s/syrlin/stalls2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 38423
+        },
+        {}
+    ]
+}

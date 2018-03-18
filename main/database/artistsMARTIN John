@@ -1,0 +1,79 @@
+{
+    "name": "MARTIN John",
+    "life": "(b. 1789 Haydon Bridge d. 1854 Douglas Isle of Man)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Bard",
+            "date": "c. 1817",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "Yale Center for British Art New Haven",
+            "url": "https://www.wga.hu/html/m/martin/bard.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24380
+        },
+        {
+            "title": "The City of God and the Waters of Life",
+            "date": "1850-51",
+            "technique": "Oil on canvas 46 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/martin/city_god.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24381
+        },
+        {
+            "title": "The Eve of the Deluge",
+            "date": "1840",
+            "technique": "Oil on canvas 143 x 218 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/m/martin/deluge.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24382
+        },
+        {
+            "title": "The Evening of the Deluge",
+            "date": "1828",
+            "technique": "Mezzotint and engraving 597 x 817 mm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/m/martin/deluge1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 24383
+        },
+        {
+            "title": "Manfred and the Alpine Witch",
+            "date": "1837",
+            "technique": "Watercolour 388 x 558 mm",
+            "location": "Whitworth Art Gallery Manchester",
+            "url": "https://www.wga.hu/html/m/martin/manfred.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 24384
+        },
+        {
+            "title": "Pandemonium",
+            "date": "1841",
+            "technique": "Oil on canvas 123 x 184 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/martin/pandemon.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 24385
+        },
+        {
+            "title": "Great Day of His Wrath",
+            "date": "1851-53",
+            "technique": "Oil on canvas 197 x 303 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/m/martin/wrath.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24386
+        },
+        {}
+    ]
+}

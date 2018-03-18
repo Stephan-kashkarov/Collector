@@ -1,0 +1,29 @@
+{
+    "name": "GU\u00c9LARD Jean-Baptiste-Antoine",
+    "life": "(1719-c. 1755)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Rest on the Hunt",
+            "date": "1743",
+            "technique": "Engraving",
+            "location": "Smithsonian Institution Libraries Washington",
+            "url": "https://www.wga.hu/html/g/guelard/resthunt.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 18849
+        },
+        {
+            "title": "The Sculptor",
+            "date": "1743",
+            "technique": "Engraving",
+            "location": "Smithsonian Institution Libraries Washington",
+            "url": "https://www.wga.hu/html/g/guelard/sculptur.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 18850
+        },
+        {}
+    ]
+}

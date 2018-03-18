@@ -1,0 +1,29 @@
+{
+    "name": "DAUTHE Johann Carl Friedrich",
+    "life": "(b. 1746 Leipzig d. 1816 Bad Flinsberg)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "1783-97",
+            "technique": "Photo",
+            "location": "St. Nicolai church Leipzig",
+            "url": "https://www.wga.hu/html/d/dauthe/nicolai.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 10875
+        },
+        {
+            "title": "Interior view",
+            "date": "1783-97",
+            "technique": "Photo",
+            "location": "Nicolaikirche Leipzig",
+            "url": "https://www.wga.hu/html/d/dauthe/nicolai1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 10876
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "HUNT William Holman",
+    "life": "(b. 1827 London d. 1910 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Awakening Conscience",
+            "date": "1853",
+            "technique": "Oil on canvas 76 x 55 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/h/hunt/awakenin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20294
+        },
+        {
+            "title": "The Scapegoat",
+            "date": "1854",
+            "technique": "Oil on canvas 86 x 136 cm",
+            "location": "Lady Lever Art Gallery Port Sunlight Merseyside",
+            "url": "https://www.wga.hu/html/h/hunt/scapegoa.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20295
+        },
+        {
+            "title": "The Light of the World",
+            "date": "1853-54",
+            "technique": "Oil on canvas on wood 125 x 60 cm",
+            "location": "Keble College Oxford",
+            "url": "https://www.wga.hu/html/h/hunt/thelight.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20296
+        },
+        {
+            "title": "The Lady of Shalott",
+            "date": "1886-1905",
+            "technique": "Oil on canvas 189 x 146 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/h/hunt/x_lady.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20297
+        },
+        {
+            "title": "The Lady of Shalott (detail)",
+            "date": "1886-1905",
+            "technique": "Oil on canvas",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/h/hunt/y_lady183c.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20298
+        },
+        {}
+    ]
+}

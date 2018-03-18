@@ -1,0 +1,69 @@
+{
+    "name": "GERHARD Hubert",
+    "life": "(b. ca. 1550 s'Hertogenbosch d. 1620 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Allegory of Bavaria",
+            "date": "c. 1590",
+            "technique": "Cast bronze height 231 cm",
+            "location": "Residenzmuseum Munich",
+            "url": "https://www.wga.hu/html/g/gerhard/bavaria.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15257
+        },
+        {
+            "title": "The Allegory of Bavaria",
+            "date": "c. 1590",
+            "technique": "Cast bronze height 231 cm",
+            "location": "Residenzmuseum Munich",
+            "url": "https://www.wga.hu/html/g/gerhard/bavaria2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15258
+        },
+        {
+            "title": "Augustus Fountain (detail)",
+            "date": "1589-94",
+            "technique": "Bronze",
+            "location": "Augsburg",
+            "url": "https://www.wga.hu/html/g/gerhard/fountain.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15259
+        },
+        {
+            "title": "St Michael Slaying the Devil",
+            "date": "1588",
+            "technique": "Bronze larger than life-size",
+            "location": "Michaelskirche Munich",
+            "url": "https://www.wga.hu/html/g/gerhard/michael.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 15260
+        },
+        {
+            "title": "Tarquinius and Lucretia",
+            "date": "1605-10",
+            "technique": "Bronze 50 x 38 x 39 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/gerhard/tarquini.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15261
+        },
+        {
+            "title": "Venus and Mars with Cupid",
+            "date": "1584-94",
+            "technique": "Bronze height 210 cm",
+            "location": "Bayerisches Nationalmuseum Munich",
+            "url": "https://www.wga.hu/html/g/gerhard/venus_ma.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15262
+        },
+        {}
+    ]
+}

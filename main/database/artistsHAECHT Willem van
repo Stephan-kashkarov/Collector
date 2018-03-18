@@ -1,0 +1,29 @@
+{
+    "name": "HAECHT Willem van",
+    "life": "(b. 1593 Antwerpen d. 1637 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Apelles Painting Campaspe",
+            "date": "c. 1630",
+            "technique": "Oil on panel 105 x 149 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/haecht/campaspe.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 19043
+        },
+        {
+            "title": "The Gallery of Cornelis van der Geest",
+            "date": "1628",
+            "technique": "Oil on panel 100 x 130 cm",
+            "location": "Rubenshuis Antwerp",
+            "url": "https://www.wga.hu/html/h/haecht/gallery.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 19044
+        },
+        {}
+    ]
+}

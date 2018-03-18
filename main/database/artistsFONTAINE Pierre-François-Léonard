@@ -1,0 +1,49 @@
+{
+    "name": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+    "life": "(b. 1762 Cergy d. 1853 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Arc de Triomphe du Carrousel Paris",
+            "url": "https://www.wga.hu/html/f/fontaine/carrouse.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13972
+        },
+        {
+            "title": "Bedroom of Napoleon's Wife Josephine",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "url": "https://www.wga.hu/html/f/fontaine/malmais1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13973
+        },
+        {
+            "title": "Library",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "url": "https://www.wga.hu/html/f/fontaine/malmais2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13974
+        },
+        {
+            "title": "General view",
+            "date": "begun 1802",
+            "technique": "Photo",
+            "location": "Rue de Rivoli Paris",
+            "url": "https://www.wga.hu/html/f/fontaine/rivoli.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13975
+        },
+        {}
+    ]
+}

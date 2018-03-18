@@ -1,0 +1,59 @@
+{
+    "name": "UTENS Giusto",
+    "life": "(active 1599 d. 1609 in Carrara)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Villa Medicea Cafaggiolo",
+            "date": "1599",
+            "technique": "Fresco",
+            "location": "Museo di Firenze com'era Florence",
+            "url": "https://www.wga.hu/html/u/utens/cafaggi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 41900
+        },
+        {
+            "title": "Villa Medicea Cafaggiolo (detail)",
+            "date": "1599",
+            "technique": "Fresco",
+            "location": "Museo di Firenze com'era Florence",
+            "url": "https://www.wga.hu/html/u/utens/cafaggi1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 41901
+        },
+        {
+            "title": "Villa Medicea di Castello",
+            "date": "1599",
+            "technique": "Fresco",
+            "location": "Museo di Firenze com'era Florence",
+            "url": "https://www.wga.hu/html/u/utens/castello.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 41902
+        },
+        {
+            "title": "Palazzo Pitti and the Forte Belvedere",
+            "date": "1599",
+            "technique": "Fresco",
+            "location": "Museo di Firenze com'era Florence",
+            "url": "https://www.wga.hu/html/u/utens/pitti.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 41903
+        },
+        {
+            "title": "Villa di Pratolino",
+            "date": "1598",
+            "technique": "Oil on canvas",
+            "location": "Museo del Firenze com'era Florence",
+            "url": "https://www.wga.hu/html/u/utens/pratolin.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 41904
+        },
+        {}
+    ]
+}

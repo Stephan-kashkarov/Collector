@@ -1,0 +1,89 @@
+{
+    "name": "COORTE Adriaen",
+    "life": "(active 1683-1707 around Middelburg)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Three Medlars with a Butterfly",
+            "date": "c. 1705",
+            "technique": "Oil on paper on panel 27 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coorte/3medlars.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9428
+        },
+        {
+            "title": "Still-Life with Peaches",
+            "date": "1693-95",
+            "technique": "Oil on paper laid down on panel 31 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coorte/4peaches.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9429
+        },
+        {
+            "title": "Five Shells on a Slab of Stone",
+            "date": "1696",
+            "technique": "Paper mounted on wood 15 x 22 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/coorte/5shells.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9430
+        },
+        {
+            "title": "Still-Life with Sea Shells",
+            "date": "1696",
+            "technique": "Oil on paper laid down on board 21 x 14 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coorte/6shells.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9431
+        },
+        {
+            "title": "Still-Life with Asparagus",
+            "date": "1697",
+            "technique": "Oil on paper on panel 25 x 21 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/coorte/asparagu.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9432
+        },
+        {
+            "title": "Still-Life with Asparagus and Red Currants",
+            "date": "1696",
+            "technique": "Oil on canvas 34 x 25 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/coorte/asparagx.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9433
+        },
+        {
+            "title": "Wild Strawberries on a Ledge",
+            "date": "1704",
+            "technique": "Oil on paper laid down on panel 14 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coorte/strawber.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9434
+        },
+        {
+            "title": "Still-Life with Wild Strawberries",
+            "date": "1705",
+            "technique": "Oil on paper on panel 17 x 14 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/c/coorte/strawbex.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9435
+        },
+        {}
+    ]
+}

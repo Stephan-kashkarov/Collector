@@ -1,0 +1,59 @@
+{
+    "name": "RESTOUT Jean II",
+    "life": "(b. 1692 Rouen d. 1768 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Abraham and the Three Angels",
+            "date": "-",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/restout/jean2/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34120
+        },
+        {
+            "title": "Ananias Restoring the Sight of St Paul",
+            "date": "1719",
+            "technique": "Oil on canvas 90 x 80 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/restout/jean2/ananias.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34121
+        },
+        {
+            "title": "Pentecost",
+            "date": "1732",
+            "technique": "Oil on canvas 465 x 778 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/restout/jean2/pentecos.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34122
+        },
+        {
+            "title": "Pentecost (detail)",
+            "date": "1732",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/restout/jean2/pentecox.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34123
+        },
+        {
+            "title": "The Death of St Scholastica",
+            "date": "1730",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Tours",
+            "url": "https://www.wga.hu/html/r/restout/jean2/scholasti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34124
+        },
+        {}
+    ]
+}

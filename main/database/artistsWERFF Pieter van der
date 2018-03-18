@@ -1,0 +1,59 @@
+{
+    "name": "WERFF Pieter van der",
+    "life": "(b. 1665 Kralingen d. 1722 Rotterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Granida and Diafilo",
+            "date": "1711",
+            "technique": "Oil on panel 37 x 29 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/w/werff/pieter/granida.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43902
+        },
+        {
+            "title": "Portrait of Peter the Great",
+            "date": "1690s",
+            "technique": "Oil on canvas 56 x 50 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/werff/pieter/p_peter.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43903
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1710s",
+            "technique": "Oil on canvas 74 x 60 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/werff/pieter/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43904
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1700",
+            "technique": "Oil on canvas 48 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/werff/pieter/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43905
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1705",
+            "technique": "Oil on canvas 48 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/werff/pieter/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43906
+        },
+        {}
+    ]
+}

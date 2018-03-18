@@ -1,0 +1,99 @@
+{
+    "name": "MASTER E.S.",
+    "life": "(active 1450-1467 Upper Rhine)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Man of Sorrows between Four Angels",
+            "date": "c. 1460",
+            "technique": "Copper engraving 151 x 113 mm",
+            "location": "Kupferstichkabinett Dresden",
+            "url": "https://www.wga.hu/html/m/master/es/0mansorr.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24651
+        },
+        {
+            "title": "The Large Virgin of Einsiedeln",
+            "date": "1466",
+            "technique": "Engraving handcolored 206 x 123 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/es/1virgin.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24652
+        },
+        {
+            "title": "The Small Virgin of Einsiedeln",
+            "date": "1466",
+            "technique": "Engraving handcolored 133 x 87 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/es/2virgin.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24653
+        },
+        {
+            "title": "The Smallest Virgin of Einsiedeln",
+            "date": "1466",
+            "technique": "Engraving handcolored 97 x 65 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/es/3virgin.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24654
+        },
+        {
+            "title": "Knight Playing Card",
+            "date": "c. 1450",
+            "technique": "Engraving",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/es/4card.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 24655
+        },
+        {
+            "title": "Letter G from the Fantastic Alphabet",
+            "date": "1465",
+            "technique": "Engraving 146 x 170 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/es/5letterg.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 24656
+        },
+        {
+            "title": "Letter N from the Fantastic Alphabet",
+            "date": "1465",
+            "technique": "Engraving 138 x 170 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/es/5lettern.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 24657
+        },
+        {
+            "title": "Virgin and Child with Sts Barbara and Dorothea",
+            "date": "1450s",
+            "technique": "Engraving 145 x 102 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/es/6virgin.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24658
+        },
+        {
+            "title": "Christ as Saviour",
+            "date": "c. 1467",
+            "technique": "Engraving second of two states 154 x 111 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/es/7saviour.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24659
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "MARCHIONNI Carlo",
+    "life": "(b. 1702 Roma d. 1786 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1743-63",
+            "technique": "Photo",
+            "location": "Villa Albani Rome",
+            "url": "https://www.wga.hu/html/m/marchion/villalba.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24197
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1743",
+            "technique": "Photo",
+            "location": "Villa Albani Rome",
+            "url": "https://www.wga.hu/html/m/marchion/villalbb.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24198
+        },
+        {}
+    ]
+}

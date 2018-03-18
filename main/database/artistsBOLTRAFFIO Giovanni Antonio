@@ -1,0 +1,149 @@
+{
+    "name": "BOLTRAFFIO Giovanni Antonio",
+    "life": "(b. ca. 1467 Milano d. 1516 Milano)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St Barbara",
+            "date": "1493-99",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/boltraff/barbara.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4934
+        },
+        {
+            "title": "Portrait of a Notable",
+            "date": "1500-10",
+            "technique": "Oil on panel 58 x 43 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/boltraff/casio.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4935
+        },
+        {
+            "title": "Portrait of Gerolamo Casio",
+            "date": "c. 1495",
+            "technique": "Oil on panel 52 x 43 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/boltraff/casio1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4936
+        },
+        {
+            "title": "Portrait of a Lady as St Lucy",
+            "date": "c. 1500",
+            "technique": "Oil on panel 52 x 37 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/boltraff/ladylucy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4937
+        },
+        {
+            "title": "Virgin and Child with Sts John the Baptist and Sebastian (Pala Casio)",
+            "date": "1500",
+            "technique": "Oil on poplar panel 186 x 184 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/boltraff/palacasi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4938
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1500-10",
+            "technique": "Oil on panel 49 x 39 cm",
+            "location": "Collezione Borromeo Isola Bella",
+            "url": "https://www.wga.hu/html/b/boltraff/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4939
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/b/boltraff/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4940
+        },
+        {
+            "title": "St Sebastian",
+            "date": "-",
+            "technique": "Oil on wood transferred to canvas 48 x 36 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/b/boltraff/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4941
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1490s",
+            "technique": "Oil on panel 83 x 635 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/boltraff/virgchil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4942
+        },
+        {
+            "title": "The Virgin and Child (detail)",
+            "date": "1490s",
+            "technique": "Panel",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/boltraff/virgchix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4943
+        },
+        {
+            "title": "Virgin and Child with a Flower Vase",
+            "date": "1485-90",
+            "technique": "Panel 46 x 36 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/b/boltraff/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4944
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1493-99",
+            "technique": "Oil on wood 92 x 67 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/boltraff/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4945
+        },
+        {
+            "title": "Study of Drapery",
+            "date": "c. 1490",
+            "technique": "Metalpoint with touches of white on blue prepared paper 285 x 213 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/boltraff/z_study1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 4946
+        },
+        {
+            "title": "Study of Drapery",
+            "date": "1480-85",
+            "technique": "Metalpoint and brown wash on blue prepared paper 251 x 187 mm",
+            "location": "Christ Church Picture Gallery Oxford",
+            "url": "https://www.wga.hu/html/b/boltraff/z_study2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 4947
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "PALMERINO DI GUIDO",
+    "life": "(active c. 1296-c. 1309)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "St Nicholas Throwing the Gold Bars to Three Poor Girls",
+            "date": "1300-01",
+            "technique": "Fresco",
+            "location": "Chapel of St Nicholas Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/p/palmerin/1nichola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30276
+        },
+        {
+            "title": "St Nicholas Forgiving the Consul",
+            "date": "1300-01",
+            "technique": "Fresco",
+            "location": "Chapel of St Nicholas Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/p/palmerin/2nichola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30277
+        },
+        {
+            "title": "St Nicholas Saving Three Innocents from Decapitation",
+            "date": "1300-01",
+            "technique": "Fresco",
+            "location": "Chapel of St Nicholas Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/p/palmerin/3nichola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30278
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "BENAGLIO Francesco",
+    "life": "(b. ca. 1430 Verona d. ca. 1492 Verona)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Virgin and Child",
+            "date": "1480s",
+            "technique": "Oil on panel 38 x 30 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/benaglio/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4022
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1465",
+            "technique": "Tempera on panel 78 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/benaglio/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4023
+        },
+        {}
+    ]
+}

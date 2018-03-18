@@ -1,0 +1,149 @@
+{
+    "name": "AMIGONI Jacopo",
+    "life": "(b. 1682 Napoli d. 1752 Madrid)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of a Gentlemen in Blue Jacket",
+            "date": "-",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/gentlema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 465
+        },
+        {
+            "title": "Joseph in the Pharaoh's Palace",
+            "date": "-",
+            "technique": "Oil on canvas 283 x 325 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/amigoni/joseph.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 466
+        },
+        {
+            "title": "Juno Receiving the Head of Argos",
+            "date": "1730-32",
+            "technique": "Oil on canvas 108 x 72 cm",
+            "location": "Moor Park Rickmansworth Hertfordshire",
+            "url": "https://www.wga.hu/html/a/amigoni/juno.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 467
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on canvas 129 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 468
+        },
+        {
+            "title": "Jael and Sisera",
+            "date": "c. 1739",
+            "technique": "Oil on canvas",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/a/amigoni/sisera.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 469
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "c. 1740",
+            "technique": "Oil on canvas 45 x 75 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/a/amigoni/venus_a1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 470
+        },
+        {
+            "title": "Venus and Adonis (detail)",
+            "date": "c. 1740",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/a/amigoni/venus_a2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 471
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "-",
+            "technique": "Oil on canvas 142 x 173 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/a/amigoni/venus_a3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 472
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 93 x 126 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/venus_a4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 473
+        },
+        {
+            "title": "Venus and Adonis (detail)",
+            "date": "c. 1739",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/venus_a5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 474
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "1730s",
+            "technique": "Oil on canvas 104 x 129 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/venus1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 475
+        },
+        {
+            "title": "Bacchus and Ariadne",
+            "date": "1730s",
+            "technique": "Oil on canvas 104 x 129 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/venus2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 476
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on canvas 26 c 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 477
+        },
+        {
+            "title": "Flora and Zephyr",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 158 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amigoni/zephyr.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 478
+        },
+        {}
+    ]
+}

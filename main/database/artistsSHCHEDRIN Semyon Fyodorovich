@@ -1,0 +1,39 @@
+{
+    "name": "SHCHEDRIN Semyon Fyodorovich",
+    "life": "(b. 1745 St. Petersburg d. 1804 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Landscape with a Farm in the Park in Tsarskoye Selo",
+            "date": "-",
+            "technique": "Gouache and Indian ink on cardboard 58 x 73 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/shchedri/semyon/landsca1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36982
+        },
+        {
+            "title": "View of the Large Pond in the Park in Tsarskoye Selo",
+            "date": "1777",
+            "technique": "Pen and brush and Indian ink gouache and lacquer on paper pasted on cardboard 577 x 752 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/shchedri/semyon/landsca2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36983
+        },
+        {
+            "title": "Stone Bridge in Gatchina near Constable Square",
+            "date": "1799-1800",
+            "technique": "Oil on canvas",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/s/shchedri/semyon/landsca3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36984
+        },
+        {}
+    ]
+}

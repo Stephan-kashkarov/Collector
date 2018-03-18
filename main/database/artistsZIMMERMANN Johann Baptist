@@ -1,0 +1,29 @@
+{
+    "name": "ZIMMERMANN Johann Baptist",
+    "life": "(b. 1680 Wessobrunn d. 1758 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Interior with ceiling fresco",
+            "date": "1733",
+            "technique": "-",
+            "location": "St. Peter und Paul Steinhausen",
+            "url": "https://www.wga.hu/html/z/zimmerma/johann/steinhau.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44660
+        },
+        {
+            "title": "The Nymph as Symbol of Nymphenburg",
+            "date": "1757",
+            "technique": "Ceiling fresco",
+            "location": "Schloss Nymphenburg Munich",
+            "url": "https://www.wga.hu/html/z/zimmerma/johann/thenymph.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 44661
+        },
+        {}
+    ]
+}

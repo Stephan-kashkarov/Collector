@@ -1,0 +1,69 @@
+{
+    "name": "TEMPEL Abraham van den",
+    "life": "(b. 1622 Leeuwarden d. 1672 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Mars Banishes 'Nering'",
+            "date": "1651",
+            "technique": "Oil on canvas 207 x 266 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/t/tempel/1allegor.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38536
+        },
+        {
+            "title": "The Maid of Leiden Welcomes 'Nering'",
+            "date": "1651",
+            "technique": "Oil on canvas 207 x 267 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/t/tempel/2allegor.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38537
+        },
+        {
+            "title": "Minerva Crowns the Maid of Leiden",
+            "date": "1650",
+            "technique": "Oil on canvas 176 x 221 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/t/tempel/3allegor.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 38538
+        },
+        {
+            "title": "Family Portrait",
+            "date": "1665-70",
+            "technique": "Oil on canvas 132 x 181 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tempel/port_fam.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38539
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1660-63",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/t/tempel/port_lad.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38540
+        },
+        {
+            "title": "Portrait of Jacquemijna Le Pla",
+            "date": "1666",
+            "technique": "Oil on canvas 115 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tempel/port_pla.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38541
+        },
+        {}
+    ]
+}

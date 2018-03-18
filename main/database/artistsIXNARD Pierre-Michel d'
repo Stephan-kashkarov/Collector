@@ -1,0 +1,29 @@
+{
+    "name": "IXNARD Pierre-Michel d'",
+    "life": "(b. 1723 Nimes d. 1795 Strasbourg)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1768-83",
+            "technique": "Photo",
+            "location": "Abbey church St. Blasien Black Forest",
+            "url": "https://www.wga.hu/html/i/ixnard/blasien1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20426
+        },
+        {
+            "title": "Interior view",
+            "date": "1768-83",
+            "technique": "Photo",
+            "location": "Abbey church St. Blasien Black Forest",
+            "url": "https://www.wga.hu/html/i/ixnard/blasien2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 20427
+        },
+        {}
+    ]
+}

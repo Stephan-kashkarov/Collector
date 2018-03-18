@@ -1,0 +1,39 @@
+{
+    "name": "SOLARI Santino",
+    "life": "(b. 1576 Verna d. 1646 Salzburg)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1614-28",
+            "technique": "Photo",
+            "location": "Cathedral Salzburg",
+            "url": "https://www.wga.hu/html/s/solari_s/salzbur1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37572
+        },
+        {
+            "title": "Interior view",
+            "date": "1614-28",
+            "technique": "Photo",
+            "location": "Cathedral Salzburg",
+            "url": "https://www.wga.hu/html/s/solari_s/salzbur2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 37573
+        },
+        {
+            "title": "Interior view",
+            "date": "1614-28",
+            "technique": "Photo",
+            "location": "Cathedral Salzburg",
+            "url": "https://www.wga.hu/html/s/solari_s/salzbur3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 37574
+        },
+        {}
+    ]
+}

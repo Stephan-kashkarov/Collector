@@ -1,0 +1,69 @@
+{
+    "name": "DANCE-HOLLAND Nathaniel",
+    "life": "(b. 1735 London d. 1811 Winchester)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Official portrait of Captain James Cook",
+            "date": "1775-76",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/d/dance/captcook.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10759
+        },
+        {
+            "title": "Portrait of Lady Elizabeth Compton Later Countess of Burlington",
+            "date": "c. 1780",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dance/compton.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10760
+        },
+        {
+            "title": "Conversation Piece",
+            "date": "1750-55",
+            "technique": "Oil on canvas 51 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dance/conversa.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 10761
+        },
+        {
+            "title": "Portrait of Anne Countess of Albemarle",
+            "date": "c. 1770",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dance/portanne.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10762
+        },
+        {
+            "title": "Portrait of Mrs Paterson",
+            "date": "-",
+            "technique": "Oil on canvas 128 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dance/portpate.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10763
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1773",
+            "technique": "Oil on canvas 74 x 61 cm",
+            "location": "National Portrait Gallery London",
+            "url": "https://www.wga.hu/html/d/dance/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10764
+        },
+        {}
+    ]
+}

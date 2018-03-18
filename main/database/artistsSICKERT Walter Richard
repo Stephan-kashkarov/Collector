@@ -1,0 +1,29 @@
+{
+    "name": "SICKERT Walter Richard",
+    "life": "(b. 1860 M\u00fcnchen d. 1942 Bathampton)",
+    "school": "English",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Lion Comique",
+            "date": "1887",
+            "technique": "Oil on canvas 51 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sickert/comique.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37007
+        },
+        {
+            "title": "Bathers at Dieppe",
+            "date": "c. 1902",
+            "technique": "Oil on canvas 131 x 104 cm",
+            "location": "Walker Art Gallery Liverpool",
+            "url": "https://www.wga.hu/html/s/sickert/dieppe.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37008
+        },
+        {}
+    ]
+}

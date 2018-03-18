@@ -1,0 +1,1539 @@
+{
+    "name": "HALS Frans",
+    "life": "(b. 1580 Antwerpen d. 1666 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Jacobus Zaffius",
+            "date": "1611",
+            "technique": "Oil on panel 545 x 415 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/01zaffiu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19081
+        },
+        {
+            "title": "Portrait of a Man Holding a Skull",
+            "date": "c. 1611",
+            "technique": "Oil on panel 94 x 725 cm",
+            "location": "Barber Institute of Fine Arts Birmingham",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/02portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19082
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1611",
+            "technique": "Oil on panel 942 x 711 cm",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/03portwo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19083
+        },
+        {
+            "title": "Shrovetide Revellers",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 131 x 100 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/03xnoshr.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19084
+        },
+        {
+            "title": "Shrovetide Revellers (detail)",
+            "date": "c. 1615",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/03ynoshr.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19085
+        },
+        {
+            "title": "Pieter Cornelisz van der Morsch",
+            "date": "1616",
+            "technique": "Oil on panel transferred to canvas 881 695 cm",
+            "location": "Carnegie Museum of Art Pittsburgh",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/04morsch.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19086
+        },
+        {
+            "title": "Banquet of the Officers of the St George Civic Guard",
+            "date": "1616",
+            "technique": "Oil on canvas 175 x 324 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/04nooff.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19087
+        },
+        {
+            "title": "Banquet of the Officers of the St George Civic Guard (detail)",
+            "date": "1616",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/04nooff1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19088
+        },
+        {
+            "title": "Theodorus Schrevelius",
+            "date": "1617",
+            "technique": "Oil on copper set into a wooden panel 16 x 12 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/05schrev.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19089
+        },
+        {
+            "title": "Paulus van Beresteyn",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 1371 x 104 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/06berest.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19090
+        },
+        {
+            "title": "Catharina Both van der Eem",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 1372 x 998 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/07dereem.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19091
+        },
+        {
+            "title": "The Rommel Pot Player",
+            "date": "1618-22",
+            "technique": "Oil on canvas 106 x 803 cm",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/08romme.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19092
+        },
+        {
+            "title": "The Rommel Pot Player (detail)",
+            "date": "1618-22",
+            "technique": "Oil on canvas",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/08romme1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19093
+        },
+        {
+            "title": "Catharina Hooft with her Nurse",
+            "date": "1619-20",
+            "technique": "Oil on canvas 68 x 65 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/09chilnu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19094
+        },
+        {
+            "title": "Catharina Hooft with her Nurse (detail)",
+            "date": "1619-20",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/09chilnv.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19095
+        },
+        {
+            "title": "Catharina Hooft with her Nurse (detail)",
+            "date": "1619-20",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/09chilnx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19096
+        },
+        {
+            "title": "Group of Children",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 1506 x 1075 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/h/hals/frans/00-1620/09nogrou.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19097
+        },
+        {
+            "title": "Family Portrait in a Landscape",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 151 x 1636 cm",
+            "location": "Viscount Boyne Bridgnorth Shropshire",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/10family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19098
+        },
+        {
+            "title": "Three Children with a Goat Cart",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 152 x 1075 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/11goatc.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19099
+        },
+        {
+            "title": "Three Children with a Goat Cart (detail)",
+            "date": "c. 1620",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/11goatc1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19100
+        },
+        {
+            "title": "Married Couple in a Garden",
+            "date": "c. 1622",
+            "technique": "Oil on canvas 140 x 1665 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/12coupl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19101
+        },
+        {
+            "title": "Married Couple in a Garden (detail)",
+            "date": "c. 1622",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/12coupl1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19102
+        },
+        {
+            "title": "Married Couple in a Garden (detail)",
+            "date": "c. 1622",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/12coupl2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19103
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1622",
+            "technique": "Oil on canvas mounted on panel 107 x 85 cm",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/13portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19104
+        },
+        {
+            "title": "Buffoon Playing a Lute",
+            "date": "c. 1623",
+            "technique": "Oil on canvas 70 x 62 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/14buffoo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19105
+        },
+        {
+            "title": "Young Man and Woman in an Inn",
+            "date": "1623",
+            "technique": "Oil on canvas 105 x 79 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/14nojonk.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19106
+        },
+        {
+            "title": "Singing Boy with a Flute",
+            "date": "1623-25",
+            "technique": "Oil on canvas 62 x 55 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/15singin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19107
+        },
+        {
+            "title": "Laughing Child",
+            "date": "c. 1623",
+            "technique": "Oil on panel diameter 30 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/hals/frans/01-1623/16laughi.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19108
+        },
+        {
+            "title": "The Laughing Cavalier",
+            "date": "1624",
+            "technique": "Oil on canvas 83 x 67 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/16nolaug.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19109
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/16noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19110
+        },
+        {
+            "title": "Portrait of a Bearded Man with a Ruff",
+            "date": "1625",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/16portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19111
+        },
+        {
+            "title": "Willem van Heythuyzen",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 2045 x 1345 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/17heythu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19112
+        },
+        {
+            "title": "Two Boys Singing",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 67 x 52 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/17no2boy.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19113
+        },
+        {
+            "title": "Two Boys Singing (detail)",
+            "date": "c. 1625",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/17no2boz.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19114
+        },
+        {
+            "title": "Boy with a Lute",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 72 x 59 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/17no3boy.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19115
+        },
+        {
+            "title": "Jacob Pietersz Olycan",
+            "date": "1625",
+            "technique": "Oil on canvas 1246 x 973 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/18olycan.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19116
+        },
+        {
+            "title": "The Smoker",
+            "date": "c. 1625",
+            "technique": "Oil on wood 47 x 50 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/18smoker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19117
+        },
+        {
+            "title": "Anetta Hanemans",
+            "date": "1625",
+            "technique": "Oil on canvas 1248 x 982 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/19hanema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19118
+        },
+        {
+            "title": "Petrus Scriverius",
+            "date": "1626",
+            "technique": "Oil on panel 22 x 17 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/20scrive.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19119
+        },
+        {
+            "title": "Anna van der Aar",
+            "date": "1626",
+            "technique": "Oil on panel 22 x 17 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/20vanaar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19120
+        },
+        {
+            "title": "Isaac Abrahamsz Massa",
+            "date": "1626",
+            "technique": "Oil on canvas 795 x 65 cm",
+            "location": "Art Gallery of Ontario Toronto",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/21massa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19121
+        },
+        {
+            "title": "St Luke",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 70 x 55 cm",
+            "location": "Museum of Western European and Oriental Art Odessa",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/22stluke.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19122
+        },
+        {
+            "title": "St Matthew",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 70 x 55 cm",
+            "location": "Museum of Western European and Oriental Art Odessa",
+            "url": "https://www.wga.hu/html/h/hals/frans/02-1626/23stmatt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19123
+        },
+        {
+            "title": "Verdonck",
+            "date": "c. 1627",
+            "technique": "Oil on panel 467 x 356 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/24verdon.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19124
+        },
+        {
+            "title": "Singing Girl",
+            "date": "1626-30",
+            "technique": "Oil on panel (lozenge) 182 x 184 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/25singin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19125
+        },
+        {
+            "title": "Boy Playing a Violin",
+            "date": "1625-30",
+            "technique": "Oil on panel (lozenge) 184 x 188 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/26boyvio.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19126
+        },
+        {
+            "title": "Drinking Boy (Taste)",
+            "date": "1626-28",
+            "technique": "Oil on circular panel diameter 38 cm",
+            "location": "Staatliches Museum Schwerin",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/27drinki.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19127
+        },
+        {
+            "title": "Boy holding a Flute (Hearing)",
+            "date": "1626-28",
+            "technique": "Oil on circular panel diameter 375 cm",
+            "location": "Staatliches Museum Schwerin",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/28boyflu.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19128
+        },
+        {
+            "title": "Banquet of the Officers of the St George Civic Guard Company",
+            "date": "c. 1627",
+            "technique": "Oil on canvas 179 x 2575 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/29nogeo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19129
+        },
+        {
+            "title": "Banquet of the Officers of the St Hadrian Civic Guard Company",
+            "date": "c. 1627",
+            "technique": "Oil on canvas 179 x 2575 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/29nohad.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19130
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1627",
+            "technique": "Oil on canvas 20 x 14 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/29noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19131
+        },
+        {
+            "title": "Young Man with a Skull (Vanitas)",
+            "date": "1626-28",
+            "technique": "Oil on canvas 922 x 808 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/29vanita.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19132
+        },
+        {
+            "title": "The Merry Drinker",
+            "date": "1628-30",
+            "technique": "Oil on canvas 81 x 665 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/30drink.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19133
+        },
+        {
+            "title": "The Merry Drinker (detail)",
+            "date": "1628-30",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/30drink1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19134
+        },
+        {
+            "title": "Peeckelhaering",
+            "date": "1628-30",
+            "technique": "Oil on canvas 75 x 615 cm",
+            "location": "Staatliche Kunstsammlungen Kassel",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/31peecke.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19135
+        },
+        {
+            "title": "Peeckelhaering (detail)",
+            "date": "1628-30",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Kunstsammlungen Kassel",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/31peeckf.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19136
+        },
+        {
+            "title": "Mulatto (so-called)",
+            "date": "1628-30",
+            "technique": "Oil on canvas 72 x 575 cm (original support)",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/32mulatt.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19137
+        },
+        {
+            "title": "Gypsy Girl",
+            "date": "1628-30",
+            "technique": "Oil on wood 58 x 52 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/32nogyps.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19138
+        },
+        {
+            "title": "The Fisher Boy",
+            "date": "1630-32",
+            "technique": "Oil on canvas 74 x 61 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/34fish_b.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19139
+        },
+        {
+            "title": "Fisher Girl",
+            "date": "1630-32",
+            "technique": "Oil on canvas 806 x 667 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/35fish_g.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19140
+        },
+        {
+            "title": "Fisher Boy",
+            "date": "1630-32",
+            "technique": "Oil on canvas 72 x 58 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/h/hals/frans/03-1630/36fish_b.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19141
+        },
+        {
+            "title": "Nicolaes Hasselaer",
+            "date": "1630-35",
+            "technique": "Oil on canvas 795 x 665 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/36nohass.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19142
+        },
+        {
+            "title": "Malle Babbe",
+            "date": "1633-35",
+            "technique": "Oil on canvas 75 x 64 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/37malle.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19143
+        },
+        {
+            "title": "Malle Babbe (detail)",
+            "date": "1633-35",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/37malle1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19144
+        },
+        {
+            "title": "Malle Babbe",
+            "date": "1635-49",
+            "technique": "Oil on canvas 75 x 61 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/37malle2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19145
+        },
+        {
+            "title": "Officers and Sergeants of the St Hadrian Civic Guard",
+            "date": "c. 1633",
+            "technique": "Oil on canvas 207 x 337 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/37nohad.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19146
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1630",
+            "technique": "Oil on canvas 1161 x 901 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/38portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19147
+        },
+        {
+            "title": "A Young Man in a Large Hat",
+            "date": "1628-30",
+            "technique": "Oil on panel 292 x 232 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/39young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19148
+        },
+        {
+            "title": "Samuel Ampzing",
+            "date": "c. 1630",
+            "technique": "Oil on copper 162 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/40ampzin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19149
+        },
+        {
+            "title": "Nicolaes Woutersz van der Meer",
+            "date": "1631",
+            "technique": "Oil on panel 128 x 1005 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/41meer.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19150
+        },
+        {
+            "title": "Cornelia Claesdr Vooght",
+            "date": "1631",
+            "technique": "Oil on panel 1265 x 101 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/42vooght.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19151
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1630-33",
+            "technique": "Oil on canvas 75 x 58 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/42xport1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19152
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1630-33",
+            "technique": "Oil on canvas 75 x 58 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/42xport2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19153
+        },
+        {
+            "title": "The Meagre Company",
+            "date": "1633-37",
+            "technique": "Oil on canvas 2073 x 4275 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19154
+        },
+        {
+            "title": "The Meagre Company (detail)",
+            "date": "1633-37",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19155
+        },
+        {
+            "title": "The Meagre Company (detail)",
+            "date": "1633-37",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19156
+        },
+        {
+            "title": "The Meagre Company (detail)",
+            "date": "1633-37",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19157
+        },
+        {
+            "title": "The Meagre Company (detail)",
+            "date": "1633-37",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19158
+        },
+        {
+            "title": "The Meagre Company (detail)",
+            "date": "1633-37",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/43meagr5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19159
+        },
+        {
+            "title": "Pieter van den Broecke",
+            "date": "c. 1633",
+            "technique": "Oil on canvas 712 x 61 cm",
+            "location": "Iveagh Bequest Kenwood House London",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/44broeck.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19160
+        },
+        {
+            "title": "Portrait of a Seated Woman",
+            "date": "1633",
+            "technique": "Oil on canvas 1025 x 869 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hals/frans/04-1633/45seated.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19161
+        },
+        {
+            "title": "Tieleman Roosterman",
+            "date": "1634",
+            "technique": "Oil on canvas 117 x 87 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/46anoroo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19162
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1634",
+            "technique": "Oil on canvas 83 x 70 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/46bnopor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19163
+        },
+        {
+            "title": "Portrait of a Man (detail)",
+            "date": "1634",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/46bnopoz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19164
+        },
+        {
+            "title": "Lucas de Clercq",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 1265 x 93 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/46clercq.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19165
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1635",
+            "technique": "Oil on oak 247 x 196 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/46noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19166
+        },
+        {
+            "title": "Feyntje van Steenkiste",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 123 x 93 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/47steenk.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19167
+        },
+        {
+            "title": "Isaac Abrahamsz Massa",
+            "date": "c. 1635",
+            "technique": "Oil on panel 203 x 186 cm",
+            "location": "San Diego Museum of Art San Diego",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/48massa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19168
+        },
+        {
+            "title": "Family Portrait",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 113 x 934 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/49family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19169
+        },
+        {
+            "title": "Jean de la Chambre",
+            "date": "1638",
+            "technique": "Oil on panel 206 x 168 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/50chambr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19170
+        },
+        {
+            "title": "Willem van Heythuysen",
+            "date": "c. 1638",
+            "technique": "Oil on panel 469 x 375 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/51heythu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19171
+        },
+        {
+            "title": "Claes Duyst van Voorhout",
+            "date": "c. 1638",
+            "technique": "Oil on canvas 81 x 66 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/52voorho.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19172
+        },
+        {
+            "title": "Andries van der Horn",
+            "date": "1638",
+            "technique": "Oil on canvas 86 x 67 cm",
+            "location": "Museu de Arte S\u00e3o Paulo",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/53nohorn.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19173
+        },
+        {
+            "title": "Tronie of a Young Man",
+            "date": "c. 1638",
+            "technique": "Oil on oak panel diameter 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/05-1638/54notron.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19174
+        },
+        {
+            "title": "Officers and Sergeants of the St George Civic Guard Company",
+            "date": "c. 1639",
+            "technique": "Oil on canvas 218 x 421 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/53nogeor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19175
+        },
+        {
+            "title": "Portrait of a Woman Holding a Fan",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 798 x 59 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/53portwo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19176
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 120 x 95 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/54nopor1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19177
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 120 x 945 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/54nopor2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19178
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1640",
+            "technique": "Oil on cannvas 845 x 675 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/54nopor3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19179
+        },
+        {
+            "title": "Regents of the St Elizabeth Hospital of Haarlem",
+            "date": "1641",
+            "technique": "Oil on canvas 153 x 252 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/54regen.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19180
+        },
+        {
+            "title": "Regents of the St Elizabeth Hospital of Haarlem (detail)",
+            "date": "1641",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/54regen1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19181
+        },
+        {
+            "title": "Portrait of a Man Holding a Book",
+            "date": "1640-43",
+            "technique": "Oil on canvas 66 x 485 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/55portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19182
+        },
+        {
+            "title": "Paulus Verschuur",
+            "date": "1643",
+            "technique": "Oil on canvas 119 x 94 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/56versch.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19183
+        },
+        {
+            "title": "Portrait of a Standing Man",
+            "date": "1643-45",
+            "technique": "Oil on canvas 115 x 861 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/57stan_m.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19184
+        },
+        {
+            "title": "Portrait of a Standing Woman",
+            "date": "1643-45",
+            "technique": "Oil on canvas 115 x 858 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/h/hals/frans/06-1643/58stan_w.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19185
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1644",
+            "technique": "Oil on wood 745 x 608 cm",
+            "location": "Six Collection Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/59noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19186
+        },
+        {
+            "title": "Seated Man Holding a Branch",
+            "date": "c. 1645",
+            "technique": "Oil on panel 424 x 33 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/59seated.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19187
+        },
+        {
+            "title": "Johannes Hoornbeek",
+            "date": "1645",
+            "technique": "Oil on canvas 795 x 68 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/60hoornb.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19188
+        },
+        {
+            "title": "Willem Coenraetsz Coymans",
+            "date": "1645",
+            "technique": "Oil on canvas 768 x 635 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/61coyman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19189
+        },
+        {
+            "title": "Jasper Schade",
+            "date": "c. 1645",
+            "technique": "Oil on canvas 80 x 675 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/62vestru.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19190
+        },
+        {
+            "title": "Portrait of a Seated Man Holding a Hat",
+            "date": "1648-50",
+            "technique": "Oil on canvas 1098 x 825 cm",
+            "location": "Taft Museum Cincinnati",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/63seat_m.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19191
+        },
+        {
+            "title": "Portrait of a Seated Woman Holding a Fan",
+            "date": "1648-50",
+            "technique": "Oil on canvas 1095 x 825 cm",
+            "location": "Taft Museum Cincinnati",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/64seat_w.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19192
+        },
+        {
+            "title": "Portrait of a Seated Woman (presumedly Maria Vernatti)",
+            "date": "1648-50",
+            "technique": "Oil on panel 35 x 29 cm",
+            "location": "Aurora Art Fund Bucharest",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/65vernat.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19193
+        },
+        {
+            "title": "Ren\u00e9 Descartes",
+            "date": "c. 1649",
+            "technique": "Oil on panel 19 x 14 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/66descar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19194
+        },
+        {
+            "title": "Family Group in a Landscape",
+            "date": "c. 1648",
+            "technique": "Oil on canvas 202 x 285 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/67famil.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19195
+        },
+        {
+            "title": "Family Group in a Landscape (detail)",
+            "date": "c. 1648",
+            "technique": "Oil on canvas",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/67famil1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19196
+        },
+        {
+            "title": "Family Group in a Landscape",
+            "date": "c. 1648",
+            "technique": "Oil on canvas 148 x 251 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hals/frans/07-1648/67nofami.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19197
+        },
+        {
+            "title": "Stephanus Geraerdts",
+            "date": "1650-52",
+            "technique": "Oil on canvas 115 x 87 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/68geraer.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19198
+        },
+        {
+            "title": "Isabella Coymans",
+            "date": "1650-52",
+            "technique": "Oil on canvas 116 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/69coyman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19199
+        },
+        {
+            "title": "Stephanus Geraerdts and Isabella Coymans",
+            "date": "1650-52",
+            "technique": "Oil on canvas 115 x 87 and 116 x 86 cm respectively",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp; private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/69gerae1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19200
+        },
+        {
+            "title": "Portrait of a Young Man Holding a Glove",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 80 x 67 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/69portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19201
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1650-52",
+            "technique": "Oil on canvas 111 x 86 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/70portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19202
+        },
+        {
+            "title": "Portrait of a Painter",
+            "date": "1650-52",
+            "technique": "Oil on canvas 100 x 83 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/71pend1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19203
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 100 x 82 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/71pend2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19204
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1650-52",
+            "technique": "Oil on canvas 115 x 845 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/71portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19205
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1648-50",
+            "technique": "Oil on canvas 108 x 80 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/72portwo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19206
+        },
+        {
+            "title": "The Painter Jan Asselyn",
+            "date": "1650s",
+            "technique": "Oil on canvas 645 x 463 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/73noasse.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19207
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1650-52",
+            "technique": "Oil on canvas 108 x 80 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/73noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19208
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1650-53",
+            "technique": "Oil on canvas 85 x 67 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/73portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19209
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1655-60",
+            "technique": "Oil on canvas 60 x 556 cm",
+            "location": "Ferens Art Gallery Kingston upon Hull",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/74portw.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19210
+        },
+        {
+            "title": "Portrait of a Woman (detail)",
+            "date": "1655-60",
+            "technique": "Oil on canvas",
+            "location": "Ferens Art Gallery Kingston upon Hull",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/74portw1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19211
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1555-60",
+            "technique": "Oil on canvas 104 x 845 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/75portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19212
+        },
+        {
+            "title": "Vincent Laurensz van der Vinne",
+            "date": "1655-60",
+            "technique": "Oil on canvas 648 x 489 cm",
+            "location": "Art Gallery of Ontario Toronto",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/76vinne.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19213
+        },
+        {
+            "title": "Frans Post",
+            "date": "c. 1655",
+            "technique": "Oil on panel 275 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/77post.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19214
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1655-60",
+            "technique": "Oil on canvas 104 x 85 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/78noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19215
+        },
+        {
+            "title": "Tyman Oosdorp",
+            "date": "1656",
+            "technique": "Oil on canvas 89 x 70 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/78notyma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19216
+        },
+        {
+            "title": "Portrait of Frans Hals",
+            "date": "1648-50",
+            "technique": "Oil on wood 34 x 25 cm",
+            "location": "Museum of Art Indianapolis",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/79selfpo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19217
+        },
+        {
+            "title": "Frans Hals",
+            "date": "1650s",
+            "technique": "Oil on wood 33 x 28 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/frans/08-1658/80selfpo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19218
+        },
+        {
+            "title": "Portrait of a Preacher",
+            "date": "1658-60",
+            "technique": "Oil on panel 355 x 295 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/78preach.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19219
+        },
+        {
+            "title": "Portrait of a Seated Woman",
+            "date": "1660-66",
+            "technique": "Oil on panel 45 x 34 cm",
+            "location": "Christ Church Picture Gallery Oxford",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/79seat_w.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19220
+        },
+        {
+            "title": "Willem Croes",
+            "date": "1662-66",
+            "technique": "Oil on wood 471 x 34 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/80croes.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19221
+        },
+        {
+            "title": "Willem Croes (detail)",
+            "date": "1662-66",
+            "technique": "Oil on wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/80croes1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19222
+        },
+        {
+            "title": "Herman Langelius",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 76 c 635 cm",
+            "location": "Mus\u00e9e de Picardie Amiens",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/81langel.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19223
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1660",
+            "technique": "Oil on wood 318 x 255 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/81noport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19224
+        },
+        {
+            "title": "Portrait of a Seated Man",
+            "date": "1660-66",
+            "technique": "Oil on canvas 69 x 605 cm",
+            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/82seat_m.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19225
+        },
+        {
+            "title": "Portrait of a Man in a Slouch Hat",
+            "date": "1660-66",
+            "technique": "Oil on canvas 795 x 665 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/83slouch.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19226
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1660-66",
+            "technique": "Oil on canvas 858 x 669 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/84portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19227
+        },
+        {
+            "title": "Regents of the Old Men's Almshouse",
+            "date": "1664",
+            "technique": "Oil on canvas 1725 x 256 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/85regen.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19228
+        },
+        {
+            "title": "Regents of the Old Men's Almshouse (detail)",
+            "date": "1664",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/85regen1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19229
+        },
+        {
+            "title": "Regentesses of the Old Men's Almshouse",
+            "date": "1664",
+            "technique": "Oil on canvas 1725 x 256 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/86regen.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19230
+        },
+        {
+            "title": "Regentesses of the Old Men's Almshouse (detail)",
+            "date": "1664",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/86regen1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19231
+        },
+        {
+            "title": "Regentesses of the Old Men's Almshouse (detail)",
+            "date": "1664",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/86regen2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19232
+        },
+        {
+            "title": "Regentesses of the Old Men's Almshouse (detail)",
+            "date": "1664",
+            "technique": "Oil on canvas",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/frans/09-1666/86regen3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19233
+        },
+        {}
+    ]
+}

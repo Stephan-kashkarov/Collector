@@ -1,0 +1,89 @@
+{
+    "name": "YKENS Frans",
+    "life": "(b. 1601 Antwerpen d. ca. 1692 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Flower Garland around the Holy Family",
+            "date": "-",
+            "technique": "Oil on canvas 147 x 120 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/y/ykens/garland.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44490
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 48 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/y/ykens/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44491
+        },
+        {
+            "title": "Still-Life",
+            "date": "1646",
+            "technique": "Oil on canvas 107 x 173 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/y/ykens/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44492
+        },
+        {
+            "title": "Still-Life",
+            "date": "1646",
+            "technique": "Oil on panel 74 x 105 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/y/ykens/stillif3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44493
+        },
+        {
+            "title": "Pronk Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 105 x 139 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/y/ykens/stillif4.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44494
+        },
+        {
+            "title": "Still-Life",
+            "date": "1649",
+            "technique": "Oil on canvas 40 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/y/ykens/stillif5.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44495
+        },
+        {
+            "title": "Still-Life (detail)",
+            "date": "1649",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/y/ykens/stillif6.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44496
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 33 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/y/ykens/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44497
+        },
+        {}
+    ]
+}

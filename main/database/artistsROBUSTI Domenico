@@ -1,0 +1,209 @@
+{
+    "name": "ROBUSTI Domenico",
+    "life": "(b. 1560 Venezia d. 1635 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Resurrection and Three Avogadri",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/avogadr1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34710
+        },
+        {
+            "title": "Annunciation and Three Avogadri",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/avogadr2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34711
+        },
+        {
+            "title": "Battle of Salvore",
+            "date": "c. 1605",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/battle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34712
+        },
+        {
+            "title": "Battle of Salvore (detail)",
+            "date": "c. 1605",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/battle1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34713
+        },
+        {
+            "title": "Battle of Salvore (detail)",
+            "date": "c. 1605",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/battle2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34714
+        },
+        {
+            "title": "Battle of Salvore (detail)",
+            "date": "c. 1605",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/battle3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34715
+        },
+        {
+            "title": "Portrait of Doge Giovanni Bembo",
+            "date": "-",
+            "technique": "Oil on canvas 119 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/bembo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34716
+        },
+        {
+            "title": "Portrait of Giovanni Mocenigo",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/doges1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34717
+        },
+        {
+            "title": "Portrait of Mario Barbarigo",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/doges2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34718
+        },
+        {
+            "title": "Portrait of Joannes Gritti",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/j_gritti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34719
+        },
+        {
+            "title": "Penitent Magdalene",
+            "date": "-",
+            "technique": "Oil on canvas 135 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34720
+        },
+        {
+            "title": "Madonna Interceding with Christ for the Cessation of the Plague",
+            "date": "1631",
+            "technique": "Oil on canvas",
+            "location": "San Francesco della Vigna Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/plague.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34721
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1586-89",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34722
+        },
+        {
+            "title": "Portrait of a Nobleman with his Son",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 96 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/port_nob.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34723
+        },
+        {
+            "title": "Portrait of Paolo Tiepolo",
+            "date": "c. 1590",
+            "technique": "Oil on canvas 46 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/port_tie.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34724
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34725
+        },
+        {
+            "title": "Portrait of a Young Nobleman",
+            "date": "-",
+            "technique": "Oil on canvas 117 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/portnobl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34726
+        },
+        {
+            "title": "Presentation of Christ in the Temple",
+            "date": "1588-89",
+            "technique": "Mosaic",
+            "location": "San Marco Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/present.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 34727
+        },
+        {
+            "title": "The Presentation of Christ in the Temple (detail)",
+            "date": "1588-89",
+            "technique": "Mosaic",
+            "location": "San Marco Venice",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/present1.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 34728
+        },
+        {
+            "title": "Tancred Baptizing Clorinda",
+            "date": "c. 1585",
+            "technique": "Oil on canvas 168 x 115 cm",
+            "location": "Museum of Fine Arts Houston",
+            "url": "https://www.wga.hu/html/r/robusti/domenico/tancred.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 34729
+        },
+        {}
+    ]
+}

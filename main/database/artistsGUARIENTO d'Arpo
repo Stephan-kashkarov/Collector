@@ -1,0 +1,79 @@
+{
+    "name": "GUARIENTO d'Arpo",
+    "life": "(active 1338-1368 in Padua)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Angel",
+            "date": "1354",
+            "technique": "Tempera on panel",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/g/guarient/arpo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18820
+        },
+        {
+            "title": "Angel",
+            "date": "1354",
+            "technique": "Tempera on panel",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/g/guarient/arpo2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18821
+        },
+        {
+            "title": "Angel",
+            "date": "1354",
+            "technique": "Tempera on panel",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/g/guarient/arpo3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18822
+        },
+        {
+            "title": "Archangel",
+            "date": "1350",
+            "technique": "Tempera on panel 80 x 57 cm",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/g/guarient/arpo4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18823
+        },
+        {
+            "title": "Ascension of Christ",
+            "date": "c. 1344",
+            "technique": "Panel 28 x 21 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/g/guarient/ascensio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18824
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1344",
+            "technique": "Tempera and gold leaf on panels 218 x 265 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/g/guarient/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18825
+        },
+        {
+            "title": "Paradise (fragment)",
+            "date": "1365-66",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/g/guarient/fragment.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18826
+        },
+        {}
+    ]
+}

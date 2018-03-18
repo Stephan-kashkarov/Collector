@@ -1,0 +1,39 @@
+{
+    "name": "KISS B\u00e1lint",
+    "life": "(b. 1802 Szentes d. 1868 Pest)",
+    "school": "Hungarian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Battle Scene",
+            "date": "1856-60",
+            "technique": "Lead-pencil on paper 222 x 411 mm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/k/kiss_b/battle.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 21056
+        },
+        {
+            "title": "Scene from the War against the Turks",
+            "date": "1857",
+            "technique": "Oil on canvas 109 x 175 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/kiss_b/scene.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 21057
+        },
+        {
+            "title": "Portrait of a Thegn",
+            "date": "1842",
+            "technique": "Oil on canvas 94 x 72 cm",
+            "location": "D\u00e9ri Museum Debrecen",
+            "url": "https://www.wga.hu/html/k/kiss_b/thegn.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21058
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "SAINT-EVRE Gillot",
+    "life": "(b. 1791 Boult-sur-Suippe d. 1858 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Joan of Arc in Prison",
+            "date": "-",
+            "technique": "Oil on canvas 119 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saint-ev/joan_arc.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 35993
+        },
+        {
+            "title": "Louis XI and Isabelle de Croye scene from Quentin Durward",
+            "date": "1827",
+            "technique": "Lithograph 42 x 39 cm",
+            "location": "Mus\u00e9e national Eug\u00e8ne Delacroix Paris",
+            "url": "https://www.wga.hu/html/s/saint-ev/louis11.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 35994
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "REDOUT\u00c9 Pierre-Joseph",
+    "life": "(b. 1759 Saint-Hubert d. 1840 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Acacia Armata",
+            "date": "1813",
+            "technique": "Watercolour and pencil on vellum",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/redoute/acacia.html",
+            "form": "graphics",
+            "painting_type": "still-life",
+            "index": 33325
+        },
+        {
+            "title": "Rosa Bifera Macrocarpa",
+            "date": "1811",
+            "technique": "Coloured engraving",
+            "location": "Mus\u00e9um National d'Histoire Naturelle Paris",
+            "url": "https://www.wga.hu/html/r/redoute/rosa_bif.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 33326
+        },
+        {}
+    ]
+}

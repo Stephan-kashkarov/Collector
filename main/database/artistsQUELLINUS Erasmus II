@@ -1,0 +1,49 @@
+{
+    "name": "QUELLINUS Erasmus II",
+    "life": "(b. 1607 Antwerpen d. 1678 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Achilles among the Daughters of Lycomedes",
+            "date": "-",
+            "technique": "Oil on canvas 220 x 240 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/q/quellin/erasmus/achilles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 32685
+        },
+        {
+            "title": "Saul and David (detail)",
+            "date": "c. 1635",
+            "technique": "Oil on panel 58 x 795 cm (entire painting)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/q/quellin/erasmus/sauldavi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32686
+        },
+        {
+            "title": "Still-Life in an Architectural Setting",
+            "date": "c. 1645",
+            "technique": "Oil on canvas 112 x 83 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/q/quellin/erasmus/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32687
+        },
+        {
+            "title": "Portrait of a Young Boy",
+            "date": "-",
+            "technique": "Oil on canvas 136 x 103 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/q/quellin/erasmus/youngboy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32688
+        },
+        {}
+    ]
+}

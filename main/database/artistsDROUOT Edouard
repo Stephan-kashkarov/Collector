@@ -1,0 +1,39 @@
+{
+    "name": "DROUOT Edouard",
+    "life": "(b. 1859 Sommevoire d. 1945 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Allegory of Dusk",
+            "date": "-",
+            "technique": "Marble height 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drouot/allegory.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 12122
+        },
+        {
+            "title": "Arabian Warrior on a Camel",
+            "date": "-",
+            "technique": "Bronze gilt brown patina height 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drouot/arabian.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12123
+        },
+        {
+            "title": "Nude Bather",
+            "date": "-",
+            "technique": "White marble height 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drouot/bather.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12124
+        },
+        {}
+    ]
+}

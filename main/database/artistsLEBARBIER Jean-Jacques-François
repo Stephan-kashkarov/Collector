@@ -1,0 +1,29 @@
+{
+    "name": "LEBARBIER Jean-Jacques-Fran\u00e7ois",
+    "life": "(b. 1738 Rouen d. 1826 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Chasing Butterflies",
+            "date": "1810",
+            "technique": "Oil on canvas 113 x 146 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lebarbie/chasing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21782
+        },
+        {
+            "title": "A Female Turkish Bath or Hammam",
+            "date": "1785",
+            "technique": "Oil on canvas 85 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lebarbie/hammam.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21783
+        },
+        {}
+    ]
+}

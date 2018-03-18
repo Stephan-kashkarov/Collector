@@ -1,0 +1,119 @@
+{
+    "name": "WHISTLER James Abbot McNeill",
+    "life": "(b. 1834 Lowell d. 1903 London)",
+    "school": "American",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Artist's Mother",
+            "date": "1871",
+            "technique": "Oil on canvas 144 x 163 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/w/whistler/artistmo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44117
+        },
+        {
+            "title": "The Artist's Mother (detail)",
+            "date": "1871",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/w/whistler/artistmx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44118
+        },
+        {
+            "title": "The Artist in His Studio",
+            "date": "1865-66",
+            "technique": "Oil on paper mounted on panel 63 x 46 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/w/whistler/artistst.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44119
+        },
+        {
+            "title": "The Balcony Variations in Flesh Colour and Green",
+            "date": "1865",
+            "technique": "Oil on canvas 61 x 49 cm",
+            "location": "Freer Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/w/whistler/balcony.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44120
+        },
+        {
+            "title": "The Little White Girl: Symphony in White No. 2",
+            "date": "1864",
+            "technique": "Oil on canvas 76 x 51 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/w/whistler/girlwhit.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44121
+        },
+        {
+            "title": "Rose and Silver: The Princess from the Land of Porcelain",
+            "date": "1864",
+            "technique": "Oil on canvas 200 x 116 cm",
+            "location": "Freer Gallery of Art Smithsonian Institution Washington",
+            "url": "https://www.wga.hu/html/w/whistler/landporc.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44122
+        },
+        {
+            "title": "Lady in Grey",
+            "date": "c. 1883",
+            "technique": "Watercolour and gouache on dark brown paper 286 x 127 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/whistler/lladygrey.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44123
+        },
+        {
+            "title": "Nocturne in Blue and Gold: Old Battersea Bridge",
+            "date": "1872-75",
+            "technique": "Oil on canvas 67 x 49 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/w/whistler/nocturn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44124
+        },
+        {
+            "title": "Nocturne in Black and Gold: The Falling Rocket",
+            "date": "1875",
+            "technique": "Oil on canvas 60 x 47 cm",
+            "location": "Phillips Collection Washington",
+            "url": "https://www.wga.hu/html/w/whistler/nocturn1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44125
+        },
+        {
+            "title": "Nocturne: The Thames at Battersea",
+            "date": "1878",
+            "technique": "Lithography 171 x 257 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/whistler/nocturn2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44126
+        },
+        {
+            "title": "La Piazzetta",
+            "date": "1879-80",
+            "technique": "Etching and drypoint on paper 248 x 178 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/whistler/piazzett.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44127
+        },
+        {}
+    ]
+}

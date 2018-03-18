@@ -1,0 +1,79 @@
+{
+    "name": "SARAZIN Jacques",
+    "life": "(b. 1588 Noyon d. 1660 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Funeral Monument for the Heart of Cardinal de B\u00e9rule",
+            "date": "1653-57",
+            "technique": "Marble height 125 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sarazin/berule.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36332
+        },
+        {
+            "title": "Caryatids on the Pavillon de l'Horloge",
+            "date": "1641",
+            "technique": "Stone",
+            "location": "Palais du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sarazin/caryati.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36333
+        },
+        {
+            "title": "Caryatids on the Pavillon de l'Horloge",
+            "date": "1641",
+            "technique": "Stone",
+            "location": "Palais du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sarazin/caryati1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36334
+        },
+        {
+            "title": "Caryatids",
+            "date": "1641",
+            "technique": "Stone",
+            "location": "Palais du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sarazin/caryati2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36335
+        },
+        {
+            "title": "Prudence",
+            "date": "1648-58",
+            "technique": "Bronze",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/s/sarazin/heart1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36336
+        },
+        {
+            "title": "Religion",
+            "date": "1648-58",
+            "technique": "Bronze",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/s/sarazin/heart2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36337
+        },
+        {
+            "title": "Temperance",
+            "date": "c. 1645",
+            "technique": "Marble",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sarazin/temperan.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36338
+        },
+        {}
+    ]
+}

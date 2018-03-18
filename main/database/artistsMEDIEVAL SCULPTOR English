@@ -1,0 +1,409 @@
+{
+    "name": "MEDIEVAL SCULPTOR English",
+    "life": "(active c. 1100 in Canterbury)",
+    "school": "English",
+    "timeframe": "1051-1100",
+    "art": [
+        {
+            "title": "Capital",
+            "date": "c. 1100",
+            "technique": "Stone",
+            "location": "Cathedral Canterbury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/2e1_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25398
+        },
+        {
+            "title": "Capital in the crypt",
+            "date": "1100-20",
+            "technique": "Stone",
+            "location": "Cathedral Canterbury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c1/3e1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25399
+        },
+        {
+            "title": "Capital in the crypt",
+            "date": "1100-20",
+            "technique": "Stone",
+            "location": "Cathedral Canterbury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c1/3e2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25400
+        },
+        {
+            "title": "Capitals",
+            "date": "1200-20",
+            "technique": "Stone",
+            "location": "Cathedral Wells",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/3e1_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25401
+        },
+        {
+            "title": "Foliage capitals",
+            "date": "1200-20",
+            "technique": "Stone",
+            "location": "Cathedral Lincoln",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/3e2_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25402
+        },
+        {
+            "title": "Foliage capitals",
+            "date": "1200-20",
+            "technique": "Stone",
+            "location": "Cathedral Lincoln",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/3e2_1202.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25403
+        },
+        {
+            "title": "Leaf capital",
+            "date": "c. 1300",
+            "technique": "Stone",
+            "location": "Minster Southwell",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/3e3_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25404
+        },
+        {
+            "title": "Centaur Fighting a Dragon",
+            "date": "c. 1250",
+            "technique": "Stone",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/3e4_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25405
+        },
+        {
+            "title": "The Prior's Door",
+            "date": "1130s",
+            "technique": "Stone",
+            "location": "Cathedral Ely",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/1e1_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25406
+        },
+        {
+            "title": "South portal",
+            "date": "c. 1140",
+            "technique": "Stone",
+            "location": "Church of St Mary and St David Kilpeck",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/1e2_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25407
+        },
+        {
+            "title": "South portal (detail)",
+            "date": "c. 1140",
+            "technique": "Stone",
+            "location": "Church of St Mary and St David Kilpeck",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/1e3_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25408
+        },
+        {
+            "title": "Tympanum",
+            "date": "1155-70",
+            "technique": "Stone",
+            "location": "St Mary and St Aldhelm Malmesbury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/1e4_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25409
+        },
+        {
+            "title": "Portal jamb (detail)",
+            "date": "1170-1200",
+            "technique": "Stone",
+            "location": "St Mary's Church Iffley Oxfordshire",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/5e1_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25410
+        },
+        {
+            "title": "Lunette",
+            "date": "1155-70",
+            "technique": "Stone",
+            "location": "Church of St Mary and St Aldhelm Malmesbury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/5e2_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25411
+        },
+        {
+            "title": "Portal (detail)",
+            "date": "1170-1200",
+            "technique": "Photo",
+            "location": "St Mary's Church Patrixbourne Kent",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/5e3_1167.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25412
+        },
+        {
+            "title": "Portal (detail)",
+            "date": "1170-1200",
+            "technique": "Photo",
+            "location": "St.Nicholas Barfreston Kent",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/5e4_1167.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25413
+        },
+        {
+            "title": "Font",
+            "date": "12th century",
+            "technique": "Stone",
+            "location": "Church of St James Avebury",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25414
+        },
+        {
+            "title": "Tomb of King John",
+            "date": "c. 1225",
+            "technique": "Purbeck marble",
+            "location": "Cathedral Worcester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e2_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25415
+        },
+        {
+            "title": "Tomb of King John",
+            "date": "c. 1225",
+            "technique": "Purbeck marble",
+            "location": "Cathedral Worcester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e2_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25416
+        },
+        {
+            "title": "Tomb of King John (detail)",
+            "date": "c. 1225",
+            "technique": "Purbeck marble",
+            "location": "Cathedral Worcester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e2_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25417
+        },
+        {
+            "title": "Tomb of King John (detail)",
+            "date": "c. 1225",
+            "technique": "Purbeck marble",
+            "location": "Cathedral Worcester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e2_1204.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25418
+        },
+        {
+            "title": "Tomb of Edmund \"\"Crouchback\"\"\"1296-1300Stone\"Westminster Abbey London",
+            "date": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e2_1251.html",
+            "technique": "sculpture",
+            "location": "religious",
+            "url": "English",
+            "form": "1251-1300",
+            "painting_type": "",
+            "index": 25419
+        },
+        {
+            "title": "Effigy of Henry III",
+            "date": "1290s",
+            "technique": "Bronze",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e3_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25420
+        },
+        {
+            "title": "Tomb of Sir Robert Curthose",
+            "date": "1275-1300",
+            "technique": "Oak",
+            "location": "Cathedral Gloucester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e3_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25421
+        },
+        {
+            "title": "Tomb of Sir Robert Curthose (detail)",
+            "date": "1275-1300",
+            "technique": "Oak",
+            "location": "Cathedral Gloucester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e3_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25422
+        },
+        {
+            "title": "Effigy of a Knight",
+            "date": "c. 1300",
+            "technique": "Stone",
+            "location": "Dorchester Abbey Dorchester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e4_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25423
+        },
+        {
+            "title": "Shrine of St Alban",
+            "date": "13th century",
+            "technique": "Stone",
+            "location": "Cathedral St Albans",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/4e5_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25424
+        },
+        {
+            "title": "Raising of Lazarus",
+            "date": "c. 1080",
+            "technique": "Marble",
+            "location": "Cathedral Chichester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/1e1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25425
+        },
+        {
+            "title": "Raising of Lazarus (detail)",
+            "date": "c. 1080",
+            "technique": "Stone",
+            "location": "Cathedral Chichester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/1e2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25426
+        },
+        {
+            "title": "Meeting of Christ Mary and Martha",
+            "date": "1120-25",
+            "technique": "Stone",
+            "location": "Cathedral Chichester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/1e3_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25427
+        },
+        {
+            "title": "Raising of Lazarus",
+            "date": "1120-25",
+            "technique": "Stone",
+            "location": "Cathedral Chichester",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/1e4_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25428
+        },
+        {
+            "title": "Console figure",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Church of St Mary and St David Kilpeck",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/1e5_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25429
+        },
+        {
+            "title": "St John",
+            "date": "c. 1210",
+            "technique": "Stone",
+            "location": "Yorkshire Museum York",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/13e_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25430
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1230",
+            "technique": "Stone",
+            "location": "Cathedral Wells",
+            "url": "https://www.wga.hu/html/zgothic/gothic/1/14e_1230.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25431
+        },
+        {
+            "title": "Censing Angel",
+            "date": "1250s",
+            "technique": "Stone",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/03e_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25432
+        },
+        {
+            "title": "Virgin of the Annunciation",
+            "date": "1253",
+            "technique": "Stone",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/04e_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25433
+        },
+        {
+            "title": "Tomb of Edward II",
+            "date": "1330s",
+            "technique": "Purbeck marble and alabaster",
+            "location": "Cathedral Gloucester",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/05e_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25434
+        },
+        {
+            "title": "Effigy of Edward III (detail)",
+            "date": "1377",
+            "technique": "Wood",
+            "location": "Undercroft Museum London",
+            "url": "https://www.wga.hu/html/zgothic/gothic/5/03e_1400.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25435
+        },
+        {
+            "title": "Head from the effigy of Richard II",
+            "date": "1390s",
+            "technique": "Bronze",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/gothic/5/04e_1400.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25436
+        },
+        {
+            "title": "Head from the effigy of Edward III",
+            "date": "1390s",
+            "technique": "Bronze",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/zgothic/gothic/5/05e_1400.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25437
+        },
+        {}
+    ]
+}

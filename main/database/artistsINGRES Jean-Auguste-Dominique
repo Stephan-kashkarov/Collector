@@ -1,0 +1,329 @@
+{
+    "name": "INGRES Jean-Auguste-Dominique",
+    "life": "(b. 1780 Montauban d. 1867 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Study of a Male Nude",
+            "date": "1801",
+            "technique": "Oil on canvas 100 x 80 cm",
+            "location": "\u00c9cole des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/i/ingres/00ingres.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 20349
+        },
+        {
+            "title": "Portrait of Napoleon Bonaparte First Consul",
+            "date": "1804",
+            "technique": "Oil on canvas 227 x 147 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Li\u00e8ge",
+            "url": "https://www.wga.hu/html/i/ingres/00ingrex.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20350
+        },
+        {
+            "title": "Napoleon I on the Imperial Throne",
+            "date": "1806",
+            "technique": "Oil on canvas 259 x 162 cm",
+            "location": "Mus\u00e9e de l'Arm\u00e9e Paris",
+            "url": "https://www.wga.hu/html/i/ingres/010ingre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20351
+        },
+        {
+            "title": "Napoleon I on the Imperial Throne (detail)",
+            "date": "1806",
+            "technique": "Oil on canvas 259 x 162 cm",
+            "location": "Mus\u00e9e de l'Arm\u00e9e Paris",
+            "url": "https://www.wga.hu/html/i/ingres/010ingrx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20352
+        },
+        {
+            "title": "Madame Rivi\u00e8re",
+            "date": "1806",
+            "technique": "Oil on canvas 117 x 82 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/011ingre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20353
+        },
+        {
+            "title": "Monsieur Rivi\u00e8re",
+            "date": "1805",
+            "technique": "Oil on canvas 116 x 89 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/012ingre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20354
+        },
+        {
+            "title": "Mademoiselle Caroline Rivi\u00e8re",
+            "date": "1806",
+            "technique": "Oil on canvas 100 x 70 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/01ingres.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20355
+        },
+        {
+            "title": "The Valpin\u00e7on Bather",
+            "date": "1808",
+            "technique": "Oil on canvas 146 x 97 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/02ingres.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20356
+        },
+        {
+            "title": "Fran\u00e7ois-Marius Granet",
+            "date": "1809",
+            "technique": "Oil on canvas 75 x 53 cm",
+            "location": "Mus\u00e9e Granet Aix-en-Provence",
+            "url": "https://www.wga.hu/html/i/ingres/03ingres.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20357
+        },
+        {
+            "title": "Jupiter and Thetis",
+            "date": "1811",
+            "technique": "Oil on canvas 320 x 260 cm",
+            "location": "Mus\u00e9e Granet Aix-en-Provence",
+            "url": "https://www.wga.hu/html/i/ingres/03ingrex.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20358
+        },
+        {
+            "title": "The Dream of Ossian",
+            "date": "1813",
+            "technique": "Oil on canvas 348 x 275 cm",
+            "location": "Mus\u00e9e Ingres Montauban",
+            "url": "https://www.wga.hu/html/i/ingres/04ingres.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20359
+        },
+        {
+            "title": "The Grand Odalisque",
+            "date": "1814",
+            "technique": "Oil on canvas 91 x 162 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/05ingres.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20360
+        },
+        {
+            "title": "Portrait of a Girl",
+            "date": "c. 1815",
+            "technique": "Graphite pencil on paper 280 x 207 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/i/ingres/061ingre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20361
+        },
+        {
+            "title": "Double Portrait of Otto Magnus von Stackelberg and Jacob Linckh",
+            "date": "1817",
+            "technique": "Graphite 194 x 144 mm",
+            "location": "Mus\u00e9e Jenisch Vevey",
+            "url": "https://www.wga.hu/html/i/ingres/062ingre.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 20362
+        },
+        {
+            "title": "Roger Freeing Angelica",
+            "date": "1819",
+            "technique": "Oil on canvas 147 x 190 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/06ingres.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20363
+        },
+        {
+            "title": "Oedipus and the Sphynx",
+            "date": "1808-25",
+            "technique": "Oil on canvas 189 x 144 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/071ingre.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20364
+        },
+        {
+            "title": "Raphael and La Fornarina",
+            "date": "1813-40",
+            "technique": "Oil on canvas",
+            "location": "Gallery of Fine Arts Columbus",
+            "url": "https://www.wga.hu/html/i/ingres/072ingre.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20365
+        },
+        {
+            "title": "Paolo and Francesca",
+            "date": "1819",
+            "technique": "Oil on canvas 480 x 390 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "url": "https://www.wga.hu/html/i/ingres/07ingres.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 20366
+        },
+        {
+            "title": "The Violinist Niccol\u00f2 Paganini",
+            "date": "1819",
+            "technique": "Pencil 298 x 218 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/08ingres.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 20367
+        },
+        {
+            "title": "The Source",
+            "date": "1820",
+            "technique": "Oil on canvas 83 x 163 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/i/ingres/09ingres.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20368
+        },
+        {
+            "title": "The Entry of the Future Charles V into Paris in 1358",
+            "date": "1821",
+            "technique": "Oil on canvas 47 x 56 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/i/ingres/10ingres.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20369
+        },
+        {
+            "title": "Portrait of Count Guryev",
+            "date": "1821",
+            "technique": "Oil on canvas 107 x 86 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/i/ingres/10ingrex.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20370
+        },
+        {
+            "title": "The Vow of Louis XIII",
+            "date": "1824",
+            "technique": "Oil on canvas 421 x 262 cm",
+            "location": "Cathedral of Notre-Dame Montauban",
+            "url": "https://www.wga.hu/html/i/ingres/11ingres.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20371
+        },
+        {
+            "title": "The Apotheosis of Homer",
+            "date": "1827",
+            "technique": "Oil on canvas 386 x 512 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/12ingres.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20372
+        },
+        {
+            "title": "Monsieur Bertin",
+            "date": "1832",
+            "technique": "Oil on canvas 116 x 95 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/13ingres.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20373
+        },
+        {
+            "title": "Don Pedro of Toledo Kissing the Sword of Henri IV",
+            "date": "1822",
+            "technique": "Oil on panel 49 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/i/ingres/13ingrex.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20374
+        },
+        {
+            "title": "The Sword of Henri IV",
+            "date": "1832",
+            "technique": "Oil on canvas 36 x 28 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/14ingres.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20375
+        },
+        {
+            "title": "Princess de Broglie",
+            "date": "1851-53",
+            "technique": "Oil on canvas 121 x 91 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/i/ingres/15ingres.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20376
+        },
+        {
+            "title": "Joan of Arc at the Coronation of Charles VII in Reims Cathedral",
+            "date": "1854",
+            "technique": "Oil on canvas 240 x 178 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/161ingre.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20377
+        },
+        {
+            "title": "Madame Moitessier",
+            "date": "1856",
+            "technique": "Oil on canvas 120 x 92 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/i/ingres/16ingres.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20378
+        },
+        {
+            "title": "The Birth of the Last Muse",
+            "date": "1856",
+            "technique": "Watercolour over graphite and pencil on paper mounted on copper plate 257 x 532 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/17ingre.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 20379
+        },
+        {
+            "title": "The Turkish Bath",
+            "date": "1862",
+            "technique": "Oil on canvas on wood diameter 108 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/ingres/17ingres.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20380
+        },
+        {}
+    ]
+}

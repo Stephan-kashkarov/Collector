@@ -1,0 +1,29 @@
+{
+    "name": "SAN FRIANO Maso da",
+    "life": "(b. 1531 Firenze d. 1571 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of Francesco I de' Medici",
+            "date": "1570",
+            "technique": "Oil on panel 176 x 129 cm",
+            "location": "Museo Civico Prato",
+            "url": "https://www.wga.hu/html/s/sanfrian/medici.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36117
+        },
+        {
+            "title": "Portrait of Elena Gaddi Quaratesi",
+            "date": "1550s",
+            "technique": "Oil on wood 24 x 18 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/sanfrian/quartesi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36118
+        },
+        {}
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "GIAMBONO Michele",
+    "life": "(b. ca. 1400 Venezia d. ca. 1462 Venezia)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1448",
+            "technique": "Tempera on panel 229 x 176 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/g/giambono/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15717
+        },
+        {
+            "title": "Coronation of the Virgin (detail)",
+            "date": "c. 1448",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/g/giambono/coronatx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15718
+        },
+        {
+            "title": "Decoration",
+            "date": "1431-51",
+            "technique": "Marble and mosaic",
+            "location": "Mascoli Chapel Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/g/giambono/mascoli.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 15719
+        },
+        {
+            "title": "Birth of the Virgin",
+            "date": "1431-33",
+            "technique": "Mosaic",
+            "location": "Mascoli Chapel Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/g/giambono/mascoli1.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 15720
+        },
+        {
+            "title": "The Visitation",
+            "date": "c. 1451",
+            "technique": "Mosaic",
+            "location": "Mascoli Chapel Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/g/giambono/mascoli2.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 15721
+        },
+        {
+            "title": "Polyptych of St James",
+            "date": "c. 1450",
+            "technique": "Tempera on panel 109 x 44 cm (central panel) 88 x 29 cm (side panels)",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/g/giambono/polyptic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15722
+        },
+        {
+            "title": "St Chrysogonus on Horseback",
+            "date": "c. 1450",
+            "technique": "Panel 199 x 134 cm",
+            "location": "San Trovaso Venice",
+            "url": "https://www.wga.hu/html/g/giambono/stchryso.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15723
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1450",
+            "technique": "Panel 56 x 47 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/g/giambono/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15724
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1450",
+            "technique": "Panel 27 x 60 cm",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/g/giambono/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15725
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1432-34",
+            "technique": "Tempera and silver on wood 53 x 40 cm",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/g/giambono/wportrai.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15726
+        },
+        {}
+    ]
+}

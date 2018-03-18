@@ -1,0 +1,59 @@
+{
+    "name": "CAPORALI Bartolomeo",
+    "life": "(b. ca. 1420 Perugia d. 1505 Perugia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "c. 1460",
+            "technique": "Tempera on poplar panel 156 x 177 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/c/caporali/annunci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7418
+        },
+        {
+            "title": "Annunciation",
+            "date": "1467-68",
+            "technique": "Tempera oil and gold on panel 50 x 48 cm (each)",
+            "location": "Galleria Nazionale dell'Umbria Perugia",
+            "url": "https://www.wga.hu/html/c/caporali/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7419
+        },
+        {
+            "title": "Depiction of Porta Sancti Angeli Auguste Perusie",
+            "date": "1486",
+            "technique": "Illumination on parchment 285 x 200 mm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/caporali/illumina.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 7420
+        },
+        {
+            "title": "Virgin and Child with Angels",
+            "date": "1477-79",
+            "technique": "Tempera on panel 108 x 94 cm",
+            "location": "Galleria Nazionale dell'Umbria Perugia",
+            "url": "https://www.wga.hu/html/c/caporali/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7421
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1490",
+            "technique": "Detached fresco",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/caporali/virgin_x.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7422
+        },
+        {}
+    ]
+}

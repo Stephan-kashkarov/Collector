@@ -1,0 +1,29 @@
+{
+    "name": "BOITO Camillo",
+    "life": "(b. 1836 Roma d. 1914 Milano)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Palazzo Cavalli Franchetti: Fa\u00e7ade",
+            "date": "1880s",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/b/boito/cavalli1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4884
+        },
+        {
+            "title": "Palazzo Cavalli Franchetti: Fa\u00e7ade",
+            "date": "1880s",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/b/boito/vavalli2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4885
+        },
+        {}
+    ]
+}

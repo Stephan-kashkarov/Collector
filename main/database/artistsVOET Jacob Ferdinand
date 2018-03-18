@@ -1,0 +1,79 @@
+{
+    "name": "VOET Jacob Ferdinand",
+    "life": "(b. 1639 Antwerpen d. ca. 1700 Paris)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of Victor Amadeus II King of Sicily and Sardinia",
+            "date": "1670s",
+            "technique": "Oil on canvas oval 75 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voet/amadeus2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43475
+        },
+        {
+            "title": "Portrait of Anna Maria Carpegna Naro",
+            "date": "-",
+            "technique": "Oil on canvas 69 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voet/carpegna.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43476
+        },
+        {
+            "title": "Portrait of Maria Mancini",
+            "date": "1660-80",
+            "technique": "Oil on panel 73 x 63 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/voet/mancini1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43477
+        },
+        {
+            "title": "Maria Mancini as Cleopatra",
+            "date": "1663-72",
+            "technique": "Oil on canvas 75 x 62 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/v/voet/mancini2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43478
+        },
+        {
+            "title": "Portrait of Gabriela Mancini",
+            "date": "1670s",
+            "technique": "Oil on canvas 80 x 66 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/voet/mancini3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43479
+        },
+        {
+            "title": "Portrait of Ortensia Mancini",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voet/mancini4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43480
+        },
+        {
+            "title": "Portrait of Diane-Gabrielle Damas de Thianges Mancini",
+            "date": "-",
+            "technique": "Oil on canvas 77 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voet/mancini5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43481
+        },
+        {}
+    ]
+}

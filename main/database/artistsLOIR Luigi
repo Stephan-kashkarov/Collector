@@ -1,0 +1,49 @@
+{
+    "name": "LOIR Luigi",
+    "life": "(b. 1845 Gorritz d. 1916 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Boulevard Berthier Paris",
+            "date": "-",
+            "technique": "Oil on panel 22 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loir/boulvard.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22803
+        },
+        {
+            "title": "Carousel at the Porte Dor\u00e9e",
+            "date": "-",
+            "technique": "Oil on canvas 50 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loir/carousel.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22804
+        },
+        {
+            "title": "The Louvre from the Jardin des Tuileries",
+            "date": "c. 1880",
+            "technique": "Oil on canvas 51 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loir/louvre.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22805
+        },
+        {
+            "title": "The Outing of the Russian Emperor to the Opera Gala in Paris",
+            "date": "1896",
+            "technique": "Oil on paper 22 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loir/outing.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22806
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "MONI Louis de",
+    "life": "(b. 1698 Breda d. 1771 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Soap Bubbles",
+            "date": "-",
+            "technique": "Oil on panel 37 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moni/soap_bub.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 28689
+        },
+        {
+            "title": "The Little Cheating",
+            "date": "c. 1750",
+            "technique": "Oil on panel 39 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moni/thecheat.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 28690
+        },
+        {}
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "LEDOUX Claude-Nicolas",
+    "life": "(b. 1736 Dormans d. 1806 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "after 1784",
+            "technique": "Photo",
+            "location": "Barri\u00e8re de la Villette Paris",
+            "url": "https://www.wga.hu/html/l/ledoux/barrier1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21800
+        },
+        {
+            "title": "Exterior view",
+            "date": "after 1784",
+            "technique": "Photo",
+            "location": "Barri\u00e8re du Tr\u00f4ne Paris",
+            "url": "https://www.wga.hu/html/l/ledoux/barrier2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21801
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1768",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau de B\u00e9nouville near Caen Normandy",
+            "url": "https://www.wga.hu/html/l/ledoux/benouvi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21802
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1768",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau de B\u00e9nouville near Caen Normandy",
+            "url": "https://www.wga.hu/html/l/ledoux/benouvi2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21803
+        },
+        {
+            "title": "General view",
+            "date": "1775-79",
+            "technique": "Photo",
+            "location": "Saline Royale Arc-et-Senans",
+            "url": "https://www.wga.hu/html/l/ledoux/saline1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21804
+        },
+        {
+            "title": "Exterior view",
+            "date": "1775-79",
+            "technique": "Photo",
+            "location": "Saline Royale Arc-et-Senans",
+            "url": "https://www.wga.hu/html/l/ledoux/saline2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21805
+        },
+        {
+            "title": "Gate with grotto",
+            "date": "1775-79",
+            "technique": "Photo",
+            "location": "Saline Royale Arc-et-Senans",
+            "url": "https://www.wga.hu/html/l/ledoux/saline3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21806
+        },
+        {
+            "title": "Grotto wall (detail)",
+            "date": "1775-79",
+            "technique": "Photo",
+            "location": "Saline Royale Arc-et-Senans",
+            "url": "https://www.wga.hu/html/l/ledoux/saline4.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21807
+        },
+        {
+            "title": "Bird's eye perspective",
+            "date": "1774",
+            "technique": "Engraving",
+            "location": "Saline Royale Arc-et-Senans",
+            "url": "https://www.wga.hu/html/l/ledoux/saline5.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21808
+        },
+        {
+            "title": "H\u00f4tel de Th\u00e9lusson Paris",
+            "date": "1777-81",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/l/ledoux/z_hotel.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21809
+        },
+        {
+            "title": "River inspector's house",
+            "date": "1775-79",
+            "technique": "Engraving 470 x 287 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/l/ledoux/zhouse.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21810
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "PIOLA Paolo Gerolamo",
+    "life": "(b. 1666 Genova d. 1724 Genova)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Diana-Selene and Endymion",
+            "date": "1689",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/p/piola/paolo/rosso.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 31485
+        },
+        {
+            "title": "Salome with the Head of St John the Baptist",
+            "date": "1700-10",
+            "technique": "Oil on canvas 133 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piola/paolo/salome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31486
+        },
+        {}
+    ]
+}

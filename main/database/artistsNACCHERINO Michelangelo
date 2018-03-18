@@ -1,0 +1,59 @@
+{
+    "name": "NACCHERINO Michelangelo",
+    "life": "(b. 1550 Firenze d. 1622 Napoli)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adam and Eve",
+            "date": "1616",
+            "technique": "Marble",
+            "location": "Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/n/naccheri/boboli.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29321
+        },
+        {
+            "title": "Fontana del Gigante",
+            "date": "1600s",
+            "technique": "Marble",
+            "location": "Via Partenope Naples",
+            "url": "https://www.wga.hu/html/n/naccheri/fontana1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29322
+        },
+        {
+            "title": "Fountain of Santa Lucia",
+            "date": "1606",
+            "technique": "Marble",
+            "location": "Villa Comunale Naples",
+            "url": "https://www.wga.hu/html/n/naccheri/fontana2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29323
+        },
+        {
+            "title": "Tomb of Fabrizio Pignatelli",
+            "date": "1590-1606",
+            "technique": "Bronze and marble",
+            "location": "Santa Maria dei Pellegrini Naples",
+            "url": "https://www.wga.hu/html/n/naccheri/tomb1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29324
+        },
+        {
+            "title": "Tomb of Fabrizio Pignatelli (detail)",
+            "date": "1590-1606",
+            "technique": "Bronze and marble",
+            "location": "Santa Maria dei Pellegrini Naples",
+            "url": "https://www.wga.hu/html/n/naccheri/tomb2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29325
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "LANINO Bernardino",
+    "life": "(b. ca. 1512 Vercelli d. after 1581)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Lamentation of Christ",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/l/lanino/bernardi/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21519
+        },
+        {
+            "title": "The Lamentation of Christ (detail)",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/l/lanino/bernardi/lamentax.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21520
+        },
+        {
+            "title": "St John the Baptist in the Wilderness",
+            "date": "-",
+            "technique": "Panel 24 x 24 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/l/lanino/bernardi/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21521
+        },
+        {
+            "title": "Triumph of Christ with Angels and Cherubs",
+            "date": "-",
+            "technique": "Oil on panel 97 x 149 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lanino/bernardi/triumph.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21522
+        },
+        {
+            "title": "Virgin and Child with the Young St John",
+            "date": "-",
+            "technique": "Oil on panel 73 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lanino/bernardi/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21523
+        },
+        {}
+    ]
+}

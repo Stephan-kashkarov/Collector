@@ -1,0 +1,49 @@
+{
+    "name": "TISCHBEIN Johann Heinrich Wilhelm",
+    "life": "(b. 1751 Haina d. 1829 Eutin)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Conradin of Swabia and Frederick of Baden Being Informed of Their Execution in Prison in Naples",
+            "date": "1790s",
+            "technique": "Oil on canvas 67 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tischbei/wilhelm/conradin.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39536
+        },
+        {
+            "title": "Dance of the Fauns and the Meneads",
+            "date": "-",
+            "technique": "Oil on canvas 44 x 35 cm",
+            "location": "Landesmuseum Oldenburg",
+            "url": "https://www.wga.hu/html/t/tischbei/wilhelm/dancefau.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39537
+        },
+        {
+            "title": "Goethe in the Roman Campagna",
+            "date": "1786",
+            "technique": "Oil on canvas 164 x 206 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/t/tischbei/wilhelm/goethe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39538
+        },
+        {
+            "title": "Girl with Flowers",
+            "date": "c. 1825",
+            "technique": "Oil on canvas 92 x 76 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/t/tischbei/wilhelm/zgirflol.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39539
+        },
+        {}
+    ]
+}

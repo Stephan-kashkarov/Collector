@@ -1,0 +1,89 @@
+{
+    "name": "WILKIE Sir David",
+    "life": "(b. 1785 Cults Fife d. 1841 off Malta)",
+    "school": "Scottish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Chelsea Pensioners Reading the Waterloo Dispatch",
+            "date": "1818-22",
+            "technique": "Oil on canvas 97 x 158 cm",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/w/wilkie/chelsea.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 44162
+        },
+        {
+            "title": "Chelsea Pensioners Reading the Waterloo Dispatch (detail)",
+            "date": "1818-22",
+            "technique": "Oil on canvas",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/w/wilkie/chelsea1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 44163
+        },
+        {
+            "title": "The Defence of Saragossa",
+            "date": "1828",
+            "technique": "Oil on canvas 94 x 141 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/w/wilkie/defence.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 44164
+        },
+        {
+            "title": "Josephine and the Fortune-Teller",
+            "date": "1837",
+            "technique": "Oil on canvas 211 x 158 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/w/wilkie/fortune.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44165
+        },
+        {
+            "title": "The First Council of Queen Victoria",
+            "date": "1838",
+            "technique": "Oil on canvas",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/w/wilkie/queen1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 44166
+        },
+        {
+            "title": "Queen Victoria (detail)",
+            "date": "1840",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wilkie/queen2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44167
+        },
+        {
+            "title": "Reading the Will",
+            "date": "1820",
+            "technique": "Oil on canvas 76 x 115 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/w/wilkie/reading.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44168
+        },
+        {
+            "title": "Sotiri Dragoman of Mr Colquhoun",
+            "date": "1840",
+            "technique": "Watercolour gouache and oil over pencil 475 x 328 mm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/w/wilkie/sotiri.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44169
+        },
+        {}
+    ]
+}

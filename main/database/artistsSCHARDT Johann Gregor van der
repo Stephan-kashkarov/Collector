@@ -1,0 +1,59 @@
+{
+    "name": "SCHARDT Johann Gregor van der",
+    "life": "(b. ca. 1530 Nijmegen d. after 1581 N\u00fcrnberg)",
+    "school": "Netherlandish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Flora",
+            "date": "1570-75",
+            "technique": "Fire-gilt brass height 71 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/schardt/flora.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36542
+        },
+        {
+            "title": "Allegories of the Four Seasons",
+            "date": "c. 1570",
+            "technique": "Bronze fire gilding heigh 71 cm (each)",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/schardt/fourseas.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36543
+        },
+        {
+            "title": "Luna",
+            "date": "c. 1570",
+            "technique": "Bronze height 51 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/schardt/luna.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36544
+        },
+        {
+            "title": "Sol",
+            "date": "c. 1570",
+            "technique": "Bronze height 46 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/schardt/sol.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36545
+        },
+        {
+            "title": "Bust of Willibald Imhoff",
+            "date": "1570",
+            "technique": "Painted terracotta height 815 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/schardt/w_imhoff.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36546
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "MAZZA Tommaso del",
+    "life": "(active 1375-1391 in Florence)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Madonna and Child with Six Saints",
+            "date": "c. 1390",
+            "technique": "Tempera on panel 81 x 54 cm",
+            "location": "High Museum of Art Atlanta",
+            "url": "https://www.wga.hu/html/m/mazza_t/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25321
+        },
+        {
+            "title": "Virgin and Child with Eight Angels",
+            "date": "c. 1385",
+            "technique": "Poplar panel gold ground 85 x 61 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/m/mazza_t/triptyc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25322
+        },
+        {
+            "title": "Sts John the Baptist and Anthony of Padua with the Donor Bonifazio Lupi",
+            "date": "c. 1386",
+            "technique": "Poplar panel gold ground 88 x 58 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/m/mazza_t/triptyc2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25323
+        },
+        {
+            "title": "Sts John the Evangelist and Louis of Toulouse with Catarina dei Francesi the Donor's Wife",
+            "date": "c. 1386",
+            "technique": "Poplar panel gold ground 88 x 58 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/m/mazza_t/triptyc3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25324
+        },
+        {}
+    ]
+}

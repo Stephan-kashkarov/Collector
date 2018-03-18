@@ -1,0 +1,79 @@
+{
+    "name": "FRANCESCO D'ANTONIO DI BARTOLOMMEO",
+    "life": "(b. ca. 1393 Firenze d. after 1433 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Madonna and Child Enthroned with Angels",
+            "date": "-",
+            "technique": "Tempera on wood 60 x 33 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/f/franceso/01/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14226
+        },
+        {
+            "title": "Madonna and Child with Music-Making Angels",
+            "date": "1420s",
+            "technique": "Tempera on panel gold ground 148 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/franceso/01/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14227
+        },
+        {
+            "title": "Rinieri Altarpiece",
+            "date": "c. 1431",
+            "technique": "Oil on poplar panel 182 x 168 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/f/franceso/01/rinieri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14228
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1431",
+            "technique": "Oil on poplar panel",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/f/franceso/01/rinieri2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14229
+        },
+        {
+            "title": "The Dream of St Jerome",
+            "date": "c. 1431",
+            "technique": "Oil on poplar panel 19 x 37 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/f/franceso/01/rinieri3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14230
+        },
+        {
+            "title": "The Funeral of St Jerome",
+            "date": "c. 1431",
+            "technique": "Oil on poplar panel 19 x 36 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/f/franceso/01/rinieri4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14231
+        },
+        {
+            "title": "Four Saints",
+            "date": "-",
+            "technique": "Tempera on panel gold ground 34 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/franceso/01/saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14232
+        },
+        {}
+    ]
+}

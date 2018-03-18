@@ -1,0 +1,89 @@
+{
+    "name": "SAINT-AUBIN Gabriel de",
+    "life": "(b. 1724 Paris d. 1780 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Randon de Boisset Gallery",
+            "date": "1777",
+            "technique": "Red and black chalk black ink 200 x 157 mm",
+            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/boisset.html",
+            "form": "graphics",
+            "painting_type": "interior",
+            "index": 35985
+        },
+        {
+            "title": "Catalogue of the Salon of 1769",
+            "date": "1789",
+            "technique": "Drawing",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/catalog.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 35986
+        },
+        {
+            "title": "A Lawyer's Chambers: Two Children Presented by a Maid",
+            "date": "1758-59",
+            "technique": "Oil on canvas 105 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/lawyers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 35987
+        },
+        {
+            "title": "Company Taking a Promenade",
+            "date": "1760-61",
+            "technique": "Pen and black and brown wash brush and black and grey wash watercolour 314 x 258 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/promenad.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 35988
+        },
+        {
+            "title": "View of the Salon of 1765",
+            "date": "1765",
+            "technique": "Pen ink and watercolour wash on paper 250 x 460 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/sal_1765.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 35989
+        },
+        {
+            "title": "The Salon of 1779",
+            "date": "-",
+            "technique": "Oil on canvas-backed paper 20 x 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/sal_1779.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 35990
+        },
+        {
+            "title": "A Street Show in Paris (La Parade du Boulevard)",
+            "date": "1760",
+            "technique": "Oil on canvas 80 x 64 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/streetsh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 35991
+        },
+        {
+            "title": "The Tuileries",
+            "date": "1760",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/s/saint-au/gabriel/tuilerie.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 35992
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "GRUBACS Carlo",
+    "life": "(b. 1812 Venezia d. 1870 Venezia)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Caffe Florian on Piazza San Marco Venice",
+            "date": "-",
+            "technique": "Oil on oak panel 11 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grubacs/florian.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18567
+        },
+        {
+            "title": "A View of Venice",
+            "date": "-",
+            "technique": "Oil on panel 25 x 14 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grubacs/palace.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18568
+        },
+        {
+            "title": "View of the Piazzetta from the Bacino di San Marco Venice",
+            "date": "-",
+            "technique": "Oil on canvas 21 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grubacs/viewven2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18569
+        },
+        {
+            "title": "View of the Doge's Palace Venice",
+            "date": "-",
+            "technique": "Oil on canvas 21 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grubacs/viewven3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18570
+        },
+        {
+            "title": "A View of Venice",
+            "date": "-",
+            "technique": "Oil on canvas 51 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grubacs/viewveni.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18571
+        },
+        {}
+    ]
+}

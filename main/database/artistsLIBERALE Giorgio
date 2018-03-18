@@ -1,0 +1,59 @@
+{
+    "name": "LIBERALE Giorgio",
+    "life": "(b. 1527 Udine d. ca. 1579)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Sea animals",
+            "date": "1558",
+            "technique": "Parchment 640 x 870 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/l/liberalg/seanima1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 22282
+        },
+        {
+            "title": "Mediterranean lobster",
+            "date": "1558",
+            "technique": "Parchment 640 x 870 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/l/liberalg/seanima2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 22283
+        },
+        {
+            "title": "Common octopus",
+            "date": "1558",
+            "technique": "Parchment 640 x 870 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/l/liberalg/seanima3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 22284
+        },
+        {
+            "title": "Bottlenosed skate",
+            "date": "1558",
+            "technique": "Parchment 640 x 870 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/l/liberalg/skate1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 22285
+        },
+        {
+            "title": "Bottlenosed skate (underside)",
+            "date": "1558",
+            "technique": "Parchment 640 x 870 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/l/liberalg/skate2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 22286
+        },
+        {}
+    ]
+}

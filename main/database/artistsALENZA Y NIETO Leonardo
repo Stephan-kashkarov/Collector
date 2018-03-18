@@ -1,0 +1,29 @@
+{
+    "name": "ALENZA Y NIETO Leonardo",
+    "life": "(b. 1807 Madrid d. 1845 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Portrait of an Architect",
+            "date": "1825-30",
+            "technique": "Oil on canvas 79 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alenza/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 274
+        },
+        {
+            "title": "Satire on Romantic Suicide",
+            "date": "-",
+            "technique": "Oil on canvas 36 x 28 cm",
+            "location": "Museo Rom\u00e1ntico Madrid",
+            "url": "https://www.wga.hu/html/a/alenza/satire.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 275
+        },
+        {}
+    ]
+}

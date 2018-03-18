@@ -1,0 +1,69 @@
+{
+    "name": "BELLUCCI Antonio",
+    "life": "(b. 1654 Pieve di Soligo d. 1726 Pieve di Soligo)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Antiochus and Stratonice",
+            "date": "c. 1700",
+            "technique": "Oil on canvas 253 x 301 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/b/bellucci/antiochu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3999
+        },
+        {
+            "title": "Antiochus and Stratonice (detail)",
+            "date": "c. 1700",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/b/bellucci/antiochx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4000
+        },
+        {
+            "title": "Dana\u00eb",
+            "date": "1700-05",
+            "technique": "Oil on canvas 149 x 159 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bellucci/danae.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4001
+        },
+        {
+            "title": "Hercules in the Palace of Omphale",
+            "date": "c. 1698",
+            "technique": "Oil on canvas 320 x 300 cm",
+            "location": "Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/b/bellucci/omphale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4002
+        },
+        {
+            "title": "Portrait of a Procurator",
+            "date": "1685-90",
+            "technique": "Oil on canvas",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/b/bellucci/procurat.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4003
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "-",
+            "technique": "Oil on canvas 115 x 149 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bellucci/samson_d.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4004
+        },
+        {}
+    ]
+}

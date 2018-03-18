@@ -1,0 +1,79 @@
+{
+    "name": "VICENTINO Andrea",
+    "life": "(b. ca. 1542 Vicenza d. ca. 1617 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Christ and the Adulteress",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vicentin/adultere.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43124
+        },
+        {
+            "title": "Battle of Lepanto",
+            "date": "1603",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/lepanto.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43125
+        },
+        {
+            "title": "Battle of Lepanto (detail)",
+            "date": "1603",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/lepanto1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43126
+        },
+        {
+            "title": "Battle of Lepanto (detail)",
+            "date": "1603",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/lepanto2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43127
+        },
+        {
+            "title": "Crusaders Conquer the City of Zara",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/lepanto3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43128
+        },
+        {
+            "title": "King Pippin's Army Trying to Reach Venice",
+            "date": "1590s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/pippin.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43129
+        },
+        {
+            "title": "The Doge and the Patriarch Welcoming Henri III King of France (detail)",
+            "date": "1595-1600",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/v/vicentin/welcomin.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43130
+        },
+        {}
+    ]
+}

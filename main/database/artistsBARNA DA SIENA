@@ -1,0 +1,29 @@
+{
+    "name": "BARNA DA SIENA",
+    "life": "(active in mid-14th century)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "The Mystical Marriage of Saint Catherine",
+            "date": "1340",
+            "technique": "Tempera on panel",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/b/barna/mystic_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3185
+        },
+        {
+            "title": "Scenes from the New Testament",
+            "date": "c. 1340",
+            "technique": "Fresco height 800 cm",
+            "location": "Collegiata Santa Maria Assunta San Gimignano",
+            "url": "https://www.wga.hu/html/b/barna/newtest.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3186
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "JEAN DE LI\u00c8GE",
+    "life": "(active 1361-1381)",
+    "school": "French",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Head of Bonne de France",
+            "date": "c. 1361",
+            "technique": "White marble height 228 cm",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/j/jean/liege/bonnefra.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 20610
+        },
+        {
+            "title": "Charles V",
+            "date": "1375-80",
+            "technique": "Stone height 195 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jean/liege/charles5.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 20611
+        },
+        {
+            "title": "Jeanne d'\u00c9vreux and Charles IV",
+            "date": "1370-72",
+            "technique": "Marble",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jean/liege/evreux.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20612
+        },
+        {
+            "title": "Tomb of Philippa Hainault (detail)",
+            "date": "1365-67",
+            "technique": "Marble",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/j/jean/liege/philippa.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20613
+        },
+        {}
+    ]
+}

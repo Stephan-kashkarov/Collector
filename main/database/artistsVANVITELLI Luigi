@@ -1,0 +1,119 @@
+{
+    "name": "VANVITELLI Luigi",
+    "life": "(b. 1700 Napoli d. 1773 Caserta)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1762",
+            "technique": "Photo",
+            "location": "Santissima Annunziata Maggiore Naples",
+            "url": "https://www.wga.hu/html/v/vanvitel/annunzi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 42063
+        },
+        {
+            "title": "Interior view",
+            "date": "1762",
+            "technique": "Photo",
+            "location": "Santissima Annunziata Maggiore Naples",
+            "url": "https://www.wga.hu/html/v/vanvitel/annunzi2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 42064
+        },
+        {
+            "title": "Exterior view",
+            "date": "1751",
+            "technique": "Photo",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 42065
+        },
+        {
+            "title": "Exterior view",
+            "date": "1751",
+            "technique": "Photo",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 42066
+        },
+        {
+            "title": "Exterior view",
+            "date": "1751",
+            "technique": "Photo",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 42067
+        },
+        {
+            "title": "Interior view",
+            "date": "1751",
+            "technique": "Photo",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 42068
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "c. 1770 (designed)",
+            "technique": "Marble over life-size",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta4.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 42069
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "c. 1770 (designed)",
+            "technique": "Marble over life-size",
+            "location": "Royal Residence Caserta",
+            "url": "https://www.wga.hu/html/v/vanvitel/caserta5.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 42070
+        },
+        {
+            "title": "Interior view",
+            "date": "1742-51",
+            "technique": "Photo",
+            "location": "Sao Roque Lisbon",
+            "url": "https://www.wga.hu/html/v/vanvitel/lisbon.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 42071
+        },
+        {
+            "title": "Exterior view",
+            "date": "1762",
+            "technique": "Photo",
+            "location": "Santissima Annunziata Maggiore Naples",
+            "url": "https://www.wga.hu/html/v/vanvitel/naples1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 42072
+        },
+        {
+            "title": "Interior view",
+            "date": "1762",
+            "technique": "Photo",
+            "location": "Santissima Annunziata Maggiore Naples",
+            "url": "https://www.wga.hu/html/v/vanvitel/naples2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 42073
+        },
+        {}
+    ]
+}

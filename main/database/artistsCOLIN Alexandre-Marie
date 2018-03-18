@@ -1,0 +1,29 @@
+{
+    "name": "COLIN Alexandre-Marie",
+    "life": "(b. 1798 Paris d. 1873 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "La Belle Orientale",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/colin/la_belle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9284
+        },
+        {
+            "title": "Othello and Desdemona",
+            "date": "1829",
+            "technique": "Oil on canvas 51 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/colin/othello.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 9285
+        },
+        {}
+    ]
+}

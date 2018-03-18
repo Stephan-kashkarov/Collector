@@ -72,7 +72,7 @@ for line in lines:
 		pos = 0
 		name, pos = next_field(fields, pos)
 		if len(name) == 0:
-			art_index += 1 
+			art_index += 1
 			continue
 		# if last_name == "":
 		# 	last_name = name
@@ -119,7 +119,7 @@ for line in lines:
 			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index)
 			cascade_art(art_list, art_cache)
 			art_cache = {}
-			
+
 		else:
 			title = ""
 			date = ""
@@ -152,9 +152,15 @@ for line in lines:
 
 			cascade_art(art_list, art_cache)
 			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index)
-			
+
 			art_cache = {}
 	art_index += 1
 
-with open("../data/artists.json", "w") as outfile:  # SETS JSON FILE AS WRITE
+with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE
 	json.dump(parsed_data, outfile, indent=4)  # DUMPS DATA TO JSON FILE
+
+for name in parsed_data:
+	print(name['name'])
+	url = "../main/database/artists" + name['name']
+	with open(url, "w") as file:
+		json.dump(name, file, indent = 4)

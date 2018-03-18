@@ -1,0 +1,149 @@
+{
+    "name": "UNKNOWN MASTER Catalan",
+    "life": "(active c. 1100)",
+    "school": "Catalan",
+    "timeframe": "1051-1100",
+    "art": [
+        {
+            "title": "Christ and the Twelve Apostles",
+            "date": "c. 1100",
+            "technique": "Tempera on wood 130 x 150 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/001chris.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40801
+        },
+        {
+            "title": "Christ and the Twelve Apostles (detail)",
+            "date": "c. 1100",
+            "technique": "Wood",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/001chrix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40802
+        },
+        {
+            "title": "Scenes from the Life of Jesus",
+            "date": "-",
+            "technique": "Wood 105 x 175 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/002scene.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40803
+        },
+        {
+            "title": "Coronation of Mary",
+            "date": "1200-20",
+            "technique": "Tempera on wood 100 x 110 cm",
+            "location": "Museu Episcopal Vic",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/01corona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40804
+        },
+        {
+            "title": "Nativity",
+            "date": "1200-50",
+            "technique": "Wood",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/02nativi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40805
+        },
+        {
+            "title": "Altar frontal",
+            "date": "13th century",
+            "technique": "Panel 92 x 175 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/03fronta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40806
+        },
+        {
+            "title": "Tomb of Don Sancho Saiz de Carillo (detail)",
+            "date": "c. 1300",
+            "technique": "Tempera on parchment on wood 51 x 86 cm (each)",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/03panels.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40807
+        },
+        {
+            "title": "Tomb of Don Sancho Saiz de Carillo (detail)",
+            "date": "c. 1300",
+            "technique": "Tempera on wood 51 x 86 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/04panels.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40808
+        },
+        {
+            "title": "Tomb of Don Sancho Saiz de Carillo (detail)",
+            "date": "c. 1300",
+            "technique": "Tempera on wood 51 x 86 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_cat/04panelt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40809
+        },
+        {
+            "title": "Crucifix",
+            "date": "c. 1150",
+            "technique": "Polychromed wood height 91 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp3/03crucif.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40810
+        },
+        {
+            "title": "Enthroned Madonna and Child",
+            "date": "12th century",
+            "technique": "Painted wood height 53 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp3/09madonn.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40811
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "12th century",
+            "technique": "Painted wood",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp3/10virgin.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40812
+        },
+        {
+            "title": "Christ in Majesty and Apostles",
+            "date": "1200-20",
+            "technique": "Polychromed wood 135 x 98 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp3/12fronta.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40813
+        },
+        {
+            "title": "St Anne with the Virgin and the Child",
+            "date": "1290s",
+            "technique": "Painted wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp3/132anne.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40814
+        },
+        {}
+    ]
+}

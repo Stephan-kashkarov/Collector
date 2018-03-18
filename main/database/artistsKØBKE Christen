@@ -1,0 +1,89 @@
+{
+    "name": "K\u00d8BKE Christen",
+    "life": "(b. 1810 K\u00f8benhavn d. 1848 K\u00f8benhavn)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Garden Steps Leading to the Artist's Studio on Blegdammen",
+            "date": "c. 1845",
+            "technique": "Oil on canvas 23 x 33 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/garden.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21137
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1833",
+            "technique": "Oil on canvas 42 x 36 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/selfporrt.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21138
+        },
+        {
+            "title": "Portrait of Adolphine K\u00f8bke Sister of the Artist",
+            "date": "1832",
+            "technique": "Oil on canvas 42 x 35 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/k/kobke/sister.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21139
+        },
+        {
+            "title": "Portrait of Frederik S\u00f8dring",
+            "date": "1832",
+            "technique": "Oil on canvas 42 x 38 cm",
+            "location": "Hirschsprungske Samling Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/sodring.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21140
+        },
+        {
+            "title": "View from a Window in Toldbodvej Looking Towards the Citadel in Copenhagen",
+            "date": "c. 1833",
+            "technique": "Oil on paper laid down on canvas 15 x 28 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/view_lak.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21141
+        },
+        {
+            "title": "A View of the Square in the Kastel Looking Towards the Ramparts",
+            "date": "c. 1830",
+            "technique": "Oil on canvas 30 x 23 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/k/kobke/view_squ.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21142
+        },
+        {
+            "title": "View of a Street in \u00d8sterbro outside Copenhagen. Morning Light",
+            "date": "1836",
+            "technique": "Oil on canvas 107 x 162 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/view_str.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21143
+        },
+        {
+            "title": "View of One of the Lakes in Copenhagen",
+            "date": "1838",
+            "technique": "Oil on canvas 134 x 179 cm",
+            "location": "Nationalmuseet Copenhagen",
+            "url": "https://www.wga.hu/html/k/kobke/viewlake.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21144
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "PULIGO Domenico",
+    "life": "(b. 1492 Firenze d. 1527 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "1527",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria Maddalena dei Pazzi Florence",
+            "url": "https://www.wga.hu/html/p/puligo/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32623
+        },
+        {
+            "title": "Mary Magdalen",
+            "date": "c. 1523",
+            "technique": "Oil on wood 61 x 51 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/puligo/marymagd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32624
+        },
+        {
+            "title": "Portrait of a Boy",
+            "date": "c. 1525",
+            "technique": "Oil on wood 106 x 74 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/puligo/port_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32625
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/p/puligo/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32626
+        },
+        {
+            "title": "Portrait of Pietro Carnesecchi",
+            "date": "-",
+            "technique": "Oil on wood 595 x 395 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/puligo/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32627
+        },
+        {}
+    ]
+}

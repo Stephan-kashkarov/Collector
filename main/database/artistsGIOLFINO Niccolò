@@ -1,0 +1,49 @@
+{
+    "name": "GIOLFINO Niccol\u00f2",
+    "life": "(b. 1476 Verona d. 1555 Verona)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Miniscalchi Altar",
+            "date": "-",
+            "technique": "Tempera on panel",
+            "location": "Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15832
+        },
+        {
+            "title": "Miniscalchi Altar",
+            "date": "-",
+            "technique": "Tempera on panel",
+            "location": "Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15833
+        },
+        {
+            "title": "Miniscalchi Altar",
+            "date": "-",
+            "technique": "Tempera on panel",
+            "location": "Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15834
+        },
+        {
+            "title": "Lucretia",
+            "date": "1515-18",
+            "technique": "Oil on panel 41 x 33 cm",
+            "location": "Allen Memorial Art Museum Oberlin Ohio",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/lucretia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 15835
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "SCHONGAUER Ludwig",
+    "life": "(b. ca. 1450 Colmar d. 1494 Colmar)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Resurrection",
+            "date": "1480-85",
+            "technique": "Oil on fir panel 37 x 20 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schongau/ludwig/panel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36668
+        },
+        {
+            "title": "Christ before Pilate",
+            "date": "1480-85",
+            "technique": "Oil on fir panel 37 x 20 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schongau/ludwig/panel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36669
+        },
+        {
+            "title": "Christ before Pilate (detail)",
+            "date": "1480-85",
+            "technique": "Oil on fir panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schongau/ludwig/panel2a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36670
+        },
+        {
+            "title": "Christ before Pilate",
+            "date": "1480-85",
+            "technique": "Pen and ink on paper 105 x 73 mm",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/s/schongau/ludwig/pilate.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 36671
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "SCALFAROTTO Giovanni Antonio",
+    "life": "(b. ca. 1695 Venezia d. 1764 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1718-38",
+            "technique": "Photo",
+            "location": "San Simeone Piccolo Venice",
+            "url": "https://www.wga.hu/html/s/scalfaro/simeone1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36476
+        },
+        {
+            "title": "Exterior view",
+            "date": "1718-38",
+            "technique": "Photo",
+            "location": "San Simeone Piccolo Venice",
+            "url": "https://www.wga.hu/html/s/scalfaro/simeone2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36477
+        },
+        {
+            "title": "Exterior view",
+            "date": "1718-38",
+            "technique": "Photo",
+            "location": "San Simeone Piccolo Venice",
+            "url": "https://www.wga.hu/html/s/scalfaro/simeone3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36478
+        },
+        {}
+    ]
+}

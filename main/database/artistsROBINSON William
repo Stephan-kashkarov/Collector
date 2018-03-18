@@ -1,0 +1,29 @@
+{
+    "name": "ROBINSON William",
+    "life": "(b. ca. 1720 Kepyer d. 1775 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "begun 1749",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/r/robinso/strawbe1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 34705
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1749",
+            "technique": "Photo",
+            "location": "Strawberry Hill Twickenham Middlesex",
+            "url": "https://www.wga.hu/html/r/robinso/strawbe2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 34706
+        },
+        {}
+    ]
+}

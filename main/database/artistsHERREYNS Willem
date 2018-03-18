@@ -1,0 +1,29 @@
+{
+    "name": "HERREYNS Willem",
+    "life": "(b. 1743 Antwerpen d. 1827 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Supper at Emmaus",
+            "date": "1808",
+            "technique": "Oil on canvas 310 x 240 cm",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/h/herreyns/emmaus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19633
+        },
+        {
+            "title": "Portrait of Artist A. C. Lens",
+            "date": "-",
+            "technique": "Oil on canvas 116 x 96 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/h/herreyns/portlens.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19634
+        },
+        {}
+    ]
+}

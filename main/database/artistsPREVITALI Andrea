@@ -1,0 +1,79 @@
+{
+    "name": "PREVITALI Andrea",
+    "life": "(b. ca. 1480 Berbenno di Valtellina d. 1528 Bergamo)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Madonna Baglioni",
+            "date": "1515-20",
+            "technique": "Oil on panel 87 x 119 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/p/prevital/baglioni.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32465
+        },
+        {
+            "title": "Mystic Marriage of St Catherine",
+            "date": "c. 1505",
+            "technique": "Panel 70 x 85 cm",
+            "location": "San Giobbe Venice",
+            "url": "https://www.wga.hu/html/p/prevital/mystic_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32466
+        },
+        {
+            "title": "Nativity",
+            "date": "1515-20",
+            "technique": "Oil on canvas 133 x 215 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/prevital/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32467
+        },
+        {
+            "title": "Portrait of a Man (recto)",
+            "date": "c. 1502",
+            "technique": "Panel 24 x 18 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/p/prevital/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32468
+        },
+        {
+            "title": "Memento Mori (verso)",
+            "date": "c. 1502",
+            "technique": "Panel 24 x 18 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/p/prevital/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32469
+        },
+        {
+            "title": "Submersion of Pharaoh in the Red Sea",
+            "date": "1515-20",
+            "technique": "Oil on canvas 132 x 213 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/prevital/red_sea.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 32470
+        },
+        {
+            "title": "Transfiguration",
+            "date": "-",
+            "technique": "Oil on panel 148 x 138 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/p/prevital/transfig.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32471
+        },
+        {}
+    ]
+}

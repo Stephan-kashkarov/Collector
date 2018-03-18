@@ -1,0 +1,29 @@
+{
+    "name": "OOSTERWIJK Maria van",
+    "life": "(b. 1630 Nootdorp d. 1693 Uitdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Flowers and Fruit",
+            "date": "1670s",
+            "technique": "Oil on canvas",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/o/oosterwi/flowerfr.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29820
+        },
+        {
+            "title": "Flower Still-Life",
+            "date": "1675",
+            "technique": "Oil on canvas 90 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/oosterwi/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29821
+        },
+        {}
+    ]
+}

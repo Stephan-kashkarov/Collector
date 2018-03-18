@@ -1,0 +1,29 @@
+{
+    "name": "HALL Peter Adolf",
+    "life": "(b. 1739 Boras \u00c4lvsborg d. 1793 Liege)",
+    "school": "Swedish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Painter's Daughter Adelaide Victorine",
+            "date": "c. 1785",
+            "technique": "Ivory 9 x 11 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/h/hall/daughter.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19060
+        },
+        {
+            "title": "The Painter's Family",
+            "date": "1776",
+            "technique": "Ivory 9 x 11 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/h/hall/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19061
+        },
+        {}
+    ]
+}

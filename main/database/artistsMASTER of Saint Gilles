@@ -1,0 +1,69 @@
+{
+    "name": "MASTER of Saint Gilles",
+    "life": "(active around 1500 in France)",
+    "school": "French",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Baptism of Clovis",
+            "date": "1500",
+            "technique": "Wood",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/stgilles/clovis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24883
+        },
+        {
+            "title": "St Gilles and the Hind",
+            "date": "c. 1500",
+            "technique": "Oil and egg tempera on oak 61 x 45 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/stgilles/gilles.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24884
+        },
+        {
+            "title": "St Gilles and the Hind (detail)",
+            "date": "c. 1500",
+            "technique": "Oil and egg tempera on oak",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/stgilles/gilles1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24885
+        },
+        {
+            "title": "The Mass of St Gilles",
+            "date": "c. 1500",
+            "technique": "Oil and egg tempera on oak 62 x 46 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/stgilles/gilles2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24886
+        },
+        {
+            "title": "St Gilles' Mass (detail)",
+            "date": "c. 1500",
+            "technique": "Oil and egg tempera on oak",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/stgilles/gilles3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24887
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1500",
+            "technique": "Oak 61 x 51 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/stgilles/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24888
+        },
+        {}
+    ]
+}

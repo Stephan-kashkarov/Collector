@@ -1,0 +1,79 @@
+{
+    "name": "LOO Louis Michel van",
+    "life": "(b. 1707 Toulon d. 1771 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Artist with a Portrait of his Father",
+            "date": "1762",
+            "technique": "Oil on canvas 129 x 198 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/loo/louis/artist.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22995
+        },
+        {
+            "title": "The Devin Family",
+            "date": "1767",
+            "technique": "Oil on canvas 110 x 150 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loo/louis/devinfan.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22996
+        },
+        {
+            "title": "Portrait of Denis Diderot",
+            "date": "1767",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/loo/louis/diderot.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22997
+        },
+        {
+            "title": "Portrait of Catherina Golitsyna",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 81 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/l/loo/louis/golitsyn.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22998
+        },
+        {
+            "title": "The Family of Philip V",
+            "date": "1743",
+            "technique": "Oil on canvas 406 x 511 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/l/loo/louis/philip5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22999
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1734",
+            "technique": "Oil on canvas 146 x 114 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loo/louis/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23000
+        },
+        {
+            "title": "Sextet",
+            "date": "1768",
+            "technique": "Oil on canvas 146 x 194 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/loo/louis/sextet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23001
+        },
+        {}
+    ]
+}

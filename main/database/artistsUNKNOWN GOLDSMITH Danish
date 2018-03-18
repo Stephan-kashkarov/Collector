@@ -1,0 +1,49 @@
+{
+    "name": "UNKNOWN GOLDSMITH Danish",
+    "life": "(active 1130s)",
+    "school": "",
+    "timeframe": "",
+    "art": [
+        {
+            "title": "The \"\"Golden Altar\"\" of Lisbjerg\"1135-40\"Rolled and chased sheet copper gilded bronze casting width 158 cm",
+            "date": "National Museum Copenhagen",
+            "technique": "https://www.wga.hu/html/zzdeco/1gold/12c/22d_1100.html",
+            "location": "metalwork",
+            "url": "religious",
+            "form": "Danish",
+            "painting_type": "1151-1200",
+            "index": 40538
+        },
+        {
+            "title": "Tamdrup altar",
+            "date": "c. 1200",
+            "technique": "Gilt copper",
+            "location": "Tamdrup church Jelling",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/12c/22d_1101.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40539
+        },
+        {
+            "title": "Tamdrup altar (detail)",
+            "date": "c. 1200",
+            "technique": "Gilt copper",
+            "location": "Tamdrup church Jelling",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/12c/22d_1102.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40540
+        },
+        {
+            "title": "Tamdrup altar (detail)",
+            "date": "c. 1200",
+            "technique": "Gold plaque",
+            "location": "Nationalmuseet Copenhagen",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/12c/22d_1103.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40541
+        },
+        {}
+    ]
+}

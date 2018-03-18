@@ -1,0 +1,159 @@
+{
+    "name": "SOLARIO Andrea",
+    "life": "(b. ca. 1460 Milano d. 1525 Pavia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Charles d'Amboise",
+            "date": "c. 1507",
+            "technique": "Oil on canvas 75 x 52 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/solari/andrea/amboise.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37575
+        },
+        {
+            "title": "Cleopatra",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solari/andrea/cleopatr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37576
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "1503",
+            "technique": "Oil on wood 111 x 77 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/solari/andrea/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37577
+        },
+        {
+            "title": "Ecce Homo",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/s/solari/andrea/eccehomo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37578
+        },
+        {
+            "title": "Rest during the Flight to Egypt",
+            "date": "1515",
+            "technique": "Panel 77 x 55 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/s/solari/andrea/egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37579
+        },
+        {
+            "title": "Madonna of the Green Cushion",
+            "date": "c. 1507",
+            "technique": "Tempera and oil on panel 59 x 48 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/solari/andrea/gcushion.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37580
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "c. 1509",
+            "technique": "Oil on wood 178 x 163 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/solari/andrea/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37581
+        },
+        {
+            "title": "The Lute Player",
+            "date": "c. 1510",
+            "technique": "Oil on panel 65 x 52 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/s/solari/andrea/luteplay.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37582
+        },
+        {
+            "title": "Man with a Pink Carnation",
+            "date": "c. 1495",
+            "technique": "Oil and egg tempera on poplar 50 x 39 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/solari/andrea/pink.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37583
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1500",
+            "technique": "Panel 42 x 32 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/s/solari/andrea/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37584
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "after 1490",
+            "technique": "Oil on panel 31 x 28 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/s/solari/andrea/portra_y.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37585
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1497",
+            "technique": "Oil on wood 48 x 38 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/s/solari/andrea/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37586
+        },
+        {
+            "title": "Salome with the Head of St John the Baptist",
+            "date": "-",
+            "technique": "Oil on wood 59 x 58 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/solari/andrea/salome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37587
+        },
+        {
+            "title": "Salome with the Head of St John the Baptist",
+            "date": "1506-07",
+            "technique": "Oil on panel 57 x 47 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/solari/andrea/salome1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 37588
+        },
+        {
+            "title": "Head of a Bearded Man",
+            "date": "-",
+            "technique": "Black red and yellow chalk on brownish paper 374 x 273 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/solari/andrea/study.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 37589
+        },
+        {}
+    ]
+}

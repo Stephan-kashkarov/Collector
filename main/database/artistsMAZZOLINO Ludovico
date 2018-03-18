@@ -1,0 +1,109 @@
+{
+    "name": "MAZZOLINO Ludovico",
+    "life": "(b. ca. 1480 Ferrara d. after 1528)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1520-24",
+            "technique": "Oil on wood 795 x 605 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/mazzolin/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25345
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1500",
+            "technique": "Oil on wood 120 x 78 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/m/mazzolin/adormag.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25346
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1522",
+            "technique": "Oil on panel 35 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mazzolin/adormagi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25347
+        },
+        {
+            "title": "Circumcision",
+            "date": "c. 1520",
+            "technique": "Panel 31 x 33 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/m/mazzolin/circumci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25348
+        },
+        {
+            "title": "The Incredulity of St Thomas",
+            "date": "c. 1522",
+            "technique": "Oil on panel 38 x 31 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/m/mazzolin/incredul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25349
+        },
+        {
+            "title": "St Jerome in Contemplation",
+            "date": "1528",
+            "technique": "Oil and gold on panel 39 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mazzolin/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25350
+        },
+        {
+            "title": "St Jerome in Contemplation (detail)",
+            "date": "1528",
+            "technique": "Oil and gold on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mazzolin/jerome_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25351
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "1522-23",
+            "technique": "Oil on wood 295 x 228 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/mazzolin/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25352
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1501-03",
+            "technique": "Panel 31 x 23 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/m/mazzolin/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25353
+        },
+        {
+            "title": "Christ before Pilate",
+            "date": "c. 1525",
+            "technique": "Oil on panel 45 x 39 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/mazzolin/pilate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25354
+        },
+        {}
+    ]
+}

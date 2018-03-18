@@ -1,0 +1,29 @@
+{
+    "name": "LE FORT DU PLESSY Claude",
+    "life": "(active 1707 Wien d. 1757 Wien)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Console table",
+            "date": "c. 1717",
+            "technique": "Walnut dark brown varnish marble top 80 x 148 x 80 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/l/le_fort/console1.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 21686
+        },
+        {
+            "title": "Console table (detail)",
+            "date": "c. 1717",
+            "technique": "Walnut dark brown varnish marble top",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/l/le_fort/console2.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 21687
+        },
+        {}
+    ]
+}

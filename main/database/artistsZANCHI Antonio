@@ -1,0 +1,59 @@
+{
+    "name": "ZANCHI Antonio",
+    "life": "(b. 1631 Este d. 1722 Venezia)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Abraham Teaching Astrology to the Egyptians",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 276 x 370 cm",
+            "location": "Santa Maria del Giglio Venice",
+            "url": "https://www.wga.hu/html/z/zanchi/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44520
+        },
+        {
+            "title": "David and Goliath",
+            "date": "-",
+            "technique": "Oil on canvas 156 x 170 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zanchi/davidgol.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44521
+        },
+        {
+            "title": "The Death of King Josiah",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 116 x 166 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zanchi/josiah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44522
+        },
+        {
+            "title": "The Virgin Appears to the Plague Victims",
+            "date": "1666",
+            "technique": "Oil on canvas 555 x 335 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/z/zanchi/plague.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44523
+        },
+        {
+            "title": "The Virgin Appears to the Plague Victims (detail)",
+            "date": "1666",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/z/zanchi/plague_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44524
+        },
+        {}
+    ]
+}

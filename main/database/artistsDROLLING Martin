@@ -1,0 +1,79 @@
+{
+    "name": "DROLLING Martin",
+    "life": "(b. 1752 Oberbergheim d. 1817 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Alms to the Poor",
+            "date": "-",
+            "technique": "Oil on panel 34 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drolling/almspoor.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12088
+        },
+        {
+            "title": "Barth\u00e9l\u00e9my Charles Comte de Dreux-Nancr\u00e9",
+            "date": "1797",
+            "technique": "Oil on canvas 94 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drolling/charles.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12089
+        },
+        {
+            "title": "Portrait of the Artist's Son as a Drummer",
+            "date": "-",
+            "technique": "Oil on canvas 120 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drolling/drummer.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12090
+        },
+        {
+            "title": "The Fortune Teller",
+            "date": "c. 1808",
+            "technique": "Oil on panel 24 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/drolling/fortunet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12091
+        },
+        {
+            "title": "Interior of a Kitchen",
+            "date": "1815",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/drolling/kitchen.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 12092
+        },
+        {
+            "title": "Interior of a Kitchen (detail)",
+            "date": "1815",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/drolling/kitchen1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 12093
+        },
+        {
+            "title": "The Messenger or \"\"The Good News\"\"\"1806\"Oil on canvas 72 x 91 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/d/drolling/messenge.html",
+            "location": "painting",
+            "url": "genre",
+            "form": "French",
+            "painting_type": "1751-1800",
+            "index": 12094
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ALSLOOT Denis van",
+    "life": "(b. 1570 Bruxelles d. 1626 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Extensive Wooded Landscape with Cephalus and Procris",
+            "date": "-",
+            "technique": "Oil on copper 26 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alsloot/extensiv.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 361
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "c. 1608",
+            "technique": "Oil on oak panel 52 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alsloot/flight_e.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 362
+        },
+        {
+            "title": "Skating during Carnival",
+            "date": "c. 1620",
+            "technique": "Oil on panel 57 x 100 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/alsloot/skating.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 363
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "1610",
+            "technique": "Oil on wood 36 x 47 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/alsloot/winter_l.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 364
+        },
+        {
+            "title": "Winter Landscape in the F\u00f4ret de Soignes with the Flight Into Egypt",
+            "date": "c. 1616",
+            "technique": "Oil on oak panel 49 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alsloot/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 365
+        },
+        {}
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "REYMOND Pierre",
+    "life": "(c. 1513- after 1584)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Charger",
+            "date": "1560-61",
+            "technique": "Painted enamel width 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reymond/charger.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34143
+        },
+        {
+            "title": "Ewer",
+            "date": "1564",
+            "technique": "Painted enamel height 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reymond/ewer.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34144
+        },
+        {
+            "title": "Hexagonal Salt",
+            "date": "1540-45",
+            "technique": "Painted enamel 5 x 75 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/r/reymond/hexasalt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34145
+        },
+        {
+            "title": "Jael Killing Sisera",
+            "date": "1550-75",
+            "technique": "Painted enamel on copper 29 x 24 cm",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/r/reymond/plaque.html",
+            "form": "metalwork",
+            "painting_type": "mythological",
+            "index": 34146
+        },
+        {
+            "title": "Tazza",
+            "date": "1558",
+            "technique": "Grisaille painted enamelled copper",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reymond/tazza.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34147
+        },
+        {
+            "title": "Tazza (top)",
+            "date": "1558",
+            "technique": "Grisaille painted enamelled copper",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reymond/tazza1.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 34148
+        },
+        {
+            "title": "Triptych",
+            "date": "1538",
+            "technique": "Copper polychrome enamels and gilding 20 x 17 cm (centre panel) 20 x 8 cm (side panels)",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/r/reymond/triptych.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 34149
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "BENVENUTI Pietro",
+    "life": "(b. 1769 Arezzo d. 1844 Firenze)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Elisa Bonaparte and Her Daughter",
+            "date": "c. 1810",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "url": "https://www.wga.hu/html/b/benvenu/elisa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4089
+        },
+        {
+            "title": "Elisa Bonaparte and Her Daughter (detail)",
+            "date": "c. 1810",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "url": "https://www.wga.hu/html/b/benvenu/elisa1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4090
+        },
+        {
+            "title": "The Oath of the Saxons",
+            "date": "1812",
+            "technique": "Oil on canvas 380 x 480 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/b/benvenu/saxons.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 4091
+        },
+        {}
+    ]
+}

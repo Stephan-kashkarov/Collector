@@ -1,0 +1,49 @@
+{
+    "name": "ZAUNER Franz Anton",
+    "life": "(b. 1746 Untervalpatann d. 1822 Wien)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Fries Funeral Monument",
+            "date": "1788-90",
+            "technique": "Marble",
+            "location": "Castle Garden V\u00f6slau",
+            "url": "https://www.wga.hu/html/z/zauner/funeral.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44553
+        },
+        {
+            "title": "Genius Bornii",
+            "date": "c. 1785",
+            "technique": "Plaster graphitiyed height 79 cm",
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "url": "https://www.wga.hu/html/z/zauner/genius.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44554
+        },
+        {
+            "title": "Equestrian statue of the Emperor Joseph II",
+            "date": "1795-1806",
+            "technique": "Bronze",
+            "location": "Josephplatz Vienna",
+            "url": "https://www.wga.hu/html/z/zauner/joseph2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 44555
+        },
+        {
+            "title": "Equestrian statue of the Emperor Joseph II",
+            "date": "1795-1806",
+            "technique": "Bronze",
+            "location": "Josephplatz Vienna",
+            "url": "https://www.wga.hu/html/z/zauner/joseph2x.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 44556
+        },
+        {}
+    ]
+}

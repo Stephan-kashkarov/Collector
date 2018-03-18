@@ -1,0 +1,69 @@
+{
+    "name": "BARTOLOMEO VENETO",
+    "life": "(active 1502 d. 1531 Torino)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1505",
+            "technique": "Oil on panel 47 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3315
+        },
+        {
+            "title": "Madonna and Child (detail)",
+            "date": "c. 1505",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/madonna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3316
+        },
+        {
+            "title": "Woman Playing a Lute",
+            "date": "1520",
+            "technique": "Oil on panel 65 x 50 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/playlute.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3317
+        },
+        {
+            "title": "Portrait of a Bearded Gentleman",
+            "date": "1508-10",
+            "technique": "Oil and tempera on panel 59 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/portbear.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3318
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "c. 1512",
+            "technique": "Oil on panel 73 x 58 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3319
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1520-25",
+            "technique": "Tempera and oil on poplar panel 44 x 35 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/b/bartolom/veneto/portwoma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3320
+        },
+        {}
+    ]
+}

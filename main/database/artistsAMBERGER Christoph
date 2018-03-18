@@ -1,0 +1,79 @@
+{
+    "name": "AMBERGER Christoph",
+    "life": "(b. ca. 1505 Augsburg d. 1562 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christoph Fugger",
+            "date": "1541",
+            "technique": "Wood 97 x 80 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/a/amberger/fugger.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 444
+        },
+        {
+            "title": "Goldsmith J\u00f6rg Z\u00fcrer of Augsburg",
+            "date": "1531",
+            "technique": "Oil on panel 78 x 51 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/amberger/goldsmit.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 445
+        },
+        {
+            "title": "Portrait of the Cosmographer Sebastien M\u00fcnster",
+            "date": "c. 1552",
+            "technique": "Oil on wood 54 x 42 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/a/amberger/munster.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 446
+        },
+        {
+            "title": "Portrait of Matth\u00e4us Schwarz",
+            "date": "1542",
+            "technique": "Oil on panel 74 x 61 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/a/amberger/schwarz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 447
+        },
+        {
+            "title": "Portrait of Felicitas Seiler",
+            "date": "1537",
+            "technique": "Wood 90 x 80 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/a/amberger/seiler.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 448
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "after 1548",
+            "technique": "Oil on wood 51 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/amberger/youngman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 449
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "after 1548",
+            "technique": "Oil on wood 51 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/amberger/youngwom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 450
+        },
+        {}
+    ]
+}

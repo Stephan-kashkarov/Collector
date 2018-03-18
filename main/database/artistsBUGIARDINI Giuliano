@@ -1,0 +1,99 @@
+{
+    "name": "BUGIARDINI Giuliano",
+    "life": "(b. 1475 Firenze d. 1554 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Holy Family with St John the Baptist",
+            "date": "c. 1520",
+            "technique": "Oil on canvas diameter 89 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bugiardi/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6801
+        },
+        {
+            "title": "The Holy Family with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on canvas diameter 97 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bugiardi/holyfamy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6802
+        },
+        {
+            "title": "The Madonna and Child with the Infant St John the Baptist",
+            "date": "1515-18",
+            "technique": "Oil on panel 69 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bugiardi/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6803
+        },
+        {
+            "title": "Portrait of Michelangelo Wearing a Turban",
+            "date": "1522",
+            "technique": "Oil on wood 49 x 36 cm",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/b/bugiardi/michelan.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6804
+        },
+        {
+            "title": "Scenes from the Story of Tobias (1)",
+            "date": "c. 1500",
+            "technique": "Poplar 60 x 159 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bugiardi/scenes1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6805
+        },
+        {
+            "title": "Scenes from the Story of Tobias (2)",
+            "date": "c. 1500",
+            "technique": "Poplar 60 x 159 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bugiardi/scenes2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6806
+        },
+        {
+            "title": "Portrait of a Woman called \"\"The Nun\"\"",
+            "date": "1506-10",
+            "technique": "Oil on wood 65 x 48 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bugiardi/the_nun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 6807
+        },
+        {
+            "title": "Virgin and Child with the Infant St John the Baptist",
+            "date": "1520",
+            "technique": "Oil on panel 118 x 91 cm",
+            "location": "Galleria dell'Accademia Florence",
+            "url": "https://www.wga.hu/html/b/bugiardi/virchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6808
+        },
+        {
+            "title": "Virgin and Child with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on wood diameter 85 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bugiardi/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6809
+        },
+        {}
+    ]
+}

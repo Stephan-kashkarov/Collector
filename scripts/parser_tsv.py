@@ -161,6 +161,8 @@ with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS W
 
 for name in parsed_data:
 	print(name['name'])
-	url = "../main/database/artists" + name['name']
+	filename = name['name'].replace(" ", "-").lower()
+	filename = filename + ".json"
+	url = "../main/database/artists/" + filename
 	with open(url, "w") as file:
 		json.dump(name, file, indent = 4)

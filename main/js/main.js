@@ -13,7 +13,7 @@ $(document).ready(function (e) {
 	for (var i = 0; i < artist_list.length; i++) {
 		console.log("adding artist,", i);
 		index = parseInt(i);
-		index = new artist(artist_list[i]);
+		index = new artist_lite(artist_list[i]);
 		artist_dict.push(index);
 	}
 	make_data_list(artist_dict);

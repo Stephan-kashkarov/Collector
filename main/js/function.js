@@ -1,7 +1,7 @@
 artist_list = [];
 artist_dict = [];
 
-class artist {
+class artist_lite {
 	constructor(list) {
 		this.name = list[0];
 		this.url = list[1];
@@ -15,6 +15,12 @@ class artist {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
 			}
 		})
+	}
+}
+
+class artist_full {
+	constructor() {
+
 	}
 }
 
@@ -42,4 +48,5 @@ function print_artist(object, index) {
 	});
 	object = object.responseText;
 
+	$(".main").html()
 }

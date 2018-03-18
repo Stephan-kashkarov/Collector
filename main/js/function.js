@@ -7,7 +7,7 @@ class artist {
 	}
 
 	load_artist(){
-		$.ajax.({
+		artist_profile = $.ajax.({
 			method: "GET",
 			url: this.url,
 			error: function(xhr) {

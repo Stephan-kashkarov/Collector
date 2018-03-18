@@ -159,10 +159,15 @@ for line in lines:
 with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE
 	json.dump(parsed_data, outfile, indent=4)  # DUMPS DATA TO JSON FILE
 
+name_list = {} 
 for name in parsed_data:
 	print(name['name'])
-	filename = name['name'].replace(" ", "-").lower()
+	filename = name['name'].replace(" ", "-").replace('.', '').lower()
 	filename = filename + ".json"
 	url = "../main/database/artists/" + filename
+	name_list[name['name']] = url[8:]
 	with open(url, "w") as file:
 		json.dump(name, file, indent = 4)
+
+with open("../main/database/artists.json", "w") as outfile:  # SETS JSON FILE AS WRITE
+	json.dump(name_list, outfile, indent=4)  # DUMPS DATA TO JSON FILE

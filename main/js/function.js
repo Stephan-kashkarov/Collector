@@ -25,7 +25,6 @@ class _tag {
 	}
 }
 
-<<<<<<< HEAD
 	append_article() {
 		var formatted = this.listify();
 		articles.push(formatted);
@@ -74,7 +73,6 @@ function print_all() {
 	}
 }
 
-<<<<<<< HEAD
 class database {
 	constructor(ajaxdb) {
 		this.db = ajaxdb;

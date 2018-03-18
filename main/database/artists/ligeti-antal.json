@@ -1,0 +1,49 @@
+{
+    "name": "LIGETI Antal",
+    "life": "(b. 1823 Nagyk\u00e1roly d. 1890 Budapest)",
+    "school": "Hungarian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Oasis in the Desert",
+            "date": "1862",
+            "technique": "Oil on canvas 127 x 1875 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/l/ligeti/1oasis.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22371
+        },
+        {
+            "title": "Italian Landscape",
+            "date": "1873",
+            "technique": "Oil on canvas 73 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/ligeti/2landsca.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22372
+        },
+        {
+            "title": "M\u00e1rtonhegyi Road",
+            "date": "1876",
+            "technique": "Oil on canvas 59 x 94 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/l/ligeti/3road.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22373
+        },
+        {
+            "title": "Romantic Waterside Landscape with Figures",
+            "date": "1886",
+            "technique": "Oil on canvas 96 x 144 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/ligeti/4landsca.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22374
+        },
+        {}
+    ]
+}

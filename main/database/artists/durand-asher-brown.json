@@ -1,0 +1,29 @@
+{
+    "name": "DURAND Asher Brown",
+    "life": "(b. 1796 Springfield Township d. 1886 Maplewood)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Kindred Spirits",
+            "date": "1849",
+            "technique": "Oil on canvas 117 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/durand/spirits.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12440
+        },
+        {
+            "title": "A Stream in the Wood",
+            "date": "1865",
+            "technique": "Oil on canvas 102 x 82 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/d/durand/stream.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12441
+        },
+        {}
+    ]
+}

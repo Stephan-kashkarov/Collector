@@ -1,0 +1,59 @@
+{
+    "name": "PUCCINELLI Angelo",
+    "life": "(active 1380-1407 in Lucca)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Virgin and Child with Angels and Saints",
+            "date": "c. 1385",
+            "technique": "Tempera on wood 98 x 53 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/p/puccine/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32542
+        },
+        {
+            "title": "Virgin and Child with Angels and Saints (detail)",
+            "date": "c. 1385",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/p/puccine/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32543
+        },
+        {
+            "title": "Virgin and Child with Angels and Saints (detail)",
+            "date": "c. 1385",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/p/puccine/virgin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32544
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Wood",
+            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Abbaye de Chaalis",
+            "url": "https://www.wga.hu/html/p/puccine/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32545
+        },
+        {
+            "title": "St John the Baptist and St Magdalen",
+            "date": "1380s",
+            "technique": "Oil on poplar panel 80 x 52 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/p/puccine/wing_r.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32546
+        },
+        {}
+    ]
+}

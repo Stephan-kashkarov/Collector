@@ -1,0 +1,49 @@
+{
+    "name": "COSWAY Richard",
+    "life": "(b. 1742 Tiverton d. 1821 Edgware)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of Lady Almeria Carpenter",
+            "date": "c. 1780",
+            "technique": "Oil on canvas 128 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cosway/carpente.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9813
+        },
+        {
+            "title": "A Gentleman",
+            "date": "c. 1790",
+            "technique": "Watercolour on ivory 64 x 51 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/c/cosway/gentlema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9814
+        },
+        {
+            "title": "A Lady",
+            "date": "c. 1790",
+            "technique": "Watercolour on ivory 44 x 41 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/c/cosway/lady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9815
+        },
+        {
+            "title": "Miss Franks",
+            "date": "c. 1790",
+            "technique": "Watercolour on ivory 19 x 16 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/c/cosway/m_franks.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9816
+        },
+        {}
+    ]
+}

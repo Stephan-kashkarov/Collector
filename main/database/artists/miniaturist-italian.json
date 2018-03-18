@@ -1,0 +1,1829 @@
+{
+    "name": "MINIATURIST Italian",
+    "life": "(active before 716 in Northumbria)",
+    "school": "Italian",
+    "timeframe": "0701-0750",
+    "art": [
+        {
+            "title": "Codex Amiatinus",
+            "date": "before 716",
+            "technique": "Manuscript (Ms. Amiatinus 1) 505 x 340 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0701-750/2other/2italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28048
+        },
+        {
+            "title": "Exultet roll",
+            "date": "c. 1000",
+            "technique": "Roll (No. 1)",
+            "location": "Cathedral Library Bari",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/3italia1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28049
+        },
+        {
+            "title": "Pontifical roll",
+            "date": "c. 970",
+            "technique": "Manuscript (Ms. 724 [B.I.13])",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/3italia2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28050
+        },
+        {
+            "title": "Bishop and Clergy",
+            "date": "981-87",
+            "technique": "Manuscript",
+            "location": "Ecclesiastical Co-Cathedral Museum Canosa di Puglia",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/3italia3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28051
+        },
+        {
+            "title": "Rabanus Maurus: De Universo",
+            "date": "c. 1023",
+            "technique": "Manuscript (Cod. 132)",
+            "location": "Monastery Library Montecassino",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/06_1003.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28052
+        },
+        {
+            "title": "Passionary",
+            "date": "around 1050",
+            "technique": "Manuscript (II. I. 412)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/07_1001.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28053
+        },
+        {
+            "title": "Passionary",
+            "date": "around 1050",
+            "technique": "Manuscript (II. I. 412)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/08_1001.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28054
+        },
+        {
+            "title": "Gospel Book of Matilda",
+            "date": "1090s",
+            "technique": "Manuscript 343 x 198 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/05_1051.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28055
+        },
+        {
+            "title": "Exultet Rolls of Southern Italy",
+            "date": "c. 1087",
+            "technique": "Manuscript (Ms. Barb. Lat. 592)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/05_1052.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28056
+        },
+        {
+            "title": "Life of the Countess Matilda of Canossa",
+            "date": "1120s",
+            "technique": "Manuscript 160 x 210 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/03_1101.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28057
+        },
+        {
+            "title": "Corbolino's Bible",
+            "date": "1140",
+            "technique": "Manuscript (Codex Conventi Soppressi 630)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/04_1101.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28058
+        },
+        {
+            "title": "Sacramentary",
+            "date": "12th century",
+            "technique": "Manuscript (Codex Calci ms. 36)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/05_1101.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28059
+        },
+        {
+            "title": "Gospel Book",
+            "date": "1160s",
+            "technique": "Manuscript (Acq. E Doni 91)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/01_1151.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28060
+        },
+        {
+            "title": "Gospel Book",
+            "date": "1160s",
+            "technique": "Manuscript (Acq. E Doni 91)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/02_1151.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28061
+        },
+        {
+            "title": "Sacramentary",
+            "date": "1150-75",
+            "technique": "Manuscript (Conv. Sopr. 292)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/03_1151.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28062
+        },
+        {
+            "title": "Legendae sanctorum",
+            "date": "1190s",
+            "technique": "Manuscript (Cod. Lat. Z. 356)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/03_1152.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28063
+        },
+        {
+            "title": "Petrus de Ebulo: Liber ad Honorem Augusti",
+            "date": "c. 1195",
+            "technique": "Manuscript (MS 120 II)",
+            "location": "B\u00fcrgerbibliothek Bern",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/03_1153.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28064
+        },
+        {
+            "title": "Petrus de Ebulo: Liber ad Honorem Augusti",
+            "date": "c. 1195",
+            "technique": "Manuscript (MS 120 II)",
+            "location": "B\u00fcrgerbibliothek Bern",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/5other/03_1154.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28065
+        },
+        {
+            "title": "Justinian: Corpus Juris Civilis",
+            "date": "1200-50",
+            "technique": "Manuscript (Ms. CLXXIII)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/4other/04_1201.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28066
+        },
+        {
+            "title": "Medicina Antiqua",
+            "date": "1200-50",
+            "technique": "Manuscript (Codex Vindobonensis 93)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/4other/05_1201.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28067
+        },
+        {
+            "title": "Emperor Frederick II: The Art of Falconry",
+            "date": "1250s",
+            "technique": "Manuscript (Pal. lat. 1071) 360 x 250 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/01italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28068
+        },
+        {
+            "title": "Emperor Frederick II: The Art of Falconry",
+            "date": "1250s",
+            "technique": "Manuscript (Pal. lat. 1071)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/02italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28069
+        },
+        {
+            "title": "Emperor Frederick II: The Art of Falconry",
+            "date": "1250s",
+            "technique": "Manuscript (Pal. lat. 1071)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/03italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28070
+        },
+        {
+            "title": "Emperor Frederick II: The Art of Falconry",
+            "date": "1250s",
+            "technique": "Manuscript (Pal. lat. 1071)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/03italib.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28071
+        },
+        {
+            "title": "De modo orandi",
+            "date": "1260-88",
+            "technique": "Manuscript",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/04italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28072
+        },
+        {
+            "title": "De modo orandi",
+            "date": "1260-88",
+            "technique": "Manuscript",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/05italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28073
+        },
+        {
+            "title": "Scientia artis musicae by Elias Salomonis",
+            "date": "c. 1274",
+            "technique": "Manuscript (Cod. D 75 inf)",
+            "location": "Biblioteca Ambrosiana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/061itali.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28074
+        },
+        {
+            "title": "Rolando da Parma: Chirurgia",
+            "date": "1290s",
+            "technique": "Manuscript (Ms. 1382)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/06italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28075
+        },
+        {
+            "title": "Rolando da Parma: Chirurgia",
+            "date": "1290s",
+            "technique": "Manuscript (Ms. 1382)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/07italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28076
+        },
+        {
+            "title": "Rolando da Parma: Chirurgia",
+            "date": "1290s",
+            "technique": "Manuscript (Ms. 1382)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/3italian/08italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28077
+        },
+        {
+            "title": "Rasis: Liber medicinalis Almansoris",
+            "date": "1300-20",
+            "technique": "Manuscript (Plut. 73. 43)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/11italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28078
+        },
+        {
+            "title": "Livre des Saints",
+            "date": "1300-20",
+            "technique": "Manuscript (Est. 116)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/12italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28079
+        },
+        {
+            "title": "Livre des Saints",
+            "date": "1300-20",
+            "technique": "Manuscript (Est. 116)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/13italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28080
+        },
+        {
+            "title": "Dictating the will",
+            "date": "1300-20",
+            "technique": "Manuscript (MS Adv. 50. 1.)",
+            "location": "National Library of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/141itali.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28081
+        },
+        {
+            "title": "Decretum Gratiani",
+            "date": "1320s",
+            "technique": "Manuscript (Vat. lat. 1366)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/14italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28082
+        },
+        {
+            "title": "Missal",
+            "date": "1320s",
+            "technique": "Manuscript (Lat. III. 111)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/15italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28083
+        },
+        {
+            "title": "Missal",
+            "date": "1320s",
+            "technique": "Manuscript (Lat. III. 111)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/16italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28084
+        },
+        {
+            "title": "Liber Pantheon of Goffredo da Viterbo",
+            "date": "1331",
+            "technique": "Manuscript (Ms. Lat. 4895M)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/16italib.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28085
+        },
+        {
+            "title": "Panegyric in honour of King Robert of Anjou",
+            "date": "1334-36",
+            "technique": "Manuscript (Banco Rari 38)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/17italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28086
+        },
+        {
+            "title": "Panegyric in honour of King Robert of Anjou",
+            "date": "1334-36",
+            "technique": "Manuscript (Banco Rari 38)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/18italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28087
+        },
+        {
+            "title": "Beno\u00eet de Sainte Maure: Roman de Troie",
+            "date": "1330s",
+            "technique": "Manuscript (Fr. Z. 17)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/19italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28088
+        },
+        {
+            "title": "Beno\u00eet de Sainte Maure: Roman de Troie",
+            "date": "1340s",
+            "technique": "Manuscript (Reg. lat. 1505)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/20italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28089
+        },
+        {
+            "title": "Dante Codex",
+            "date": "1340s",
+            "technique": "Manuscript (Cod. Ital. 1)",
+            "location": "University Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/21italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28090
+        },
+        {
+            "title": "Libro del Biadaiolo",
+            "date": "1340s",
+            "technique": "Manuscript (Tempi 3) 385 x 270 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/22italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28091
+        },
+        {
+            "title": "Libro del Biadaiolo",
+            "date": "1340s",
+            "technique": "Manuscript (Tempi 3) 385 x 270 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/22italib.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28092
+        },
+        {
+            "title": "Libro del Biadaiolo",
+            "date": "1340s",
+            "technique": "Manuscript (Tempi 3) 385 x 270 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/23italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28093
+        },
+        {
+            "title": "Libro del Biadaiolo",
+            "date": "1340s",
+            "technique": "Manuscript (Tempi 3) 385 x 270 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/24italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28094
+        },
+        {
+            "title": "Libro del Biadaiolo",
+            "date": "1340s",
+            "technique": "Manuscript (Tempi 3) 385 x 270 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/25italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28095
+        },
+        {
+            "title": "The Annunciation in an Initial M",
+            "date": "1340s",
+            "technique": "Manuscript 141 x 153 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/26italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28096
+        },
+        {
+            "title": "Two Martyr Saints in an Initial S",
+            "date": "1340s",
+            "technique": "Manuscript 152 x 127 mm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/27italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28097
+        },
+        {
+            "title": "La Somme le Roy",
+            "date": "1340s",
+            "technique": "Manuscript (II. VI. 16)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/28italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28098
+        },
+        {
+            "title": "La Somme le Roy",
+            "date": "1340s",
+            "technique": "Manuscript (II. VI. 16)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/29italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28099
+        },
+        {
+            "title": "Gregory IX: Decretals",
+            "date": "1340s",
+            "technique": "Manuscript (Ms. 488)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/30italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28100
+        },
+        {
+            "title": "Antiphoner",
+            "date": "-",
+            "technique": "Manuscript 512 x 355 mm (page size)",
+            "location": "Rare Book and Manuscript Library Yale University New Haven",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/31italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28101
+        },
+        {
+            "title": "Antiphoner",
+            "date": "-",
+            "technique": "Manuscript 512 x 355 mm (page size)",
+            "location": "Rare Book and Manuscript Library Yale University New Haven",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/32italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28102
+        },
+        {
+            "title": "Missal",
+            "date": "c. 1350",
+            "technique": "Manuscript (Cod. Lat. III 111)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/3italian/33italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28103
+        },
+        {
+            "title": "Tacuinum sanitatis",
+            "date": "1370-90",
+            "technique": "Manuscript (MS Lat. 1673)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/01herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28104
+        },
+        {
+            "title": "Tacuinum Sanitatis",
+            "date": "1380s",
+            "technique": "Manuscript (Ms. Lat. 6977A)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/02herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28105
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644) 330 x 230 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/03herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28106
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/04herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28107
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/05herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28108
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/06herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28109
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/07herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28110
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/08herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28111
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/09herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28112
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/10herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28113
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644) 330 x 230 mm (folio size)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/11herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28114
+        },
+        {
+            "title": "Tacuinum Sanitatis in Medicina",
+            "date": "c. 1398",
+            "technique": "Manuscript (Codex Vindobonensis S.N. 2644) 330 x 230 mm (folio size)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/12herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28115
+        },
+        {
+            "title": "The 'Carrara Herbal'",
+            "date": "1390-1404",
+            "technique": "Manuscript (MS Egerton 2020) 350 x 240 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/13herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28116
+        },
+        {
+            "title": "The 'Carrara Herbal'",
+            "date": "1390-1404",
+            "technique": "Manuscript (MS Egerton 2020)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italia/14herbal.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28117
+        },
+        {
+            "title": "Bible of Matteo di Planisio",
+            "date": "c. 1362",
+            "technique": "Manuscript (Cod. Lat. 3550/I)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/41italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28118
+        },
+        {
+            "title": "Histoires",
+            "date": "1380s",
+            "technique": "Manuscript (Fr. Z. 2)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/42italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28119
+        },
+        {
+            "title": "Francisci Petrarchae Po\u00ebtae laureati epitome virorum illustrium",
+            "date": "1379",
+            "technique": "Manuscript (Ms. Latin 6069F)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/42italib.html",
+            "form": "illumination",
+            "painting_type": "portrait",
+            "index": 28120
+        },
+        {
+            "title": "Francisci Petrarchae Po\u00ebtae laureati epitome virorum illustrium",
+            "date": "1379",
+            "technique": "Manuscript (Ms. Latin 6069F)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/42italic.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28121
+        },
+        {
+            "title": "Histoires",
+            "date": "1380s",
+            "technique": "Manuscript (Fr. Z. 2)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/43italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28122
+        },
+        {
+            "title": "Cecco d'Ascoli: Acerba",
+            "date": "1380s",
+            "technique": "Manuscript (Plut. 40. 52.)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/44italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28123
+        },
+        {
+            "title": "Cecco d'Ascoli: Acerba",
+            "date": "1380s",
+            "technique": "Manuscript (Plut. 40. 52.)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/45italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28124
+        },
+        {
+            "title": "Meliadus or Guiron le Courtois",
+            "date": "1352-62",
+            "technique": "Manuscript (Add MS 12228)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/45italib.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28125
+        },
+        {
+            "title": "Legend of Guiron le Courtois",
+            "date": "1389",
+            "technique": "Manuscript (Ms. fr. 5253)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/46itali.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28126
+        },
+        {
+            "title": "Legend of St Margaret",
+            "date": "1380-90",
+            "technique": "Manuscript",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/46italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28127
+        },
+        {
+            "title": "Gradual",
+            "date": "c. 1387",
+            "technique": "Manuscript (1975.1.2476) 268 x 255 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/47italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28128
+        },
+        {
+            "title": "Gradual",
+            "date": "14th century",
+            "technique": "Manuscript (Ms. I. R. 1854)",
+            "location": "Biblioteka Jagiellonska Cracow",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/48italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28129
+        },
+        {
+            "title": "Gradual",
+            "date": "1390s",
+            "technique": "Manuscript (Ms. MLXI)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/49italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28130
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1390",
+            "technique": "Manuscript (Lat. 842)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/50italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28131
+        },
+        {
+            "title": "Antiphonary",
+            "date": "1385-90",
+            "technique": "Manuscript 280 x 280 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/51italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28132
+        },
+        {
+            "title": "Villani Chronicle",
+            "date": "1390s",
+            "technique": "Manuscript",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/52italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28133
+        },
+        {
+            "title": "Villani Chronicle",
+            "date": "1390s",
+            "technique": "Illumination on parchment",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/53italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28134
+        },
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "1380-1400",
+            "technique": "Manuscript (Cod. It. IX. 276) 430 x 280 mm",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/54itali.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28135
+        },
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "1380-1400",
+            "technique": "Manuscript (Cod. It. IX. 276)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/54italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28136
+        },
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "1380-1400",
+            "technique": "Manuscript (Cod. It. IX. 276)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/55italia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28137
+        },
+        {
+            "title": "Chronica de Carrarensibus",
+            "date": "1390s",
+            "technique": "Manuscript (Lat. X. 381)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/56italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28138
+        },
+        {
+            "title": "Chronica de Carrarensibus",
+            "date": "1390s",
+            "technique": "Manuscript (Lat. X. 381)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/57italia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28139
+        },
+        {
+            "title": "Italian Bible Part 2",
+            "date": "1375-1400",
+            "technique": "Manuscript (MS Add. 15277)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/58italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28140
+        },
+        {
+            "title": "Italian Bible Part 2",
+            "date": "1375-1400",
+            "technique": "Manuscript (MS Add. 15277)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/59italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28141
+        },
+        {
+            "title": "Initial",
+            "date": "1390s",
+            "technique": "Manuscript (inv. M338)",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/2italian/61italia.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28142
+        },
+        {
+            "title": "Female artist",
+            "date": "1402",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/10secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28143
+        },
+        {
+            "title": "Mercato di Mezzo",
+            "date": "1411",
+            "technique": "Manuscript (Cod. N. 92)",
+            "location": "Museo Civico Medievale Bologna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/11secul.html",
+            "form": "illumination",
+            "painting_type": "landscape",
+            "index": 28144
+        },
+        {
+            "title": "Poems",
+            "date": "after 1436",
+            "technique": "Manuscript 295 x 200 mm",
+            "location": "Biblioteca Riccardiana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/11secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28145
+        },
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "15th century",
+            "technique": "Manuscript (Banco Rari 215)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/12secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28146
+        },
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "15th century",
+            "technique": "Manuscript (Banco Rari 215)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/13secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28147
+        },
+        {
+            "title": "Tractatus Asceticus (Columba)",
+            "date": "15th century",
+            "technique": "Manuscript (Codex Vindobonensis 1591)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/14secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28148
+        },
+        {
+            "title": "Illustration to Boccaccio's Decameron",
+            "date": "1430",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/15secul.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28149
+        },
+        {
+            "title": "Liber insularum Archipelagi",
+            "date": "15th century",
+            "technique": "Manuscript (Lat. X. 123)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/15secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28150
+        },
+        {
+            "title": "Deeds of Alexander the Great",
+            "date": "1400-50",
+            "technique": "Manuscript (Cod. Lat. 161)",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/16secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28151
+        },
+        {
+            "title": "Liber Physiognomiae",
+            "date": "1440s",
+            "technique": "Manuscript (Ms. Lat. 696)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/17secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28152
+        },
+        {
+            "title": "Liber Physiognomiae",
+            "date": "1440s",
+            "technique": "Manuscript (Ms. Lat. 696)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/18secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28153
+        },
+        {
+            "title": "Liber Physiognomiae",
+            "date": "1440s",
+            "technique": "Manuscript (Ms. Lat. 696)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/19secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28154
+        },
+        {
+            "title": "Livius Codex",
+            "date": "c.1450",
+            "technique": "Manuscript (Cod. Lat. 15731)",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/3italian/20secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28155
+        },
+        {
+            "title": "Revelations of St Bridget of Sweden",
+            "date": "c. 1400",
+            "technique": "Illumination on parchment 268 x 190 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/11religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28156
+        },
+        {
+            "title": "Missal",
+            "date": "1400-10",
+            "technique": "Manuscript (Ms. AG XII 3)",
+            "location": "Biblioteca Braidense Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/12religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28157
+        },
+        {
+            "title": "Parisian Book of Hours",
+            "date": "c. 1405-10",
+            "technique": "Manuscript",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/13religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28158
+        },
+        {
+            "title": "Gradual",
+            "date": "1409",
+            "technique": "Manuscript (Corle 3) 670 x 480 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/14religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28159
+        },
+        {
+            "title": "Initial 'N'",
+            "date": "1410-14",
+            "technique": "Illumination",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/15religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28160
+        },
+        {
+            "title": "Gradual",
+            "date": "1417",
+            "technique": "Manuscript (Ms. 1171)",
+            "location": "Biblioth\u00e8que Municipale Douai",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/16religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28161
+        },
+        {
+            "title": "St Augustine",
+            "date": "1440s",
+            "technique": "Manuscript (Cod. vit. 22-11)",
+            "location": "Biblioteca Nacionale Madrid",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/17religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28162
+        },
+        {
+            "title": "Missal",
+            "date": "1400-50",
+            "technique": "Manuscript (Cod. Lat. III 120)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/4italian/18religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28163
+        },
+        {
+            "title": "Ptolemy: Geography",
+            "date": "c. 1453",
+            "technique": "Manuscript (Gr. Z. 388)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/11classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28164
+        },
+        {
+            "title": "Ptolemy: Geography",
+            "date": "c. 1470",
+            "technique": "Manuscript (Ms. lat. 4802)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/12classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28165
+        },
+        {
+            "title": "Ptolemy: Cosmography",
+            "date": "1472",
+            "technique": "Manuscript (Urb. lat. 277) 593 x 435 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/13classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28166
+        },
+        {
+            "title": "In libris Epitomarum illustriorum virorum Plutarchi",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. CCXXXIX)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/14classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28167
+        },
+        {
+            "title": "In libris Epitomarum illustriorum virorum Plutarchi",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. CCXXXIX)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/15classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28168
+        },
+        {
+            "title": "In libris Epitomarum illustriorum virorum Plutarchi",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. CCXXXIX)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/16classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28169
+        },
+        {
+            "title": "In libris Epitomarum illustriorum virorum Plutarchi",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. CCXXXIX)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/17classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28170
+        },
+        {
+            "title": "Pausanias: Description of Greece",
+            "date": "c. 1485",
+            "technique": "Manuscript (Plut. 56. 11)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/18classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28171
+        },
+        {
+            "title": "Ovid: Metamorphoses",
+            "date": "c. 1483",
+            "technique": "Manuscript (Ms. lat. 8016)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/19classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28172
+        },
+        {
+            "title": "Aristotle: Nicomachean Ethics",
+            "date": "1490s",
+            "technique": "Manuscript (Codex Phil. Gr. 4) 420 x 285 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/20classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28173
+        },
+        {
+            "title": "Aristotle: Nicomachean Ethics",
+            "date": "1490s",
+            "technique": "Manuscript (Codex Phil. Gr. 4) 420 x 285 mm (folio size)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/21classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28174
+        },
+        {
+            "title": "Virgil: Works",
+            "date": "1490s",
+            "technique": "Manuscript (Varia 190)",
+            "location": "Biblioteca Nazionale Reale Turin",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia1/22classi.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28175
+        },
+        {
+            "title": "Armiranda",
+            "date": "1452",
+            "technique": "Manuscript (Ms. 763)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/11renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28176
+        },
+        {
+            "title": "Petrarch: Canzoniere and Trionfi",
+            "date": "1450-57",
+            "technique": "Manuscript (Ms. Pal. 192)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/12renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28177
+        },
+        {
+            "title": "Petrarch: Canzoniere and Trionfi",
+            "date": "1450-57",
+            "technique": "Manuscript (Ms. Pal. 192)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/13renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28178
+        },
+        {
+            "title": "Petrarch: Canzoniere and Trionfi",
+            "date": "c. 1463",
+            "technique": "Manuscript (Plut. 141. 1.)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/14renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28179
+        },
+        {
+            "title": "Petrarch: Canzoniere and Trionfi",
+            "date": "c. 1463",
+            "technique": "Manuscript (Plut. 141. 1.)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/15renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28180
+        },
+        {
+            "title": "Boccaccio: Decameron",
+            "date": "1450-70",
+            "technique": "Manuscript (Ms. Holkham misc. 49)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/16renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28181
+        },
+        {
+            "title": "Matteo Palmieri: City of Life",
+            "date": "c. 1463",
+            "technique": "Manuscript (Plut. 40. 53.)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/17renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28182
+        },
+        {
+            "title": "Giovanni Marcanova: Collectio antiquitatum",
+            "date": "1465",
+            "technique": "Manuscript (Ms. lat. 992)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/18renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28183
+        },
+        {
+            "title": "Alessandro Cortesi: Poem",
+            "date": "1485-90",
+            "technique": "Manuscript (Cod. 85. I.1. Aug. 2)",
+            "location": "Herzog-August-Bibliothek Wolfenb\u00fcttel",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/19renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28184
+        },
+        {
+            "title": "Ransanus: Epitome Rerum Hungaricarum",
+            "date": "before 1490",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/20renais.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28185
+        },
+        {
+            "title": "Averulino: On the Architecture",
+            "date": "c. 1490",
+            "technique": "Manuscript (Ms. 2796)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/21renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28186
+        },
+        {
+            "title": "Canzoniere for three and four voices",
+            "date": "1490s",
+            "technique": "Manuscript (Banco Rari 229)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia2/22renais.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28187
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm (each)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/11religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28188
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/12religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28189
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/13religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28190
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/14religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28191
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm (folio size)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/15religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28192
+        },
+        {
+            "title": "Bible of Borso d'Este",
+            "date": "1455-61",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/16religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28193
+        },
+        {
+            "title": "Antiphonary",
+            "date": "c. 1470",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/17religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28194
+        },
+        {
+            "title": "Urbino Bible",
+            "date": "1476-78",
+            "technique": "Manuscript (Ms. Urb. lat. 1 2 2 volumes) 596 x 442 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/18religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28195
+        },
+        {
+            "title": "Urbino Bible",
+            "date": "1476-78",
+            "technique": "Manuscript (Urb. lat. 1 2 2 volumes)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/19religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28196
+        },
+        {
+            "title": "Urbino Bible",
+            "date": "1476-78",
+            "technique": "Manuscript (Urb. lat. 1 2 2 volumes)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/20religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28197
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1480",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/21religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28198
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1490s",
+            "technique": "Manuscript (Ms. 475) 112 x 85 mm",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/22religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28199
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1490s",
+            "technique": "Manuscript (Ms. Lat. 740)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/23religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28200
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1490s",
+            "technique": "Manuscript (Ms. Lat. 740)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/24religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28201
+        },
+        {
+            "title": "Vesperal",
+            "date": "1490s",
+            "technique": "Manuscript (Ms. DCCLVIII)",
+            "location": "Biblioteca Capitolare Verona",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia3/25religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28202
+        },
+        {
+            "title": "Telesforo da Cosenza: Liber de causis",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. Lat. 233)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/11variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28203
+        },
+        {
+            "title": "Telesforo da Cosenza: Liber de causis",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. Lat. 233)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/12variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28204
+        },
+        {
+            "title": "Chess Games",
+            "date": "1450s",
+            "technique": "Manuscript (Varia 128)",
+            "location": "Biblioteca Nazionale Reale Turin",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/13variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28205
+        },
+        {
+            "title": "Liber de simplicibus",
+            "date": "1450s",
+            "technique": "Manuscript (Lat. VI. 59)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/14variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28206
+        },
+        {
+            "title": "Baldo Martorelli: Grammar",
+            "date": "c. 1460",
+            "technique": "Manuscript (Ms. 786)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/15variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28207
+        },
+        {
+            "title": "Baldo Martorelli: Grammar",
+            "date": "c. 1460",
+            "technique": "Manuscript (Ms. 786)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/16variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28208
+        },
+        {
+            "title": "Raffaele Vimercati: Liber iudiciorum",
+            "date": "c. 1461",
+            "technique": "Manuscript (Ms. 1329)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/17variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28209
+        },
+        {
+            "title": "Duns Scotus",
+            "date": "1460-80",
+            "technique": "Manuscript (Additional Ms. 15273)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/18variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28210
+        },
+        {
+            "title": "The Family of Niccol\u00f2 d'Este",
+            "date": "1474-79",
+            "technique": "Manuscript",
+            "location": "Biblioteca Nazionale Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/19variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28211
+        },
+        {
+            "title": "Rothschild Miscellany",
+            "date": "1479",
+            "technique": "Manuscript (Ms. 180/51) 210 x 156 mm",
+            "location": "Israel Museum Jerusalem",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/20variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28212
+        },
+        {
+            "title": "De evitandis venenis et eorum remediis",
+            "date": "1480s",
+            "technique": "Manuscript (Ms. 125)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/21variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28213
+        },
+        {
+            "title": "Bonifacio di Calabria: Mascalcia",
+            "date": "1450-1500",
+            "technique": "Manuscript (It. 464)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/25variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28214
+        },
+        {
+            "title": "Bonifacio di Calabria: Mascalcia",
+            "date": "1450-1500",
+            "technique": "Manuscript (It. 464)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/2italia4/26variou.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28215
+        },
+        {
+            "title": "Aulus Gellius: Noctes Atticae",
+            "date": "1469",
+            "technique": "Incunable (Auct. L.2.2)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/12incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28216
+        },
+        {
+            "title": "Pliny the Elder: Naturalis historia",
+            "date": "1469",
+            "technique": "Incunable (Inc. 670 2 volumes)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/13incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28217
+        },
+        {
+            "title": "Pliny the Elder: Naturalis historia",
+            "date": "1469",
+            "technique": "Incunable (Inc. 670 2 volumes)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/14incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28218
+        },
+        {
+            "title": "Pliny the Elder: Naturalis historia",
+            "date": "1469",
+            "technique": "Incunable (Inc. 670 2 volumes)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/15incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28219
+        },
+        {
+            "title": "Historiae Romanae Decades by Livy",
+            "date": "1470",
+            "technique": "Incunable (PML 266)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/16incun.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28220
+        },
+        {
+            "title": "Petrarch: Canzoniere and Trionfi",
+            "date": "1470",
+            "technique": "Incunable (Inc. Ven. 546)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/16incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28221
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1491",
+            "technique": "Incunable (Inc. E. 25)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/18incuna.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28222
+        },
+        {
+            "title": "Giovanni Boccaccio: Filostrato",
+            "date": "1499",
+            "technique": "Incunable (Pal. E. 6. 4. 111)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/19incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28223
+        },
+        {
+            "title": "Decrees Pope Innocent IV",
+            "date": "1481",
+            "technique": "Incunable (Mon. Typ. 1481 2 10)",
+            "location": "Landesbibliothek Gotha",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/21incuna.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28224
+        },
+        {
+            "title": "Ghislieri Hours",
+            "date": "c. 1500",
+            "technique": "Manuscript (Yates Thompson Ms. 29) 205 x 150 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/04_1501.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28225
+        },
+        {
+            "title": "De laudibus eloquentiae",
+            "date": "1510",
+            "technique": "Manuscript (Ms. 39)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/05_1501.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28226
+        },
+        {
+            "title": "Antiphonary",
+            "date": "1568-72",
+            "technique": "Manuscript",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/05_1502.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28227
+        },
+        {
+            "title": "Memoirs of the Freschi Family",
+            "date": "16th century",
+            "technique": "Manuscript (It. VII. 165)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/06_1501.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28228
+        },
+        {
+            "title": "Della militia maritima",
+            "date": "1560",
+            "technique": "Manuscript (It. IV. 50)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/07_1501.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 28229
+        },
+        {}
+    ]
+}

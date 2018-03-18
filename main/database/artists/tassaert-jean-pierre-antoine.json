@@ -1,0 +1,29 @@
+{
+    "name": "TASSAERT Jean-Pierre-Antoine",
+    "life": "(b. 1727 Antwerpen d. 1788 Berlin)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Catherine the Great as Minerva",
+            "date": "-",
+            "technique": "Marble",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tassaert/jean/catherin.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38504
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1780",
+            "technique": "Marble height 565 cm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/t/tassaert/jean/selfport.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38505
+        },
+        {}
+    ]
+}

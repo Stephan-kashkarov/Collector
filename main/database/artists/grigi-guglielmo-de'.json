@@ -1,0 +1,29 @@
+{
+    "name": "GRIGI Guglielmo de'",
+    "life": "(b. ca. 1480 Alzano d. ca. 1550 Venezia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Palazzo dei Camerlenghi: Fa\u00e7ade",
+            "date": "1525-28",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/g/grigi/father/camerle1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 18509
+        },
+        {
+            "title": "Palazzo dei Camerlenghi: Fa\u00e7ade",
+            "date": "1525-28",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/g/grigi/father/camerle2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 18510
+        },
+        {}
+    ]
+}

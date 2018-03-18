@@ -1,0 +1,39 @@
+{
+    "name": "VISSCHER Anna Roemers",
+    "life": "(b. 1583 Amsterdam d. 1651 Alkmaar)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Berkemeyer",
+            "date": "1642",
+            "technique": "Green glass height 22 cm",
+            "location": "Museum f\u00fcr Kunst und Gewerbe Hamburg",
+            "url": "https://www.wga.hu/html/v/vissche/anna/berkemey.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 43288
+        },
+        {
+            "title": "Roemer",
+            "date": "1619",
+            "technique": "Clear dark-green glass with diamond-point engraving height 14 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/vissche/anna/roemer1.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 43289
+        },
+        {
+            "title": "Roemer",
+            "date": "1621",
+            "technique": "Clear green glass with diamond-point engraving height 13 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/vissche/anna/roemer2.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 43290
+        },
+        {}
+    ]
+}

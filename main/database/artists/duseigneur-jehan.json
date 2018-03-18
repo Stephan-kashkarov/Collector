@@ -1,0 +1,39 @@
+{
+    "name": "DUSEIGNEUR Jehan",
+    "life": "(b. 1808 Paris d. 1866 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Crucifixion",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Saint-Roch Paris",
+            "url": "https://www.wga.hu/html/d/duseigne/crucifix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 12456
+        },
+        {
+            "title": "Dagobert",
+            "date": "1836-39",
+            "technique": "Marble height 201 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/d/duseigne/dagobert.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 12457
+        },
+        {
+            "title": "Orlando Furioso",
+            "date": "1831-67",
+            "technique": "Bronze 130 x 140 x 90 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/duseigne/orlando.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 12458
+        },
+        {}
+    ]
+}

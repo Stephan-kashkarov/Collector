@@ -1,0 +1,69 @@
+{
+    "name": "ERHART Michael",
+    "life": "(active 1469-1522 in Ulm)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Altarpiece",
+            "date": "1493-94",
+            "technique": "Wood",
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13204
+        },
+        {
+            "title": "Altarpiece",
+            "date": "1493-94",
+            "technique": "Wood",
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar0.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13205
+        },
+        {
+            "title": "Altarpiece (central section)",
+            "date": "1493-94",
+            "technique": "Wood",
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13206
+        },
+        {
+            "title": "The Libyan Sibyl",
+            "date": "1469-74",
+            "technique": "Oak",
+            "location": "Cathedral Ulm",
+            "url": "https://www.wga.hu/html/e/erhart/michael/libyan_s.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 13207
+        },
+        {
+            "title": "Ravensburg Madonna of Mercy",
+            "date": "1480s",
+            "technique": "Painted limewood height 135 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/e/erhart/michael/ravensb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13208
+        },
+        {
+            "title": "Ravensburg Madonna of Mercy",
+            "date": "1480s",
+            "technique": "Painted limewood height 135 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/e/erhart/michael/ravensbu.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13209
+        },
+        {}
+    ]
+}

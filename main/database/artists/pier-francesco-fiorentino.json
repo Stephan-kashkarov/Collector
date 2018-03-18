@@ -1,0 +1,29 @@
+{
+    "name": "PIER FRANCESCO FIORENTINO",
+    "life": "(b. ca. 1444 Firenze d. ca. 1497 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Virgin and Child before a Rose Hedge",
+            "date": "-",
+            "technique": "Oil on panel 99 x 76 cm",
+            "location": "National Trust London",
+            "url": "https://www.wga.hu/html/p/pier/rosehedg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31040
+        },
+        {
+            "title": "Virgin and Child with a Goldfinch and the Infant St John",
+            "date": "after 1460",
+            "technique": "Tempera on panel arched top 60 x 45 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/p/pier/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31041
+        },
+        {}
+    ]
+}

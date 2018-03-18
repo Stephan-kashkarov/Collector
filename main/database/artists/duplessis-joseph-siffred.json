@@ -1,0 +1,79 @@
+{
+    "name": "DUPLESSIS Joseph-Siffred",
+    "life": "(b. 1725 Carpentras d. 1802 Versailles)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of the Comte d'Angiviller",
+            "date": "1779",
+            "technique": "Oil on canvas 144 x 106 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/d/duplessi/angivill.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12399
+        },
+        {
+            "title": "Portrait of Monsieur de Buissy",
+            "date": "c. 1780",
+            "technique": "Oil on canvas 116 x 89 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/d/duplessi/debuissy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12400
+        },
+        {
+            "title": "Portrait of Benjamin Franklin",
+            "date": "c. 1779",
+            "technique": "Oil on canvas 73 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duplessi/frankli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12401
+        },
+        {
+            "title": "Portrait of Benjamin Franklin",
+            "date": "1778",
+            "technique": "Oil on canvas 74 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duplessi/franklin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12402
+        },
+        {
+            "title": "Cristoph Wilibald von Gluck at the Spinet",
+            "date": "1775",
+            "technique": "Oil on canvas 995 x 805 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/d/duplessi/gluck.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12403
+        },
+        {
+            "title": "Landscape in Blue Monochrome",
+            "date": "1780s",
+            "technique": "Wood",
+            "location": "Pharmacy of H\u00f4tel-Dieu Hospital Carpentras",
+            "url": "https://www.wga.hu/html/d/duplessi/monochro.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12404
+        },
+        {
+            "title": "Christophe Gabriel Allegrain Sculptor",
+            "date": "1774",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/duplessi/sculptor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12405
+        },
+        {}
+    ]
+}

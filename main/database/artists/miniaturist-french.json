@@ -1,0 +1,3389 @@
+{
+    "name": "MINIATURIST French",
+    "life": "(active around 750-770 in Laon)",
+    "school": "French",
+    "timeframe": "0751-0800",
+    "art": [
+        {
+            "title": "Augustinus Hipponensis: Quaestiones et locutiones in Heptateuchum",
+            "date": "750-70",
+            "technique": "Manuscript (Cod. lat. 12108) 305 x 220 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0751-800/3other/1french1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27483
+        },
+        {
+            "title": "Augustinus Hipponensis: Quaestiones et locutiones in Heptateuchum",
+            "date": "750-70",
+            "technique": "Manuscript (Cod. lat. 12108) 305 x 220 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0751-800/3other/1french2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27484
+        },
+        {
+            "title": "Augustinus Hipponensis: Quaestiones et locutiones in Heptateuchum",
+            "date": "750-70",
+            "technique": "Manuscript (Cod. lat. 12108) 305 x 220 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0751-800/3other/1french3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27485
+        },
+        {
+            "title": "Salaberga Psalter",
+            "date": "c. 780",
+            "technique": "Manuscript (Ms. Hamilton 553)",
+            "location": "Staatsbibliothek Berlin",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0751-800/3other/1french4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27486
+        },
+        {
+            "title": "Utrecht Psalter",
+            "date": "820s",
+            "technique": "Manuscript (Ms. Bibl. Rhenotraiectinae I Nr 32) 330 x 256 mm",
+            "location": "Universiteitsbibliotheek Utrecht",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/1utrech1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27487
+        },
+        {
+            "title": "Utrecht Psalter",
+            "date": "820s",
+            "technique": "Manuscript (Ms. Bibl. Rhenotraiectinae I Nr 32) 330 x 256 mm",
+            "location": "Universiteitsbibliotheek Utrecht",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/1utrech2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27488
+        },
+        {
+            "title": "Utrecht Psalter",
+            "date": "820s",
+            "technique": "Manuscript (Ms. Bibl. Rhenotraiectinae I Nr 32) 330 x 256 mm",
+            "location": "Universiteitsbibliotheek Utrecht",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/1utrech3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27489
+        },
+        {
+            "title": "Utrecht Psalter",
+            "date": "820s",
+            "technique": "Manuscript (Ms. Bibl. Rhenotraiectinae I Nr 32) 330 x 256 mm",
+            "location": "Universiteitsbibliotheek Utrecht",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/1utrech4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27490
+        },
+        {
+            "title": "Ebbo Gospels",
+            "date": "816-35",
+            "technique": "Manuscript (Ms. 1) 260 x 208 mm",
+            "location": "Biblioth\u00e8que municipale Epernay",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/2ebbo1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27491
+        },
+        {
+            "title": "Ebbo Gospels",
+            "date": "816-35",
+            "technique": "Manuscript (Ms. 1) 260 x 208 mm",
+            "location": "Biblioth\u00e8que municipale Epernay",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/2ebbo2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27492
+        },
+        {
+            "title": "Ebbo Gospels",
+            "date": "816-35",
+            "technique": "Manuscript (Ms. 1) 260 x 208 mm",
+            "location": "Biblioth\u00e8que municipale Epernay",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/2ebbo3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27493
+        },
+        {
+            "title": "Cassiodorus: Commentary on the Psalms",
+            "date": "802-10",
+            "technique": "Manuscript (Ms. lat. 2195) 375 x 270 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/3cassio1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27494
+        },
+        {
+            "title": "Cassiodorus: Commentary on the Psalms",
+            "date": "802-10",
+            "technique": "Manuscript (Ms. lat. 2195)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/3cassio2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27495
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27496
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27497
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27498
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27499
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian5.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27500
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian6.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27501
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian7.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27502
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian8.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27503
+        },
+        {
+            "title": "Vivian Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. lat. 1) 495 x 345 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/4vivian9.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27504
+        },
+        {
+            "title": "Moutier-Grandval Bible",
+            "date": "c. 840",
+            "technique": "Manuscript (Add. Ms. 10546) 510 x 375 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/5tours1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27505
+        },
+        {
+            "title": "Bible",
+            "date": "c. 845",
+            "technique": "Manuscript (Ms. Ludwig I. 1)",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/5tours2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27506
+        },
+        {
+            "title": "Lothar Gospels",
+            "date": "849-51",
+            "technique": "Manuscript (Ms. lat. 266) 322 x 250 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/6lothar.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27507
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27508
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure11.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27509
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27510
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure21.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27511
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27512
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure31.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27513
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27514
+        },
+        {
+            "title": "Sainte-Aure Evangelary",
+            "date": "c. 850",
+            "technique": "Manuscript (Ms. 1171) 270 x 220 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0801-850/2french/7aure41.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27515
+        },
+        {
+            "title": "Psalter of Charles the Bald",
+            "date": "850-69",
+            "technique": "Manuscript (Ms. lat. 1152) 240 x 195 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27516
+        },
+        {
+            "title": "Second Bible of Charles the Bald",
+            "date": "871-77",
+            "technique": "Manuscript (Ms. lat. 2)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27517
+        },
+        {
+            "title": "Sakramentar von Metz",
+            "date": "869-70",
+            "technique": "Manuscript (Ms. lat. 1141) 270 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27518
+        },
+        {
+            "title": "Sakramentar von Metz",
+            "date": "869-70",
+            "technique": "Manuscript (Ms. lat. 1141) 270 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french4.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27519
+        },
+        {
+            "title": "Codex Aureus",
+            "date": "870",
+            "technique": "Manuscript (Clm. 14000) 420 x 330 mm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french5.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27520
+        },
+        {
+            "title": "Codex Aureus",
+            "date": "870",
+            "technique": "Manuscript (Clm. 14000) 420 x 330 mm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french6.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27521
+        },
+        {
+            "title": "Bible of San Paolo",
+            "date": "870",
+            "technique": "Manuscript 448 x 345 mm",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french7.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27522
+        },
+        {
+            "title": "Gospel Book",
+            "date": "860-80",
+            "technique": "Manuscript (Hs. 14)",
+            "location": "Erzbisch\u00f6fliche Di\u00f6zesan- und Dombibliothek Cologne",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/0851-900/1french/1french8.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27523
+        },
+        {
+            "title": "Missal of Saint-Denis",
+            "date": "c. 1050",
+            "technique": "Manuscript (Cod. Lat. 8878)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1001-050/3other/09_1001.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27524
+        },
+        {
+            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "date": "1028-72",
+            "technique": "Manuscript (Cod. Lat. 8878)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/01_1051.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27525
+        },
+        {
+            "title": "Medical Miscellany",
+            "date": "11th century",
+            "technique": "Manuscript (MS Lat. 7028)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/09_1051.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27526
+        },
+        {
+            "title": "Vita et miracula s. Mauri",
+            "date": "c. 1100",
+            "technique": "Manuscript (Ms 2273)",
+            "location": "Biblioth\u00e8que Municipale Troyes",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1051-100/10_1051.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27527
+        },
+        {
+            "title": "Sacramentary of Saint-\u00c9tienne de Limoges",
+            "date": "c. 1100",
+            "technique": "Manuscript (MS. lat. 9438) 275 x 175 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/01_1101.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27528
+        },
+        {
+            "title": "Lambert of Saint-Omer: Liber floridus",
+            "date": "1100-20",
+            "technique": "Manuscript (Cod. Guelf. 1 Gud. lat.) 435 x 295 mm",
+            "location": "Herzog-August-Bibliothek Wolfenb\u00fcttel",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/01_1102.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27529
+        },
+        {
+            "title": "Lambert of Saint-Omer: Liber floridus",
+            "date": "1100-20",
+            "technique": "Manuscript (Cod. Guelf. 1 Gud. lat.)",
+            "location": "Herzog-August-Bibliothek Wolfenb\u00fcttel",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/01_1103.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27530
+        },
+        {
+            "title": "Tree of Jesse",
+            "date": "c. 1130",
+            "technique": "Manuscript 125 x 75 mm",
+            "location": "Biblioth\u00e8que Municipale Dijon",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/2other/02_1101.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27531
+        },
+        {
+            "title": "Pattern Book",
+            "date": "1160s",
+            "technique": "Manuscript 249 x 156 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/11french.html",
+            "form": "illumination",
+            "painting_type": "study",
+            "index": 27532
+        },
+        {
+            "title": "Commentary on the Epistles of St Paul",
+            "date": "1164",
+            "technique": "Manuscript (Ms. lat. 11575)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/12french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27533
+        },
+        {
+            "title": "Book of Isaiah with Gloss",
+            "date": "1180s",
+            "technique": "Manuscript (Ms. A.III.17)",
+            "location": "Cathedral Library Durham",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/13french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27534
+        },
+        {
+            "title": "Great Gloss on the Psalms",
+            "date": "c. 1180",
+            "technique": "Manuscript (Ms. lat. 11565)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/14french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27535
+        },
+        {
+            "title": "Great Gloss on the Psalms",
+            "date": "c. 1180",
+            "technique": "Manuscript (Ms. 258)",
+            "location": "The Sch\u00f8yen Collection Oslo",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/15french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27536
+        },
+        {
+            "title": "Evangeliarum from Saint-Amand Abbey",
+            "date": "1180-1200",
+            "technique": "Manuscript 251 x 186 mm",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/16french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27537
+        },
+        {
+            "title": "Sacramentary of Saint-\u00c9tienne",
+            "date": "12th century",
+            "technique": "Manuscript (Cod. Lat. 9438)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/17french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27538
+        },
+        {
+            "title": "Commentary on the Epistles of St Paul",
+            "date": "c. 1200",
+            "technique": "Manuscript (Cod. Lat. 668)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/18french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27539
+        },
+        {
+            "title": "Picture Bible",
+            "date": "1190s",
+            "technique": "Manuscript (Ms. 76 F 5)",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/19frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27540
+        },
+        {
+            "title": "Picture Bible (Psalter-Fragment)",
+            "date": "1190s",
+            "technique": "Manuscript (76 F 5)",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/19french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27541
+        },
+        {
+            "title": "Picture Bible (Psalter-Fragment)",
+            "date": "1190s",
+            "technique": "Manuscript (76 F 5) 95 x 60 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/20french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27542
+        },
+        {
+            "title": "Picture Bible (Psalter-Fragment)",
+            "date": "1190s",
+            "technique": "Manuscript (76 F 5) 95 x 65 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/21french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27543
+        },
+        {
+            "title": "Picture Bible (Psalter-Fragment)",
+            "date": "1190s",
+            "technique": "Manuscript (76 F 5) 95 x 60 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/22french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27544
+        },
+        {
+            "title": "Picture Bible (Psalter-Fragment)",
+            "date": "1190s",
+            "technique": "Manuscript (76 F 5) 95 x 65 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/23french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27545
+        },
+        {
+            "title": "Ingeborg Psalter",
+            "date": "c. 1195",
+            "technique": "Manuscript (Ms. 9) 304 x 204 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/24french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27546
+        },
+        {
+            "title": "Ingeborg Psalter",
+            "date": "c. 1195",
+            "technique": "Manuscript (Ms. 9) 304 x 204 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/25french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27547
+        },
+        {
+            "title": "Ingeborg Psalter",
+            "date": "c. 1195",
+            "technique": "Manuscript (Ms. 9) 304 x 204 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/26french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27548
+        },
+        {
+            "title": "Ingeborg Psalter",
+            "date": "c. 1195",
+            "technique": "Manuscript (Ms. 9) 304 x 204 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/27french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27549
+        },
+        {
+            "title": "Psalter",
+            "date": "1190s",
+            "technique": "Manuscript (Cod. Lat. 238)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/28french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27550
+        },
+        {
+            "title": "Works of Hugh of St-Victor",
+            "date": "1190s",
+            "technique": "Manuscript (Ms. Laud Misc. 409)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/29french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27551
+        },
+        {
+            "title": "Gratian: Decretals",
+            "date": "1170s",
+            "technique": "Manuscript (Ms. Ludwig XIV 2) 443 x 291 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/30french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27552
+        },
+        {
+            "title": "Gratian: Decretals",
+            "date": "1170s",
+            "technique": "Manuscript (Ms. Ludwig XIV 2) 443 x 291 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/31french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27553
+        },
+        {
+            "title": "Gratian: Decretals",
+            "date": "1170s",
+            "technique": "Manuscript (Ms. Ludwig XIV 2) 443 x 291 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/32french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27554
+        },
+        {
+            "title": "Gratian: Decretals",
+            "date": "1170s",
+            "technique": "Manuscript (Ms. Ludwig XIV 2) 443 x 291 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/3french/33french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27555
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/01fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27556
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/02fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27557
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/03fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27558
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/04fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27559
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/05fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27560
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/06fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27561
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/07fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27562
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 160 x 125 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/08fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27563
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/09fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27564
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 120 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/10fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27565
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/11fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27566
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/12fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27567
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 232 x 169 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/13fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27568
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/14fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27569
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 165 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/15fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27570
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 155 x 115 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/16fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27571
+        },
+        {
+            "title": "F\u00e9camp Psalter",
+            "date": "c. 1180",
+            "technique": "Manuscript (76 F 13) 75 x 75 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1151-200/4fecamp/17fecamp.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27572
+        },
+        {
+            "title": "Gospel of St John with Gloss",
+            "date": "1200-10",
+            "technique": "Munuscript (Ms. 96)",
+            "location": "Biblioth\u00e8que Municipale Rouen",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/31french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27573
+        },
+        {
+            "title": "Great Gloss on St Paul",
+            "date": "1200-10",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/32french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27574
+        },
+        {
+            "title": "Ptolemy: Almagest",
+            "date": "1213",
+            "technique": "Manuscript (Ms. lat. 16200)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/33french.html",
+            "form": "illumination",
+            "painting_type": "mythological",
+            "index": 27575
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1220s",
+            "technique": "Manuscript (Codex Vindobonensis 2554) 344 x 260 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/34french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27576
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1220s",
+            "technique": "Manuscript (Codex Vindobonensis 2554) 344 x 260 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/35french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27577
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1220s",
+            "technique": "Manuscript (Codex Vindobonensis 2554)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/361frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27578
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1220s",
+            "technique": "Manuscript (Codex Vindobonensis 2554) 344 x 260 mm",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/36french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27579
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1220s",
+            "technique": "Manuscript (Codex Vindobonensis 2554)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/37french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27580
+        },
+        {
+            "title": "Psalter",
+            "date": "1200-50",
+            "technique": "Manuscript (Med. Pal. 13)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/38french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27581
+        },
+        {
+            "title": "Latin Psalter of Louis IX and Blanche of Castile",
+            "date": "1200-25",
+            "technique": "Manuscript (Ms. lat. 1186) 280 x 200 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/39french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27582
+        },
+        {
+            "title": "Latin Psalter of Louis IX and Blanche of Castile",
+            "date": "1200-25",
+            "technique": "Manuscript (Ms. lat. 1186) 280 x 200 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/401frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27583
+        },
+        {
+            "title": "Latin Psalter of Louis IX and Blanche of Castile",
+            "date": "1200-25",
+            "technique": "Manuscript (Ms. lat. 1186)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/402frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27584
+        },
+        {
+            "title": "Lucas de Gail: Roman de Tristan",
+            "date": "13th century",
+            "technique": "Manuscript (Est. 59)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/40french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27585
+        },
+        {
+            "title": "Lucas de Gail: Roman de Tristan",
+            "date": "13th century",
+            "technique": "Manuscript (Est. 59)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/41french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27586
+        },
+        {
+            "title": "The Morgan Crusader's Bible",
+            "date": "c. 1250",
+            "technique": "Manuscript (M. 638) 390 x 295 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/42french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27587
+        },
+        {
+            "title": "The Morgan Crusader's Bible",
+            "date": "c. 1250",
+            "technique": "Manuscript (M. 638) 390 x 295 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/43french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27588
+        },
+        {
+            "title": "The Morgan Crusader's Bible",
+            "date": "c. 1250",
+            "technique": "Manuscript (M. 638)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/441frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27589
+        },
+        {
+            "title": "Medici Antiphoner",
+            "date": "c. 1250",
+            "technique": "Manuscript (Plut. 29. 1) 230 x 155 mm",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/44french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27590
+        },
+        {
+            "title": "Decretum of Gratian",
+            "date": "c. 1250",
+            "technique": "Manuscript (G.37)",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/45french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27591
+        },
+        {
+            "title": "Gossouin de Metz L'Image du Monde",
+            "date": "c. 1245",
+            "technique": "Manuscript (MS Fr. 574)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/46french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27592
+        },
+        {
+            "title": "Gossouin de Metz L'Image du Monde",
+            "date": "c. 1245",
+            "technique": "Manuscript (MS Fr. 574)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/47french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27593
+        },
+        {
+            "title": "The Medieval Universe",
+            "date": "13th century",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/48french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27594
+        },
+        {
+            "title": "Bible moralis\u00e9e part I.",
+            "date": "1225-50",
+            "technique": "Manuscript (MS Bodley 270b) 400 x 278 mm",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/49french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27595
+        },
+        {
+            "title": "Bible moralis\u00e9e part I.",
+            "date": "1225-50",
+            "technique": "Manuscript (MS Bodley 270b) 400 x 278 mm",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/50french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27596
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1225-50",
+            "technique": "Manuscript (Harley MS 1527). 400 x 275 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/51french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27597
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1225-50",
+            "technique": "Manuscript (Harley MS 1527). 400 x 275 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/3french/52french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27598
+        },
+        {
+            "title": "The Life of St Denis",
+            "date": "c. 1250",
+            "technique": "Manuscript (Nouv. acq. fr. 1098)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/51french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27599
+        },
+        {
+            "title": "Antiphoner",
+            "date": "after 1250",
+            "technique": "Manuscript (ltsz. 1940-3484)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/52french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27600
+        },
+        {
+            "title": "The Count of M\u00e9liacin by Girardin d'Amiens",
+            "date": "c. 1260",
+            "technique": "Manuscript (Ms. fran\u00e7ais 1633)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/53french.html",
+            "form": "illumination",
+            "painting_type": "mythological",
+            "index": 27601
+        },
+        {
+            "title": "Aristotle: Works",
+            "date": "c. 1260",
+            "technique": "Manuscript (Ms. lat. 12953)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/54french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27602
+        },
+        {
+            "title": "Psalter of Saint Louis",
+            "date": "1260s",
+            "technique": "Manuscript (Ms. lat. 10525) 210 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/55french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27603
+        },
+        {
+            "title": "Psalter of Saint Louis",
+            "date": "1260s",
+            "technique": "Manuscript (Ms. lat. 10525) 210 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/56french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27604
+        },
+        {
+            "title": "Psalter of Saint Louis",
+            "date": "1260s",
+            "technique": "Manuscript (Ms. lat. 10525) 210 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/57french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27605
+        },
+        {
+            "title": "Psalter of Saint Louis",
+            "date": "1260s",
+            "technique": "Manuscript (Ms. lat. 10525) 210 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/58french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27606
+        },
+        {
+            "title": "Psalter of Saint Louis",
+            "date": "1260s",
+            "technique": "Manuscript (Ms. lat. 10525) 210 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/59french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27607
+        },
+        {
+            "title": "Bible",
+            "date": "1252-70",
+            "technique": "Manuscript",
+            "location": "Cathedral Museum Toledo",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/60french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27608
+        },
+        {
+            "title": "Bible",
+            "date": "c. 1270",
+            "technique": "Manuscript (A.A. III-13)",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/61french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27609
+        },
+        {
+            "title": "Bible",
+            "date": "1270s",
+            "technique": "Manuscript (MS A. II. 3.)",
+            "location": "Cathedral Library Durham",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/621frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27610
+        },
+        {
+            "title": "Bible",
+            "date": "c. 1285",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/62french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27611
+        },
+        {
+            "title": "French Bible",
+            "date": "1280-90",
+            "technique": "Manuscript",
+            "location": "Library of the Hungarian Academy of Sciences Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/63french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27612
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1290",
+            "technique": "Manuscript",
+            "location": "Stadtbibliothek Nuremberg",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/64french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27613
+        },
+        {
+            "title": "Livre des Merveilles du Monde",
+            "date": "1270s",
+            "technique": "Manuscript (MS Ludwig XV 4) 233 x 164 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/651frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27614
+        },
+        {
+            "title": "Livre des Merveilles du Monde",
+            "date": "1270s",
+            "technique": "Manuscript (MS Ludwig XV 4)",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/652frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27615
+        },
+        {
+            "title": "Livre des Merveilles du Monde",
+            "date": "1270s",
+            "technique": "Manuscript (MS Ludwig XV 4)",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/653frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27616
+        },
+        {
+            "title": "Livre des Merveilles du Monde",
+            "date": "1270s",
+            "technique": "Manuscript (MS Ludwig XV 4) 233 x 164 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/65french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27617
+        },
+        {
+            "title": "Hugo Fouilloy: Bestiary",
+            "date": "c. 1280",
+            "technique": "Manuscript (MS. Ludwig XV 4) 233 x 164 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/66french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27618
+        },
+        {
+            "title": "Works by Hippocrates and Galen",
+            "date": "c. 1280",
+            "technique": "Manuscript (Cod. 2315)",
+            "location": "\u00d6sterreichische Nationalbibliothek Vienna",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/67french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27619
+        },
+        {
+            "title": "Works of John of Sacrobosco",
+            "date": "1290s",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/68french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27620
+        },
+        {
+            "title": "Le R\u00e9gime du corps by Aldobrandino of Siena",
+            "date": "c. 1285",
+            "technique": "Manuscript (MS Sloane 2435)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/69french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27621
+        },
+        {
+            "title": "Le R\u00e9gime du corps by Aldobrandino of Siena",
+            "date": "c. 1285",
+            "technique": "Manuscript (MS Sloane 2435)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/70french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27622
+        },
+        {
+            "title": "Le R\u00e9gime du corps by Aldobrandino of Siena",
+            "date": "c. 1285",
+            "technique": "Manuscript (MS Sloane 2435)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/71french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27623
+        },
+        {
+            "title": "Picture Book of the Life of Christ and the Saints",
+            "date": "c. 1290",
+            "technique": "Manuscript (Ms Nouv. Acq. fr. 16521)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/80french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27624
+        },
+        {
+            "title": "Decretum Gratiani",
+            "date": "13th century",
+            "technique": "Manuscript (MS Lat. 3893)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/2french/81french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27625
+        },
+        {
+            "title": "Aristotle: De Interpretazione",
+            "date": "1300-10",
+            "technique": "Manuscript (Ms. 275)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/71french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27626
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/72french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27627
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/73french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27628
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/74french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27629
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/75french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27630
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/76french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27631
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/77french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27632
+        },
+        {
+            "title": "French Bible of Hainburg",
+            "date": "1300-20",
+            "technique": "Manuscript",
+            "location": "Episcopal Library P\u00e9cs",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/78french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27633
+        },
+        {
+            "title": "Estoire del Saint Graal",
+            "date": "c. 1316",
+            "technique": "Manuscript (Royal MS 14 E III) 485 x 335 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/79french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27634
+        },
+        {
+            "title": "A History of Western Saints",
+            "date": "1300-20",
+            "technique": "Manuscript (MS Fr. 352)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/801frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27635
+        },
+        {
+            "title": "Life and Miracles of St Denis",
+            "date": "c. 1317",
+            "technique": "Manuscript (Ms. 2090-2092) 240 x 160 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/80french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27636
+        },
+        {
+            "title": "Life and Miracles of St Denis",
+            "date": "c. 1317",
+            "technique": "Manuscript (Ms. 2090-2092)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/811frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27637
+        },
+        {
+            "title": "Life and Miracles of St Denis",
+            "date": "c. 1317",
+            "technique": "Manuscript (Ms. 2090-2092) 240 x 160 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/81french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27638
+        },
+        {
+            "title": "Le Roman de Fauvel",
+            "date": "c. 1316",
+            "technique": "Manuscript (MS fran\u00e7ais 146) 460 x 330 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/82french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27639
+        },
+        {
+            "title": "Le Roman de Fauvel",
+            "date": "c. 1316",
+            "technique": "Manuscript (MS Fr 146)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/831frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27640
+        },
+        {
+            "title": "Le Roman de Fauvel",
+            "date": "c. 1316",
+            "technique": "Manuscript (MS Fr 146)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/832frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27641
+        },
+        {
+            "title": "Quartus liber super Sententias editus a Richardo de Mediavilla",
+            "date": "1300-20",
+            "technique": "Manuscript (Ms. lat. 14563)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/83french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27642
+        },
+        {
+            "title": "Roger Frugard: Chirurgia",
+            "date": "1300-25",
+            "technique": "Manuscript (MS Sloane 1977) 235 x 160 mm (each)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/841frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27643
+        },
+        {
+            "title": "Roger Frugard: Chirurgia",
+            "date": "1300-25",
+            "technique": "Manuscript (MS Sloane 1977)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/842frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27644
+        },
+        {
+            "title": "Mattheus Platearius: Circa instans",
+            "date": "1300-25",
+            "technique": "Manuscript (MS Sloane 1977) 235 x 160 mm (each)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/843frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27645
+        },
+        {
+            "title": "Mattheus Platearius: Circa instans",
+            "date": "1300-25",
+            "technique": "Manuscript (MS Sloane 1977) 235 x 160 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/844frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27646
+        },
+        {
+            "title": "Mattheus Platearius: Circa instans",
+            "date": "1300-25",
+            "technique": "Manuscript (MS Sloane 1977)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/845frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27647
+        },
+        {
+            "title": "Belleville Breviary",
+            "date": "1323-26",
+            "technique": "Manuscript (Ms. lat. 10484 2 volumes) 240 x 170 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/84french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27648
+        },
+        {
+            "title": "Psalter",
+            "date": "1325-50",
+            "technique": "Manuscript (I. B. 50) 170 x 120 mm",
+            "location": "Biblioteca Nazionale Vittorio Emanuele III Naples",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/85french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27649
+        },
+        {
+            "title": "Book of Regnault de Montauban",
+            "date": "1300-20",
+            "technique": "Manuscript (MS Arsenal 5073)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/861frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27650
+        },
+        {
+            "title": "Missal",
+            "date": "1323",
+            "technique": "Manuscript (MS D. 40)",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/862frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27651
+        },
+        {
+            "title": "Heinrich Suzo: De Scientia",
+            "date": "c. 1334",
+            "technique": "Manuscript (MS IV III)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/863frenc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27652
+        },
+        {
+            "title": "The Corpus Apocalypse",
+            "date": "1340s",
+            "technique": "Manuscript (MS 20)",
+            "location": "Corpus Christi College Cambridge",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/864frenc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27653
+        },
+        {
+            "title": "Miroir Historiale",
+            "date": "c. 1335",
+            "technique": "Manuscript (Ms. 5080)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/86french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27654
+        },
+        {
+            "title": "Grandes Chroniques de France",
+            "date": "1332-50",
+            "technique": "Manuscript (Royal MS 16 G VI) 390 x 280 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/871frenc.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27655
+        },
+        {
+            "title": "Grandes Chroniques de France",
+            "date": "1332-50",
+            "technique": "Manuscript (Royal MS 16 G VI)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/872frenc.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27656
+        },
+        {
+            "title": "Grandes Chroniques de France",
+            "date": "1332-50",
+            "technique": "Manuscript (Royal MS 16 G VI)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/873frenc.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27657
+        },
+        {
+            "title": "Proces de Robert III d'Artois (1287-1342) comte de Beaumont",
+            "date": "1336",
+            "technique": "Manuscript (MS fr. 18437)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/87french.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27658
+        },
+        {
+            "title": "Boethius: De arithmetica De musica",
+            "date": "c. 1350",
+            "technique": "Manuscript (V. A. 14)",
+            "location": "Biblioteca Nazionale Vittorio Emanuele III Naples",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/88french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27659
+        },
+        {
+            "title": "Shrine of St Catherine of Alexandria",
+            "date": "14th century",
+            "technique": "Manuscript (Ms 2810)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/89french.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27660
+        },
+        {
+            "title": "Politics by Aristotle",
+            "date": "14th century",
+            "technique": "Manuscript (MS RL 11202)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1301-350/2french/90french.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27661
+        },
+        {
+            "title": "Guillaume de Machaut: Poetical Works",
+            "date": "1355-60",
+            "technique": "Manuscript (Ms. fran\u00e7ais 1586) 300 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french10.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27662
+        },
+        {
+            "title": "Bible Historiale",
+            "date": "1350s",
+            "technique": "Manuscript (Royal Ms. 19.D.II) 420 x 285 mm (folio size)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french11.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27663
+        },
+        {
+            "title": "Roman de la Rose",
+            "date": "1353",
+            "technique": "Manuscript (Ms. fr. 178)",
+            "location": "Biblioth\u00e8que Publique et Universitaire Geneva",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french12.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27664
+        },
+        {
+            "title": "Roman de la Rose",
+            "date": "c. 1380",
+            "technique": "Manuscript (MS e Mus. 65) 295 x 225 mm (folio size)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french13.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27665
+        },
+        {
+            "title": "Guillaume de Machaut: Poetical Works",
+            "date": "1355-60",
+            "technique": "Manuscript (Ms. fran\u00e7ais 1586) 300 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french14.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27666
+        },
+        {
+            "title": "Roman de la Rose",
+            "date": "14th century",
+            "technique": "Manuscript (MS Fr. 1568)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french141.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27667
+        },
+        {
+            "title": "Guillaume de Machaut: Poetical Works",
+            "date": "1355-60",
+            "technique": "Manuscript (Ms. fran\u00e7ais 1586) 300 x 210 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french15.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27668
+        },
+        {
+            "title": "Grandes Chroniques de France de Charles V",
+            "date": "1375-80",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2813) 350 x 240 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french16.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27669
+        },
+        {
+            "title": "Grandes Chroniques de France de Charles V",
+            "date": "1375-80",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2813) 350 x 240 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french17.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27670
+        },
+        {
+            "title": "Grandes Chroniques de France de Charles V",
+            "date": "1375-80",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2813) 350 x 240 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french18.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27671
+        },
+        {
+            "title": "Grandes Chroniques de France de Charles V",
+            "date": "1375-80",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2813) 350 x 240 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french19.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27672
+        },
+        {
+            "title": "Grandes Chroniques de France de Charles V",
+            "date": "1375-80",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2813) 350 x 240 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french20.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27673
+        },
+        {
+            "title": "Chroniques de France ou de St Denis",
+            "date": "1380s",
+            "technique": "Manuscript (MS Royal 20 C VII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french201.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27674
+        },
+        {
+            "title": "Chroniques de France ou de St Denis",
+            "date": "1380s",
+            "technique": "Manuscript (MS Royal 20 C VII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french202.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27675
+        },
+        {
+            "title": "Chroniques de France ou de St Denis",
+            "date": "1380s",
+            "technique": "Manuscript (MS Royal 20 C VII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french203.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27676
+        },
+        {
+            "title": "Psalter of Duc de Berry",
+            "date": "c. 1386",
+            "technique": "Manuscript (Ms. fran\u00e7ais 13091)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french21.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27677
+        },
+        {
+            "title": "Livy: History of Rome",
+            "date": "c. 1370",
+            "technique": "Manuscript (Ms. 777)",
+            "location": "Biblioth\u00e8que de Sainte-Genevi\u00e8ve Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french22.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27678
+        },
+        {
+            "title": "La Somme le Roy",
+            "date": "14th century",
+            "technique": "Manuscript (Est. 34)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french23.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27679
+        },
+        {
+            "title": "La Somme le Roy",
+            "date": "14th century",
+            "technique": "Manuscript (Est. 34)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french24.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27680
+        },
+        {
+            "title": "La Somme le Roy",
+            "date": "14th century",
+            "technique": "Manuscript (Est. 34)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french25.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27681
+        },
+        {
+            "title": "Histoire Ancienne jusqu'a C\u00e9sar",
+            "date": "c. 1400",
+            "technique": "Manuscript (Ms. fran\u00e7ais 301)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french26.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27682
+        },
+        {
+            "title": "Chansons of Guillaume d'Orange",
+            "date": "14th century",
+            "technique": "Manuscript (MS Royal 20. D. XI.)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french27.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27683
+        },
+        {
+            "title": "Pontificale Senonense (Pontifical of Sens)",
+            "date": "c. 1400",
+            "technique": "Manuscript (MS Lat 962)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/1french/french28.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27684
+        },
+        {
+            "title": "Boccaccio: Of Famous Women",
+            "date": "1403",
+            "technique": "Manuscript (Ms. fran\u00e7ais 12420) 355 x 240 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/11secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27685
+        },
+        {
+            "title": "Boccaccio: Of Famous Women",
+            "date": "1403",
+            "technique": "Manuscript (Ms. fran\u00e7ais 12420) 355 x 240 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/12secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27686
+        },
+        {
+            "title": "Boccaccio: Of Famous Women",
+            "date": "1403",
+            "technique": "Manuscript (Ms. fran\u00e7ais 12420) 355 x 240 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/13secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27687
+        },
+        {
+            "title": "Virgil: Eclogues Georgics Aeneid",
+            "date": "c. 1403",
+            "technique": "Manuscript (Med. Pal. 69)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/14secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27688
+        },
+        {
+            "title": "Nine Heroes",
+            "date": "c. 1404",
+            "technique": "Manuscript (Ms. fran\u00e7ais 12559)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/14seculb.html",
+            "form": "illumination",
+            "painting_type": "mythological",
+            "index": 27689
+        },
+        {
+            "title": "Nine Heroines",
+            "date": "c. 1404",
+            "technique": "Manuscript (Ms. fran\u00e7ais 12559)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/14seculc.html",
+            "form": "illumination",
+            "painting_type": "mythological",
+            "index": 27690
+        },
+        {
+            "title": "Christine de Pisan: The Book of the City of Ladies",
+            "date": "c. 1405",
+            "technique": "Manuscript (Ms. fran\u00e7ais 606) 360 x 270 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/15secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27691
+        },
+        {
+            "title": "Christine de Pisan: Epistles of Othea",
+            "date": "1404-08",
+            "technique": "Manuscript (Ms. fran\u00e7ais 606) 360 x 270 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/16secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27692
+        },
+        {
+            "title": "Christine de Pisan: Epistles of Othea",
+            "date": "1404-08",
+            "technique": "Manuscript (Ms. fran\u00e7ais 606) 360 x 270 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/17secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27693
+        },
+        {
+            "title": "Christine de Pisan: Epistles of Othea",
+            "date": "1404-08",
+            "technique": "Manuscript (Ms. fran\u00e7ais 606) 360 x 270 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/18secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27694
+        },
+        {
+            "title": "Christine de Pisan Collected works ('The Book of the Queen')",
+            "date": "1410-12",
+            "technique": "Manuscript (Harley MS 4431) 368 x 285 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/19secul.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27695
+        },
+        {
+            "title": "Christine de Pizan Collected works ('The Book of the Queen')",
+            "date": "1410-12",
+            "technique": "Manuscript (Harley MS 4431)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/19secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27696
+        },
+        {
+            "title": "Christine de Pisan Collected works ('The Book of the Queen')",
+            "date": "1410-12",
+            "technique": "Manuscript (Harley MS 4431)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/19seculb.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27697
+        },
+        {
+            "title": "Christine de Pisan Collected works ('The Book of the Queen')",
+            "date": "1410-12",
+            "technique": "Manuscript (Harley MS 4431)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/19seculc.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27698
+        },
+        {
+            "title": "Plays by Terence",
+            "date": "1410-15",
+            "technique": "Manuscript (Ms. lat. 664) 335 x 240 mm",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/20secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27699
+        },
+        {
+            "title": "Plays by Terence",
+            "date": "1410-15",
+            "technique": "Manuscript (MS Arsenal 664)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/20seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27700
+        },
+        {
+            "title": "Gaston Phoebus: Book of the Hunt",
+            "date": "1405-10",
+            "technique": "Manuscript (Ms. fran\u00e7ais 616) 370 x 280 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/21secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27701
+        },
+        {
+            "title": "Gaston Phoebus: Book of the Hunt",
+            "date": "1405-10",
+            "technique": "Manuscript (Ms. fran\u00e7ais 616) 370 x 280 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/22secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27702
+        },
+        {
+            "title": "Gaston Phoebus: Book of the Hunt",
+            "date": "1405-10",
+            "technique": "Manuscript (Ms. fran\u00e7ais 616) 370 x 280 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/23secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27703
+        },
+        {
+            "title": "Gaston Phoebus: Book of the Hunt",
+            "date": "1405-10",
+            "technique": "Manuscript (Ms. fran\u00e7ais 616)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/23seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27704
+        },
+        {
+            "title": "Gaston Phoebus: Book of the Hunt",
+            "date": "1405-10",
+            "technique": "Manuscript (Ms. fran\u00e7ais 616)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/23seculc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27705
+        },
+        {
+            "title": "Pierre Salmon: R\u00e9ponses \u00e0 Charles VI et Lamentation au Roi sur son \u00e9tat",
+            "date": "c. 1410",
+            "technique": "Manuscript (Ms. fran\u00e7ais 23279) 280 x 205 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/24secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27706
+        },
+        {
+            "title": "Pierre Salmon: R\u00e9ponses \u00e0 Charles VI et Lamentation au Roi sur son \u00e9tat",
+            "date": "c. 1412",
+            "technique": "Manuscript (Ms. fran\u00e7ais 165) 280 x 205 mm",
+            "location": "Biblioth\u00e8que Publique et Universitaire Geneva",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/25secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27707
+        },
+        {
+            "title": "Livre des Merveilles du Monde",
+            "date": "1410-12",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2810)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/25seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27708
+        },
+        {
+            "title": "Boccaccio: Decameron",
+            "date": "1414-19",
+            "technique": "Manuscript (Pal. lat. 1989) 300 x 225 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/26secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27709
+        },
+        {
+            "title": "Des cleres et nobles femmes by Giovanni Boccaccio",
+            "date": "1420-25",
+            "technique": "Manuscript (Ms Royal 20 C. V.)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/27secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27710
+        },
+        {
+            "title": "Le livre de femmes nobles et renom\u00e9es",
+            "date": "c. 1440",
+            "technique": "Manuscript (Royal 16 G V)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/28secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27711
+        },
+        {
+            "title": "Cicero: Pro Marcello De Senectute",
+            "date": "1445-50",
+            "technique": "Manuscript (Ms. 693)",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/29secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27712
+        },
+        {
+            "title": "Lancelot",
+            "date": "c. 1450",
+            "technique": "Manuscript (MS 3479)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/30secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27713
+        },
+        {
+            "title": "Birth by Caesarean Section",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/31secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27714
+        },
+        {
+            "title": "Rich family",
+            "date": "15th century",
+            "technique": "Manuscript (MS Fr. 218)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/32secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27715
+        },
+        {
+            "title": "Market scene",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Municipale Rouen",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/33secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27716
+        },
+        {
+            "title": "Ploughing",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/34secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27717
+        },
+        {
+            "title": "H\u00f4tel-Dieu of Paris",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Staatsbibliothek Berlin",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/35secula.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27718
+        },
+        {
+            "title": "Petit Traite d'hygi\u00e8ne et M\u00e9decine",
+            "date": "15th century",
+            "technique": "Manuscript (MS Lat. 11229)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/36secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27719
+        },
+        {
+            "title": "Dedication",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/1french/37secula.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27720
+        },
+        {
+            "title": "Breviary",
+            "date": "1400-10",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/11religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27721
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1408",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/12religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27722
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1408",
+            "technique": "Manuscript (Ms. Douce 144)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/13religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27723
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1410",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/14religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27724
+        },
+        {
+            "title": "Hours of John the Fearless",
+            "date": "1406-15",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/14religj.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27725
+        },
+        {
+            "title": "Les Petites Heurs du Duc Jean de Berry",
+            "date": "1410-12",
+            "technique": "Manuscript (Ms. lat. 18014) 212 x 145 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/15religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27726
+        },
+        {
+            "title": "Psalter of Henry VI",
+            "date": "1405-30",
+            "technique": "Manuscript (Cotton MS Domitian A XVII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/15religj.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27727
+        },
+        {
+            "title": "Psalter of Henry VI",
+            "date": "1405-30",
+            "technique": "Manuscript (Cotton MS Domitian A XVII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/15religk.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27728
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1420",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/16religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27729
+        },
+        {
+            "title": "Grandes Heures de Rohan",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. lat. 9471) 290 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/17religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27730
+        },
+        {
+            "title": "Grandes Heures de Rohan",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. lat. 9471) 290 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/18religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27731
+        },
+        {
+            "title": "Book of Hours of the Neville family",
+            "date": "1425-30",
+            "technique": "Manuscript (MS Lat. 1158)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/18religj.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27732
+        },
+        {
+            "title": "Grandes Heures de Rohan",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. lat. 9471) 290 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/19religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27733
+        },
+        {
+            "title": "Grandes Heures de Rohan",
+            "date": "1430-35",
+            "technique": "Manuscript (Ms. lat. 9471) 290 x 210 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/19religj.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27734
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1450",
+            "technique": "Manuscript (Ms. Lat. 164)",
+            "location": "John Rylands University Library Manchester",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/20religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27735
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1450",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/21religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27736
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1450",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/22religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27737
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1450",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/23religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27738
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1450",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/24religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27739
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1450",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/25religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27740
+        },
+        {
+            "title": "Eucharist",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/26religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27741
+        },
+        {
+            "title": "Les tr\u00e8s riches heures du Duc de Berry",
+            "date": "c. 1450",
+            "technique": "Manuscript (Ms. 65)",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/2french/27religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27742
+        },
+        {
+            "title": "Tr\u00e8s Belles Heures de Notre-Dame du Duc de Berry",
+            "date": "c. 1380",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3093) 280 x 200 mm (each)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/6turin/01belles.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27743
+        },
+        {
+            "title": "Tr\u00e8s Belles Heures de Notre-Dame du Duc de Berry",
+            "date": "c. 1380",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3093) 280 c 200 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/6turin/02belles.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27744
+        },
+        {
+            "title": "Tr\u00e8s Belles Heures de Notre-Dame du Duc de Berry",
+            "date": "c. 1380",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3093) 280 c 200 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/6turin/03belles.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27745
+        },
+        {
+            "title": "Tr\u00e8s Belles Heures de Notre-Dame du Duc de Berry",
+            "date": "c. 1380",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/6turin/04belles.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27746
+        },
+        {
+            "title": "Le champion des dames",
+            "date": "1451",
+            "technique": "Manuscript (MS Fr. 12476)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/30secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27747
+        },
+        {
+            "title": "Le champion des dames",
+            "date": "1451",
+            "technique": "Manuscript (MS Fr. 12476)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/30seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27748
+        },
+        {
+            "title": "Giovanni Colonna: Mare historiarum",
+            "date": "1447-55",
+            "technique": "Manuscript (Ms. lat. 4915) 455 x 325 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/31secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27749
+        },
+        {
+            "title": "Heinrich Suso: Little Book of Eternal Wisdom",
+            "date": "1455-60",
+            "technique": "Manuscript (Ms. IV. 111) 370 x 255 mm",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/32secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27750
+        },
+        {
+            "title": "Heinrich Suso: Little Book of Eternal Wisdom",
+            "date": "1455-60",
+            "technique": "Manuscript (Ms. IV. 111) 370 x 255 mm (folio size)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/33secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27751
+        },
+        {
+            "title": "Tractatus de Herbis",
+            "date": "1458",
+            "technique": "Manuscript (Ms. Lat. 993)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/34secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27752
+        },
+        {
+            "title": "Tractatus de Herbis",
+            "date": "1458",
+            "technique": "Manuscript (Ms. Lat. 993)",
+            "location": "Biblioteca Estense Modena",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/35secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27753
+        },
+        {
+            "title": "Jean Mansel: Fleur des Histoires",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. fr. 932)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/36secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27754
+        },
+        {
+            "title": "Trait\u00e9 du crisme de Vauderie by Johannes Tinctoris",
+            "date": "c. 1460",
+            "technique": "Manuscript (MS Fr 961)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/36seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27755
+        },
+        {
+            "title": "Boethius: The Consolation of Philosophy",
+            "date": "c. 1460",
+            "technique": "Manuscript (Ms. fran\u00e7ais 809) 345 x 250 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/37secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27756
+        },
+        {
+            "title": "Boethius: De Consolatione Philosophiae",
+            "date": "1460s",
+            "technique": "Manuscript 241 x 165 mm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/38secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27757
+        },
+        {
+            "title": "Lancelot-Grail",
+            "date": "c. 1470",
+            "technique": "Manuscript (MS Fr 112)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/38seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27758
+        },
+        {
+            "title": "Lancelot-Grail",
+            "date": "c. 1470",
+            "technique": "Manuscript (MS Fr 112)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/38seculc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27759
+        },
+        {
+            "title": "Jehan de Wavrin Anciennes et nouvelles chroniques d'Angleterre",
+            "date": "1470s",
+            "technique": "Manuscript (Royal MS 14 E IV.)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/38seculd.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27760
+        },
+        {
+            "title": "Tristan and Isolde",
+            "date": "1450-1500",
+            "technique": "Manuscript (Mss. 645-647 3 volumes) 455 x 310 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/39secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27761
+        },
+        {
+            "title": "Tristan and Isolde",
+            "date": "1450-1500",
+            "technique": "Manuscript (Mss. 645-647 3 volumes) 455 x 310 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/40secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27762
+        },
+        {
+            "title": "Boccaccio: Of Famous Women",
+            "date": "1465-70",
+            "technique": "Manuscript (Ms. 191) 427 x 308 mm",
+            "location": "Biblioth\u00e8que Publique et Universitaire Geneva",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/41secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27763
+        },
+        {
+            "title": "S\u00e9bastien Mamerot: The Campaigns of the French against the Turks",
+            "date": "1474-75",
+            "technique": "Manuscript (Ms. fran\u00e7ais 5594) 320 x 230 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/42secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27764
+        },
+        {
+            "title": "S\u00e9bastien Mamerot: The Campaigns of the French against the Turks",
+            "date": "1474-75",
+            "technique": "Manuscript (Ms. fran\u00e7ais 5594) 320 x 230 mm (folio size)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/43secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27765
+        },
+        {
+            "title": "Le Chansonnier Cordiforme (Chansonnier de Jean de Montchenu)",
+            "date": "c. 1475",
+            "technique": "Manuscript heart-shaped (MS Rothschild 2973) 220 x 160 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/43seculb.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27766
+        },
+        {
+            "title": "Le Chansonnier Cordiforme (Chansonnier de Jean de Montchenu)",
+            "date": "c. 1475",
+            "technique": "Manuscript heart-shaped (MS Rothschild 2973) 220 x 160 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/43seculc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27767
+        },
+        {
+            "title": "Grandes Chroniques de France",
+            "date": "1487",
+            "technique": "Manuscript (Royal 20 E VI)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/43seculd.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27768
+        },
+        {
+            "title": "Grandes Chroniques de France",
+            "date": "1487",
+            "technique": "Manuscript (Royal 20 E VI)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/43secule.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27769
+        },
+        {
+            "title": "'Livre des Proprietes des Choses' by Barthelemy l'Anglais",
+            "date": "c. 1480",
+            "technique": "Manuscript (MS Fr. 9140)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/44secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27770
+        },
+        {
+            "title": "Gilles Romain: Livres de Gouvernement des Princes",
+            "date": "1480-1500",
+            "technique": "Incunable (MS 5062)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/45secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27771
+        },
+        {
+            "title": "Les Vigils de Charles VII",
+            "date": "1490s",
+            "technique": "Manuscript (MS Fr. 5054)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/46secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27772
+        },
+        {
+            "title": "Les \u00c9checs amoureux",
+            "date": "c. 1500",
+            "technique": "Manuscript (MS Fr 143)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/47secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27773
+        },
+        {
+            "title": "Histoire de Troyes by Raoul Lef\u00e8vre",
+            "date": "15th century",
+            "technique": "Manuscript (Ms. Fr. 22552)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/48secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27774
+        },
+        {
+            "title": "Jean Creton Histoire rim\u00e9e de Richard II",
+            "date": "15th century",
+            "technique": "Manuscript (Harley MS 1319)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/49secula.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27775
+        },
+        {
+            "title": "Hunting",
+            "date": "15th century",
+            "technique": "Manuscript",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/50secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27776
+        },
+        {
+            "title": "Roman de la Rose",
+            "date": "15th century",
+            "technique": "Manuscript (MS Fr. 19153)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french1/51secula.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27777
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/11hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27778
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/12hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27779
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/13hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27780
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/14hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27781
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/15hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27782
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/16hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27783
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1455",
+            "technique": "Manuscript (74 G 37) 116 x 85 mm",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/17hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27784
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1450s",
+            "technique": "Manuscript (I. B. 30)",
+            "location": "Biblioteca Nazionale Vittorio Emanuele III Naples",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/18hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27785
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1470s",
+            "technique": "Manuscript (Banco Rari 332)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/19hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27786
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1490",
+            "technique": "Manuscript",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/20hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27787
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1490s",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/21hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27788
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1490s",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/22hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27789
+        },
+        {
+            "title": "Tr\u00e8s Petites Heurs d'Anne de Bretagne",
+            "date": "c. 1498",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3120) 66 x 46 mm (each)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/23hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27790
+        },
+        {
+            "title": "Tr\u00e8s Petites Heurs d'Anne de Bretagne",
+            "date": "c. 1498",
+            "technique": "Manuscript (Ms. nouv. acq. lat. 3120) 66 x 46 mm (each)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/24hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27791
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1500",
+            "technique": "Manuscript (Ms. W. 294)",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french2/25hours.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27792
+        },
+        {
+            "title": "Missal of Jean Rolin",
+            "date": "1450-55",
+            "technique": "Manuscript (Ms. 517) 396 x 285 mm",
+            "location": "Biblioth\u00e8que municipale Lyon",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/31religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27793
+        },
+        {
+            "title": "Missal of Jean Rolin",
+            "date": "1450-55",
+            "technique": "Manuscript (Ms. 517) 396 x 285 mm",
+            "location": "Biblioth\u00e8que municipale Lyon",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/32religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27794
+        },
+        {
+            "title": "Psalter Small Offices Office of the Blessed Virgin",
+            "date": "1450s",
+            "technique": "Manuscript (Ms. 448) 275 x 180 mm",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/33religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27795
+        },
+        {
+            "title": "Prayer Book",
+            "date": "1470-90",
+            "technique": "Manuscript (MS. Lat. 920)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/34religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27796
+        },
+        {
+            "title": "Gradual",
+            "date": "1480-84",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/35religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27797
+        },
+        {
+            "title": "Gradual",
+            "date": "1480-84",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/36religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27798
+        },
+        {
+            "title": "Gradual",
+            "date": "1480-84",
+            "technique": "Manuscript",
+            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/37religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27799
+        },
+        {
+            "title": "Bible moralis\u00e9e",
+            "date": "1480s",
+            "technique": "Manuscript (Ms. fran\u00e7ais 166)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/38religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27800
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1481",
+            "technique": "Manuscript (Ms. 69)",
+            "location": "Biblioth\u00e8que Municipale Besan\u00e7on",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/39religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27801
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1490",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/40religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27802
+        },
+        {
+            "title": "Funerary Mass",
+            "date": "c. 1460",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/41religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27803
+        },
+        {
+            "title": "Prayer Book",
+            "date": "1470-90",
+            "technique": "Manuscript (Cod. Lat. 920)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/42religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27804
+        },
+        {
+            "title": "Life and Miracles of Saint Louis",
+            "date": "1480-82",
+            "technique": "Manuscript (Ms. fran\u00e7ais 2829) 370 x 265 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/43religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27805
+        },
+        {
+            "title": "Breviary",
+            "date": "c. 1500",
+            "technique": "Manuscript",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/1french3/44religi.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27806
+        },
+        {
+            "title": "Guillaume Fichet: Rhetorica",
+            "date": "1471",
+            "technique": "Incunable (Membranacei 53)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/17incuna.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27807
+        },
+        {
+            "title": "Boccaccio",
+            "date": "15th century",
+            "technique": "Incunable (MS 5793)",
+            "location": "Biblioth\u00e8que de l'Arsenal Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/5incunab/19incunb.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27808
+        },
+        {
+            "title": "Petrarch: Triumphs",
+            "date": "1503",
+            "technique": "Manuscript (Ms. fran\u00e7ais 594) 370 x 260 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french31.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27809
+        },
+        {
+            "title": "Guillaume de Lorris and Jean de Meung: Romance of the Rose",
+            "date": "c. 1519",
+            "technique": "Manuscript (M. 948) 270 x 195 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french32.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27810
+        },
+        {
+            "title": "Guillaume de Lorris and Jean de Meung: Romance of the Rose",
+            "date": "c. 1519",
+            "technique": "Manuscript (M. 948) 270 x 195 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french33.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27811
+        },
+        {
+            "title": "Book of Hours",
+            "date": "c. 1520",
+            "technique": "Manuscript",
+            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french34.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27812
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1524",
+            "technique": "Manuscript",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french35.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27813
+        },
+        {
+            "title": "Petit Livre d'Amour by Pierre Sala",
+            "date": "1500-24",
+            "technique": "Manuscript (Stowe MS 955) 130 x 95 mm",
+            "location": "British Library Lodon",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french351.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27814
+        },
+        {
+            "title": "Petit Livre d'Amour by Pierre Sala",
+            "date": "1500-24",
+            "technique": "Manuscript (Stowe MS 955) 130 x 95 mm",
+            "location": "British Library Lodon",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french352.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27815
+        },
+        {
+            "title": "Book of Hours",
+            "date": "1530s",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french36.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27816
+        },
+        {
+            "title": "Entry of Henri II into Rouen",
+            "date": "1550",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Municipale Rouen",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french37.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27817
+        },
+        {
+            "title": "Statutes of the Order of Saint-Michel",
+            "date": "c. 1550",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Municipale Saint-Germain-en-Laye",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french38.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27818
+        },
+        {
+            "title": "Statutes of the Order of Saint-Michel",
+            "date": "c. 1550",
+            "technique": "Manuscript",
+            "location": "Biblioth\u00e8que Municipale Saint-Germain-en-Laye",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french39.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27819
+        },
+        {
+            "title": "The Cardinal of Lorraine",
+            "date": "1550s",
+            "technique": "Manuscript",
+            "location": "Mus\u00e9e des Beaux-Arts Nancy",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/1french/french40.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 27820
+        },
+        {}
+    ]
+}

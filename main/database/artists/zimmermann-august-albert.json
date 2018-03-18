@@ -1,0 +1,29 @@
+{
+    "name": "ZIMMERMANN August Albert",
+    "life": "(b. 1808 Zittau d. 1888 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "View of the Dachstein Massif",
+            "date": "-",
+            "technique": "Oil on panel 27 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zimmerm/dachstei.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44652
+        },
+        {
+            "title": "Mountain with Waterfall",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zimmerm/waterfal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44653
+        },
+        {}
+    ]
+}

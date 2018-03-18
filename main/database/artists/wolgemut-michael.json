@@ -1,0 +1,89 @@
+{
+    "name": "WOLGEMUT Michael",
+    "life": "(b. 1434 N\u00fcrnberg d. 1519 N\u00fcrnberg)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Sermon of the Antichrist",
+            "date": "1493",
+            "technique": "Woodcut",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/w/wolgemut/antichri.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 44327
+        },
+        {
+            "title": "Circe and Ulysses",
+            "date": "1493",
+            "technique": "Woodcut 121 x 156 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/w/wolgemut/circe_ul.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 44328
+        },
+        {
+            "title": "Dance of Death",
+            "date": "1493",
+            "technique": "Woodcut",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/w/wolgemut/dance_de.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 44329
+        },
+        {
+            "title": "Fall of Man and the Expulsion",
+            "date": "1493",
+            "technique": "Woodcut",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/w/wolgemut/fall_man.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 44330
+        },
+        {
+            "title": "Nuremberg Chronicle: God the Father Enthroned",
+            "date": "1493",
+            "technique": "Woodcut 470 x 325 mm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/w/wolgemut/frontisp.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 44331
+        },
+        {
+            "title": "Portrait of Levinus Memminger",
+            "date": "c. 1485",
+            "technique": "Oil on panel 34 x 23 cm",
+            "location": "Thyssen-Bornemisza Museum Madrid",
+            "url": "https://www.wga.hu/html/w/wolgemut/memminge.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44332
+        },
+        {
+            "title": "Resurrection",
+            "date": "c. 1485",
+            "technique": "Panel 174 x 111 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/w/wolgemut/resurrec.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44333
+        },
+        {
+            "title": "Portrait of Ursula Tucher",
+            "date": "1478",
+            "technique": "Wood",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/w/wolgemut/u_tucher.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44334
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "UNKNOWN CABINETMAKER Flemish",
+    "life": "(active 1640s in Antwerp)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Ebony Veneered Cabinet",
+            "date": "c. 1645",
+            "technique": "Wood ebony oil on panel 71 x 83 x 38 cm (doors open)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/3f_0cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40467
+        },
+        {
+            "title": "Cabinet",
+            "date": "1650s",
+            "technique": "Wood tortoise shell gilded bronze enamel mirror-glass 178 x 153 x 56 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/3f_1cabi.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 40468
+        },
+        {
+            "title": "Cabinet",
+            "date": "1600-50",
+            "technique": "Ebony veneer on oak ivory and tin marquetry brass mount 185 x 140 x 52 cm",
+            "location": "Museum of Applied Arts Budapest",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/3f_2cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40469
+        },
+        {
+            "title": "Cabinet",
+            "date": "c. 1650",
+            "technique": "Ebony veneer on oak core with ivory inlay 42 x 45 x 25 cm",
+            "location": "Museum of Applied Arts Budapest",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/3f_3cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40470
+        },
+        {
+            "title": "Table Cabinet",
+            "date": "c. 1660",
+            "technique": "Ebony silver foil and gilded bronze 23 x25 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/3f_4cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40471
+        },
+        {}
+    ]
+}

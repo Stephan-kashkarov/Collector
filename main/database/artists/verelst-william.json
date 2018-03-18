@@ -1,0 +1,39 @@
+{
+    "name": "VERELST William",
+    "life": "(active 1732-1756 in London)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "John Dean (d.1747) Shipwrecked Mariner",
+            "date": "1743",
+            "technique": "Oil on canvas 131 x 97 cm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/v/verelst/william/johndean.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42492
+        },
+        {
+            "title": "Portrait of Elizabeth Beckford with her Son Peter",
+            "date": "1740s",
+            "technique": "Oil on canvas 243 x 166 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verelst/william/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42493
+        },
+        {
+            "title": "Portrait of an Unidentified Man Playing a Spinet",
+            "date": "1748",
+            "technique": "Oil on canvas 114 x 79 cm",
+            "location": "Royal College of Music London",
+            "url": "https://www.wga.hu/html/v/verelst/william/spinet.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42494
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "RAVERTI Matteo",
+    "life": "(active 1398-1436)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Ca' d'Oro: Fa\u00e7ade",
+            "date": "1421-43",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/r/raverti/cadoro1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33278
+        },
+        {
+            "title": "Ca' d'Oro: Portico and inner courtyard",
+            "date": "1427-38",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/r/raverti/cadoro2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33279
+        },
+        {
+            "title": "Drunkenness of Noah",
+            "date": "1430s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/raverti/noah1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33280
+        },
+        {
+            "title": "Drunkenness of Noah",
+            "date": "1430s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/raverti/noah2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33281
+        },
+        {
+            "title": "Portico",
+            "date": "1420s",
+            "technique": "-",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/r/raverti/portico.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 33282
+        },
+        {}
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "MASSYS Jan",
+    "life": "(b. ca. 1510 Antwerpen d. 1575 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Bathsheba Observed by King David",
+            "date": "-",
+            "technique": "Oil on panel 110 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/massys/jan/bathsheb.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 24582
+        },
+        {
+            "title": "Charity",
+            "date": "-",
+            "technique": "Oil on panel 46 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/massys/jan/charity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24583
+        },
+        {
+            "title": "David and Bathsheba",
+            "date": "1562",
+            "technique": "Oil on wood 162 x 197 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/massys/jan/david_ba.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24584
+        },
+        {
+            "title": "Flora",
+            "date": "1559",
+            "technique": "Oil on wood 1132 x 1129 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/m/massys/jan/flora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 24585
+        },
+        {
+            "title": "The Healing of Tobit",
+            "date": "c. 1550",
+            "technique": "Panel",
+            "location": "Mus\u00e9e de la Chartreuse Douai",
+            "url": "https://www.wga.hu/html/m/massys/jan/healing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24586
+        },
+        {
+            "title": "Judith",
+            "date": "-",
+            "technique": "Oil on panel 115 x 805 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/m/massys/jan/judith.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 24587
+        },
+        {
+            "title": "Lot and His Daughters",
+            "date": "1565",
+            "technique": "Oil on oak 148 x 2045 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/m/massys/jan/lotdaugh.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24588
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "-",
+            "technique": "Oil on canvas 61 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/massys/jan/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24589
+        },
+        {
+            "title": "A Praying Monk",
+            "date": "1530s",
+            "technique": "Oil on oak panel in an engaged frame 35 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/massys/jan/praying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24590
+        },
+        {
+            "title": "Holy Virgin and Child",
+            "date": "1564",
+            "technique": "Oil on canvas",
+            "location": "Sint-Jacobskerk Antwerp",
+            "url": "https://www.wga.hu/html/m/massys/jan/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24591
+        },
+        {}
+    ]
+}

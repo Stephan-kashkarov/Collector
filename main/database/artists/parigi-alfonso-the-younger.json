@@ -1,0 +1,29 @@
+{
+    "name": "PARIGI Alfonso the Younger",
+    "life": "(b. 1606 Firenze d. 1656 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Hercules at Rest",
+            "date": "c. 1650",
+            "technique": "Marble",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/p/parigi/alfonso2/hercules.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 30386
+        },
+        {
+            "title": "Lion Fountain",
+            "date": "c. 1650",
+            "technique": "Marble",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/p/parigi/alfonso2/lionfoun.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 30387
+        },
+        {}
+    ]
+}

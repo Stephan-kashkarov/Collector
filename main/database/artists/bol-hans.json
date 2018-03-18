@@ -1,0 +1,109 @@
+{
+    "name": "BOL Hans",
+    "life": "(b. 1534 Mechelen d. 1593 Amsterdam)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Village Feast (Annual Fair)",
+            "date": "-",
+            "technique": "Oil on panel 555 x 776 cm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bol_h/feast.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 4906
+        },
+        {
+            "title": "Village Feast (detail)",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bol_h/feast1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 4907
+        },
+        {
+            "title": "Landscape with the Fall of Icarus",
+            "date": "-",
+            "technique": "Watercolour on paper 133 x 206 mm",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/b/bol_h/icarus.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 4908
+        },
+        {
+            "title": "Mountainous Landscape with the Return of Jacob from Canaan",
+            "date": "1593",
+            "technique": "Oil on panel 16 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bol_h/jacob.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4909
+        },
+        {
+            "title": "Mountainous Landscape with the Return of Jacob from Canaan (detail)",
+            "date": "1593",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bol_h/jacob1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4910
+        },
+        {
+            "title": "Panoramic Landscape",
+            "date": "-",
+            "technique": "Oil on panel diameter 22 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bol_h/panorami.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4911
+        },
+        {
+            "title": "Triptych",
+            "date": "1593",
+            "technique": "Vellum 28 x 22; 35 x 24; 28 x 22 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bol_h/triptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4912
+        },
+        {
+            "title": "Landscape with the Figures of Judah and Tamar",
+            "date": "1573",
+            "technique": "Pen brown ink lilac wash 112 x 188 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 4913
+        },
+        {
+            "title": "Landscape with Christ and The Disciples on The Way to Emmaus",
+            "date": "1573",
+            "technique": "Pen brown ink lilac wash 112 x 188 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 4914
+        },
+        {
+            "title": "Landscape with Huntsmen",
+            "date": "1580s",
+            "technique": "Pen brown ink wash on whute grounded paper 127 x 194 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands3.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 4915
+        },
+        {}
+    ]
+}

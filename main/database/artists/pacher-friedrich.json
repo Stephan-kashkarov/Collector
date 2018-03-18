@@ -1,0 +1,39 @@
+{
+    "name": "PACHER Friedrich",
+    "life": "(active 1470-80 in Tyrol)",
+    "school": "Austrian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Christ in Limbo",
+            "date": "1460s",
+            "technique": "Tempera on pine panel 85 x 715 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pacher_f/limbo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30048
+        },
+        {
+            "title": "Christ in Limbo (detail)",
+            "date": "1460s",
+            "technique": "Tempera on pine panel",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pacher_f/limbo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30049
+        },
+        {
+            "title": "St Anthony of Padua and St Francis of Assisi",
+            "date": "1477",
+            "technique": "Tempera oan pine panel 545 x 935 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pacher_f/saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30050
+        },
+        {}
+    ]
+}

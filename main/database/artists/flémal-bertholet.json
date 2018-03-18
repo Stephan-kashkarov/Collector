@@ -1,0 +1,39 @@
+{
+    "name": "FL\u00c9MAL Bertholet",
+    "life": "(b. 1614 Li\u00e8ge d. 1675 Li\u00e8ge)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Allegory of the Foundation of Rome",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 144 x 195 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/flemal/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13908
+        },
+        {
+            "title": "Heliodorus Driven from the Temple",
+            "date": "1658-62",
+            "technique": "Oil on canvas 146 x 174 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/f/flemal/heliodor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13909
+        },
+        {
+            "title": "Lucius Albinus Giving his Carriage to Vestals",
+            "date": "1650s",
+            "technique": "Oil on canvas 143 x 195 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/flemal/lucius.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 13910
+        },
+        {}
+    ]
+}

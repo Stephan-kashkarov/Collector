@@ -1,0 +1,89 @@
+{
+    "name": "GHISI Giorgio",
+    "life": "(b. 1520 Mantova d. 1582 Mantova)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Dream of Raphael",
+            "date": "1561",
+            "technique": "Engraving 1st state 377 x 535 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/ghisi/dream.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15633
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1555",
+            "technique": "Engraving 394 x 526 mm",
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "url": "https://www.wga.hu/html/g/ghisi/judparis.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15634
+        },
+        {
+            "title": "Sts Blaise and Catherine and St Sebastian",
+            "date": "1545-50",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/g/ghisi/lastjudg.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15635
+        },
+        {
+            "title": "Last Supper",
+            "date": "1551",
+            "technique": "Engraving 349 x 533 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/ghisi/lastsupp.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15636
+        },
+        {
+            "title": "The Prophet Ezekiel (detail)",
+            "date": "15%-72",
+            "technique": "Engraving",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/ghisi/prophet.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15637
+        },
+        {
+            "title": "The Prophet Ezekiel",
+            "date": "15%-72",
+            "technique": "Engraving 561 x 445 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/ghisi/prophet1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15638
+        },
+        {
+            "title": "The Delphic Sibyl",
+            "date": "1570-72",
+            "technique": "Engraving 551 x 432 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/ghisi/sibyl.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 15639
+        },
+        {
+            "title": "Simon Deceiving the Trojans",
+            "date": "c. 1540",
+            "technique": "Engraving 366 x 478 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/ghisi/trojans.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 15640
+        },
+        {}
+    ]
+}

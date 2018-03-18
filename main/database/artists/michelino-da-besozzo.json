@@ -1,0 +1,39 @@
+{
+    "name": "MICHELINO DA BESOZZO",
+    "life": "(d. 1450)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Elogium on Giangaleazzo Visconti by Pietro da Castellato",
+            "date": "1403",
+            "technique": "Manuscript (Ms. 5888) 376 x 242 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/michelin/elogium.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27014
+        },
+        {
+            "title": "Elogium on Giangaleazzo Visconti by Pietro da Castellato",
+            "date": "1403",
+            "technique": "Manuscript (Ms. 5888) 376 x 242 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/michelin/elogium1.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 27015
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine St John the Baptist St Antony Abbot",
+            "date": "c. 1420",
+            "technique": "Tempera on wood 75 x 58 cm",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/m/michelin/mystic_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27016
+        },
+        {}
+    ]
+}

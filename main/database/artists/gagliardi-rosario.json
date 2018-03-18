@@ -1,0 +1,39 @@
+{
+    "name": "GAGLIARDI Rosario",
+    "life": "(b. ca. 1682 Siracusa d. 1762 Noto)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "completed 1776",
+            "technique": "Photo",
+            "location": "Chiesa Madre di San Nicol\u00f2 Noto",
+            "url": "https://www.wga.hu/html/g/gagliar/noto.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14688
+        },
+        {
+            "title": "Exterior view",
+            "date": "1744",
+            "technique": "Photo",
+            "location": "Duomo di San Giorgio Ragusa",
+            "url": "https://www.wga.hu/html/g/gagliar/ragusa1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14689
+        },
+        {
+            "title": "Exterior view",
+            "date": "1744",
+            "technique": "Photo",
+            "location": "Duomo di San Giorgio Ragusa",
+            "url": "https://www.wga.hu/html/g/gagliar/ragusa2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14690
+        },
+        {}
+    ]
+}

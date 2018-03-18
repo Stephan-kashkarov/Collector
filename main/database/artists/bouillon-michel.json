@@ -1,0 +1,29 @@
+{
+    "name": "BOUILLON Michel",
+    "life": "(b. ca. 1616 Ere (Tournai) d. after 1654)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "1650s",
+            "technique": "Oil on copper 38 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bouillon/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 5737
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bouillon/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 5738
+        },
+        {}
+    ]
+}

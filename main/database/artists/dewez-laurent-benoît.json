@@ -1,0 +1,29 @@
+{
+    "name": "DEWEZ Laurent-Beno\u00eet",
+    "life": "(b. 1731 Petit-Rechain d. 1812 Groot-Bijgaarden)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1760",
+            "technique": "Photo",
+            "location": "Palace of Duke Julien de Pestre Seneffe",
+            "url": "https://www.wga.hu/html/d/dewez/seneffe1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11490
+        },
+        {
+            "title": "Exterior view",
+            "date": "1760",
+            "technique": "Photo",
+            "location": "Palace of Duke Julien de Pestre Seneffe",
+            "url": "https://www.wga.hu/html/d/dewez/seneffe2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11491
+        },
+        {}
+    ]
+}

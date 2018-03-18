@@ -1,0 +1,109 @@
+{
+    "name": "SOROLLA Y BASTIDA Joaqu\u00edn",
+    "life": "(b. 1863 Valencia d. 1923 Cercedilla)",
+    "school": "Spanish",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Eating on the Boat",
+            "date": "1898",
+            "technique": "Oil on canvas 180 x 250 cm",
+            "location": "Museo de la Real Academia de San Fernando Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/eating.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37691
+        },
+        {
+            "title": "Eating on the Boat (detail)",
+            "date": "1898",
+            "technique": "Oil on canvas",
+            "location": "Museo de la Real Academia de San Fernando Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/eating1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37692
+        },
+        {
+            "title": "Return from Fishing",
+            "date": "1904",
+            "technique": "Oil on canvas 45 x 75 cm",
+            "location": "Raccolte Frugone Nervi Genova",
+            "url": "https://www.wga.hu/html/s/sorolla/fishing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37693
+        },
+        {
+            "title": "Portrait of Aureliano Beruete the Elder",
+            "date": "1902",
+            "technique": "Oil on canvas 116 x 111 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37694
+        },
+        {
+            "title": "Portrait of the Wife of Aureliano Beruete the Elder",
+            "date": "1902",
+            "technique": "Oil on canvas 111 x 88 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37695
+        },
+        {
+            "title": "Portrait of Alfonso XIII in the Uniform of a Hussar",
+            "date": "1907",
+            "technique": "Oil on canvas 208 x 108 cm",
+            "location": "Palacio Real Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/portrai3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37696
+        },
+        {
+            "title": "Selling the Catch at Valencia",
+            "date": "1903",
+            "technique": "Oil on canvas 93 x 126 cm",
+            "location": "Diputaci\u00f3n Provincial Valencia",
+            "url": "https://www.wga.hu/html/s/sorolla/selling.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37697
+        },
+        {
+            "title": "Elena and Maria in Old-Fashioned Valencian Costume",
+            "date": "1908",
+            "technique": "Oil on canvas 255 x 185 cm",
+            "location": "Museo de Arte Moderno Barcelona",
+            "url": "https://www.wga.hu/html/s/sorolla/valencia.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37698
+        },
+        {
+            "title": "The Beach at Valencia",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo Sorolla Madrid",
+            "url": "https://www.wga.hu/html/s/sorolla/valencib.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37699
+        },
+        {
+            "title": "Waiting for the Catch Valencia Beach",
+            "date": "1907",
+            "technique": "Oil on canvas 89 x 111 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sorolla/valencic.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37700
+        },
+        {}
+    ]
+}

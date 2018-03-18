@@ -1,0 +1,49 @@
+{
+    "name": "MAZZUOLI Giuseppe",
+    "life": "(b. 1643 Volterra d. 1725 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Death of Adonis",
+            "date": "1709",
+            "technique": "Marble height 193 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mazzuoli/adonis.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 25368
+        },
+        {
+            "title": "Angel",
+            "date": "-",
+            "technique": "Terracotta nad bronze",
+            "location": "Chigi Saracini Collection Siena",
+            "url": "https://www.wga.hu/html/m/mazzuoli/angel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25369
+        },
+        {
+            "title": "The Deposition of Christ",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Galleria Chigi-Saracini Siena",
+            "url": "https://www.wga.hu/html/m/mazzuoli/depositi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25370
+        },
+        {
+            "title": "St Philip",
+            "date": "1703-12",
+            "technique": "Marble height 425 cm",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/m/mazzuoli/stphilip.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25371
+        },
+        {}
+    ]
+}

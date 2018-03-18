@@ -1,0 +1,69 @@
+{
+    "name": "POWERS Hiram",
+    "life": "(b. 1805 Woodstock Vermont d. 1873 Firenze)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bust of General Andrew Jackson",
+            "date": "c. 1835",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/powers/father/ajackson.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 32322
+        },
+        {
+            "title": "Fisher Boy",
+            "date": "1841-44",
+            "technique": "Marble 146 x 48 x 41 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/powers/father/fisherbo.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 32323
+        },
+        {
+            "title": "The Greek Slave",
+            "date": "1844",
+            "technique": "Marble",
+            "location": "Raby Castle Staindrop Durham County",
+            "url": "https://www.wga.hu/html/p/powers/father/greek1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 32324
+        },
+        {
+            "title": "The Greek Slave",
+            "date": "1843",
+            "technique": "Marble",
+            "location": "Yale University Art Gallery New Haven",
+            "url": "https://www.wga.hu/html/p/powers/father/greek2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 32325
+        },
+        {
+            "title": "Last of the Tribe",
+            "date": "1870-72",
+            "technique": "Marble",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/powers/father/lastribe.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 32326
+        },
+        {
+            "title": "George Washington",
+            "date": "1838-44",
+            "technique": "Marble 79 x 58 x 36 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/powers/father/washingt.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 32327
+        },
+        {}
+    ]
+}

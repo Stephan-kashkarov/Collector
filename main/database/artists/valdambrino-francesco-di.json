@@ -1,0 +1,29 @@
+{
+    "name": "VALDAMBRINO Francesco di",
+    "life": "(b. 1363 ? d. 1435 Siena)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "San Crescenzio",
+            "date": "c. 1406",
+            "technique": "Polychromed wood height 36 cm",
+            "location": "Museo dell'Opera del Duomo Siena",
+            "url": "https://www.wga.hu/html/v/valdambr/crescens.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 41957
+        },
+        {
+            "title": "St Dorothy",
+            "date": "1420s",
+            "technique": "Polychromed wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/valdambr/dorothy.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 41958
+        },
+        {}
+    ]
+}

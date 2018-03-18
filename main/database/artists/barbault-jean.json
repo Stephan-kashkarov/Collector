@@ -1,0 +1,49 @@
+{
+    "name": "BARBAULT Jean",
+    "life": "(b. 1718 Viarmes d. 1762 Roma)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Young Woman Dressed in Neapolitan Fashion",
+            "date": "-",
+            "technique": "Oil on canvas 33 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barbault/fashion.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3169
+        },
+        {
+            "title": "A Girl from Frascati",
+            "date": "-",
+            "technique": "Oil on canvas 26 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barbault/frascati.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3170
+        },
+        {
+            "title": "Greek Sultana",
+            "date": "1748",
+            "technique": "Oil on canvas 66 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barbault/sultana.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3171
+        },
+        {
+            "title": "The Venetian",
+            "date": "-",
+            "technique": "Oil on canvas 25 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barbault/venetian.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3172
+        },
+        {}
+    ]
+}

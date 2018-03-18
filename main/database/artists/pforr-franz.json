@@ -1,0 +1,49 @@
+{
+    "name": "PFORR Franz",
+    "life": "(b. 1788 Frankfurt d. 1812 Roma)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "St George and the Dragon",
+            "date": "c. 1811",
+            "technique": "Oil on wood 28 x 21 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/p/pforr/dragon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30960
+        },
+        {
+            "title": "The Entry of Emperor Rudolf of Habsburg into Basel",
+            "date": "1809-10",
+            "technique": "Oil on canvas 90 x 119 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/p/pforr/entry_ru.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30961
+        },
+        {
+            "title": "Raphael Fra Angelico and Michelangelo over Rome",
+            "date": "1810",
+            "technique": "Pencil on paper 311 x 200 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/p/pforr/raphael.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 30962
+        },
+        {
+            "title": "Shulamit and Mary",
+            "date": "1810-11",
+            "technique": "Oil on panel 34 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pforr/shulamit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30963
+        },
+        {}
+    ]
+}

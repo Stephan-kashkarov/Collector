@@ -1,0 +1,49 @@
+{
+    "name": "ROYEN Willem Frederik van",
+    "life": "(b. 1645 Haarlem d. 1723 Berlin)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Carrot",
+            "date": "1699",
+            "technique": "Oil on canvas 35 x 26 cm",
+            "location": "M\u00e4rkisches Museum Berlin",
+            "url": "https://www.wga.hu/html/r/royen/carrot.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 35355
+        },
+        {
+            "title": "A Vase of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 45 x 36 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/r/royen/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35356
+        },
+        {
+            "title": "Still-Life of Peaches and Grapes",
+            "date": "1705",
+            "technique": "Oil on canvas 46 x 39 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/r/royen/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35357
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Art Gallery Christchurch",
+            "url": "https://www.wga.hu/html/r/royen/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35358
+        },
+        {}
+    ]
+}

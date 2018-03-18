@@ -1,0 +1,29 @@
+{
+    "name": "CAMPHUYSEN Govert Dircksz.",
+    "life": "(b. ca. 1623 Dokkum d. 1672 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "\"\"Tre Kronor\"\" Castle Stockholm",
+            "date": "1661",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/camphuys/kronor.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7115
+        },
+        {
+            "title": "A Peasant Holding a Duck",
+            "date": "-",
+            "technique": "Oil on oak panel 63 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/camphuys/peasant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7116
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "SANTERRE Jean-Baptiste",
+    "life": "(b. 1658 Magny-en-Vexin d. 1717 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of a Young Lady with a Letter",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/santerre/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36291
+        },
+        {
+            "title": "Portrait of an Artist",
+            "date": "-",
+            "technique": "Oil on canvas 78 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/santerre/portrart.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36292
+        },
+        {
+            "title": "Susanna at the Bath",
+            "date": "1704",
+            "technique": "Oil on canvas 205 x 145 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/santerre/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36293
+        },
+        {
+            "title": "Two Actresses",
+            "date": "1699",
+            "technique": "Oil on canvas 146 x 114 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/santerre/twoactre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36294
+        },
+        {
+            "title": "Woman with Veil",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/santerre/wom_veil.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36295
+        },
+        {}
+    ]
+}

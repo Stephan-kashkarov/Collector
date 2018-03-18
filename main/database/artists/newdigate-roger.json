@@ -1,0 +1,39 @@
+{
+    "name": "NEWDIGATE Roger",
+    "life": "(b. 1719 Arbury d. 1806 Arbury)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1748-98",
+            "technique": "Photo",
+            "location": "Arbury Hall Warwickshire",
+            "url": "https://www.wga.hu/html/n/newdigat/arbury1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 29567
+        },
+        {
+            "title": "Dining room and hall",
+            "date": "1762",
+            "technique": "Photo",
+            "location": "Arbury Hall Warwickshire",
+            "url": "https://www.wga.hu/html/n/newdigat/arbury2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 29568
+        },
+        {
+            "title": "Drawing room (detail)",
+            "date": "completed 1798",
+            "technique": "Photo",
+            "location": "Arbury Hall Warwickshire",
+            "url": "https://www.wga.hu/html/n/newdigat/arbury3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 29569
+        },
+        {}
+    ]
+}

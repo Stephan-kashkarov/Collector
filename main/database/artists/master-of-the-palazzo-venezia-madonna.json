@@ -1,0 +1,79 @@
+{
+    "name": "MASTER of the Palazzo Venezia Madonna",
+    "life": "(active around 1350 in Siena)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1350",
+            "technique": "Tempera on wood 73 x 42 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/m/master/palazzo/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25158
+        },
+        {
+            "title": "St Mary Magdalene",
+            "date": "c. 1350",
+            "technique": "Egg tempera on wood 60 x 35 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/palazzo/madonna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25159
+        },
+        {
+            "title": "St Peter",
+            "date": "c. 1350",
+            "technique": "Egg tempera on wood 60 x 35 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/palazzo/madonna2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25160
+        },
+        {
+            "title": "St Mary Magdalene (detail)",
+            "date": "c. 1350",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/palazzo/madonna3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25161
+        },
+        {
+            "title": "St Peter (detail)",
+            "date": "c. 1350",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/palazzo/madonna4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25162
+        },
+        {
+            "title": "St Vittore of Siena",
+            "date": "c. 1350",
+            "technique": "Tempera on wood 155 x 48 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/m/master/palazzo/vittore1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25163
+        },
+        {
+            "title": "St Corona",
+            "date": "c. 1350",
+            "technique": "Tempera on wood 155 x 48 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/m/master/palazzo/vittore2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25164
+        },
+        {}
+    ]
+}

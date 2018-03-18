@@ -1,0 +1,29 @@
+{
+    "name": "ZANTH Karl Ludwig Wilhelm von",
+    "life": "(b. 1796 Breslau d. 1857 Stuttgart)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "begun 1837",
+            "technique": "Photo",
+            "location": "Wilhelma Stuttgart",
+            "url": "https://www.wga.hu/html/z/zanth/wilhelm1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44546
+        },
+        {
+            "title": "General view of Wilhelma",
+            "date": "1855",
+            "technique": "Watercolour",
+            "location": "W\u00fcrttembergische Landesbibliothek Stuttgart",
+            "url": "https://www.wga.hu/html/z/zanth/wilhelm2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44547
+        },
+        {}
+    ]
+}

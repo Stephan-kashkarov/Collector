@@ -1,0 +1,59 @@
+{
+    "name": "SPITZWEG Carl",
+    "life": "(b. 1808 M\u00fcnchen d. 1885 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Convent-School Outing",
+            "date": "c. 1860",
+            "technique": "Oil on canvas 32 x 54 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/spitzweg/outing.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37823
+        },
+        {
+            "title": "The Poor Poet",
+            "date": "1839",
+            "technique": "Oil on canvas 36 x 45 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/spitzweg/poorpoet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37824
+        },
+        {
+            "title": "The Poor Poet",
+            "date": "1839",
+            "technique": "Oil on canvas 36 x 45 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/spitzweg/poorpoex.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37825
+        },
+        {
+            "title": "The Angler",
+            "date": "-",
+            "technique": "Oil on wood 255 x 18 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/s/spitzweg/theangle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37826
+        },
+        {
+            "title": "Kite Flying",
+            "date": "c. 1880",
+            "technique": "Oil on board 38 x 12 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/spitzweg/zkite.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37827
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "FERENCZY Istv\u00e1n",
+    "life": "(b. 1792 Rimaszombat d. 1856 Rimaszombat)",
+    "school": "Hungarian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bust of Ferenc Kazinczy",
+            "date": "1828",
+            "technique": "Marble height 59 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/ferenczy/kazinczy.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13621
+        },
+        {
+            "title": "Statue of Poet Ferenc K\u00f6lcsey",
+            "date": "1841-46",
+            "technique": "Marble height 153 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/ferenczy/kolcsey.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13622
+        },
+        {
+            "title": "Sheperdess (Awakening of the Fine Arts)",
+            "date": "1820-22",
+            "technique": "White marble height 94 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/ferenczy/pasztorl.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 13623
+        },
+        {
+            "title": "Old Woman (Zsuzsanna Ferenczy)",
+            "date": "c. 1850",
+            "technique": "Wax 130 mm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/ferenczy/zsuzsann.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13624
+        },
+        {}
+    ]
+}

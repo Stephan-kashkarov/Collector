@@ -1,0 +1,99 @@
+{
+    "name": "HUET Christophe",
+    "life": "(b. 1700 Pontoise d. 1759 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Singerie: The Concert",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 89 x 151 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20255
+        },
+        {
+            "title": "Singerie: The Dance",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 92 x 144 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20256
+        },
+        {
+            "title": "Singerie: The Fishermen",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 92 x 144 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20257
+        },
+        {
+            "title": "Singerie: The Picnic",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 90 x 150 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri4.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20258
+        },
+        {
+            "title": "Singerie: The Painter",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 82 x 119 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri5.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20259
+        },
+        {
+            "title": "Singerie: The Sculptor",
+            "date": "c. 1739",
+            "technique": "Oil on canvas 83 x 120 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/huet/christop/singeri6.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20260
+        },
+        {
+            "title": "Portrait of Mimi Madame de Pompadour's King Charles Spaniel",
+            "date": "-",
+            "technique": "Oil on canvas 81 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/huet/christop/spaniel.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20261
+        },
+        {
+            "title": "The Dance Lesson",
+            "date": "1741",
+            "technique": "Red chalk",
+            "location": "Mus\u00e9e de Beaux-Arts Valenciennes",
+            "url": "https://www.wga.hu/html/h/huet/christop/z_dance.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 20262
+        },
+        {
+            "title": "The Horn Players",
+            "date": "1741",
+            "technique": "Red chalk",
+            "location": "Mus\u00e9e de Beaux-Arts Valenciennes",
+            "url": "https://www.wga.hu/html/h/huet/christop/z_horn.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 20263
+        },
+        {}
+    ]
+}

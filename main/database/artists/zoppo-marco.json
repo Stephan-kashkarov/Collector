@@ -1,0 +1,49 @@
+{
+    "name": "ZOPPO Marco",
+    "life": "(b. 1433 Cento d. 1478 Venezia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Madonna and Child with Angels",
+            "date": "1455",
+            "technique": "Wood transferred to canvas 89 x 72 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/z/zoppo/mad_child.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44685
+        },
+        {
+            "title": "Madonna and Child Enthroned with Saints",
+            "date": "1471",
+            "technique": "Poplar panel 262 x 254 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/z/zoppo/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44686
+        },
+        {
+            "title": "St Paul",
+            "date": "c. 1468",
+            "technique": "Tempera and gilding on panel 50 x 31 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/z/zoppo/st_paul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44687
+        },
+        {
+            "title": "The Penitent St Jerome",
+            "date": "1465-66",
+            "technique": "Tempera on panel 41 x 33 cm",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/z/zoppo/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44688
+        },
+        {}
+    ]
+}

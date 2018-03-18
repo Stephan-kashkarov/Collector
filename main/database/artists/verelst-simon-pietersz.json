@@ -1,0 +1,29 @@
+{
+    "name": "VERELST Simon Pietersz.",
+    "life": "(b. 1644 Den Haag d. ca. 1721 London)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Flower Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verelst/simon/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42490
+        },
+        {
+            "title": "Still-Life with Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 96 x 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verelst/simon/stillifx.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42491
+        },
+        {}
+    ]
+}

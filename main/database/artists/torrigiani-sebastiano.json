@@ -1,0 +1,39 @@
+{
+    "name": "TORRIGIANI Sebastiano",
+    "life": "(active 1573-1596)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Bust of Gregory XIV",
+            "date": "1590-91",
+            "technique": "Bronze height 31 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/torrigia/gregory.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39916
+        },
+        {
+            "title": "Saint Paul",
+            "date": "c. 1585",
+            "technique": "Gilt bronze height 87.6 cm",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/t/torrigia/st_paul.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39917
+        },
+        {
+            "title": "Saint Peter",
+            "date": "c. 1585",
+            "technique": "Gilt bronze height 87.6 cm",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/t/torrigia/st_peter.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 39918
+        },
+        {}
+    ]
+}

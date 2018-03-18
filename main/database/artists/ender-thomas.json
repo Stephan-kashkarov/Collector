@@ -1,0 +1,59 @@
+{
+    "name": "ENDER Thomas",
+    "life": "(b. 1793 Wien d. 1875 Wien)",
+    "school": "Austrian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Pov\u00e1\u017esk\u00fd Hrad and the Renaissance Mansion",
+            "date": "1860s",
+            "technique": "Watercolour and pencil on paper 270 \u00d7 371 mm",
+            "location": "Library of the Hungarian Academy of Sciences Budapest",
+            "url": "https://www.wga.hu/html/e/ender/thomas/ender01.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 13160
+        },
+        {
+            "title": "Orava Castle",
+            "date": "1860s",
+            "technique": "Watercolour and pencil on paper 340 \u00d7 485 mm",
+            "location": "Library of the Hungarian Academy of Sciences Budapest",
+            "url": "https://www.wga.hu/html/e/ender/thomas/ender02.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 13161
+        },
+        {
+            "title": "The Pieniny Mountains with the Dunajec River",
+            "date": "1860s",
+            "technique": "Watercolour and pencil on paper 189 \u00d7 272 mm",
+            "location": "Library of the Hungarian Academy of Sciences Budapest",
+            "url": "https://www.wga.hu/html/e/ender/thomas/ender03.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 13162
+        },
+        {
+            "title": "The Grossglockner with the Pasterze Glacier",
+            "date": "c. 1830",
+            "technique": "Oil on wood 43 x 61 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/e/ender/thomas/glacier.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13163
+        },
+        {
+            "title": "View of Rio de Janeiro",
+            "date": "1837",
+            "technique": "Oil on canvas 127 x 189 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/e/ender/thomas/rjaneiro.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13164
+        },
+        {}
+    ]
+}

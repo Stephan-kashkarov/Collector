@@ -1,0 +1,109 @@
+{
+    "name": "GELDER Aert de",
+    "life": "(b. 1645 Dordrecht d. 1727 Dordrecht)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Ahimelech Giving the Sword of Goliath to David",
+            "date": "1680s",
+            "technique": "Oil on canvas 90 x 132 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/gelder/ahimelec.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15117
+        },
+        {
+            "title": "The Jewish Bride (Esther Bedecked)",
+            "date": "1684",
+            "technique": "Oil on canvas",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/gelder/bride.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15118
+        },
+        {
+            "title": "Esther and Mordecai",
+            "date": "1685",
+            "technique": "Oil on canvas 93 x 149 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/gelder/esther.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15119
+        },
+        {
+            "title": "Portrait of G\u00e9rard de Lairesse",
+            "date": "1665-67",
+            "technique": "Oil on canvas 113 x 88 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/gelder/lairesse.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15120
+        },
+        {
+            "title": "Old Testament Scene",
+            "date": "1682-84",
+            "technique": "Oil on canvas 97 x 130 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/g/gelder/oldtesta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15121
+        },
+        {
+            "title": "Portrait of a Boy",
+            "date": "c. 1700",
+            "technique": "Oil on canvas 57 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gelder/p_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15122
+        },
+        {
+            "title": "Self-Portrait at an Easel Painting an Old Woman",
+            "date": "1685",
+            "technique": "Oil on canvas",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/g/gelder/self_por.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15123
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "after 1685",
+            "technique": "Oil on canvas 79 x 64 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/gelder/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15124
+        },
+        {
+            "title": "Tobias in the House of Edna and Raguel",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 113 x 154 cm",
+            "location": "The Leiden Collection New York",
+            "url": "https://www.wga.hu/html/g/gelder/tobias.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15125
+        },
+        {
+            "title": "Wandering Musician",
+            "date": "1690s",
+            "technique": "Oil on canvas 139 x 99 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/gelder/wanderin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 15126
+        },
+        {}
+    ]
+}

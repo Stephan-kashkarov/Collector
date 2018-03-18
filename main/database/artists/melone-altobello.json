@@ -1,0 +1,59 @@
+{
+    "name": "MELONE Altobello",
+    "life": "(b. ca. 1485 Cremona d. ca. 1543 Cremona)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Tobias and the Angel",
+            "date": "1521-23",
+            "technique": "Oil on panel 112 x 48 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/m/melone/angeltob.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25925
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1515",
+            "technique": "Oil on panel 61 x 47 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/melone/christx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25926
+        },
+        {
+            "title": "Flight to Egypt",
+            "date": "1517",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/m/melone/cremona1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25927
+        },
+        {
+            "title": "Massacre of the Innocents",
+            "date": "1517",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/m/melone/cremona2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25928
+        },
+        {
+            "title": "Portrait of Alda Gambara",
+            "date": "1515-16",
+            "technique": "Oil on panel 60 x 50 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/m/melone/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25929
+        },
+        {}
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "MAN Cornelis de",
+    "life": "(b. 1621 Delft d. 1706 Delft)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Chess Players",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 975 x 85 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/man/chess_pl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23773
+        },
+        {
+            "title": "Interior with a Family and Two Nurses before a Fire",
+            "date": "1670s",
+            "technique": "Oil on panel 52 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/family.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23774
+        },
+        {
+            "title": "A Man Weighing Gold",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 82 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/goldweig.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23775
+        },
+        {
+            "title": "Interior of a Townhouse",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23776
+        },
+        {
+            "title": "The Reading Lesson",
+            "date": "-",
+            "technique": "Oil on canvas 74 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/lesson.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23777
+        },
+        {
+            "title": "Interior of the Oude Kerk in Delft",
+            "date": "-",
+            "technique": "Oil on panel 73 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/oudeker.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23778
+        },
+        {
+            "title": "Interior of the Oude Kerk Delft",
+            "date": "-",
+            "technique": "Oil on canvas 104 x 121 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/man/oudekerk.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23779
+        },
+        {
+            "title": "Interior of the Laurenskerk Rotterdam",
+            "date": "1664-66",
+            "technique": "Oil on canvas 40 x 47 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/m/man/rotterda.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23780
+        },
+        {
+            "title": "The Whale-oil Factory on Jan Mayen Island",
+            "date": "1639",
+            "technique": "Oil on canvas 108 x 205 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/man/whaleoil.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23781
+        },
+        {}
+    ]
+}

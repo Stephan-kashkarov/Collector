@@ -1,0 +1,39 @@
+{
+    "name": "PONTIUS Paulus",
+    "life": "(b. 1603 Antwerpen d. 1658 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of Constantijn Huygens",
+            "date": "1630s",
+            "technique": "Engraving 273 x 175 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/pontius/huygens.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31932
+        },
+        {
+            "title": "Portrait of Nicolaas Rockox",
+            "date": "1639",
+            "technique": "Copperplate engraving 360 x 320 mm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/p/pontius/rockox.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31933
+        },
+        {
+            "title": "Self-Portrait by Rubens",
+            "date": "-",
+            "technique": "Engraving 366 x 270 mm",
+            "location": "Teylers Museum Haarlem",
+            "url": "https://www.wga.hu/html/p/pontius/rubens.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31934
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "GILLRAY James",
+    "life": "(b. 1756 London d. 1815 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Dublures of Characters",
+            "date": "1798",
+            "technique": "Etching and engraving 235 x 327 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gillray/dublures.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15811
+        },
+        {
+            "title": "Long Live the Constitution One and In(di)visible",
+            "date": "1800",
+            "technique": "Etching 270 x 170 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/g/gillray/longlive.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15812
+        },
+        {
+            "title": "The Plum-Pudding in Danger",
+            "date": "1805",
+            "technique": "Coloured engraving 240 x 340 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/g/gillray/pudding.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15813
+        },
+        {
+            "title": "Sin Death and the Devil",
+            "date": "1792",
+            "technique": "Etching 319 x 399 mm",
+            "location": "New College Oxford University Oxford",
+            "url": "https://www.wga.hu/html/g/gillray/sindeath.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15814
+        },
+        {
+            "title": "The Blood of the Murdered Crying for Vengeance",
+            "date": "1793",
+            "technique": "Etching",
+            "location": "New College Oxford University Oxford",
+            "url": "https://www.wga.hu/html/g/gillray/vengeanc.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15815
+        },
+        {
+            "title": "The Zenith of French Glory",
+            "date": "1793",
+            "technique": "Coloured engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/g/gillray/zenith.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 15816
+        },
+        {}
+    ]
+}

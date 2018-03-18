@@ -1,0 +1,99 @@
+{
+    "name": "VEEN Otto van",
+    "life": "(b. 1556 Leiden d. 1629 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Distribution of Herring and White Bread during the Siege of Leiden",
+            "date": "1574",
+            "technique": "Oil on panel 40 x 60 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/veen/distribu.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42187
+        },
+        {
+            "title": "The Artist Painting Surrounded by his Family",
+            "date": "1584",
+            "technique": "Oil on canvas 176 x 250 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/veen/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42188
+        },
+        {
+            "title": "A Lady Bitten by a Parrot",
+            "date": "-",
+            "technique": "Oil on panel 105 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/veen/ladybitt.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 42189
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1592",
+            "technique": "Oil on canvas 350 x 2247 cm",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/v/veen/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 42190
+        },
+        {
+            "title": "Lycurgus Demonstrares the Importance of Education",
+            "date": "1607",
+            "technique": "Engraving",
+            "location": "-",
+            "url": "https://www.wga.hu/html/v/veen/lycurgus.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 42191
+        },
+        {
+            "title": "Portrait of Nicolaas Rockox",
+            "date": "-",
+            "technique": "Oil on panel 265 x 35 cm",
+            "location": "Rubens House Antwerp",
+            "url": "https://www.wga.hu/html/v/veen/rockox.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42192
+        },
+        {
+            "title": "The Triumph of Wisdom over Fortune",
+            "date": "-",
+            "technique": "Oil on oak panel 24 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/veen/triumph.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42193
+        },
+        {
+            "title": "Xantippe Dousing Socrates",
+            "date": "1607",
+            "technique": "Engraving",
+            "location": "-",
+            "url": "https://www.wga.hu/html/v/veen/xantippe.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 42194
+        },
+        {
+            "title": "Emblem",
+            "date": "1607",
+            "technique": "Engraving",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/v/veen/z_emblem.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 42195
+        },
+        {}
+    ]
+}

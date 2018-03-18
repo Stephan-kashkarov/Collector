@@ -1,0 +1,119 @@
+{
+    "name": "SAFTLEVEN Herman",
+    "life": "(b. 1609 Rotterdam d. 1685 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Barn Interior",
+            "date": "c. 1634",
+            "technique": "Oil on oak panel 44 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/barn_int.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 35967
+        },
+        {
+            "title": "Hunter Sleeping on a Hillside",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/hunter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35968
+        },
+        {
+            "title": "Interior of a Peasant Hut",
+            "date": "1634-37",
+            "technique": "Oil on panel 42 x 60 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 35969
+        },
+        {
+            "title": "Mountainous Landscape",
+            "date": "1646",
+            "technique": "Oil on panel 40 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35970
+        },
+        {
+            "title": "Mediterranean Coastal Scene",
+            "date": "1641-43",
+            "technique": "Oil on panel 37 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/mediterr.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35971
+        },
+        {
+            "title": "An Extensive Rhenish River Landscape",
+            "date": "1664",
+            "technique": "Oil on oak panel 23 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/rhenish.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35972
+        },
+        {
+            "title": "Rhineland Fantasy View",
+            "date": "1650",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/rhinelan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35973
+        },
+        {
+            "title": "Rhenish River Landscape Capriccio",
+            "date": "1676",
+            "technique": "Oil on panel 29 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35974
+        },
+        {
+            "title": "Rocky Landscape",
+            "date": "1643",
+            "technique": "Oil on canvas 116 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/rockylan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35975
+        },
+        {
+            "title": "Landscape with Shepherds Playing Music",
+            "date": "1630",
+            "technique": "Oil on panel 37 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/shepherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35976
+        },
+        {
+            "title": "Christ Teaching from Saint Peter's Boat",
+            "date": "1667",
+            "technique": "Oil on panel 47 x 63 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/saftleve/herman/teaching.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35977
+        },
+        {}
+    ]
+}

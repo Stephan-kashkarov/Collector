@@ -1,0 +1,29 @@
+{
+    "name": "VACCARO Lorenzo",
+    "life": "(b. 1655 Napoli d. 1706 Torre del Greco)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bust of Vincenzo Petra",
+            "date": "1701",
+            "technique": "Marble height 82 cm",
+            "location": "Chiesa di San Pietro a Maiella Naples",
+            "url": "https://www.wga.hu/html/v/vaccaro/bust_pet.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 41926
+        },
+        {
+            "title": "Mass in the Sistine Chapel",
+            "date": "-",
+            "technique": "Engraving 544 x 396 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vaccaro/sistina.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 41927
+        },
+        {}
+    ]
+}

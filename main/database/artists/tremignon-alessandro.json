@@ -1,0 +1,29 @@
+{
+    "name": "TREMIGNON Alessandro",
+    "life": "(b. 1635 Padova d. 1711 Venezia)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Palazzo Labia: Fa\u00e7ade facing the Cannaregio",
+            "date": "1680s",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/t/tremigno/labia.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 40148
+        },
+        {
+            "title": "San Mois\u00e8: Fa\u00e7ade",
+            "date": "1668",
+            "technique": "Photo",
+            "location": "Campo San Mois\u00e8 Venice",
+            "url": "https://www.wga.hu/html/t/tremigno/sanmoise.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 40149
+        },
+        {}
+    ]
+}

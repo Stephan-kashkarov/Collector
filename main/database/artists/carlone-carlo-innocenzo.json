@@ -1,0 +1,39 @@
+{
+    "name": "CARLONE Carlo Innocenzo",
+    "life": "(b. 1686 Scaria d. 1775 Como)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Court scene with imaginary architecture",
+            "date": "1745-47",
+            "technique": "Fresco",
+            "location": "Villa Lechi Montirone",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo/lechi1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7687
+        },
+        {
+            "title": "Ceiling painting",
+            "date": "1745-47",
+            "technique": "Fresco",
+            "location": "Villa Lechi Montirone",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo/lechi2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7688
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "-",
+            "technique": "Oil on canvas 46 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo/sketch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7689
+        },
+        {}
+    ]
+}

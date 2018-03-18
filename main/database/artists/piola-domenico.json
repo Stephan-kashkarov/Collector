@@ -1,0 +1,129 @@
+{
+    "name": "PIOLA Domenico",
+    "life": "(b. 1627 Genova d. 1703 Genova)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Ceiling painting",
+            "date": "1665-67",
+            "technique": "Fresco",
+            "location": "Palazzo Spinola Gambaro Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/1ceiling.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31473
+        },
+        {
+            "title": "Janus and Hercules with Peace (detail)",
+            "date": "1665-67",
+            "technique": "Fresco",
+            "location": "Palazzo Spinola Gambaro Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/1janus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31474
+        },
+        {
+            "title": "Magdalene in the Desert",
+            "date": "1674",
+            "technique": "Oil on canvas 300 x 198 cm",
+            "location": "Oratorio di Santa Maria Maddalena Laigueglia",
+            "url": "https://www.wga.hu/html/p/piola/domenico/2magdale.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31475
+        },
+        {
+            "title": "Daedalus and Icarus",
+            "date": "1670s",
+            "technique": "Oil on canvas 136 x 111 cm",
+            "location": "Private collection Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/3icarus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31476
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1676",
+            "technique": "Oil on canvas 294 x 194 cm",
+            "location": "Church of St John the Baptist Chiavari (Genoa)",
+            "url": "https://www.wga.hu/html/p/piola/domenico/4assumpt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31477
+        },
+        {
+            "title": "Vanity",
+            "date": "-",
+            "technique": "Oil on canvas 156 x 64 cm",
+            "location": "Private collection Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/5vanity.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31478
+        },
+        {
+            "title": "Immaculate Conception",
+            "date": "1683",
+            "technique": "Oil on canvas 345 x 221 cm",
+            "location": "Church of Santissima Annunziata del Vastato Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/immacula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31479
+        },
+        {
+            "title": "Nativity",
+            "date": "1647-49",
+            "technique": "Oil on canvas 126 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piola/domenico/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31480
+        },
+        {
+            "title": "Autumn: Bacchus and Ariadne",
+            "date": "1687-88",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/rosso1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31481
+        },
+        {
+            "title": "Winter: The Cold Winds Eurus Borea and Austro",
+            "date": "1687-88",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/rosso2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31482
+        },
+        {
+            "title": "Choir decoration",
+            "date": "1695",
+            "technique": "Fresco",
+            "location": "San Luca Genoa",
+            "url": "https://www.wga.hu/html/p/piola/domenico/sanluca.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 31483
+        },
+        {
+            "title": "Bathsheba Attended by Two Women",
+            "date": "-",
+            "technique": "Pen and brown ink and wash over traces of black chalk 282 x 421 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piola/domenico/zbathshe.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 31484
+        },
+        {}
+    ]
+}

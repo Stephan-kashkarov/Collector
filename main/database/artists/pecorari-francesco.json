@@ -1,0 +1,59 @@
+{
+    "name": "PECORARI Francesco",
+    "life": "(active 1300-1340 in Lombardy)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1330s",
+            "technique": "Photo",
+            "location": "Bell tower Abbey church Abbazia di Chiaravalle Milan",
+            "url": "https://www.wga.hu/html/p/pecorari/chiarav1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30562
+        },
+        {
+            "title": "General view",
+            "date": "1330s",
+            "technique": "Photo",
+            "location": "Bell tower Abbey church Abbazia di Chiaravalle Milan",
+            "url": "https://www.wga.hu/html/p/pecorari/chiarav2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30563
+        },
+        {
+            "title": "General view",
+            "date": "completed 1309",
+            "technique": "Photo",
+            "location": "Torazzo Cremona",
+            "url": "https://www.wga.hu/html/p/pecorari/cremona.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30564
+        },
+        {
+            "title": "General view",
+            "date": "1330-36",
+            "technique": "Photo",
+            "location": "Campanile San Gottardo Milan",
+            "url": "https://www.wga.hu/html/p/pecorari/gottard1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30565
+        },
+        {
+            "title": "General view",
+            "date": "1330-36",
+            "technique": "Photo",
+            "location": "Campanile San Gottardo Milan",
+            "url": "https://www.wga.hu/html/p/pecorari/gottard2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30566
+        },
+        {}
+    ]
+}

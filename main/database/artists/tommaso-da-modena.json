@@ -1,0 +1,39 @@
+{
+    "name": "TOMMASO DA MODENA",
+    "life": "(b. ca. 1325 Modena d. 1379 Modena)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "40 Dominican Scholars (detail)",
+            "date": "1352",
+            "technique": "Fresco",
+            "location": "Chapter House San Niccol\u00f2 Treviso",
+            "url": "https://www.wga.hu/html/t/tommaso/40schola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39869
+        },
+        {
+            "title": "Cardinal Nicholas of Rouen",
+            "date": "1351-52",
+            "technique": "Fresco",
+            "location": "Chapter House San Niccol\u00f2 Treviso",
+            "url": "https://www.wga.hu/html/t/tommaso/cardinal.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39870
+        },
+        {
+            "title": "Saint Albert the Great",
+            "date": "1352",
+            "technique": "Fresco",
+            "location": "Chapter House San Niccol\u00f2 Treviso",
+            "url": "https://www.wga.hu/html/t/tommaso/s_albert.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39871
+        },
+        {}
+    ]
+}

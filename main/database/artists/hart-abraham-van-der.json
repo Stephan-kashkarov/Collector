@@ -1,0 +1,49 @@
+{
+    "name": "HART Abraham van der",
+    "life": "(b. 1747 Amsterdam d. 1820 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1803-08",
+            "technique": "Photo",
+            "location": "Barnaart Huis Haarlem",
+            "url": "https://www.wga.hu/html/h/hart/barnaart.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19330
+        },
+        {
+            "title": "Exterior view",
+            "date": "1813",
+            "technique": "Photo",
+            "location": "Orange Nassau Barracks Amsterdam",
+            "url": "https://www.wga.hu/html/h/hart/barrack1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19331
+        },
+        {
+            "title": "Exterior view",
+            "date": "1813",
+            "technique": "Photo",
+            "location": "Orange Nassau Barracks Amsterdam",
+            "url": "https://www.wga.hu/html/h/hart/barrack2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19332
+        },
+        {
+            "title": "Exterior view",
+            "date": "1794",
+            "technique": "Photo",
+            "location": "Hodshon Huis Haarlem",
+            "url": "https://www.wga.hu/html/h/hart/hodshon.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19333
+        },
+        {}
+    ]
+}

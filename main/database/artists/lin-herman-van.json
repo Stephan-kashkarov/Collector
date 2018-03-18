@@ -1,0 +1,39 @@
+{
+    "name": "LIN Herman van",
+    "life": "(b. ca. 1623 Utrecht d. 1681 Schenkenschans)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Heroic Battle Scene",
+            "date": "-",
+            "technique": "Oil on canvas 132 x 107 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lin/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 22424
+        },
+        {
+            "title": "Resting Hunters",
+            "date": "-",
+            "technique": "Oil on canvas 36 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lin/hunters.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22425
+        },
+        {
+            "title": "Tavern Interior",
+            "date": "1651",
+            "technique": "Oil on oak panel 45 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lin/tavern.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 22426
+        },
+        {}
+    ]
+}

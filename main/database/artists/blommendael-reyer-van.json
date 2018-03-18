@@ -1,0 +1,29 @@
+{
+    "name": "BLOMMENDAEL Reyer van",
+    "life": "(b. 1628 Amsterdam d. 1675 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Paris and Oenone",
+            "date": "c. 1655",
+            "technique": "Oil on canvas 123 x 110 cm",
+            "location": "Palais des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/b/blommend/parisoen.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4789
+        },
+        {
+            "title": "Xantippe Dousing Socrates",
+            "date": "c. 1655",
+            "technique": "Oil on canvas 210 x 198 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/b/blommend/xantippe.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4790
+        },
+        {}
+    ]
+}

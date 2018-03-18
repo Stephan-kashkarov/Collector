@@ -1,0 +1,59 @@
+{
+    "name": "LINT Hendrik Frans van",
+    "life": "(b. 1684 Antwerpen d. 1763 Roma)",
+    "school": "Flemish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Classical Landscape",
+            "date": "1749",
+            "technique": "Oil on canvas 49 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lint_h/classica.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22450
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 49 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lint_h/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22451
+        },
+        {
+            "title": "Rome: A View of the Tiber",
+            "date": "1734",
+            "technique": "Oil on canvas 48 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lint_h/rome1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22452
+        },
+        {
+            "title": "Roma: Piazza del Popolo",
+            "date": "1750",
+            "technique": "Oil on canvas 48 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lint_h/rome2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22453
+        },
+        {
+            "title": "Portrait of Giacomo van Lint",
+            "date": "1750",
+            "technique": "Oil on copper 29 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lint_h/van_lint.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22454
+        },
+        {}
+    ]
+}

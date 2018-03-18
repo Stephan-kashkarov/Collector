@@ -1,0 +1,29 @@
+{
+    "name": "EVENEPOEL Henri",
+    "life": "(b. 1872 Nice. d. 1899 Paris)",
+    "school": "Belgian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Sunday in the Bois de Boulogne",
+            "date": "1891",
+            "technique": "Oil on canvas 59 x 90 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/e/evenepoe/sunday.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13252
+        },
+        {
+            "title": "Veterans' Festival",
+            "date": "1898",
+            "technique": "Oil on canvas 80 x 120 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/e/evenepoe/veterans.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13253
+        },
+        {}
+    ]
+}

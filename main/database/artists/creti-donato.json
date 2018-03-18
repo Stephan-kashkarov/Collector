@@ -1,0 +1,99 @@
+{
+    "name": "CRETI Donato",
+    "life": "(b. 1671 Cremona d. 1749 Bologna)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Achilles Handing over to Chiron",
+            "date": "-",
+            "technique": "Oil on canvas 125 x 163 cm",
+            "location": "Palazzo d'Accursio Bologna",
+            "url": "https://www.wga.hu/html/c/creti/achilles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10488
+        },
+        {
+            "title": "The Charity",
+            "date": "1745",
+            "technique": "Wood diameter: 79 cm",
+            "location": "Palazzo d'Accursio Bologna",
+            "url": "https://www.wga.hu/html/c/creti/charity.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10489
+        },
+        {
+            "title": "Mercury and Paris",
+            "date": "1710s",
+            "technique": "Oil on canvas 272 x 176 cm",
+            "location": "Palazzo d'Accursio Bologna",
+            "url": "https://www.wga.hu/html/c/creti/mercury.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10490
+        },
+        {
+            "title": "Alexander the Great Cuts the Gordian Knot",
+            "date": "1710",
+            "technique": "Fresco",
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "url": "https://www.wga.hu/html/c/creti/pepoli.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 10491
+        },
+        {
+            "title": "Alexander the Great Cuts the Gordian Knot (detail)",
+            "date": "1710",
+            "technique": "Fresco",
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "url": "https://www.wga.hu/html/c/creti/pepoli1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 10492
+        },
+        {
+            "title": "Perseus and Andromeda",
+            "date": "1710s",
+            "technique": "Oil on canvas 52 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/creti/perseus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10493
+        },
+        {
+            "title": "Sibyl",
+            "date": "1718-22",
+            "technique": "Oil on canvas 44 x 38 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/creti/sibyl.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10494
+        },
+        {
+            "title": "Sibyl (detail)",
+            "date": "1718-22",
+            "technique": "Oil on canvas",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/creti/sibyl1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10495
+        },
+        {
+            "title": "Penitent St Peter",
+            "date": "-",
+            "technique": "Oil on canvas 62 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/creti/st_peter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10496
+        },
+        {}
+    ]
+}

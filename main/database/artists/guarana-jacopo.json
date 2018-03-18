@@ -1,0 +1,89 @@
+{
+    "name": "GUARANA Jacopo",
+    "life": "(b. 1720 Verona d. 1808 Venezia)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Ospedaletto: View of the Music Room",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Calle della Barbaria delle Tole Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18710
+        },
+        {
+            "title": "Apollo Conducting the Orchestra of Putte",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18711
+        },
+        {
+            "title": "Apollo Conducting the Orchestra of Putte",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18712
+        },
+        {
+            "title": "Apollo Conducting the Orchestra of Putte (detail)",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18713
+        },
+        {
+            "title": "Apollo Conducting the Orchestra of Putte (detail)",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18714
+        },
+        {
+            "title": "The Triumph of Music",
+            "date": "1776",
+            "technique": "Fresco",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/g/guarana/1ospeda6.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18715
+        },
+        {
+            "title": "Apotheosis of Venice",
+            "date": "1767",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guarana/apotheos.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18716
+        },
+        {
+            "title": "View of the portego",
+            "date": "1772",
+            "technique": "Fresco",
+            "location": "Palazzo Pisani-Moretta Venice",
+            "url": "https://www.wga.hu/html/g/guarana/portego.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18717
+        },
+        {}
+    ]
+}

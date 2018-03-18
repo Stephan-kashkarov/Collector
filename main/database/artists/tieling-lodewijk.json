@@ -1,0 +1,29 @@
+{
+    "name": "TIELING Lodewijk",
+    "life": "(active 1695-1700 in Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Ark",
+            "date": "1695-1700",
+            "technique": "Oil on canvas 118 x 156 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/t/tieling/the_ark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38860
+        },
+        {
+            "title": "The Ark (detail)",
+            "date": "1695-1700",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/t/tieling/the_ark1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38861
+        },
+        {}
+    ]
+}

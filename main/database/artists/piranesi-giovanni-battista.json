@@ -1,0 +1,179 @@
+{
+    "name": "PIRANESI Giovanni Battista",
+    "life": "(b. 1720 Mestre d. 1778 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Carceri d'Invenzione",
+            "date": "1749-50",
+            "technique": "Engraving",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31490
+        },
+        {
+            "title": "Prisoners on a Projecting Platform",
+            "date": "1749-60",
+            "technique": "Etching and engraving (first state of two)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31491
+        },
+        {
+            "title": "The Prisons (plate IV)",
+            "date": "c. 1760",
+            "technique": "Etching 545 x 415 cm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31492
+        },
+        {
+            "title": "The Prisons (plate VII)",
+            "date": "c. 1760",
+            "technique": "Etching 545 x 415 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri4.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31493
+        },
+        {
+            "title": "Round Tower",
+            "date": "1749-50",
+            "technique": "Etching 1st state of 6 556 x 418 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri5.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31494
+        },
+        {
+            "title": "Carceri d'Invenzione",
+            "date": "1749-50",
+            "technique": "Etching",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/p/piranesi/carceri6.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31495
+        },
+        {
+            "title": "Diverse Maniere d'adornare i Cammini",
+            "date": "1769",
+            "technique": "Etching 210 x 270 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/piranesi/diverse.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31496
+        },
+        {
+            "title": "Frontispiece",
+            "date": "1756",
+            "technique": "Etching 400 x 600 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/piranesi/frontis.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31497
+        },
+        {
+            "title": "Palazzo Barberini Rome",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piranesi/palazzo.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31498
+        },
+        {
+            "title": "The Tomb of the Istacidi Pompeii",
+            "date": "c. 1777",
+            "technique": "Pencil reed pen black ink 805 x 1123 mm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/p/piranesi/pompeii.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31499
+        },
+        {
+            "title": "Porto di Ripetta",
+            "date": "1753",
+            "technique": "Etching 542 x 789 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/piranesi/ripetta.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 31500
+        },
+        {
+            "title": "View of the Nave San Paolo fuori le Mura Rome",
+            "date": "-",
+            "technique": "Etching",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piranesi/sanpaolo.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31501
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/p/piranesi/selfport.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31502
+        },
+        {
+            "title": "The Ponte Solario",
+            "date": "1756-57",
+            "technique": "Etching",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/piranesi/solario.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 31503
+        },
+        {
+            "title": "The Trevi Fountain in Rome",
+            "date": "1773",
+            "technique": "Copper engraving",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piranesi/trevi.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 31504
+        },
+        {
+            "title": "Exterior view",
+            "date": "1764-68",
+            "technique": "Photo",
+            "location": "Santa Maria del Priorato Rome",
+            "url": "https://www.wga.hu/html/p/piranesi/zpriora1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31505
+        },
+        {
+            "title": "Interior view",
+            "date": "1764-68",
+            "technique": "Photo",
+            "location": "Santa Maria del Priorato Rome",
+            "url": "https://www.wga.hu/html/p/piranesi/zpriora2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 31506
+        },
+        {}
+    ]
+}

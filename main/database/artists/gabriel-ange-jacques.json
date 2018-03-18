@@ -1,0 +1,109 @@
+{
+    "name": "GABRIEL Ange-Jacques",
+    "life": "(b. 1698 Paris d. 1782 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1730-55",
+            "technique": "Photo",
+            "location": "Palais de la Bourse Bordeaux",
+            "url": "https://www.wga.hu/html/g/gabriel/bourse.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14613
+        },
+        {
+            "title": "General view",
+            "date": "begun 1755",
+            "technique": "Photo",
+            "location": "Place de la Concorde Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/concord1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14614
+        },
+        {
+            "title": "General view",
+            "date": "begun 1755",
+            "technique": "Photo",
+            "location": "Place de la Concorde Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/concord2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14615
+        },
+        {
+            "title": "Exterior view",
+            "date": "1768-73",
+            "technique": "Photo",
+            "location": "\u00c9cole Militaire Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/ecolemil.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14616
+        },
+        {
+            "title": "Exterior view",
+            "date": "1762-64",
+            "technique": "Photo",
+            "location": "Petit Trianon Versailles",
+            "url": "https://www.wga.hu/html/g/gabriel/trianon1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14617
+        },
+        {
+            "title": "Exterior view",
+            "date": "1762-64",
+            "technique": "Photo",
+            "location": "Petit Trianon Versailles",
+            "url": "https://www.wga.hu/html/g/gabriel/trianon2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14618
+        },
+        {
+            "title": "Elevation Drawing of the Stage Versailles Opera House",
+            "date": "1760s",
+            "technique": "Pen and ink wash",
+            "location": "Archives Nationales Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/z_opera.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 14619
+        },
+        {
+            "title": "Interior view",
+            "date": "1765-70",
+            "technique": "Photo",
+            "location": "Court Opera House Versailles",
+            "url": "https://www.wga.hu/html/g/gabriel/z_opera0.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 14620
+        },
+        {
+            "title": "Interior view of the Court Opera House Versailles",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/z_opera1.html",
+            "form": "graphics",
+            "painting_type": "interior",
+            "index": 14621
+        },
+        {
+            "title": "Court fa\u00e7ade of the Palace of Versailles",
+            "date": "1759",
+            "technique": "Drawing",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/g/gabriel/zzcourt.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 14622
+        },
+        {}
+    ]
+}

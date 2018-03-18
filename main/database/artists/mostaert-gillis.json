@@ -1,0 +1,59 @@
+{
+    "name": "MOSTAERT Gillis",
+    "life": "(b. ca. 1534 Hulst d. 1598 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Netherlandish Household",
+            "date": "-",
+            "technique": "Oil on wood 40 x 355 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/mostaert/gillis/househol.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29127
+        },
+        {
+            "title": "Landscape with the Flight into Egypt",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 69 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mostaert/gillis/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29128
+        },
+        {
+            "title": "Sodom and Gomorrah",
+            "date": "1597",
+            "technique": "Oil on panel 32 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mostaert/gillis/sodom.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29129
+        },
+        {
+            "title": "Village Feast",
+            "date": "-",
+            "technique": "Oil on wood 791 x 1074 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/m/mostaert/gillis/villagef.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29130
+        },
+        {
+            "title": "Scene of War and Fire",
+            "date": "1569",
+            "technique": "Oil on wood 42 x 69 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/mostaert/gillis/war_fire.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29131
+        },
+        {}
+    ]
+}

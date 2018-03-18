@@ -1,0 +1,49 @@
+{
+    "name": "BEGEYN Abraham Jansz.",
+    "life": "(b. 1637 Leiden d. 1697 Berlin)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Flowers in a Stone Vase",
+            "date": "1670",
+            "technique": "Oil on canvas 78 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/begeyn/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3682
+        },
+        {
+            "title": "A \"\"Forest Floor\"\" Still-Life\"-\"Oil on canvas 41 x 36 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/b/begeyn/forestfl.html",
+            "location": "painting",
+            "url": "still-life",
+            "form": "Dutch",
+            "painting_type": "1651-1700",
+            "index": 3683
+        },
+        {
+            "title": "Italianate Landscape",
+            "date": "-",
+            "technique": "Oil on panel 32 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/begeyn/italland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3684
+        },
+        {
+            "title": "Seashore",
+            "date": "1662",
+            "technique": "Oil on canvas 90 x 119 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/begeyn/seashore.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3685
+        },
+        {}
+    ]
+}

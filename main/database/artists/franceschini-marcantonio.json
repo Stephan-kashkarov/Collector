@@ -1,0 +1,49 @@
+{
+    "name": "FRANCESCHINI Marcantonio",
+    "life": "(b. 1648 Bologna d. 1729 Bologna)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Birth of Adonis",
+            "date": "1692",
+            "technique": "Oil on canvas 481 x 254 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/f/frances3/rossau1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14212
+        },
+        {
+            "title": "Aurora Abducting Cephalus",
+            "date": "1706-08",
+            "technique": "Oil on canvas",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/f/frances3/rossau2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14213
+        },
+        {
+            "title": "Sibyl",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 44 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/f/frances3/sibyl.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14214
+        },
+        {
+            "title": "St Ursula",
+            "date": "-",
+            "technique": "Oil on canvas 60 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/frances3/stursula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14215
+        },
+        {}
+    ]
+}

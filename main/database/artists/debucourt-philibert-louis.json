@@ -1,0 +1,49 @@
+{
+    "name": "DEBUCOURT Philibert-Louis",
+    "life": "(b. 1755 Paris d. 1832 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Juggler",
+            "date": "-",
+            "technique": "Oil on panel 24 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/debucour/juggler.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11077
+        },
+        {
+            "title": "The Juggler (detail)",
+            "date": "-",
+            "technique": "Oil on panel 24 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/debucour/juggler1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11078
+        },
+        {
+            "title": "Les Halles in 1782",
+            "date": "1782",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/d/debucour/l_halles.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11079
+        },
+        {
+            "title": "Visitors to the Salon Exhibition Admiring the Ceiling",
+            "date": "1824",
+            "technique": "Etching coloured by hand 395 x 286 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/debucour/visitors.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11080
+        },
+        {}
+    ]
+}

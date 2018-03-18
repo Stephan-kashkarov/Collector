@@ -1,0 +1,49 @@
+{
+    "name": "CAVAROZZI Bartolomeo",
+    "life": "(b. ca. 1590 Viterbo d. 1625 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Aminta's Lament",
+            "date": "1614-15",
+            "technique": "Oil on canvas 83 x 107 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cavarozz/aminta.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8280
+        },
+        {
+            "title": "Holy Family with the Young St John the Baptist",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 195 x 140 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cavarozz/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8281
+        },
+        {
+            "title": "Sacrifice of Isaac",
+            "date": "c. 1617",
+            "technique": "Oil on canvas 116 x 175 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cavarozz/sacrifici.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8282
+        },
+        {
+            "title": "St Ursula and Her Companions with Pope Ciriacus and St Catherine of Alexandria",
+            "date": "1608",
+            "technique": "Oil on canvas 280 x 220 cm",
+            "location": "Basilica di San Marco Rome",
+            "url": "https://www.wga.hu/html/c/cavarozz/ursula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8283
+        },
+        {}
+    ]
+}

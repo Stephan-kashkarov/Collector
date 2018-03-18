@@ -1,0 +1,29 @@
+{
+    "name": "PONCE Jacquiot",
+    "life": "(active 1527-1570)",
+    "school": "French",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Tomb of Blondel de Rocquencourt",
+            "date": "1558-60",
+            "technique": "Bronze 173 x 60 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/ponce_j/blondel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31925
+        },
+        {
+            "title": "La Tireuse d'\u00e9pine (The Thorn Remover)",
+            "date": "-",
+            "technique": "Terracotta height 22 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/ponce_j/tireuse.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 31926
+        },
+        {}
+    ]
+}

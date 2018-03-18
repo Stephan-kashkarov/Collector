@@ -1,0 +1,39 @@
+{
+    "name": "SUV\u00c9E Joseph-Benoit",
+    "life": "(b. 1743 Brugge d. 1807 Roma)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Combat of Mars and Minerva",
+            "date": "1771",
+            "technique": "Oil on canvas 143 x 104 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/s/suvee/combat.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38380
+        },
+        {
+            "title": "Invention of the Art of Drawing",
+            "date": "1791",
+            "technique": "Oil on canvas 267 x 1315 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/s/suvee/inventio.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38381
+        },
+        {
+            "title": "Milo of Croton",
+            "date": "-",
+            "technique": "Oil on canvas 261 x 200 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/s/suvee/miloncro.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38382
+        },
+        {}
+    ]
+}

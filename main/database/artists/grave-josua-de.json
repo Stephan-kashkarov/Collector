@@ -1,0 +1,39 @@
+{
+    "name": "GRAVE Josua de",
+    "life": "(b. 1643 Amsterdam d. 1712 The Hague)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "City Fa\u00e7ades of the Rotterdam and Schiedam Gates in Delft",
+            "date": "1695",
+            "technique": "Pen and brown ink and gray wash 90 x 152 mm",
+            "location": "Gemeentearchief Delft",
+            "url": "https://www.wga.hu/html/g/grave/1cityfac.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 18166
+        },
+        {
+            "title": "The Armamentarium on De Geer Canal Delft",
+            "date": "1695",
+            "technique": "Pen and brown ink and gray wash 90 x 150 mm",
+            "location": "Gemeentearchief Delft",
+            "url": "https://www.wga.hu/html/g/grave/armament.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 18167
+        },
+        {
+            "title": "Rotterdam Gate in Delft from Afar",
+            "date": "1695",
+            "technique": "Pen and brown ink and gray wash 90 x 147 mm",
+            "location": "Gemeentearchief Delft",
+            "url": "https://www.wga.hu/html/g/grave/rotterda.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 18168
+        },
+        {}
+    ]
+}

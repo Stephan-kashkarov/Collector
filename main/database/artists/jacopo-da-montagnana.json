@@ -1,0 +1,29 @@
+{
+    "name": "JACOPO DA MONTAGNANA",
+    "life": "(b. ca. 1445 Montagnana d. 1499 Padova)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Archangel Gabriel and the Virgin Annunciate",
+            "date": "1494-97",
+            "technique": "Tempera on wood 191 x 76 cm (each)",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/j/jacopo/montagna/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20480
+        },
+        {
+            "title": "Lamentation of Christ",
+            "date": "1480-85",
+            "technique": "Tempera on canvas 148 x 110 cm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/j/jacopo/montagna/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20481
+        },
+        {}
+    ]
+}

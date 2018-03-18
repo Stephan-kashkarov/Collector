@@ -1,0 +1,39 @@
+{
+    "name": "NAZARI Bartolomeo",
+    "life": "(b. 1699 Clusone d. 1758 Milano)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "An Old Man",
+            "date": "1730-35",
+            "technique": "Oil on canvas 50 x 39 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/n/nazari/old_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29441
+        },
+        {
+            "title": "An Old Woman",
+            "date": "1730-35",
+            "technique": "Oil on canvas 49 x 38 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/n/nazari/oldwoman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29442
+        },
+        {
+            "title": "Portrait of Doge Vincenzo Querini",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/n/nazari/querini.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29443
+        },
+        {}
+    ]
+}

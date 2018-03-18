@@ -1,0 +1,39 @@
+{
+    "name": "ORD\u00d3\u00d1EZ Bartolom\u00e9",
+    "life": "(b. ca. 1490 Burgos d. 1520 Carrara)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Tomb of Don Felipe and Do\u00f1a Juana",
+            "date": "c. 1519",
+            "technique": "Marble",
+            "location": "Capilla Real Cathedral Granada",
+            "url": "https://www.wga.hu/html/o/ordonez/d_felipe.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29848
+        },
+        {
+            "title": "Tomb of Don Felipe and Do\u00f1a Juana",
+            "date": "c. 1519",
+            "technique": "Marble",
+            "location": "Capilla Real Cathedral Granada",
+            "url": "https://www.wga.hu/html/o/ordonez/d_joan.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29849
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1519-20",
+            "technique": "Marble",
+            "location": "Capilla Real Cathedral Granada",
+            "url": "https://www.wga.hu/html/o/ordonez/st_john.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29850
+        },
+        {}
+    ]
+}

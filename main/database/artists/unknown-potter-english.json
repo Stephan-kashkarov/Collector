@@ -1,0 +1,39 @@
+{
+    "name": "UNKNOWN POTTER English",
+    "life": "(active 1760s in Staffordshire)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Tea canister",
+            "date": "c. 1765",
+            "technique": "Glazed earthenware (creamware) height 133 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/wedgwood/1wedgwoo.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41769
+        },
+        {
+            "title": "Tea canister",
+            "date": "1785-90",
+            "technique": "Coloured stoneware (jasperware) height 14 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/wedgwood/2wedgwoo.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41770
+        },
+        {
+            "title": "Sugar bowl",
+            "date": "1785-90",
+            "technique": "Coloured stoneware (jasperware) height 113 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/zzdeco/5ceramic/wedgwood/3wedgwoo.html",
+            "form": "ceramics",
+            "painting_type": "other",
+            "index": 41771
+        },
+        {}
+    ]
+}

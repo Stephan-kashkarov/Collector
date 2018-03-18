@@ -1,0 +1,39 @@
+{
+    "name": "MALINCONICO Nicola",
+    "life": "(b. ca. 1663 Napoli d. 1721 Napoli)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Flowers in a Vase",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/malincon/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23748
+        },
+        {
+            "title": "Moses Striking the Rock",
+            "date": "-",
+            "technique": "Oil on canvas 76 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/malincon/moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23749
+        },
+        {
+            "title": "Decorative Still-Life",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 206 x 170 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/m/malincon/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23750
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "EGMONT Justus van",
+    "life": "(b. 1601 Leiden d. 1674 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on canvas 125 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/egmont/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13115
+        },
+        {
+            "title": "Tapestry decoration",
+            "date": "1665",
+            "technique": "Tapestry",
+            "location": "Palazzo Mansi Lucca",
+            "url": "https://www.wga.hu/html/e/egmont/tapestry.html",
+            "form": "tapestry",
+            "painting_type": "other",
+            "index": 13116
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "POLIDORO DA LANCIANO",
+    "life": "(b. ca. 1515 Lanciano d. 1565 Venezia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ and the Adulteress",
+            "date": "-",
+            "technique": "Oil on canvas 163 x 202 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/polidorl/adultere.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31863
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "-",
+            "technique": "Oil on canvas 60 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/polidorl/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31864
+        },
+        {
+            "title": "Madonna and Child with St Catherine and the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/polidorl/madsaint.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31865
+        },
+        {}
+    ]
+}

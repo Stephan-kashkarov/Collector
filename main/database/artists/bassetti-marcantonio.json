@@ -1,0 +1,69 @@
+{
+    "name": "BASSETTI Marcantonio",
+    "life": "(b. 1588 Verona d. 1630 Verona)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1621-23",
+            "technique": "Oil on canvas 88 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassetti/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3473
+        },
+        {
+            "title": "Portrait of an Old Man with Gloves",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo di Castelvecchio Verona",
+            "url": "https://www.wga.hu/html/b/bassetti/gloves.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3474
+        },
+        {
+            "title": "Portrait of an Old Man with Book",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo di Castelvecchio Verona",
+            "url": "https://www.wga.hu/html/b/bassetti/old_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3475
+        },
+        {
+            "title": "St Antony Reading",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo di Castelvecchio Verona",
+            "url": "https://www.wga.hu/html/b/bassetti/s_antony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3476
+        },
+        {
+            "title": "St Sebastian",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 89 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassetti/s_sebast.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3477
+        },
+        {
+            "title": "St Sebastian Tended by St Irene",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 89 x 100 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Marseille",
+            "url": "https://www.wga.hu/html/b/bassetti/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3478
+        },
+        {}
+    ]
+}

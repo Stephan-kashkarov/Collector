@@ -1,0 +1,39 @@
+{
+    "name": "GELDORP Gortzius",
+    "life": "(b. 1553 Leuven d. after 1619 K\u00f6ln)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of a Man",
+            "date": "1619",
+            "technique": "Oil on panel 58 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/geldorp/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15127
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1597",
+            "technique": "Oil on panel 52 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/geldorp/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15128
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1620",
+            "technique": "Oil on canvas 71 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/geldorp/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15129
+        },
+        {}
+    ]
+}

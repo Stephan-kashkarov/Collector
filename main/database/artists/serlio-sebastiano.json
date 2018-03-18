@@ -1,0 +1,29 @@
+{
+    "name": "SERLIO Sebastiano",
+    "life": "(b. 1475 Bologna d. ca. 1554 Fontainebleau)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Fa\u00e7ade of a Venetian palazzo",
+            "date": "1537",
+            "technique": "Drawing",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/s/serlio/palazzo1.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 36899
+        },
+        {
+            "title": "Plan of a Venetian palazzo",
+            "date": "1537",
+            "technique": "Drawing",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/s/serlio/palazzo2.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 36900
+        },
+        {}
+    ]
+}

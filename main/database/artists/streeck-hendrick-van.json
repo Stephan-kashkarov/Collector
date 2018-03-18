@@ -1,0 +1,39 @@
+{
+    "name": "STREECK Hendrick van",
+    "life": "(b. 1659 Amsterdam d. ca. 1719 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Imaginary Interior of a Protestant Church",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 59 x 50 cm",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/s/streeck/hendrick/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 38179
+        },
+        {
+            "title": "Interior of Oude Kerk Delft",
+            "date": "-",
+            "technique": "Oil on canvas 118 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/streeck/hendrick/oudekerk.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 38180
+        },
+        {
+            "title": "Still-Life of Fruit",
+            "date": "-",
+            "technique": "Oil on canvas 102 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/streeck/hendrick/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38181
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "LAMBERTI Piero di Niccol\u00f2",
+    "life": "(b. ca. 1393 Firenze d. 1435 Venezia)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Monument to Doge Tommaso Mocenigo",
+            "date": "1423",
+            "technique": "Marble",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/l/lamberti/piero/mocenigo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21407
+        },
+        {
+            "title": "Monument to the Blessed Pacifico",
+            "date": "1430s",
+            "technique": "Marble and terracotta",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/l/lamberti/piero/pacifico.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21408
+        },
+        {}
+    ]
+}

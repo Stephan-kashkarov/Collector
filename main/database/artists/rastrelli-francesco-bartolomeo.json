@@ -1,0 +1,59 @@
+{
+    "name": "RASTRELLI Francesco Bartolomeo",
+    "life": "(b. 1700 Paris d. 1771 St. Petersburg)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1748-54",
+            "technique": "Photo",
+            "location": "Winter Palace St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rastrell/francesc/1winter.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33250
+        },
+        {
+            "title": "Interior view",
+            "date": "1754-62",
+            "technique": "Photo",
+            "location": "Winter Palace St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rastrell/francesc/2winter.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 33251
+        },
+        {
+            "title": "Aerial view",
+            "date": "1748-54",
+            "technique": "Photo",
+            "location": "Smolny Convent St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rastrell/francesc/3smolny.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33252
+        },
+        {
+            "title": "Main Staircase",
+            "date": "1754-62",
+            "technique": "Photo",
+            "location": "Winter Palace St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rastrell/francesc/3winter.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 33253
+        },
+        {
+            "title": "Exterior view",
+            "date": "1748-54",
+            "technique": "Photo",
+            "location": "Smolny Convent St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rastrell/francesc/4smolny.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33254
+        },
+        {}
+    ]
+}

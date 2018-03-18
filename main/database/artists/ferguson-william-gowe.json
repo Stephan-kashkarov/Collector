@@ -1,0 +1,39 @@
+{
+    "name": "FERGUSON William Gowe",
+    "life": "(b. ca. 1633 Scotland d. after 1695 Scotland)",
+    "school": "Scottish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life with Birds",
+            "date": "1662",
+            "technique": "Oil on panel 32 x 28 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/f/ferguson/stilbird.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13655
+        },
+        {
+            "title": "Still-Life with Dead Game",
+            "date": "1680s",
+            "technique": "Oil on canvas 57 x 48 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/ferguson/stilgame.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13656
+        },
+        {
+            "title": "Still-Life of Dead Game and Songbirds",
+            "date": "1690",
+            "technique": "Oil on canvas 125 x 104 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferguson/stilsong.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13657
+        },
+        {}
+    ]
+}

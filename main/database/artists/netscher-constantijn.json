@@ -1,0 +1,39 @@
+{
+    "name": "NETSCHER Constantijn",
+    "life": "(b. 1668 Den Haag d. 1723 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Suicide of Queen Dido",
+            "date": "-",
+            "technique": "Oil on canvas 53 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/constant/dido.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29536
+        },
+        {
+            "title": "Portrait of a Mother and her Child",
+            "date": "c. 1710",
+            "technique": "Oil on canvas 54 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/constant/mother_c.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29537
+        },
+        {
+            "title": "Portrait of King William III of England",
+            "date": "-",
+            "technique": "Oil on canvas 58 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/constant/william3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29538
+        },
+        {}
+    ]
+}

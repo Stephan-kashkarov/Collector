@@ -1,0 +1,29 @@
+{
+    "name": "CARAGLIO Giovanni Jacopo",
+    "life": "(b. 1500/05 Verona d. 1565 Krakow)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Battle between Hercules and Centaurs",
+            "date": "1526-27",
+            "technique": "Engraving 222 x184 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/caraglio/hercules.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7450
+        },
+        {
+            "title": "Marriage of Alexander and Roxane",
+            "date": "1520-39",
+            "technique": "Engraving 225 x 313 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/caraglio/roxane.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 7451
+        },
+        {}
+    ]
+}

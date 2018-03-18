@@ -1,0 +1,139 @@
+{
+    "name": "SCHALCKEN Godfried",
+    "life": "(b. 1643 Made d. 1706 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Gentleman Offering a Lady a Ring in a Candlelit Bedroom",
+            "date": "c. 1698",
+            "technique": "Oil on panel 37 x 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/candleli.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36524
+        },
+        {
+            "title": "Cephalus and Procris",
+            "date": "1680s",
+            "technique": "Oil on canvas 65 x 80 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/schalcke/cephalus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36525
+        },
+        {
+            "title": "Young Girl with a Candle",
+            "date": "1670-75",
+            "technique": "Oil on canvas 61 x 50 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/schalcke/girl_can.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36526
+        },
+        {
+            "title": "Girl Eating an Apple",
+            "date": "1675-80",
+            "technique": "Oil on panel 322 x 248 cm",
+            "location": "Staatliches Museum Schwerin",
+            "url": "https://www.wga.hu/html/s/schalcke/girleati.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36527
+        },
+        {
+            "title": "Artist and Model Looking at an Ancient Statue by Lamplight",
+            "date": "1675-80",
+            "technique": "Oil on canvas 44 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/lampligh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36528
+        },
+        {
+            "title": "Lovers Lit by a Candle",
+            "date": "1665-70",
+            "technique": "Oil on wood 20 x 14 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/schalcke/lovers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36529
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on panel 29 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36530
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "1688",
+            "technique": "Oil on canvas 45 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36531
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1676",
+            "technique": "Oil on panel 43 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36532
+        },
+        {
+            "title": "Portrait of Matthijs Pompe van Slingelandt",
+            "date": "-",
+            "technique": "Oil on panel 24 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalcke/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36533
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1679",
+            "technique": "Oil on copper 43 x 32 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/schalcke/selfpor1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36534
+        },
+        {
+            "title": "Portrait of Fran\u00e7oise van Diemen",
+            "date": "1679",
+            "technique": "Oil on copper 43 x 32 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/schalcke/selfpor2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36535
+        },
+        {
+            "title": "Man Making an Obscene Gesture",
+            "date": "-",
+            "technique": "Etching",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/schalcke/zobscene.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 36536
+        },
+        {}
+    ]
+}

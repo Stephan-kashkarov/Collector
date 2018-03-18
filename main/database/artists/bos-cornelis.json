@@ -1,0 +1,39 @@
+{
+    "name": "BOS Cornelis",
+    "life": "(b. ca. 1506 's-Hertogenbosch d. ca. 1564)",
+    "school": "Netherlandish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Female herm",
+            "date": "1546",
+            "technique": "Engraving 243 x 179",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/bos/fem_herm.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 5187
+        },
+        {
+            "title": "Leda and the Swan",
+            "date": "1540s",
+            "technique": "Engraving 275 x 406 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/b/bos/leda.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 5188
+        },
+        {
+            "title": "Leda and the Swan",
+            "date": "1540s",
+            "technique": "Engraving 280 x 410 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/bos/ledaswan.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 5189
+        },
+        {}
+    ]
+}

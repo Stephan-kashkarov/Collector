@@ -1,0 +1,69 @@
+{
+    "name": "MASTER of the Dominican Effigies",
+    "life": "(active c. 1328-1350 in Florence)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Madonna with Child Enthroned and Four Saints",
+            "date": "1330s",
+            "technique": "Illumination on parchment",
+            "location": "State Archive Florence",
+            "url": "https://www.wga.hu/html/m/master/dominica/folio.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25006
+        },
+        {
+            "title": "The Garden of the Virtues",
+            "date": "-",
+            "technique": "Illumination on parchment",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/m/master/dominica/garden.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25007
+        },
+        {
+            "title": "Laudario of the Compagnia di Sant'Agnese",
+            "date": "1320s",
+            "technique": "Tempera and gold on parchment 367 x 273 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/dominica/laudari1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25008
+        },
+        {
+            "title": "Laudario of the Compagnia di Sant'Agnese",
+            "date": "1320s",
+            "technique": "Tempera and gold on parchment 430 x 317 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/dominica/laudari2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25009
+        },
+        {
+            "title": "Laudario of the Compagnia di Sant'Agnese",
+            "date": "1320s",
+            "technique": "Tempera and gold on parchment 408 x 310 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/dominica/laudari3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25010
+        },
+        {
+            "title": "Fragment of a Triptych",
+            "date": "-",
+            "technique": "Tempera on panel 67 x 47 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/dominica/triptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25011
+        },
+        {}
+    ]
+}

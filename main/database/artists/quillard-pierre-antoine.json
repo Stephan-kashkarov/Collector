@@ -1,0 +1,29 @@
+{
+    "name": "QUILLARD Pierre-Antoine",
+    "life": "(b. ca. 1700 Paris d. 1733 Lisbon)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Amorous Couples in a Garden Setting",
+            "date": "-",
+            "technique": "Oil on canvas 83 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/quillard/garden1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32722
+        },
+        {
+            "title": "Elegantly Dressed Group in a Garden Setting",
+            "date": "-",
+            "technique": "Oil on canvas 83 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/quillard/garden2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32723
+        },
+        {}
+    ]
+}

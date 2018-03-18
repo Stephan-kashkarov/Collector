@@ -1,0 +1,49 @@
+{
+    "name": "VOSMAER Daniel",
+    "life": "(b. 1622 Delft d. ca. 1669 Den Briel)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Harbour of Delft",
+            "date": "1658-60",
+            "technique": "Oil on canvas 86 x 101 cm",
+            "location": "Museo de Arte de Ponce Ponce Puerto Rico",
+            "url": "https://www.wga.hu/html/v/vosmaer/daniel/harbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43567
+        },
+        {
+            "title": "A View of Delft through an Imaginary Loggia",
+            "date": "1663",
+            "technique": "Oil on canvas 91 x 113 cm",
+            "location": "Gemeente Musea Delft",
+            "url": "https://www.wga.hu/html/v/vosmaer/daniel/viewdel.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43568
+        },
+        {
+            "title": "A View of Delft through an Imaginary Loggia (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Gemeente Musea Delft",
+            "url": "https://www.wga.hu/html/v/vosmaer/daniel/viewdel1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43569
+        },
+        {
+            "title": "View of a Dutch Town",
+            "date": "1661-63",
+            "technique": "Oil on panel 66 x 53 cm",
+            "location": "Frances Lehman Loeb Art Center Poughkepsie",
+            "url": "https://www.wga.hu/html/v/vosmaer/daniel/viewtown.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43570
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PALMER Samuel",
+    "life": "(b. 1805 Newington d. 1881 Redhill)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1825",
+            "technique": "Black chalk heightened with white on buff paper 291 x 229 mm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/p/palmer/1selfpor.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 30272
+        },
+        {
+            "title": "Early Morning",
+            "date": "1825",
+            "technique": "Pen and ink and wash mixed with gum arabic varnished 188 x 232 mm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/p/palmer/earlymor.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 30273
+        },
+        {
+            "title": "Early Morning (detail)",
+            "date": "1825",
+            "technique": "Pen and ink and wash mixed with gum arabic varnished",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/p/palmer/earlymox.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 30274
+        },
+        {
+            "title": "Sketchbook folio 5 verso",
+            "date": "1824",
+            "technique": "Pencil brown ink and wash 116 x 189 mm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/p/palmer/sketch.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30275
+        },
+        {}
+    ]
+}

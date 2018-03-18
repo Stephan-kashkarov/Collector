@@ -1,0 +1,39 @@
+{
+    "name": "MINIATURIST Polish",
+    "life": "(active in 1400s in Cracow)",
+    "school": "Polish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Breviary",
+            "date": "c. 1400",
+            "technique": "Manuscript (Rps. 1255)",
+            "location": "Biblioteka Jagiellonska Cracow",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1401-450/7other/15_1401.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28248
+        },
+        {
+            "title": "Codex pictoratus Balthasaris Behem",
+            "date": "1505",
+            "technique": "Manuscript (Rps. 16)",
+            "location": "Biblioteka Jagiellonska Cracow",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/13_1501.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 28249
+        },
+        {
+            "title": "Bona Sforza's Prayer Book",
+            "date": "1527-28",
+            "technique": "Manuscript (Ms. Douce 40)",
+            "location": "Bodleian Library Oxford",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1501-550/4other/14_1501.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 28250
+        },
+        {}
+    ]
+}

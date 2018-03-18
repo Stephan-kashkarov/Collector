@@ -1,0 +1,79 @@
+{
+    "name": "PIERRE Jean-Baptiste-Marie",
+    "life": "(b. 1714 Paris d. 1789 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Dana\u00eb",
+            "date": "-",
+            "technique": "Oil on paper laid down on canvas 41 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/danae.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31287
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "-",
+            "technique": "Oil on paper mounted on canvas 43 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/europa.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31288
+        },
+        {
+            "title": "Landscape with Peasants Playing Music and Dancing",
+            "date": "1735-40",
+            "technique": "Oil on canvas 61 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31289
+        },
+        {
+            "title": "Nativity",
+            "date": "-",
+            "technique": "Oil on canvas 92 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31290
+        },
+        {
+            "title": "Old Man in the Kitchen",
+            "date": "c. 1745",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/pierre/old_man.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 31291
+        },
+        {
+            "title": "The Forge of Vulcan",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/vulcan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31292
+        },
+        {
+            "title": "Bacchanal",
+            "date": "1755",
+            "technique": "Red chalk 223 x 178 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pierre/zbacchan.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 31293
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "CARRACCI Antonio",
+    "life": "(b. ca. 1583 Venezia d. 1618 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Landscape with Bathers",
+            "date": "c. 1616",
+            "technique": "Oil on canvas 405 x 61 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/carracci/antonio/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7989
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/c/carracci/antonio/rape_eur.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7990
+        },
+        {
+            "title": "The Flood",
+            "date": "1616-18",
+            "technique": "Oil on canvas 166 x 247 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/antonio/theflood.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7991
+        },
+        {}
+    ]
+}

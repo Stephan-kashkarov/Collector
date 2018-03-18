@@ -1,0 +1,29 @@
+{
+    "name": "DOTTI Carlo Francesco",
+    "life": "(b. 1669 Como d. 1759 Bologna)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1721-32",
+            "technique": "Photo",
+            "location": "Portico di San Luca e Meloncello Bologna",
+            "url": "https://www.wga.hu/html/d/dotti/portico.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 12022
+        },
+        {
+            "title": "Exterior view",
+            "date": "1723-57",
+            "technique": "Photo",
+            "location": "Sanctuary of Madonna di San Luca Bologna",
+            "url": "https://www.wga.hu/html/d/dotti/san_luca.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 12023
+        },
+        {}
+    ]
+}

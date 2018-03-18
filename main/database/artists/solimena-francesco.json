@@ -1,0 +1,309 @@
+{
+    "name": "SOLIMENA Francesco",
+    "life": "(b. 1657 Canale di Serino d. 1747 Barra)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Allegory of Reign",
+            "date": "1690",
+            "technique": "Oil on canvas 104 x 76 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/solimena/1/al_reign.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37624
+        },
+        {
+            "title": "Bathsheba Bathing",
+            "date": "c. 1725",
+            "technique": "Oil on canvas 103 x 129 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/s/solimena/1/bathsheb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37625
+        },
+        {
+            "title": "St Bonaventura Receiving the Banner of St Sepulchre from the Madonna",
+            "date": "1710",
+            "technique": "Oil on canvas 240 x 130 cm",
+            "location": "Cathedral Aversa (Caserta)",
+            "url": "https://www.wga.hu/html/s/solimena/1/bonavent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37626
+        },
+        {
+            "title": "St Maurus Healing the Sick",
+            "date": "1699-1702",
+            "technique": "Oil on canvas 75 x 153 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/solimena/1/cassino1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37627
+        },
+        {
+            "title": "The Martyrdom of Sts Placidus and Flavia",
+            "date": "1697-1708",
+            "technique": "Oil on canvas 75 x 133 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/solimena/1/cassino2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37628
+        },
+        {
+            "title": "Portrait of Charles III of Habsburg",
+            "date": "c. 1707",
+            "technique": "Oil on canvas 188 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solimena/1/charles3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37629
+        },
+        {
+            "title": "Dido Receiving Aeneas and Cupid Disguised as Ascanius",
+            "date": "1720s",
+            "technique": "Oil on canvas 207 x 310 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/solimena/1/dido_rec.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37630
+        },
+        {
+            "title": "Expulsion of Heliodorus from the Temple",
+            "date": "c. 1725",
+            "technique": "Oil on canvas 150 x 200 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/solimena/1/expulsix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37631
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1728-33",
+            "technique": "Oil on canvas 105 x 130 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/solimena/1/judith_p.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37632
+        },
+        {
+            "title": "Battle between Lapiths and Centaurs",
+            "date": "1735-40",
+            "technique": "Oil on canvas 104 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solimena/1/lapiths.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37633
+        },
+        {
+            "title": "St Anne and the Virgin",
+            "date": "-",
+            "technique": "Oil on copper 35 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solimena/1/mad_anne.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37634
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1728-32",
+            "technique": "Oil on canvas 101 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solimena/1/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37635
+        },
+        {
+            "title": "The Massacre of the Giustiniani at Chios",
+            "date": "-",
+            "technique": "Oil on canvas 275 x 163 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/s/solimena/1/massacre.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 37636
+        },
+        {
+            "title": "The Meeting of Pope Leo and Attila",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 75 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/s/solimena/1/meeting.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 37637
+        },
+        {
+            "title": "Portrait of Prince Joseph Wenzel von Liechtenstein",
+            "date": "c. 1720",
+            "technique": "Oil on canvas 126 x 101 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/solimena/1/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37638
+        },
+        {
+            "title": "Rebecca and Eleazer",
+            "date": "c. 1710",
+            "technique": "Oil on canvas 202 x 150 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/solimena/1/rebecca.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37639
+        },
+        {
+            "title": "Rebecca at the Well",
+            "date": "c. 1700",
+            "technique": "Oil on canvas 72 x 63 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/solimena/1/rebeccb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37640
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1725-30",
+            "technique": "Oil on canvas 83 x 70 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/solimena/1/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37641
+        },
+        {
+            "title": "The Healing of Tobit",
+            "date": "c. 1720",
+            "technique": "Oil on canvas 73 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/solimena/1/tobit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37642
+        },
+        {
+            "title": "General view of the sacristy",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo01.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 37643
+        },
+        {
+            "title": "Fall of Simon Magus",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo02.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37644
+        },
+        {
+            "title": "Fall of Simon Magus (detail)",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo03.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37645
+        },
+        {
+            "title": "The Conversion of St Paul",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo04.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37646
+        },
+        {
+            "title": "The Conversion of St Paul (detail)",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo05.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37647
+        },
+        {
+            "title": "Frieze (detail)",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo06.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37648
+        },
+        {
+            "title": "Frieze (detail)",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo07.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37649
+        },
+        {
+            "title": "Vault decoration",
+            "date": "1689-90",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo08.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37650
+        },
+        {
+            "title": "Saint Cajetan Appeasing Divine Anger",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "San Paolo Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/1paolo09.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37651
+        },
+        {
+            "title": "Ceiling painting",
+            "date": "1709",
+            "technique": "Fresco",
+            "location": "Sacristy San Domenico Maggiore Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/2domenic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37652
+        },
+        {
+            "title": "Expulsion of Heliodorus from the Temple",
+            "date": "1725",
+            "technique": "Fresco",
+            "location": "Chiesa del Ges\u00f9 Nuovo Naples",
+            "url": "https://www.wga.hu/html/s/solimena/2/3gesu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37653
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "DERUET Claude",
+    "life": "(b. 1588 Nancy d. 1662 Nancy)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Road to Calvary",
+            "date": "1615-20",
+            "technique": "Oil on copper 34 x 42 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/d/deruet/calvary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11443
+        },
+        {
+            "title": "Fire (detail)",
+            "date": "before 1642",
+            "technique": "Oil on canvas 194 x 2585 cm (whole painting)",
+            "location": "Mus\u00e9es des Beaux-Arts Orl\u00e9ans",
+            "url": "https://www.wga.hu/html/d/deruet/fire.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 11444
+        },
+        {}
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": "GIROLAMO DA CREMONA",
+    "life": "(active 1451-1483)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Aristotle: Works",
+            "date": "1483",
+            "technique": "Manuscript (PML 21194 2 volumes) 409 x 272 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/aristot0.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 16722
+        },
+        {
+            "title": "Aristotle: Works",
+            "date": "1483",
+            "technique": "Manuscript (PML 21194 2 volumes) 409 x 272 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/aristot1.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 16723
+        },
+        {
+            "title": "Aristotle: Works",
+            "date": "1483",
+            "technique": "Manuscript (PML 21194 2 volumes) 409 x 272 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/aristot2.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 16724
+        },
+        {
+            "title": "Choirbook",
+            "date": "1472-73",
+            "technique": "Illuminatad manuscript 84 x 58 cm",
+            "location": "Piccolomini Library Cathedral Siena",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/choirboo.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 16725
+        },
+        {
+            "title": "Consilia et allegationes",
+            "date": "1477-78",
+            "technique": "Manuscript (Ms. 450)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/consilia.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 16726
+        },
+        {
+            "title": "Decretum of Gratian",
+            "date": "1477",
+            "technique": "Incunable",
+            "location": "Landesbibliotek Gotha",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/decretum.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 16727
+        },
+        {
+            "title": "Missal",
+            "date": "1475-76",
+            "technique": "Manuscript 159 x 114 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/descent.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 16728
+        },
+        {
+            "title": "Prayer Book",
+            "date": "1460s",
+            "technique": "Manuscript (Ms. 55) 201 x 128 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/girolamo/cremona/pentecos.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 16729
+        },
+        {}
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "F\u00c9NYES Adolf",
+    "life": "(b. 1867 Kecskem\u00e9t d. 1945 Budapest)",
+    "school": "Hungarian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Forenoon in a Provincial Town",
+            "date": "1904",
+            "technique": "Oil on canvas 70 x 90 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/fenyes/1fenyes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13616
+        },
+        {
+            "title": "Shelling Beans",
+            "date": "1904",
+            "technique": "Oil on canvas 86 x 79 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/fenyes/2fenyes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13617
+        },
+        {
+            "title": "Peasant Girl Bringing Basket",
+            "date": "1904",
+            "technique": "Oil on canvas 705 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fenyes/3fenyes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13618
+        },
+        {
+            "title": "Brother and Sister",
+            "date": "1906",
+            "technique": "Oil on canvas 121 x 101 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/fenyes/4fenyes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13619
+        },
+        {
+            "title": "Poppy-seed Cake",
+            "date": "1910",
+            "technique": "Oil on canvas 80 x 87 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/f/fenyes/5fenyes.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13620
+        },
+        {}
+    ]
+}

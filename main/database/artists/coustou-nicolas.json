@@ -1,0 +1,59 @@
+{
+    "name": "COUSTOU Nicolas",
+    "life": "(b. 1658 Lyon d. 1733 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Apollo",
+            "date": "1711-14",
+            "technique": "Marble height 135 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/coustou/nicolas/apollo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 9966
+        },
+        {
+            "title": "Pediment of the Custom House",
+            "date": "c. 1726",
+            "technique": "Bronze",
+            "location": "H\u00f4tel des Douanes Rouen",
+            "url": "https://www.wga.hu/html/c/coustou/nicolas/pediment.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 9967
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1712-28",
+            "technique": "Marble 230 x 280 cm",
+            "location": "Notre-Dame Cathedral Paris",
+            "url": "https://www.wga.hu/html/c/coustou/nicolas/pieta.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 9968
+        },
+        {
+            "title": "Louis XIII Kneeling",
+            "date": "1712-28",
+            "technique": "Marble",
+            "location": "Notre-Dame Cathedral Paris",
+            "url": "https://www.wga.hu/html/c/coustou/nicolas/pieta1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 9969
+        },
+        {
+            "title": "The Seine and Marne",
+            "date": "1712",
+            "technique": "Marble height 244 cm",
+            "location": "Tuileries Garden Paris",
+            "url": "https://www.wga.hu/html/c/coustou/nicolas/seine_ma.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 9970
+        },
+        {}
+    ]
+}

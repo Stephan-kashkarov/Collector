@@ -1,0 +1,229 @@
+{
+    "name": "FOPPA Vincenzo",
+    "life": "(b. 1427/30 Brescia d. 1515/16 Brescia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St Stephen the Martyr",
+            "date": "-",
+            "technique": "Tempera on wood 89 x 34 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/foppa/1stephen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14036
+        },
+        {
+            "title": "St Michael Archangel",
+            "date": "-",
+            "technique": "Tempera on panel 91 x 34 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/f/foppa/2michael.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14037
+        },
+        {
+            "title": "Adoration of the Christ Child",
+            "date": "-",
+            "technique": "Tempera and oil on panel 175 x 84 cm",
+            "location": "Santa Maria Assunta in Chiesanuova Brescia",
+            "url": "https://www.wga.hu/html/f/foppa/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14038
+        },
+        {
+            "title": "The Adoration of the Kings",
+            "date": "c. 1500",
+            "technique": "Oil on poplar panel 239 x 211 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/f/foppa/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14039
+        },
+        {
+            "title": "Altarpiece",
+            "date": "1476",
+            "technique": "Tempera on panel",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/f/foppa/altarpie.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14040
+        },
+        {
+            "title": "Bottigella Altarpiece",
+            "date": "1480-84",
+            "technique": "Wood panel",
+            "location": "Musei Civici Pavia",
+            "url": "https://www.wga.hu/html/f/foppa/bottigel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14041
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1456",
+            "technique": "Tempera on wood 68 x 38 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/f/foppa/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14042
+        },
+        {
+            "title": "Madonna and Child with St John the Baptist and St John the Evangelist",
+            "date": "1485",
+            "technique": "Fresco transferred to canvas 170 x 190 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/f/foppa/m_saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14043
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1476",
+            "technique": "Tempera on panel 165 x 80 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/f/foppa/mad_child.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14044
+        },
+        {
+            "title": "Madonna and Child with an Angel",
+            "date": "1479-80",
+            "technique": "Tempera on wood 41 x 325 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/f/foppa/madchian.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14045
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1460s",
+            "technique": "Poplar 57 x 41 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/f/foppa/madon_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14046
+        },
+        {
+            "title": "Madonna of the Book",
+            "date": "1460-68",
+            "technique": "Wood panel",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/f/foppa/madon_ch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14047
+        },
+        {
+            "title": "Miracle of the Cloud and Miracle of the False Madonna",
+            "date": "c. 1468",
+            "technique": "Fresco",
+            "location": "Sant'Eustorgio Milan",
+            "url": "https://www.wga.hu/html/f/foppa/miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14048
+        },
+        {
+            "title": "Miracle of the False Madonna",
+            "date": "c. 1468",
+            "technique": "Fresco",
+            "location": "Sant'Eustorgio Milan",
+            "url": "https://www.wga.hu/html/f/foppa/miracle1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14049
+        },
+        {
+            "title": "Portrait of Giovanni Francesco Brivio",
+            "date": "1495-99",
+            "technique": "Tempera on panel 47 x 37 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/f/foppa/port_bri.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14050
+        },
+        {
+            "title": "Portrait of an Elderly Gentleman",
+            "date": "c. 1500",
+            "technique": "Tempera on wood 33 x 27 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/f/foppa/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14051
+        },
+        {
+            "title": "St Augustine",
+            "date": "1465-70",
+            "technique": "Wood panel",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/f/foppa/saugisti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14052
+        },
+        {
+            "title": "St Sebastian",
+            "date": "c. 1489",
+            "technique": "Fresco transferred to canvas 265 x 170 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/f/foppa/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14053
+        },
+        {
+            "title": "St Luke",
+            "date": "1510s",
+            "technique": "Fresco",
+            "location": "San Maurizio al Monstero Maggiore Milan",
+            "url": "https://www.wga.hu/html/f/foppa/st_luke.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14054
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1490-95",
+            "technique": "Panel 61 x 38 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/f/foppa/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14055
+        },
+        {
+            "title": "Virgin and Child (detail)",
+            "date": "1490-95",
+            "technique": "Panel",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/f/foppa/virgin_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14056
+        },
+        {
+            "title": "The Young Cicero Reading",
+            "date": "c. 1464",
+            "technique": "Fresco 1016 x 1437 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/f/foppa/y_cicero.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 14057
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ROBERT L\u00e9opold",
+    "life": "(b. 1794 La Chaux-de-Fonds d. 1835 Venezia)",
+    "school": "Swiss",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Pilgrimage to the Madonna of the Arch",
+            "date": "1827",
+            "technique": "Oil on canvas 142 x 212 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert_l/pilgrima.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34679
+        },
+        {
+            "title": "Young Monk Waking a Roman Peasant Girl",
+            "date": "-",
+            "technique": "Oil on canvas 26 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert_l/y_monk.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34680
+        },
+        {}
+    ]
+}

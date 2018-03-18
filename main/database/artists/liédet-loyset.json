@@ -1,0 +1,69 @@
+{
+    "name": "LI\u00c9DET Loyset",
+    "life": "(b. ca. 1420 Hesdin d. 1479 Bruges)",
+    "school": "Flemish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Universal History",
+            "date": "1460s",
+            "technique": "Manuscript (Ms. 233)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/l/liedet/history.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 22330
+        },
+        {
+            "title": "L'Histoire de Charles Martel vol. 3 (Ms. 8 fol 7r)",
+            "date": "1470-72",
+            "technique": "Illumination on parchment 410 x 290 mm",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/l/liedet/martel.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 22331
+        },
+        {
+            "title": "The Scribe's Workshop",
+            "date": "1470-72",
+            "technique": "Illumination on parchment",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/l/liedet/martel1.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 22332
+        },
+        {
+            "title": "Roberto della Porta: Romuleon",
+            "date": "1460s",
+            "technique": "Manuscript (Med. Pal. 156. 2 volumes)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/l/liedet/romuleo1.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 22333
+        },
+        {
+            "title": "Roberto della Porta: Romuleon",
+            "date": "1460s",
+            "technique": "Manuscript (Med. Pal. 156. 2 volumes)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/l/liedet/romuleo2.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 22334
+        },
+        {
+            "title": "Story of Alexander the Great",
+            "date": "1450-90",
+            "technique": "Manuscript (Ms. fran\u00e7ais 22547)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/l/liedet/story.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 22335
+        },
+        {}
+    ]
+}

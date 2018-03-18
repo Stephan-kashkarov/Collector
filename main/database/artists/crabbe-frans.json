@@ -1,0 +1,29 @@
+{
+    "name": "CRABBE Frans",
+    "life": "(b. ca. 1480 Mechelen d. 1553 Mechelen)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Virgin and Child in a Landscape",
+            "date": "c. 1520",
+            "technique": "Etching 328 x 288 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/crabbe/virgin_1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 10049
+        },
+        {
+            "title": "Virgin and Child Seated under a Tree",
+            "date": "1520-25",
+            "technique": "Etching 165 x 110 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/crabbe/virgin_2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 10050
+        },
+        {}
+    ]
+}

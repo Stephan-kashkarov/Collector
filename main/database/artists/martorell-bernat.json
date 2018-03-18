@@ -1,0 +1,49 @@
+{
+    "name": "MARTORELL Bernat",
+    "life": "(b. ca. 1400 Sant Celoni d. 1452 Barcelona)",
+    "school": "Catalan",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "The Flagellation of St George",
+            "date": "c. 1435",
+            "technique": "Wood 107 x 53 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/martorel/flagella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24403
+        },
+        {
+            "title": "The Nativity (detail)",
+            "date": "1440s",
+            "technique": "Panel",
+            "location": "Collection Lippmann Berlin",
+            "url": "https://www.wga.hu/html/m/martorel/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24404
+        },
+        {
+            "title": "Saint George Killing the Dragon",
+            "date": "1430-35",
+            "technique": "Tempera on wood 141 x 96 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/m/martorel/stgeorge.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24405
+        },
+        {
+            "title": "St Vincent the Martyr and St Vincent Ferrer",
+            "date": "1430s",
+            "technique": "Tempera and oil on panel 103 x 63 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/martorel/stvincen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24406
+        },
+        {}
+    ]
+}

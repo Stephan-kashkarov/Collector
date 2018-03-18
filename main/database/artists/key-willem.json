@@ -1,0 +1,59 @@
+{
+    "name": "KEY Willem",
+    "life": "(b. ca. 1515 Breda d. 1568 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of Ferdinand Alvarez de Toledo",
+            "date": "-",
+            "technique": "Oil on panel 49 x 38 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/k/key/willem/alvarez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20998
+        },
+        {
+            "title": "Portrait of a Bearded Gentleman",
+            "date": "1565",
+            "technique": "Oil on panel 71 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/key/willem/pendant1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20999
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1565",
+            "technique": "Oil on panel 71 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/key/willem/pendant2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21000
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1556",
+            "technique": "Oil on oak panel 90 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/key/willem/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21001
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on panel 81 x 64 cm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/k/key/willem/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21002
+        },
+        {}
+    ]
+}

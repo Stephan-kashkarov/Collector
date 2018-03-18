@@ -1,0 +1,39 @@
+{
+    "name": "VERBRUGGEN Gaspar Peeter the Elder",
+    "life": "(b. 1635 Antwerpen d. 1681 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Garland of Fruit and Flowers",
+            "date": "1665-70",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verbrug/elder/garland.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42459
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verbrug/elder/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42460
+        },
+        {
+            "title": "Virgin and Child in a Stone Niche Surrounded by Garland of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 140 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verbrug/elder/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 42461
+        },
+        {}
+    ]
+}

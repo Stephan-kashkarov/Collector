@@ -1,0 +1,29 @@
+{
+    "name": "MITELLI Agostino",
+    "life": "(b. 1609 Battidizzo d. 1660 Madrid)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "View of the Sala dell'Udienza del Granduca",
+            "date": "1636-41",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/m/mitelli/pitti1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 28340
+        },
+        {
+            "title": "Ceiling fresco (detail)",
+            "date": "1639",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/m/mitelli/pitti2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 28341
+        },
+        {}
+    ]
+}

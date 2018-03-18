@@ -1,0 +1,69 @@
+{
+    "name": "GILPIN Sawrey",
+    "life": "(b. 1733 Carlisle d. 1807 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Two Greyhounds and a Mastiff",
+            "date": "1780",
+            "technique": "Oil on canvas 173 x 214 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/greyhoun.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15818
+        },
+        {
+            "title": "A Dark Bay and a Grey Horse",
+            "date": "c. 1775",
+            "technique": "Oil on canvas 71 x 91 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/horses1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15819
+        },
+        {
+            "title": "Mare and Stallion in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/horses2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 15820
+        },
+        {
+            "title": "A Black and White English Springer Spaniel in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/spaniel1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15821
+        },
+        {
+            "title": "Black and White English Waterspaniel",
+            "date": "-",
+            "technique": "Oil on canvas 147 x 168 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/spaniel2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15822
+        },
+        {
+            "title": "A Cavalier King Charles Spaniel in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gilpin/sawrey/spaniel3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 15823
+        },
+        {}
+    ]
+}

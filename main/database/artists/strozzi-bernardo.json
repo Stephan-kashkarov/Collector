@@ -1,0 +1,439 @@
+{
+    "name": "STROZZI Bernardo",
+    "life": "(b. 1581 Genova d. 1644 Venezia)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1616-18",
+            "technique": "Oil on canvas 978 x 1394 cm",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/s/strozzi/1/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38229
+        },
+        {
+            "title": "Arachne",
+            "date": "1628-33",
+            "technique": "Oil on cedar panel 57 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/strozzi/1/arachne.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38230
+        },
+        {
+            "title": "St Augustine Washing the Feet of Christ",
+            "date": "1629",
+            "technique": "Oil on canvas 310 x 200 cm",
+            "location": "Accademia Ligustica di Belle Arti Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/augustin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38231
+        },
+        {
+            "title": "Banquet at the House of Simon",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 272 x 740 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/1/banquet.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38232
+        },
+        {
+            "title": "Banquet at the House of Simon (detail)",
+            "date": "c. 1630",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/1/banquet1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38233
+        },
+        {
+            "title": "Banquet at the House of Simon (detail)",
+            "date": "c. 1630",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/1/banquet2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38234
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1615-20",
+            "technique": "Oil on canvas 1055 x 1555 cm",
+            "location": "Accademia Ligustica di Belle Arti Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/baptist.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38235
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1620s",
+            "technique": "Oil on canvas 67 x 57 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/strozzi/1/baptist1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38236
+        },
+        {
+            "title": "St Cecilia",
+            "date": "1620-25",
+            "technique": "Oil on canvas 173 x 123 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/s/strozzi/1/cecilia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38237
+        },
+        {
+            "title": "St Cecilia",
+            "date": "1623-25",
+            "technique": "Oil on canvas 150 x 100 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/s/strozzi/1/cecilia2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38238
+        },
+        {
+            "title": "The Charity of St Lawrence",
+            "date": "1615-20",
+            "technique": "Oil on canvas 119 x 160 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/s/strozzi/1/charity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38239
+        },
+        {
+            "title": "Joseph Telling his Dreams",
+            "date": "1626",
+            "technique": "Oil on canvas 182 x 112 cm",
+            "location": "Pallavicino Collection Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/joseph.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38240
+        },
+        {
+            "title": "The Madonna of Justice",
+            "date": "1620-25",
+            "technique": "Oil on canvas 224 x 133 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/strozzi/1/justice.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38241
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "1615-17",
+            "technique": "Oil on canvas 99 x 1255 cm",
+            "location": "Accademia Ligustica di Belle Arti Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38242
+        },
+        {
+            "title": "Madonna and Child with the Young St John",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 158 x 126 cm",
+            "location": "Galleria di Palazzo Rossi Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38243
+        },
+        {
+            "title": "The Miracle of St Diego of Alcal\u00e1",
+            "date": "1625",
+            "technique": "Oil on canvas 250 x 170 cm",
+            "location": "Chiesa della Santissima Annunziata Levanto",
+            "url": "https://www.wga.hu/html/s/strozzi/1/miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38244
+        },
+        {
+            "title": "Old Woman at the Mirror",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 132 x 108 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/s/strozzi/1/mirror.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38245
+        },
+        {
+            "title": "St Paul",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 69 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/strozzi/1/st_paul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38246
+        },
+        {
+            "title": "Still-Life",
+            "date": "1630s",
+            "technique": "Oil on canvas 65 x 132 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/strozzi/1/stillif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38247
+        },
+        {
+            "title": "Still-Life",
+            "date": "1630s",
+            "technique": "Oil on canvas 54 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/strozzi/1/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38248
+        },
+        {
+            "title": "The Cook",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 176 x 185 cm",
+            "location": "Galleria di Palazzo Rossi Genoa",
+            "url": "https://www.wga.hu/html/s/strozzi/1/the_cook.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38249
+        },
+        {
+            "title": "Saint Veronica",
+            "date": "c. 1628",
+            "technique": "Oil on canvas 168 x 118 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/strozzi/1/veronica.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38250
+        },
+        {
+            "title": "Allegory of Arts",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 152 x 140 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/strozzi/2/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38251
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1643-44",
+            "technique": "Oil on canvas 145 x 120 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/strozzi/2/annunc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38252
+        },
+        {
+            "title": "Berenice",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria d'Arte Antica Udine",
+            "url": "https://www.wga.hu/html/s/strozzi/2/berenice.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38253
+        },
+        {
+            "title": "David with the Head of Goliath",
+            "date": "1635",
+            "technique": "Oil on canvas 164 x 106 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/s/strozzi/2/david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38254
+        },
+        {
+            "title": "David with the Head of Goliath",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 1325 x 100 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/strozzi/2/david_h.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38255
+        },
+        {
+            "title": "Prophet Elijah and the Widow of Sarepta",
+            "date": "1630s",
+            "technique": "Oil on canvas 106 x 138 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/strozzi/2/elijah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38256
+        },
+        {
+            "title": "A Personification of Fame",
+            "date": "-",
+            "technique": "Oil on canvas 107 x 152 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/strozzi/2/fame.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38257
+        },
+        {
+            "title": "Gamba Player",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 126 x 99 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/s/strozzi/2/gamba_p.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38258
+        },
+        {
+            "title": "The Healing of Tobit",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 158 x 224 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/strozzi/2/healing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38259
+        },
+        {
+            "title": "Portrait of a Knight",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 277 x 147 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/knight.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38260
+        },
+        {
+            "title": "Portrait of a Knight (detail)",
+            "date": "c. 1640",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/knight_d.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38261
+        },
+        {
+            "title": "The Charity of St Lawrence",
+            "date": "1639-40",
+            "technique": "Oil on canvas 206 x 162 cm",
+            "location": "San Nicola da Tolentino Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/lawrence.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38262
+        },
+        {
+            "title": "Lute Player",
+            "date": "1630-35",
+            "technique": "Oil on canvas 92 x 76 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/strozzi/2/luteplay.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38263
+        },
+        {
+            "title": "Portrait of a Maltese Knight",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 129 x 98 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/s/strozzi/2/maltese.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38264
+        },
+        {
+            "title": "St Maurice and the Angel",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 82 x 101 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/strozzi/2/maurice.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38265
+        },
+        {
+            "title": "Portrait of Cardinal Federico Cornaro",
+            "date": "c. 1640",
+            "technique": "Oil on canvas",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/port_cor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38266
+        },
+        {
+            "title": "Sleeping Child",
+            "date": "-",
+            "technique": "Oil on canvas 35 x 48 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/s/strozzi/2/s_child.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38267
+        },
+        {
+            "title": "Christ and the Samaritan Woman",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Foundation Honnema Heino",
+            "url": "https://www.wga.hu/html/s/strozzi/2/samarita.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38268
+        },
+        {
+            "title": "St Sebastian Cared for by the Pious Women",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "San Benedetto Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38269
+        },
+        {
+            "title": "St Roch",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 78 x 67 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/s/strozzi/2/st_roch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38270
+        },
+        {
+            "title": "Tribute Money",
+            "date": "1630-35",
+            "technique": "Oil on canvas 158 x 225 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/strozzi/2/tribute.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38271
+        },
+        {}
+    ]
+}

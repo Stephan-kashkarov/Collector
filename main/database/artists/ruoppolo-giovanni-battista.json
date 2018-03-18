@@ -1,0 +1,69 @@
+{
+    "name": "RUOPPOLO Giovanni Battista",
+    "life": "(b. 1629 Napoli d. 1693 Napoli)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Fruit Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 76 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruoppolo/fruistil.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35768
+        },
+        {
+            "title": "Fruit Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 63 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/ruoppolo/fruit_st.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35769
+        },
+        {
+            "title": "Still-Life with Fruit and a Vase of Flowers",
+            "date": "1653",
+            "technique": "Oil on canvas 54 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruoppolo/fruitvas.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35770
+        },
+        {
+            "title": "Still-Life of Fruit",
+            "date": "-",
+            "technique": "Oil on canvas 87 x 116 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruoppolo/stilfrui.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35771
+        },
+        {
+            "title": "Still-life in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Paolo Sapori Spoleto",
+            "url": "https://www.wga.hu/html/r/ruoppolo/stilland.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35772
+        },
+        {
+            "title": "Still-Life with Fruit and Dead Birds in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 37 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/r/ruoppolo/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35773
+        },
+        {}
+    ]
+}

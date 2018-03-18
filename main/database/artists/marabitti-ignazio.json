@@ -1,0 +1,29 @@
+{
+    "name": "MARABITTI Ignazio",
+    "life": "(b. 1719 Palermo d. 1797 Palermo)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Genius of Palermo",
+            "date": "1778",
+            "technique": "Marble",
+            "location": "Villa Giulia Palermo",
+            "url": "https://www.wga.hu/html/m/marabitt/geniuspa.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 24168
+        },
+        {
+            "title": "Monument to Carlo Cottone",
+            "date": "1764",
+            "technique": "Marble",
+            "location": "Chiesa dei Cappucini Palermo",
+            "url": "https://www.wga.hu/html/m/marabitt/monument.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24169
+        },
+        {}
+    ]
+}

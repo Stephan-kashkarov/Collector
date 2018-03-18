@@ -1,0 +1,39 @@
+{
+    "name": "QUAGLIO Domenico",
+    "life": "(b. 1787 M\u00fcnchen d. 1837 Hohenschwangau)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Cathedral of Notre-Dame Reims with a Procession of Communicants",
+            "date": "1827",
+            "technique": "Oil on canvas 54 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/q/quaglio/cathedra.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32656
+        },
+        {
+            "title": "Exterior view",
+            "date": "1832-36",
+            "technique": "Photo",
+            "location": "Burg Hohenschwangau F\u00fcssen Bavarian Alps",
+            "url": "https://www.wga.hu/html/q/quaglio/fussen.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 32657
+        },
+        {
+            "title": "Residenzstrasse Looking Towards Max-Joseph-Platz in 1826",
+            "date": "1826",
+            "technique": "Oil on canvas 64 x 84 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/q/quaglio/residenz.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32658
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "DUYFHUIJSEN Pieter Jacobsz.",
+    "life": "(b. 1608 Rotterdam d. 1677 Rotterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Kitchen Interior",
+            "date": "-",
+            "technique": "Oil on panel 51 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duyfhuij/kitchen.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 12462
+        },
+        {
+            "title": "Peasant Inn",
+            "date": "c. 1660",
+            "technique": "Oil on panel 39 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duyfhuij/peas_inn.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 12463
+        },
+        {}
+    ]
+}

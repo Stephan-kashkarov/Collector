@@ -1,0 +1,109 @@
+{
+    "name": "PARET Y ALCAZ\u00c1R Luis",
+    "life": "(b. 1746 Madrid d. 1799 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Charles III Dining before the Court",
+            "date": "c. 1788",
+            "technique": "Oil on wood 50 x 64 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/paret/charles3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30376
+        },
+        {
+            "title": "Maria de las Nieves Micaela Fourdinier",
+            "date": "1782-85",
+            "technique": "Oil on copper 37 x 28 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/paret/fourdini.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30377
+        },
+        {
+            "title": "Elegant Company Preparing for a Masked Ball",
+            "date": "1770s",
+            "technique": "Oil on canvas 31 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/paret/maskball.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30378
+        },
+        {
+            "title": "Portrait of a Lady with Her Infant Child",
+            "date": "-",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/paret/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30379
+        },
+        {
+            "title": "Portrait of a Lady with Her Infant Child (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/paret/portladz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30380
+        },
+        {
+            "title": "Self-Portrait in the Studio",
+            "date": "1786",
+            "technique": "Oil on canvas 40 x 32 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/paret/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30381
+        },
+        {
+            "title": "Still-Life with Fruit",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/paret/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30382
+        },
+        {
+            "title": "Village Scene and View of Fuenterrabia",
+            "date": "1786",
+            "technique": "Oil on canvas 48 x 375 and 443 x 572 cm",
+            "location": "Museo de Bellas Artes Bilbao",
+            "url": "https://www.wga.hu/html/p/paret/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30383
+        },
+        {
+            "title": "Virgin and Child with St James the Great",
+            "date": "1786",
+            "technique": "Oil on canvas 635 x 142 cm",
+            "location": "Museo de Bellas Artes Bilbao",
+            "url": "https://www.wga.hu/html/p/paret/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30384
+        },
+        {
+            "title": "Zebra",
+            "date": "-",
+            "technique": "Gouache on laid paper 485 x 345 mm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/paret/zebra.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30385
+        },
+        {}
+    ]
+}

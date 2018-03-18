@@ -1,0 +1,29 @@
+{
+    "name": "MASTER of 1456",
+    "life": "(active 1450s in Cologne)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Madonna on a Crescent Moon in Hortus Conclusus",
+            "date": "1450s",
+            "technique": "Oak 95 x 62 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/1456/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24712
+        },
+        {
+            "title": "Martyrdom of St Ursula and the Eleven Thousand Virgins of Cologne",
+            "date": "1450s",
+            "technique": "Oil on oak panel 1128 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/1456/ursula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24713
+        },
+        {}
+    ]
+}

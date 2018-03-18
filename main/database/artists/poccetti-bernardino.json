@@ -1,0 +1,59 @@
+{
+    "name": "POCCETTI Bernardino",
+    "life": "(b. 1548 San Marino di Valdelsa d. 1612 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Ceiling decoration",
+            "date": "1585",
+            "technique": "Fresco",
+            "location": "Salone Palazzo Capponi Florence",
+            "url": "https://www.wga.hu/html/p/poccetti/capponi.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31793
+        },
+        {
+            "title": "Fa\u00e7ade",
+            "date": "c. 1568",
+            "technique": "-",
+            "location": "Bianca Cappello House Florence",
+            "url": "https://www.wga.hu/html/p/poccetti/facade.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31794
+        },
+        {
+            "title": "Ceiling fresco",
+            "date": "1583-93",
+            "technique": "Fresco",
+            "location": "Grotta Grande Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/p/poccetti/grotto.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 31795
+        },
+        {
+            "title": "Ceiling fresco (detail)",
+            "date": "1583-93",
+            "technique": "Fresco",
+            "location": "Grotta Grande Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/p/poccetti/grotto1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31796
+        },
+        {
+            "title": "Tuscan Landscape",
+            "date": "1608",
+            "technique": "Hard stone inlay 15 x 51 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/p/poccetti/inlay.html",
+            "form": "mosaic",
+            "painting_type": "landscape",
+            "index": 31797
+        },
+        {}
+    ]
+}

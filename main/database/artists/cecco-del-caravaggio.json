@@ -1,0 +1,59 @@
+{
+    "name": "CECCO DEL CARAVAGGIO",
+    "life": "(active in the 1610s in Rome)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Flute Player",
+            "date": "1615-20",
+            "technique": "Oil on canvas 103 x 138 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/c/cecco/flutepla.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8307
+        },
+        {
+            "title": "Guardian Angel with Sts Ursula and Thomas",
+            "date": "-",
+            "technique": "Oil on canvas 208 x 106 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/cecco/guardian.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8308
+        },
+        {
+            "title": "Martyrdom of St Sebastian",
+            "date": "1611-12",
+            "technique": "Oil on canvas 124 x 163 cm",
+            "location": "Muzeum Narodowe Warsaw",
+            "url": "https://www.wga.hu/html/c/cecco/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8309
+        },
+        {
+            "title": "Christ Falls on the Road to Calvary",
+            "date": "1610-11",
+            "technique": "Oil on canvas 98 x 130 cm",
+            "location": "Slovensk\u00e1 N\u00e1rodn\u00e1 Gal\u00e9ria Bratislava",
+            "url": "https://www.wga.hu/html/c/cecco/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8310
+        },
+        {
+            "title": "Woman with a Dove",
+            "date": "1610s",
+            "technique": "Oil on canvas 66 x 47 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/cecco/woman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8311
+        },
+        {}
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": "LAGREN\u00c9E Louis-Jean-Fran\u00e7ois",
+    "life": "(b. 1724 Paris d. 1805 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Allegory on the Death of the Dauphin",
+            "date": "1765",
+            "technique": "Oil on canvas 129 x 97 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21368
+        },
+        {
+            "title": "Aurora's Take Off",
+            "date": "-",
+            "technique": "Oil on canvas 121 x 170 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21369
+        },
+        {
+            "title": "David and Bathsheba",
+            "date": "1770",
+            "technique": "Oil on canvas 45 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/bathsheb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21370
+        },
+        {
+            "title": "Ceres Teaching Agriculture to King Triptolemus",
+            "date": "1769",
+            "technique": "Oil on canvas 339 x 234 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/cerestea.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21371
+        },
+        {
+            "title": "The Education of the Virgin",
+            "date": "c. 1772",
+            "technique": "Oil on canvas 43 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/educatio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21372
+        },
+        {
+            "title": "The Penitent Magdalen",
+            "date": "-",
+            "technique": "Oil on canvas 47 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21373
+        },
+        {
+            "title": "Rinaldo and Armida",
+            "date": "1766",
+            "technique": "Oil on canvas 60 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/rinaldo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21374
+        },
+        {
+            "title": "Venus and Nymphs Bathing",
+            "date": "1776",
+            "technique": "Oil on canvas 85 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lagrenee/louis/venusnym.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21375
+        },
+        {}
+    ]
+}

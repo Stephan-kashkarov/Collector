@@ -1,0 +1,29 @@
+{
+    "name": "HECKE Jan van den",
+    "life": "(b. 1619 Kwaremont d. 1684 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Garland of Flowers",
+            "date": "-",
+            "technique": "Oil on panel 44 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hecke/garland.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19394
+        },
+        {
+            "title": "Still-Life with Shellfish",
+            "date": "1675",
+            "technique": "Oil on canvas 39 x 57 cm",
+            "location": "National Trust Hanbury Hall",
+            "url": "https://www.wga.hu/html/h/hecke/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19395
+        },
+        {}
+    ]
+}

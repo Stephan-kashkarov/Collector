@@ -1,0 +1,849 @@
+{
+    "name": "CARRACCI Annibale",
+    "life": "(b. 1560 Bologna d. 1609 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Assumption of the Virgin",
+            "date": "c. 1590",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7905
+        },
+        {
+            "title": "The Baptism of Christ",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "San Gregorio Bologna",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/baptism.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7906
+        },
+        {
+            "title": "The Beaneater",
+            "date": "1584-85",
+            "technique": "Oil on canvas 57 x 68 cm",
+            "location": "Galleria Colonna Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/beaneate.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7907
+        },
+        {
+            "title": "Butcher's Shop",
+            "date": "1580s",
+            "technique": "Oil on canvas 185 x 266 cm",
+            "location": "Christ Church Picture Gallery Oxford",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/butchers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7908
+        },
+        {
+            "title": "Butcher's Shop (detail)",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Christ Church Picture Gallery Oxford",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/butcherx.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7909
+        },
+        {
+            "title": "Two Children Teasing a Cat",
+            "date": "1588-90",
+            "technique": "Oil on canvas 66 x 89 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/children.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7910
+        },
+        {
+            "title": "Christ in Glory",
+            "date": "1597-98",
+            "technique": "Oil on canvas 194 x 142 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/christ_g.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7911
+        },
+        {
+            "title": "The Coronation of St Stephen",
+            "date": "c. 1597",
+            "technique": "Oil on copper oval 14 x 11 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7912
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1583",
+            "technique": "Oil on canvas 305 x 210 cm",
+            "location": "Santa Maria della Carit\u00e0 Bologna",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7913
+        },
+        {
+            "title": "Fishing",
+            "date": "1585-88",
+            "technique": "Oil on canvas 136 x 253 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/fishing.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7914
+        },
+        {
+            "title": "Head of a Man",
+            "date": "1595-99",
+            "technique": "Oil on canvas 46 x 37 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/head_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7915
+        },
+        {
+            "title": "The Choice of Heracles",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 167 x 273 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/heracles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7916
+        },
+        {
+            "title": "Hunting",
+            "date": "1585-88",
+            "technique": "Oil on canvas 136 x 253 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/hunting.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7917
+        },
+        {
+            "title": "The Laughing Youth",
+            "date": "1583",
+            "technique": "Oil on paper",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/laughing.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7918
+        },
+        {
+            "title": "Madonna Enthroned with St Matthew",
+            "date": "1588",
+            "technique": "Oil on canvas 384 x 255 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/mad_matt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7919
+        },
+        {
+            "title": "The Penitent Magdalen in a Landscape",
+            "date": "c. 1598",
+            "technique": "Oil on copper 32 x 43 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7920
+        },
+        {
+            "title": "The Penitent Magdalen in a Landscape (detail)",
+            "date": "c. 1598",
+            "technique": "Oil on copper",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/magdalex.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7921
+        },
+        {
+            "title": "St Margaret",
+            "date": "1597-99",
+            "technique": "Oil on canvas 239 x 134 cm",
+            "location": "Chiesa di Santa Caterina della Rosa Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/margaret.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7922
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine",
+            "date": "1585-87",
+            "technique": "Oil on canvas",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/mystic_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7923
+        },
+        {
+            "title": "River Landscape",
+            "date": "1589-90",
+            "technique": "Oil on canvas 89 x 148 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7924
+        },
+        {
+            "title": "Christ and the Woman of Samaria",
+            "date": "1596-97",
+            "technique": "Oil on canvas 77 x 64 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/samaria.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7925
+        },
+        {
+            "title": "The Temptation of St Anthony Abbot",
+            "date": "1597-98",
+            "technique": "Oil on copper 50 x 34 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/temptat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7926
+        },
+        {
+            "title": "The Temptation of St Anthony Abbot (detail)",
+            "date": "1597-98",
+            "technique": "Oil on copper",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/temptat1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7927
+        },
+        {
+            "title": "Christ Wearing the Crown of Thorns Supported by Angels",
+            "date": "1585-87",
+            "technique": "Oil on canvas 85 x 100 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/thorns.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7928
+        },
+        {
+            "title": "Venus Adonis and Cupid",
+            "date": "c. 1595",
+            "technique": "Oil on canvas 212 x 268 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/venus_ac.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7929
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "c. 1595",
+            "technique": "Oil on canvas 217 x 246 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/venus_ad.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7930
+        },
+        {
+            "title": "Venus with a Satyr and Cupids",
+            "date": "c. 1588",
+            "technique": "Oil on canvas 112 x142 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/venus_sc.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7931
+        },
+        {
+            "title": "The Virgin Appears to Sts Luke and Catherine",
+            "date": "1592",
+            "technique": "Oil on canvas 401 x 226 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7932
+        },
+        {
+            "title": "Sheet of caricatures",
+            "date": "c. 1595",
+            "technique": "Pen and ink 201 139 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/z_carica.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 7933
+        },
+        {
+            "title": "Atlante",
+            "date": "-",
+            "technique": "Sanguine",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/zatlante.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 7934
+        },
+        {
+            "title": "St Francis in Meditation",
+            "date": "1585",
+            "technique": "Engraving 143 x 106 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/1/zfrancis.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 7935
+        },
+        {
+            "title": "View of the Chapel",
+            "date": "1600-01",
+            "technique": "Oil on canvas 245 x 155 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/assump.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7936
+        },
+        {
+            "title": "Assumption of the Virgin Mary",
+            "date": "1600-01",
+            "technique": "Oil on canvas 245 x 155 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/assumpt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7937
+        },
+        {
+            "title": "Lamentation of Christ",
+            "date": "1606",
+            "technique": "Oil on canvas 928 x 1032 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/dead_chr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7938
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "1603",
+            "technique": "Oil on canvas 122 x 230 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/f_egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7939
+        },
+        {
+            "title": "Rest on Flight into Egypt",
+            "date": "c. 1604",
+            "technique": "Oil on canvas diameter 825 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/f_egypt1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7940
+        },
+        {
+            "title": "Translation of the Holy House",
+            "date": "c. 1605",
+            "technique": "Oil on canvas 250 x 150 cm",
+            "location": "Church of Sant' Onofrio Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/holyhous.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7941
+        },
+        {
+            "title": "Landscape with the Toilet of Venus",
+            "date": "1605-10",
+            "technique": "Oil on canvas 89 x 99 cm",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7942
+        },
+        {
+            "title": "Mocking of Christ",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 60 x 695 cm",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/mocking.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7943
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1599-1600",
+            "technique": "Oil on canvas 156 x 149 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7944
+        },
+        {
+            "title": "Piet\u00e0 with Sts Francis and Mary Magdalen",
+            "date": "1602-07",
+            "technique": "Oil on canvas 277 x 186 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/pieta_s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7945
+        },
+        {
+            "title": "Domine quo vadis?",
+            "date": "1601-02",
+            "technique": "Oil on panel 774 x 563 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/quovadis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7946
+        },
+        {
+            "title": "Rest on Flight into Egypt",
+            "date": "c. 1604",
+            "technique": "Oil on canvas diameter 825 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/rest_f_e.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7947
+        },
+        {
+            "title": "Roman River Landscape with Castle and Bridge",
+            "date": "1595-1600",
+            "technique": "Oil on canvas 73 x 143 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/romanriv.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7948
+        },
+        {
+            "title": "The Samaritan Woman at the Well",
+            "date": "c. 1595",
+            "technique": "Oil on canvas 170 x 225 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/samarita.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7949
+        },
+        {
+            "title": "Self-Portrait in Profile",
+            "date": "1590s",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7950
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1604",
+            "technique": "Oil on wood 42 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7951
+        },
+        {
+            "title": "Sleeping Venus",
+            "date": "c. 1602",
+            "technique": "Oil on canvas 190 x 328 cm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/sleepven.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7952
+        },
+        {
+            "title": "The Martyrdom of St Stephen",
+            "date": "1603-04",
+            "technique": "Oil on canvas 51 x 68 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/stephen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7953
+        },
+        {
+            "title": "The Stoning of St Stephen",
+            "date": "1603-04",
+            "technique": "Oil on copper 41 x 53 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/stephen1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7954
+        },
+        {
+            "title": "Triptych",
+            "date": "1604-05",
+            "technique": "Oil on copper and panel 37 x 24 cm (central panel) 37 x 12 cm (each wing)",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/triptyc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7955
+        },
+        {
+            "title": "Triptych",
+            "date": "1604-05",
+            "technique": "Oil on copper and panel 37 x 24 cm (closed)",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/triptyc2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7956
+        },
+        {
+            "title": "Holy Women at Christ' s Tomb",
+            "date": "1590s",
+            "technique": "Oil on canvas 121 x1 46 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/2/women.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7957
+        },
+        {
+            "title": "The Galleria Farnese",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes01.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7958
+        },
+        {
+            "title": "General view",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes02.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7959
+        },
+        {
+            "title": "General view",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes03.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7960
+        },
+        {
+            "title": "Ceiling fresco",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes04.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7961
+        },
+        {
+            "title": "Ceiling fresco",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes05.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7962
+        },
+        {
+            "title": "Ceiling fresco",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes06.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7963
+        },
+        {
+            "title": "Triumph of Bacchus and Ariadne",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes07.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7964
+        },
+        {
+            "title": "Triumph of Bacchus and Ariadne",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes08.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7965
+        },
+        {
+            "title": "Triumph of Bacchus and Ariadne (detail)",
+            "date": "1595-1605",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes09.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7966
+        },
+        {
+            "title": "Triumph of Bacchus and Ariadne (detail)",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes10.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7967
+        },
+        {
+            "title": "Triumph of Bacchus and Ariadne (detail)",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes11.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7968
+        },
+        {
+            "title": "Polyphemus and Galatea",
+            "date": "1595-1605",
+            "technique": "Fresco",
+            "location": "Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes13.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7969
+        },
+        {
+            "title": "Polyphemus and Acis",
+            "date": "1595-1605",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes14.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7970
+        },
+        {
+            "title": "Polyphemus and Acis",
+            "date": "1595-1605",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes15.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7971
+        },
+        {
+            "title": "Pan and Diana",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes16.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7972
+        },
+        {
+            "title": "Mercury and Paris",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes17.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7973
+        },
+        {
+            "title": "Cephalus and Aurora",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes18.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7974
+        },
+        {
+            "title": "A Sea God Abducts a Woman",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes19.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7975
+        },
+        {
+            "title": "A Sea God Abducts a Woman (detail)",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes20.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7976
+        },
+        {
+            "title": "Jupiter and Juno",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes21.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7977
+        },
+        {
+            "title": "Venus and Anchises",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes22.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7978
+        },
+        {
+            "title": "Diana and Endymion",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes23.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7979
+        },
+        {
+            "title": "Perseus Liberating Andromeda",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes24.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7980
+        },
+        {
+            "title": "Perseus Fighting with Phineus",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes25.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7981
+        },
+        {
+            "title": "Perseus Fighting with Phineus (detail)",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes26.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7982
+        },
+        {
+            "title": "Hercules and Iole",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes27.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7983
+        },
+        {
+            "title": "Europa and the Bull",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes28.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7984
+        },
+        {
+            "title": "Eros and Anteros",
+            "date": "1597-1602",
+            "technique": "Fresco",
+            "location": "Galleria Farnese Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/farnes29.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7985
+        },
+        {
+            "title": "Sketch for the ceiling of the Galleria Farnese",
+            "date": "1590s",
+            "technique": "Pen and ink and wash 164 x 255 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/zsketch1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 7986
+        },
+        {
+            "title": "Sketch for the ceiling of the Galleria Farnese",
+            "date": "1590s",
+            "technique": "Pen and ink and wash 241 x 287 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/zsketch2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 7987
+        },
+        {
+            "title": "Sketch for frieze of the Galleria Farnese",
+            "date": "1590s",
+            "technique": "Pen and ink and wash 270 x 242 mm",
+            "location": "\u00c9cole Nationale Sup\u00e9rieure des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/c/carracci/annibale/farnese/zsketch3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 7988
+        },
+        {}
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "SIRANI Elisabetta",
+    "life": "(b. 1638 Bologna d. 1665 Bologna)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of Anna Maria Ranuzzi Marsigli as Charity",
+            "date": "1665",
+            "technique": "Oil on canvas 96 x 78 cm",
+            "location": "Cassa di Risparmio Bologna",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/charity.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37337
+        },
+        {
+            "title": "St. Jerome",
+            "date": "-",
+            "technique": "Oil on canvas 102 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37338
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "-",
+            "technique": "Oil on canvas 236 x 183 cm",
+            "location": "Lakeview Museum of Arts and Science Peoria",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/judith.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37339
+        },
+        {
+            "title": "Portia Wounding her Thigh",
+            "date": "1664",
+            "technique": "Oil on canvas 101 x 138 cm",
+            "location": "Stephen Warren Miles and Marilyn Ross Miles Foundation Houston",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/portia.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 37340
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1660",
+            "technique": "Black and red chalk on laid paper 231 x 157 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/selfport.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 37341
+        },
+        {
+            "title": "Young St John the Baptist",
+            "date": "1665",
+            "technique": "Oil on canvas laid on panel 70 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37342
+        },
+        {
+            "title": "The Flea",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/the_flea.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37343
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1663",
+            "technique": "Oil on canvas 86 x 70 cm",
+            "location": "National Museum of Women in the Arts Washington",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37344
+        },
+        {
+            "title": "Study",
+            "date": "1663",
+            "technique": "Gray-brown wash and red chalk on paper 210 x 162 mm",
+            "location": "Walker Art Gallery Liverpool",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/virgin1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 37345
+        },
+        {
+            "title": "Study for the Baptism of Christ",
+            "date": "c. 1658",
+            "technique": "Pencil ink and brown wash over black chalk on paper 258 x 370 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/zstudy1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 37346
+        },
+        {
+            "title": "Holy Family with Sts Elizabeth and John the Baptist",
+            "date": "-",
+            "technique": "Etching on paper 265 x 215 mm",
+            "location": "National Museum of Women in the Arts Washington",
+            "url": "https://www.wga.hu/html/s/sirani/elisabet/zstudy2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37347
+        },
+        {}
+    ]
+}

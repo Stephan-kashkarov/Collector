@@ -1,0 +1,29 @@
+{
+    "name": "HOUASSE Michel-Ange",
+    "life": "(b. ca. 1680 Paris d. 1730 Arpajon)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bacchanal",
+            "date": "1719",
+            "technique": "Oil on canvas 125 x 180 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/h/houasse/son/bacchana.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20183
+        },
+        {
+            "title": "View of the Monastery of El Escorial",
+            "date": "1723",
+            "technique": "Oil on canvas 50 x 82 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/h/houasse/son/escorial.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20184
+        },
+        {}
+    ]
+}

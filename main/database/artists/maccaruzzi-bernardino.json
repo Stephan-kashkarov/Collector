@@ -1,0 +1,29 @@
+{
+    "name": "MACCARUZZI Bernardino",
+    "life": "(b. ca. 1728 Venezia d. 1800 Venezia)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "San Rocco: Fa\u00e7ade",
+            "date": "1765-71",
+            "technique": "Photo",
+            "location": "Campo di San Rocco Venice",
+            "url": "https://www.wga.hu/html/m/maccaruz/sanrocco.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 23513
+        },
+        {
+            "title": "View of Campo di San Rocco",
+            "date": "1517-60",
+            "technique": "Photo",
+            "location": "Campo di San Rocco Venice",
+            "url": "https://www.wga.hu/html/m/maccaruz/square.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 23514
+        },
+        {}
+    ]
+}

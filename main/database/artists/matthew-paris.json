@@ -1,0 +1,39 @@
+{
+    "name": "MATTHEW PARIS",
+    "life": "(c. 1200-1259)",
+    "school": "English",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Book of Additions",
+            "date": "c. 1250",
+            "technique": "Manuscript (Cotton MS Nero D I",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/m/matthew/book_add.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25265
+        },
+        {
+            "title": "Historia Anglorum Chronica majora Part III",
+            "date": "1250s",
+            "technique": "Manuscript (Royal MS 14 C VII) 356 x 238 mm",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/m/matthew/historia.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 25266
+        },
+        {
+            "title": "Historia Anglorum Chronica majora Part III",
+            "date": "1250s",
+            "technique": "Manuscript (Royal MS 14 C VII)",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/m/matthew/historib.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 25267
+        },
+        {}
+    ]
+}

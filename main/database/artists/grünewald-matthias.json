@@ -1,0 +1,1169 @@
+{
+    "name": "GR\u00dcNEWALD Matthias",
+    "life": "(b. 1470/80 W\u00fcrzburg d. 1528 Halle)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Crucifixion",
+            "date": "c. 1501",
+            "technique": "Oil on wood 73 x 525 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/g/grunewal/1/01crucif.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18578
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "c. 1502",
+            "technique": "Oil on wood 615 x 46 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/g/grunewal/1/02crucif.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18579
+        },
+        {
+            "title": "Fourteen Saints Altarpiece (detail)",
+            "date": "1503",
+            "technique": "Oil on wood 159 x 685 cm",
+            "location": "Parish church Lindenhardt",
+            "url": "https://www.wga.hu/html/g/grunewal/1/03saint1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18580
+        },
+        {
+            "title": "Fourteen Saints Altarpiece (detail)",
+            "date": "1503",
+            "technique": "Oil on wood 159 x 685 cm",
+            "location": "Parish church Lindenhardt",
+            "url": "https://www.wga.hu/html/g/grunewal/1/03saint2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18581
+        },
+        {
+            "title": "Fourteen Saints Altarpiece (detail)",
+            "date": "1503",
+            "technique": "Oil on wood 159 x 153 cm",
+            "location": "Parish church Lindenhardt",
+            "url": "https://www.wga.hu/html/g/grunewal/1/03saint3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18582
+        },
+        {
+            "title": "The Mocking of Christ",
+            "date": "1503",
+            "technique": "Oil on pine panel 109 x 735 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/1/04mock.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18583
+        },
+        {
+            "title": "The Mocking of Christ (detail)",
+            "date": "1503",
+            "technique": "Oil on pine panel",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/1/04mock1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18584
+        },
+        {
+            "title": "The Mocking of Christ (detail)",
+            "date": "1503",
+            "technique": "Oil on pine panel",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/1/04mock2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18585
+        },
+        {
+            "title": "The Mocking of Christ (detail)",
+            "date": "1503",
+            "technique": "Oil on pine panel",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/1/04mock3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18586
+        },
+        {
+            "title": "St Lawrence and St Cyricus",
+            "date": "1509-11",
+            "technique": "Grisaille on oak 98 x 43 cm (each)",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/g/grunewal/1/05helle1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18587
+        },
+        {
+            "title": "St Elizabeth and a Saint Woman with Palm",
+            "date": "1508-11",
+            "technique": "Grisaille on oak 95 x 43 cm and 101 x 43 cm",
+            "location": "Gemaldegalerie Donaueschingen",
+            "url": "https://www.wga.hu/html/g/grunewal/1/05helle2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18588
+        },
+        {
+            "title": "Isenheim Altarpiece (first view)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18589
+        },
+        {
+            "title": "The Isenheim Altarpiece",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18590
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "c. 1515",
+            "technique": "Oil on wood 269 x 307 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18591
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18592
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18593
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18594
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18595
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view1c5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18596
+        },
+        {
+            "title": "St Antony the Hermit",
+            "date": "c. 1515",
+            "technique": "Oil on wood 232 x 75 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view2l.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18597
+        },
+        {
+            "title": "St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view2l1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18598
+        },
+        {
+            "title": "St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view2l2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18599
+        },
+        {
+            "title": "St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view2l3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18600
+        },
+        {
+            "title": "St Sebastian",
+            "date": "c. 1515",
+            "technique": "Oil on wood 232 x 765 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view3r.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18601
+        },
+        {
+            "title": "St Sebastian (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view3r1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18602
+        },
+        {
+            "title": "St Sebastian (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view3r2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18603
+        },
+        {
+            "title": "St Sebastian (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/1view/1view3r3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18604
+        },
+        {
+            "title": "Isenheim Altarpiece (second view)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18605
+        },
+        {
+            "title": "Concert of Angels and Nativity",
+            "date": "c. 1515",
+            "technique": "Oil on wood 265 x 304 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18606
+        },
+        {
+            "title": "Concert of Angels (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18607
+        },
+        {
+            "title": "Concert of Angels (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18608
+        },
+        {
+            "title": "Concert of Angels (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18609
+        },
+        {
+            "title": "Concert of Angels and Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18610
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18611
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18612
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18613
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18614
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18615
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1c9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18616
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view1ca.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18617
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1515",
+            "technique": "Oil on wood 269 x 141 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view2l.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18618
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view2l1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18619
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view2l2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18620
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view2l3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18621
+        },
+        {
+            "title": "The Resurrection",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view3r.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18622
+        },
+        {
+            "title": "The Resurrection (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view3r1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18623
+        },
+        {
+            "title": "The Resurrection (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view3r2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18624
+        },
+        {
+            "title": "Annunciation and Resurrection",
+            "date": "c. 1515",
+            "technique": "Oil on wood 269 x 141 cm (each)",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/2view/2view4lr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18625
+        },
+        {
+            "title": "Isenheim Altarpiece (third view)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18626
+        },
+        {
+            "title": "Sts Paul and Anthony in the Desert",
+            "date": "c. 1515",
+            "technique": "Oil on wood 265 x 141 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18627
+        },
+        {
+            "title": "St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18628
+        },
+        {
+            "title": "St Paul (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18629
+        },
+        {
+            "title": "Sts Paul and Anthony in the Desert (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18630
+        },
+        {
+            "title": "Sts Paul and Anthony in the Desert (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18631
+        },
+        {
+            "title": "Sts Paul and Anthony in the Desert (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view1l5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18632
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "date": "c. 1515",
+            "technique": "Oil on wood 265 x 141 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18633
+        },
+        {
+            "title": "The Temptation of St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18634
+        },
+        {
+            "title": "The Temptation of St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18635
+        },
+        {
+            "title": "The Temptation of St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18636
+        },
+        {
+            "title": "The Temptation of St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18637
+        },
+        {
+            "title": "The Temptation of St Anthony (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view2r5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18638
+        },
+        {
+            "title": "Visit of St Anthony to St Paul and Temptation of St Anthony",
+            "date": "c. 1515",
+            "technique": "Oil on wood 265 x 141 cm (each)",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/3view/3view3lr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18639
+        },
+        {
+            "title": "The Lamentation",
+            "date": "c. 1515",
+            "technique": "Oil on wood 76 x 341 cm",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/4predell/4predel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18640
+        },
+        {
+            "title": "The Lamentation (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/4predell/4predel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18641
+        },
+        {
+            "title": "The Lamentation (detail)",
+            "date": "c. 1515",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e d'Unterlinden Colmar",
+            "url": "https://www.wga.hu/html/g/grunewal/2isenhei/4predell/4predel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18642
+        },
+        {
+            "title": "Benefactor with Bird Cage",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/g/grunewal/3/01benefa.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 18643
+        },
+        {
+            "title": "Stuppach Madonna",
+            "date": "1517-19",
+            "technique": "Oil on canvas mounted on wood 186 x 150 cm",
+            "location": "Parish Church Stuppach",
+            "url": "https://www.wga.hu/html/g/grunewal/3/02stupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18644
+        },
+        {
+            "title": "Stuppach Madonna (detail)",
+            "date": "1517-19",
+            "technique": "Oil on canvas mounted on wood",
+            "location": "Parish Church Stuppach",
+            "url": "https://www.wga.hu/html/g/grunewal/3/02stupp1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18645
+        },
+        {
+            "title": "Stuppach Madonna (detail)",
+            "date": "1517-19",
+            "technique": "Oil on canvas mounted on wood",
+            "location": "Parish Church Stuppach",
+            "url": "https://www.wga.hu/html/g/grunewal/3/02stupp2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18646
+        },
+        {
+            "title": "Establishment of the Santa Maria Maggiore in Rome",
+            "date": "1517-19",
+            "technique": "Oil on wood 179 x 91 cm",
+            "location": "St\u00e4dtische Museen Freiburg im Breisgau",
+            "url": "https://www.wga.hu/html/g/grunewal/3/03maggi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18647
+        },
+        {
+            "title": "Establishment of the Santa Maria Maggiore in Rome (detail)",
+            "date": "1517-19",
+            "technique": "Oil on wood",
+            "location": "St\u00e4dtische Museen Freiburg im Breisgau",
+            "url": "https://www.wga.hu/html/g/grunewal/3/03maggi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18648
+        },
+        {
+            "title": "Establishment of the Santa Maria Maggiore in Rome (detail)",
+            "date": "1517-19",
+            "technique": "Oil on wood",
+            "location": "St\u00e4dtische Museen Freiburg im Breisgau",
+            "url": "https://www.wga.hu/html/g/grunewal/3/03maggi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18649
+        },
+        {
+            "title": "Establishment of the Santa Maria Maggiore in Rome (detail)",
+            "date": "1517-19",
+            "technique": "Oil on wood",
+            "location": "St\u00e4dtische Museen Freiburg im Breisgau",
+            "url": "https://www.wga.hu/html/g/grunewal/3/03maggi3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18650
+        },
+        {
+            "title": "Meeting of St Erasm and St Maurice",
+            "date": "1517-23",
+            "technique": "Oil on wood 226 x 176 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/3/04erasm.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18651
+        },
+        {
+            "title": "Meeting of St Erasm and St Maurice (detail)",
+            "date": "1517-23",
+            "technique": "Oil on wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/3/04erasm1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18652
+        },
+        {
+            "title": "Meeting of St Erasm and St Maurice (detail)",
+            "date": "1517-23",
+            "technique": "Oil on wood",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/grunewal/3/04erasm2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18653
+        },
+        {
+            "title": "Lamentation of Christ",
+            "date": "before 1523",
+            "technique": "Oil on pine wood 36 x 136 cm",
+            "location": "Abbey Church Aschaffenburg",
+            "url": "https://www.wga.hu/html/g/grunewal/4/1lament.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18654
+        },
+        {
+            "title": "Lamentation of Christ (detail)",
+            "date": "before 1523",
+            "technique": "Oil on pine wood",
+            "location": "Abbey Church Aschaffenburg",
+            "url": "https://www.wga.hu/html/g/grunewal/4/1lament1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18655
+        },
+        {
+            "title": "Lamentation of Christ (detail)",
+            "date": "before 1523",
+            "technique": "Oil on pine wood",
+            "location": "Abbey Church Aschaffenburg",
+            "url": "https://www.wga.hu/html/g/grunewal/4/1lament2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18656
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "1523-24",
+            "technique": "Oil on wood 193 x 1525 cm",
+            "location": "Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/g/grunewal/4/2crucif.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18657
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1523-24",
+            "technique": "Oil on wood",
+            "location": "Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/g/grunewal/4/2crucif1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18658
+        },
+        {
+            "title": "Carrying the Cross",
+            "date": "1523-24",
+            "technique": "Oil on wood 193 x 1525 cm",
+            "location": "Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/g/grunewal/4/3carry.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18659
+        },
+        {
+            "title": "Carrying the Cross (detail)",
+            "date": "1523-24",
+            "technique": "Oil on wood",
+            "location": "Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/g/grunewal/4/3carry1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18660
+        },
+        {
+            "title": "Virgin of the Annunciation",
+            "date": "1512-14",
+            "technique": "Black chalk and indian ink on paper heightened with white 207 x 210 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/1virgin.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18661
+        },
+        {
+            "title": "Virgin of the Annunciation",
+            "date": "1512-14",
+            "technique": "Black chalk on brownish paper 160 x 146 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/2virgin.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18662
+        },
+        {
+            "title": "Woman Looking Up",
+            "date": "1512-14",
+            "technique": "Black chalk on brownish paper 384 x 283 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/3lookup.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18663
+        },
+        {
+            "title": "Weeping Woman",
+            "date": "1512-14",
+            "technique": "Black chalk on brownish paper 403 x 297 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/4weeping.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18664
+        },
+        {
+            "title": "Woman with Open Robe",
+            "date": "1512-14",
+            "technique": "Black chalk on brownish paper 384 x 283 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/5openrob.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18665
+        },
+        {
+            "title": "Praying Woman",
+            "date": "1512-14",
+            "technique": "Black chalk on yellowish paper cut 38 x 24 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/6praying.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18666
+        },
+        {
+            "title": "Forearm Study",
+            "date": "1512-14",
+            "technique": "Black chalk on brown-yellowish paper 237 x 189 mm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/7forearm.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18667
+        },
+        {
+            "title": "Upper Arm Study",
+            "date": "1512-14",
+            "technique": "Black chalk on brown-yellowish paper 279 x 195 mm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/1isenhei/8upperr.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18668
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1501-02",
+            "technique": "Black chalk on brownish paper heightened with white 531 x 320 mm",
+            "location": "Staatliche Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/01crucif.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18669
+        },
+        {
+            "title": "Complaining Pharisee",
+            "date": "c. 1511",
+            "technique": "Black chalk on yellowish paper cut and mounted 235 x 165 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/02compla.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18670
+        },
+        {
+            "title": "An Apostle from the Transfiguration",
+            "date": "c. 1511",
+            "technique": "Black chalk on brownish paper heightened with white 148 x 263 mm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/03apostl.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18671
+        },
+        {
+            "title": "An Apostle from the Transfiguration",
+            "date": "c. 1511",
+            "technique": "Black chalk on brownish paper heightened with white 146 x 208 mm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/04apostl.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18672
+        },
+        {
+            "title": "Study of an Apostle",
+            "date": "c. 1511",
+            "technique": "Black chalk heightened with white gray watercolour 24 x 16 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/05apostl.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18673
+        },
+        {
+            "title": "Study of an Apostle",
+            "date": "c. 1511",
+            "technique": "Black chalk heightened with white gray watercolour 24 x 16 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/06apostl.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18674
+        },
+        {
+            "title": "Moses (?)",
+            "date": "c. 1511",
+            "technique": "Black chalk heightened with white gray watercolour 24 x 16 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/07moses.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18675
+        },
+        {
+            "title": "Drapery Study",
+            "date": "c. 1512",
+            "technique": "Black chalk on yellowish paper 131 x 182 mm",
+            "location": "Smith College Museum of Art Northampton",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/08draper.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18676
+        },
+        {
+            "title": "Portrait of Guido Guersi",
+            "date": "1512-14",
+            "technique": "Black chalk heightened with white 341 x 253 mm",
+            "location": "Schlossmuseum Weimar",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/09guersi.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 18677
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1512-14",
+            "technique": "Chalk heightened with white 206 x 152 mm",
+            "location": "Universit\u00e4tsbibliothek Erlangen",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/10self.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 18678
+        },
+        {
+            "title": "Mary with the Child and Young St John",
+            "date": "c. 1515",
+            "technique": "Black chalk on brown-yellowish paper 286 x 366 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/11mary_c.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18679
+        },
+        {
+            "title": "St John in the Forest",
+            "date": "c. 1515",
+            "technique": "Black chalk on yellowish paper heightened with white 368 x 296 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/12stjohn.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18680
+        },
+        {
+            "title": "Kneeling King with Two Angels",
+            "date": "c. 1515",
+            "technique": "Black chalk on brown-yellowish paper 286 x 366 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/13kneeli.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18681
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1514-19",
+            "technique": "Black chalk on brown-yellowish paper 314 x 278 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/2early/14virgin.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18682
+        },
+        {
+            "title": "Mary with the Sun below her Feet",
+            "date": "c. 1520",
+            "technique": "Black chalk on yellow-brownish paper partly covered by yellow paint 325 x 2268 mm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/01marysu.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18683
+        },
+        {
+            "title": "St Dorothy with the Basket of Flowers",
+            "date": "c. 1520",
+            "technique": "Black chalk gray watercolour heightened with white 358 x 256 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/02doroth.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18684
+        },
+        {
+            "title": "Unfinished Study",
+            "date": "c. 1520",
+            "technique": "Black chalk gray watercolour on paper 361 x 215 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/03study.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18685
+        },
+        {
+            "title": "St Catherine",
+            "date": "c. 1520",
+            "technique": "Black chalk on paper heightened with white gray watercolour 316 x 215 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/04cather.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18686
+        },
+        {
+            "title": "Head of a Shouting Man",
+            "date": "c. 1520",
+            "technique": "Black chalk on yellow-brownish paper 276 x 196 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/05shouti.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18687
+        },
+        {
+            "title": "Head of a Young Woman",
+            "date": "c. 1520",
+            "technique": "Black chalk on light yellow paper 277 x196 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/06head_y.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18688
+        },
+        {
+            "title": "Head of a Shouting Man",
+            "date": "c. 1520",
+            "technique": "Black chalk on yellow-brownish paper 244 x 200 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/07head_s.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18689
+        },
+        {
+            "title": "Smiling Woman",
+            "date": "c. 1520",
+            "technique": "Chalk on paper turned yellow 201 x 147 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/08smilin.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18690
+        },
+        {
+            "title": "Man Looking Up",
+            "date": "1523-24",
+            "technique": "Black chalk on yellow-brownish paper 434 x 320 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/09lookin.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18691
+        },
+        {
+            "title": "The Triple Face",
+            "date": "c. 1525",
+            "technique": "Black chalk on brownish paper 272 x 199 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/10triple.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18692
+        },
+        {
+            "title": "Head of an Old Man",
+            "date": "c. 1525",
+            "technique": "Chalk on paper 259 x 190 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/g/grunewal/5graphic/3late/11head_o.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18693
+        },
+        {}
+    ]
+}

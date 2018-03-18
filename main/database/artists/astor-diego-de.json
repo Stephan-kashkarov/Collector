@@ -1,0 +1,29 @@
+{
+    "name": "ASTOR Diego de",
+    "life": "(b. ca. 1587 Mechelen d. ca. 1650 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St Francis and Brother Leo Meditating on Death",
+            "date": "1606",
+            "technique": "Engraving 230 x 148 mm",
+            "location": "Biblioteca Nacional Madrid",
+            "url": "https://www.wga.hu/html/a/astor/francis.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 2800
+        },
+        {
+            "title": "Sts Peter and Paul",
+            "date": "1608",
+            "technique": "Engraving 282 x 247 mm",
+            "location": "Biblioteca Nacional Madrid",
+            "url": "https://www.wga.hu/html/a/astor/pet_paul.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 2801
+        },
+        {}
+    ]
+}

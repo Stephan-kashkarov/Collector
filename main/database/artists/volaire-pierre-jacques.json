@@ -1,0 +1,89 @@
+{
+    "name": "VOLAIRE Pierre-Jacques",
+    "life": "(b. 1729 Toulon d. 1790s Italy)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Mediterranean Coastal Scene",
+            "date": "1765-70",
+            "technique": "Oil on canvas 48 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/volaire/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43495
+        },
+        {
+            "title": "The Eruption of Vesuvius at Night",
+            "date": "-",
+            "technique": "Oil on canvas 149 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/volaire/erupti1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43496
+        },
+        {
+            "title": "Eruption of Vesuvius by Moonlight",
+            "date": "1771",
+            "technique": "Oil on canvas 105 x 205 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/volaire/erupti2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43497
+        },
+        {
+            "title": "The Eruption of the Vesuvius",
+            "date": "1767",
+            "technique": "Oil on canvas 169 x 75 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/volaire/eruptio.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43498
+        },
+        {
+            "title": "View of the Eruption of Mount Vesuvius",
+            "date": "1770s",
+            "technique": "Oil on canvas 56 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/volaire/eruption.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43499
+        },
+        {
+            "title": "Moonlit River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 74 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/volaire/moonlit.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43500
+        },
+        {
+            "title": "Seascape with Fisherman on a Rocky Shore",
+            "date": "1774",
+            "technique": "Pastel on paper stretched on canvas 53 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/volaire/seascap1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43501
+        },
+        {
+            "title": "Ship-Wreck",
+            "date": "c. 1774",
+            "technique": "Pastel on paper stretched on canvas 53 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/volaire/seascap2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43502
+        },
+        {}
+    ]
+}

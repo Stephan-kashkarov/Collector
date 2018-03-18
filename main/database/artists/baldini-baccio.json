@@ -1,0 +1,39 @@
+{
+    "name": "BALDINI Baccio",
+    "life": "(b. 1436 ? d. 1487 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Inferno I",
+            "date": "c. 1481",
+            "technique": "Copper engraving",
+            "location": "Biblioteca Riccardiana Florence",
+            "url": "https://www.wga.hu/html/b/baldini/inferno.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 2990
+        },
+        {
+            "title": "Mercury",
+            "date": "c. 1460",
+            "technique": "Engraving 324 x 220 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/baldini/mercury.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 2991
+        },
+        {
+            "title": "Mercury on a Triumphal Car",
+            "date": "1465",
+            "technique": "Engraving",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/b/baldini/mercury1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 2992
+        },
+        {}
+    ]
+}

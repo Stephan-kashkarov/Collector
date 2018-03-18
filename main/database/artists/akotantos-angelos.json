@@ -1,0 +1,29 @@
+{
+    "name": "AKOTANTOS Angelos",
+    "life": "(died before 1457)",
+    "school": "Greek",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "The Virgin Cardiotissa",
+            "date": "1400-50",
+            "technique": "Tempera and leaf on panel 121 x 965 cm",
+            "location": "Byzantine and Christian Museum Athens",
+            "url": "https://www.wga.hu/html/a/akotanto/cardioti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 180
+        },
+        {
+            "title": "The Congregation of the Archangels",
+            "date": "-",
+            "technique": "Tempera on panel",
+            "location": "Vatopediou Monastery Mount Athos",
+            "url": "https://www.wga.hu/html/a/akotanto/congrega.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 181
+        },
+        {}
+    ]
+}

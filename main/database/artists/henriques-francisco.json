@@ -1,0 +1,29 @@
+{
+    "name": "HENRIQUES Francisco",
+    "life": "(active 1502-1518)",
+    "school": "Portuguese",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Apparition of Christ to Magdalen",
+            "date": "1513-18",
+            "technique": "Oil on canvas 247 x 199 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/h/henrique/appariti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19598
+        },
+        {
+            "title": "The Last Supper",
+            "date": "c. 1508",
+            "technique": "Oil on canvas 121 x 89 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/h/henrique/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19599
+        },
+        {}
+    ]
+}

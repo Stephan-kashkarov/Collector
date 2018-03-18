@@ -1,0 +1,69 @@
+{
+    "name": "CORNELIUS Peter",
+    "life": "(b. 1783 D\u00fcsseldorf d. 1867 Berlin)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Joseph Interpreting Pharaoh's Dream",
+            "date": "1816-17",
+            "technique": "Fresco with tempera 236 x 290 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/c/corneliu/fresco1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9536
+        },
+        {
+            "title": "The Recognition of Joseph by his Brothers",
+            "date": "1816-17",
+            "technique": "Fresco with tempera 236 x 290 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/c/corneliu/fresco2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9537
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "1836-39",
+            "technique": "Fresco",
+            "location": "Ludwigskirche Munich",
+            "url": "https://www.wga.hu/html/c/corneliu/lastjudg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9538
+        },
+        {
+            "title": "The Three Marys at the Tomb",
+            "date": "1815-22",
+            "technique": "Oil on canvas 63 x 75 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/c/corneliu/threemar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9539
+        },
+        {
+            "title": "The Vision of the Rabenstein",
+            "date": "1811",
+            "technique": "Pen drawing with gray ink on thin vellum 393 x 516 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/c/corneliu/yvision.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 9540
+        },
+        {
+            "title": "The Riders of the Apocalypse",
+            "date": "c. 1845",
+            "technique": "Drawing 472 x 588 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/corneliu/zapocaly.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9541
+        },
+        {}
+    ]
+}

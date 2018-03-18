@@ -1,0 +1,69 @@
+{
+    "name": "LAURI Filippo",
+    "life": "(b. 1623 Roma d. 1694 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bacchanal",
+            "date": "1675",
+            "technique": "Oil on canvas 44 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lauri/bacchana.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21605
+        },
+        {
+            "title": "Faun and Cupid in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 37 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lauri/fauncupi.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21606
+        },
+        {
+            "title": "King Midas Judging the Musical Contest between Apollo and Pan",
+            "date": "-",
+            "technique": "Oil on copper 13 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lauri/kingmida.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21607
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "1650s",
+            "technique": "Oil on copper 18 x 29 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/l/lauri/mytholo1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21608
+        },
+        {
+            "title": "Endymion and Selene",
+            "date": "1650s",
+            "technique": "Oil on copper 30 x 24 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/l/lauri/mytholo2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21609
+        },
+        {
+            "title": "Rape of Oreithyia",
+            "date": "-",
+            "technique": "Oil on copper 38 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lauri/mytholo3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21610
+        },
+        {}
+    ]
+}

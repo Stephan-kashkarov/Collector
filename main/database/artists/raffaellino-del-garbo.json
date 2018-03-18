@@ -1,0 +1,59 @@
+{
+    "name": "RAFFAELLINO DEL GARBO",
+    "life": "(b. ca. 1466 Firenze d. 1524 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1510s",
+            "technique": "Oil on panel 58 x 91 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/raffaell/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32747
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1510",
+            "technique": "Oil on wood 292 x 164 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/r/raffaell/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32748
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1495",
+            "technique": "Tempera on poplar panel 42 x 32 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/raffaell/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32749
+        },
+        {
+            "title": "Virgin and Child with the Infant St John the Baptist",
+            "date": "c. 1500",
+            "technique": "Oil on panel diameter 87 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/raffaell/tondo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32750
+        },
+        {
+            "title": "Virgin and Child Enthroned with Sts Mary Magdalene and Catherine",
+            "date": "-",
+            "technique": "Tempera on panel diameter 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/raffaell/tondo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32751
+        },
+        {}
+    ]
+}

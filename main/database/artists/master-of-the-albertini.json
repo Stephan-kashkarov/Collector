@@ -1,0 +1,39 @@
+{
+    "name": "MASTER of the Albertini",
+    "life": "(active 1310s in Siena)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "The Virgin and Child with Six Angels",
+            "date": "1310-15",
+            "technique": "Egg tempera on synthetic support transferred from wood 194 x 171 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/albertin/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24932
+        },
+        {
+            "title": "The Virgin and Child with Six Angels (detail)",
+            "date": "1310-15",
+            "technique": "Egg tempera on synthetic support transferred from wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/albertin/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24933
+        },
+        {
+            "title": "The Virgin and Child with Six Angels (detail)",
+            "date": "1310-15",
+            "technique": "Egg tempera on synthetic support transferred from wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/master/albertin/virgin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24934
+        },
+        {}
+    ]
+}

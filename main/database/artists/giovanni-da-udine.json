@@ -1,0 +1,119 @@
+{
+    "name": "GIOVANNI DA UDINE",
+    "life": "(b. 1487 Udine d. 1564 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Decoration of Cardinal Bibbiena's Loggetta",
+            "date": "1516-17",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/loggetta.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16599
+        },
+        {
+            "title": "Decoration of Cardinal Bibbiena's Loggetta",
+            "date": "1516-17",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/loggettb.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16600
+        },
+        {
+            "title": "View of the Loggia di Raffaello",
+            "date": "1520-21",
+            "technique": "Fresco",
+            "location": "Villa Madama Rome",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/madama.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16601
+        },
+        {
+            "title": "Decoration of the Loggia di Raffaello (detail)",
+            "date": "1520-21",
+            "technique": "Fresco",
+            "location": "Villa Madama Rome",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/madama1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16602
+        },
+        {
+            "title": "Stucco Reliefs in a Pilaster",
+            "date": "1518-19",
+            "technique": "Stucco",
+            "location": "Loggia on the second floor Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/stucco.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16603
+        },
+        {
+            "title": "Study of a Parrot",
+            "date": "1515-20",
+            "technique": "Red chalk and gouache pen and brown ink black chalk and watercolour 300 x 219 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/study1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16604
+        },
+        {
+            "title": "Study of a Parrot and Other Birds",
+            "date": "1515-20",
+            "technique": "Red chalk and gouache pen and brown ink black chalk 300 x 219 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/study2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16605
+        },
+        {
+            "title": "Study of a Flying Sparrow",
+            "date": "1515-20",
+            "technique": "Red chalk and gouache 138 x 168 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/study3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16606
+        },
+        {
+            "title": "Studies of Nuts",
+            "date": "-",
+            "technique": "Brush and wash watercolour 268 x 180 mm",
+            "location": "Moravsk\u00e1 Galerie Brno",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/study4.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16607
+        },
+        {
+            "title": "Decoration of the Stufetta (bathroom) of Clement VII Stufetta",
+            "date": "1527-30",
+            "technique": "Fresco",
+            "location": "Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/stufetta.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16608
+        },
+        {
+            "title": "Venus Ceres and Juno",
+            "date": "1517",
+            "technique": "Fresco",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/g/giovanni/udine/venus_ce.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16609
+        },
+        {}
+    ]
+}

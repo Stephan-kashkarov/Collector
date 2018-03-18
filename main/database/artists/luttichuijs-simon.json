@@ -1,0 +1,79 @@
+{
+    "name": "LUTTICHUIJS Simon",
+    "life": "(b. 1610 London d. 1661 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Breakfast with Ham",
+            "date": "1650s",
+            "technique": "Oil on canvas 74 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/breakfas.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23494
+        },
+        {
+            "title": "Still-Life with Fruit and Roses",
+            "date": "1647-49",
+            "technique": "Oil on canvas 42 x 40 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/still1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23495
+        },
+        {
+            "title": "Still-Life with a Peeled Lemon in a Roemer",
+            "date": "-",
+            "technique": "Oil on canvas 39 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/still2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23496
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on oak panel 39 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/still3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23497
+        },
+        {
+            "title": "Vanitas Still-Life with a Skull",
+            "date": "1635-40",
+            "technique": "Oil on canvas",
+            "location": "Museum of Fine Arts Houston",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/vanitas1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23498
+        },
+        {
+            "title": "Still Life with a Skull",
+            "date": "1635-1640",
+            "technique": "Oil on canvas",
+            "location": "National Museum Gda\u00f1sk",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/vanitas2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23499
+        },
+        {
+            "title": "Still Life with a Skull",
+            "date": "1635-40",
+            "technique": "Oil on canvas",
+            "location": "National Museum Gda\u00f1sk",
+            "url": "https://www.wga.hu/html/l/luttichu/simon/vanitas3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23500
+        },
+        {}
+    ]
+}

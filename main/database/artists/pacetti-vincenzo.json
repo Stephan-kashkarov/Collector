@@ -1,0 +1,39 @@
+{
+    "name": "PACETTI Vincenzo",
+    "life": "(b. 1746 Castel Bolognese d. 1820 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Apollo",
+            "date": "1783-84",
+            "technique": "Marble 120 x 142 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/pacetti/apollo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 30044
+        },
+        {
+            "title": "Jupiter",
+            "date": "1783-84",
+            "technique": "Marble 120 x 142 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/pacetti/mars.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 30045
+        },
+        {
+            "title": "Theseus Contemplating the Dead Sow Phaea",
+            "date": "1783-84",
+            "technique": "Marble",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/pacetti/theseus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 30046
+        },
+        {}
+    ]
+}

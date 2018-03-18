@@ -1,0 +1,29 @@
+{
+    "name": "HEEMSKERK Willem Jacobsz. van",
+    "life": "(b. 1613 Leiden d. 1693 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bottle",
+            "date": "1684",
+            "technique": "Clear dark-green glass silver height 22 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heemskex/bottle.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 19519
+        },
+        {
+            "title": "Dish",
+            "date": "1685",
+            "technique": "Clear glass with diamond-point engraving diameter 32 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/heemskex/dish.html",
+            "form": "glassware",
+            "painting_type": "other",
+            "index": 19520
+        },
+        {}
+    ]
+}

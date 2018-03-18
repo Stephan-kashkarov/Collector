@@ -1,0 +1,59 @@
+{
+    "name": "LORENZO DI NICCOL\u00d2 DI MARTINO",
+    "life": "(active 1392-1412)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1402",
+            "technique": "Tempera and gold on panel 208 x 261 cm",
+            "location": "San Domenico Cortona",
+            "url": "https://www.wga.hu/html/l/lorenzo/niccolo/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23158
+        },
+        {
+            "title": "Virgin Enthroned with Saints",
+            "date": "1404",
+            "technique": "Panels 139 x 52 cm (centre) 110 x 66 cm (sides)",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/l/lorenzo/niccolo/enthrone.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23159
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "-",
+            "technique": "Tempera on panel 79 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/niccolo/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23160
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1400",
+            "technique": "Oil on panel 131 x 70 cm (with frame)",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lorenzo/niccolo/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23161
+        },
+        {
+            "title": "Reliquary with scenes from the legend of St Fina",
+            "date": "c. 1402",
+            "technique": "Wood",
+            "location": "Museo d'Arte Sacra San Gimignano",
+            "url": "https://www.wga.hu/html/l/lorenzo/niccolo/reliquar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23162
+        },
+        {}
+    ]
+}

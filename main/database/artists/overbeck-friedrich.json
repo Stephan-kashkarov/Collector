@@ -1,0 +1,59 @@
+{
+    "name": "OVERBECK Friedrich",
+    "life": "(b. 1789 L\u00fcbeck d. 1869 Roma)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Italia and Germania",
+            "date": "1815-28",
+            "technique": "Oil on canvas 94 x 104 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/o/overbeck/italia1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30017
+        },
+        {
+            "title": "Italia and Germania",
+            "date": "after 1828",
+            "technique": "Oil on canvas 95 x 105 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/o/overbeck/italia2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30018
+        },
+        {
+            "title": "The Siege of Jerusalem",
+            "date": "1823-25",
+            "technique": "Fresco",
+            "location": "Casino Massimo Rome",
+            "url": "https://www.wga.hu/html/o/overbeck/jerusale.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30019
+        },
+        {
+            "title": "Portrait of the Painter Franz Pforr",
+            "date": "c. 1810",
+            "technique": "Oil on canvas 62 x 47 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/o/overbeck/p_pforr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30020
+        },
+        {
+            "title": "Christ Resurrects the Daughter of Jairus",
+            "date": "1815",
+            "technique": "Pen with black ink over pencil watercolour 307 x 373 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/o/overbeck/resurrec.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 30021
+        },
+        {}
+    ]
+}

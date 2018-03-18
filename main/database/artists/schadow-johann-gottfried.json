@@ -1,0 +1,109 @@
+{
+    "name": "SCHADOW Johann Gottfried",
+    "life": "(b. 1764 Berlin d. 1850 Berlin)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Quadriga",
+            "date": "1793",
+            "technique": "Chased copper on wood height 550 cm",
+            "location": "Brandenburg Gate Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/brandenb.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36500
+        },
+        {
+            "title": "Bust of Friderika von Mecklenburg",
+            "date": "1794",
+            "technique": "Terracotta height 53 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/bust1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36501
+        },
+        {
+            "title": "Bust of Friedrich Gilly",
+            "date": "1801",
+            "technique": "Marble height 65 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/bust2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36502
+        },
+        {
+            "title": "Crown Princess Louise and Princess Frederica of Prussia",
+            "date": "1796-97",
+            "technique": "Marble height 172 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/crownpri.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36503
+        },
+        {
+            "title": "Crown Princess Louise and Princess Frederica of Prussia",
+            "date": "1796-97",
+            "technique": "Marble height 172 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/crownprj.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36504
+        },
+        {
+            "title": "Monument of Count von der Mark",
+            "date": "1788-89",
+            "technique": "Marble",
+            "location": "Dorotheenst\u00e4dtische Kirche Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/monument.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36505
+        },
+        {
+            "title": "Monument to General von Zieten",
+            "date": "c. 1794",
+            "technique": "Model height 73 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/monumenu.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36506
+        },
+        {
+            "title": "Reclining Girl",
+            "date": "1826",
+            "technique": "Marble 34 x 95 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/reclinin.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36507
+        },
+        {
+            "title": "Reclining Girl",
+            "date": "1826",
+            "technique": "Marble 34 x 95 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schadow/johann/reclinix.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36508
+        },
+        {
+            "title": "Busts of Henry I (the Fowler) King of the Germans his Son Emperor Otto the Great and Emperor Conrad II (the Salian)",
+            "date": "1830-42",
+            "technique": "Marble",
+            "location": "Valhalla near Regensburg",
+            "url": "https://www.wga.hu/html/s/schadow/johann/valhalla.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36509
+        },
+        {}
+    ]
+}

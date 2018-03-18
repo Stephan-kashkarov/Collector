@@ -1,0 +1,39 @@
+{
+    "name": "LAJOUE Jacques de",
+    "life": "(b. 1686 Paris d. 1761 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Garden View with Fountains",
+            "date": "-",
+            "technique": "Oil on canvas 45 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lajoue/garden.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21393
+        },
+        {
+            "title": "Scene in a Park",
+            "date": "1740s",
+            "technique": "Oil on canvas 95 x 126 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lajoue/scene.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21394
+        },
+        {
+            "title": "Winter",
+            "date": "-",
+            "technique": "Pen and brush Indian ink and watercolour over preparatory pencil drawing 274 x113 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lajoue/winter.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 21395
+        },
+        {}
+    ]
+}

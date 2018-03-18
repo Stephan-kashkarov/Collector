@@ -1,0 +1,239 @@
+{
+    "name": "CLEVE Joos van",
+    "life": "(b. ca. 1485 Antwerpen d. 1540 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1517-18",
+            "technique": "Oil on oak panel 110 x 71 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/cleve/joos/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9078
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1526-28",
+            "technique": "Oil on oak panel 251 x 185 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/cleve/joos/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9079
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1525",
+            "technique": "Oil on panel 86 x 80 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/cleve/joos/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9080
+        },
+        {
+            "title": "The Death of the Virgin",
+            "date": "1520",
+            "technique": "Oil on wood 132 x 154 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/c/cleve/joos/death_m.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9081
+        },
+        {
+            "title": "Death of the Virgin",
+            "date": "1515",
+            "technique": "Oak 63 x 1235 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/c/cleve/joos/death_w.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9082
+        },
+        {
+            "title": "Portrait of a Man and Woman",
+            "date": "1520 and 1527",
+            "technique": "Oil on wood 57 x 42 cm (each)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cleve/joos/double.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9083
+        },
+        {
+            "title": "Portrait of Eleonora Queen of France",
+            "date": "c. 1530",
+            "technique": "Oil on wood 355 x 295 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cleve/joos/eleonora.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9084
+        },
+        {
+            "title": "The Holy Family",
+            "date": "-",
+            "technique": "Oil on canvas transferred from wood 43 x 32 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/cleve/joos/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9085
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1515",
+            "technique": "Panel 53 x 40 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/cleve/joos/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9086
+        },
+        {
+            "title": "The Infants Christ and Saint John the Baptist Embracing",
+            "date": "1525-30",
+            "technique": "Oil on panel 75 x 58 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/cleve/joos/infants.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9087
+        },
+        {
+            "title": "Altarpiece of the Lamentation",
+            "date": "1520-25",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cleve/joos/lament.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9088
+        },
+        {
+            "title": "Altarpiece of the Lamentation (central)",
+            "date": "1520-25",
+            "technique": "Oil on wood 145 x 206 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cleve/joos/lament0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9089
+        },
+        {
+            "title": "Altarpiece of the Lamentation (detail)",
+            "date": "-",
+            "technique": "Oil on wood 45 x 206 cm (entire predella)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cleve/joos/lament1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9090
+        },
+        {
+            "title": "Altarpiece of the Lamentation (detail)",
+            "date": "-",
+            "technique": "Oil on wood 45 x 206 cm (entire predella)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cleve/joos/lament2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9091
+        },
+        {
+            "title": "The Suicide of Lucretia",
+            "date": "1520-25",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cleve/joos/lucretia.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9092
+        },
+        {
+            "title": "Man with the Rosary",
+            "date": "c. 1520",
+            "technique": "Oil on wood 58 x 41 cm",
+            "location": "National Museum Belgrade",
+            "url": "https://www.wga.hu/html/c/cleve/joos/man_rosa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9093
+        },
+        {
+            "title": "Portrait of Anthonis van Hilten",
+            "date": "-",
+            "technique": "Oil on oak 40 x 29 cm",
+            "location": "Rijksmuseum Twenthe Enschede",
+            "url": "https://www.wga.hu/html/c/cleve/joos/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9094
+        },
+        {
+            "title": "Portrait of Agniete van den Rijne",
+            "date": "-",
+            "technique": "Oil on oak 40 x 29 cm",
+            "location": "Rijksmuseum Twenthe Enschede",
+            "url": "https://www.wga.hu/html/c/cleve/joos/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9095
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1519",
+            "technique": "Oil on panel 38 x 27 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/cleve/joos/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9096
+        },
+        {
+            "title": "St Anne with the Virgin and Child and St Joachim",
+            "date": "-",
+            "technique": "Wood 109 x 74 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/c/cleve/joos/st_anne.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9097
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Wood 53 x 42 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/cleve/joos/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9098
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1515-20",
+            "technique": "Oil on panel 51 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cleve/joos/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9099
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1535",
+            "technique": "Wood 755 x 545 cm",
+            "location": "Landesmuseum Oldenburg",
+            "url": "https://www.wga.hu/html/c/cleve/joos/virgin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9100
+        },
+        {}
+    ]
+}

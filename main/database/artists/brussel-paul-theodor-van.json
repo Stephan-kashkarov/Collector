@@ -1,0 +1,29 @@
+{
+    "name": "BRUSSEL Paul Theodor van",
+    "life": "(b. 1754 Zuid-Polsbroek d. 1795 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "1794",
+            "technique": "Oil on mahogany panel 80 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brussel/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6745
+        },
+        {
+            "title": "Still-Life with Peaches Grapes Plums and Melon",
+            "date": "1793",
+            "technique": "Oil on canvas 43 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brussel/stillifx.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6746
+        },
+        {}
+    ]
+}

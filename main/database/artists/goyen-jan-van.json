@@ -1,0 +1,539 @@
+{
+    "name": "GOYEN Jan van",
+    "life": "(b. 1596 Leiden d. 1656 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Sandy Road with a Farmhouse",
+            "date": "1627",
+            "technique": "Oil on wood 31 x 41 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/1/1sandy.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17904
+        },
+        {
+            "title": "Resting at a Tavern",
+            "date": "1628-30",
+            "technique": "Oil on oak panel 59 x 87 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/g/goyen/1/2resting.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 17905
+        },
+        {
+            "title": "Dune Landscape",
+            "date": "1631",
+            "technique": "Oil on panel 40 x 63 cm",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/g/goyen/1/duneland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17906
+        },
+        {
+            "title": "Dunes",
+            "date": "1629",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goyen/1/dunes.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17907
+        },
+        {
+            "title": "Farmyard with Haystack",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/g/goyen/1/farm_hay.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17908
+        },
+        {
+            "title": "Haymaking",
+            "date": "1630",
+            "technique": "Oil on wood 315 x 505 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/g/goyen/1/haymakin.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17909
+        },
+        {
+            "title": "Landscape with Dunes",
+            "date": "1630-35",
+            "technique": "Oil on panel 54 x 375 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/goyen/1/lan_dune.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17910
+        },
+        {
+            "title": "Landscape with a Peasant Cottage",
+            "date": "1631",
+            "technique": "Oil on panel 29 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goyen/1/land_cot.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17911
+        },
+        {
+            "title": "Landscape with Oak",
+            "date": "1634",
+            "technique": "Oil on canvas 87 x 105 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goyen/1/land_oak.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17912
+        },
+        {
+            "title": "Marine Landscape with Fishermen",
+            "date": "-",
+            "technique": "Oil on wood 361 x 322 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/goyen/1/marine.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17913
+        },
+        {
+            "title": "Peasant Huts with a Sweep Well",
+            "date": "1633",
+            "technique": "Oil on oak 55 x 80 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/g/goyen/1/peas_hut.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17914
+        },
+        {
+            "title": "The Pelkus Gate near Utrecht",
+            "date": "1646",
+            "technique": "Oil on wood 37 x 57 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/1/pelkus.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17915
+        },
+        {
+            "title": "The Pelkus Gate",
+            "date": "1645-50",
+            "technique": "Black chalk and gray wash 106 x 165 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/pelkus1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 17916
+        },
+        {
+            "title": "River Landscape",
+            "date": "1631",
+            "technique": "Oil on oak panel 30 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/river_l1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17917
+        },
+        {
+            "title": "River Landscape with a Medieval Fortification",
+            "date": "1638",
+            "technique": "Oil on oak panel 28 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/river_l2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17918
+        },
+        {
+            "title": "River Landscape with a Town and Fortified Tower",
+            "date": "1633",
+            "technique": "Oil on panel 31 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/river_l3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17919
+        },
+        {
+            "title": "River Landscape with a Windmill and a Ruined Castle",
+            "date": "1644",
+            "technique": "Oil on canvas 97 x 133 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/goyen/1/river_mc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17920
+        },
+        {
+            "title": "Skaters in front of a Medieval Castle",
+            "date": "1637",
+            "technique": "Oil on wood 42 x 57 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/goyen/1/skater.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17921
+        },
+        {
+            "title": "Landscape with Skaters",
+            "date": "1643",
+            "technique": "Oil on oak 23 x 32 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goyen/1/skaters.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17922
+        },
+        {
+            "title": "Landscape with Two Oaks",
+            "date": "1641",
+            "technique": "Oil on canvas 89 x 111 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/g/goyen/1/two_oaks.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17923
+        },
+        {
+            "title": "The Valkhof at Nijmegen",
+            "date": "1640s",
+            "technique": "Oil on panel 38 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/valkhof.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17924
+        },
+        {
+            "title": "View of Leiden",
+            "date": "1643",
+            "technique": "Oil on wood 398 x 599 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/goyen/1/view_lei.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17925
+        },
+        {
+            "title": "View of Dordrecht",
+            "date": "1647",
+            "technique": "Oil on canvas 95 x 146 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/1/viewdord.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17926
+        },
+        {
+            "title": "A View on the Maas near Dordrecht",
+            "date": "1643",
+            "technique": "Oil on canvas 1015 x 1835 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goyen/1/viewmaas.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17927
+        },
+        {
+            "title": "View of the Merwede before Dordrecht",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/g/goyen/1/viewmerw.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17928
+        },
+        {
+            "title": "View of Nijmegen",
+            "date": "1649",
+            "technique": "Oil on oak 68 x 98 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goyen/1/viewnijm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17929
+        },
+        {
+            "title": "Village at the River",
+            "date": "1636",
+            "technique": "Wood 395 x 60 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/goyen/1/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17930
+        },
+        {
+            "title": "Beach at Scheveningen",
+            "date": "1646",
+            "technique": "Oil on canvas 921 x 108 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/g/goyen/2/beach_sc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17931
+        },
+        {
+            "title": "A Beach with Fishing Boats",
+            "date": "c. 1653",
+            "technique": "Oil on wood 28 x 43 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/beach1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17932
+        },
+        {
+            "title": "A Beach with Fishing Boats (detail)",
+            "date": "c. 1653",
+            "technique": "Oil on wood",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/beach2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17933
+        },
+        {
+            "title": "Castle by a River",
+            "date": "1647",
+            "technique": "Oil on wood 66 x 97 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/castle.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17934
+        },
+        {
+            "title": "Country House near the Water",
+            "date": "1646",
+            "technique": "Oil on wood 37 x 33 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/country.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17935
+        },
+        {
+            "title": "Horse Cart on a Bridge",
+            "date": "1648",
+            "technique": "Oil on wood 37 x 66 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/g/goyen/2/h_bridge.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17936
+        },
+        {
+            "title": "Haarlemmer Meer",
+            "date": "1656",
+            "technique": "Oil on canvas. 39 x 54 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/g/goyen/2/haar_sea.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17937
+        },
+        {
+            "title": "View of the Haarlemmermeer",
+            "date": "1646",
+            "technique": "Oil on panel 35 x 51 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/haarlemm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17938
+        },
+        {
+            "title": "The Rhine at Arnhem",
+            "date": "1645",
+            "technique": "Oil on panel 65 x 97 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/g/goyen/2/rhine.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17939
+        },
+        {
+            "title": "River Landscape with a Cattle-Ferry",
+            "date": "1654",
+            "technique": "Oil on canvas 66 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/2/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17940
+        },
+        {
+            "title": "River Scene",
+            "date": "1652",
+            "technique": "Oil on canvas 667 x 98 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/g/goyen/2/river_sc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17941
+        },
+        {
+            "title": "River View with Church at Warmond",
+            "date": "1644",
+            "technique": "Oil on panel 40 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/2/rivervie.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17942
+        },
+        {
+            "title": "Seashore at Scheveningen",
+            "date": "1645",
+            "technique": "Oil on wood 53 x 71 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goyen/2/scheveni.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17943
+        },
+        {
+            "title": "View of the City of Arnhem",
+            "date": "1646",
+            "technique": "Oil on panel 65 x 96 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/g/goyen/2/view_arn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17944
+        },
+        {
+            "title": "View of The Hague from the Northwest",
+            "date": "1647",
+            "technique": "Oil on wood 66 x 96 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goyen/2/view_hax.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17945
+        },
+        {
+            "title": "View of Dordrecht",
+            "date": "1644-53",
+            "technique": "Oil on canvas 97 x 148 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/g/goyen/2/viewdord.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17946
+        },
+        {
+            "title": "The Meuse at Dordrecht with the Groote Kerk",
+            "date": "1647",
+            "technique": "Oil on wood 74 x 108 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/goyen/2/viewdorx.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17947
+        },
+        {
+            "title": "View of Leiden from the Northeast",
+            "date": "1650",
+            "technique": "Oil on panel 65 x 975 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/g/goyen/2/viewleid.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17948
+        },
+        {
+            "title": "View of Dordrecht from the Oude Maas",
+            "date": "1644",
+            "technique": "Oil on canvas 1035 x 1335 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/goyen/2/viewoude.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17949
+        },
+        {
+            "title": "Winter on the River",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/g/goyen/2/w_river.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17950
+        },
+        {
+            "title": "Windmill by a River",
+            "date": "1642",
+            "technique": "Oil on panel 294 x 363 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/goyen/2/windmill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17951
+        },
+        {
+            "title": "Winter Scene near The Hague",
+            "date": "1645",
+            "technique": "Oil on panel 52 x 70 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goyen/2/winter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17952
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "1627",
+            "technique": "Oil on oak panel 27 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/2/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17953
+        },
+        {
+            "title": "View of Delft from the North",
+            "date": "1653",
+            "technique": "Black chalk brush and gray ink 117 x 210 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/g/goyen/2/z_view.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 17954
+        },
+        {
+            "title": "Estuary Landscape",
+            "date": "1647",
+            "technique": "Oil on canvas 50 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/2/zestuar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17955
+        },
+        {
+            "title": "An Estuary Scene",
+            "date": "1652-54",
+            "technique": "Oil on panel 53 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goyen/2/zestuary.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 17956
+        },
+        {}
+    ]
+}

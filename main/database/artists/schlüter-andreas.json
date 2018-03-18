@@ -1,0 +1,39 @@
+{
+    "name": "SCHL\u00dcTER Andreas",
+    "life": "(b. ca. 1660 Hamburg d. 1714 St. Petersburg)",
+    "school": "German",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Prince Elector Frederick William the Great",
+            "date": "1689-1703",
+            "technique": "Bronze height 290 cm",
+            "location": "Schloss Charlottenburg Berlin",
+            "url": "https://www.wga.hu/html/s/schluter/frederic.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36646
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1698",
+            "technique": "Photo",
+            "location": "Stadtschloss Berlin",
+            "url": "https://www.wga.hu/html/s/schluter/schloss1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36647
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1698",
+            "technique": "Photo",
+            "location": "Stadtschloss Berlin",
+            "url": "https://www.wga.hu/html/s/schluter/schloss2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 36648
+        },
+        {}
+    ]
+}

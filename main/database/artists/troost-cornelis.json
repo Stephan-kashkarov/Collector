@@ -1,0 +1,69 @@
+{
+    "name": "TROOST Cornelis",
+    "life": "(b. 1696 Amsterdam d. 1750 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Three Governors of the Surgeons Guild Amsterdam",
+            "date": "1731",
+            "technique": "Oil on canvas 153 x 187 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/troost/3governo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40174
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1716",
+            "technique": "Oil on canvas 88 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/troost/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40175
+        },
+        {
+            "title": "Portrait of a Music Lover",
+            "date": "1736",
+            "technique": "Oil on panel 72 x 57 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/troost/portmusi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40176
+        },
+        {
+            "title": "Rumor erat in Casa (There was a Commotion in the House)",
+            "date": "1740",
+            "technique": "Pastel and gouache on paper 57 x 73 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/t/troost/rumor_er.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40177
+        },
+        {
+            "title": "Love Scene",
+            "date": "1736",
+            "technique": "Oil on panel 45 x 34 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/troost/scene.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40178
+        },
+        {
+            "title": "Jeronimus Tonneman and his Son",
+            "date": "1736",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/t/troost/tonneman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40179
+        },
+        {}
+    ]
+}

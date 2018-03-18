@@ -1,0 +1,29 @@
+{
+    "name": "CRAEN Laurens",
+    "life": "(b. 1620 Den Haag d. 1663 Middelburg)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life with Landscape View",
+            "date": "c. 1648",
+            "technique": "Oil on oak panel 63 x 85 cm",
+            "location": "Art Gallery of New South Wales Sidney",
+            "url": "https://www.wga.hu/html/c/craen/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 10054
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 29 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/craen/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 10055
+        },
+        {}
+    ]
+}

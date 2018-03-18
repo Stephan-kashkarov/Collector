@@ -1,0 +1,69 @@
+{
+    "name": "BOULLE Andr\u00e9-Charles",
+    "life": "(b. 1642 Paris d. 1732 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Cabinet",
+            "date": "c. 1675",
+            "technique": "Oak with other sorts of wood 189 x 129 x 59 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/boulle/cabinet.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5745
+        },
+        {
+            "title": "Clock face",
+            "date": "1715",
+            "technique": "Gilt bronze with white enamel plaques diameter 43 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/b/boulle/clock_fa.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5746
+        },
+        {
+            "title": "Pedestal clock",
+            "date": "1720-25",
+            "technique": "Oak veneered with engraved brass and tortoise-shell height 125 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/b/boulle/p_clock.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5747
+        },
+        {
+            "title": "Decorative panel",
+            "date": "1695-1700",
+            "technique": "Veneered on oak with Boulle marquetry",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/b/boulle/panel.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5748
+        },
+        {
+            "title": "Bureau Plat",
+            "date": "1710s",
+            "technique": "Gilt bronze mounted brass and ebony Boulle marquetry 80 x 182 x 89 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boulle/plat.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5749
+        },
+        {
+            "title": "Wardrobe and clock",
+            "date": "c. 1715",
+            "technique": "Veneered on oak with ebony and marquetry height 302 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/b/boulle/wardrobe.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 5750
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "KILIAN Georg Christoph",
+    "life": "(b. 1709 Augsburg d. 1781 Augsburg)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Four Ages of Man: The Old Age",
+            "date": "c. 1735",
+            "technique": "Mezzotint 336 x 440 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/k/kilian/georg/4agesman.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 21040
+        },
+        {
+            "title": "Portrait of Georg Kilian painter and engraver in Augsburg",
+            "date": "1770",
+            "technique": "Etching 203 x 152 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/k/kilian/georg/georgkil.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 21041
+        },
+        {}
+    ]
+}

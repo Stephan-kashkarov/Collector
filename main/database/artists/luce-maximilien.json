@@ -1,0 +1,69 @@
+{
+    "name": "LUCE Maximilien",
+    "life": "(b. 1858 Paris 1941 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Paris Seen from Montmartre",
+            "date": "1887",
+            "technique": "Oil on canvas 54 x 63 cm",
+            "location": "Mus\u00e9e du Petit Palais Geneva",
+            "url": "https://www.wga.hu/html/l/luce/01luce.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23427
+        },
+        {
+            "title": "Notre-Dame",
+            "date": "1900",
+            "technique": "Oil on canvas 81 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luce/02luce.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23428
+        },
+        {
+            "title": "The Port of Rotterdam",
+            "date": "1900",
+            "technique": "Oil on canvas 74 x 100 cm",
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "url": "https://www.wga.hu/html/l/luce/031port.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23429
+        },
+        {
+            "title": "Notre-Dame",
+            "date": "1901",
+            "technique": "Oil on canvas 85 x 79 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luce/03luce.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23430
+        },
+        {
+            "title": "La Sainte-Chapelle Paris",
+            "date": "1901",
+            "technique": "Oil on canvas 63 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luce/04luce.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23431
+        },
+        {
+            "title": "A Street in Paris in May 1871",
+            "date": "May-03",
+            "technique": "Oil on canvas 151 x 225 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/l/luce/05luce.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23432
+        },
+        {}
+    ]
+}

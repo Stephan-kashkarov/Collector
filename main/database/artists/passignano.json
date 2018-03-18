@@ -1,0 +1,39 @@
+{
+    "name": "PASSIGNANO",
+    "life": "(b. 1559 Passignano d. 1638 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Resurrection",
+            "date": "1600-25",
+            "technique": "Oil on canvas 112 x 70 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/p/passigna/resurrec.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30484
+        },
+        {
+            "title": "Recognition of the Body of Sant'Antonino",
+            "date": "1589",
+            "technique": "Fresco",
+            "location": "Church of San Marco Florence",
+            "url": "https://www.wga.hu/html/p/passigna/salviati.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30485
+        },
+        {
+            "title": "Michelangelo Showing Pope Paul IV the Model for St. Peter's",
+            "date": "1820s",
+            "technique": "Oil on canvas",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/p/passigna/stpeters.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30486
+        },
+        {}
+    ]
+}

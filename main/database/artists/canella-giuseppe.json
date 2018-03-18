@@ -1,0 +1,49 @@
+{
+    "name": "CANELLA Giuseppe",
+    "life": "(b. 1788 Verona d. 1847 Firenze)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Pont Neuf Paris",
+            "date": "1830",
+            "technique": "Oil on board 12 x 15 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canella/paris1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7319
+        },
+        {
+            "title": "Palais Brongniart Place de la Bourse",
+            "date": "1836",
+            "technique": "Oil on board 13 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canella/paris2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7320
+        },
+        {
+            "title": "The Invalides Paris",
+            "date": "1830",
+            "technique": "Oil on board 12 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canella/paris3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7321
+        },
+        {
+            "title": "Farewell Leaving the Doge's Palace Venice",
+            "date": "c. 1810",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/canella/venice.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 7322
+        },
+        {}
+    ]
+}

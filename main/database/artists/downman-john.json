@@ -1,0 +1,39 @@
+{
+    "name": "DOWNMAN John",
+    "life": "(b. 1750 Ruabon d. 1824 Wrexham)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Benjamin West",
+            "date": "1777",
+            "technique": "Black white and red chalk with stump on laid paper 225 x 177 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/downman/ben_west.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 12076
+        },
+        {
+            "title": "The Children of Frederick and Ellen Ray of Abingdon",
+            "date": "1795",
+            "technique": "Watercolour with pencil drawing 432 x 508 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/downman/children.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 12077
+        },
+        {
+            "title": "Ms. Downman",
+            "date": "1778",
+            "technique": "Black white and red chalk on brown laid paper 228 x 194 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/downman/portwife.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 12078
+        },
+        {}
+    ]
+}

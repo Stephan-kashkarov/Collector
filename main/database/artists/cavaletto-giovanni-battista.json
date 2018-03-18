@@ -1,0 +1,29 @@
+{
+    "name": "CAVALETTO Giovanni Battista",
+    "life": "(active 1486-1523 in Bologna)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Psalter",
+            "date": "1527-29",
+            "technique": "Manuscript (Ms. 600 597 2 volumes)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/c/cavalett/psalter.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 8219
+        },
+        {
+            "title": "Psalter",
+            "date": "1527-29",
+            "technique": "Manuscript (Ms. 600 597 2 volumes)",
+            "location": "Biblioteca Classense Ravenna",
+            "url": "https://www.wga.hu/html/c/cavalett/psalter1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 8220
+        },
+        {}
+    ]
+}

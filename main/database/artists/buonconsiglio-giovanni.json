@@ -1,0 +1,39 @@
+{
+    "name": "BUONCONSIGLIO Giovanni",
+    "life": "(b. ca. 1465 Vicenza d. ca. 1535 Venezia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Madonna and Child with Sts Jerome and Catherine",
+            "date": "1521-25",
+            "technique": "Oil on panel 41 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/buoncons/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6829
+        },
+        {
+            "title": "Sts Benedict Thecla and Damian",
+            "date": "1497",
+            "technique": "Oil on panel 82 x 68 cm",
+            "location": "Galleria dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/buoncons/saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6830
+        },
+        {
+            "title": "St Sebastian with St Roch and St Lawrence",
+            "date": "1500",
+            "technique": "Oil on canvas",
+            "location": "San Giacomo dall'Orio Venice",
+            "url": "https://www.wga.hu/html/b/buoncons/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6831
+        },
+        {}
+    ]
+}

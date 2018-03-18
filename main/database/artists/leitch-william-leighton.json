@@ -1,0 +1,29 @@
+{
+    "name": "LEITCH William Leighton",
+    "life": "(b. 1804 Glasgow d. 1883 London)",
+    "school": "Scottish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Villa Fountain",
+            "date": "-",
+            "technique": "Oil on canvas 86 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leitch/fountain.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21858
+        },
+        {
+            "title": "Italian Landscape",
+            "date": "1872",
+            "technique": "Watercolour",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/l/leitch/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 21859
+        },
+        {}
+    ]
+}

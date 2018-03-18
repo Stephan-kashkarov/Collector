@@ -1,0 +1,29 @@
+{
+    "name": "SANCTIS Francesco de",
+    "life": "(b. 1679 Roma d. 1731 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1723-26",
+            "technique": "Photo",
+            "location": "Trinit\u00e0 dei Pellegrini Rome",
+            "url": "https://www.wga.hu/html/s/sanctis/pellegri.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36137
+        },
+        {
+            "title": "General view",
+            "date": "1723-26",
+            "technique": "Photo",
+            "location": "Spanish Steps Rome",
+            "url": "https://www.wga.hu/html/s/sanctis/spanstep.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36138
+        },
+        {}
+    ]
+}

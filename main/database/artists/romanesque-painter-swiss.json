@@ -1,0 +1,39 @@
+{
+    "name": "ROMANESQUE PAINTER Swiss",
+    "life": "(active 1130s)",
+    "school": "Swiss",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Wooden ceiling (detail)",
+            "date": "1130s",
+            "technique": "Painted wood",
+            "location": "St Martin Zillis",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c1/40swiss.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35006
+        },
+        {
+            "title": "Wooden ceiling (detail)",
+            "date": "1130s",
+            "technique": "Painted wood",
+            "location": "St Martin Zillis",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c1/41swiss.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35007
+        },
+        {
+            "title": "Stoning of St Stephen",
+            "date": "12th century",
+            "technique": "Fresco",
+            "location": "Monastery Church of St John M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c1/42swiss.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35008
+        },
+        {}
+    ]
+}

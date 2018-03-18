@@ -1,0 +1,29 @@
+{
+    "name": "UGOLINO-LORENZETTI",
+    "life": "(active 1340-60 Siena)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Assumption of Mary",
+            "date": "1340s",
+            "technique": "Panel",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/u/ugolino/lorenzet/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40447
+        },
+        {
+            "title": "Calvary",
+            "date": "1340-60",
+            "technique": "Tempera on panel 92 x 56 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/u/ugolino/lorenzet/calvary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40448
+        },
+        {}
+    ]
+}

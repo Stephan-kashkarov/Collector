@@ -1,0 +1,29 @@
+{
+    "name": "MIERIS Frans van the Younger",
+    "life": "(b. 1689 Leiden d. 1763 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Fishmonger",
+            "date": "1738",
+            "technique": "Oil on panel 22 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mieris/frans2/fishmong.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27090
+        },
+        {
+            "title": "Old Peasant Holding a Jug",
+            "date": "1731",
+            "technique": "Oil on panel 17 x 14 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mieris/frans2/peasant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27091
+        },
+        {}
+    ]
+}

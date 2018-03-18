@@ -1,0 +1,29 @@
+{
+    "name": "BELLA Stefano della",
+    "life": "(b. 1610 Firenze d. 1664 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Nocturnal Carousel in the Amphitheatre of the Boboli Gardens",
+            "date": "1637",
+            "technique": "Oil on touchstone 44 x 59 cm",
+            "location": "Alberto Bruschi Collection Grassina",
+            "url": "https://www.wga.hu/html/b/bella/carousel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3707
+        },
+        {
+            "title": "Marriage of Cosimo III and Margherita Luisa d'Orl\u00e9ans",
+            "date": "1661",
+            "technique": "Etching",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bella/marriage.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 3708
+        },
+        {}
+    ]
+}

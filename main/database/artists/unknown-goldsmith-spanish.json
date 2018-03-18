@@ -1,0 +1,59 @@
+{
+    "name": "UNKNOWN GOLDSMITH Spanish",
+    "life": "(active 11th century)",
+    "school": "Spanish",
+    "timeframe": "1001-1050",
+    "art": [
+        {
+            "title": "Chalice",
+            "date": "11th century",
+            "technique": "Bronze",
+            "location": "Treasury of San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/11c/07s_1000.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40727
+        },
+        {
+            "title": "Altarpiece (details)",
+            "date": "1175-80",
+            "technique": "Copper gilded champlev\u00e9 and cloisonn\u00e9",
+            "location": "San Miguel in Excelsis Pamplona",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/12c/25s_1100.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40728
+        },
+        {
+            "title": "\"\"Urna\"\" of St Dominic (detail)\"1160s\"Copper gilded champlev\u00e9",
+            "date": "Museo Provincial Burgos",
+            "technique": "https://www.wga.hu/html/zzdeco/1gold/12c/26s_1100.html",
+            "location": "metalwork",
+            "url": "religious",
+            "form": "Spanish",
+            "painting_type": "1151-1200",
+            "index": 40729
+        },
+        {
+            "title": "Altarpiece",
+            "date": "1325-80",
+            "technique": "Silver-gilt and chased",
+            "location": "Cathedral Gerona",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/14c/11s_1300.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 40730
+        },
+        {
+            "title": "Bottle in the Shape of a Heart",
+            "date": "c. 1580",
+            "technique": "Tortoiseshell silver height 26 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/16c/20s_1550.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 40731
+        },
+        {}
+    ]
+}

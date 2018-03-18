@@ -1,0 +1,49 @@
+{
+    "name": "WEINBRENNER Johann Jakob Friedrich",
+    "life": "(b. 1766 Karlsruhe d. 1826 Karlsruhe)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1806-26",
+            "technique": "Photo",
+            "location": "Market Place Karlsruhe",
+            "url": "https://www.wga.hu/html/w/weinbren/market1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43863
+        },
+        {
+            "title": "General view",
+            "date": "1806-26",
+            "technique": "Photo",
+            "location": "Marktplatz Karlsruhe",
+            "url": "https://www.wga.hu/html/w/weinbren/market2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43864
+        },
+        {
+            "title": "Exterior view",
+            "date": "1806-26",
+            "technique": "Photo",
+            "location": "Rathaus Karlsruhe",
+            "url": "https://www.wga.hu/html/w/weinbren/rathaus.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43865
+        },
+        {
+            "title": "Exterior view",
+            "date": "1806-26",
+            "technique": "Photo",
+            "location": "Evangelische Stadtkirche Karlsruhe",
+            "url": "https://www.wga.hu/html/w/weinbren/stadtkir.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43866
+        },
+        {}
+    ]
+}

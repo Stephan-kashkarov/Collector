@@ -1,0 +1,59 @@
+{
+    "name": "WILLAERTS Abraham",
+    "life": "(b. 1603 Utrecht d. 1669 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Cornelis Tromp in Roman Costume",
+            "date": "1673",
+            "technique": "Oil on canvas 40 x 33 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/willaert/abraham/c_tromp.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44172
+        },
+        {
+            "title": "Ships off Rocky Coast",
+            "date": "1647",
+            "technique": "Oil on canvas 130 x 191 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/w/willaert/abraham/shiprock.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44173
+        },
+        {
+            "title": "Ships Moored Off a Rocky Coastline",
+            "date": "-",
+            "technique": "Oil on canvas laid on panel 59 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/abraham/ships.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44174
+        },
+        {
+            "title": "Stormy Sea",
+            "date": "1626",
+            "technique": "Oil on panel 85 x 114 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/willaert/abraham/stormy.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44175
+        },
+        {
+            "title": "A Dutch Warship off a Harbour Firing a Salute",
+            "date": "1640",
+            "technique": "Oil on oak panel 46 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/abraham/warship.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44176
+        },
+        {}
+    ]
+}

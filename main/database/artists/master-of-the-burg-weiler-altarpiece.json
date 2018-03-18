@@ -1,0 +1,39 @@
+{
+    "name": "MASTER of the Burg Weiler Altarpiece",
+    "life": "(active c. 1470 in Swabia)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Burg Weiler Altarpiece (interior)",
+            "date": "c. 1470",
+            "technique": "Oil and gold on fir panel 174 x 153 cm (central panel) 174 x 66 cm (each wing)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/burgweil/burgwei.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24958
+        },
+        {
+            "title": "The Burg Weiler Altarpiece (exterior)",
+            "date": "c. 1470",
+            "technique": "Oil and gold on fir panel 174 x 66 cm (each wing)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/burgweil/burgwei1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24959
+        },
+        {
+            "title": "Virgin and Child with Saints",
+            "date": "c. 1470",
+            "technique": "Oil and gold on fir panel 174 x 153 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/burgweil/burgwei2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24960
+        },
+        {}
+    ]
+}

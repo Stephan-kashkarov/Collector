@@ -1,0 +1,49 @@
+{
+    "name": "NALDINI Giovan Battista",
+    "life": "(b. ca. 1537 Fiesole d. 1591 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Bathsheba",
+            "date": "1570s",
+            "technique": "Oil on canvas 182 x 150 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/naldini/bathsheb.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29341
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1560s",
+            "technique": "Oil on copper diameter 14 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naldini/carrying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29342
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "1572-73",
+            "technique": "Oil on poplar panel 124 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naldini/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29343
+        },
+        {
+            "title": "Palazzo Branconio dell'Aquila Rome",
+            "date": "c. 1560",
+            "technique": "Pen drawing",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/n/naldini/palazzo.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 29344
+        },
+        {}
+    ]
+}

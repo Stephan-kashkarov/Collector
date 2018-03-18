@@ -1,0 +1,69 @@
+{
+    "name": "RICHTER Adrian Ludwig",
+    "life": "(b. 1803 Dresden d. 1884 Dresden)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Crossing the Elbe at Aussig",
+            "date": "1837",
+            "technique": "Oil on canvas 117 x 157 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/richtera/crossing.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34352
+        },
+        {
+            "title": "The Fuschlsee with the Schafberg Mountain in the Salzkammergut",
+            "date": "1823",
+            "technique": "Watercolour pen and brown ink pencil 183 x 240 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/richtera/fuschlse.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 34353
+        },
+        {
+            "title": "Bridal Procession in a Spring Landscape",
+            "date": "1847",
+            "technique": "Oil on canvas 93 x 150 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/richtera/processi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34354
+        },
+        {
+            "title": "Pool in the Riesengebirge",
+            "date": "1839",
+            "technique": "Oil on canvas 63 x 88 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/r/richtera/riesenge.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34355
+        },
+        {
+            "title": "Genoveva in the Forest Seclusion",
+            "date": "1841",
+            "technique": "Oil on canvas 117 x 101 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/r/richtera/seclusio.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34356
+        },
+        {
+            "title": "The Watzman",
+            "date": "c. 1824",
+            "technique": "Oil on canvas 121 x 94 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/r/richtera/watzman.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34357
+        },
+        {}
+    ]
+}

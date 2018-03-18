@@ -1,0 +1,59 @@
+{
+    "name": "MULIER Pieter the Younger",
+    "life": "(b. 1637 Haarlem d. 1701 Milano)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bucolic Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 94 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mulier/younger/bucoli_l.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29161
+        },
+        {
+            "title": "Shipping off a Rocky Coast in Storm",
+            "date": "-",
+            "technique": "Oil on canvas 27 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mulier/younger/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29162
+        },
+        {
+            "title": "Landscape with Figures in a Storm",
+            "date": "1709",
+            "technique": "Oil on canvas 44 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mulier/younger/storm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29163
+        },
+        {
+            "title": "Storm at Sea",
+            "date": "-",
+            "technique": "Oil on canvas 288 x 158 cm",
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "url": "https://www.wga.hu/html/m/mulier/younger/stormsea.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29164
+        },
+        {
+            "title": "Storm in the Sea",
+            "date": "1690",
+            "technique": "Oil on canvas 101 x 147 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mulier/younger/stormseb.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29165
+        },
+        {}
+    ]
+}

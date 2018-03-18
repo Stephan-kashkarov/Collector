@@ -1,0 +1,39 @@
+{
+    "name": "SUSTRIS Friedrich",
+    "life": "(b. ca. 1540 Venezia d. 1599 M\u00fcnchen)",
+    "school": "Dutch",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Birth of a Child",
+            "date": "1563-67",
+            "technique": "Oil on canvas 76 x 97 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/sustris/friedric/birth.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38361
+        },
+        {
+            "title": "Apollo Pursues Daphne",
+            "date": "1586-88",
+            "technique": "Pen black ink grey wash on brownish paper 216 x 248 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/s/sustris/friedric/daphne.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 38362
+        },
+        {
+            "title": "Offering of the Old Testament and the Holy Trinity",
+            "date": "c. 1587",
+            "technique": "Pen grey ink washed heightened with white pasted on two pieces 477 x 303 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/sustris/friedric/offering.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 38363
+        },
+        {}
+    ]
+}

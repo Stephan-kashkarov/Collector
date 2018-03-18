@@ -1,0 +1,49 @@
+{
+    "name": "MINIATURIST Frankish",
+    "life": "(active in 1270s)",
+    "school": "Other",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "Frankish Psalter",
+            "date": "1279",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/08_1251.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27479
+        },
+        {
+            "title": "Frankish Psalter",
+            "date": "1279",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/09_1251.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27480
+        },
+        {
+            "title": "Frankish Psalter",
+            "date": "1279",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/10_1251.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27481
+        },
+        {
+            "title": "Frankish Psalter",
+            "date": "1279",
+            "technique": "Manuscript",
+            "location": "Cathedral Library Esztergom",
+            "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/11_1251.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 27482
+        },
+        {}
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "name": "PERINO DEL VAGA",
+    "life": "(b. 1501 Firenze d. 1547 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Child",
+            "date": "1534",
+            "technique": "Oil on panel transferred to canvas 274 x 221 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/perino/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30688
+        },
+        {
+            "title": "The Fall of the Giants",
+            "date": "1531-33",
+            "technique": "Fresco 640 x 920 cm",
+            "location": "Palazzo dei Principe Genoa",
+            "url": "https://www.wga.hu/html/p/perino/f_giants.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30689
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1540",
+            "technique": "Oil on panel diameter 85 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/p/perino/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30690
+        },
+        {
+            "title": "Lamentation",
+            "date": "1530s",
+            "technique": "Oil on panel 197 x 145 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/perino/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30691
+        },
+        {
+            "title": "General view",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30692
+        },
+        {
+            "title": "View of the ceiling vault",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30693
+        },
+        {
+            "title": "View of the end wall",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30694
+        },
+        {
+            "title": "View of the entrance wall",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30695
+        },
+        {
+            "title": "The Archangel Michael",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30696
+        },
+        {
+            "title": "Hope Venus and the Martyrdom of St Paul",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30697
+        },
+        {
+            "title": "The Marriage of Cupid and Psyche",
+            "date": "1545-47",
+            "technique": "Fresco",
+            "location": "Sala Paolina Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/p/perino/paolina7.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30698
+        },
+        {
+            "title": "Alexander the Great Battles the Indian King Porus",
+            "date": "1545-47",
+            "technique": "Pen and brown wash 195 x 285 mm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/p/perino/paolina8.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 30699
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1520-10",
+            "technique": "Fresco",
+            "location": "Sala dei Pontefici Vatican Palace Rome",
+            "url": "https://www.wga.hu/html/p/perino/pontefic.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30700
+        },
+        {
+            "title": "The Fall of the Giants",
+            "date": "1531-33",
+            "technique": "Fresco 640 x 920 cm",
+            "location": "Palazzo dei Principe Genoa",
+            "url": "https://www.wga.hu/html/p/perino/principe.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30701
+        },
+        {
+            "title": "The Visitation",
+            "date": "c. 1520",
+            "technique": "Fresco",
+            "location": "Santissima Trinit\u00e0 dei Monti Rome",
+            "url": "https://www.wga.hu/html/p/perino/trinita.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30702
+        },
+        {
+            "title": "Shipwreck of Aeneas",
+            "date": "c. 1530",
+            "technique": "Pen and black ink brushed gray wash on paper with gray wash 186 x 349 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perino/z_aeneas.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 30703
+        },
+        {
+            "title": "North Fa\u00e7ade of the Villa Doria",
+            "date": "c. 1532",
+            "technique": "Ink on paper 294 x 362 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/perino/z_facade.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30704
+        },
+        {
+            "title": "Sketch for The Visitation",
+            "date": "-",
+            "technique": "Pen ink and brown wash 155 x 180 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/perino/zorator1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30705
+        },
+        {
+            "title": "Sketch for St John the Baptist Preaching",
+            "date": "-",
+            "technique": "Pen ad brown ink 222 x 233 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/p/perino/zorator2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30706
+        },
+        {
+            "title": "Sketch for the Feast of Herod",
+            "date": "-",
+            "technique": "Pen ad brown ink 420 x 290 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/perino/zorator3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30707
+        },
+        {}
+    ]
+}

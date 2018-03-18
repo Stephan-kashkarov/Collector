@@ -1,0 +1,109 @@
+{
+    "name": "COELLO Claudio",
+    "life": "(b. 1642 Madrid d. 1693 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Triumph of St Augustine",
+            "date": "1664",
+            "technique": "Oil on canvas 271 x 203 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coello/augustin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9240
+        },
+        {
+            "title": "King Charles II",
+            "date": "1675-80",
+            "technique": "Oil on canvas 66 x 56 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coello/charles2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9241
+        },
+        {
+            "title": "St Dominic of Guzman",
+            "date": "1685",
+            "technique": "Oil on canvas 240 x 160 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coello/dominic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9242
+        },
+        {
+            "title": "St Dominic",
+            "date": "1691",
+            "technique": "Oil on canvas 201 x 127 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/coello/dominic1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9243
+        },
+        {
+            "title": "Holy Family",
+            "date": "-",
+            "technique": "Oil on canvas 248 x 169 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/coello/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9244
+        },
+        {
+            "title": "St John of God with an Angel",
+            "date": "-",
+            "technique": "Oil on canvas 104 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coello/john_god.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9245
+        },
+        {
+            "title": "Portrait of Teresa Francisca Mudarra y Herrera",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 2105 x 1455 cm",
+            "location": "Museo de Bellas Artes Bilbao",
+            "url": "https://www.wga.hu/html/c/coello/mudarra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9246
+        },
+        {
+            "title": "La Sagrada Forma",
+            "date": "1685-90",
+            "technique": "Oil on canvas approx. 500 x 300 cm",
+            "location": "Sacristy Monasterio de San Lorenzo El Escorial",
+            "url": "https://www.wga.hu/html/c/coello/sagradaf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9247
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1680s",
+            "technique": "Oil on canvas 52 x 44 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/coello/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9248
+        },
+        {
+            "title": "Virgin and Child Adored by St Louis King of France",
+            "date": "1665-68",
+            "technique": "Oil on canvas 229 x 249 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coello/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9249
+        },
+        {}
+    ]
+}

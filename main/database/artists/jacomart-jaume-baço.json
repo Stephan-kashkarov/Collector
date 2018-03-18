@@ -1,0 +1,29 @@
+{
+    "name": "JACOMART Jaume Ba\u00e7o",
+    "life": "(b. 1411 Valencia d. 1461 Valencia)",
+    "school": "Spanish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "The Last Supper",
+            "date": "1450s",
+            "technique": "Panel",
+            "location": "Cathedral Museum Segorbe",
+            "url": "https://www.wga.hu/html/j/jacomart/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20455
+        },
+        {
+            "title": "Retable of St Anne",
+            "date": "c. 1447",
+            "technique": "Panel",
+            "location": "Convent J\u00e1tiva",
+            "url": "https://www.wga.hu/html/j/jacomart/st_anne.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20456
+        },
+        {}
+    ]
+}

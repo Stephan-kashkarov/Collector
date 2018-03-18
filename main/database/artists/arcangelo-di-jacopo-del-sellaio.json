@@ -1,0 +1,59 @@
+{
+    "name": "ARCANGELO DI JACOPO DEL SELLAIO",
+    "life": "(b. 1477/78 Firenze d. 1530 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Annunciation",
+            "date": "-",
+            "technique": "Tempera on panel 131 x 79 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1156
+        },
+        {
+            "title": "St Jerome and St Mary of Egypt",
+            "date": "-",
+            "technique": "Panel 32 x 11 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/diptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1157
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Tempera on panel diameter 85 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1158
+        },
+        {
+            "title": "Penitent St Jerome in the Wilderness",
+            "date": "-",
+            "technique": "Oil on poplar panel 22 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1159
+        },
+        {
+            "title": "Virgin and Child Enthroned with Two Dominican Saints and Two Angels",
+            "date": "-",
+            "technique": "Tempera on panel 38 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1160
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "CUYLENBORCH Abraham van",
+    "life": "(b. ca. 1610 Utrecht d. 1658 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Bacchus and Nymphs in Landscape",
+            "date": "c. 1645",
+            "technique": "Oil on panel. 58 x 72 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/cuylenbo/bacchus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10589
+        },
+        {
+            "title": "Bacchus and Nymphs in Landscape (detail)",
+            "date": "c. 1645",
+            "technique": "Oil on panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/cuylenbo/bacchus1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10590
+        },
+        {
+            "title": "Diana Bathing",
+            "date": "-",
+            "technique": "Oil on panel. 59 x 70 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/cuylenbo/dianabat.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10591
+        },
+        {
+            "title": "Diana and Her Nymphs",
+            "date": "1656",
+            "technique": "Oil on panel 35 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cuylenbo/diananym.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 10592
+        },
+        {}
+    ]
+}

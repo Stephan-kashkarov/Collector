@@ -1,0 +1,89 @@
+{
+    "name": "FRANCESCO DI ANTONIO DEL CHIERICO",
+    "life": "(b. 1433 d. 1484 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Prayer Book of Lorenzo de' Medici",
+            "date": "1458",
+            "technique": "Manuscript (Ashb. 1574)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/f/franceso/05/1prayer1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 14235
+        },
+        {
+            "title": "Prayer Book of Lorenzo de' Medici",
+            "date": "1458",
+            "technique": "Manuscript (Ashb. 1574)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/f/franceso/05/1prayer2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 14236
+        },
+        {
+            "title": "Petrarch: Triumphs Songs",
+            "date": "1456",
+            "technique": "Manuscript (Ms. ital. 545) 270 x 170 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/f/franceso/05/2petrarc.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14237
+        },
+        {
+            "title": "Poggio Bracciolini: De varietate fortunae",
+            "date": "c. 1470",
+            "technique": "Manuscript (Ms. Urb. lat. 224)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/franceso/05/3poggio.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14238
+        },
+        {
+            "title": "Cristoforo Landino: Disputationes camaldulenses",
+            "date": "1472-73",
+            "technique": "Manuscript (Urb. lat. 508)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/franceso/05/4landino.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14239
+        },
+        {
+            "title": "Urbino Bible",
+            "date": "1476-78",
+            "technique": "Manuscript (Ms. Urb. lat. 1 2 2 volumes) 596 x 442 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/franceso/05/5urbino1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 14240
+        },
+        {
+            "title": "Urbino Bible",
+            "date": "1476-78",
+            "technique": "Manuscript (Ms. Urb. lat. 1 2 2 volumes)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/f/franceso/05/5urbino2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 14241
+        },
+        {
+            "title": "Psalter",
+            "date": "-",
+            "technique": "Illumination on parchment",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/franceso/05/6psalter.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 14242
+        },
+        {}
+    ]
+}

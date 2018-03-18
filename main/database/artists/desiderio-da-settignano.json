@@ -1,0 +1,129 @@
+{
+    "name": "DESIDERIO DA SETTIGNANO",
+    "life": "(b. ca. 1428 Settignano d. 1464 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Christ Child (?)",
+            "date": "c. 1460",
+            "technique": "Marble 305 x 265 x 163 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/d/desideri/ch_child.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 11449
+        },
+        {
+            "title": "Laughing Boy",
+            "date": "1460-64",
+            "technique": "Marble height 33 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/d/desideri/laughing.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 11450
+        },
+        {
+            "title": "A Little Boy",
+            "date": "c. 1460",
+            "technique": "Marble height 26 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/d/desideri/little_b.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 11451
+        },
+        {
+            "title": "Tomb of Carlo Marsuppini",
+            "date": "1453-64",
+            "technique": "White and coloured marbles height 613 cm",
+            "location": "Santa Croce Florence",
+            "url": "https://www.wga.hu/html/d/desideri/marsuppi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11452
+        },
+        {
+            "title": "Tomb of Carlo Marsuppini (detail)",
+            "date": "1453-64",
+            "technique": "Marble",
+            "location": "Santa Croce Florence",
+            "url": "https://www.wga.hu/html/d/desideri/marsuppx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11453
+        },
+        {
+            "title": "Meeting of Christ and St John the Baptist as Youth",
+            "date": "1453-64",
+            "technique": "Marble relief diameter 50 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/desideri/meeting.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11454
+        },
+        {
+            "title": "Portrait of Marietta Strozzi",
+            "date": "c. 1460",
+            "technique": "Marble height 53 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/d/desideri/strozzi.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 11455
+        },
+        {
+            "title": "Tabernacle",
+            "date": "c. 1460",
+            "technique": "Marble 447 x 140 cm",
+            "location": "San Lorenzo Florence",
+            "url": "https://www.wga.hu/html/d/desideri/tabernac.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11456
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "c. 1460",
+            "technique": "Marble",
+            "location": "San Lorenzo Florence",
+            "url": "https://www.wga.hu/html/d/desideri/tabernad.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11457
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1461",
+            "technique": "Marble",
+            "location": "San Lorenzo Florence",
+            "url": "https://www.wga.hu/html/d/desideri/tabernae.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11458
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1450",
+            "technique": "Marble 61 x 36 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/d/desideri/virgin_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11459
+        },
+        {
+            "title": "Mary Magdalene",
+            "date": "1464",
+            "technique": "Painted wood",
+            "location": "Santa Trinita Florence",
+            "url": "https://www.wga.hu/html/d/desideri/zmarymag.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11460
+        },
+        {}
+    ]
+}

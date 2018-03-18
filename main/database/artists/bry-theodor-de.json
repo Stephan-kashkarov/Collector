@@ -1,0 +1,59 @@
+{
+    "name": "BRY Theodor de",
+    "life": "(b. 1528 Li\u00e8ge d. 1598 Frankfurt)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Self-Portrait",
+            "date": "1597",
+            "technique": "Engraving 185 x 160 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/bry/1selfpor.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 6772
+        },
+        {
+            "title": "Battle scene",
+            "date": "1557",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/bry/battlesc.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 6773
+        },
+        {
+            "title": "Naval Combat",
+            "date": "1592",
+            "technique": "Coloured engraving",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bry/colour1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 6774
+        },
+        {
+            "title": "Scene of Cannibalism",
+            "date": "1592",
+            "technique": "Coloured engraving",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bry/colour2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 6775
+        },
+        {
+            "title": "Massacre of the Indians",
+            "date": "1594",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/bry/indians.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 6776
+        },
+        {}
+    ]
+}

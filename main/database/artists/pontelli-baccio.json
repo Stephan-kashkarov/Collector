@@ -1,0 +1,29 @@
+{
+    "name": "PONTELLI Baccio",
+    "life": "(b. 1450 Firenze d. after 1492 Urbino)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Santa Maria del Popolo: Fa\u00e7ade",
+            "date": "1472-80",
+            "technique": "Photo",
+            "location": "Piazza del Popolo Rome",
+            "url": "https://www.wga.hu/html/p/pontelli/popolo.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31930
+        },
+        {
+            "title": "Exterior of the Sistine Chapel",
+            "date": "1475-83",
+            "technique": "Photo",
+            "location": "Cappella Sistina Vatican",
+            "url": "https://www.wga.hu/html/p/pontelli/sistina.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31931
+        },
+        {}
+    ]
+}

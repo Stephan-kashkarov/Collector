@@ -1,0 +1,29 @@
+{
+    "name": "PARASOLE Elisabetta Catanea",
+    "life": "(b. ca. 1565 Roma d. 1625 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Il Teatro delle nobili et virtuose donne",
+            "date": "1620",
+            "technique": "Printed book folio size 220 x 280 mm",
+            "location": "Houghton Library Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/p/parasole/teatro1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30372
+        },
+        {
+            "title": "Il Teatro delle nobili et virtuose donne",
+            "date": "1620",
+            "technique": "Printed book folio size 220 x 280 mm",
+            "location": "Houghton Library Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/p/parasole/teatro2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30373
+        },
+        {}
+    ]
+}

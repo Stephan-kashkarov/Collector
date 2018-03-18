@@ -1,0 +1,79 @@
+{
+    "name": "ROTTENHAMMER Hans I",
+    "life": "(b. 1564 M\u00fcnchen d. 1625 Augsburg)",
+    "school": "German",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1608",
+            "technique": "Oil on wood 110 x 76 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/r/rottenha/adorati1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35294
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1608",
+            "technique": "Oil on copper 36 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rottenha/adorati2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35295
+        },
+        {
+            "title": "Allegory of the Arts",
+            "date": "-",
+            "technique": "Oil on copper 28 x 21 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/rottenha/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35296
+        },
+        {
+            "title": "Feast of the Gods",
+            "date": "1600",
+            "technique": "Oil on copper 34 x 45 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rottenha/feastgod.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35297
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1590s",
+            "technique": "Oil on copper 32 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rottenha/judgment.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35298
+        },
+        {
+            "title": "The Judgment of Paris (detail)",
+            "date": "1590s",
+            "technique": "Oil on copper",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rottenha/judgmenx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35299
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "1616",
+            "technique": "Oil on copper oval 28 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rottenha/venus_ad.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35300
+        },
+        {}
+    ]
+}

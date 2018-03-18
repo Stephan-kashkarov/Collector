@@ -1,0 +1,79 @@
+{
+    "name": "BERENGUER DE MONTAGUT",
+    "life": "(active 2nd half of 14th century in Catalonia)",
+    "school": "Catalan",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1329-84",
+            "technique": "Photo",
+            "location": "Santa Mar\u00eda del Mar Barcelona",
+            "url": "https://www.wga.hu/html/b/berengue/barcelo1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4154
+        },
+        {
+            "title": "Interior view",
+            "date": "1329-84",
+            "technique": "Photo",
+            "location": "Santa Mar\u00eda del Mar Barcelona",
+            "url": "https://www.wga.hu/html/b/berengue/barcelo2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 4155
+        },
+        {
+            "title": "Interior view",
+            "date": "1329-84",
+            "technique": "Photo",
+            "location": "Santa Mar\u00eda del Mar Barcelona",
+            "url": "https://www.wga.hu/html/b/berengue/barcelo3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 4156
+        },
+        {
+            "title": "Exterior view",
+            "date": "1300-69",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Palma de Mallorca",
+            "url": "https://www.wga.hu/html/b/berengue/mallorc1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4157
+        },
+        {
+            "title": "Exterior view",
+            "date": "1300-69",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Palma de Mallorca",
+            "url": "https://www.wga.hu/html/b/berengue/mallorc2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4158
+        },
+        {
+            "title": "Exterior view",
+            "date": "1300-69",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Palma de Mallorca",
+            "url": "https://www.wga.hu/html/b/berengue/mallorc3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4159
+        },
+        {
+            "title": "Interior view",
+            "date": "1300-69",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Palma de Mallorca",
+            "url": "https://www.wga.hu/html/b/berengue/mallorc4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 4160
+        },
+        {}
+    ]
+}

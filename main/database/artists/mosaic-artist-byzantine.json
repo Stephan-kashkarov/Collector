@@ -1,0 +1,29 @@
+{
+    "name": "MOSAIC ARTIST Byzantine",
+    "life": "(active 11th century in Torcello)",
+    "school": "Other",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Last Judgment",
+            "date": "11th century",
+            "technique": "Mosaic",
+            "location": "Santa Maria Assunta Torcello",
+            "url": "https://www.wga.hu/html/zgothic/mosaics/8/1torcel3.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 28934
+        },
+        {
+            "title": "Salvator Mundi",
+            "date": "1100-1150",
+            "technique": "Mosaic",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/zgothic/mosaics/8/4byzant.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 28935
+        },
+        {}
+    ]
+}

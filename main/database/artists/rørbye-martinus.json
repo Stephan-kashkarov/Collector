@@ -1,0 +1,49 @@
+{
+    "name": "R\u00d8RBYE Martinus",
+    "life": "(b. 1803 Drammen d. 1848 K\u00f8benhavn)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Tower of the Winds and the Acropolis in Athens",
+            "date": "1839",
+            "technique": "Oil on canvas 60 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rorbye/athens.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35096
+        },
+        {
+            "title": "The Prison of Copenhagen",
+            "date": "1831",
+            "technique": "Oil on canvas 48 x 63 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/rorbye/prison.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35097
+        },
+        {
+            "title": "View from the Artist's Window",
+            "date": "c. 1825",
+            "technique": "Oil on canvas 38 x 30 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/rorbye/window.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 35098
+        },
+        {
+            "title": "View from the Artist's Window",
+            "date": "c. 1825",
+            "technique": "Oil on canvas 38 x 30 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/rorbye/window1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35099
+        },
+        {}
+    ]
+}

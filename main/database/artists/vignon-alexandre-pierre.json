@@ -1,0 +1,29 @@
+{
+    "name": "VIGNON Alexandre-Pierre",
+    "life": "(b. 1763 Paris d. 1828 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1807-42",
+            "technique": "Photo",
+            "location": "Church of the Madeleine Paris",
+            "url": "https://www.wga.hu/html/v/vignon_p/madelei1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43203
+        },
+        {
+            "title": "Interior view",
+            "date": "1807-42",
+            "technique": "Photo",
+            "location": "Church of the Madeleine Paris",
+            "url": "https://www.wga.hu/html/v/vignon_p/madelei2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 43204
+        },
+        {}
+    ]
+}

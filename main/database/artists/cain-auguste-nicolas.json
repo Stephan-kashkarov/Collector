@@ -1,0 +1,29 @@
+{
+    "name": "CAIN Auguste Nicolas",
+    "life": "(b. 1822 Paris d. 1894 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Pheasants",
+            "date": "c. 1860",
+            "technique": "Sand cast bronze 11 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cain/pheasant.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 7005
+        },
+        {
+            "title": "Rooster",
+            "date": "c. 1860",
+            "technique": "Sand cast bronze height 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cain/rooster.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 7006
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "MIJ Hieronymus van der",
+    "life": "(b. 1687 Leiden d. 1761 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Allegorical Portrait of the Composer Anton Wilhelm Solnitz",
+            "date": "1743",
+            "technique": "Oil on panel 19 x 15 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mij/composer.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27140
+        },
+        {
+            "title": "Fish Sellers in The Hague",
+            "date": "1712",
+            "technique": "Oil on canvas 65 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mij/fishsell.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27141
+        },
+        {
+            "title": "Young Girl Selling Oranges",
+            "date": "1750",
+            "technique": "Oil on panel 30 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mij/girlsell.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27142
+        },
+        {
+            "title": "Portrait of David van Royen",
+            "date": "c. 1735",
+            "technique": "Oil on panel 51 x 46 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/m/mij/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 27143
+        },
+        {}
+    ]
+}

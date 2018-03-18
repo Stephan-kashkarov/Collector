@@ -1,0 +1,29 @@
+{
+    "name": "L\u00c9PICI\u00c9 Fran\u00e7ois-Bernard",
+    "life": "(b. 1698 Paris d. 1755 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Monument to Mignard",
+            "date": "1743",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/l/lepicie/francois/mignard.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 22154
+        },
+        {
+            "title": "La Maitresse d'\u00c9cole",
+            "date": "1740",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lepicie/francois/schoolmi.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 22155
+        },
+        {}
+    ]
+}

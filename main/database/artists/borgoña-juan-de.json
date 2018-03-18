@@ -1,0 +1,29 @@
+{
+    "name": "BORGO\u00d1A Juan de",
+    "life": "(active from 1495 Toledo d. 1535 Toledo)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Birth of the Virgin",
+            "date": "1509-11",
+            "technique": "Fresco",
+            "location": "Chapter room Cathedral Toledo",
+            "url": "https://www.wga.hu/html/b/borgona/birth_vi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5103
+        },
+        {
+            "title": "Lady with a Hare",
+            "date": "-",
+            "technique": "Tempera and oil on wood 415 x 303 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/b/borgona/ladyhare.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5104
+        },
+        {}
+    ]
+}

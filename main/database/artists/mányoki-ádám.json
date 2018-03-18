@@ -1,0 +1,39 @@
+{
+    "name": "M\u00c1NYOKI \u00c1d\u00e1m",
+    "life": "(b. 1673 Szokolya d. 1757 Dresden)",
+    "school": "Hungarian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Self-portrait",
+            "date": "1711",
+            "technique": "Oil on canvas 87 x 615 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/m/manyoki/1self_p.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 24165
+        },
+        {
+            "title": "Portrait of Prince Ferenc R\u00e1k\u00f3czi II",
+            "date": "1724",
+            "technique": "Oil on canvas 775 x 625 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/m/manyoki/2rakoczi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 24166
+        },
+        {
+            "title": "Portrait of a Polish Man",
+            "date": "-",
+            "technique": "Oil on canvas 92 x 74 cm",
+            "location": "D\u00e9ri Museum Debrecen",
+            "url": "https://www.wga.hu/html/m/manyoki/polish.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 24167
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "BEMBO Bonifazio",
+    "life": "(active in Brescia and Cremona 1444-1477)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Portraits of Francesco Sforza and Bianca Maria Sforza",
+            "date": "c. 1460",
+            "technique": "Tempera on canvas 49 x 31 cm (each)",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/psforza.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4015
+        },
+        {
+            "title": "Portrait of Francesco Sforza",
+            "date": "c. 1460",
+            "technique": "Tempera on canvas 49 x 31 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/psforza1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4016
+        },
+        {
+            "title": "Portrait of Bianca Maria Sforza",
+            "date": "c. 1460",
+            "technique": "Tempera on canvas 49 x 31 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/psforza2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4017
+        },
+        {
+            "title": "Triptych (open)",
+            "date": "c. 1460",
+            "technique": "Oil on poplar panel 69 x 35 cm (each wing)",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/triptyc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4018
+        },
+        {
+            "title": "Triptych (closed)",
+            "date": "c. 1460",
+            "technique": "Oil on poplar panel 69 x 35 cm (each wing)",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/triptyc2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4019
+        },
+        {
+            "title": "Vaulting decoration",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/b/bembo/bonifazi/vaulting.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 4020
+        },
+        {}
+    ]
+}

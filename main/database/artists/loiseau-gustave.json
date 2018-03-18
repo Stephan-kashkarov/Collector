@@ -1,0 +1,59 @@
+{
+    "name": "LOISEAU Gustave",
+    "life": "(b. 1865 Paris 1935 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Banks of the Seine",
+            "date": "1902",
+            "technique": "Oil on canvas 65 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loiseau/banksein.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22807
+        },
+        {
+            "title": "Cape Fr\u00e9hel and \"\"La Teignouse\"\" Cliffs\"1906\"Oil on canvas 60 x 73 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/l/loiseau/frehel.html",
+            "location": "painting",
+            "url": "landscape",
+            "form": "French",
+            "painting_type": "1851-1900",
+            "index": 22808
+        },
+        {
+            "title": "The Hamlet of Chaponval",
+            "date": "1908",
+            "technique": "Oil on canvas 55 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loiseau/hamletch.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22809
+        },
+        {
+            "title": "Orchard in Spring",
+            "date": "1899-1900",
+            "technique": "Oil on canvas 38 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loiseau/orchard.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22810
+        },
+        {
+            "title": "Tournedos-sur-Seine Snow Frost Sun",
+            "date": "1899-1900",
+            "technique": "Oil on canvas 55 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loiseau/snow_sun.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22811
+        },
+        {}
+    ]
+}

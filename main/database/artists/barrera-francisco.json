@@ -1,0 +1,49 @@
+{
+    "name": "BARRERA Francisco",
+    "life": "(b. 1595 Madrid d. 1658 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Month of May",
+            "date": "1640-45",
+            "technique": "Oil on canvas 102 x 155 cm",
+            "location": "Slovensk\u00e1 N\u00e1rodn\u00e1 Gal\u00e9ria Bratislava",
+            "url": "https://www.wga.hu/html/b/barrera/monthmay.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3246
+        },
+        {
+            "title": "Still-Life with Animals and Fruit",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 95 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barrera/stil_ani.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3247
+        },
+        {
+            "title": "Still-Life",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 104 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barrera/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3248
+        },
+        {
+            "title": "Still-Life with Flowers and Fruit",
+            "date": "1643",
+            "technique": "Oil on canvas 635 x 945 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barrera/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3249
+        },
+        {}
+    ]
+}

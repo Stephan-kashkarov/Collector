@@ -1,0 +1,59 @@
+{
+    "name": "ALLORI Cristofano",
+    "life": "(b. 1577 Firenze d. 1621 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1613",
+            "technique": "Oil on canvas 1204 x 1003 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 348
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1615-17",
+            "technique": "Oil on canvas 139 x 116 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_h.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 349
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1615-17",
+            "technique": "Oil on canvas 139 x 116 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_k.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 350
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1610-12",
+            "technique": "Oil on canvas 142 x 107 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_p.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 351
+        },
+        {
+            "title": "Judith with the Head of Holofernes (detail)",
+            "date": "1610-12",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_r.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 352
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "ROBERTS Piercy",
+    "life": "(active 1795-1825 in London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Caricature Shop of Piercy Roberts",
+            "date": "1801",
+            "technique": "Hand-coloured etching 265 x 315 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/robertsp/carishop.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 34700
+        },
+        {
+            "title": "John Bull and His Friends Commemorating the Peace",
+            "date": "c. 1801",
+            "technique": "Hand-coloured etching 255 x 330 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/robertsp/johnbull.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 34701
+        },
+        {
+            "title": "Napoleon and Pitt Observing Each Other",
+            "date": "c. 1809",
+            "technique": "Coloured engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/r/robertsp/napoleon.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 34702
+        },
+        {}
+    ]
+}

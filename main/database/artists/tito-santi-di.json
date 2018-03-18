@@ -1,0 +1,59 @@
+{
+    "name": "TITO Santi di",
+    "life": "(b. 1536 Sansepolcro d. 1602 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of Henry IV of France",
+            "date": "1600",
+            "technique": "Oil on canvas 67 x 53 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/t/tito/santi/henry4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39551
+        },
+        {
+            "title": "Portrait of the Young Maria de' Medici",
+            "date": "1590s",
+            "technique": "Oil on canvas 61 x 45 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/t/tito/santi/medici1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39552
+        },
+        {
+            "title": "Portrait of Maria de' Medici",
+            "date": "c. 1601",
+            "technique": "Oil on canvas 192 x 109 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/t/tito/santi/medici2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39553
+        },
+        {
+            "title": "Portrait of a Girl",
+            "date": "-",
+            "technique": "Oil on panel 59 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tito/santi/portgirl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39554
+        },
+        {
+            "title": "Vision of St Thomas Aquinas",
+            "date": "1593",
+            "technique": "Oil on panel 362 x 233 cm",
+            "location": "San Marco Florence",
+            "url": "https://www.wga.hu/html/t/tito/santi/stthomas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39555
+        },
+        {}
+    ]
+}

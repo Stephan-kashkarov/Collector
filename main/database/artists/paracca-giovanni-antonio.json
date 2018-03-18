@@ -1,0 +1,29 @@
+{
+    "name": "PARACCA Giovanni Antonio",
+    "life": "(d. ca. 1584 Genova)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Statue of Sixtus V",
+            "date": "1591",
+            "technique": "Marble",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/p/paracca/sixtus_v.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 30370
+        },
+        {
+            "title": "Sixtus V's Temporal Goverment with Justice and Peace",
+            "date": "1591",
+            "technique": "Marble",
+            "location": "Cappella Sistina Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/p/paracca/sixtus_y.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 30371
+        },
+        {}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "POOL Matthys",
+    "life": "(b. 1676 Amsterdam d. ca. 1732 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Holy Family with a Dove",
+            "date": "-",
+            "technique": "Etching 229 x 283 mm",
+            "location": "Art Collection University of Li\u00e8ge Li\u00e8ge",
+            "url": "https://www.wga.hu/html/p/pool/holyfami.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 32046
+        },
+        {
+            "title": "Leda and the Swan",
+            "date": "1727",
+            "technique": "Engraving 103 x 80 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pool/ledaswan.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 32047
+        },
+        {
+            "title": "Mars",
+            "date": "1727",
+            "technique": "Engraving",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/pool/mars.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 32048
+        },
+        {
+            "title": "Mars",
+            "date": "1727",
+            "technique": "Engraving",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/pool/mars1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 32049
+        },
+        {}
+    ]
+}

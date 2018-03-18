@@ -1,0 +1,29 @@
+{
+    "name": "SOLARI Guiniforte",
+    "life": "(b. 1429 Milano d. 1481 Milano)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Small cloister",
+            "date": "1462",
+            "technique": "-",
+            "location": "Certosa Pavia",
+            "url": "https://www.wga.hu/html/s/solari/guinifor/certosa1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 37570
+        },
+        {
+            "title": "Ceiling of the church's transept",
+            "date": "1450",
+            "technique": "-",
+            "location": "Certosa Pavia",
+            "url": "https://www.wga.hu/html/s/solari/guinifor/certosa2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 37571
+        },
+        {}
+    ]
+}

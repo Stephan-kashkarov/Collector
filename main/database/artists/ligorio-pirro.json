@@ -1,0 +1,59 @@
+{
+    "name": "LIGORIO Pirro",
+    "life": "(b. ca. 1500 Napoli d. 1583 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "View of the Piazza Ovale",
+            "date": "1560",
+            "technique": "Photo",
+            "location": "Casina Pio IV Rome",
+            "url": "https://www.wga.hu/html/l/ligorio/casina.html",
+            "form": "architecture",
+            "painting_type": "landscape",
+            "index": 22375
+        },
+        {
+            "title": "Exterior view",
+            "date": "1560",
+            "technique": "Photo",
+            "location": "Casina Pio IV Rome",
+            "url": "https://www.wga.hu/html/l/ligorio/casina1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 22376
+        },
+        {
+            "title": "Neptune Fountain and Water Organ",
+            "date": "1560-69",
+            "technique": "Photo",
+            "location": "Gardens at the Villa d'Este Tivoli",
+            "url": "https://www.wga.hu/html/l/ligorio/neptune1.html",
+            "form": "architecture",
+            "painting_type": "mythological",
+            "index": 22377
+        },
+        {
+            "title": "Neptune Fountain",
+            "date": "1560-69",
+            "technique": "Photo",
+            "location": "Gardens at the Villa d'Este Tivoli",
+            "url": "https://www.wga.hu/html/l/ligorio/neptune2.html",
+            "form": "architecture",
+            "painting_type": "mythological",
+            "index": 22378
+        },
+        {
+            "title": "Dance of Salome",
+            "date": "c. 1544",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/l/ligorio/oratory.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22379
+        },
+        {}
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "FERG Franz de Paula",
+    "life": "(b. 1689 Wien d. 1740 London)",
+    "school": "Austrian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Classical Landscape",
+            "date": "-",
+            "technique": "Oil on copper 22 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/classic1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13649
+        },
+        {
+            "title": "Classical Landscape",
+            "date": "-",
+            "technique": "Oil on copper 22 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/classic2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13650
+        },
+        {
+            "title": "Italianate Landscape with Figures by Classical Ruins",
+            "date": "-",
+            "technique": "Oil on copper 32 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13651
+        },
+        {
+            "title": "Rest",
+            "date": "-",
+            "technique": "Oil on panel 17 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/rest.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13652
+        },
+        {
+            "title": "Italianate Village Landscape",
+            "date": "-",
+            "technique": "Oil on copper 34 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/village1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13653
+        },
+        {
+            "title": "Italianate Village Landscape",
+            "date": "-",
+            "technique": "Oil on copper 34 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferg/village2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13654
+        },
+        {}
+    ]
+}

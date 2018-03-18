@@ -1,0 +1,149 @@
+{
+    "name": "JACOPO del SELLAIO",
+    "life": "(b. ca. 1441 Firenze d. 1493 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Banquet of Ahasuerus",
+            "date": "c. 1490",
+            "technique": "Tempera on panel 81 x 44 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/banquet.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20491
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "c. 1485",
+            "technique": "Tempera on canvas 157 x 80 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/baptist.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20492
+        },
+        {
+            "title": "St John the Baptist (detail)",
+            "date": "about 1485",
+            "technique": "Tempera on canvas 157 x 795 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/baptist_.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20493
+        },
+        {
+            "title": "Cassone",
+            "date": "1472",
+            "technique": "Tempera on wood gold leaf 212 x 193 x 76 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/cassone.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 20494
+        },
+        {
+            "title": "The Nerli Cassone",
+            "date": "1472",
+            "technique": "Wood",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/cassone1.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 20495
+        },
+        {
+            "title": "Esther before Ahasuerus",
+            "date": "1470s",
+            "technique": "Tempera on panel 45 x 43 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/esther_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20496
+        },
+        {
+            "title": "Saint John the Baptist",
+            "date": "c. 1480",
+            "technique": "Oil on panel 52 x 33 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/johnbapt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20497
+        },
+        {
+            "title": "Madonna and Child with Infant St John the Baptist and Attending Angel",
+            "date": "c. 1485",
+            "technique": "Oil on panel diameter: 85 cm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20498
+        },
+        {
+            "title": "Nativity",
+            "date": "-",
+            "technique": "Tempera on panel 57 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20499
+        },
+        {
+            "title": "St Jerome in the Wilderness",
+            "date": "-",
+            "technique": "Tempera on panel 62 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20500
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1470s",
+            "technique": "Panel diameter 86 cm",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20501
+        },
+        {
+            "title": "Virgin and Child (detail)",
+            "date": "1470s",
+            "technique": "Panel",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/virgin_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20502
+        },
+        {
+            "title": "Virgin and Child with the Infant St John the Baptist in a Landscape",
+            "date": "-",
+            "technique": "Tempera on panel 68 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/virgin_j.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20503
+        },
+        {
+            "title": "Virgin and Child with the Infant St John and an Angel",
+            "date": "-",
+            "technique": "Oil on poplar panel diameter 84 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/j/jacopo/sellaio/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20504
+        },
+        {}
+    ]
+}

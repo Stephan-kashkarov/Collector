@@ -1,0 +1,99 @@
+{
+    "name": "SEGHERS Hercules",
+    "life": "(b. ca. 1590 Haarlem d. ca. 1638 The Hague)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Landscape with Armed Men",
+            "date": "1625-35",
+            "technique": "Oil on canvas 36 x 54 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/armedmen.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36852
+        },
+        {
+            "title": "The Great Tree",
+            "date": "-",
+            "technique": "Etching 22 x 28 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/gr_tree.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36853
+        },
+        {
+            "title": "Landscape with City on a River",
+            "date": "1627-29",
+            "technique": "Oil on oak 27 x 36 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36854
+        },
+        {
+            "title": "Mountain Valley with Fenced Fields",
+            "date": "1620s",
+            "technique": "Etching and drypoint in blue on white paper",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/m_valley.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36855
+        },
+        {
+            "title": "Mountainous Landscape",
+            "date": "c. 1633",
+            "technique": "Oil on canvas 55 x 100 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/mountain.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36856
+        },
+        {
+            "title": "View of Rhenen",
+            "date": "1625-30",
+            "technique": "Oil on oak 43 x 67 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/rhenen.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36857
+        },
+        {
+            "title": "A River Valley with a Group of Houses",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 70 x 866 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/river_va.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36858
+        },
+        {
+            "title": "Two Trees",
+            "date": "c. 1625",
+            "technique": "Etching printed in brown on paper prepared in pink and blue 155 x 173 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/twotrees.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36859
+        },
+        {
+            "title": "View of Brussels from the North-East",
+            "date": "c. 1625",
+            "technique": "Oil on oak 245 x 39 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/s/seghers/hercules/viewbrus.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36860
+        },
+        {}
+    ]
+}

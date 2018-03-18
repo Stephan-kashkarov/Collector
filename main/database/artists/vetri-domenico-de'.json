@@ -1,0 +1,69 @@
+{
+    "name": "VETRI Domenico de'",
+    "life": "(b. ca. 1480 Firenze d. ca. 1547 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Cosimo I de' Medici (obverse) Alessandro de' Medici (reverse)",
+            "date": "c. 1537",
+            "technique": "Struck silver diameter 4 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vetri/medici1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43095
+        },
+        {
+            "title": "Alessandro de' Medici (obverse) Cosimo I de' Medici (reverse)",
+            "date": "c. 1537",
+            "technique": "Cast bronze diameter 3 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vetri/medici2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43096
+        },
+        {
+            "title": "Medal of Cosimo I de' Medici",
+            "date": "c. 1537",
+            "technique": "Struck bronze pierced and plugged diameter 4 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vetri/medici3.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43097
+        },
+        {
+            "title": "Cosimo I de' Medici",
+            "date": "1537-38",
+            "technique": "Cast bronze pierced in two places diameter 4 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vetri/medici4.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43098
+        },
+        {
+            "title": "Seal of Duke Alessandro de' Medici",
+            "date": "c. 1532",
+            "technique": "Quartz partially gilded and enameled silver height 9 cm",
+            "location": "Museo degli Argenti Florence",
+            "url": "https://www.wga.hu/html/v/vetri/seal1.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 43099
+        },
+        {
+            "title": "Seal of Duke Alessandro de' Medici",
+            "date": "c. 1532",
+            "technique": "Quartz partially gilded and enameled silver height 9 cm",
+            "location": "Museo degli Argenti Florence",
+            "url": "https://www.wga.hu/html/v/vetri/seal2.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 43100
+        },
+        {}
+    ]
+}

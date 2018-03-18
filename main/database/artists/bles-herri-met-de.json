@@ -1,0 +1,109 @@
+{
+    "name": "BLES Herri met de",
+    "life": "(b. ca. 1510 Bouvignes (Dinant) d. after 1550)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Road to Calvary",
+            "date": "c. 1535",
+            "technique": "Oil on panel 82 x 114 cm",
+            "location": "University Art Museum Princeton",
+            "url": "https://www.wga.hu/html/b/bles/calvary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4713
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "-",
+            "technique": "Oil tempera on wood 57 x 72 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/b/bles/christ_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4714
+        },
+        {
+            "title": "The Copper Mine",
+            "date": "c. 1540",
+            "technique": "Oil on wood 83 x 114 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bles/copper_m.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4715
+        },
+        {
+            "title": "Elijah Ascending to Heaven in the Fiery Chariot",
+            "date": "-",
+            "technique": "Oil on panel 18 x 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bles/elijah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4716
+        },
+        {
+            "title": "Landscape with the Flight into Egypt",
+            "date": "-",
+            "technique": "Oil on wood 33 x 60 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bles/flight_e.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4717
+        },
+        {
+            "title": "Landscape with Christ and the Men of Emmaus",
+            "date": "-",
+            "technique": "Oil on wood 341 x 505 cm",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/b/bles/landemma.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4718
+        },
+        {
+            "title": "Landscape with the Repudiation of Hagar and Ishmael",
+            "date": "-",
+            "technique": "Oil on panel 20 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bles/landsca.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4719
+        },
+        {
+            "title": "Landscape with the Banishment of Hagar",
+            "date": "-",
+            "technique": "Oil on wood 23 x 35 cm",
+            "location": "Bonnefantenmuseum Maastricht",
+            "url": "https://www.wga.hu/html/b/bles/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4720
+        },
+        {
+            "title": "Fantastical Moonlit Landscape",
+            "date": "-",
+            "technique": "Oil on oak panel 22 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bles/moonlit.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4721
+        },
+        {
+            "title": "The Paradise",
+            "date": "1540s",
+            "technique": "Oil on panel diameter 47 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/bles/paradise.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4722
+        },
+        {}
+    ]
+}

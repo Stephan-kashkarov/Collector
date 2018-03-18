@@ -1,0 +1,819 @@
+{
+    "name": "MEDIEVAL SCULPTOR Spanish",
+    "life": "(active 1066-1090)",
+    "school": "Spanish",
+    "timeframe": "1051-1100",
+    "art": [
+        {
+            "title": "Capital",
+            "date": "1066-90",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/22s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25769
+        },
+        {
+            "title": "Capital",
+            "date": "1066-90",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/23s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25770
+        },
+        {
+            "title": "Capital",
+            "date": "1066-90",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/24s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25771
+        },
+        {
+            "title": "Capital",
+            "date": "11th century",
+            "technique": "Stone",
+            "location": "Monastery of San Juan de la Pe\u00f1a Santa Cruz de la Ser\u00f3s",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/24s_1001.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25772
+        },
+        {
+            "title": "Capital",
+            "date": "11th century",
+            "technique": "Stone",
+            "location": "Monastery of San Juan de la Pe\u00f1a Santa Cruz de la Ser\u00f3s",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/24s_1002.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25773
+        },
+        {
+            "title": "The Sacrifice of Isaac",
+            "date": "c. 1100",
+            "technique": "Stone",
+            "location": "Cathedral Jaca (Arag\u00f3n)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/25s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25774
+        },
+        {
+            "title": "Bileam and his Ass",
+            "date": "c. 1100",
+            "technique": "Stone",
+            "location": "Cathedral Jaca (Arag\u00f3n)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-11c/26s_1000.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25775
+        },
+        {
+            "title": "The Passion of Job (first narrow side of a capital)",
+            "date": "c. 1145",
+            "technique": "Stone",
+            "location": "Cathedral Pamplona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/21s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25776
+        },
+        {
+            "title": "The Passion of Job (second double side of a capital)",
+            "date": "c. 1145",
+            "technique": "Stone",
+            "location": "Cathedral Pamplona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/22s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25777
+        },
+        {
+            "title": "The Passion of Job (third narrow side of a capital)",
+            "date": "c. 1145",
+            "technique": "Stone",
+            "location": "Cathedral Pamplona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/23s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25778
+        },
+        {
+            "title": "The Passion of Job (fourth double side of a capital)",
+            "date": "c. 1145",
+            "technique": "Stone",
+            "location": "Cathedral Pamplona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/24s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25779
+        },
+        {
+            "title": "View of the cloister",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/25s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25780
+        },
+        {
+            "title": "View of the cloister",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/26s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25781
+        },
+        {
+            "title": "Capital",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/27s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25782
+        },
+        {
+            "title": "Capital",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/28s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25783
+        },
+        {
+            "title": "Capital",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/29s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25784
+        },
+        {
+            "title": "Capital",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/30s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25785
+        },
+        {
+            "title": "Capital",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/31s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25786
+        },
+        {
+            "title": "Descent from the Cross",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/32s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25787
+        },
+        {
+            "title": "Burial and Resurrection",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/33s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25788
+        },
+        {
+            "title": "Christ as a Pilgrim",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/34s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25789
+        },
+        {
+            "title": "Doubting Thomas and Apostles",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Monastery of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c2/35s_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25790
+        },
+        {
+            "title": "Stages in carving of a capital",
+            "date": "1150-1200",
+            "technique": "Stone",
+            "location": "Cathedral Gerona",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/4s1_1167.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25791
+        },
+        {
+            "title": "Capital",
+            "date": "12th century",
+            "technique": "Stone",
+            "location": "Cloister of Santo Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-12c3/4s2_1167.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25792
+        },
+        {
+            "title": "Annunciation",
+            "date": "c. 1205",
+            "technique": "Stone",
+            "location": "San Domingo Silos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/cap-13c/1s2_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25793
+        },
+        {
+            "title": "Pediment with console figure",
+            "date": "1070-1100",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25794
+        },
+        {
+            "title": "Puerta de las Plater\u00edas",
+            "date": "1090s",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25795
+        },
+        {
+            "title": "Puerta de las Plater\u00edas (detail)",
+            "date": "1090s",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s3_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25796
+        },
+        {
+            "title": "Puerta de las Plater\u00edas (detail)",
+            "date": "1090s",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s4_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25797
+        },
+        {
+            "title": "Puerta de las Plater\u00edas (detail)",
+            "date": "1090s",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s5_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25798
+        },
+        {
+            "title": "Puerta de las Plater\u00edas (detail)",
+            "date": "1090s",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s6_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25799
+        },
+        {
+            "title": "Saint Vincent",
+            "date": "1090-95",
+            "technique": "Stone",
+            "location": "San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-11c/3s7_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25800
+        },
+        {
+            "title": "Tympanum",
+            "date": "1100s",
+            "technique": "Stone",
+            "location": "Colegiate de San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c12/2s1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25801
+        },
+        {
+            "title": "Puerta del Perd\u00f3n",
+            "date": "1100s",
+            "technique": "Stone",
+            "location": "Colegiate de San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c12/2s2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25802
+        },
+        {
+            "title": "South portal (detail)",
+            "date": "c. 1150",
+            "technique": "Stone",
+            "location": "Church of Santa Mar\u00eda Uncastillo",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/2s4_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25803
+        },
+        {
+            "title": "St James",
+            "date": "1180-1200",
+            "technique": "Stone",
+            "location": "Cathedral of Santiago Compostela",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c22/2s5_1134.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25804
+        },
+        {
+            "title": "Puerta del Obispo",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Cathedral Zamora",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/4c1_1164.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25805
+        },
+        {
+            "title": "North portal",
+            "date": "1151-71",
+            "technique": "Stone",
+            "location": "Collegiate church Toro (Zamora)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/4c1_1165.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25806
+        },
+        {
+            "title": "West portal",
+            "date": "1180-1200",
+            "technique": "Stone",
+            "location": "Santo Domingo Soria",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/4c1_1166.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25807
+        },
+        {
+            "title": "Fabulous creatures",
+            "date": "1175-1200",
+            "technique": "Stone",
+            "location": "Santa Mar\u00eda la Real Sang\u00fcesa",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/4c1_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25808
+        },
+        {
+            "title": "South Portal",
+            "date": "13th century",
+            "technique": "Stone",
+            "location": "Basilica de San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s1_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25809
+        },
+        {
+            "title": "Annunciation",
+            "date": "c. 1205",
+            "technique": "Stone",
+            "location": "Basilica de San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s1_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25810
+        },
+        {
+            "title": "West portal",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Colegiata de Santa Mar\u00eda la Mayor Toro",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s2_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25811
+        },
+        {
+            "title": "Christ in Majesty (from La Portada del Sarmental)",
+            "date": "c. 1235",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s3_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25812
+        },
+        {
+            "title": "La Portada del Sarmental",
+            "date": "c. 1235",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s3_1202.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25813
+        },
+        {
+            "title": "Pellejeria Door",
+            "date": "1240-60",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s3_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25814
+        },
+        {
+            "title": "Coroneria Door",
+            "date": "1240-60",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s3_1204.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25815
+        },
+        {
+            "title": "Portal to the Cloister",
+            "date": "1265-70",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s3_1205.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25816
+        },
+        {
+            "title": "South portal",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Santa Mar\u00eda la Blanca Villalc\u00e1zar de Sirga (Palencia)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s5_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25817
+        },
+        {
+            "title": "Main Portal (detail)",
+            "date": "1250-75",
+            "technique": "Stone",
+            "location": "Cathedral Burgo de Osma",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s6_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25818
+        },
+        {
+            "title": "La Portada de la Virgen Blanca",
+            "date": "1250-1300",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s7_1200.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25819
+        },
+        {
+            "title": "La Portada de la Virgen Blanca",
+            "date": "1250-1300",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s7_1201.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25820
+        },
+        {
+            "title": "La Portada de la Virgen Blanca (detail)",
+            "date": "1250-1300",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s7_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25821
+        },
+        {
+            "title": "The Virgen Blanca",
+            "date": "1250-75",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s7_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25822
+        },
+        {
+            "title": "Jamb figures",
+            "date": "1250-1300",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-13c/2s7_1204.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25823
+        },
+        {
+            "title": "Tomb of San Vicente (detail)",
+            "date": "c. 1190",
+            "technique": "Stone",
+            "location": "Basilica de San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25824
+        },
+        {
+            "title": "Tomb of San Vicente (detail)",
+            "date": "c. 1190",
+            "technique": "Stone",
+            "location": "Basilica de San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s1_1102.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25825
+        },
+        {
+            "title": "Tomb of Alfonso VIII of Castile",
+            "date": "c. 1215",
+            "technique": "Stone",
+            "location": "Monastery of Las Huelgas Burgos",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s2_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25826
+        },
+        {
+            "title": "Tomb of Bishop Mart\u00edn II Rodriguez",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s3_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25827
+        },
+        {
+            "title": "Sarcophagus of the Infante Felipe",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Santa Mar\u00eda la Blanca Villalc\u00e1zar de Sirga (Palencia)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s4_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25828
+        },
+        {
+            "title": "Sarcophagus of the Infante Felipe",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Santa Mar\u00eda la Blanca Villalc\u00e1zar de Sirga (Palencia)",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s4_1202.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25829
+        },
+        {
+            "title": "Tomb of Infante Don Felipe",
+            "date": "1274",
+            "technique": "Marble",
+            "location": "Villalc\u00e1zar de Sirga Palencia",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s4_1203.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25830
+        },
+        {
+            "title": "Sarcophagus",
+            "date": "c. 1300",
+            "technique": "Stone",
+            "location": "Cathedral Museum Valladolid",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-1/3s6_1201.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25831
+        },
+        {
+            "title": "Interior",
+            "date": "1066-90",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/4s1_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25832
+        },
+        {
+            "title": "Console figure",
+            "date": "1085-90",
+            "technique": "Stone",
+            "location": "San Mart\u00edn Fr\u00f3mista",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/4s2_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25833
+        },
+        {
+            "title": "Statues at the springing of the vaults",
+            "date": "1150-75",
+            "technique": "Stone",
+            "location": "Old Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/re-2/4s3_1101.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25834
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1277",
+            "technique": "Marble",
+            "location": "Cathedral Tarragona",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/17s_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25835
+        },
+        {
+            "title": "Wall of the cloister",
+            "date": "1265-70",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/18s_1301.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25836
+        },
+        {
+            "title": "Ferdinand III and Beatrice of Hohenstaufen",
+            "date": "1265-70",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/18s_1302.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 25837
+        },
+        {
+            "title": "The Queen of Swabia",
+            "date": "1290s",
+            "technique": "Stone",
+            "location": "Cloister of the Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/18s_1303.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25838
+        },
+        {
+            "title": "Wall of the cloister",
+            "date": "1265-70",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/18s_1304.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25839
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1260-70",
+            "technique": "Stone",
+            "location": "Cloister of the Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/3/19s_1300.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25840
+        },
+        {
+            "title": "Tomb of Gonzalo de Hinojosa",
+            "date": "c. 1327",
+            "technique": "Stone",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/06s_1350.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25841
+        },
+        {
+            "title": "Door of \"\"La Preciosa\"\"\"c. 1330Stone\"Cathedral Pamplona",
+            "date": "https://www.wga.hu/html/zgothic/gothic/4/07s_1350.html",
+            "technique": "sculpture",
+            "location": "religious",
+            "url": "Spanish",
+            "form": "1301-1350",
+            "painting_type": "",
+            "index": 25842
+        },
+        {
+            "title": "Central doorway of west portal",
+            "date": "1300-50",
+            "technique": "Stone",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/zgothic/gothic/4/08s_1350.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25843
+        },
+        {
+            "title": "Monument to Count Ram\u00f3n Berenguer II and his Wife Ermesindis (detail)",
+            "date": "1380-90",
+            "technique": "Marble",
+            "location": "Cathedral Gerona",
+            "url": "https://www.wga.hu/html/zgothic/gothic/5/06s_1400.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25844
+        },
+        {
+            "title": "Archangel",
+            "date": "1400-50",
+            "technique": "Stone",
+            "location": "La Lonja Palma de Majorca",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/01s_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25845
+        },
+        {
+            "title": "The Nativity",
+            "date": "1460s",
+            "technique": "Terracotta",
+            "location": "Cathedral Seville",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/02s_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25846
+        },
+        {
+            "title": "Fa\u00e7ade",
+            "date": "1486-96",
+            "technique": "Stone",
+            "location": "Colegio de San Gregorio Valladolid",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/03s_1500.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 25847
+        },
+        {
+            "title": "Two Wild Men",
+            "date": "1486-96",
+            "technique": "Stone",
+            "location": "Colegio de San Gregorio Valladolid",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/04s_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25848
+        },
+        {
+            "title": "Choir-stall",
+            "date": "15th century",
+            "technique": "Wood",
+            "location": "National Museum of Religious Carvings Valladolid",
+            "url": "https://www.wga.hu/html/zgothic/gothic/6/05s_1500.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25849
+        },
+        {}
+    ]
+}

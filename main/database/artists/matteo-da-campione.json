@@ -1,0 +1,29 @@
+{
+    "name": "MATTEO DA CAMPIONE",
+    "life": "(b. ca. 1335 Campione d'Italia d. 1396 Monza)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1390-96",
+            "technique": "Photo",
+            "location": "Duomo Monza",
+            "url": "https://www.wga.hu/html/m/matte/monza1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 25248
+        },
+        {
+            "title": "Exterior view",
+            "date": "1390-96",
+            "technique": "Photo",
+            "location": "Duomo Monza",
+            "url": "https://www.wga.hu/html/m/matte/monza2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 25249
+        },
+        {}
+    ]
+}

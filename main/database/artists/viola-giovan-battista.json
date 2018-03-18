@@ -1,0 +1,39 @@
+{
+    "name": "VIOLA Giovan Battista",
+    "life": "(b. 1576 Bologna d. 1622 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Landscape with a River",
+            "date": "1604-05",
+            "technique": "Oil on canvas 39 x 50 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/viola/landrive.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43263
+        },
+        {
+            "title": "Landscape with a Devotional Image",
+            "date": "before 1603",
+            "technique": "Oil on canvas 47 x 59 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/v/viola/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43264
+        },
+        {
+            "title": "Penitent Magdalen in a Landscape",
+            "date": "c. 1610",
+            "technique": "Oil on canvas 48 x 63 cm",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/v/viola/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43265
+        },
+        {}
+    ]
+}

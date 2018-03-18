@@ -1,0 +1,39 @@
+{
+    "name": "HOBAN James",
+    "life": "(b. 1762 Callan Ireland d. 1831 Washington)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1815",
+            "technique": "Photo",
+            "location": "White House Washington D.C.",
+            "url": "https://www.wga.hu/html/h/hoban/whiteho1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19744
+        },
+        {
+            "title": "Exterior view",
+            "date": "1815",
+            "technique": "Photo",
+            "location": "White House Washington D.C.",
+            "url": "https://www.wga.hu/html/h/hoban/whiteho2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19745
+        },
+        {
+            "title": "Exterior view",
+            "date": "1815",
+            "technique": "Photo",
+            "location": "White House Washington D.C.",
+            "url": "https://www.wga.hu/html/h/hoban/whiteho3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19746
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "RONDINELLI Niccol\u00f2",
+    "life": "(active c. 1490-1510)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Virgin and Child with an Angel Playing Lute",
+            "date": "c. 1500",
+            "technique": "Oil and tempera on panel 81 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rondinel/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35078
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1498",
+            "technique": "Oil on panel 75 x 58 cm",
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/r/rondinel/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35079
+        },
+        {}
+    ]
+}

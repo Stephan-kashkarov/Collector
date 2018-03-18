@@ -1,0 +1,59 @@
+{
+    "name": "NATOIRE Charles-Joseph",
+    "life": "(b. 1700 Nimes d. 1777 Castel Gandolfo)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Expulsion from Paradise",
+            "date": "1740",
+            "technique": "Oil on copper 68 x 50 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/n/natoire/expulsio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29404
+        },
+        {
+            "title": "The Story of Psyche",
+            "date": "1737-39",
+            "technique": "Fresco",
+            "location": "H\u00f4tel de Soubise Paris",
+            "url": "https://www.wga.hu/html/n/natoire/psyche.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29405
+        },
+        {
+            "title": "Cupid Sharpening an Arrow",
+            "date": "1750",
+            "technique": "Oil on canvas 56 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/natoire/sharpeni.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29406
+        },
+        {
+            "title": "Venus and Cupid",
+            "date": "1745",
+            "technique": "Oil on canvas 110 by 136 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/natoire/venus_c.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29407
+        },
+        {
+            "title": "Venus Demanding Arms from Vulcan for Aeneas",
+            "date": "after 1732",
+            "technique": "Oil on canvas 194 x 140 cm",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/n/natoire/venusarm.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29408
+        },
+        {}
+    ]
+}

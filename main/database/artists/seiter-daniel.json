@@ -1,0 +1,69 @@
+{
+    "name": "SEITER Daniel",
+    "life": "(b. 1647 Wien d. 1705 Torino)",
+    "school": "Austrian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "View of the Galleria del Daniel",
+            "date": "1690-94",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/1reale.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 36872
+        },
+        {
+            "title": "Ceiling of the Galleria del Daniel (centre section)",
+            "date": "1690-94",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/2reale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36873
+        },
+        {
+            "title": "Ceiling of the Galleria del Daniel (centre section detail)",
+            "date": "1690-94",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/3reale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36874
+        },
+        {
+            "title": "Ceiling of the Galleria del Daniel (centre section detail)",
+            "date": "1690-94",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/4reale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36875
+        },
+        {
+            "title": "Ceiling of the Galleria del Daniel (south section)",
+            "date": "1690-94",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/5reale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36876
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1695-96",
+            "technique": "Fresco",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/s/seiter/6reale.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36877
+        },
+        {}
+    ]
+}

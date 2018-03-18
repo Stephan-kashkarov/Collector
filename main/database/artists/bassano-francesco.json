@@ -1,0 +1,159 @@
+{
+    "name": "BASSANO Francesco",
+    "life": "(b. 1549 Bassano d. 1592 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1567-69",
+            "technique": "Oil on canvas 98 x 129 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3393
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "-",
+            "technique": "Oil on canvas 121 x 128cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3394
+        },
+        {
+            "title": "Autumn with Moses Receiving the Ten Commandments",
+            "date": "1780s",
+            "technique": "Oil on canvas 78 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/autumn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3395
+        },
+        {
+            "title": "St Jerome",
+            "date": "-",
+            "technique": "Oil on canvas 68 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3396
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "1582-85",
+            "technique": "Oil on slate 19 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/lamenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3397
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "1580s",
+            "technique": "Oil on canvas 84 x 126 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3398
+        },
+        {
+            "title": "Orpheus Charming the Animals",
+            "date": "-",
+            "technique": "Oil on canvas 98 x 125 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/orpheus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3399
+        },
+        {
+            "title": "St John the Baptist Preaching",
+            "date": "1570",
+            "technique": "Oil on canvas",
+            "location": "San Giacomo dall'Orio Venice",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/preachin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3400
+        },
+        {
+            "title": "The Presentation of Christ in the Temple",
+            "date": "-",
+            "technique": "Oil on copper 55 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/presenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3401
+        },
+        {
+            "title": "Resurrection of Christ",
+            "date": "1584-88",
+            "technique": "Oil on canvas",
+            "location": "Santissimo Redentore Venice",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/resurrec.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3402
+        },
+        {
+            "title": "The Rape of the Sabine Women",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/sabine.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3403
+        },
+        {
+            "title": "Summer",
+            "date": "-",
+            "technique": "Oil on canvas 97 x 127 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/summe.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3404
+        },
+        {
+            "title": "Summer",
+            "date": "1577-78",
+            "technique": "Oil on canvas 115 x 184 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/summer.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3405
+        },
+        {
+            "title": "The Forge of Vulcan",
+            "date": "c. 1577",
+            "technique": "Oil on canvas 137 x 191 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/vulcan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3406
+        },
+        {
+            "title": "Winter",
+            "date": "1577-78",
+            "technique": "Oil on canvas 115 x 184 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bassano/francesc/winter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3407
+        },
+        {}
+    ]
+}

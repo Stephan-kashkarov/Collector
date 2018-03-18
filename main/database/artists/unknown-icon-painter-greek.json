@@ -1,0 +1,129 @@
+{
+    "name": "UNKNOWN ICON PAINTER Greek",
+    "life": "(active 14th century)",
+    "school": "Greek",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "St John the Baptist",
+            "date": "14th century",
+            "technique": "Tempera on panel",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/m/master/zunk_x/041icon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40745
+        },
+        {
+            "title": "Transfiguration",
+            "date": "12th century",
+            "technique": "Egg tempera on panel 23 x 24 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40746
+        },
+        {
+            "title": "St Gregory Thaumaturge",
+            "date": "1100-50",
+            "technique": "Tempera on walnut panel 81 x 53 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40747
+        },
+        {
+            "title": "The Holy Warriors George Theodore and Demetrius",
+            "date": "c. 1100",
+            "technique": "Tempera on chestnut panel 29 x 36 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40748
+        },
+        {
+            "title": "Virgin and Child with the Archangels Michael and Gabriel",
+            "date": "c. 1200",
+            "technique": "Tempera on wood 85 x 60 cm",
+            "location": "Archeological Museum Veroia Greece",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40749
+        },
+        {
+            "title": "Virgin and Child with Two Angels",
+            "date": "c. 1250",
+            "technique": "Tempera on wood 35 x 26 cm",
+            "location": "Holy Monastery of St Catherine Sinai",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon32.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40750
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "1280s",
+            "technique": "Tempera on wood 121 x 68 cm",
+            "location": "Holy Monastery of St Catherine Sinai",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon33.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40751
+        },
+        {
+            "title": "Mary with the Christ Child",
+            "date": "c. 1350",
+            "technique": "Tempera on wood 99 x 73 cm",
+            "location": "National Museum Belgrade",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40752
+        },
+        {
+            "title": "Christ Pantocrator",
+            "date": "1363",
+            "technique": "Egg tempera on panel 106 x 79 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40753
+        },
+        {
+            "title": "Intercession of the Virgin",
+            "date": "15th century",
+            "technique": "Egg tempera on gessoed panel 74 x 51 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/01icon6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40754
+        },
+        {
+            "title": "Angelic Choir of the Nativity",
+            "date": "mid-16th century",
+            "technique": "Tempera on canvas over wood 145 x 135 cm",
+            "location": "Musei Vaticani Vatican",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/12icon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40755
+        },
+        {
+            "title": "Sts Stephen and Christopher",
+            "date": "1700s",
+            "technique": "Egg tempera on oak 21 x 16 cm",
+            "location": "Ikonen-Museum Recklinghausen",
+            "url": "https://www.wga.hu/html/m/master/zunk_y/14icon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 40756
+        },
+        {}
+    ]
+}

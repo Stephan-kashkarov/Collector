@@ -1,0 +1,39 @@
+{
+    "name": "HIGHMORE Joseph",
+    "life": "(b. 1692 London d. 1780 Canterbury)",
+    "school": "English",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Thomas Fermor",
+            "date": "-",
+            "technique": "Oil on canvas 123 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/highmore/fermor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19704
+        },
+        {
+            "title": "Mr. Oldham and his Friends",
+            "date": "c. 1750",
+            "technique": "Oil on canvas 105 x 130 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/h/highmore/oldham.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19705
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1747",
+            "technique": "Oil on canvas 83 x 91 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/highmore/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19706
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "BATAILLE Nicolas",
+    "life": "(c. 1330-c. 1405)",
+    "school": "French",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "The Harlot Seated on the Beast",
+            "date": "1375-79",
+            "technique": "Tapestry 400 x 1800 cm",
+            "location": "Mus\u00e9e des Tapisseries Angers",
+            "url": "https://www.wga.hu/html/b/bataille/apocalyp.html",
+            "form": "tapestry",
+            "painting_type": "other",
+            "index": 3498
+        },
+        {
+            "title": "King Arthur",
+            "date": "c. 1385",
+            "technique": "Wool 427 x 297 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bataille/worthies.html",
+            "form": "tapestry",
+            "painting_type": "other",
+            "index": 3499
+        },
+        {}
+    ]
+}

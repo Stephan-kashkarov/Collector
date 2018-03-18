@@ -1,0 +1,39 @@
+{
+    "name": "TRAUT Wolf",
+    "life": "(b. ca. 1485 N\u00fcrnberg d. 1520 N\u00fcrnberg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Nativity and Passion of Christ",
+            "date": "1511",
+            "technique": "Woodcut 435 x 592 mm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/t/traut/wolf/broadshe.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 40134
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1510",
+            "technique": "Oil on panel 38 x 29 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/t/traut/wolf/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40135
+        },
+        {
+            "title": "The Triumphal Arch of Maximilian I",
+            "date": "1512-13",
+            "technique": "Woodcut",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/t/traut/wolf/triumpha.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 40136
+        },
+        {}
+    ]
+}

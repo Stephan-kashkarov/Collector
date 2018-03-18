@@ -1,0 +1,49 @@
+{
+    "name": "POCCIANTI Pasquale",
+    "life": "(b. 1774 Bibbiena d. 1858 Firenze)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "begun 1809",
+            "technique": "Photo",
+            "location": "Cisternone Livorno",
+            "url": "https://www.wga.hu/html/p/pocciant/cistern1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31798
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1809",
+            "technique": "Photo",
+            "location": "Cisternone Livorno",
+            "url": "https://www.wga.hu/html/p/pocciant/cistern2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31799
+        },
+        {
+            "title": "Exterior view",
+            "date": "1807",
+            "technique": "Photo",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/p/pocciant/poggio1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31800
+        },
+        {
+            "title": "Exterior view",
+            "date": "1807",
+            "technique": "Photo",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/p/pocciant/poggio2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 31801
+        },
+        {}
+    ]
+}

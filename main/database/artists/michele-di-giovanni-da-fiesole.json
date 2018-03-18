@@ -1,0 +1,79 @@
+{
+    "name": "MICHELE DI GIOVANNI DA FIESOLE",
+    "life": "(b. ca. 1418 Fiesole d. ca. 1458 Fiesole)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Fireplace",
+            "date": "1450s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/iole1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 27000
+        },
+        {
+            "title": "Fireplace (detail)",
+            "date": "1450s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/iole2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 27001
+        },
+        {
+            "title": "Decoration",
+            "date": "1450s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/iole3.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 27002
+        },
+        {
+            "title": "Decoration",
+            "date": "1450s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/iole4.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 27003
+        },
+        {
+            "title": "Decoration",
+            "date": "1450s",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/iole5.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 27004
+        },
+        {
+            "title": "Madonna and Child (detail)",
+            "date": "1450s",
+            "technique": "Marble",
+            "location": "Galleria Nazionale delle Marche Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27005
+        },
+        {
+            "title": "Angel",
+            "date": "1450-54",
+            "technique": "Marble",
+            "location": "San Domenico Urbino",
+            "url": "https://www.wga.hu/html/m/michele/giovanni/portal.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27006
+        },
+        {}
+    ]
+}

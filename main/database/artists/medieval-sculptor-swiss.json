@@ -1,0 +1,29 @@
+{
+    "name": "MEDIEVAL SCULPTOR Swiss",
+    "life": "(active 1190s in Basel)",
+    "school": "Swiss",
+    "timeframe": "1151-1200",
+    "art": [
+        {
+            "title": "Gallus Gate",
+            "date": "1190s",
+            "technique": "Stone",
+            "location": "Minster of Our Lady Basel",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/6s1_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25850
+        },
+        {
+            "title": "Gallus Gate (detail)",
+            "date": "1190s",
+            "technique": "Stone",
+            "location": "Minster of Our Lady Basel",
+            "url": "https://www.wga.hu/html/zgothic/1romanes/po-12c3/6s2_1167.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 25851
+        },
+        {}
+    ]
+}

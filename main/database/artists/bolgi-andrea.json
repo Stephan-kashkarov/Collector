@@ -1,0 +1,29 @@
+{
+    "name": "BOLGI Andrea",
+    "life": "(b. 1605 Carrara d. 1656 Napoli)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Giuseppe Bonanni",
+            "date": "1649-53",
+            "technique": "Marble",
+            "location": "San Lorenzo Maggiore Naples",
+            "url": "https://www.wga.hu/html/b/bolgi/bonanni.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 4921
+        },
+        {
+            "title": "St Helene",
+            "date": "1630-39",
+            "technique": "Marble height 450 cm",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/b/bolgi/s_helene.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4922
+        },
+        {}
+    ]
+}

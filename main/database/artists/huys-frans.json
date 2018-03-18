@@ -1,0 +1,59 @@
+{
+    "name": "HUYS Frans",
+    "life": "(b. ca. 1522 Antwerpen d. ca. 1562 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Armed Four-Master Putting Out to Sea",
+            "date": "1565",
+            "technique": "Engraving",
+            "location": "National Galley of Art Washington",
+            "url": "https://www.wga.hu/html/h/huys/frans/4master.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20311
+        },
+        {
+            "title": "Naval Battle in the Strait of Messina",
+            "date": "1561",
+            "technique": "Engraving printed from two plates 426 x 706 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/h/huys/frans/naval.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20312
+        },
+        {
+            "title": "Naval Battle in the Strait of Messina",
+            "date": "1561",
+            "technique": "Engraving printed from two plates 426 x 706 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/h/huys/frans/naval1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20313
+        },
+        {
+            "title": "Naval Battle in the Strait of Messina (detail)",
+            "date": "1561",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/h/huys/frans/naval2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20314
+        },
+        {
+            "title": "Skating before the Saint George's Gate Antwerp",
+            "date": "1550s",
+            "technique": "Engraving second state 231 x 294 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/h/huys/frans/skating.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20315
+        },
+        {}
+    ]
+}

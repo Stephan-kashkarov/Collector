@@ -77,6 +77,7 @@ for line in lines:
 		# if last_name == "":
 		# 	last_name = name
 		if name != last_name:
+			print("making a new profile for artist:", name)
 			cascade_all(artist_cache, parsed_data, art_cache, art_list)
 			last_name = name
 			art_cache = {}
@@ -121,6 +122,7 @@ for line in lines:
 			art_cache = {}
 
 		else:
+			print("adding to " + name + "'s profile")
 			title = ""
 			date = ""
 			technique = ""
@@ -159,9 +161,9 @@ for line in lines:
 with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE
 	json.dump(parsed_data, outfile, indent=4)  # DUMPS DATA TO JSON FILE
 
-name_list = {} 
+name_list = {}
 for name in parsed_data:
-	print(name['name'])
+	print("creating file for:", name['name'])
 	filename = name['name'].replace(" ", "-").replace('.', '').lower()
 	filename = filename + ".json"
 	url = "../main/database/artists/" + filename

@@ -1,0 +1,299 @@
+{
+    "name": "WITTE Emanuel de",
+    "life": "(b. 1617 Alkmaar d. 1692 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Old Fish Market on the Dam Amsterdam",
+            "date": "c. 1650",
+            "technique": "Oil on panel 55 x 45 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/w/witte/dam_fish.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44242
+        },
+        {
+            "title": "The Courtyard of the Old Exchange in Amsterdam",
+            "date": "1653",
+            "technique": "Oil on panel 48 x 475 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/w/witte/exchange.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44243
+        },
+        {
+            "title": "Interior of a Church",
+            "date": "-",
+            "technique": "Oil on wood 68 x 51 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/w/witte/int_chur.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44244
+        },
+        {
+            "title": "Interior of a Baroque Church",
+            "date": "c. 1660",
+            "technique": "Oil on canvs 49 x 57 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/w/witte/intbaroq.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44245
+        },
+        {
+            "title": "Interior of a Church",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/witte/intchurc.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44246
+        },
+        {
+            "title": "Church Interior",
+            "date": "1684",
+            "technique": "Oil on canvas 122 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/witte/intechur.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44247
+        },
+        {
+            "title": "Interior of a Church",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 80 x 66 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/witte/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44248
+        },
+        {
+            "title": "Interior of a Church",
+            "date": "1674",
+            "technique": "Oil on canvas 79x 69 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/w/witte/intewall.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44249
+        },
+        {
+            "title": "The Nieuwe Vismarkt",
+            "date": "1670-75",
+            "technique": "Oil on canvas 52 x 62 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/witte/market1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44250
+        },
+        {
+            "title": "The Poultry Seller",
+            "date": "1670-75",
+            "technique": "Oil on canvas 52 x 63 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/w/witte/market2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44251
+        },
+        {
+            "title": "The Nieuwe Kerk in Delft with the Tomb of William the Silent",
+            "date": "c. 1651",
+            "technique": "Oil on panel 108 x 91 cm",
+            "location": "Museum Briner und Kern Winterthur",
+            "url": "https://www.wga.hu/html/w/witte/nieuwe1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44252
+        },
+        {
+            "title": "Tomb of William the Silent in the Nieuwe Kerk Delft with an Illusionistic Curtain",
+            "date": "1653",
+            "technique": "Oil on panel 83 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/witte/nieuwe2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44253
+        },
+        {
+            "title": "View of the Tomb of William the Silent in the New Church in Delft",
+            "date": "1656",
+            "technique": "Oil on canvas 97 x 85 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/w/witte/nieuwe3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44254
+        },
+        {
+            "title": "Interior of the Nieuwe Kerk in Delft",
+            "date": "1664",
+            "technique": "Oil on canvas 79 x 67 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/w/witte/nieuwe4.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44255
+        },
+        {
+            "title": "Old Church in Delft",
+            "date": "c. 1642",
+            "technique": "Oil on canvas 95 x 82 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/witte/oldchurc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44256
+        },
+        {
+            "title": "Interior of the Oude Kerk Delft",
+            "date": "1650-52",
+            "technique": "Oil on panel 48 x 35 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/witte/oude1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44257
+        },
+        {
+            "title": "Interior of the Oude Kerk Delft (detail)",
+            "date": "1650-52",
+            "technique": "Oil on panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/witte/oude1d.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44258
+        },
+        {
+            "title": "Interior of the Oude Kerk at Delft during a Sermon",
+            "date": "1651",
+            "technique": "Oil on wood 61 x 44 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/w/witte/oude2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44259
+        },
+        {
+            "title": "A Sermon in the Oude Kerk Delft",
+            "date": "1651-52",
+            "technique": "Oil on panel 73 x 60 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/w/witte/oude3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44260
+        },
+        {
+            "title": "The Interior of the Oude Kerk Amsterdam during a Sermon",
+            "date": "1658-59",
+            "technique": "Oil on canvas 79 x 63 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/w/witte/oudekerk.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44261
+        },
+        {
+            "title": "Interior of the Oude Kerk Amsterdam",
+            "date": "c. 1680",
+            "technique": "Oil on canvas 66 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/witte/oudekery.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44262
+        },
+        {
+            "title": "Interior of the Portuguese Synagogue in Amsterdam",
+            "date": "1680",
+            "technique": "Oil on canvas 110 x 99 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/witte/portusyn.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44263
+        },
+        {
+            "title": "Interior of a Protestant Gothic Church",
+            "date": "1668",
+            "technique": "Oil on canvas 79 x 112 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/w/witte/protesta.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44264
+        },
+        {
+            "title": "Interior of a Protestant Gothic Church",
+            "date": "1669",
+            "technique": "Oil on panel 45 x 34 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/witte/protestb.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44265
+        },
+        {
+            "title": "Interior of a Protestant Gothic Church",
+            "date": "1669",
+            "technique": "Oil on panel 45 x 34 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/witte/protestc.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44266
+        },
+        {
+            "title": "Interior of a Protestant Gothic Church (detail)",
+            "date": "1669",
+            "technique": "Oil on panel",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/witte/protestd.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44267
+        },
+        {
+            "title": "Interior with a Woman at the Virginals",
+            "date": "c. 1665",
+            "technique": "Oil on canvas",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/w/witte/virginal.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44268
+        },
+        {
+            "title": "Portrait of a Family in an Interior",
+            "date": "1678",
+            "technique": "Oil on canvas 69 x 87 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/w/witte/zfamily.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44269
+        },
+        {
+            "title": "Portrait of a Family in an Interior (detail)",
+            "date": "1678",
+            "technique": "Oil on canvas",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/w/witte/zfamily1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44270
+        },
+        {}
+    ]
+}

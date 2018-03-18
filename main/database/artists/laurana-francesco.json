@@ -1,0 +1,109 @@
+{
+    "name": "LAURANA Francesco",
+    "life": "(b. ca. 1430 Vrana d. 1502 Avignon)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Triumphal Arch of Alfonso I (detail)",
+            "date": "1453-68",
+            "technique": "Marble",
+            "location": "Castelnuovo Naples",
+            "url": "https://www.wga.hu/html/l/laurana/alfonso.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21588
+        },
+        {
+            "title": "Alfonso of Aragon in Triumph with his Court (detail)",
+            "date": "1452-58",
+            "technique": "Marble half life-size",
+            "location": "Castel Nuovo Naples",
+            "url": "https://www.wga.hu/html/l/laurana/alfonso_.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 21589
+        },
+        {
+            "title": "Beatrice of Aragon",
+            "date": "1474-75",
+            "technique": "Marble height 41 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/l/laurana/b_aragon.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21590
+        },
+        {
+            "title": "Battista Sforza",
+            "date": "c. 1474",
+            "technique": "Marble height 51 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/l/laurana/b_sforza.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21591
+        },
+        {
+            "title": "Battista Sforza",
+            "date": "c. 1474",
+            "technique": "Marble height 51 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/l/laurana/b_sforzb.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21592
+        },
+        {
+            "title": "Death-mask of a Woman (Battista Sforza?)",
+            "date": "1472",
+            "technique": "Terracotta traces of paint height 345 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/laurana/bsforza1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21593
+        },
+        {
+            "title": "Bust of a Lady",
+            "date": "1487-88",
+            "technique": "Coloured marble",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/laurana/bustlady.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21594
+        },
+        {
+            "title": "Bust of Eleanor of Aragon",
+            "date": "c. 1471",
+            "technique": "Marble height 50 cm",
+            "location": "Galleria Regionale della Sicilia Palermo",
+            "url": "https://www.wga.hu/html/l/laurana/isabella.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21595
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1470s",
+            "technique": "Marble traces of pigment height 47 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/l/laurana/portr_v.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21596
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1470s",
+            "technique": "Marble traces of pigment height 47 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/l/laurana/portr_w.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 21597
+        },
+        {}
+    ]
+}

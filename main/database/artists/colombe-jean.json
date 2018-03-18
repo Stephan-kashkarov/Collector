@@ -1,0 +1,29 @@
+{
+    "name": "COLOMBE Jean",
+    "life": "(b. ca. 1430 d. ca. 1496 Bourges)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Les tr\u00e8s riches heures du Duc de Berry: Novembre (November)",
+            "date": "1412-16",
+            "technique": "Manuscript (Ms. 65) 294 x 210 mm",
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "url": "https://www.wga.hu/html/c/colombe/jean/tresrich.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 9314
+        },
+        {
+            "title": "History of Troy",
+            "date": "c. 1490",
+            "technique": "Manuscript",
+            "location": "Deutsche Staatsbibliothek Berlin",
+            "url": "https://www.wga.hu/html/c/colombe/jean/troyhist.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 9315
+        },
+        {}
+    ]
+}

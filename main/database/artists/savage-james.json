@@ -1,0 +1,39 @@
+{
+    "name": "SAVAGE James",
+    "life": "(b. 1779 London d. 1852 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1820-24",
+            "technique": "Photo",
+            "location": "St. Luke's Church Chelsea London",
+            "url": "https://www.wga.hu/html/s/savage/chelsea.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36416
+        },
+        {
+            "title": "Interior view",
+            "date": "1820-24",
+            "technique": "Photo",
+            "location": "St. Luke's Church Chelsea London",
+            "url": "https://www.wga.hu/html/s/savage/chelsea1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 36417
+        },
+        {
+            "title": "General view",
+            "date": "1816",
+            "technique": "Photo",
+            "location": "O'Donovan Rossa Bridge Dublin",
+            "url": "https://www.wga.hu/html/s/savage/r_bridge.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36418
+        },
+        {}
+    ]
+}

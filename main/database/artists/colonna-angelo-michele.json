@@ -1,0 +1,79 @@
+{
+    "name": "COLONNA Angelo Michele",
+    "life": "(b. 1604 Rovenna d. 1687 Bologna)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "View of the Udienza Pubblica",
+            "date": "1639",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/colonna/pitti1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9325
+        },
+        {
+            "title": "View of the Udienza Pubblica",
+            "date": "1639-41",
+            "technique": "Fresco and stucco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/colonna/pitti2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9326
+        },
+        {
+            "title": "View of the Udienza Privata",
+            "date": "1640",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/colonna/pitti3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9327
+        },
+        {
+            "title": "Ceiling of the Udienza Privata",
+            "date": "1640",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/colonna/pitti4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9328
+        },
+        {
+            "title": "Ceiling of the Antechamber",
+            "date": "1640",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/colonna/pitti5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9329
+        },
+        {
+            "title": "View of the Salone delle Guardie",
+            "date": "1649",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Sassuolo",
+            "url": "https://www.wga.hu/html/c/colonna/sassuolo.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9330
+        },
+        {
+            "title": "Glorification of Este Patronage",
+            "date": "1649",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Sassuolo",
+            "url": "https://www.wga.hu/html/c/colonna/sassuolx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9331
+        },
+        {}
+    ]
+}

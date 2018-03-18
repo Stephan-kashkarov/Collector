@@ -1,0 +1,49 @@
+{
+    "name": "PSEUDO-PIER FRANCESCO FIORENTINO",
+    "life": "(active 1460-1500 in Florence)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Child with the Young St John",
+            "date": "1480s",
+            "technique": "Tempera on panel 110 x 68 cm",
+            "location": "Museo Bardini Florence",
+            "url": "https://www.wga.hu/html/p/pseudo/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32538
+        },
+        {
+            "title": "Madonna and Child with a Goldfinch",
+            "date": "-",
+            "technique": "Tempera on panel 68 x 50 cm (incl. frame)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pseudo/goldfinc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32539
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on panel gold ground 68 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pseudo/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32540
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist and an Angel",
+            "date": "1460-1500",
+            "technique": "Tempera on panel 65 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pseudo/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32541
+        },
+        {}
+    ]
+}

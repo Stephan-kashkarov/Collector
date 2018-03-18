@@ -1,0 +1,269 @@
+{
+    "name": "BATONI Pompeo",
+    "life": "(b. 1708 Lucca d. 1787 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Achilles and the Centaur Chiron",
+            "date": "1746",
+            "technique": "OIl on canvas 159 x 127 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/batoni/achilles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3500
+        },
+        {
+            "title": "The Countess of San Martino",
+            "date": "1785",
+            "technique": "Oil on canvas 99 x 74 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/batoni/countess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3501
+        },
+        {
+            "title": "Portrait of Charles Crowle",
+            "date": "1761-62",
+            "technique": "Oil on canvas 248 x 172 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/batoni/crowle.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3502
+        },
+        {
+            "title": "The Ecstasy of St Catherine of Siena",
+            "date": "1743",
+            "technique": "Oil on canvas",
+            "location": "Museo di Villa Guinigi Lucca",
+            "url": "https://www.wga.hu/html/b/batoni/extasy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3503
+        },
+        {
+            "title": "Portrait of Princess Giacinta Orsini Buoncampagni Ludovisi",
+            "date": "c. 1758",
+            "technique": "Oil on canvas 137 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/batoni/giacinta.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3504
+        },
+        {
+            "title": "Hercules at the Crossroads",
+            "date": "1748",
+            "technique": "Oil on canvas 99 x 74 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/batoni/hercule1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3505
+        },
+        {
+            "title": "Hercules at the Crossroads (detail)",
+            "date": "1748",
+            "technique": "Oil on canvas",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/batoni/hercule2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3506
+        },
+        {
+            "title": "Hercules at the Crossroads",
+            "date": "1742",
+            "technique": "Oil on canvas 94 x 73 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/b/batoni/hercules.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3507
+        },
+        {
+            "title": "Holy Family",
+            "date": "c. 1760",
+            "technique": "Oil on canvas 99 x 74 cm",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/b/batoni/holyfam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3508
+        },
+        {
+            "title": "Holy Family",
+            "date": "1777",
+            "technique": "Oil on canvas 226 x 150 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/batoni/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3509
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1742",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/batoni/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3510
+        },
+        {
+            "title": "The Marriage of Cupid and Psyche",
+            "date": "1756",
+            "technique": "Oil on canvas 183 x 118 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/batoni/marriage.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3511
+        },
+        {
+            "title": "Allegory of Mercy and Truth",
+            "date": "1745",
+            "technique": "Oil on canvas",
+            "location": "Benedictine Abbey Pannonhalma",
+            "url": "https://www.wga.hu/html/b/batoni/mercytru.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3512
+        },
+        {
+            "title": "Don Jos\u00e9 Mo\u00f1ino y Redondo Count of Floridablanca",
+            "date": "c. 1776",
+            "technique": "Oil on canvas 98 x 75 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/b/batoni/monino.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3513
+        },
+        {
+            "title": "Sir Gregory Page-Turner",
+            "date": "1768",
+            "technique": "Oil on canvas 135 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/batoni/pageturn.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3514
+        },
+        {
+            "title": "Portrait of John Staples",
+            "date": "1773",
+            "technique": "Oil on canvas",
+            "location": "Museo di Roma Rome",
+            "url": "https://www.wga.hu/html/b/batoni/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3515
+        },
+        {
+            "title": "Portrait of Charles William Ferdinand Duke of Brunswick and L\u00fcneburg",
+            "date": "1767",
+            "technique": "Oil on canvas",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/b/batoni/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3516
+        },
+        {
+            "title": "A Knight in Rome: Charles Cecil Roberts",
+            "date": "1778",
+            "technique": "Oil on canvas 221 x 157 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/batoni/roberts.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3517
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "1766",
+            "technique": "Oil on canvas 209 x 144 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/batoni/samsonde.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 3518
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1773-74",
+            "technique": "Oil on canvas 76 x 61 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/batoni/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3519
+        },
+        {
+            "title": "Sensuality",
+            "date": "1747",
+            "technique": "Oil on canvas 138 x 100 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/batoni/sensuali.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3520
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1751",
+            "technique": "Oil on canvas 99 x 136 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/batoni/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3521
+        },
+        {
+            "title": "Venus Presenting Aeneas with Armour Forged by Vulcan",
+            "date": "1748",
+            "technique": "Oil on canvas 99 x 74 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/batoni/venus1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3522
+        },
+        {
+            "title": "Venus Presenting Aeneas with Armour Forged by Vulcan (detail)",
+            "date": "1748",
+            "technique": "Oil on canvas",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/batoni/venus2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3523
+        },
+        {
+            "title": "Virgin and Child with Saints",
+            "date": "-",
+            "technique": "Oil on canvas 403 x 288 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/batoni/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3524
+        },
+        {
+            "title": "Virgin and Child with the Infant St John the Baptist",
+            "date": "1738-40",
+            "technique": "Oil on canvas 131 x 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/batoni/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3525
+        },
+        {}
+    ]
+}

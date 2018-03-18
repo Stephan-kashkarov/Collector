@@ -1,0 +1,29 @@
+{
+    "name": "DIEUSSART Fran\u00e7ois",
+    "life": "(b. ca. 1600 Armenti\u00e8res d. 1661 London)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait Bust of Pieter Spiering",
+            "date": "1645-50",
+            "technique": "Marble height 82 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dieussar/spiering.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 11532
+        },
+        {
+            "title": "Portrait Bust of Johanna Dor\u00e9",
+            "date": "1645-50",
+            "technique": "Marble height 82 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dieussar/spierinh.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 11533
+        },
+        {}
+    ]
+}

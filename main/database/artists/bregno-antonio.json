@@ -1,0 +1,39 @@
+{
+    "name": "BREGNO Antonio",
+    "life": "(active 1425-1457 in Venice)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Monument of Francesco Foscari",
+            "date": "after 1466",
+            "technique": "Limestone",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/b/bregno/antonio/foscari.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 6069
+        },
+        {
+            "title": "Monument of Francesco Foscari (detail)",
+            "date": "after 1466",
+            "technique": "Limestone",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/b/bregno/antonio/foscari1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 6070
+        },
+        {
+            "title": "Porta della Carta (detail)",
+            "date": "1438-42",
+            "technique": "Istrian stone marble gilding and paint",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/b/bregno/antonio/p_carta.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 6071
+        },
+        {}
+    ]
+}

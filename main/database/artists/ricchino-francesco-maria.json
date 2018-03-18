@@ -1,0 +1,59 @@
+{
+    "name": "RICCHINO Francesco Maria",
+    "life": "(b. ca. 1583 Milano d. 1658 Milano)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "designed 1627",
+            "technique": "Photo",
+            "location": "Collegio Elvetico Milan",
+            "url": "https://www.wga.hu/html/r/ricchino/elvetic1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 34234
+        },
+        {
+            "title": "Exterior view",
+            "date": "designed 1627",
+            "technique": "Photo",
+            "location": "Collegio Elvetico Milan",
+            "url": "https://www.wga.hu/html/r/ricchino/elvetic2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 34235
+        },
+        {
+            "title": "Exterior view",
+            "date": "1607-30",
+            "technique": "Photo",
+            "location": "San Giuseppe Milan",
+            "url": "https://www.wga.hu/html/r/ricchino/giusepp1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 34236
+        },
+        {
+            "title": "Interior view",
+            "date": "1607-30",
+            "technique": "Photo",
+            "location": "San Giuseppe Milan",
+            "url": "https://www.wga.hu/html/r/ricchino/giusepp2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 34237
+        },
+        {
+            "title": "Interior view",
+            "date": "1607-30",
+            "technique": "Photo",
+            "location": "San Giuseppe Milan",
+            "url": "https://www.wga.hu/html/r/ricchino/giusepp3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 34238
+        },
+        {}
+    ]
+}

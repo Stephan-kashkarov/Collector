@@ -1,0 +1,49 @@
+{
+    "name": "KONINCK Salomon",
+    "life": "(b. 1609 Amsterdam d. 1656 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "David and Bathsheba Mourning over Their Dead Son",
+            "date": "1640-45",
+            "technique": "Oil on panel 87 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/koninck/salomon/davidbat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21180
+        },
+        {
+            "title": "Parable of the Workers in the Vineyard",
+            "date": "1647-49",
+            "technique": "Oil on canvas 48 x 58 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/koninck/salomon/parable.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21181
+        },
+        {
+            "title": "A Philosopher",
+            "date": "1635",
+            "technique": "Oil on canvas 17 x 71 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/k/koninck/salomon/philosop.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21182
+        },
+        {
+            "title": "A Scholar Sharpening his Quill",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/koninck/salomon/scholar.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21183
+        },
+        {}
+    ]
+}

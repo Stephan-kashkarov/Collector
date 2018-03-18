@@ -1,0 +1,39 @@
+{
+    "name": "LAMI Eug\u00e8ne Louis",
+    "life": "(b. 1800 Paris d. 1890 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "A Couple Embracing in an Artist's Studio",
+            "date": "1881",
+            "technique": "Watercolour over traces of black chalk with touches of white gouache 198 x 246 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/l/lami/couple.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 21409
+        },
+        {
+            "title": "A Party at the Duc d'Orl\u00e9ans",
+            "date": "1843",
+            "technique": "Watercolour heightened with gouache on paper 350 x 572 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lami/ducorle1.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 21410
+        },
+        {
+            "title": "The Duc d'Orl\u00e9ans in an Oriental Costume",
+            "date": "-",
+            "technique": "Watercolour on paper 340 x 250 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lami/ducorle2.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 21411
+        },
+        {}
+    ]
+}

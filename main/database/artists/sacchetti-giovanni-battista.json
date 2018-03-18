@@ -1,0 +1,39 @@
+{
+    "name": "SACCHETTI Giovanni Battista",
+    "life": "(b. 1690 Torino d. 1764 Madrid)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1734-36",
+            "technique": "Photo",
+            "location": "La Granja hunting lodge San Ildefonso",
+            "url": "https://www.wga.hu/html/s/sacchett/lagranja.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35908
+        },
+        {
+            "title": "Exterior view",
+            "date": "1735-64",
+            "technique": "Photo",
+            "location": "Royal Palace Madrid",
+            "url": "https://www.wga.hu/html/s/sacchett/royalpa1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35909
+        },
+        {
+            "title": "Exterior view",
+            "date": "1735-64",
+            "technique": "Photo",
+            "location": "Royal Palace Madrid",
+            "url": "https://www.wga.hu/html/s/sacchett/royalpa2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35910
+        },
+        {}
+    ]
+}

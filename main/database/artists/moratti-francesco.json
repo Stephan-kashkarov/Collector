@@ -1,0 +1,39 @@
+{
+    "name": "MORATTI Francesco",
+    "life": "(d. ca. 1719 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "St Simon",
+            "date": "1708-09",
+            "technique": "Marble height 425 cm",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/m/moratti/st_simon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28789
+        },
+        {
+            "title": "St Simon",
+            "date": "1708-09",
+            "technique": "Marble height 425 cm",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/m/moratti/stsimon1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28790
+        },
+        {
+            "title": "St Simon (detail)",
+            "date": "1708-09",
+            "technique": "Marble",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/m/moratti/stsimon2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28791
+        },
+        {}
+    ]
+}

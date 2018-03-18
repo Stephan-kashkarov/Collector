@@ -1,0 +1,439 @@
+{
+    "name": "VOUET Simon",
+    "life": "(b. 1590 Paris d. 1649 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 64 x 48 cm",
+            "location": "Mus\u00e9e R\u00e9attu Arles",
+            "url": "https://www.wga.hu/html/v/vouet/1/0selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43575
+        },
+        {
+            "title": "St Catherine",
+            "date": "1614-15",
+            "technique": "Oil on panel 63 x 49 cm",
+            "location": "Palazzo del Quirinale Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/1magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43576
+        },
+        {
+            "title": "The Holy Family with Sts Elizabeth John the Baptist and Catherine",
+            "date": "1614-15",
+            "technique": "Oil on canvas 182 x 130 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/v/vouet/1/21holyfa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43577
+        },
+        {
+            "title": "Magdalene",
+            "date": "1614-15",
+            "technique": "Oil on panel 63 x 49 cm",
+            "location": "Palazzo del Quirinale Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/2catheri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43578
+        },
+        {
+            "title": "The Fortune Teller",
+            "date": "1617",
+            "technique": "Oil on canvas 95 x 135 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/2fortun.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43579
+        },
+        {
+            "title": "The Fortuneteller (detail)",
+            "date": "1617",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/2fortun1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43580
+        },
+        {
+            "title": "The Fortune Teller",
+            "date": "c. 1618",
+            "technique": "Oil on canvas 120 x 170 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/v/vouet/1/2fortun2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43581
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/v/vouet/1/3virginc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43582
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1615-20",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Apostolico Loreto",
+            "url": "https://www.wga.hu/html/v/vouet/1/4lastsup.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43583
+        },
+        {
+            "title": "Birth of the Virgin",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 217 x 329 cm",
+            "location": "San Francesco a Ripa Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/5birth.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43584
+        },
+        {
+            "title": "Prince Marcantonio Doria",
+            "date": "1621",
+            "technique": "Oil on canvas 129 x 95 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/1/5doria.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43585
+        },
+        {
+            "title": "Woman Playing the Guitar",
+            "date": "1621-22",
+            "technique": "Oil on canvas 107 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/1/5woman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43586
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1622",
+            "technique": "Oil on canvas 56 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/1/5youngma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43587
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1622",
+            "technique": "Oil on canvas 375 x 225 cm",
+            "location": "Chiesa del Ges\u00f9 Genoa",
+            "url": "https://www.wga.hu/html/v/vouet/1/6crucifi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43588
+        },
+        {
+            "title": "Crucifixion",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/v/vouet/1/7crucifi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43589
+        },
+        {
+            "title": "Sophonisba Receiving the Poisoned Chalice",
+            "date": "c. 1623",
+            "technique": "Oil on canvas 126 x 157 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/v/vouet/1/7sophoni.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43590
+        },
+        {
+            "title": "St Jerome and the Angel",
+            "date": "1622-25",
+            "technique": "Oil on canvas 145 x 180 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vouet/1/8jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43591
+        },
+        {
+            "title": "St Mary Magdalene",
+            "date": "1623-27",
+            "technique": "Oil on canvas 241 x 171 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/9marymag.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43592
+        },
+        {
+            "title": "Allegory of Peace",
+            "date": "c. 1627",
+            "technique": "Oil on canvas 350 x 250 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/v/vouet/1/9peace.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43593
+        },
+        {
+            "title": "Eight Satyrs Admiring the Anamorphosis of an Elephant",
+            "date": "c. 1625",
+            "technique": "Red chalk",
+            "location": "Hessisches Landesmuseum Darmstadt",
+            "url": "https://www.wga.hu/html/v/vouet/1/9satyrs.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 43594
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1628",
+            "technique": "Oil on canvas 58 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/2/01portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43595
+        },
+        {
+            "title": "Father Time Overcome by Love Hope and Beauty",
+            "date": "1627",
+            "technique": "Oil on canvas 107 x 142 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/v/vouet/2/01timelo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43596
+        },
+        {
+            "title": "Gaucher de Ch\u00e2tillon Conn\u00e9table",
+            "date": "1632-35",
+            "technique": "Oil on canvas 218 x 137 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/2/02gauche.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43597
+        },
+        {
+            "title": "The Penitent Magdalen",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 131 x 104 cm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/v/vouet/2/02magdal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43598
+        },
+        {
+            "title": "Presentation in the Temple",
+            "date": "1640-41",
+            "technique": "Oil on canvas 393 x 250 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/2/02presen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43599
+        },
+        {
+            "title": "Allegory of Virtue",
+            "date": "c. 1634",
+            "technique": "Oil on canvas 210 x 113 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/2/031virtu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43600
+        },
+        {
+            "title": "Diana",
+            "date": "1637",
+            "technique": "Oil on canvas 102 x 141 cm",
+            "location": "Royal Collection Hampton Court",
+            "url": "https://www.wga.hu/html/v/vouet/2/03diana.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43601
+        },
+        {
+            "title": "Allegory of Wealth",
+            "date": "1630-35",
+            "technique": "Oil on canvas 170 x 124 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/2/04allego.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43602
+        },
+        {
+            "title": "The Muses of Urania and Calliope",
+            "date": "c. 1634",
+            "technique": "Oil on white oak panel 80 x 125 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vouet/2/04muses.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43603
+        },
+        {
+            "title": "Euterpe the Muse of Music and Lyric Poetry",
+            "date": "1630s",
+            "technique": "Oil on oak panel 81 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/2/05muse.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43604
+        },
+        {
+            "title": "Sleeping Venus",
+            "date": "1630-40",
+            "technique": "Oil on canvas 1005 x 84 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/vouet/2/05sleepi.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43605
+        },
+        {
+            "title": "Toilet of Venus",
+            "date": "1628-39",
+            "technique": "Oil on canvas 1838 x 153 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/v/vouet/2/06toilet.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43606
+        },
+        {
+            "title": "Assembly of the Gods",
+            "date": "1630s",
+            "technique": "Oil on canvas 55 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/2/07assemb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43607
+        },
+        {
+            "title": "Parnassus or Apollo and the Muses",
+            "date": "c. 1640",
+            "technique": "Oil on panel 88 x 222 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/vouet/2/07parnas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43608
+        },
+        {
+            "title": "Parnassus or Apollo and the Muses (detail)",
+            "date": "c. 1640",
+            "technique": "Oil on panel",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/vouet/2/08parnas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43609
+        },
+        {
+            "title": "Parnassus or Apollo and the Muses (detail)",
+            "date": "c. 1640",
+            "technique": "Oil on panel",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/vouet/2/09parnas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43610
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 179 x 142 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/v/vouet/2/10europa.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43611
+        },
+        {
+            "title": "Heavenly Charity",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 192 x 132 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vouet/2/10heaven.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43612
+        },
+        {
+            "title": "Saturn Conquered by Amor Venus and Hope",
+            "date": "1645-46",
+            "technique": "Oil on canvas 187n x 142 cm",
+            "location": "Mus\u00e9e du Berry Bourges",
+            "url": "https://www.wga.hu/html/v/vouet/2/10saturn.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43613
+        },
+        {
+            "title": "Allegorical Portrait of Anna of Austria as Minerva",
+            "date": "1640s",
+            "technique": "Oil on canvas 202 x 172 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vouet/2/11allego.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43614
+        },
+        {
+            "title": "Annunciation",
+            "date": "1640s",
+            "technique": "Oil on canvas 121 x 86 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/v/vouet/2/12annunc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43615
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1646",
+            "technique": "Oil on canvas 118 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/2/13holyfa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43616
+        },
+        {
+            "title": "The Virgin and Child",
+            "date": "-",
+            "technique": "Oil on canvas 94 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vouet/2/14virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43617
+        },
+        {}
+    ]
+}

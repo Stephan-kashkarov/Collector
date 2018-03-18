@@ -1,0 +1,69 @@
+{
+    "name": "SITTOW Michel",
+    "life": "(b. ca. 1468 Reval d. 1525 Reval)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Assumption of the Virgin",
+            "date": "c. 1500",
+            "technique": "Oil on panel 21 x 16 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/s/sittow/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37393
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1496-1504",
+            "technique": "Oil on panel 24 x 18 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/sittow/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37394
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "c. 1500",
+            "technique": "Oil on oak panel 50 x 37 cm",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/s/sittow/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37395
+        },
+        {
+            "title": "Portrait of the Danish King Christian II",
+            "date": "1514-15",
+            "technique": "Oil on panel 31 x 22 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/s/sittow/portking.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37396
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1510",
+            "technique": "Oil on oak panel 36 x 26 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/sittow/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37397
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1515",
+            "technique": "Oil on panel 32 x 25 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/sittow/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37398
+        },
+        {}
+    ]
+}

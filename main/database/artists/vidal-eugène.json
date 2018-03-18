@@ -1,0 +1,39 @@
+{
+    "name": "VIDAL Eug\u00e8ne",
+    "life": "(b. 1847 Paris d. 1907 Cagnes)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Elegant Woman",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vidal/elegant.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43148
+        },
+        {
+            "title": "Girl Resting on Her Arms",
+            "date": "-",
+            "technique": "Oil on canvas 47 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vidal/girlrest.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43149
+        },
+        {
+            "title": "The Wait",
+            "date": "-",
+            "technique": "Oil on canvas 44 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vidal/the_wait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43150
+        },
+        {}
+    ]
+}

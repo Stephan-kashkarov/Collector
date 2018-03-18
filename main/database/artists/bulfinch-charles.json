@@ -1,0 +1,49 @@
+{
+    "name": "BULFINCH Charles",
+    "life": "(b. 1763 Boston d. 1844 Boston)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1795-98",
+            "technique": "Photo",
+            "location": "Massachusetts State House Boston",
+            "url": "https://www.wga.hu/html/b/bulfinch/boston1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6822
+        },
+        {
+            "title": "General view",
+            "date": "1795-98",
+            "technique": "Photo",
+            "location": "Massachusetts State House Boston",
+            "url": "https://www.wga.hu/html/b/bulfinch/boston2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6823
+        },
+        {
+            "title": "General view",
+            "date": "1792-1827",
+            "technique": "Photo",
+            "location": "Capitol Washington D.C.",
+            "url": "https://www.wga.hu/html/b/bulfinch/capitol.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6824
+        },
+        {
+            "title": "Beacon Hill Monument",
+            "date": "1791",
+            "technique": "Photo",
+            "location": "Boston",
+            "url": "https://www.wga.hu/html/b/bulfinch/memorial.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6825
+        },
+        {}
+    ]
+}

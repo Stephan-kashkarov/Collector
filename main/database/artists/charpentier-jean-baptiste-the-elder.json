@@ -1,0 +1,39 @@
+{
+    "name": "CHARPENTIER Jean-Baptiste the Elder",
+    "life": "(b. 1728 Paris d. 1806 Paris)",
+    "school": "",
+    "timeframe": "",
+    "art": [
+        {
+            "title": "The Family of the Duc de Penthi\u00e8vre (\"\"La Tasse de Chocolat\"\")\"1768Oil on canvas\"Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "date": "https://www.wga.hu/html/c/charpenj/penthie1.html",
+            "technique": "painting",
+            "location": "portrait",
+            "url": "French",
+            "form": "1751-1800",
+            "painting_type": "",
+            "index": 8715
+        },
+        {
+            "title": "Louis-Jean-Marie de Bourbon duc de Penthi\u00e8vre (1725-1793)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/c/charpenj/penthie2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8716
+        },
+        {
+            "title": "The Princess of Lamballe",
+            "date": "-",
+            "technique": "Oil on canvas 114 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/charpenj/princess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8717
+        },
+        {}
+    ]
+}

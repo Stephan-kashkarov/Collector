@@ -1,0 +1,39 @@
+{
+    "name": "POCOCK Nicholas",
+    "life": "(b. 1741 Bristol d. 1821 Maidenhead)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Battle of Copenhagen",
+            "date": "1801-03",
+            "technique": "Oil on canvas 71 x 102 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/p/pocock/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 31802
+        },
+        {
+            "title": "Landscape with a Figure on Horse",
+            "date": "1787",
+            "technique": "Oil on canvas 76 x 113 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/pocock/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31803
+        },
+        {
+            "title": "Burning of the Russian 74-gun Sewolod",
+            "date": "-",
+            "technique": "Oil on canvas 72 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pocock/sewolod.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 31804
+        },
+        {}
+    ]
+}

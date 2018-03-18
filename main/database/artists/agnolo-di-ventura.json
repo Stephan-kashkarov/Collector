@@ -1,0 +1,59 @@
+{
+    "name": "AGNOLO DI VENTURA",
+    "life": "(active 1311-1349 in Siena)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Monument to Bishop Guido Tarlati",
+            "date": "1327-30",
+            "technique": "Marble",
+            "location": "Duomo Arezzo",
+            "url": "https://www.wga.hu/html/a/agnol/tarlati1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 139
+        },
+        {
+            "title": "Monument to Bishop Guido Tarlati (detail)",
+            "date": "1327-30",
+            "technique": "Marble",
+            "location": "Duomo Arezzo",
+            "url": "https://www.wga.hu/html/a/agnol/tarlati2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 140
+        },
+        {
+            "title": "Monument to Bishop Guido Tarlati (detail)",
+            "date": "1327-30",
+            "technique": "Marble",
+            "location": "Duomo Arezzo",
+            "url": "https://www.wga.hu/html/a/agnol/tarlati3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 141
+        },
+        {
+            "title": "Monument to Bishop Guido Tarlati (detail)",
+            "date": "1327-30",
+            "technique": "Marble",
+            "location": "Duomo Arezzo",
+            "url": "https://www.wga.hu/html/a/agnol/tarlati4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 142
+        },
+        {
+            "title": "Monument to Bishop Guido Tarlati (detail)",
+            "date": "1327-30",
+            "technique": "Marble",
+            "location": "Duomo Arezzo",
+            "url": "https://www.wga.hu/html/a/agnol/tarlati5.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 143
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "NORIE James",
+    "life": "(b. 1684 Knockando d. 1757 Edinburgh)",
+    "school": "Scottish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Classical Landscape with Architecture",
+            "date": "1736",
+            "technique": "Oil on canvas 68 x 136 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/n/norie/classica.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29704
+        },
+        {
+            "title": "Arcadian Landscape with Figures beside a Weir",
+            "date": "-",
+            "technique": "Oil on canvas 109 x 137 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/norie/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29705
+        },
+        {}
+    ]
+}

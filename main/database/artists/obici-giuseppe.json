@@ -1,0 +1,39 @@
+{
+    "name": "OBICI Giuseppe",
+    "life": "(b. 1807 Spilamberto d. 1878 Roma)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "St Paul",
+            "date": "1850s",
+            "technique": "Marble",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/o/obici/st_paul.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29744
+        },
+        {
+            "title": "St Paul (detail)",
+            "date": "1850s",
+            "technique": "Marble",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/o/obici/st_paul1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29745
+        },
+        {
+            "title": "St Paul (detail)",
+            "date": "1850s",
+            "technique": "Marble",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/o/obici/st_paul2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29746
+        },
+        {}
+    ]
+}

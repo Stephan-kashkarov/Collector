@@ -1,0 +1,29 @@
+{
+    "name": "ZEINER Lukas",
+    "life": "(b. 1450 Z\u00fcrich d. 1519 Z\u00fcrich)",
+    "school": "Swiss",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Arms of Hugo von Hohenlandenberg",
+            "date": "c. 1500",
+            "technique": "Stained glass window",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/z/zeiner/arms1.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 44580
+        },
+        {
+            "title": "Arms of the Swiss Canton of Uri",
+            "date": "c. 1500",
+            "technique": "Stained glass window",
+            "location": "Schweizerisches Landesmuseum Zurich",
+            "url": "https://www.wga.hu/html/z/zeiner/arms2.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 44581
+        },
+        {}
+    ]
+}

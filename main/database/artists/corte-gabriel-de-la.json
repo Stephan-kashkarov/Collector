@@ -1,0 +1,69 @@
+{
+    "name": "CORTE Gabriel de la",
+    "life": "(b. 1648 Madrid d. 1694 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Vase of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 62 x 84 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/corte/flowers1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9639
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 63 x 83 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/corte/flowers2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9640
+        },
+        {
+            "title": "Still-Life of Flowers in a Woven Basket",
+            "date": "-",
+            "technique": "Oil on canvas 83 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte/flowers3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9641
+        },
+        {
+            "title": "Flowers in a Basket",
+            "date": "1680s",
+            "technique": "Oil on canvas 60 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte/flowers4.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9642
+        },
+        {
+            "title": "Grotesques with Flowers",
+            "date": "1690",
+            "technique": "Oil on canvas 61 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte/grotesq1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9643
+        },
+        {
+            "title": "Grotesques with Flowers",
+            "date": "1690",
+            "technique": "Oil on canvas 61 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte/grotesq2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9644
+        },
+        {}
+    ]
+}

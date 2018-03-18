@@ -1,0 +1,39 @@
+{
+    "name": "GENNARI Benedetto II",
+    "life": "(b. 1633 Cento d. 1715 Bologna)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Diana and Endymion",
+            "date": "c. 1673",
+            "technique": "Oil on canvas 177 x 225 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gennari/benedet2/dianaend.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 15141
+        },
+        {
+            "title": "Portrait of Marchese Francesco Fiaschi",
+            "date": "1655",
+            "technique": "Oil on canvas 109 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gennari/benedet2/marchese.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15142
+        },
+        {
+            "title": "Venus and Cupid",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gennari/benedet2/venus_cu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 15143
+        },
+        {}
+    ]
+}

@@ -1,0 +1,519 @@
+{
+    "name": "ROBERT Hubert",
+    "life": "(b. 1733 Paris d. 1808 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Teatro delle Acque in the Garden of the Villa Aldobrandini",
+            "date": "-",
+            "technique": "Oil on canvas 56 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/aldobran.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34628
+        },
+        {
+            "title": "An Architectural Capriccio",
+            "date": "1782",
+            "technique": "Oil on canvas 50 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/capricc1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34629
+        },
+        {
+            "title": "Architectural Capriccio",
+            "date": "c. 1780",
+            "technique": "Oil on canvas 67 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/capricci.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34630
+        },
+        {
+            "title": "A Scene in the Grounds of the Villa Farnese Rome",
+            "date": "c. 1765",
+            "technique": "Oil on panel 25 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/farnese.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34631
+        },
+        {
+            "title": "The Artist Drawing in the Farnese Gardens",
+            "date": "-",
+            "technique": "Red chalk 340 x 455 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/1/farnese1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 34632
+        },
+        {
+            "title": "Villa Farnese with Gardens at Caprarola",
+            "date": "c. 1764",
+            "technique": "Oil on canvas 46 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/farnese2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34633
+        },
+        {
+            "title": "Staircase (Scala Regia) in the Palace of Caprarola",
+            "date": "1760s",
+            "technique": "Oil on canvas 25 x 34 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/1/farnese3.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34634
+        },
+        {
+            "title": "Fountain on a Palace Terrace",
+            "date": "-",
+            "technique": "Oil on canvas 28 x 40 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/r/robert/1/fountain.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34635
+        },
+        {
+            "title": "The Great Archway",
+            "date": "-",
+            "technique": "Oil on panel 20 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/greatarc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34636
+        },
+        {
+            "title": "Italian Park",
+            "date": "-",
+            "technique": "Oil on wood 46 x 37 cm",
+            "location": "Museu Calouste Gulbenkian Lisbon",
+            "url": "https://www.wga.hu/html/r/robert/1/italpark.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34637
+        },
+        {
+            "title": "The Finding of the Laoco\u00f6n",
+            "date": "1773",
+            "technique": "Oil on canvas 119 x 163 cm",
+            "location": "Virginia Museum of Fine Arts Richmond",
+            "url": "https://www.wga.hu/html/r/robert/1/laokoon.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34638
+        },
+        {
+            "title": "St. Peter's Square Rome",
+            "date": "c. 1760",
+            "technique": "Oil on paper laid on canvas 33 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/petersqu.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34639
+        },
+        {
+            "title": "The Ponte Solario",
+            "date": "c. 1775",
+            "technique": "Oil on canvas 91 x 121 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/r/robert/1/pontesol.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34640
+        },
+        {
+            "title": "View of Ripetta",
+            "date": "1766",
+            "technique": "Oil on canvas 119 x 145 cm",
+            "location": "\u00c9cole Nationale Sup\u00e9rieure des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/r/robert/1/ripetta.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34641
+        },
+        {
+            "title": "Roman Figures under an Arcade",
+            "date": "1755-60",
+            "technique": "Oil on canvas 45 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/roman1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34642
+        },
+        {
+            "title": "Roman Figures in a Cave",
+            "date": "1755-60",
+            "technique": "Oil on canvas 45 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/roman2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34643
+        },
+        {
+            "title": "A Grand Staircase",
+            "date": "1763",
+            "technique": "Oil on canvas 40 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/staircas.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34644
+        },
+        {
+            "title": "Summer: Harvest in the Roman Countryside",
+            "date": "1807",
+            "technique": "Oil on canvas 77 x 161 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/summer.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34645
+        },
+        {
+            "title": "The Draughtsman of the Borghese Vase",
+            "date": "c. 1775",
+            "technique": "Red chalk 365 x 290 mm",
+            "location": "Mus\u00e9e des Beaux-Arts Valence",
+            "url": "https://www.wga.hu/html/r/robert/1/vase_bor.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 34646
+        },
+        {
+            "title": "Washerwomen in an Imaginary Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 96 x 111 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/washerw.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34647
+        },
+        {
+            "title": "Ancient Roman Bath with Women Washing Laundry",
+            "date": "-",
+            "technique": "Oil on canvas 50 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/1/washerwo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34648
+        },
+        {
+            "title": "Avenue in a Park",
+            "date": "1799",
+            "technique": "Oil on canvas 59 x 39 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/r/robert/2/avenue.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34649
+        },
+        {
+            "title": "The Footbridge",
+            "date": "c. 1775",
+            "technique": "Oil on canvas 59 x 47 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/r/robert/2/footbrid.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34650
+        },
+        {
+            "title": "Imaginary View of the Louvre through the Arch of a Bridge",
+            "date": "c. 1793",
+            "technique": "Oil on panel 17 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/imaginar.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34651
+        },
+        {
+            "title": "Inhabited Ruins",
+            "date": "1790",
+            "technique": "Oil on canvas 40 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robert/2/inhruins.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34652
+        },
+        {
+            "title": "La Bi\u00e8vre",
+            "date": "1768",
+            "technique": "Oil on canvas 55 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/labievre.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34653
+        },
+        {
+            "title": "Architectural Landscape with a Canal",
+            "date": "1783",
+            "technique": "Oil on canvas 129 x 183 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robert/2/lancanal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34654
+        },
+        {
+            "title": "Landscape with Three Figures before a Statue",
+            "date": "c. 1778",
+            "technique": "Oil on paper laid on canvas 21 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/land_fig.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34655
+        },
+        {
+            "title": "Imaginary View of the Grande Galerie in the Louvre in Ruins",
+            "date": "1796",
+            "technique": "Oil on canvas 1145 x 146 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34656
+        },
+        {
+            "title": "Design for the Grande Galerie in the Louvre",
+            "date": "1796",
+            "technique": "Oil on canvas 112 x 143 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 34657
+        },
+        {
+            "title": "Design for the Grande Galerie in the Louvre (detail)",
+            "date": "1796",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre2d.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 34658
+        },
+        {
+            "title": "Imaginary View of the Grande Galerie in the Louvre",
+            "date": "1789",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 34659
+        },
+        {
+            "title": "Imaginary View of the Grande Galerie in the Louvre (detail)",
+            "date": "1789",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre3d.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 34660
+        },
+        {
+            "title": "The Grande Galerie",
+            "date": "c. 1795",
+            "technique": "Oil on canvas 37 x 41 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre4.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 34661
+        },
+        {
+            "title": "The Grande Galerie (detail)",
+            "date": "c. 1795",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/louvre4d.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 34662
+        },
+        {
+            "title": "Ruins at Nimes",
+            "date": "-",
+            "technique": "Oil on canvas 117 x 174 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/robert/2/nimes.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34663
+        },
+        {
+            "title": "The Maison Car\u00e9e in Nimes",
+            "date": "1783",
+            "technique": "Oil on canvas 102 x 143 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robert/2/nimes1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34664
+        },
+        {
+            "title": "Demolition of the Houses on the Pont Notre-Dame in 1786",
+            "date": "1786",
+            "technique": "Oil on canvas 73 x 140 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/notredam.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34665
+        },
+        {
+            "title": "Painters",
+            "date": "1790s",
+            "technique": "Oil on canvas 24 x 32 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robert/2/painters.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34666
+        },
+        {
+            "title": "The Pont du Gard",
+            "date": "1787",
+            "technique": "Oil on canvas 242 x 242 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/provenc1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34667
+        },
+        {
+            "title": "The Arc de Triomphe and the Theatre of Orange",
+            "date": "1787",
+            "technique": "Oil on canvas 242 x 242 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/provenc2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34668
+        },
+        {
+            "title": "The Maison Carr\u00e9e the Arenas and the Magne Tower in Nimes",
+            "date": "1787",
+            "technique": "Oil on canvas 243 x 244 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/provenc3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34669
+        },
+        {
+            "title": "Ancient Ruins Used as Public Baths",
+            "date": "1798",
+            "technique": "Oil on canvas 133 x 194 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/robert/2/pub_bath.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34670
+        },
+        {
+            "title": "Ruin Capriccio",
+            "date": "c. 1786",
+            "technique": "Oil on canvas 41 x 31 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/r/robert/2/ruincapr.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34671
+        },
+        {
+            "title": "A Boy and a Dog among Ruins",
+            "date": "-",
+            "technique": "Oil on canvas 38 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/ruinsboy.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34672
+        },
+        {
+            "title": "Figures under a Bridge",
+            "date": "c. 1798",
+            "technique": "Oil on canvas 178 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/underbr.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34673
+        },
+        {
+            "title": "Figures under a Bridge (detail)",
+            "date": "c. 1798",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/robert/2/underbr1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34674
+        },
+        {
+            "title": "Washerwomen",
+            "date": "1796",
+            "technique": "Oil on canvas 603 x 416 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/r/robert/2/washer_w.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34675
+        },
+        {
+            "title": "Architectural Scene with Women Washing Clothes at a Pool",
+            "date": "1799",
+            "technique": "Oil on canvas 178 x 109 cm",
+            "location": "Museum of Art Indianapolis",
+            "url": "https://www.wga.hu/html/r/robert/2/washer_x.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34676
+        },
+        {
+            "title": "Washerwomen below a Bridge",
+            "date": "-",
+            "technique": "Oil on canvas 24 x 33 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/r/robert/2/washerwo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34677
+        },
+        {
+            "title": "Ditch at Place de la Concorde",
+            "date": "-",
+            "technique": "Red chalk 360 x 480 mm",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/r/robert/2/zditch.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 34678
+        },
+        {}
+    ]
+}

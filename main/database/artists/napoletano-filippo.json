@@ -1,0 +1,59 @@
+{
+    "name": "NAPOLETANO Filippo",
+    "life": "(b. ca. 1589 Napoli d. 1629 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Dante and Virgil in the Underworld",
+            "date": "c. 1622",
+            "technique": "Oil on slate oval 44 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/napoleta/dantevir.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 29359
+        },
+        {
+            "title": "Naval Battle",
+            "date": "c. 1620",
+            "technique": "Oil on river stone from the Arno 23 x 39 cm",
+            "location": "Museo dell'Opificio delle Pietre Dure Florence",
+            "url": "https://www.wga.hu/html/n/napoleta/navalbat.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29360
+        },
+        {
+            "title": "River Landscape",
+            "date": "1617-21",
+            "technique": "Oil on canvas 93 x 120 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/n/napoleta/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29361
+        },
+        {
+            "title": "Seller of Snails",
+            "date": "-",
+            "technique": "Oil on copper 18 x 13 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/n/napoleta/seller_sn.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29362
+        },
+        {
+            "title": "Two Shells",
+            "date": "1618",
+            "technique": "Oil on canvas 39 x 56 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/n/napoleta/shells.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29363
+        },
+        {}
+    ]
+}

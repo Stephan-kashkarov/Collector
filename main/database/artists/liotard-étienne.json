@@ -1,0 +1,89 @@
+{
+    "name": "LIOTARD \u00c9tienne",
+    "life": "(b. 1702 Geneve d. 1789 Geneve)",
+    "school": "Swiss",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Dutch Girl at Breakfast",
+            "date": "1755-56",
+            "technique": "Oil on canvas 47 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/liotard/breakfa.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22462
+        },
+        {
+            "title": "Dutch Girl at Breakfast (detail)",
+            "date": "1755-56",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/liotard/breakfa1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22463
+        },
+        {
+            "title": "The Chocolate Girl",
+            "date": "1744-45",
+            "technique": "Pastel on parchment 825 x 525 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/l/liotard/chocolat.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22464
+        },
+        {
+            "title": "Marie-Adalaide of France Dressed in Turkish Costume",
+            "date": "1753",
+            "technique": "Oil on canvas 50 x 56 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/liotard/marie_ad.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22465
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1744",
+            "technique": "Pastel on paper 61 x 49 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/liotard/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22466
+        },
+        {
+            "title": "Portrait of Fran\u00e7ois Tronchin",
+            "date": "1757",
+            "technique": "Pastel on parchment 38 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/liotard/tronchin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22467
+        },
+        {
+            "title": "Madame Jean Tronchin",
+            "date": "1758",
+            "technique": "Pastel on vellum 63 x 50 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/liotard/tronchix.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22468
+        },
+        {
+            "title": "Turkish Woman with a Tambourine",
+            "date": "1738-43",
+            "technique": "Oil on canvas 64 x 49 cm",
+            "location": "Mus\u00e9e d'Art et d'Histoire Geneva",
+            "url": "https://www.wga.hu/html/l/liotard/turkish.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22469
+        },
+        {}
+    ]
+}

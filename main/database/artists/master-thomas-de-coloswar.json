@@ -1,0 +1,49 @@
+{
+    "name": "MASTER THOMAS de Coloswar",
+    "life": "(first half of 15th century)",
+    "school": "Hungarian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Crucifixion",
+            "date": "1427",
+            "technique": "Tempera on wood",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/m/master/thomas/1garam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25230
+        },
+        {
+            "title": "The Death of St Giles",
+            "date": "1427",
+            "technique": "Tempera on pine wood 895 x 69 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/m/master/thomas/2garam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25231
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1427",
+            "technique": "Tempera on pine 87 X 68.5 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/m/master/thomas/3garam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25232
+        },
+        {
+            "title": "Ascension",
+            "date": "1427",
+            "technique": "Tempera on wood 90 x 715 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/m/master/thomas/4garam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25233
+        },
+        {}
+    ]
+}

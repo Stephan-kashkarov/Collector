@@ -1,0 +1,29 @@
+{
+    "name": "BARKER Thomas Jones",
+    "life": "(b. 1813 Bath d. 1882 London)",
+    "school": "English",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Relief of Lucknow 1857",
+            "date": "1859",
+            "technique": "Oil on canvas 105 x 181 ca",
+            "location": "National Portrait Gallery London",
+            "url": "https://www.wga.hu/html/b/barker/thomas1/lucknow.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 3183
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Victoria Art Gallery Bath",
+            "url": "https://www.wga.hu/html/b/barker/thomas1/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3184
+        },
+        {}
+    ]
+}

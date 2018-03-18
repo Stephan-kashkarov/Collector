@@ -1,0 +1,29 @@
+{
+    "name": "VERELST Maria",
+    "life": "(b. 1680 Wien d. 1744 London)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Anne Blackett",
+            "date": "c. 1723",
+            "technique": "Oil on canvas 122 x 156 cm",
+            "location": "National Trust Wallington",
+            "url": "https://www.wga.hu/html/v/verelst/maria/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42486
+        },
+        {
+            "title": "Portrait of Henrietta St John",
+            "date": "-",
+            "technique": "Oil on canvas 125 x 100 cm",
+            "location": "Lydiard House Swindon Wiltshire",
+            "url": "https://www.wga.hu/html/v/verelst/maria/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42487
+        },
+        {}
+    ]
+}

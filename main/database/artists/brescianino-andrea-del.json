@@ -1,0 +1,59 @@
+{
+    "name": "BRESCIANINO Andrea del",
+    "life": "(b. ca. 1485 Brescia d. ca. 1545 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Leda and the Swan",
+            "date": "1520s",
+            "technique": "Oil on panel 69 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brescian/ledaswan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6097
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on panel 73 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brescian/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6098
+        },
+        {
+            "title": "Madonna and Child with the Infant St John and St Peter Martyr",
+            "date": "-",
+            "technique": "Oil on panel diameter 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brescian/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6099
+        },
+        {
+            "title": "Venus and Two Cupids",
+            "date": "1520-25",
+            "technique": "Oil on canvas 150 x 66 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/brescian/venus_2c.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6100
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "date": "c. 1524",
+            "technique": "Oil on panel 51 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brescian/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6101
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "PETO John Frederick",
+    "life": "(b. 1854 Philadelphia d. 1907 New York City)",
+    "school": "American",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Books Mug Pipe and Violin",
+            "date": "1890-95",
+            "technique": "Oil on canvas 63 x 75",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/p/peto/books.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30945
+        },
+        {
+            "title": "The Poor Man's Store",
+            "date": "1885",
+            "technique": "Oil on canvas and wood 90 x 65 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/p/peto/manstore.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30946
+        },
+        {
+            "title": "Tom's River",
+            "date": "1905",
+            "technique": "Oil on canvas 59 x 41 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/p/peto/tomriver.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30947
+        },
+        {}
+    ]
+}

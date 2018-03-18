@@ -1,0 +1,29 @@
+{
+    "name": "VITRINGA Wigerus",
+    "life": "(b. 1657 Leeuwarden d. 1721 Wirdum)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Ships in Choppy Seas",
+            "date": "-",
+            "technique": "Oil on oak panel 22 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vitringa/choppy.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43322
+        },
+        {
+            "title": "Dutch Yacht and Other Ships",
+            "date": "-",
+            "technique": "Oil on canvas. 55 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vitringa/dutch_ya.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43323
+        },
+        {}
+    ]
+}

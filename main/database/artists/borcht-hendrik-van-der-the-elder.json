@@ -1,0 +1,29 @@
+{
+    "name": "BORCHT Hendrik van der the Elder",
+    "life": "(b. 1583 Bruxelles d. 1651 Frankfurt am Main)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Forest Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 69 x 116 cm",
+            "location": "Castle R\u00e1jec nad Svitavou Czech Republic",
+            "url": "https://www.wga.hu/html/b/borcht/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5071
+        },
+        {
+            "title": "Still-Life with Rarity Collection",
+            "date": "-",
+            "technique": "Oil on copper diameter 345 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/borcht/rarity.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 5072
+        },
+        {}
+    ]
+}

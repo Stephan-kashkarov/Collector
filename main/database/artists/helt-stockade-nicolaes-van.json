@@ -1,0 +1,29 @@
+{
+    "name": "HELT STOCKADE Nicolaes van",
+    "life": "(b. 1614 Nijmegen d. 1669 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of Two Children",
+            "date": "-",
+            "technique": "Oil on canvas 150 x 182 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/helt_sto/2children.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19573
+        },
+        {
+            "title": "King Tarquin and the Cumaean Sibyl",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 101 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/helt_sto/tarquin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19574
+        },
+        {}
+    ]
+}

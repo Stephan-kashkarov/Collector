@@ -1,0 +1,29 @@
+{
+    "name": "HAAGEN Joris Abrahamsz. van der",
+    "life": "(b. ca. 1615 Arnhem d. 1669 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Geese and Ducks at a Forest Lake",
+            "date": "1650s",
+            "technique": "Oil on panel 73 x 58 cm",
+            "location": "Museum Bredius The Hague",
+            "url": "https://www.wga.hu/html/h/haagen/geesduck.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19017
+        },
+        {
+            "title": "Forest Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/haagen/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19018
+        },
+        {}
+    ]
+}

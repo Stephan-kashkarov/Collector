@@ -1,0 +1,79 @@
+{
+    "name": "BICCI DI NERI",
+    "life": "(b. 1419 Firenze d. 1491 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Coronation of the Virgin",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/b/bicci/neri/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4541
+        },
+        {
+            "title": "Madonna and Child Enthroned with Saints",
+            "date": "-",
+            "technique": "Tempera on panel transferred to canvas 135 x 194 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bicci/neri/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4542
+        },
+        {
+            "title": "Nativity",
+            "date": "1470s",
+            "technique": "Tempera on wood 23 x 66 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/b/bicci/neri/nativit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4543
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "1470s",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/b/bicci/neri/nativit1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4544
+        },
+        {
+            "title": "Nativity (detail)",
+            "date": "1470s",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/b/bicci/neri/nativit2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4545
+        },
+        {
+            "title": "Sts Sebastian and Apollonia",
+            "date": "1547",
+            "technique": "Tempera on panel 112 x 40 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bicci/neri/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4546
+        },
+        {
+            "title": "Virgin and Child Enthroned with Four Angels",
+            "date": "c. 1445",
+            "technique": "Tempera on panel 155 x 89 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/b/bicci/neri/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4547
+        },
+        {}
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "ROSSELLI Francesco",
+    "life": "(b. 1445 Firenze d. before 1513 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Aristotle: Nicomachean Ethics",
+            "date": "c. 1480",
+            "technique": "Manuscript (Ms. lat. 6309)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/aristotl.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 35162
+        },
+        {
+            "title": "Book of Hours of Lorenzo de' Medici",
+            "date": "1485",
+            "technique": "Manuscript (Clm 23639) 170 x 108 mm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/book1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 35163
+        },
+        {
+            "title": "Book of Hours of Lorenzo de' Medici",
+            "date": "1485",
+            "technique": "Manuscript (Clm 23639) 170 x 108 mm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/book2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 35164
+        },
+        {
+            "title": "Marsilio Ficino's Letters",
+            "date": "1475-76",
+            "technique": "Manuscript",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/ficino.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 35165
+        },
+        {
+            "title": "View of Florence with the Chain",
+            "date": "1480s",
+            "technique": "Woodcut 584 x 1315 mm",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/florence.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 35166
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "1480s",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/lastjudg.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 35167
+        },
+        {
+            "title": "The Triumph of Love",
+            "date": "1480s",
+            "technique": "Engraving 298 x 197 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/triumph1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 35168
+        },
+        {
+            "title": "The Triumph of Chastity",
+            "date": "1480s",
+            "technique": "Engraving 298 x 197 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/triumph2.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 35169
+        },
+        {
+            "title": "The Triumph of Time",
+            "date": "1480s",
+            "technique": "Engraving 298 x 197 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/r/rosselli/francesc/triumph3.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 35170
+        },
+        {}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "PERRIER Fran\u00e7ois",
+    "life": "(b. ca. 1594 Pontarlier d. 1649 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Acis Galatea and Polyphemus",
+            "date": "1645-50",
+            "technique": "Oil on canvas 97 x 133 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perrier/acisgala.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30724
+        },
+        {
+            "title": "Aeneas and his Companions Fighting the Harpies",
+            "date": "1646-47",
+            "technique": "Oil on canvas 155 x 218 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perrier/aeneas_f.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30725
+        },
+        {
+            "title": "The Sacrifice of Iphigenia",
+            "date": "1632-33",
+            "technique": "Oil on canvas 213 x 154 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "url": "https://www.wga.hu/html/p/perrier/sacrific.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30726
+        },
+        {}
+    ]
+}

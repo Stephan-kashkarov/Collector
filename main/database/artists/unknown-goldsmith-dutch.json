@@ -1,0 +1,29 @@
+{
+    "name": "UNKNOWN GOLDSMITH Dutch",
+    "life": "(active 1660s)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Pair of candlesticks",
+            "date": "1668",
+            "technique": "Silver height 28 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/17c/02d_1600.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 40542
+        },
+        {
+            "title": "Vase and two flasks",
+            "date": "1678-79",
+            "technique": "Silver height 42 cm and 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/1gold/17c/02d_1601.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 40543
+        },
+        {}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ROSI Zanobi",
+    "life": "(b. ca. 1596 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Vision of the Centurion Cornelius",
+            "date": "-",
+            "technique": "Oil on canvas 148 x 233 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosi_z/centurio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35137
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "-",
+            "technique": "Oil on canvas 37 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosi_z/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35138
+        },
+        {}
+    ]
+}

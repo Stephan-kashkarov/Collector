@@ -1,0 +1,199 @@
+{
+    "name": "MELOZZO DA FORLI",
+    "life": "(b. 1438 Forli d. 1494 Forli)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Music-making Angel",
+            "date": "1480-84",
+            "technique": "Fresco",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/m/melozzo/angel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25930
+        },
+        {
+            "title": "Music-making Angel",
+            "date": "1480-84",
+            "technique": "Fresco",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/m/melozzo/angel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25931
+        },
+        {
+            "title": "Angel with Tambourine",
+            "date": "1480-84",
+            "technique": "Fresco",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/m/melozzo/angel3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25932
+        },
+        {
+            "title": "Apostle",
+            "date": "1480-84",
+            "technique": "Fresco",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/m/melozzo/angel4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25933
+        },
+        {
+            "title": "Annunciation",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Pantheon Rome",
+            "url": "https://www.wga.hu/html/m/melozzo/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25934
+        },
+        {
+            "title": "Foundation of the Library",
+            "date": "1477",
+            "technique": "Fresco",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/m/melozzo/foundati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25935
+        },
+        {
+            "title": "View of the Sacristy of St Mark",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/0view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 25936
+        },
+        {
+            "title": "Vaulting decoration of the Sacristy of St Mark",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/0view1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 25937
+        },
+        {
+            "title": "Vaulting decoration of the Sacristy of St Mark (detail)",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/0view2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 25938
+        },
+        {
+            "title": "Angel Holding an Instrument of the Passion",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/1angel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25939
+        },
+        {
+            "title": "Angel Holding an Instrument of the Passion",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/1angel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25940
+        },
+        {
+            "title": "Angel Holding an Instrument of the Passion",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/1angel3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25941
+        },
+        {
+            "title": "Angel",
+            "date": "1477-80",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/1angel31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25942
+        },
+        {
+            "title": "Angel with a Lamb as a Symbol of Christ's Sacrifice",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/1angel4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25943
+        },
+        {
+            "title": "Christ's Entry into Jerusalem",
+            "date": "1477-82",
+            "technique": "Fresco width 230 cm",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/2scene.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25944
+        },
+        {
+            "title": "Christ's Entry into Jerusalem (detail)",
+            "date": "1477-82",
+            "technique": "Fresco",
+            "location": "Basilica of Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/m/melozzo/loreto/2scene1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25945
+        },
+        {
+            "title": "Pestapepe",
+            "date": "-",
+            "technique": "Detached fresco",
+            "location": "Pinacoteca Civica Forli",
+            "url": "https://www.wga.hu/html/m/melozzo/postapep.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 25946
+        },
+        {
+            "title": "Triumphant Christ",
+            "date": "1481-83",
+            "technique": "Fresco transferred to canvas",
+            "location": "Palazzo del Quirinale Rome",
+            "url": "https://www.wga.hu/html/m/melozzo/triumpha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25947
+        },
+        {
+            "title": "Triumphant Christ (detail)",
+            "date": "1481-83",
+            "technique": "Fresco transferred to canvas",
+            "location": "Palazzo del Quirinale Rome",
+            "url": "https://www.wga.hu/html/m/melozzo/triumphd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25948
+        },
+        {}
+    ]
+}

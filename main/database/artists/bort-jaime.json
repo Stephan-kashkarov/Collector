@@ -1,0 +1,29 @@
+{
+    "name": "BORT Jaime",
+    "life": "(d. 1754 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1742-54",
+            "technique": "Photo",
+            "location": "Cathedral Murcia",
+            "url": "https://www.wga.hu/html/b/bort/murcia1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5174
+        },
+        {
+            "title": "Exterior view (detail)",
+            "date": "1742-54",
+            "technique": "Photo",
+            "location": "Cathedral Murcia",
+            "url": "https://www.wga.hu/html/b/bort/murcia2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5175
+        },
+        {}
+    ]
+}

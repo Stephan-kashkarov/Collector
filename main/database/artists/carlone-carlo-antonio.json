@@ -1,0 +1,39 @@
+{
+    "name": "CARLONE Carlo Antonio",
+    "life": "(b. 1635 Scaria d. 1708 Passau)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1686-1724",
+            "technique": "Photo",
+            "location": "Collegiate foundation St. Florian",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo1/florian1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7684
+        },
+        {
+            "title": "Exterior view",
+            "date": "1686-1724",
+            "technique": "Photo",
+            "location": "Collegiate foundation St. Florian",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo1/florian2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7685
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1706",
+            "technique": "Photo",
+            "location": "Pilgrimage Church Christkindl",
+            "url": "https://www.wga.hu/html/c/carlone2/carlo1/pilgrima.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7686
+        },
+        {}
+    ]
+}

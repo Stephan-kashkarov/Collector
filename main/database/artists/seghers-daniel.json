@@ -1,0 +1,79 @@
+{
+    "name": "SEGHERS Daniel",
+    "life": "(b. 1590 Antwerpen d. 1661 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Christ and St Therese in a Garland of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 130 x 105 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/c_garlan.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36840
+        },
+        {
+            "title": "Floral Wreath with Relief after Quellinus",
+            "date": "1645-50",
+            "technique": "Oil on canvas 129 x 95 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/floral.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36841
+        },
+        {
+            "title": "Floral Wreath with Madonna and Child",
+            "date": "-",
+            "technique": "Oil on copper 1975 x 795 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/floral_w.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36842
+        },
+        {
+            "title": "Garland of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 130 x 98 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/garland.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36843
+        },
+        {
+            "title": "Garland of Flowers",
+            "date": "1650-52",
+            "technique": "Oil on canvas 129 x 97 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/garland1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36844
+        },
+        {
+            "title": "Garland of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 155 x 114 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/garland2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36845
+        },
+        {
+            "title": "Swags of Flowers",
+            "date": "1646",
+            "technique": "Oil on canvas 124 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seghers/daniel/swags.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 36846
+        },
+        {}
+    ]
+}

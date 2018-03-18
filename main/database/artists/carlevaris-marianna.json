@@ -1,0 +1,49 @@
+{
+    "name": "CARLEVARIS Marianna",
+    "life": "(b. 1703 Venezia d. ca. 1750 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Gerolamo Maria Balbi",
+            "date": "1740-42",
+            "technique": "Pastel on paper",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7678
+        },
+        {
+            "title": "Portrait of Cornelia Foscolo Balbi",
+            "date": "1740-42",
+            "technique": "Pastel on paper",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7679
+        },
+        {
+            "title": "Portrait of Marco Balbi",
+            "date": "1740-42",
+            "technique": "Pastel on paper",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7680
+        },
+        {
+            "title": "Portrait of Caterina Balbi",
+            "date": "1740-42",
+            "technique": "Pastel on paper",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7681
+        },
+        {}
+    ]
+}

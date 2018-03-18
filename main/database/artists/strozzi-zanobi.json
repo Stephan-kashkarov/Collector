@@ -1,0 +1,149 @@
+{
+    "name": "STROZZI Zanobi",
+    "life": "(b. 1412 Firenze d. 1468 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Book of Hours for the Use of Rome",
+            "date": "c. 1445",
+            "technique": "Manuscript 135 x 93 mm (each)",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/s/strozziz/1/bookhou1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38272
+        },
+        {
+            "title": "Book of Hours for the Use of Rome",
+            "date": "c. 1445",
+            "technique": "Manuscript 135 x 93 mm (each)",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/s/strozziz/1/bookhou2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38273
+        },
+        {
+            "title": "Book of Hours for the Use of Rome",
+            "date": "c. 1463",
+            "technique": "Manuscript 70 x 45 mm (folio size)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/strozziz/1/bookhou3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38274
+        },
+        {
+            "title": "Gradual",
+            "date": "1448-49",
+            "technique": "Manuscript 63 x 47 mm",
+            "location": "Museo di San Marco Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/1/choral.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38275
+        },
+        {
+            "title": "Gradual",
+            "date": "1450-55",
+            "technique": "Manuscript (Corale 3)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/1/choral1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38276
+        },
+        {
+            "title": "Gradual",
+            "date": "1450-55",
+            "technique": "Manuscript (Corale 3)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/1/choral2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38277
+        },
+        {
+            "title": "Gradual",
+            "date": "1450-55",
+            "technique": "Manuscript (Corale 3)",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/1/choral3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38278
+        },
+        {
+            "title": "Psalter",
+            "date": "1450s",
+            "technique": "Manuscript 140 x 135 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/strozziz/1/psalter.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 38279
+        },
+        {
+            "title": "Silius Italicus: De bello punico",
+            "date": "c. 1450",
+            "technique": "Manuscript (Lat. XII. 68)",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/s/strozziz/1/punico.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 38280
+        },
+        {
+            "title": "Madonna of Humility with Two Musician Angels",
+            "date": "1448-50",
+            "technique": "Panel 84 x 57 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/s/strozziz/2/humility.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38281
+        },
+        {
+            "title": "Madonna and Child with Angels",
+            "date": "c. 1434",
+            "technique": "Tempera and gold on panel 138 x 127 cm",
+            "location": "Museo di San Marco Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/2/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38282
+        },
+        {
+            "title": "Sts Cosmas and Damian Saved from Drowning",
+            "date": "c. 1435",
+            "technique": "Tempera and gold on panel 20 x 22 cm",
+            "location": "Museo di San Marco Florence",
+            "url": "https://www.wga.hu/html/s/strozziz/2/stcosmas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38283
+        },
+        {
+            "title": "St Jerome Altarpiece",
+            "date": "1460s",
+            "technique": "Oil on wood 220 x 261 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/s/strozziz/2/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38284
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1453",
+            "technique": "Tempera and gold on panel 37 x 30 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/s/strozziz/2/theannun.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38285
+        },
+        {}
+    ]
+}

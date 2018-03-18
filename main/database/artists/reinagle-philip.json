@@ -1,0 +1,49 @@
+{
+    "name": "REINAGLE Philip",
+    "life": "(b. 1749 Edinburgh d. 1833 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "A Pointer",
+            "date": "c. 1795",
+            "technique": "Oil on canvas 39 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reinagle/philip/apointer.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 33361
+        },
+        {
+            "title": "Blue Passion Flower",
+            "date": "1800",
+            "technique": "Oil on canvas 45 x 38 cm",
+            "location": "Yale Center for British Art New Haven",
+            "url": "https://www.wga.hu/html/r/reinagle/philip/bluepass.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 33362
+        },
+        {
+            "title": "Members of Carrow Abbey Hunt",
+            "date": "1780",
+            "technique": "Oil on canvas 117 x 155 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/r/reinagle/philip/members.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 33363
+        },
+        {
+            "title": "Spearing the Otter",
+            "date": "1805",
+            "technique": "Oil on canvas 37 x 51 cm",
+            "location": "Yale Center for British Art New Haven",
+            "url": "https://www.wga.hu/html/r/reinagle/philip/spearing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 33364
+        },
+        {}
+    ]
+}

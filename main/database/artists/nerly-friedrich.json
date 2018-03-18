@@ -1,0 +1,29 @@
+{
+    "name": "NERLY Friedrich",
+    "life": "(b. 1807 Erfurt d. 1878 Venezia)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Riva degli Schiavoni Venice",
+            "date": "1842",
+            "technique": "Oil on canvas 70 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nerly/venice1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29511
+        },
+        {
+            "title": "View of the Grand Canal Venice",
+            "date": "-",
+            "technique": "Oil on canvas 38 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nerly/venice2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29512
+        },
+        {}
+    ]
+}

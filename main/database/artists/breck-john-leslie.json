@@ -1,0 +1,29 @@
+{
+    "name": "BRECK John Leslie",
+    "life": "(b. 1860 at South Pacific d. 1899 Boston)",
+    "school": "American",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Garden at Giverny",
+            "date": "1890",
+            "technique": "Oil on canvas 46 x 56 cm",
+            "location": "Terra Foundation for American Art Chicago",
+            "url": "https://www.wga.hu/html/b/breck/garden.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6036
+        },
+        {
+            "title": "Garden at Giverny (In the Garden of Monet)",
+            "date": "c. 1887",
+            "technique": "Oil on canvas 46 x 56 cm",
+            "location": "Terra Foundation for American Art Chicago",
+            "url": "https://www.wga.hu/html/b/breck/gardenmo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6037
+        },
+        {}
+    ]
+}

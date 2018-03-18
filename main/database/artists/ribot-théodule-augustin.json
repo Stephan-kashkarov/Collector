@@ -1,0 +1,49 @@
+{
+    "name": "RIBOT Th\u00e9odule-Augustin",
+    "life": "(b. 1823 Saint-Nicolas-d'Attez d. 1891 Colombes)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Breton Fishermen and Families",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 46 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ribot/breton.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34227
+        },
+        {
+            "title": "The Good Samaritan",
+            "date": "before 1870",
+            "technique": "Oil on canvas 98 x 131 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Pau",
+            "url": "https://www.wga.hu/html/r/ribot/samarita.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34228
+        },
+        {
+            "title": "The Little Scrubbers",
+            "date": "-",
+            "technique": "Oil on canvas 46 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ribot/scrubbers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34229
+        },
+        {
+            "title": "Still-Life",
+            "date": "1861",
+            "technique": "Oil on canvas 38 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ribot/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 34230
+        },
+        {}
+    ]
+}

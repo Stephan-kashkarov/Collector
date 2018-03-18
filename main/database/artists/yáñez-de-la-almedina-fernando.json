@@ -1,0 +1,39 @@
+{
+    "name": "Y\u00c1\u00d1EZ DE LA ALMEDINA Fernando",
+    "life": "(active 1505-36)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Saint Catherine",
+            "date": "1505-10",
+            "technique": "Oil on canvas 212 x 112 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/y/yanez/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44474
+        },
+        {
+            "title": "Rest during the Flight to Egypt",
+            "date": "1507",
+            "technique": "Oil on panel 194 x 227 cm",
+            "location": "Cathedral Valencia",
+            "url": "https://www.wga.hu/html/y/yanez/d_virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44475
+        },
+        {
+            "title": "Madonna and Child with Infant St John",
+            "date": "c. 1505",
+            "technique": "Oil on panel 78 x 64 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/y/yanez/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44476
+        },
+        {}
+    ]
+}

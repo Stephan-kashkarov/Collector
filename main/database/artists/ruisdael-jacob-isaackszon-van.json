@@ -1,0 +1,679 @@
+{
+    "name": "RUISDAEL Jacob Isaackszon van",
+    "life": "(b. ca. 1628 Haarlem d. 1682 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Two Watermills and an Open Sluice near Singraven",
+            "date": "1650-52",
+            "technique": "Oil on canvas 87 x 112 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/2watermi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35682
+        },
+        {
+            "title": "Bentheim Castle",
+            "date": "1653",
+            "technique": "Oil on canvas 111 x 144 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/benthei.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35683
+        },
+        {
+            "title": "Bentheim Castle (detail)",
+            "date": "1653",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/benthei1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35684
+        },
+        {
+            "title": "View of Bentheim Castle from the North-West",
+            "date": "c. 1652",
+            "technique": "Oil on panel 52 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/bentheij.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35685
+        },
+        {
+            "title": "The Castle at Bentheim",
+            "date": "1651",
+            "technique": "Oil on canvas 98 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/bentheim.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35686
+        },
+        {
+            "title": "Oak Tree and Dense Shrubbery at the Edge of a Pond",
+            "date": "1646-47",
+            "technique": "Oil on panel 66 x 49 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/dense.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35687
+        },
+        {
+            "title": "Road through an Oak Forest",
+            "date": "1646-47",
+            "technique": "Oil on canvas 85 x 104 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/forestro.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35688
+        },
+        {
+            "title": "Glade in a Wood",
+            "date": "c. 1646",
+            "technique": "Oil on wood 58 x 47 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/glade.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35689
+        },
+        {
+            "title": "The Great Oak",
+            "date": "1652",
+            "technique": "Oil on canvas",
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/greatoak.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35690
+        },
+        {
+            "title": "Landscape with a House in the Grove",
+            "date": "about 1646",
+            "technique": "Oil on canvas 105 x 162 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/grove.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35691
+        },
+        {
+            "title": "Landscape with a Village in the Distance",
+            "date": "1646",
+            "technique": "Oil on wood.76 x 109 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/land_vil.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35692
+        },
+        {
+            "title": "Landscape with a Traveller",
+            "date": "1650",
+            "technique": "Oil on panel 35 x 47 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/landtrav.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35693
+        },
+        {
+            "title": "Norwegian Landscape with Waterfall",
+            "date": "1650s",
+            "technique": "Oil on canvas 98 x 84 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/norwegia.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35694
+        },
+        {
+            "title": "The Thicket (Path in the Haarlem Dunes)",
+            "date": "c. 1649",
+            "technique": "Oil on canvas 68 x 82 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/thicket.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35695
+        },
+        {
+            "title": "View of Amsterdam",
+            "date": "-",
+            "technique": "Oil on canvas 53 x 44 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/view_am.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35696
+        },
+        {
+            "title": "View of Amsterdam (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/view_ams.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35697
+        },
+        {
+            "title": "Village at the Wood's Edge",
+            "date": "c. 1651",
+            "technique": "Oil on canvas 52 x 66 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35698
+        },
+        {
+            "title": "Two Watermills and an Open Sluice",
+            "date": "1653",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/water_m.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35699
+        },
+        {
+            "title": "Two Undershot Watermills with Men Opening a Sluice",
+            "date": "1650s",
+            "technique": "Oil on oak panel 54 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/water_m1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35700
+        },
+        {
+            "title": "Rocky Landscape with a Waterfall",
+            "date": "1655-60",
+            "technique": "Oil on canvas 109 x 135 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/waterfal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35701
+        },
+        {
+            "title": "Evening Landscape: A Windmill by a Stream",
+            "date": "1655-59",
+            "technique": "Oil on canvas 79 x 102 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/1/windmill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35702
+        },
+        {
+            "title": "The Cloister",
+            "date": "1650-55",
+            "technique": "Oil on canvas 75 x 96 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/cloister.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35703
+        },
+        {
+            "title": "The Dam Square in Amsterdam",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 52 x 65 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/damsquar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35704
+        },
+        {
+            "title": "The Dam Square in Amsterdam (detail)",
+            "date": "c. 1670",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/damsquax.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35705
+        },
+        {
+            "title": "The Forest Stream",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 100 x 129 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/f_stream.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35706
+        },
+        {
+            "title": "The Hunt",
+            "date": "-",
+            "technique": "Oil on canvas 108 x 147 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/hunt.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 35707
+        },
+        {
+            "title": "The Jewish Cemetery",
+            "date": "1655-60",
+            "technique": "Oil on canvas 84 x 95 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/jewish.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35708
+        },
+        {
+            "title": "The Jewish Cemetery",
+            "date": "c 1657",
+            "technique": "Oil on canvas 141 x 183 cm",
+            "location": "Institute of Arts Detroit",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/jewish_c.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35709
+        },
+        {
+            "title": "The Jewish Cemetery (detail)",
+            "date": "c 1657",
+            "technique": "Oil on canvas",
+            "location": "Institute of Arts Detroit",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/jewish_x.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35710
+        },
+        {
+            "title": "Huis Kostverloren on the Amstel River",
+            "date": "c. 1664",
+            "technique": "Oil on canvas 63 x 76 cm",
+            "location": "Amsterdam Museum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/kostverl.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35711
+        },
+        {
+            "title": "The Large Forest",
+            "date": "-",
+            "technique": "Oil on canvas 140 x 180 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/l_forest.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35712
+        },
+        {
+            "title": "Landscape with Cattle",
+            "date": "1666",
+            "technique": "Oil on panel 50 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/lancattl.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35713
+        },
+        {
+            "title": "Landscape with Church and Village",
+            "date": "1665-70",
+            "technique": "Oil on canvas 59 x 73 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35714
+        },
+        {
+            "title": "The Marsh in a Forest",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 73 x 99 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/marsh.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35715
+        },
+        {
+            "title": "The Ray of Sunlight",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 83 x 99 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/ray_sunl.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35716
+        },
+        {
+            "title": "Road through Corn Fields near the Zuider Zee",
+            "date": "1660-62",
+            "technique": "Oil on canvas 45 x 55 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/roadcorn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35717
+        },
+        {
+            "title": "An Extensive Landscape with a Ruined Castle and a Village Church",
+            "date": "1665-72",
+            "technique": "Oil on canvas 109 x 146 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/ruined_c.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35718
+        },
+        {
+            "title": "Stormy Sea with Sailing Boats",
+            "date": "c. 1668",
+            "technique": "Oil on canvas 50 x 63 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/stormyse.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35719
+        },
+        {
+            "title": "View of Haarlem with Bleaching Grounds",
+            "date": "c 1665",
+            "technique": "Oil on canvas 62 x 55 cm",
+            "location": "Kunsthaus Zurich",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/view_haa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35720
+        },
+        {
+            "title": "Landscape with a View of Haarlem",
+            "date": "1670-75",
+            "technique": "Oil on canvas 52 x 65 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/view_hab.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35721
+        },
+        {
+            "title": "Landscape with a View of Haarlem (detail)",
+            "date": "1670-75",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/view_hac.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35722
+        },
+        {
+            "title": "View of Haarlem with Bleaching Grounds",
+            "date": "1670-75",
+            "technique": "Oil on canvas 56 x 62 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/view_had.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35723
+        },
+        {
+            "title": "A Village in Winter",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 37 x 33 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35724
+        },
+        {
+            "title": "Village in Winter by Moonlight",
+            "date": "-",
+            "technique": "Oil on canvas 36 x 32 cm",
+            "location": "Staatsgalerie Schleissheim",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/winter_m.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35725
+        },
+        {
+            "title": "Woodland Scene with Lake",
+            "date": "c. 1657",
+            "technique": "Oil on oak 14 x 17 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/2/woodland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35726
+        },
+        {
+            "title": "The Shore at Egmond-an-Zee",
+            "date": "c. 1675",
+            "technique": "Oil on canvas 53 x 66 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/egmond.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35727
+        },
+        {
+            "title": "Grainfields",
+            "date": "1665-68",
+            "technique": "Oil on canvas 47 x 57 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/grain_fi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35728
+        },
+        {
+            "title": "Landscape with Shepherds and Peasants",
+            "date": "1660s",
+            "technique": "Oil on canvas 52 x 60 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/landshep.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35729
+        },
+        {
+            "title": "Oaks by a Lake with Waterlilies",
+            "date": "1665-69",
+            "technique": "Oil on canvas 117 x 142 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/oakslake.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35730
+        },
+        {
+            "title": "The Breakwater",
+            "date": "1670-72",
+            "technique": "Oil on canvas 110 x 160 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/storm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35731
+        },
+        {
+            "title": "Sunrise in a Wood",
+            "date": "after 1670",
+            "technique": "Oil on canvas 90 x 77 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/sunrise.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35732
+        },
+        {
+            "title": "Mountain Torrent",
+            "date": "1670s",
+            "technique": "Oil on canvas 54 x 42 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/torrent.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35733
+        },
+        {
+            "title": "Waterfall with Castle Built on the Rock",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 100 x 86 cm",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/water_foh.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35734
+        },
+        {
+            "title": "Waterfall in Norway",
+            "date": "1668-72",
+            "technique": "Oil on canvas 108 x 143 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/water_fx.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35735
+        },
+        {
+            "title": "Landscape with Waterfall",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 101 x 142 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35736
+        },
+        {
+            "title": "Landscape with Waterfall",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 142 x 195 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfai.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35737
+        },
+        {
+            "title": "Waterfall by a Church",
+            "date": "1667-70",
+            "technique": "Oil on canvas 109 x 132 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfak.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35738
+        },
+        {
+            "title": "Waterfall in a Rocky Landscape",
+            "date": "1660s",
+            "technique": "Oil on canvas 99 x 85 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35739
+        },
+        {
+            "title": "Low Waterfall in a Hilly Landscape",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 46 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfam.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35740
+        },
+        {
+            "title": "Low Waterfall in a Hilly Landscape (detail)",
+            "date": "c. 1670",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35741
+        },
+        {
+            "title": "The Waterfall",
+            "date": "1665-70",
+            "technique": "Oil on canvas 100 x 87 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfax.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35742
+        },
+        {
+            "title": "Waterfall in a Mountainous Northern Landscape",
+            "date": "1665",
+            "technique": "Oil on canvas",
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/waterfog.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35743
+        },
+        {
+            "title": "Wheat Fields",
+            "date": "1670s",
+            "technique": "Oil on canvas 100 x 130 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/wheat_f.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35744
+        },
+        {
+            "title": "The Windmill at Wijk bij Duurstede",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 83 x 101 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/windmill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35745
+        },
+        {
+            "title": "The Windmill at Wijk bij Duurstede (detail)",
+            "date": "c. 1670",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/windmiln.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35746
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "1670",
+            "technique": "Oil on canvas 42 x 50 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/winter_l.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35747
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 66 x 97 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/r/ruysdael/jacob/3/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35748
+        },
+        {}
+    ]
+}

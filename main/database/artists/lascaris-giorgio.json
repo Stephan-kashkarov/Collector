@@ -1,0 +1,29 @@
+{
+    "name": "LASCARIS Giorgio",
+    "life": "(b. before 1496 d. 1531 Padova)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1480",
+            "technique": "Stone",
+            "location": "Santa Maria dei Miracoli Venice",
+            "url": "https://www.wga.hu/html/l/lascaris/virgin_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21558
+        },
+        {
+            "title": "Madonna with Child",
+            "date": "1531",
+            "technique": "Marble 40 x 34 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lascaris/virgin_z.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21559
+        },
+        {}
+    ]
+}

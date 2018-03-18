@@ -1,0 +1,329 @@
+{
+    "name": "GIOVANNI DA MILANO",
+    "life": "(active 1350-69 Milano Firenze)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Eleven Saints",
+            "date": "c. 1365",
+            "technique": "Tempera on wood 159 x 71 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16545
+        },
+        {
+            "title": "Christ Enthroned with Four Adoring Angels",
+            "date": "c. 1365",
+            "technique": "Tempera on wood 152 x 69 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16546
+        },
+        {
+            "title": "Three pinnacle panels",
+            "date": "c. 1365",
+            "technique": "Egg tempera on wood 89 x 37 cm (each)",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16547
+        },
+        {
+            "title": "Three pinnacle panels (detail)",
+            "date": "c. 1365",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16548
+        },
+        {
+            "title": "Three pinnacle panels (detail)",
+            "date": "c. 1365",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16549
+        },
+        {
+            "title": "Resurrection",
+            "date": "c. 1365",
+            "technique": "Tempera on wood 26 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16550
+        },
+        {
+            "title": "Incredulity of St Thomas",
+            "date": "c. 1365",
+            "technique": "Tempera on wood 26 x 64 cm",
+            "location": "Alana Collection Newark Delaware",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/altar7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16551
+        },
+        {
+            "title": "Christ and the Virgin Enthroned with Six Saints",
+            "date": "1350-55",
+            "technique": "Egg tempera on wood 46 x 34 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/christv1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16552
+        },
+        {
+            "title": "Christ and the Virgin Enthroned with Six Saints (detail)",
+            "date": "1350-55",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/christv2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16553
+        },
+        {
+            "title": "Christ and the Virgin Enthroned with Six Saints (detail)",
+            "date": "1350-55",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/christv3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16554
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "1350s",
+            "technique": "Tempera on panel 51 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16555
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1355",
+            "technique": "Tempera on panel gold ground 47 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/crucifiz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16556
+        },
+        {
+            "title": "St Francis of Assisi",
+            "date": "c. 1360",
+            "technique": "Wood 113 x 39 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/francis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16557
+        },
+        {
+            "title": "Ognissanti Polyptych: lateral panel",
+            "date": "before 1365",
+            "technique": "Tempera on wood 133 x 41 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/ognissa1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16558
+        },
+        {
+            "title": "Ognissanti Polyptych: lateral panel",
+            "date": "before 1365",
+            "technique": "Tempera on wood 133 x 41 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/ognissa2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16559
+        },
+        {
+            "title": "Ognissanti Polyptych: lateral panel",
+            "date": "before 1365",
+            "technique": "Tempera on wood 133 x 41 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/ognissa3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16560
+        },
+        {
+            "title": "Ognissanti Polyptych: lateral panel",
+            "date": "before 1365",
+            "technique": "Tempera on wood 133 x 41 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/ognissa4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16561
+        },
+        {
+            "title": "Ognissanti Polyptych: lateral panel",
+            "date": "before 1365",
+            "technique": "Tempera on wood 133 x 41 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/ognissa5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16562
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1365",
+            "technique": "Tempera on panel 110 x 46 cm",
+            "location": "Galleria dell'Accademia Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16563
+        },
+        {
+            "title": "Polyptych with Madonna and Saints",
+            "date": "1355",
+            "technique": "Panel",
+            "location": "Museo Civico Prato",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/polyptyc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16564
+        },
+        {
+            "title": "The Righteous of the Old Testament",
+            "date": "1365-69",
+            "technique": "Tempera on panel with gold 20 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/panels/predella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16565
+        },
+        {
+            "title": "View from the northwest",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/0view.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16566
+        },
+        {
+            "title": "North wall",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16567
+        },
+        {
+            "title": "Expulsion of Joachim from the Temple (north wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16568
+        },
+        {
+            "title": "Expulsion of Joachim from the Temple (north wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16569
+        },
+        {
+            "title": "Birth of the Virgin (north wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16570
+        },
+        {
+            "title": "Birth of the Virgin (north wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16571
+        },
+        {
+            "title": "Meeting of Joachim and Anne at the Golden Gate (north wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/1north5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16572
+        },
+        {
+            "title": "South wall",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/2south.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16573
+        },
+        {
+            "title": "Feast in the House of Simon the Pharisee (south wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/2south1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16574
+        },
+        {
+            "title": "Raising of Lazarus (south wall detail)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/2south2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16575
+        },
+        {
+            "title": "Prophets (vault fresco)",
+            "date": "1365",
+            "technique": "Fresco",
+            "location": "Rinuccini Chapel Santa Croce Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/milano/rinuccin/3vault.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16576
+        },
+        {}
+    ]
+}

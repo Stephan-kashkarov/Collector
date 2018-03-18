@@ -1,0 +1,89 @@
+{
+    "name": "SUSINI Antonio",
+    "life": "(b. before 1580 Firenze d. 1624 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Crucifix",
+            "date": "1589",
+            "technique": "Bronze",
+            "location": "San Marco Florence",
+            "url": "https://www.wga.hu/html/s/susini/antonio/crucifix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 38327
+        },
+        {
+            "title": "Deianira Abducted by the Centaur Nessus",
+            "date": "c. 1600",
+            "technique": "Bronze height 43 cm (without socle)",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/deianir2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38328
+        },
+        {
+            "title": "Deianira Abducted by the Centaur Nessus",
+            "date": "c. 1600",
+            "technique": "Bronze height 43 cm (without socle)",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/deianira.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38329
+        },
+        {
+            "title": "Farnese Bull",
+            "date": "1613",
+            "technique": "Bronze",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/s/susini/antonio/farnese.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38330
+        },
+        {
+            "title": "Equestrian Statuette of Ferdinando I de' Medici",
+            "date": "c. 1600",
+            "technique": "Bronze with remains of red-gold paint height 64 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/ferdinan.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38331
+        },
+        {
+            "title": "Hercules and the Centaur",
+            "date": "c. 1600",
+            "technique": "Bronze",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/hercules.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38332
+        },
+        {
+            "title": "Hercules and the Centaur",
+            "date": "c. 1600",
+            "technique": "Bronze",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/herculex.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38333
+        },
+        {
+            "title": "Rape of a Sabine Woman",
+            "date": "1581-82",
+            "technique": "Bronze red-yellow paint darkened to opaque brown height 59 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/susini/antonio/sabine.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 38334
+        },
+        {}
+    ]
+}

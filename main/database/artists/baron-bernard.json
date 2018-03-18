@@ -1,0 +1,29 @@
+{
+    "name": "BARON Bernard",
+    "life": "(b. 1696 Paris d. 1762 London)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Italian Comedians",
+            "date": "c. 1740",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/baron/watteau1.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 3228
+        },
+        {
+            "title": "Peaceful Love",
+            "date": "c. 1740",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/baron/watteau2.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 3229
+        },
+        {}
+    ]
+}

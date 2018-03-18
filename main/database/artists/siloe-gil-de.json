@@ -1,0 +1,89 @@
+{
+    "name": "SILOE Gil de",
+    "life": "(d. ca. 1501 Burgos)",
+    "school": "Spanish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Tomb of Infante Alfonso",
+            "date": "1489-93",
+            "technique": "Alabaster",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/alfonso.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37157
+        },
+        {
+            "title": "Tomb of Juan II of Castile and Isabel of Portugal",
+            "date": "1489-93",
+            "technique": "Alabaster",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/juanisa.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37158
+        },
+        {
+            "title": "Tomb of Juan II of Castile and Isabel of Portugal (detail)",
+            "date": "1489-93",
+            "technique": "Alabaster",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/juanisa1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37159
+        },
+        {
+            "title": "Main Altar",
+            "date": "1496-99",
+            "technique": "Wood",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/mainalt.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37160
+        },
+        {
+            "title": "Main Altar (detail)",
+            "date": "1496-99",
+            "technique": "Wood",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/mainalt1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37161
+        },
+        {
+            "title": "Main Altar (detail)",
+            "date": "1496-99",
+            "technique": "Wood",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/mainalt2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37162
+        },
+        {
+            "title": "Tomb of Juan de Padilla (detail)",
+            "date": "1489-93",
+            "technique": "Alabaster",
+            "location": "Museo Provincial Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/padilla.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37163
+        },
+        {
+            "title": "Tomb of Juan de Padilla (detail)",
+            "date": "1489-93",
+            "technique": "Alabaster",
+            "location": "Museo Provincial Burgos",
+            "url": "https://www.wga.hu/html/s/siloe/gil/padillb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37164
+        },
+        {}
+    ]
+}

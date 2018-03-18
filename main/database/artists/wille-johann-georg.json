@@ -1,0 +1,39 @@
+{
+    "name": "WILLE Johann Georg",
+    "life": "(b. 1715 Oberm\u00fchle am D\u00fcnsberg d. 1808 Paris)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Paternal Instruction",
+            "date": "1765",
+            "technique": "Engraving 340 x 435 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/wille/paternal.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 44185
+        },
+        {
+            "title": "Portrait of Christian Wolff",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/w/wille/portrai1.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44186
+        },
+        {
+            "title": "Maria Teresa of Spain",
+            "date": "-",
+            "technique": "Engraving 240 x 175 mm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/w/wille/portrai2.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44187
+        },
+        {}
+    ]
+}

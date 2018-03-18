@@ -1,16 +1,33 @@
 const artist_template = ({
-	title,
-	img,
-	desc
+	name,
+	life,
+	school,
+	timeframe
 }) => `
-<li class="${title} article">
+<li class="${name} article">
+	<span>
+		${name}
+	</span>
+	<p>Life: ${life} School: ${school} Time-Frame: ${timeframe}</p>
+	<ul class="art-container ${name}-list">
+	</ul>
+</li>
+`;
+
+const art_list_template = ({
+	title,
+	date,
+	index
+}) => `
+<li class="${title}">
 	<span>
 		${title}
 	</span>
-	<img src="${img}" width="100px" height="100">
-	<p>${desc}</p>
+	<p>
+		Date: ${date}, Index: ${index}
+	</p>
 </li>
-`;
+`
 
 const autocomplete_template = ({
 	name

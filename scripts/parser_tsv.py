@@ -158,18 +158,21 @@ for line in lines:
 			art_cache = {}
 	art_index += 1
 
+print("Creating artists-master.json")
 with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE
 	json.dump(parsed_data, outfile, indent=4)  # DUMPS DATA TO JSON FILE
 
-name_list = {}
+name_dict = {}
+name_index = 0
 for name in parsed_data:
-	print("creating file for:", name['name'])
+	print("creating file number " + str(name_index) + " for:", name['name'])
+	name_index += 1
 	filename = name['name'].replace(" ", "-").replace('.', '').lower()
 	filename = filename + ".json"
 	url = "../main/database/artists/" + filename
-	name_list[name['name']] = url[8:]
+	name_dict[name_index] = [name["name"], url[8:]]
 	with open(url, "w") as file:
 		json.dump(name, file, indent = 4)
 
 with open("../main/database/artists.json", "w") as outfile:  # SETS JSON FILE AS WRITE
-	json.dump(name_list, outfile, indent=4)  # DUMPS DATA TO JSON FILE
+	json.dump(name_dict, outfile, indent=4)  # DUMPS DATA TO JSON FILE

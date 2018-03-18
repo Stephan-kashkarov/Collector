@@ -1,4 +1,4 @@
-const article_template = ({
+const artist_template = ({
 	title,
 	img,
 	desc
@@ -12,10 +12,10 @@ const article_template = ({
 </li>
 `;
 
-const option_template = ({
-	title
+const autocomplete_template = ({
+	name
 }) => `
-<option value="${title}">
-	${title}
-</option>
-`;
+<option>
+	${name}
+<option>
+`

@@ -8,11 +8,14 @@ $(document).ready(function (e) {
 	});
 	artist_list = artist_list.responseText;
 	console.log("Parsing artist list");
-	JSON.parse(artist_list)
+	JSON.parse(artist_list);
 	console.log("Artist list parsed");
 	for (var i = 0; i < artist_list.length; i++) {
 		console.log("adding artist,", i);
-		i = new artist(artist_list[i]);
+		index = parseInt(i);
+		index = new artist(artist_list[i]);
+		artist_dict.push(index);
 	}
+	make_data_list(artist_dict);
 
 });

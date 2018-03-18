@@ -15,11 +15,26 @@ class artist_lite {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
 			}
 		})
+		profile = artist_profile.responseText;
+		this.name = new artist_full(profile)
 	}
 }
 
 class artist_full {
-	constructor() {
+	constructor(object) {
+		this.object = object
+		this.name = object["name"];
+		this.life = object["life"];
+		this.school = object["school"];
+		this.timeframe = object["timeframe"];
+		this.arts = [];
+		for (var i = 0; i < object["art"].length; i++) {
+			this.arts.push(object["art"][i]["title"]);
+		}
+	}
+
+
+	print_art(name) {
 
 	}
 }

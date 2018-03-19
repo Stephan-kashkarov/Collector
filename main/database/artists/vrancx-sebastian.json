@@ -28,7 +28,7 @@
             "title": "Ambush",
             "date": "c. 1630",
             "technique": "Oil on oak 445 x 643 cm",
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "location": "Národní Galerie Prague",
             "url": "https://www.wga.hu/html/v/vrancx/ambush.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -68,7 +68,7 @@
             "title": "January",
             "date": "-",
             "technique": "Oil on wood 27 x 37 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/v/vrancx/january.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -78,7 +78,7 @@
             "title": "January (detail)",
             "date": "-",
             "technique": "Oil on wood",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/v/vrancx/january1.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -143,7 +143,6 @@
             "form": "painting",
             "painting_type": "historical",
             "index": 43631
-        },
-        {}
+        }
     ]
 }

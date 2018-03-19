@@ -5,7 +5,7 @@
     "timeframe": "1501-1550",
     "art": [
         {
-            "title": "The Dauphin Fran\u00e7ois Son of Fran\u00e7ois I",
+            "title": "The Dauphin François Son of François I",
             "date": "-",
             "technique": "Oil on panel 16 x 13 cm",
             "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
@@ -15,27 +15,27 @@
             "index": 9149
         },
         {
-            "title": "Portrait of Fran\u00e7ois I as St John the Baptist",
+            "title": "Portrait of François I as St John the Baptist",
             "date": "1518",
             "technique": "Oil on wood 96 x 79 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clouet/jean/francbap.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 9150
         },
         {
-            "title": "Portrait of Fran\u00e7ois I King of France",
+            "title": "Portrait of François I King of France",
             "date": "1525-30",
             "technique": "Wood 96 x 74 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clouet/jean/francois.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 9151
         },
         {
-            "title": "Guillaume Bud\u00e9",
+            "title": "Guillaume Budé",
             "date": "c. 1536",
             "technique": "Oil on wood 397 x 343 cm",
             "location": "Metropolitan Museum of Art New York",
@@ -58,7 +58,7 @@
             "title": "Portrait of Jean de Dinteville Seigneur de Polisy",
             "date": "c. 1533",
             "technique": "Chalk 251 x 19 cm",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/clouet/jean/polisy.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -68,7 +68,7 @@
             "title": "Portrait of an Unknown Man",
             "date": "-",
             "technique": "Chalk drawing",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/clouet/jean/portrai1.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -78,7 +78,7 @@
             "title": "Madame de Lautrec",
             "date": "-",
             "technique": "Chalk drawing",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/clouet/jean/portrai2.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -88,7 +88,7 @@
             "title": "Man with a Petrarch",
             "date": "-",
             "technique": "Chalk drawing",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/clouet/jean/portrai3.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -98,12 +98,11 @@
             "title": "Jean de la Barre",
             "date": "c. 1520",
             "technique": "Black and red chalk 284 x 200 mm",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/clouet/jean/portrai4.html",
             "form": "graphics",
             "painting_type": "portrait",
             "index": 9158
-        },
-        {}
+        }
     ]
 }

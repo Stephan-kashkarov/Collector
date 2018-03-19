@@ -8,7 +8,7 @@
             "title": "The Randon de Boisset Gallery",
             "date": "1777",
             "technique": "Red and black chalk black ink 200 x 157 mm",
-            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "location": "Musée des Arts décoratifs Paris",
             "url": "https://www.wga.hu/html/s/saint-au/gabriel/boisset.html",
             "form": "graphics",
             "painting_type": "interior",
@@ -18,7 +18,7 @@
             "title": "Catalogue of the Salon of 1769",
             "date": "1789",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/s/saint-au/gabriel/catalog.html",
             "form": "graphics",
             "painting_type": "other",
@@ -48,7 +48,7 @@
             "title": "View of the Salon of 1765",
             "date": "1765",
             "technique": "Pen ink and watercolour wash on paper 250 x 460 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/saint-au/gabriel/sal_1765.html",
             "form": "graphics",
             "painting_type": "study",
@@ -58,7 +58,7 @@
             "title": "The Salon of 1779",
             "date": "-",
             "technique": "Oil on canvas-backed paper 20 x 44 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/saint-au/gabriel/sal_1779.html",
             "form": "painting",
             "painting_type": "interior",
@@ -78,12 +78,11 @@
             "title": "The Tuileries",
             "date": "1760",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/s/saint-au/gabriel/tuilerie.html",
             "form": "graphics",
             "painting_type": "landscape",
             "index": 35992
-        },
-        {}
+        }
     ]
 }

@@ -138,7 +138,7 @@
             "title": "The Pantry",
             "date": "-",
             "technique": "Oil on canvas 170 x 290 cm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/s/snyders/1/pantry.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -198,7 +198,7 @@
             "title": "Group of Birds Perched on Branches",
             "date": "1630s",
             "technique": "Oil on canvas 122 x 176 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/snyders/2/birds4.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -238,7 +238,7 @@
             "title": "Three Monkeys Stealing Fruit",
             "date": "1640s",
             "technique": "Oil on canvas 98 x 147 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/snyders/2/monkeys.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -248,7 +248,7 @@
             "title": "Return from the Hunt",
             "date": "1610s",
             "technique": "Oil on canvas 149 x 119 cm",
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "location": "Národní Galerie Prague",
             "url": "https://www.wga.hu/html/s/snyders/2/return.html",
             "form": "painting",
             "painting_type": "genre",
@@ -363,7 +363,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 37505
-        },
-        {}
+        }
     ]
 }

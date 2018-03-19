@@ -45,7 +45,7 @@
             "index": 7041
         },
         {
-            "title": "Florentine F\u00eate",
+            "title": "Florentine Fête",
             "date": "1619",
             "technique": "Etching",
             "location": "British Museum London",
@@ -85,7 +85,7 @@
             "index": 7045
         },
         {
-            "title": "Scene from the Grandes Mis\u00e8res de la Guerre",
+            "title": "Scene from the Grandes Misères de la Guerre",
             "date": "1633",
             "technique": "Etching",
             "location": "British Museum London",
@@ -98,7 +98,7 @@
             "title": "Siege of La Rochelle",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/c/callot/siege.html",
             "form": "graphics",
             "painting_type": "historical",
@@ -113,7 +113,6 @@
             "form": "graphics",
             "painting_type": "landscape",
             "index": 7048
-        },
-        {}
+        }
     ]
 }

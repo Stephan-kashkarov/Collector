@@ -8,7 +8,7 @@
             "title": "The Adoration of the Shepherds",
             "date": "1659",
             "technique": "Oil on copper 68 x 52 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/castigli/adoratio.html",
             "form": "painting",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Christ Chasing the Moneylenders from the Temple",
             "date": "1645-55",
             "technique": "Oil on canvas 100 x 124 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/castigli/christ_c.html",
             "form": "painting",
             "painting_type": "religious",
@@ -98,7 +98,7 @@
             "title": "In Front of Noah's Ark",
             "date": "c. 1650",
             "technique": "Oil on canvas 145 x 195 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/c/castigli/noahsark.html",
             "form": "painting",
             "painting_type": "religious",
@@ -108,7 +108,7 @@
             "title": "In Front of Noah's Ark (detail)",
             "date": "c. 1650",
             "technique": "Oil on canvas",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/c/castigli/noahsarx.html",
             "form": "painting",
             "painting_type": "religious",
@@ -153,7 +153,6 @@
             "form": "graphics",
             "painting_type": "mythological",
             "index": 8174
-        },
-        {}
+        }
     ]
 }

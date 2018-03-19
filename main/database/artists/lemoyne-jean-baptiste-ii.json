@@ -18,7 +18,7 @@
             "title": "Bust of Arnaud de la Briffe",
             "date": "1754",
             "technique": "Terracotta",
-            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "location": "Musée des Arts décoratifs Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/briffe.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -28,7 +28,7 @@
             "title": "Bust of Mademoiselle Clairon",
             "date": "1761",
             "technique": "Terracotta",
-            "location": "Com\u00e9die-Fran\u00e7aise Paris",
+            "location": "Comédie-Française Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/clairon.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -38,7 +38,7 @@
             "title": "Mademoiselle Dangeville as Thalia",
             "date": "1771",
             "technique": "Marble height 72 cm",
-            "location": "Com\u00e9die-Fran\u00e7aise Paris",
+            "location": "Comédie-Française Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/dangevil.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -88,7 +88,7 @@
             "title": "Bust of Maupeou",
             "date": "1768",
             "technique": "Marble",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/maupeau.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -108,22 +108,21 @@
             "title": "Bust of Montesquieu",
             "date": "1760",
             "technique": "Marble",
-            "location": "Mus\u00e9e des Beaux-Arts Bordeaux",
+            "location": "Musée des Beaux-Arts Bordeaux",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/montesqu.html",
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 21905
         },
         {
-            "title": "Bust of R\u00e9aumur",
+            "title": "Bust of Réaumur",
             "date": "1751",
             "technique": "Terracotta height 24 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanbapt/reaumur.html",
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 21906
-        },
-        {}
+        }
     ]
 }

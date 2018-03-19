@@ -78,7 +78,7 @@
             "title": "Cupid and Psyche",
             "date": "1786-93",
             "technique": "Marble height 155 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/canova/1/3amor.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -88,7 +88,7 @@
             "title": "Cupid and Psyche",
             "date": "1786-93",
             "technique": "Marble height 155 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/canova/1/3amor0.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -98,7 +98,7 @@
             "title": "Cupid and Psyche (detail)",
             "date": "1786-93",
             "technique": "Marble",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/canova/1/3amor1.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -108,7 +108,7 @@
             "title": "Cupid and Psyche (detail)",
             "date": "1786-93",
             "technique": "Marble",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/canova/1/3amor2.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -238,7 +238,7 @@
             "title": "Cupid and Psyche",
             "date": "1796-1800",
             "technique": "Marble 150 x 68 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/canova/1/92cupid.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -553,7 +553,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 7400
-        },
-        {}
+        }
     ]
 }

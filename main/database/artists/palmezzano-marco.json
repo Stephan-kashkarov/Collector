@@ -1,6 +1,6 @@
 {
     "name": "PALMEZZANO Marco",
-    "life": "(b. ca. 1459 Forl\u00ed d. ca. 1539 Forl\u00ed)",
+    "life": "(b. ca. 1459 Forlí d. ca. 1539 Forlí)",
     "school": "Italian",
     "timeframe": "1451-1500",
     "art": [
@@ -8,7 +8,7 @@
             "title": "The Baptism of Christ",
             "date": "-",
             "technique": "Oil on panel 90 x 70 cm",
-            "location": "Pinacoteca Civica Forl\u00ed",
+            "location": "Pinacoteca Civica Forlí",
             "url": "https://www.wga.hu/html/p/palmezza/baptism.html",
             "form": "painting",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Portrait of a Young Man",
             "date": "1490s",
             "technique": "Oil tempera from wood laid down on canvas",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/p/palmezza/port_man.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 30284
-        },
-        {}
+        }
     ]
 }

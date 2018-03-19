@@ -18,7 +18,7 @@
             "title": "View of the Foundlings' Chapel in Paris",
             "date": "1752-59",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/f/fessard/foundlin.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -28,7 +28,7 @@
             "title": "Jeanne d'Albret Queen of Navarre",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/f/fessard/navarre.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -38,12 +38,11 @@
             "title": "Woman Waxing a Letter",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/f/fessard/womanwax.html",
             "form": "graphics",
             "painting_type": "genre",
             "index": 13761
-        },
-        {}
+        }
     ]
 }

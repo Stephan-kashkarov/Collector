@@ -18,7 +18,7 @@
             "title": "Four Studies of a Woman",
             "date": "1602-03",
             "technique": "Chalk on paper 261 x 322 mm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/g/gheyn/4studies.html",
             "form": "graphics",
             "painting_type": "study",
@@ -38,7 +38,7 @@
             "title": "Peaceful Couple",
             "date": "1610s",
             "technique": "Etching",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/gheyn/cuple.html",
             "form": "graphics",
             "painting_type": "study",
@@ -68,7 +68,7 @@
             "title": "Studies of heads",
             "date": "1620s",
             "technique": "Pen and brown ink 100 x 158 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/gheyn/heads.html",
             "form": "graphics",
             "painting_type": "study",
@@ -78,7 +78,7 @@
             "title": "Hippocrates Visits Democritus",
             "date": "1620s",
             "technique": "Pen and brown ink 173 x 228 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/gheyn/hippocra.html",
             "form": "graphics",
             "painting_type": "mythological",
@@ -133,7 +133,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 15386
-        },
-        {}
+        }
     ]
 }

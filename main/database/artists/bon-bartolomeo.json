@@ -5,7 +5,7 @@
     "timeframe": "1401-1450",
     "art": [
         {
-            "title": "Ca' d'Oro: Fa\u00e7ade",
+            "title": "Ca' d'Oro: Façade",
             "date": "1421-43",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -15,7 +15,7 @@
             "index": 4950
         },
         {
-            "title": "Ca' d'Oro: Fa\u00e7ade",
+            "title": "Ca' d'Oro: Façade",
             "date": "1421-43",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -25,7 +25,7 @@
             "index": 4951
         },
         {
-            "title": "Ca' d'Oro: Fa\u00e7ade",
+            "title": "Ca' d'Oro: Façade",
             "date": "1421-43",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -35,7 +35,7 @@
             "index": 4952
         },
         {
-            "title": "Ca' d'Oro: Fa\u00e7ade",
+            "title": "Ca' d'Oro: Façade",
             "date": "1421-43",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -45,7 +45,7 @@
             "index": 4953
         },
         {
-            "title": "Ca' d'Oro: Fa\u00e7ade (detail)",
+            "title": "Ca' d'Oro: Façade (detail)",
             "date": "1421-43",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -105,7 +105,7 @@
             "index": 4959
         },
         {
-            "title": "Palazzo Giustinian: Fa\u00e7ade",
+            "title": "Palazzo Giustinian: Façade",
             "date": "c. 1450",
             "technique": "-",
             "location": "Canal Grande Venice",
@@ -193,7 +193,6 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 4968
-        },
-        {}
+        }
     ]
 }

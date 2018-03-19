@@ -1,6 +1,6 @@
 {
     "name": "ROTTENHAMMER Hans I",
-    "life": "(b. 1564 M\u00fcnchen d. 1625 Augsburg)",
+    "life": "(b. 1564 München d. 1625 Augsburg)",
     "school": "German",
     "timeframe": "1551-1600",
     "art": [
@@ -73,7 +73,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 35300
-        },
-        {}
+        }
     ]
 }

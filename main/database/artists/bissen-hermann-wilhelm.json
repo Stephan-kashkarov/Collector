@@ -1,6 +1,6 @@
 {
     "name": "BISSEN Hermann Wilhelm",
-    "life": "(b. 1798 Schleswig d. 1868 K\u00f8benhavn)",
+    "life": "(b. 1798 Schleswig d. 1868 København)",
     "school": "Danish",
     "timeframe": "1801-1850",
     "art": [
@@ -15,7 +15,7 @@
             "index": 4650
         },
         {
-            "title": "The The Isted Lion (Istedl\u00f8ven)",
+            "title": "The The Isted Lion (Istedløven)",
             "date": "1862",
             "technique": "Bronze",
             "location": "Copenhagen",
@@ -43,7 +43,6 @@
             "form": "sculpture",
             "painting_type": "historical",
             "index": 4653
-        },
-        {}
+        }
     ]
 }

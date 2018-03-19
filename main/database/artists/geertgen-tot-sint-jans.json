@@ -108,7 +108,7 @@
             "title": "The Raising of Lazarus",
             "date": "c. 1480",
             "technique": "Oil and tempera on panel 127 x 97 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/geertgen/lazarus.html",
             "form": "painting",
             "painting_type": "religious",
@@ -118,7 +118,7 @@
             "title": "Adoration of the Magi",
             "date": "1480-85",
             "technique": "Panel 111 x 69 cm",
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "location": "Národní Galerie Prague",
             "url": "https://www.wga.hu/html/g/geertgen/magi.html",
             "form": "painting",
             "painting_type": "religious",
@@ -128,7 +128,7 @@
             "title": "Adoration of the Magi (detail)",
             "date": "1480-85",
             "technique": "Panel",
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "location": "Národní Galerie Prague",
             "url": "https://www.wga.hu/html/g/geertgen/magi_d.html",
             "form": "painting",
             "painting_type": "religious",
@@ -203,7 +203,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 15113
-        },
-        {}
+        }
     ]
 }

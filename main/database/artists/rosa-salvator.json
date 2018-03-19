@@ -108,7 +108,7 @@
             "title": "Harbour with Ruins",
             "date": "c. 1640",
             "technique": "Oil on canvas 88 x 111 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/rosa/harbour.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -118,7 +118,7 @@
             "title": "Rocky Landscape with Waterfall",
             "date": "c. 1640",
             "technique": "Oil on canvas 87 x 111 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/rosa/harbour1.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -128,7 +128,7 @@
             "title": "Heroic Battle",
             "date": "1652-64",
             "technique": "Oil on canvas 214 x 351 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/rosa/heroicba.html",
             "form": "painting",
             "painting_type": "historical",
@@ -208,7 +208,7 @@
             "title": "The Shade of Samuel Appears to Saul",
             "date": "1668",
             "technique": "Oil on canvas 275 x 191 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/rosa/samuel.html",
             "form": "painting",
             "painting_type": "religious",
@@ -258,7 +258,7 @@
             "title": "Rocky Landscape with a Huntsman and Warriors",
             "date": "c. 1670",
             "technique": "Oil on canvas 142 x 192 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/rosa/warriors.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -273,7 +273,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 35126
-        },
-        {}
+        }
     ]
 }

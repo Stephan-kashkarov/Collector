@@ -45,7 +45,7 @@
             "index": 32089
         },
         {
-            "title": "Fa\u00e7ade",
+            "title": "Façade",
             "date": "-",
             "technique": "-",
             "location": "San Giovanni dei Fiorentini Rome",
@@ -55,35 +55,34 @@
             "index": 32090
         },
         {
-            "title": "Il Ges\u00f9: Fa\u00e7ade",
+            "title": "Il Gesù: Façade",
             "date": "1571",
             "technique": "-",
-            "location": "Il Ges\u00f9 Rome",
+            "location": "Il Gesù Rome",
             "url": "https://www.wga.hu/html/p/porta_g/zgesu.html",
             "form": "architecture",
             "painting_type": "religious",
             "index": 32091
         },
         {
-            "title": "Il Ges\u00f9: Fa\u00e7ade",
+            "title": "Il Gesù: Façade",
             "date": "1571",
             "technique": "-",
-            "location": "Il Ges\u00f9 Rome",
+            "location": "Il Gesù Rome",
             "url": "https://www.wga.hu/html/p/porta_g/zgesu1.html",
             "form": "architecture",
             "painting_type": "religious",
             "index": 32092
         },
         {
-            "title": "Il Ges\u00f9: Fa\u00e7ade",
+            "title": "Il Gesù: Façade",
             "date": "1571",
             "technique": "Photo",
-            "location": "Il Ges\u00f9 Rome",
+            "location": "Il Gesù Rome",
             "url": "https://www.wga.hu/html/p/porta_g/zgesu2.html",
             "form": "architecture",
             "painting_type": "other",
             "index": 32093
-        },
-        {}
+        }
     ]
 }

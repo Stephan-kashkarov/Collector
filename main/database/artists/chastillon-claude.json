@@ -1,6 +1,6 @@
 {
     "name": "CHASTILLON Claude",
-    "life": "(b. ca. 1560 Ch\u00e2lons-sur-Marne d. 1616 Paris)",
+    "life": "(b. ca. 1560 Châlons-sur-Marne d. 1616 Paris)",
     "school": "French",
     "timeframe": "1551-1600",
     "art": [
@@ -8,7 +8,7 @@
             "title": "The Chapel of Notre-Dame de Lisieux",
             "date": "1615",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/c/chastill/lisieux.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -23,7 +23,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 8736
-        },
-        {}
+        }
     ]
 }

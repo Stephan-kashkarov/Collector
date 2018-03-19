@@ -14,8 +14,8 @@ def cascade_art(art_list, art_cache):
 
 
 def cascade_all(artist_cache, parsed_data, art_cache, art_list):
-	cascade_art(art_list, art_cache)  # APPEND THE LAST ARTWORK
-	if len(art_list) > 1:
+	# cascade_art(art_list, art_cache)  # APPEND THE LAST ARTWORK
+	if len(art_list) > 0:
 		artist_cache["art"] = art_list  # ADDS ART LIST AS A ATTRIBUTE OF THE ARTIST
 		parsed_data.append(artist_cache)  # ADDS THE ARTIST TO THE FINAL LIST
 
@@ -74,8 +74,6 @@ for line in lines:
 		if len(name) == 0:
 			art_index += 1
 			continue
-		# if last_name == "":
-		# 	last_name = name
 		if name != last_name:
 			print("making a new profile for artist:", name)
 			cascade_all(artist_cache, parsed_data, art_cache, art_list)
@@ -122,7 +120,7 @@ for line in lines:
 			art_cache = {}
 
 		else:
-			print("adding to " + name + "'s profile")
+			# print("adding to " + name + "'s profile")
 			title = ""
 			date = ""
 			technique = ""
@@ -157,6 +155,10 @@ for line in lines:
 
 			art_cache = {}
 	art_index += 1
+
+# Saving the last artist data
+if len(artist_cache) > 0:
+	cascade_all(artist_cache, parsed_data, art_cache, art_list)
 
 print("Creating artists-master.json")
 with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE

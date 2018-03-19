@@ -1,6 +1,6 @@
 {
-    "name": "B\u00dcRKEL Heinrich",
-    "life": "(b. 1802 Pirmasens d. 1869 M\u00fcnchen)",
+    "name": "BÜRKEL Heinrich",
+    "life": "(b. 1802 Pirmasens d. 1869 München)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -23,7 +23,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 6915
-        },
-        {}
+        }
     ]
 }

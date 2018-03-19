@@ -68,7 +68,7 @@
             "title": "Egyptian Woman with Naos",
             "date": "1780",
             "technique": "Terracotta 48 x 22 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clodion/egyptian.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -88,7 +88,7 @@
             "title": "Montesquieu",
             "date": "1783",
             "technique": "Marble height 164 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clodion/montesq1.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "Montesquieu",
             "date": "1783",
             "technique": "Marble height 164 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clodion/montesq2.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -108,7 +108,7 @@
             "title": "Mourner",
             "date": "1766",
             "technique": "Terracotta height 27 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clodion/mourner.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -128,7 +128,7 @@
             "title": "Pan Pursuing Syrinx",
             "date": "c. 1770",
             "technique": "Marble 104 x 323 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clodion/pansyrin.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -163,7 +163,6 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 9129
-        },
-        {}
+        }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name": "KOBELL Franz",
-    "life": "(b. 1749 Mannheim d. 1822 M\u00fcnchen)",
+    "life": "(b. 1749 Mannheim d. 1822 München)",
     "school": "German",
     "timeframe": "1751-1800",
     "art": [
@@ -23,7 +23,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 21127
-        },
-        {}
+        }
     ]
 }

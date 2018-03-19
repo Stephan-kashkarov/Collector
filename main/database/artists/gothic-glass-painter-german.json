@@ -18,7 +18,7 @@
             "title": "The Stigmatization of St Francis",
             "date": "1235-45",
             "technique": "Stained glass window",
-            "location": "Barf\u00fcsserkirche Erfurt",
+            "location": "Barfüsserkirche Erfurt",
             "url": "https://www.wga.hu/html/zgothic/stained/13c/11g_1200.html",
             "form": "stained-glass",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Virgin and Child",
             "date": "1280s",
             "technique": "Stained glass window",
-            "location": "Westf\u00e4lisches Landesmuseum Cologne",
+            "location": "Westfälisches Landesmuseum Cologne",
             "url": "https://www.wga.hu/html/zgothic/stained/13c/13g_1250.html",
             "form": "stained-glass",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "St Gertrude",
             "date": "1280s",
             "technique": "Stained glass window",
-            "location": "Westf\u00e4lisches Landesmuseum Cologne",
+            "location": "Westfälisches Landesmuseum Cologne",
             "url": "https://www.wga.hu/html/zgothic/stained/13c/14g_1250.html",
             "form": "stained-glass",
             "painting_type": "religious",
@@ -58,7 +58,7 @@
             "title": "Adoration of the Magi",
             "date": "1325-30",
             "technique": "Stained glass window",
-            "location": "Former Abbey Church K\u00f6nigsfelden",
+            "location": "Former Abbey Church Königsfelden",
             "url": "https://www.wga.hu/html/zgothic/stained/14c/07g_1300.html",
             "form": "stained-glass",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "Adoration of the Magi (detail)",
             "date": "1325-30",
             "technique": "Stained glass window",
-            "location": "Former Abbey Church K\u00f6nigsfelden",
+            "location": "Former Abbey Church Königsfelden",
             "url": "https://www.wga.hu/html/zgothic/stained/14c/07g_1301.html",
             "form": "stained-glass",
             "painting_type": "religious",
@@ -78,7 +78,7 @@
             "title": "Charlemagne and King Arthur",
             "date": "c. 1410",
             "technique": "Stained glass window",
-            "location": "Town Hall L\u00fcneburg",
+            "location": "Town Hall Lüneburg",
             "url": "https://www.wga.hu/html/zgothic/stained/15c/04g_1400.html",
             "form": "stained-glass",
             "painting_type": "historical",
@@ -103,7 +103,6 @@
             "form": "stained-glass",
             "painting_type": "religious",
             "index": 17671
-        },
-        {}
+        }
     ]
 }

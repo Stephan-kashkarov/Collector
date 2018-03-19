@@ -238,7 +238,7 @@
             "title": "Sophonisba Receiving the Goblet",
             "date": "c. 1670",
             "technique": "Oil on canvas 198 x 174 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "location": "Musée des Beaux-Arts Lyon",
             "url": "https://www.wga.hu/html/p/preti/sophonis.html",
             "form": "painting",
             "painting_type": "religious",
@@ -268,7 +268,7 @@
             "title": "The Release of St Peter from Prison",
             "date": "c. 1665",
             "technique": "Oil on canvas 181 x 301 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/p/preti/st_peter.html",
             "form": "painting",
             "painting_type": "religious",
@@ -343,7 +343,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 32463
-        },
-        {}
+        }
     ]
 }

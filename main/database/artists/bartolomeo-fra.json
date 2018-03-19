@@ -58,7 +58,7 @@
             "title": "The Marriage of St Catherine of Siena",
             "date": "1511",
             "technique": "Wood panel 257 x 228 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bartolom/fra/catherin.html",
             "form": "painting",
             "painting_type": "religious",
@@ -118,7 +118,7 @@
             "title": "The Incarnation with Six Saints",
             "date": "1515",
             "technique": "Panel 96 x 76 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bartolom/fra/incarnat.html",
             "form": "painting",
             "painting_type": "religious",
@@ -168,7 +168,7 @@
             "title": "Noli Me Tangere",
             "date": "c. 1506",
             "technique": "Oil on wood 57 x 48 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bartolom/fra/noli_me.html",
             "form": "painting",
             "painting_type": "religious",
@@ -213,7 +213,6 @@
             "form": "graphics",
             "painting_type": "mythological",
             "index": 3341
-        },
-        {}
+        }
     ]
 }

@@ -1375,7 +1375,7 @@
             "index": 11846
         },
         {
-            "title": "Bust of Niccol\u00f2 da Uzzano",
+            "title": "Bust of Niccolò da Uzzano",
             "date": "1430s",
             "technique": "Polychrome terracotta height 46 cm",
             "location": "Museo Nazionale del Bargello Florence",
@@ -1385,7 +1385,7 @@
             "index": 11847
         },
         {
-            "title": "Bust of Niccol\u00f2 da Uzzano",
+            "title": "Bust of Niccolò da Uzzano",
             "date": "1430s",
             "technique": "Polychrome terracotta height 46 cm",
             "location": "Museo Nazionale del Bargello Florence",
@@ -1538,7 +1538,7 @@
             "title": "Candelabra Angels",
             "date": "1430s",
             "technique": "Bronze height 58 and 68 cm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/d/donatell/2_mature/various/angels.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -1548,7 +1548,7 @@
             "title": "Candelabra Angel",
             "date": "1430s",
             "technique": "Bronze height 68 cm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/d/donatell/2_mature/various/angels1.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -1578,7 +1578,7 @@
             "title": "Herod's Banquet",
             "date": "c. 1439",
             "technique": "Marble 44 x 65 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "location": "Musée des Beaux-Arts Lille",
             "url": "https://www.wga.hu/html/d/donatell/2_mature/various/herod.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -1588,7 +1588,7 @@
             "title": "Madonna and Child",
             "date": "c. 1440",
             "technique": "Polychrome terracotta 102 x 74 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/donatell/2_mature/various/madonna.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -2053,7 +2053,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 11914
-        },
-        {}
+        }
     ]
 }

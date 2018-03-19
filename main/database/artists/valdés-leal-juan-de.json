@@ -1,5 +1,5 @@
 {
-    "name": "VALD\u00c9S LEAL Juan de",
+    "name": "VALDÉS LEAL Juan de",
     "life": "(b. 1622 Sevilla d. 1690 Sevilla)",
     "school": "Spanish",
     "timeframe": "1651-1700",
@@ -28,7 +28,7 @@
             "title": "Ascension of Elijah",
             "date": "c. 1658",
             "technique": "Oil on canvas 567 x 508 cm",
-            "location": "Carmen Calzado C\u00f3rdoba",
+            "location": "Carmen Calzado Córdoba",
             "url": "https://www.wga.hu/html/v/valdes/juan/ascensio.html",
             "form": "painting",
             "painting_type": "religious",
@@ -78,7 +78,7 @@
             "title": "Virgin of the Immaculate Conception with Sts Andrew and John the Baptist",
             "date": "1650-52",
             "technique": "Oil on canvas 234 x 167 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/valdes/juan/immacula.html",
             "form": "painting",
             "painting_type": "religious",
@@ -123,7 +123,6 @@
             "form": "graphics",
             "painting_type": "religious",
             "index": 41970
-        },
-        {}
+        }
     ]
 }

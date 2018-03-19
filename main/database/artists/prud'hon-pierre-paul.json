@@ -8,7 +8,7 @@
             "title": "Portrait of Georges Anthony",
             "date": "1796",
             "technique": "Oil on canvas 99 x 83 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "location": "Musée des Beaux-Arts Dijon",
             "url": "https://www.wga.hu/html/p/prudhon/1anthony.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -38,7 +38,7 @@
             "title": "The Empress Josephine",
             "date": "c. 1805",
             "technique": "Oil on canvas 244 x 179 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/prudhon/2josephi.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -58,7 +58,7 @@
             "title": "Justice and Divine Vengeance Pursuing Crime",
             "date": "1808",
             "technique": "Oil on canvas 244 x 294 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/prudhon/3justice.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -68,7 +68,7 @@
             "title": "Venus Bathing",
             "date": "c. 1810",
             "technique": "Oil on canvas 134 x 103 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/prudhon/4venus.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -78,7 +78,7 @@
             "title": "Portrait of the King of Rome",
             "date": "1811",
             "technique": "Oil on canvas 46 x 56 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/prudhon/5kingrom.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "Crucifixion",
             "date": "1822",
             "technique": "Oil on canvas 278 x 166 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/prudhon/7crucifi.html",
             "form": "painting",
             "painting_type": "religious",
@@ -113,7 +113,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 32535
-        },
-        {}
+        }
     ]
 }

@@ -5,10 +5,10 @@
     "timeframe": "1601-1650",
     "art": [
         {
-            "title": "Funeral Monument for the Heart of Cardinal de B\u00e9rule",
+            "title": "Funeral Monument for the Heart of Cardinal de Bérule",
             "date": "1653-57",
             "technique": "Marble height 125 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/sarazin/berule.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "Prudence",
             "date": "1648-58",
             "technique": "Bronze",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/s/sarazin/heart1.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -58,7 +58,7 @@
             "title": "Religion",
             "date": "1648-58",
             "technique": "Bronze",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/s/sarazin/heart2.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -68,12 +68,11 @@
             "title": "Temperance",
             "date": "c. 1645",
             "technique": "Marble",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/sarazin/temperan.html",
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 36338
-        },
-        {}
+        }
     ]
 }

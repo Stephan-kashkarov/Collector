@@ -5,20 +5,20 @@
     "timeframe": "1551-1600",
     "art": [
         {
-            "title": "Ch\u00e2teau Charleval",
+            "title": "Château Charleval",
             "date": "c. 1570",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/a/androuet/charleva.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 713
         },
         {
-            "title": "Entrance to the Ch\u00e2teau \u00c9couen",
+            "title": "Entrance to the Château Écouen",
             "date": "1555-60",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/a/androuet/ecouen.html",
             "form": "graphics",
             "painting_type": "other",
@@ -28,22 +28,21 @@
             "title": "Design for a Town House",
             "date": "1559",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/a/androuet/townhous.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 715
         },
         {
-            "title": "Ch\u00e2teau Verneuil",
+            "title": "Château Verneuil",
             "date": "c. 1560",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/a/androuet/verneuil.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 716
-        },
-        {}
+        }
     ]
 }

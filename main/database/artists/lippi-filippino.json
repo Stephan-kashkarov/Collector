@@ -8,7 +8,7 @@
             "title": "Three Scenes from the Story of Esther",
             "date": "1470-75",
             "technique": "Wood 48 x 132 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lippi/flippino/1/01esther.html",
             "form": "painting",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Madonna with Child St Anthony of Padua and a Friar",
             "date": "before 1480",
             "technique": "Tempera on wood 57 x 415 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/l/lippi/flippino/1/02mad_c.html",
             "form": "painting",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "Madonna with Child St Anthony of Padua and a Friar (detail)",
             "date": "before 1480",
             "technique": "Tempera on wood",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/l/lippi/flippino/1/02mad_c1.html",
             "form": "painting",
             "painting_type": "religious",
@@ -278,7 +278,7 @@
             "title": "The Penitent St Jerome",
             "date": "c. 1485",
             "technique": "Tempera on panel 47 x 34 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/l/lippi/flippino/2/41jerome.html",
             "form": "painting",
             "painting_type": "religious",
@@ -348,7 +348,7 @@
             "title": "Head of an Elderly Man",
             "date": "c. 1495",
             "technique": "Metallic pencil white highlights on pink ground 150 x 113 mm",
-            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "location": "Museum der Bildenden Künste Leipzig",
             "url": "https://www.wga.hu/html/l/lippi/flippino/2/5magi4.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -1063,7 +1063,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 22576
-        },
-        {}
+        }
     ]
 }

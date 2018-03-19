@@ -28,7 +28,7 @@
             "title": "Bust of Madame du Barry",
             "date": "1773",
             "technique": "Marble height 60 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pajou/du_barry.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -38,7 +38,7 @@
             "title": "Hubert Robert",
             "date": "1780",
             "technique": "Marble",
-            "location": "\u00c9cole des Beaux-Arts Paris",
+            "location": "École des Beaux-Arts Paris",
             "url": "https://www.wga.hu/html/p/pajou/h_robert.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -48,7 +48,7 @@
             "title": "Bust of Louis XVI",
             "date": "1779",
             "technique": "Marble",
-            "location": "Mus\u00e9e Lambinet Versailles",
+            "location": "Musée Lambinet Versailles",
             "url": "https://www.wga.hu/html/p/pajou/louis16.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "Psyche Abandoned",
             "date": "1790",
             "technique": "Marble height 180 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pajou/psycheab.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -123,7 +123,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 30127
-        },
-        {}
+        }
     ]
 }

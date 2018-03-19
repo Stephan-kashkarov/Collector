@@ -1,6 +1,6 @@
 {
     "name": "ARCHITECT Hungarian",
-    "life": "(active after 1064 at P\u00e9cs)",
+    "life": "(active after 1064 at Pécs)",
     "school": "Hungarian",
     "timeframe": "1051-1100",
     "art": [
@@ -8,7 +8,7 @@
             "title": "Interior view",
             "date": "after 1064",
             "technique": "Photo",
-            "location": "Sts. Peter and Paul Cathedral P\u00e9cs",
+            "location": "Sts. Peter and Paul Cathedral Pécs",
             "url": "https://www.wga.hu/html/zzzarchi/11c/6/04o_1051.html",
             "form": "architecture",
             "painting_type": "interior",
@@ -18,7 +18,7 @@
             "title": "Exterior view",
             "date": "after 1064",
             "technique": "Photo",
-            "location": "Sts. Peter and Paul Cathedral P\u00e9cs",
+            "location": "Sts. Peter and Paul Cathedral Pécs",
             "url": "https://www.wga.hu/html/zzzarchi/11c/6/04o_1052.html",
             "form": "architecture",
             "painting_type": "other",
@@ -28,7 +28,7 @@
             "title": "Exterior view",
             "date": "1210-56",
             "technique": "Photo",
-            "location": "Monastery church J\u00e1k near Szombathely",
+            "location": "Monastery church Ják near Szombathely",
             "url": "https://www.wga.hu/html/zzzarchi/13c/6/02h_1251.html",
             "form": "architecture",
             "painting_type": "religious",
@@ -38,12 +38,11 @@
             "title": "Exterior view",
             "date": "after 1220",
             "technique": "Photo",
-            "location": "Monastery church Zs\u00e1mb\u00e9k Pest county",
+            "location": "Monastery church Zsámbék Pest county",
             "url": "https://www.wga.hu/html/zzzarchi/13c/6/02h_1252.html",
             "form": "architecture",
             "painting_type": "religious",
             "index": 1994
-        },
-        {}
+        }
     ]
 }

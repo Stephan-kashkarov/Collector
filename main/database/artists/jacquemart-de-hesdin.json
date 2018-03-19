@@ -8,7 +8,7 @@
             "title": "Les Petites Heurs du Duc Jean de Berry",
             "date": "1410-12",
             "technique": "Manuscript (Ms. lat. 18014) 212 x 145 mm",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/j/jacquema/annuncia.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Brussels Hours",
             "date": "c. 1400",
             "technique": "Manuscript (Ms. 11060) 274 x 188 mm (each)",
-            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "location": "Bibliothèque Royale de Belgique Brussels",
             "url": "https://www.wga.hu/html/j/jacquema/brussel1.html",
             "form": "illumination",
             "painting_type": "other",
@@ -28,7 +28,7 @@
             "title": "Brussels Hours",
             "date": "c. 1400",
             "technique": "Manuscript (Ms. 11060) 274 x 188 mm",
-            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "location": "Bibliothèque Royale de Belgique Brussels",
             "url": "https://www.wga.hu/html/j/jacquema/brussel2.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Brussels Hours",
             "date": "c. 1400",
             "technique": "Manuscript (Ms. 11060) 274 x 188 mm (each)",
-            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "location": "Bibliothèque Royale de Belgique Brussels",
             "url": "https://www.wga.hu/html/j/jacquema/brussel3.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "Brussels Hours",
             "date": "c. 1400",
             "technique": "Manuscript (Ms. 11060) 274 x 188 mm",
-            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "location": "Bibliothèque Royale de Belgique Brussels",
             "url": "https://www.wga.hu/html/j/jacquema/brussel4.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -57,13 +57,12 @@
         {
             "title": "Psalter of Duc de Berry",
             "date": "after 1386",
-            "technique": "Manuscript (Ms. fran\u00e7ais 13091)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 13091)",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/j/jacquema/the_fool.html",
             "form": "illumination",
             "painting_type": "other",
             "index": 20561
-        },
-        {}
+        }
     ]
 }

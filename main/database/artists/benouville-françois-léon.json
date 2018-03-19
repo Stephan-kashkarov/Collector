@@ -1,5 +1,5 @@
 {
-    "name": "BENOUVILLE Fran\u00e7ois-L\u00e9on",
+    "name": "BENOUVILLE François-Léon",
     "life": "(b. 1821 Paris d. 1859 Paris)",
     "school": "French",
     "timeframe": "1801-1850",
@@ -8,7 +8,7 @@
             "title": "The Wrath of Achilles",
             "date": "1847",
             "technique": "Oil on canvas 156 x 95 cm",
-            "location": "Mus\u00e9e Fabre Montpellier",
+            "location": "Musée Fabre Montpellier",
             "url": "https://www.wga.hu/html/b/benouvil/francois/achilles.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -18,7 +18,7 @@
             "title": "Esther",
             "date": "1844",
             "technique": "Oil on canvas 122 x 162 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Pau",
+            "location": "Musée des Beaux-Arts Pau",
             "url": "https://www.wga.hu/html/b/benouvil/francois/esther.html",
             "form": "painting",
             "painting_type": "historical",
@@ -43,7 +43,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 4068
-        },
-        {}
+        }
     ]
 }

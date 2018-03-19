@@ -25,10 +25,10 @@
             "index": 41857
         },
         {
-            "title": "A Mon Seul D\u00e9sir",
+            "title": "A Mon Seul Désir",
             "date": "1490s",
             "technique": "Tapestry 376 x 452 cm",
-            "location": "Mus\u00e9e de Cluny Paris",
+            "location": "Musée de Cluny Paris",
             "url": "https://www.wga.hu/html/zzdeco/2tapestr/1/01f_1400.html",
             "form": "tapestry",
             "painting_type": "other",
@@ -48,7 +48,7 @@
             "title": "Sight",
             "date": "c. 1500",
             "technique": "Wool and silk 300 x 303 cm",
-            "location": "Mus\u00e9e de Cluny Paris",
+            "location": "Musée de Cluny Paris",
             "url": "https://www.wga.hu/html/zzdeco/2tapestr/1/01f_1501.html",
             "form": "tapestry",
             "painting_type": "mythological",
@@ -58,7 +58,7 @@
             "title": "Sight (detail)",
             "date": "c. 1500",
             "technique": "Wool and silk 300 x 303 cm",
-            "location": "Mus\u00e9e de Cluny Paris",
+            "location": "Musée de Cluny Paris",
             "url": "https://www.wga.hu/html/zzdeco/2tapestr/1/01f_1502.html",
             "form": "tapestry",
             "painting_type": "mythological",
@@ -83,7 +83,6 @@
             "form": "tapestry",
             "painting_type": "religious",
             "index": 41863
-        },
-        {}
+        }
     ]
 }

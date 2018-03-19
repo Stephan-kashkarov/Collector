@@ -385,7 +385,7 @@
             "index": 9687
         },
         {
-            "title": "Study for the fa\u00e7ade of the Palazzo Pitti",
+            "title": "Study for the façade of the Palazzo Pitti",
             "date": "1640s",
             "technique": "Drawing",
             "location": "Galleria degli Uffizi Florence",
@@ -465,7 +465,7 @@
             "index": 9695
         },
         {
-            "title": "Piet\u00e0",
+            "title": "Pietà",
             "date": "1620-25",
             "technique": "Oil on canvas",
             "location": "Santa Chiara Cortona",
@@ -508,7 +508,7 @@
             "title": "Venus as Huntress Appears to Aeneas",
             "date": "1631",
             "technique": "Oil on canvas 127 x 176 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/cortona/4/05venus.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -518,7 +518,7 @@
             "title": "The Alliance of Jacob and Laban",
             "date": "1630-35",
             "technique": "Oil on canvas 197 x 176 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/cortona/4/06jacob.html",
             "form": "painting",
             "painting_type": "religious",
@@ -538,7 +538,7 @@
             "title": "Romulus and Remus Given Shelter by Faustulus",
             "date": "c. 1643",
             "technique": "Oil on canvas 251 x 266 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/cortona/4/07romulu.html",
             "form": "painting",
             "painting_type": "historical",
@@ -578,7 +578,7 @@
             "title": "Augustus and the Sybil",
             "date": "1656",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e des Beaux-Arts Nancy",
+            "location": "Musée des Beaux-Arts Nancy",
             "url": "https://www.wga.hu/html/c/cortona/4/11august.html",
             "form": "painting",
             "painting_type": "religious",
@@ -763,7 +763,6 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 9725
-        },
-        {}
+        }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "BOULL\u00c9E \u00c9tienne-Louis",
+    "name": "BOULLÉE Étienne-Louis",
     "life": "(b. 1728 Paris d. 1799 Paris)",
     "school": "French",
     "timeframe": "1751-1800",
@@ -8,7 +8,7 @@
             "title": "Cenotaph for Isaac Newton",
             "date": "1784",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/cenotap1.html",
             "form": "graphics",
             "painting_type": "other",
@@ -18,27 +18,27 @@
             "title": "Cenotaph for Isaac Newton",
             "date": "1784",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/cenotap2.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 5752
         },
         {
-            "title": "Plan for a M\u00e9tropole",
+            "title": "Plan for a Métropole",
             "date": "1781-82",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/metropo1.html",
             "form": "graphics",
             "painting_type": "study",
             "index": 5753
         },
         {
-            "title": "Plan for a M\u00e9tropole",
+            "title": "Plan for a Métropole",
             "date": "1781-82",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/metropo2.html",
             "form": "graphics",
             "painting_type": "study",
@@ -48,7 +48,7 @@
             "title": "Plan for rebuilding the Palace of Versailles",
             "date": "1780",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/plan1.html",
             "form": "graphics",
             "painting_type": "study",
@@ -58,12 +58,11 @@
             "title": "Plan for a national library",
             "date": "1785",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/boullee/plan2.html",
             "form": "graphics",
             "painting_type": "study",
             "index": 5756
-        },
-        {}
+        }
     ]
 }

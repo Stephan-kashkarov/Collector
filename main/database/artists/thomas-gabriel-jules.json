@@ -8,7 +8,7 @@
             "title": "Virgil",
             "date": "1861",
             "technique": "Marble height 185 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/t/thomas/1virgil.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -18,7 +18,7 @@
             "title": "The Stoning of St Stephen",
             "date": "1863",
             "technique": "Stone",
-            "location": "Saint-\u00c9tienne-du-Mont Paris",
+            "location": "Saint-Étienne-du-Mont Paris",
             "url": "https://www.wga.hu/html/t/thomas/2stoning.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -28,12 +28,11 @@
             "title": "Drama and Music",
             "date": "1873",
             "technique": "Polychrome marble and bronze height 260 cm",
-            "location": "Op\u00e9ra Paris",
+            "location": "Opéra Paris",
             "url": "https://www.wga.hu/html/t/thomas/3opera.html",
             "form": "sculpture",
             "painting_type": "other",
             "index": 38787
-        },
-        {}
+        }
     ]
 }

@@ -848,7 +848,7 @@
             "title": "The Birth of St John the Baptist",
             "date": "1485-90",
             "technique": "Wood 31 x 70 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/signorel/various/2birth.html",
             "form": "painting",
             "painting_type": "religious",
@@ -958,14 +958,14 @@
             "title": "Martyrdom of St Sebastian",
             "date": "c. 1498",
             "technique": "Oil on wood288 x 175 cm",
-            "location": "Pinacoteca Comunale Citt\u00e0 di Castello",
+            "location": "Pinacoteca Comunale Città di Castello",
             "url": "https://www.wga.hu/html/s/signorel/various/63sebast.html",
             "form": "painting",
             "painting_type": "religious",
             "index": 37133
         },
         {
-            "title": "Self-Portrait with Niccol\u00f2 d'Angeli Franceschi",
+            "title": "Self-Portrait with Niccolò d'Angeli Franceschi",
             "date": "1500 or 1503",
             "technique": "Wall painting",
             "location": "Museo dell'Opera del Duomo Orvieto",
@@ -1063,7 +1063,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 37143
-        },
-        {}
+        }
     ]
 }

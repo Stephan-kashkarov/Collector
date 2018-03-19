@@ -48,7 +48,7 @@
             "title": "The Prophet Ezekiel (detail)",
             "date": "15%-72",
             "technique": "Engraving",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghisi/prophet.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -58,7 +58,7 @@
             "title": "The Prophet Ezekiel",
             "date": "15%-72",
             "technique": "Engraving 561 x 445 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghisi/prophet1.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "The Delphic Sibyl",
             "date": "1570-72",
             "technique": "Engraving 551 x 432 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghisi/sibyl.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -83,7 +83,6 @@
             "form": "graphics",
             "painting_type": "mythological",
             "index": 15640
-        },
-        {}
+        }
     ]
 }

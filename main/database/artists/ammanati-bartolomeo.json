@@ -225,7 +225,7 @@
             "index": 505
         },
         {
-            "title": "Palazzo Pitti: Fa\u00e7ade",
+            "title": "Palazzo Pitti: Façade",
             "date": "1558-70",
             "technique": "Photo",
             "location": "Piazza dei Pitti Florence",
@@ -265,7 +265,7 @@
             "index": 509
         },
         {
-            "title": "Ponte Santa Trinit\u00e0",
+            "title": "Ponte Santa Trinità",
             "date": "begun 1566",
             "technique": "Photo",
             "location": "Florence",
@@ -293,7 +293,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 512
-        },
-        {}
+        }
     ]
 }

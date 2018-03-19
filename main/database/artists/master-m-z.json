@@ -18,7 +18,7 @@
             "title": "The Beheading of St John the Baptist",
             "date": "c. 1500",
             "technique": "Copper-plate engraving 199 x 143 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/m/master/mz/behead.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "Vanitas (Memento Mori)",
             "date": "1502-03",
             "technique": "Copper-plare engraving 183 x 131 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/m/master/mz/vanitas.html",
             "form": "graphics",
             "painting_type": "study",
@@ -83,7 +83,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 24703
-        },
-        {}
+        }
     ]
 }

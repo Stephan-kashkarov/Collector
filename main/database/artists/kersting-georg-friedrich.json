@@ -1,6 +1,6 @@
 {
     "name": "KERSTING Georg Friedrich",
-    "life": "(b. 1785 G\u00fcstrow d. 1847 Meissen)",
+    "life": "(b. 1785 Güstrow d. 1847 Meissen)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 20941
-        },
-        {}
+        }
     ]
 }

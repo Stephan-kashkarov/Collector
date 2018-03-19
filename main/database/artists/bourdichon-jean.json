@@ -8,7 +8,7 @@
             "title": "Book of Hours of Henry VII",
             "date": "-",
             "technique": "Manuscript",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bourdich/adoratio.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Grandes Heurs d'Anne de Bretagne",
             "date": "1503-08",
             "technique": "Manuscript (Ms. lat. 9474) 300 x 195 mm",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bourdich/heurs1.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -28,7 +28,7 @@
             "title": "Grandes Heurs d'Anne de Bretagne",
             "date": "1503-08",
             "technique": "Manuscript (Ms. lat. 9474) 300 x 195 mm",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bourdich/heurs2.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Grandes Heurs d'Anne de Bretagne",
             "date": "1503-08",
             "technique": "Manuscript (Ms. lat. 9474) 300 x 195 mm (folio size)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bourdich/heurs3.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -48,22 +48,21 @@
             "title": "Missal of Jacques de Beaune",
             "date": "-",
             "technique": "Manuscript (Ms. lat. 886)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bourdich/missal.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 5770
         },
         {
-            "title": "Les Quatre \u00c9tats de la Soci\u00e9t\u00e9",
+            "title": "Les Quatre États de la Société",
             "date": "1500-10",
             "technique": "Manuscript (Mn.mas 90-93) 174 x 130 mm",
-            "location": "\u00c9cole Nationale Sup\u00e9rieure des Beaux-Arts Paris",
+            "location": "École Nationale Supérieure des Beaux-Arts Paris",
             "url": "https://www.wga.hu/html/b/bourdich/wealthy.html",
             "form": "illumination",
             "painting_type": "mythological",
             "index": 5771
-        },
-        {}
+        }
     ]
 }

@@ -68,7 +68,7 @@
             "title": "Benedictional of Archbishop Robert",
             "date": "c. 980",
             "technique": "Manuscript (Ms. 369 Y.7)",
-            "location": "Biblioth\u00e8que Municipale Rouen",
+            "location": "Bibliothèque Municipale Rouen",
             "url": "https://www.wga.hu/html/zgothic/miniatur/0951-000/4englis1.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -108,7 +108,7 @@
             "title": "Gregory the Great: Moralia in Job",
             "date": "c. 1111",
             "technique": "Manuscript (Mss. 168-170 4 volumes) 460 x 324 mm",
-            "location": "Biblioth\u00e8que Municipale Dijon",
+            "location": "Bibliothèque Municipale Dijon",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/1english/01englis.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -118,7 +118,7 @@
             "title": "Gregory the Great: Moralia in Job",
             "date": "c. 1111",
             "technique": "Manuscript (Mss. 168-170 4 volumes) 460 x 324 mm (folio size)",
-            "location": "Biblioth\u00e8que Municipale Dijon",
+            "location": "Bibliothèque Municipale Dijon",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1101-150/1english/02englis.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -1343,7 +1343,6 @@
             "form": "illumination",
             "painting_type": "religious",
             "index": 27365
-        },
-        {}
+        }
     ]
 }

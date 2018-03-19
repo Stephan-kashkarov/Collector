@@ -1,6 +1,6 @@
 {
-    "name": "BRODSZKY S\u00e1ndor",
-    "life": "(b. 1819 T\u00f3alm\u00e1s d. 1901 Budapest)",
+    "name": "BRODSZKY Sándor",
+    "life": "(b. 1819 Tóalmás d. 1901 Budapest)",
     "school": "Hungarian",
     "timeframe": "1851-1900",
     "art": [
@@ -18,7 +18,7 @@
             "title": "Mill",
             "date": "1858",
             "technique": "Lead-pencil on paper 215 x 334 mm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/brodszky/mill.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -38,12 +38,11 @@
             "title": "View to the Lake Balaton (Storm)",
             "date": "1851",
             "technique": "Oil on canvas 143 x 206 cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/brodszky/storm.html",
             "form": "painting",
             "painting_type": "landscape",
             "index": 6169
-        },
-        {}
+        }
     ]
 }

@@ -5,9 +5,9 @@
     "timeframe": "1751-1800",
     "art": [
         {
-            "title": "The Duchess of Chaulnes as a Gardener in an All\u00e9e",
+            "title": "The Duchess of Chaulnes as a Gardener in an Allée",
             "date": "1771",
-            "technique": "Watercolour and gouache over black and red chalk on off-white paper 318 \u00d7 191 mm",
+            "technique": "Watercolour and gouache over black and red chalk on off-white paper 318 × 191 mm",
             "location": "J. Paul Getty Museum Los Angeles",
             "url": "https://www.wga.hu/html/c/carmonte/duchess.html",
             "form": "graphics",
@@ -18,14 +18,14 @@
             "title": "Portrait of Mozart",
             "date": "1763",
             "technique": "Drawing 195 x 125 mm",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/carmonte/mozart.html",
             "form": "graphics",
             "painting_type": "portrait",
             "index": 7698
         },
         {
-            "title": "The Gentlemen of the Duc d'Orl\u00e9ans in the Uniform of Saint Cloud",
+            "title": "The Gentlemen of the Duc d'Orléans in the Uniform of Saint Cloud",
             "date": "-",
             "technique": "Red and black chalk watercolour and gouache heightened with white 263 x 400 mm",
             "location": "Private collection",
@@ -35,7 +35,7 @@
             "index": 7699
         },
         {
-            "title": "The Soci\u00e9t\u00e9 du Palais-Royal",
+            "title": "The Société du Palais-Royal",
             "date": "1773-75",
             "technique": "Red and black chalk watercolour and gouache heightened with white 322 x 427 mm",
             "location": "Private collection",
@@ -43,7 +43,6 @@
             "form": "graphics",
             "painting_type": "genre",
             "index": 7700
-        },
-        {}
+        }
     ]
 }

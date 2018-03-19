@@ -18,7 +18,7 @@
             "title": "The Buddha",
             "date": "c. 1905",
             "technique": "Pastel 90 x 73 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/r/redon/buddha.html",
             "form": "painting",
             "painting_type": "other",
@@ -28,7 +28,7 @@
             "title": "Closed Eyes",
             "date": "1890",
             "technique": "Oil on canvas 44 x 36 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/r/redon/closedey.html",
             "form": "painting",
             "painting_type": "other",
@@ -48,7 +48,7 @@
             "title": "Paul Gauguin",
             "date": "May-03",
             "technique": "Oil on canvas 66 x 55 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/r/redon/gauguin.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -68,7 +68,7 @@
             "title": "The Triumphal Car of Apollo",
             "date": "1905-14",
             "technique": "Pastel 91 x 77 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/r/redon/triumpha.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -83,7 +83,6 @@
             "form": "painting",
             "painting_type": "still-life",
             "index": 33324
-        },
-        {}
+        }
     ]
 }

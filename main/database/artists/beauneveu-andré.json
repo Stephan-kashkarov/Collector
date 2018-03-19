@@ -1,5 +1,5 @@
 {
-    "name": "BEAUNEVEU Andr\u00e9",
+    "name": "BEAUNEVEU André",
     "life": "(b. ca. 1330 Valenciennes d. 1402 Bourges)",
     "school": "French",
     "timeframe": "1351-1400",
@@ -17,8 +17,8 @@
         {
             "title": "Psalter of the Duc de Berry",
             "date": "c. 1386",
-            "technique": "Manuscript (Ms. fran\u00e7ais 13091)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 13091)",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/beauneve/k_david.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -27,8 +27,8 @@
         {
             "title": "Psalter of the Duc de Berry",
             "date": "c. 1386",
-            "technique": "Manuscript (Ms. fran\u00e7ais 13091)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 13091)",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/beauneve/p_isaiah.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -37,13 +37,12 @@
         {
             "title": "Psalter of the Duc de Berry",
             "date": "c. 1386",
-            "technique": "Manuscript (Ms. fran\u00e7ais 13091)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 13091)",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/beauneve/s_philip.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 3581
-        },
-        {}
+        }
     ]
 }

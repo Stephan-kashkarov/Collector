@@ -1,5 +1,5 @@
 {
-    "name": "TOCQU\u00c9 Louis",
+    "name": "TOCQUÉ Louis",
     "life": "(b. 1696 Paris d. 1772 Paris)",
     "school": "French",
     "timeframe": "1701-1750",
@@ -18,7 +18,7 @@
             "title": "Portrait of Marquis de Lucker",
             "date": "1743",
             "technique": "Oil on canvas 81 x 64 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "location": "Musée des Beaux-Arts Orléans",
             "url": "https://www.wga.hu/html/t/tocque/p_lucker.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -58,12 +58,11 @@
             "title": "Marie Leczinska Queen of France",
             "date": "1740",
             "technique": "Oil on canvas 277 x 191 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/t/tocque/queen_fr.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 39841
-        },
-        {}
+        }
     ]
 }

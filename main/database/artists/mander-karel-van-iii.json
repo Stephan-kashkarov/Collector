@@ -1,6 +1,6 @@
 {
     "name": "MANDER Karel van III",
-    "life": "(b. 1609 Delft d. 1670 K\u00f8benhavn)",
+    "life": "(b. 1609 Delft d. 1670 København)",
     "school": "Dutch",
     "timeframe": "1601-1650",
     "art": [
@@ -13,7 +13,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 23784
-        },
-        {}
+        }
     ]
 }

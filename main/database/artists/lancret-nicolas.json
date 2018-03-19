@@ -8,7 +8,7 @@
             "title": "Bathers",
             "date": "-",
             "technique": "Oil on canvas 66 x 55 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "location": "Musée des Beaux-Arts Rouen",
             "url": "https://www.wga.hu/html/l/lancret/bathers.html",
             "form": "painting",
             "painting_type": "genre",
@@ -115,7 +115,7 @@
             "index": 21433
         },
         {
-            "title": "Bal Champ\u00eatre (Country Ball)",
+            "title": "Bal Champêtre (Country Ball)",
             "date": "-",
             "technique": "Oil on canvas 73 x 59 cm",
             "location": "Private collection",
@@ -145,7 +145,7 @@
             "index": 21436
         },
         {
-            "title": "The Joy of the Theatre (La Joie du The\u00e2tre)",
+            "title": "The Joy of the Theatre (La Joie du Theâtre)",
             "date": "1717-18",
             "technique": "Oil on canvas 26 x 31 cm",
             "location": "Private collection",
@@ -228,7 +228,7 @@
             "title": "Study for Picnic after the Hunt",
             "date": "1735-40",
             "technique": "Black chalk heightened with white on gray paper",
-            "location": "Biblioth\u00e8que Municipale Rouen",
+            "location": "Bibliothèque Municipale Rouen",
             "url": "https://www.wga.hu/html/l/lancret/picnic1.html",
             "form": "graphics",
             "painting_type": "study",
@@ -248,7 +248,7 @@
             "title": "The Seat of Justice in the Parliament of Paris in 1723",
             "date": "c. 1724",
             "technique": "Oil on canvas 56 x 815 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lancret/seatjust.html",
             "form": "painting",
             "painting_type": "historical",
@@ -298,7 +298,7 @@
             "title": "Spring",
             "date": "1738",
             "technique": "Oil on canvas 69 x 68 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lancret/z_spring.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -308,12 +308,11 @@
             "title": "Winter",
             "date": "1738",
             "technique": "Oil on canvas 69 x 89 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lancret/z_winter.html",
             "form": "painting",
             "painting_type": "landscape",
             "index": 21453
-        },
-        {}
+        }
     ]
 }

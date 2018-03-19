@@ -128,7 +128,7 @@
             "title": "Helmingham Dell",
             "date": "-",
             "technique": "Oil on canvas 103 x 129 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/constabl/helmingt.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -208,7 +208,7 @@
             "title": "View of Salisbury",
             "date": "c. 1820",
             "technique": "Oil on canvas 35 x 51 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/constabl/salisbu1.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -303,7 +303,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 9389
-        },
-        {}
+        }
     ]
 }

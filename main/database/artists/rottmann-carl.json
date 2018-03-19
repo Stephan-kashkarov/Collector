@@ -1,6 +1,6 @@
 {
     "name": "ROTTMANN Carl",
-    "life": "(b. 1798 Handschuhsheim d. 1850 M\u00fcnchen)",
+    "life": "(b. 1798 Handschuhsheim d. 1850 München)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 35306
-        },
-        {}
+        }
     ]
 }

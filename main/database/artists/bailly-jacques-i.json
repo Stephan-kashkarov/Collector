@@ -1,6 +1,6 @@
 {
     "name": "BAILLY Jacques I",
-    "life": "(b. ca. 1634 Gra\u00e7ay d. 1679 Paris)",
+    "life": "(b. ca. 1634 Graçay d. 1679 Paris)",
     "school": "French",
     "timeframe": "1651-1700",
     "art": [
@@ -8,7 +8,7 @@
             "title": "Water (from the Elements)",
             "date": "1664-68",
             "technique": "Illumination",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bailly_j/1/elements.html",
             "form": "illumination",
             "painting_type": "mythological",
@@ -18,12 +18,11 @@
             "title": "Autumn (from the Seasons)",
             "date": "1664-68",
             "technique": "Illumination",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/b/bailly_j/1/seasons.html",
             "form": "illumination",
             "painting_type": "mythological",
             "index": 2975
-        },
-        {}
+        }
     ]
 }

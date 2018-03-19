@@ -1,5 +1,5 @@
 {
-    "name": "BOGD\u00c1NY Jakab",
+    "name": "BOGDÁNY Jakab",
     "life": "(b. ca. 1660 Eperjes d. 1724 London)",
     "school": "Hungarian",
     "timeframe": "1601-1650",
@@ -8,7 +8,7 @@
             "title": "Still-life with Birds",
             "date": "1710s",
             "technique": "Oil on canvas 98 x 1285 cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan01.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -18,7 +18,7 @@
             "title": "Peacock with Geese and Hen",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan02.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -28,7 +28,7 @@
             "title": "Fruit with Birds and Guinea-pig",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan03.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -38,7 +38,7 @@
             "title": "Landscape with Ducks",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan04.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -48,7 +48,7 @@
             "title": "Flower Still-life",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan05.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -58,7 +58,7 @@
             "title": "Fruit-piece with Stone Vase",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan06.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -68,7 +68,7 @@
             "title": "Fowls and Owl",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/b/bogdany/bogdan07.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -103,7 +103,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 4858
-        },
-        {}
+        }
     ]
 }

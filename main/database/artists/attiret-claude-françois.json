@@ -1,6 +1,6 @@
 {
-    "name": "ATTIRET Claude-Fran\u00e7ois",
-    "life": "(b. 1728 D\u00f4le Jura d. 1804 D\u00f4le)",
+    "name": "ATTIRET Claude-François",
+    "life": "(b. 1728 Dôle Jura d. 1804 Dôle)",
     "school": "French",
     "timeframe": "1751-1800",
     "art": [
@@ -8,12 +8,11 @@
             "title": "La Chercheuse d'esprit",
             "date": "1774",
             "technique": "Terracotta",
-            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "location": "Musée des Beaux-Arts Dijon",
             "url": "https://www.wga.hu/html/a/attiret/chercheu.html",
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 2810
-        },
-        {}
+        }
     ]
 }

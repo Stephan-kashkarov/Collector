@@ -45,17 +45,17 @@
             "index": 10885
         },
         {
-            "title": "Cond\u00e9",
+            "title": "Condé",
             "date": "1817",
             "technique": "Bronze height 39 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/david_a/1/05davida.html",
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 10886
         },
         {
-            "title": "Cond\u00e9",
+            "title": "Condé",
             "date": "1817",
             "technique": "Plaster height 24 cm",
             "location": "Private collection",
@@ -88,7 +88,7 @@
             "title": "Tomb of the Comte de Bourcke",
             "date": "1826",
             "technique": "Marble",
-            "location": "P\u00e8re-Lachaise Cemetery Paris",
+            "location": "Père-Lachaise Cemetery Paris",
             "url": "https://www.wga.hu/html/d/david_a/1/08davida.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -98,7 +98,7 @@
             "title": "Young Greek on the Tomb of Markos Botsaris",
             "date": "1827",
             "technique": "Plaster model 65 x 120 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "location": "Musée des Beaux-Arts Angers",
             "url": "https://www.wga.hu/html/d/david_a/1/091david.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -108,7 +108,7 @@
             "title": "The Actor Talma",
             "date": "1827",
             "technique": "Terracotta 43 x 24 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "location": "Musée des Beaux-Arts Angers",
             "url": "https://www.wga.hu/html/d/david_a/1/09davida.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -118,7 +118,7 @@
             "title": "Philopoemen",
             "date": "1830",
             "technique": "Marble height 246 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/david_a/1/10davida.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -135,10 +135,10 @@
             "index": 10894
         },
         {
-            "title": "Niccol\u00f2 Paganini",
+            "title": "Niccolò Paganini",
             "date": "1830",
             "technique": "Bronze 60 x 30 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "location": "Musée des Beaux-Arts Angers",
             "url": "https://www.wga.hu/html/d/david_a/1/12davida.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -158,7 +158,7 @@
             "title": "Monument to General Gobert",
             "date": "1847",
             "technique": "Stone",
-            "location": "P\u00e8re-Lachaise Cemetery Paris",
+            "location": "Père-Lachaise Cemetery Paris",
             "url": "https://www.wga.hu/html/d/david_a/1/14davida.html",
             "form": "sculpture",
             "painting_type": "historical",
@@ -175,7 +175,7 @@
             "index": 10898
         },
         {
-            "title": "Fran\u00e7ois Arago",
+            "title": "François Arago",
             "date": "1832",
             "technique": "Bronze medallion",
             "location": "Private collection",
@@ -188,14 +188,14 @@
             "title": "Marceline Valmore",
             "date": "1832",
             "technique": "Bronze medal diameter 15 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/david_a/2/23davida.html",
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 10900
         },
         {
-            "title": "Niccol\u00f2 Paganini",
+            "title": "Niccolò Paganini",
             "date": "1834",
             "technique": "Cast bronze diameter 15 cm",
             "location": "Private collection",
@@ -208,7 +208,7 @@
             "title": "Pediment relief of the Pantheon",
             "date": "1830-37",
             "technique": "Stone height 600 cm width 3.080 cm",
-            "location": "Place du Panth\u00e9on Paris",
+            "location": "Place du Panthéon Paris",
             "url": "https://www.wga.hu/html/d/david_a/2/25davida.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -218,12 +218,11 @@
             "title": "Pediment relief of the Pantheon",
             "date": "1830-37",
             "technique": "Stone height 600 cm width 3.080 cm",
-            "location": "Place du Panth\u00e9on Paris",
+            "location": "Place du Panthéon Paris",
             "url": "https://www.wga.hu/html/d/david_a/2/26davida.html",
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 10903
-        },
-        {}
+        }
     ]
 }

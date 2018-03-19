@@ -8,7 +8,7 @@
             "title": "Arion",
             "date": "1500-10",
             "technique": "Bronze height 25 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/riccio/arion.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -28,7 +28,7 @@
             "title": "The Death of Della Torre",
             "date": "1516-20",
             "technique": "Bronze height 37 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/riccio/d_torre.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "The Rape of Europa",
             "date": "-",
             "technique": "Bronze height 19 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/riccio/europa.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -48,7 +48,7 @@
             "title": "The Rape of Europa (detail)",
             "date": "-",
             "technique": "Bronze",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/riccio/europa_d.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -138,7 +138,7 @@
             "title": "The Rape of Europa",
             "date": "c. 1520",
             "technique": "Bronze height 182 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/riccio/rape_eur.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -173,7 +173,6 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 34345
-        },
-        {}
+        }
     ]
 }

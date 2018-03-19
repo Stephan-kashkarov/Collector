@@ -48,7 +48,7 @@
             "title": "Music-making Company",
             "date": "c. 1629",
             "technique": "Oil on wood 40 x 69 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/b/bijlert/musicmak.html",
             "form": "painting",
             "painting_type": "genre",
@@ -138,7 +138,7 @@
             "title": "Venus and Amor and an Old Woman",
             "date": "1630s",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e des Beaux-Arts Troyes",
+            "location": "Musée des Beaux-Arts Troyes",
             "url": "https://www.wga.hu/html/b/bijlert/venus_am.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -173,7 +173,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 4588
-        },
-        {}
+        }
     ]
 }

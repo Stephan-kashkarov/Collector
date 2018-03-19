@@ -18,7 +18,7 @@
             "title": "Jules Hardouin-Mansart",
             "date": "1703",
             "technique": "Marble height 110 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanloui/mansart.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -28,7 +28,7 @@
             "title": "Bust of the Regent",
             "date": "1715",
             "technique": "Marble",
-            "location": "Ch\u00e2teau de Versailles Versailles",
+            "location": "Château de Versailles Versailles",
             "url": "https://www.wga.hu/html/l/lemoyne/jeanloui/regent.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -43,7 +43,6 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 21910
-        },
-        {}
+        }
     ]
 }

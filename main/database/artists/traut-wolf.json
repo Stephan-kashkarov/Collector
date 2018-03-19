@@ -1,6 +1,6 @@
 {
     "name": "TRAUT Wolf",
-    "life": "(b. ca. 1485 N\u00fcrnberg d. 1520 N\u00fcrnberg)",
+    "life": "(b. ca. 1485 Nürnberg d. 1520 Nürnberg)",
     "school": "German",
     "timeframe": "1501-1550",
     "art": [
@@ -33,7 +33,6 @@
             "form": "graphics",
             "painting_type": "historical",
             "index": 40136
-        },
-        {}
+        }
     ]
 }

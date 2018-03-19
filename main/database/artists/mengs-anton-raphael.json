@@ -58,7 +58,7 @@
             "title": "The Holy Family",
             "date": "1769",
             "technique": "Oil on canvas 112 x 91 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/m/mengs/holyfami.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "The Penitent Magdalene",
             "date": "1752",
             "technique": "Oil on canvas 48 x 64 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/m/mengs/magdalen.html",
             "form": "painting",
             "painting_type": "religious",
@@ -138,7 +138,7 @@
             "title": "Self-Portrait",
             "date": "1744",
             "technique": "Pastel on paper 555 x 425 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/m/mengs/selfport.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -203,7 +203,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 26260
-        },
-        {}
+        }
     ]
 }

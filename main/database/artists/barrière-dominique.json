@@ -1,11 +1,11 @@
 {
-    "name": "BARRI\u00c8RE Dominique",
+    "name": "BARRIÈRE Dominique",
     "life": "(b. ca. 1618 Marseille d. 1678 Roma)",
     "school": "French",
     "timeframe": "1651-1700",
     "art": [
         {
-            "title": "Fa\u00e7ade of the Oratorio dei Filippini",
+            "title": "Façade of the Oratorio dei Filippini",
             "date": "1658",
             "technique": "Etching",
             "location": "Biblioteca Apostolica Vatican",
@@ -13,7 +13,6 @@
             "form": "graphics",
             "painting_type": "other",
             "index": 3255
-        },
-        {}
+        }
     ]
 }

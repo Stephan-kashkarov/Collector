@@ -18,7 +18,7 @@
             "title": "Cypresses at Cagnes",
             "date": "1908",
             "technique": "Oil on canvas 81 x 100 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cross/cagnes.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -38,7 +38,7 @@
             "title": "Evening Air",
             "date": "1893-94",
             "technique": "Oil on canvas 116 x 165 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cross/evening.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -48,7 +48,7 @@
             "title": "The Golden Isles (Les Iles d'Or)",
             "date": "1891-92",
             "technique": "Oil on canvas 59 x 54 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cross/golden.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -58,7 +58,7 @@
             "title": "Afternoon at Pardigon",
             "date": "1907",
             "technique": "Oil on canvas 81 x 65 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cross/pardigon.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -83,7 +83,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 10570
-        },
-        {}
+        }
     ]
 }

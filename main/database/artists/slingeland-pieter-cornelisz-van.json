@@ -18,7 +18,7 @@
             "title": "Lady with a Pet Dog",
             "date": "1672",
             "technique": "Oil on panel 40 x 31 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/s/slingela/lady_pet.html",
             "form": "painting",
             "painting_type": "genre",
@@ -88,7 +88,7 @@
             "title": "Woman with Pet Dog",
             "date": "1672",
             "technique": "Oil on panel 40 x 31 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/s/slingela/womanpet.html",
             "form": "painting",
             "painting_type": "genre",
@@ -103,7 +103,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 37422
-        },
-        {}
+        }
     ]
 }

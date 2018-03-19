@@ -1,6 +1,6 @@
 {
     "name": "RIEMENSCHNEIDER Tilman",
-    "life": "(b. ca. 1460 Osterode d. 1531 W\u00fcrzburg)",
+    "life": "(b. ca. 1460 Osterode d. 1531 Würzburg)",
     "school": "German",
     "timeframe": "1501-1550",
     "art": [
@@ -18,7 +18,7 @@
             "title": "Noli me tangere",
             "date": "1490-92",
             "technique": "Limewood",
-            "location": "Parish Church M\u00fcnnerstadt",
+            "location": "Parish Church Münnerstadt",
             "url": "https://www.wga.hu/html/r/riemensc/1magdal2.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -28,7 +28,7 @@
             "title": "Eve",
             "date": "1491-93",
             "technique": "Wood",
-            "location": "Marienkirche W\u00fcrzburg",
+            "location": "Marienkirche Würzburg",
             "url": "https://www.wga.hu/html/r/riemensc/2wurzbu.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Adam and Eve",
             "date": "1491-93",
             "technique": "Sandstone",
-            "location": "Mainfr\u00e4nkisches Museum W\u00fcrzburg",
+            "location": "Mainfränkisches Museum Würzburg",
             "url": "https://www.wga.hu/html/r/riemensc/2wurzbu1.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -58,7 +58,7 @@
             "title": "Tomb of Rudolf von Scherenbergs (detail)",
             "date": "c. 1495",
             "technique": "Stone",
-            "location": "Dom W\u00fcrzburg",
+            "location": "Dom Würzburg",
             "url": "https://www.wga.hu/html/r/riemensc/3scheren.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -153,7 +153,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 34386
-        },
-        {}
+        }
     ]
 }

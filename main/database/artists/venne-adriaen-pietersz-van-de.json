@@ -8,7 +8,7 @@
             "title": "Allegory of the Twelve Years' Truce",
             "date": "1616",
             "technique": "Oil on panel 62 x 125 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/venne/12years.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -166,7 +166,7 @@
         },
         {
             "title": "\"\"What Won't People Do for Money!\"\"\"1625\"Oil on oak 34 x 53 cm",
-            "date": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "date": "Szépmûvészeti Múzeum Budapest",
             "technique": "https://www.wga.hu/html/v/venne/whatwont.html",
             "location": "painting",
             "url": "genre",
@@ -243,7 +243,6 @@
             "form": "graphics",
             "painting_type": "other",
             "index": 42448
-        },
-        {}
+        }
     ]
 }

@@ -1,19 +1,18 @@
 {
-    "name": "CHAUVEAU Fran\u00e7ois",
+    "name": "CHAUVEAU François",
     "life": "(b. 1613 Paris d. 1676 Paris)",
     "school": "French",
     "timeframe": "1651-1700",
     "art": [
         {
-            "title": "Frontispiece to 'Cabinet de M. de Scud\u00e9ry'",
+            "title": "Frontispiece to 'Cabinet de M. de Scudéry'",
             "date": "1646",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/c/chauveau/scudery.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 8744
-        },
-        {}
+        }
     ]
 }

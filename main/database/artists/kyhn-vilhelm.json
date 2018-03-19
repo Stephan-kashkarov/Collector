@@ -1,6 +1,6 @@
 {
     "name": "KYHN Vilhelm",
-    "life": "(b. 1819 K\u00f8benhavn d. 1903 Frederiksberg)",
+    "life": "(b. 1819 København d. 1903 Frederiksberg)",
     "school": "Danish",
     "timeframe": "1801-1850",
     "art": [
@@ -13,7 +13,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 21271
-        },
-        {}
+        }
     ]
 }

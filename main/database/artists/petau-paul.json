@@ -1,6 +1,6 @@
 {
     "name": "PETAU Paul",
-    "life": "(b. 1568 Orl\u00e9ans 1614 Paris)",
+    "life": "(b. 1568 Orléans 1614 Paris)",
     "school": "French",
     "timeframe": "1601-1650",
     "art": [
@@ -8,12 +8,11 @@
             "title": "Saint-Riquier",
             "date": "1612",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/p/petau/striquie.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 30927
-        },
-        {}
+        }
     ]
 }

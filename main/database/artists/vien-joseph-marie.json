@@ -8,7 +8,7 @@
             "title": "La Marchande d'Amours",
             "date": "1763",
             "technique": "Oil on canvas 117 x 140 cm",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "location": "Musée National du Château Fontainebleau",
             "url": "https://www.wga.hu/html/v/vien/amours.html",
             "form": "painting",
             "painting_type": "genre",
@@ -18,7 +18,7 @@
             "title": "Marcus Aurelius Distributing Bread to the People",
             "date": "1765",
             "technique": "Oil on canvas 300 x 301 cm",
-            "location": "Mus\u00e9e de Picardie Amiens",
+            "location": "Musée de Picardie Amiens",
             "url": "https://www.wga.hu/html/v/vien/marcus_a.html",
             "form": "painting",
             "painting_type": "historical",
@@ -35,7 +35,7 @@
             "index": 43154
         },
         {
-            "title": "Portrait of the Architect Barth\u00e9lemy Michel Hazan on Horseback in Mufti",
+            "title": "Portrait of the Architect Barthélemy Michel Hazan on Horseback in Mufti",
             "date": "1748",
             "technique": "Oil on canvas 97 x 70 cm",
             "location": "Private collection",
@@ -48,7 +48,7 @@
             "title": "Greek Maidens Adorning a Sleeping Cupid with Flowers",
             "date": "1773",
             "technique": "Oil on canvas 335 x 194 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/vien/progres1.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -58,7 +58,7 @@
             "title": "Lover Crowning his Mistress",
             "date": "1773",
             "technique": "Oil on canvas 335 x 202 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/vien/progres2.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -83,7 +83,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 43159
-        },
-        {}
+        }
     ]
 }

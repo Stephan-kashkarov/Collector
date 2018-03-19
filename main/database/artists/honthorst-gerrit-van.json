@@ -128,7 +128,7 @@
             "title": "The Dentist",
             "date": "1622",
             "technique": "Oil on canvas 147 x 219 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/h/honthors/1/09dentis.html",
             "form": "painting",
             "painting_type": "genre",
@@ -288,7 +288,7 @@
             "title": "Woman Playing the Guitar",
             "date": "c. 1624",
             "technique": "Oil on canvas 82 x 58 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/h/honthors/2/051guita.html",
             "form": "painting",
             "painting_type": "genre",
@@ -318,7 +318,7 @@
             "title": "Concert on a Balcony",
             "date": "1624",
             "technique": "Oil on canvas 168 x 178 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/h/honthors/2/06concer.html",
             "form": "painting",
             "painting_type": "genre",
@@ -423,7 +423,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 20079
-        },
-        {}
+        }
     ]
 }

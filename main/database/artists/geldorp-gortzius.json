@@ -1,6 +1,6 @@
 {
     "name": "GELDORP Gortzius",
-    "life": "(b. 1553 Leuven d. after 1619 K\u00f6ln)",
+    "life": "(b. 1553 Leuven d. after 1619 Köln)",
     "school": "Flemish",
     "timeframe": "1551-1600",
     "art": [
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 15129
-        },
-        {}
+        }
     ]
 }

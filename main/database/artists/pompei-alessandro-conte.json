@@ -5,7 +5,7 @@
     "timeframe": "1701-1750",
     "art": [
         {
-            "title": "Villa Pompei Carlotti: Fa\u00e7ade",
+            "title": "Villa Pompei Carlotti: Façade",
             "date": "1731-37",
             "technique": "Photo",
             "location": "Illasi Verona",
@@ -15,7 +15,7 @@
             "index": 31916
         },
         {
-            "title": "Chiesa della Rotonda: Fa\u00e7ade",
+            "title": "Chiesa della Rotonda: Façade",
             "date": "1747",
             "technique": "Photo",
             "location": "Sanguinetto",
@@ -23,7 +23,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 31917
-        },
-        {}
+        }
     ]
 }

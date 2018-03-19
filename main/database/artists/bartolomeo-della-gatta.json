@@ -58,7 +58,7 @@
             "title": "St Bernardino of Siena",
             "date": "1480",
             "technique": "Oil on wood 185 x 75 cm",
-            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "location": "Musée du Petit Palais Avignon",
             "url": "https://www.wga.hu/html/b/bartolom/gatta/3bernard.html",
             "form": "painting",
             "painting_type": "religious",
@@ -113,7 +113,6 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 3298
-        },
-        {}
+        }
     ]
 }

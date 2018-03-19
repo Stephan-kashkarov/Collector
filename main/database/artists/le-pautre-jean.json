@@ -8,27 +8,27 @@
             "title": "Performance of Alceste in 1674",
             "date": "1676",
             "technique": "Engraving 308 x 427 mm",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/alceste.html",
             "form": "graphics",
             "painting_type": "other",
             "index": 21728
         },
         {
-            "title": "The Ceremonial Entry of Louis XIV and Marie-Th\u00e9r\u00e8se into Paris in 1660",
+            "title": "The Ceremonial Entry of Louis XIV and Marie-Thérèse into Paris in 1660",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/ceremon1.html",
             "form": "graphics",
             "painting_type": "historical",
             "index": 21729
         },
         {
-            "title": "The Ceremonial Entry of Louis XIV and Marie-Th\u00e9r\u00e8se into Paris in 1660",
+            "title": "The Ceremonial Entry of Louis XIV and Marie-Thérèse into Paris in 1660",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/ceremon2.html",
             "form": "graphics",
             "painting_type": "historical",
@@ -38,7 +38,7 @@
             "title": "The Festivities of Cupid and Bacchus",
             "date": "1678",
             "technique": "Engraving 305 x 420 mm",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/festivit.html",
             "form": "graphics",
             "painting_type": "other",
@@ -48,7 +48,7 @@
             "title": "Fireworks",
             "date": "1676",
             "technique": "Engraving",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/firework.html",
             "form": "graphics",
             "painting_type": "other",
@@ -58,7 +58,7 @@
             "title": "Grotto of Thetis in Versailles",
             "date": "-",
             "technique": "Engraving",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/l/le_pautr/jean/thetis.html",
             "form": "graphics",
             "painting_type": "mythological",
@@ -73,7 +73,6 @@
             "form": "graphics",
             "painting_type": "still-life",
             "index": 21734
-        },
-        {}
+        }
     ]
 }

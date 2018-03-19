@@ -458,7 +458,7 @@
             "title": "Synagoga",
             "date": "c. 1230",
             "technique": "Stone height 193 cm",
-            "location": "Mus\u00e9e de l'Oeuvre Notre-Dame Strasbourg",
+            "location": "Musée de l'Oeuvre Notre-Dame Strasbourg",
             "url": "https://www.wga.hu/html/zgothic/gothic/1/16g_1234.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -788,7 +788,7 @@
             "title": "St John the Evangelist (detail)",
             "date": "1500-10",
             "technique": "Wood",
-            "location": "Marienkirche L\u00fcbeck",
+            "location": "Marienkirche Lübeck",
             "url": "https://www.wga.hu/html/zgothic/gothic/6/10g_1500.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -803,7 +803,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 25705
-        },
-        {}
+        }
     ]
 }

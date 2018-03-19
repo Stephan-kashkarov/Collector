@@ -8,7 +8,7 @@
             "title": "Still-Life with Dead Wild-Duck",
             "date": "-",
             "technique": "Oil on canvas 71 x 87 cm",
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "location": "Národní Galerie Prague",
             "url": "https://www.wga.hu/html/b/boel/deadduck.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -18,7 +18,7 @@
             "title": "Studies of a Fox",
             "date": "1669-71",
             "technique": "Oil on canvas 53 x 65 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/boel/foxes.html",
             "form": "painting",
             "painting_type": "study",
@@ -58,7 +58,7 @@
             "title": "Large Vanitas Still-Life",
             "date": "1663",
             "technique": "Oil on canvas 207 x 260 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "location": "Musée des Beaux-Arts Lille",
             "url": "https://www.wga.hu/html/b/boel/vanitas.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -68,12 +68,11 @@
             "title": "Large Vanitas Still-Life (detail)",
             "date": "1663",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "location": "Musée des Beaux-Arts Lille",
             "url": "https://www.wga.hu/html/b/boel/vanitas1.html",
             "form": "painting",
             "painting_type": "still-life",
             "index": 4838
-        },
-        {}
+        }
     ]
 }

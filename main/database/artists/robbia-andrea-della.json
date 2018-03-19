@@ -78,7 +78,7 @@
             "title": "Madonna and Child between Sts Cosmas and Damian",
             "date": "c. 1466",
             "technique": "Glazed terracotta 217 x 180 cm",
-            "location": "Arciconfraternit\u00e0 della Misericordia Florence",
+            "location": "Arciconfraternità della Misericordia Florence",
             "url": "https://www.wga.hu/html/r/robbia/andrea/misc/01andrea.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Madonna and Child between Sts Cosmas and Damian (detail)",
             "date": "c. 1466",
             "technique": "Glazed terracotta",
-            "location": "Arciconfraternit\u00e0 della Misericordia Florence",
+            "location": "Arciconfraternità della Misericordia Florence",
             "url": "https://www.wga.hu/html/r/robbia/andrea/misc/02andrea.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -258,7 +258,7 @@
             "title": "Agony in the Garden",
             "date": "-",
             "technique": "Glazed terracotta",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/robbia/andrea/misc/17andrea.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -285,7 +285,7 @@
             "index": 34527
         },
         {
-            "title": "Piet\u00e0",
+            "title": "Pietà",
             "date": "c. 1495",
             "technique": "Marble",
             "location": "Santa Maria delle Grazie Arezzo",
@@ -298,7 +298,7 @@
             "title": "Adoration of the Child",
             "date": "1490s",
             "technique": "Glazed terracotta diameter: 73 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/r/robbia/andrea/misc/21andrea.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -363,7 +363,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 34535
-        },
-        {}
+        }
     ]
 }

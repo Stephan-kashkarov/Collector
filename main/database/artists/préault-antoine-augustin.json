@@ -1,11 +1,11 @@
 {
-    "name": "PR\u00c9AULT Antoine-Augustin",
+    "name": "PRÉAULT Antoine-Augustin",
     "life": "(b. 1809 Paris d. 1879 Paris)",
     "school": "French",
     "timeframe": "1801-1850",
     "art": [
         {
-            "title": "Cl\u00e9mence Isaure",
+            "title": "Clémence Isaure",
             "date": "1848",
             "technique": "Marble height 243 cm",
             "location": "Jardin du Luxembourg Paris",
@@ -18,7 +18,7 @@
             "title": "The Killing",
             "date": "1834",
             "technique": "Bronze",
-            "location": "Mus\u00e9e des Beaux-Arts Chartres",
+            "location": "Musée des Beaux-Arts Chartres",
             "url": "https://www.wga.hu/html/p/preault/killing.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -28,7 +28,7 @@
             "title": "Ophelia",
             "date": "1842-76",
             "technique": "Bronze bas-relief 75 x 200 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/p/preault/ophelia.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -38,7 +38,7 @@
             "title": "The Silence of Death Tomb of Jacob Robles",
             "date": "1849",
             "technique": "Marble",
-            "location": "P\u00e8re-Lachaise Cemetery Paris",
+            "location": "Père-Lachaise Cemetery Paris",
             "url": "https://www.wga.hu/html/p/preault/silence.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -83,7 +83,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 32403
-        },
-        {}
+        }
     ]
 }

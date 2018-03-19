@@ -1,6 +1,6 @@
 {
     "name": "PLATTNER Hans",
-    "life": "(b. ca. 1495 N\u00fcrnberg d. ca. 1562 N\u00fcrnberg)",
+    "life": "(b. ca. 1495 Nürnberg d. ca. 1562 Nürnberg)",
     "school": "German",
     "timeframe": "1501-1550",
     "art": [
@@ -13,7 +13,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 31776
-        },
-        {}
+        }
     ]
 }

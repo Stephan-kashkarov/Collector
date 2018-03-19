@@ -1,5 +1,5 @@
 {
-    "name": "SPINELLI Niccol\u00f2 di Forzore",
+    "name": "SPINELLI Niccolò di Forzore",
     "life": "(b. 1430 Firenze d. 1514 Firenze)",
     "school": "Italian",
     "timeframe": "1451-1500",
@@ -8,7 +8,7 @@
             "title": "Giovanna degli Albizzi Tornabuoni",
             "date": "c. 1486",
             "technique": "Cast bronze diameter 8 cm",
-            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "location": "Münzkabinett Staatliche Museen Berlin",
             "url": "https://www.wga.hu/html/s/spinello/spinelln/albizzi.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -18,7 +18,7 @@
             "title": "Angelo Poliziano",
             "date": "c. 1494",
             "technique": "Cast bronze diameter 6 cm",
-            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "location": "Münzkabinett Staatliche Museen Berlin",
             "url": "https://www.wga.hu/html/s/spinello/spinelln/angelo_p.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -48,7 +48,7 @@
             "title": "Girolamo Savonarola",
             "date": "1493-98",
             "technique": "Cast bronze diameter 6 cm",
-            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "location": "Münzkabinett Staatliche Museen Berlin",
             "url": "https://www.wga.hu/html/s/spinello/spinelln/savonaro.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -63,7 +63,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 37783
-        },
-        {}
+        }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name": "ERIKSEN Vigilius",
-    "life": "(b. 1722 K\u00f8benhavn d. 1783 Rungstedgard)",
+    "life": "(b. 1722 København d. 1783 Rungstedgard)",
     "school": "Danish",
     "timeframe": "1751-1800",
     "art": [
@@ -23,7 +23,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 13211
-        },
-        {}
+        }
     ]
 }

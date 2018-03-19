@@ -1,6 +1,6 @@
 {
-    "name": "K\u00d8BKE Christen",
-    "life": "(b. 1810 K\u00f8benhavn d. 1848 K\u00f8benhavn)",
+    "name": "KØBKE Christen",
+    "life": "(b. 1810 København d. 1848 København)",
     "school": "Danish",
     "timeframe": "1801-1850",
     "art": [
@@ -25,17 +25,17 @@
             "index": 21138
         },
         {
-            "title": "Portrait of Adolphine K\u00f8bke Sister of the Artist",
+            "title": "Portrait of Adolphine Købke Sister of the Artist",
             "date": "1832",
             "technique": "Oil on canvas 42 x 35 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/k/kobke/sister.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 21139
         },
         {
-            "title": "Portrait of Frederik S\u00f8dring",
+            "title": "Portrait of Frederik Sødring",
             "date": "1832",
             "technique": "Oil on canvas 42 x 38 cm",
             "location": "Hirschsprungske Samling Copenhagen",
@@ -65,7 +65,7 @@
             "index": 21142
         },
         {
-            "title": "View of a Street in \u00d8sterbro outside Copenhagen. Morning Light",
+            "title": "View of a Street in Østerbro outside Copenhagen. Morning Light",
             "date": "1836",
             "technique": "Oil on canvas 107 x 162 cm",
             "location": "Statens Museum for Kunst Copenhagen",
@@ -83,7 +83,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 21144
-        },
-        {}
+        }
     ]
 }

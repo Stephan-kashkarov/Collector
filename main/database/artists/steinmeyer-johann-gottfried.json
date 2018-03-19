@@ -1,6 +1,6 @@
 {
     "name": "STEINMEYER Johann Gottfried",
-    "life": "(b. ca. 1780 M\u00fchlhausen d. ca. 1851 Berlin)",
+    "life": "(b. ca. 1780 Mühlhausen d. ca. 1851 Berlin)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -18,7 +18,7 @@
             "title": "Exterior view",
             "date": "1838-48",
             "technique": "Photo",
-            "location": "Granitz Hunting Lodge R\u00fcgen",
+            "location": "Granitz Hunting Lodge Rügen",
             "url": "https://www.wga.hu/html/s/steinmey/granitz1.html",
             "form": "architecture",
             "painting_type": "other",
@@ -28,12 +28,11 @@
             "title": "Aerial view",
             "date": "1838-48",
             "technique": "Photo",
-            "location": "Granitz Hunting Lodge R\u00fcgen",
+            "location": "Granitz Hunting Lodge Rügen",
             "url": "https://www.wga.hu/html/s/steinmey/granitz2.html",
             "form": "architecture",
             "painting_type": "other",
             "index": 38007
-        },
-        {}
+        }
     ]
 }

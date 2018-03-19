@@ -5,7 +5,7 @@
     "timeframe": "1451-1500",
     "art": [
         {
-            "title": "Palazzo Antinori: Fa\u00e7ade",
+            "title": "Palazzo Antinori: Façade",
             "date": "1461-69",
             "technique": "Photo",
             "location": "Piazza degli Antinori Florence",
@@ -15,7 +15,7 @@
             "index": 23668
         },
         {
-            "title": "Palazzo Antinori: Fa\u00e7ade",
+            "title": "Palazzo Antinori: Façade",
             "date": "1461-69",
             "technique": "-",
             "location": "Piazza degli Antinori Florence",
@@ -55,7 +55,7 @@
             "index": 23672
         },
         {
-            "title": "Fa\u00e7ade",
+            "title": "Façade",
             "date": "1473-75",
             "technique": "-",
             "location": "Palazzo Spannocchi Siena",
@@ -103,7 +103,6 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 23677
-        },
-        {}
+        }
     ]
 }

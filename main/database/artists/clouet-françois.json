@@ -1,5 +1,5 @@
 {
-    "name": "CLOUET Fran\u00e7ois",
+    "name": "CLOUET François",
     "life": "(b. ca. 1510 Tours d. 1572 Paris)",
     "school": "French",
     "timeframe": "1551-1600",
@@ -28,7 +28,7 @@
             "title": "The Bath of Diana",
             "date": "1550s",
             "technique": "Oil on panel 133 x 192 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "location": "Musée des Beaux-Arts Rouen",
             "url": "https://www.wga.hu/html/c/clouet/francois/diana.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -38,7 +38,7 @@
             "title": "The Bath of Diana",
             "date": "1550s",
             "technique": "Oil on panel 78 x 110 cm",
-            "location": "Museu de Arte S\u00e3o Paulo",
+            "location": "Museu de Arte São Paulo",
             "url": "https://www.wga.hu/html/c/clouet/francois/diana_b.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -78,7 +78,7 @@
             "title": "Portrait of Claude Gouffier",
             "date": "c. 1568",
             "technique": "Oil on panel",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/c/clouet/francois/gouffier.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -118,7 +118,7 @@
             "title": "Portrait of Francis I King of France",
             "date": "c. 1540",
             "technique": "Gouache on vellum 280 x 227 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clouet/francois/king_frb.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -128,7 +128,7 @@
             "title": "Elisabeth of Austria Queen of France",
             "date": "c. 1571",
             "technique": "Oil on canvas 36 x 26 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clouet/francois/queen_el.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -138,12 +138,11 @@
             "title": "Pierre Quthe",
             "date": "1562",
             "technique": "Oil on wood 91 x 70 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/clouet/francois/quthe.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 9148
-        },
-        {}
+        }
     ]
 }

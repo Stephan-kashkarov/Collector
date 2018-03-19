@@ -1,5 +1,5 @@
 {
-    "name": "MILLET Jean-Fran\u00e7ois",
+    "name": "MILLET Jean-François",
     "life": "(b. 1814 Gruchy d. 1875 Barbizon)",
     "school": "French",
     "timeframe": "1851-1900",
@@ -8,7 +8,7 @@
             "title": "The Winnower",
             "date": "1848",
             "technique": "Oil on canvas 38 x 29 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/m/millet/01winnow.html",
             "form": "painting",
             "painting_type": "genre",
@@ -28,7 +28,7 @@
             "title": "Trussing Hay",
             "date": "1850",
             "technique": "Oil on canvas 56 x 65 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/m/millet/02trussi.html",
             "form": "painting",
             "painting_type": "genre",
@@ -48,7 +48,7 @@
             "title": "The Gleaners",
             "date": "1857",
             "technique": "Oil on canvas 855 x 111 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/m/millet/03gleaner.html",
             "form": "painting",
             "painting_type": "genre",
@@ -58,7 +58,7 @@
             "title": "The Angelus",
             "date": "1859-60",
             "technique": "Oil on canvas 56 x 66 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/m/millet/04angel.html",
             "form": "painting",
             "painting_type": "genre",
@@ -68,7 +68,7 @@
             "title": "The Angelus",
             "date": "1859-60",
             "technique": "Oil on canvas 56 x 66 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/m/millet/04angelu.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Spring",
             "date": "1868-73",
             "technique": "Oil on canvas 86 x 111 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/m/millet/04spring.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -153,7 +153,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 27188
-        },
-        {}
+        }
     ]
 }

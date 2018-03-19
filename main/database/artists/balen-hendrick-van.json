@@ -28,7 +28,7 @@
             "title": "Diana Turns Actaeon into a Stag",
             "date": "c. 1605",
             "technique": "Oil on copper 36 x 46 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/balen/dianaact.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -78,7 +78,7 @@
             "title": "Odysseus as a Guest of the Nymph Calypso",
             "date": "c. 1616",
             "technique": "Oil on wood 80 x 116 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/b/balen/odysseus.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -113,7 +113,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 3074
-        },
-        {}
+        }
     ]
 }

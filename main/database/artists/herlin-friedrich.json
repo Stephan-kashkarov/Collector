@@ -1,6 +1,6 @@
 {
     "name": "HERLIN Friedrich",
-    "life": "(b. 1430 Rothenburg d. ca. 1500 N\u00f6rdlingen)",
+    "life": "(b. 1430 Rothenburg d. ca. 1500 Nördlingen)",
     "school": "German",
     "timeframe": "1451-1500",
     "art": [
@@ -78,7 +78,7 @@
             "title": "Epitaph for Hans Genger",
             "date": "1468",
             "technique": "Oil on panel 172 x 114 cm",
-            "location": "Stadtmuseum N\u00f6rdlingen",
+            "location": "Stadtmuseum Nördlingen",
             "url": "https://www.wga.hu/html/h/herlin/epitaph.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Family of the Founder Jakob Fuchsart",
             "date": "1462-65",
             "technique": "Wood 89 x 66 cm",
-            "location": "St\u00e4dtisches Museum N\u00f6rdlingen",
+            "location": "Städtisches Museum Nördlingen",
             "url": "https://www.wga.hu/html/h/herlin/nordlin1.html",
             "form": "painting",
             "painting_type": "religious",
@@ -98,7 +98,7 @@
             "title": "The Founder Jakob Fuchsart and his Son",
             "date": "1462-65",
             "technique": "Wood 89 x 66 cm",
-            "location": "St\u00e4dtisches Museum N\u00f6rdlingen",
+            "location": "Städtisches Museum Nördlingen",
             "url": "https://www.wga.hu/html/h/herlin/nordlin2.html",
             "form": "painting",
             "painting_type": "religious",
@@ -108,7 +108,7 @@
             "title": "Presentation of Christ in the Temple",
             "date": "1462",
             "technique": "Pinewood panel 132 x 68 cm",
-            "location": "Stadtmuseum N\u00f6rdlingen",
+            "location": "Stadtmuseum Nördlingen",
             "url": "https://www.wga.hu/html/h/herlin/nordlin3.html",
             "form": "painting",
             "painting_type": "religious",
@@ -143,7 +143,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 19615
-        },
-        {}
+        }
     ]
 }

@@ -18,7 +18,7 @@
             "title": "Amusement on the Ice",
             "date": "1669",
             "technique": "Oil on canvas on wood 33 x 405 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/v/velde/adriaen/amuseice.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -28,7 +28,7 @@
             "title": "Animals by the River",
             "date": "1664",
             "technique": "Oil on canvas 50 x 71 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/velde/adriaen/animals.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -88,7 +88,7 @@
             "title": "Frozen Canal with Skaters and Hockey Players",
             "date": "1668",
             "technique": "Oil on canvas 23 x 30 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/velde/adriaen/frozenca.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -223,7 +223,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 42347
-        },
-        {}
+        }
     ]
 }

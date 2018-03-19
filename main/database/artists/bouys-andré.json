@@ -1,6 +1,6 @@
 {
-    "name": "BOUYS Andr\u00e9",
-    "life": "(b. 1656 Hy\u00e8res d. 1740 Paris)",
+    "name": "BOUYS André",
+    "life": "(b. 1656 Hyères d. 1740 Paris)",
     "school": "French",
     "timeframe": "1701-1750",
     "art": [
@@ -15,10 +15,10 @@
             "index": 5865
         },
         {
-            "title": "La R\u00e9cureuse",
+            "title": "La Récureuse",
             "date": "1737",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "location": "Musée des Arts décoratifs Paris",
             "url": "https://www.wga.hu/html/b/bouys/scrubbin.html",
             "form": "painting",
             "painting_type": "genre",
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "still-life",
             "index": 5867
-        },
-        {}
+        }
     ]
 }

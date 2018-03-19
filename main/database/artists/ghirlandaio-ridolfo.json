@@ -8,7 +8,7 @@
             "title": "Adoration of the Shepherds",
             "date": "1510",
             "technique": "Oil on poplar 148 x 132 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghirland/ridolfo/adorati.html",
             "form": "painting",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Adoration of the Shepherds (detail)",
             "date": "1510",
             "technique": "Oil on poplar",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghirland/ridolfo/adoratix.html",
             "form": "painting",
             "painting_type": "religious",
@@ -28,7 +28,7 @@
             "title": "Adoration of the Shepherds (detail)",
             "date": "1510",
             "technique": "Oil on poplar",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/ghirland/ridolfo/adoraty.html",
             "form": "painting",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "The Coronation of the Virgin with Six Saints",
             "date": "1504",
             "technique": "Oil on poplar panel 276 x 192 cm",
-            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "location": "Musée du Petit Palais Avignon",
             "url": "https://www.wga.hu/html/g/ghirland/ridolfo/coronati.html",
             "form": "painting",
             "painting_type": "religious",
@@ -143,7 +143,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 15632
-        },
-        {}
+        }
     ]
 }

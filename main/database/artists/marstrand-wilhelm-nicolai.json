@@ -1,6 +1,6 @@
 {
     "name": "MARSTRAND Wilhelm Nicolai",
-    "life": "(b. 1810 K\u00f8benhavn d. 1873 K\u00f8benhavn)",
+    "life": "(b. 1810 København d. 1873 København)",
     "school": "Danish",
     "timeframe": "1801-1850",
     "art": [
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 24367
-        },
-        {}
+        }
     ]
 }

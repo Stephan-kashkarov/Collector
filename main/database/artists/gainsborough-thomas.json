@@ -8,7 +8,7 @@
             "title": "Conversation in a Park",
             "date": "c. 1740",
             "technique": "Oil on canvas 73 x 68 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/gainsbor/01conver.html",
             "form": "painting",
             "painting_type": "genre",
@@ -68,7 +68,7 @@
             "title": "Lady Alston",
             "date": "1760-65",
             "technique": "Oil on canvas 226 x 168 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/gainsbor/040alsto.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -273,7 +273,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 14723
-        },
-        {}
+        }
     ]
 }

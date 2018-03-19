@@ -8,17 +8,17 @@
             "title": "Chronicle of Anonymous",
             "date": "c. 1200",
             "technique": "Manuscript",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/4other/01_1201.html",
             "form": "illumination",
             "painting_type": "historical",
             "index": 27988
         },
         {
-            "title": "Psalter of St Margaret of the House of \u00c1rp\u00e1d",
+            "title": "Psalter of St Margaret of the House of Árpád",
             "date": "1259-61",
             "technique": "Manuscript (Helmst 52)",
-            "location": "Herzog-August-Bibliothek Wolfenb\u00fcttel",
+            "location": "Herzog-August-Bibliothek Wolfenbüttel",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/07_1251.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -75,7 +75,7 @@
             "index": 27994
         },
         {
-            "title": "Bible of D\u00f6m\u00f6t\u00f6r Nekcsei",
+            "title": "Bible of Dömötör Nekcsei",
             "date": "c. 1330",
             "technique": "Manuscript (Pre-Accession 1)",
             "location": "Library of Congress Washington",
@@ -88,7 +88,7 @@
             "title": "Illuminated Chronicle",
             "date": "c. 1360",
             "technique": "Manuscript (Cod. Lat. 404) 300 x 210 mm",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/3other/01_1351.html",
             "form": "illumination",
             "painting_type": "historical",
@@ -98,7 +98,7 @@
             "title": "Illuminated Chronicle",
             "date": "c. 1360",
             "technique": "Manuscript (Cod. Lat. 404) 300 x 210 mm",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/3other/02_1351.html",
             "form": "illumination",
             "painting_type": "historical",
@@ -108,7 +108,7 @@
             "title": "Illuminated Chronicle",
             "date": "c. 1360",
             "technique": "Manuscript (Cod. Lat. 404)",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1351-400/3other/03_1351.html",
             "form": "illumination",
             "painting_type": "historical",
@@ -168,7 +168,7 @@
             "title": "Breviary",
             "date": "1480s",
             "technique": "Manuscript (Cod. Lat. 446) 302 x 225 mm",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/4other/13_1451.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -178,7 +178,7 @@
             "title": "Festetich Codex",
             "date": "c. 1493",
             "technique": "Manuscript (M. Ny. 73)",
-            "location": "National Sz\u00e9ch\u00e9nyi Library Budapest",
+            "location": "National Széchényi Library Budapest",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/4other/14_1451.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -188,7 +188,7 @@
             "title": "Cassianus Corvina",
             "date": "1498",
             "technique": "Manuscript",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/4other/15_1451.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -223,7 +223,6 @@
             "form": "illumination",
             "painting_type": "religious",
             "index": 28009
-        },
-        {}
+        }
     ]
 }

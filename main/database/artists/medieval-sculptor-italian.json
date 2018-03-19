@@ -55,7 +55,7 @@
             "index": 25710
         },
         {
-            "title": "Fa\u00e7ade (lower central part)",
+            "title": "Façade (lower central part)",
             "date": "1100s",
             "technique": "Stone",
             "location": "San Pietro Spoleto",
@@ -95,7 +95,7 @@
             "index": 25714
         },
         {
-            "title": "Portal area of the fa\u00e7ade",
+            "title": "Portal area of the façade",
             "date": "c. 1200",
             "technique": "Stone",
             "location": "Cathedral Fidenza",
@@ -115,7 +115,7 @@
             "index": 25716
         },
         {
-            "title": "Fa\u00e7ade relief (detail)",
+            "title": "Façade relief (detail)",
             "date": "c. 1200",
             "technique": "Marble",
             "location": "San Pietro fuori le Mura Spoleto",
@@ -125,7 +125,7 @@
             "index": 25717
         },
         {
-            "title": "Fa\u00e7ade relief (detail)",
+            "title": "Façade relief (detail)",
             "date": "c. 1200",
             "technique": "Marble",
             "location": "San Pietro fuori le Mura Spoleto",
@@ -563,7 +563,6 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 25761
-        },
-        {}
+        }
     ]
 }

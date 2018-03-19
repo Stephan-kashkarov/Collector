@@ -1,6 +1,6 @@
 {
     "name": "TROYON Constant",
-    "life": "(b. 1810 S\u00e8vres d. 1865 Paris)",
+    "life": "(b. 1810 Sèvres d. 1865 Paris)",
     "school": "French",
     "timeframe": "1851-1900",
     "art": [
@@ -28,7 +28,7 @@
             "title": "The Ford",
             "date": "1852",
             "technique": "Oil on canvas 73 x 106 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/t/troyon/ford.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -58,7 +58,7 @@
             "title": "Return of the Herd",
             "date": "c. 1860",
             "technique": "Oil on canvas 79 x 92 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/t/troyon/returnhe.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -73,7 +73,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 40208
-        },
-        {}
+        }
     ]
 }

@@ -8,7 +8,7 @@
             "title": "Bouquet of Flowers",
             "date": "c. 1620",
             "technique": "Oil on panel 23 x 17 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -18,7 +18,7 @@
             "title": "Bouquet of Flowers (detail)",
             "date": "c. 1620",
             "technique": "Oil on panel",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet0.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -123,7 +123,6 @@
             "form": "painting",
             "painting_type": "still-life",
             "index": 5381
-        },
-        {}
+        }
     ]
 }

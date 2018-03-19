@@ -28,7 +28,7 @@
             "title": "Altarpiece",
             "date": "1523-26",
             "technique": "Wood",
-            "location": "St Stephansm\u00fcnster Breisach (Baden-W\u00fcrttemberg)",
+            "location": "St Stephansmünster Breisach (Baden-Württemberg)",
             "url": "https://www.wga.hu/html/m/master/hl/breisac1.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Altarpiece (detail)",
             "date": "1523-26",
             "technique": "Wood",
-            "location": "St Stephansm\u00fcnster Breisach (Baden-W\u00fcrttemberg)",
+            "location": "St Stephansmünster Breisach (Baden-Württemberg)",
             "url": "https://www.wga.hu/html/m/master/hl/breisac2.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "Altarpiece (detail)",
             "date": "1523-26",
             "technique": "Wood",
-            "location": "St Stephansm\u00fcnster Breisach (Baden-W\u00fcrttemberg)",
+            "location": "St Stephansmünster Breisach (Baden-Württemberg)",
             "url": "https://www.wga.hu/html/m/master/hl/breisac3.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -58,7 +58,7 @@
             "title": "St Christopher",
             "date": "1505-20",
             "technique": "Woodcut",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/m/master/hl/christop.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -68,12 +68,11 @@
             "title": "Coronation of the Virgin (detail)",
             "date": "1523-6",
             "technique": "Wood",
-            "location": "St Stephansm\u00fcnster Breisach (Baden-W\u00fcrttemberg)",
+            "location": "St Stephansmünster Breisach (Baden-Württemberg)",
             "url": "https://www.wga.hu/html/m/master/hl/coronat.html",
             "form": "sculpture",
             "painting_type": "religious",
             "index": 24672
-        },
-        {}
+        }
     ]
 }

@@ -8,7 +8,7 @@
             "title": "The Annunciation",
             "date": "1390s",
             "technique": "Detached fresco transferred to canvas 161 x 238 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/cola_p/annuncia.html",
             "form": "painting",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Chastity",
             "date": "1390s",
             "technique": "Detached fresco 225 x 56 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/cola_p/chastity.html",
             "form": "painting",
             "painting_type": "religious",
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 9264
-        },
-        {}
+        }
     ]
 }

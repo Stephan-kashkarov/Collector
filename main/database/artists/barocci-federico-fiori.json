@@ -48,7 +48,7 @@
             "title": "The Circumcision",
             "date": "1590",
             "technique": "Oil on canvas 374 x 252 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/barocci/circumci.html",
             "form": "painting",
             "painting_type": "religious",
@@ -58,7 +58,7 @@
             "title": "Study of a Bent Right Arm",
             "date": "c. 1590",
             "technique": "Pastel on chamois paper 232 x 176 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/barocci/circumcx.html",
             "form": "graphics",
             "painting_type": "study",
@@ -228,7 +228,7 @@
             "title": "Face of a Woman with Downcast Eyes",
             "date": "-",
             "technique": "Pastel on chamois paper 272 x 213 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/barocci/z_face.html",
             "form": "graphics",
             "painting_type": "study",
@@ -238,7 +238,7 @@
             "title": "Male Figure Stooping to Lift a Cauldron",
             "date": "1590s",
             "technique": "Pastel on grey paper 382 x 242 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/barocci/z_figure.html",
             "form": "graphics",
             "painting_type": "study",
@@ -258,12 +258,11 @@
             "title": "Virgin and Child in the Clouds",
             "date": "1570s",
             "technique": "Etching",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/barocci/z_virgip.html",
             "form": "graphics",
             "painting_type": "religious",
             "index": 3221
-        },
-        {}
+        }
     ]
 }

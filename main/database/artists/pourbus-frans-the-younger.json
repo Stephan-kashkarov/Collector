@@ -48,7 +48,7 @@
             "title": "Henry IV King of France in Black Dress",
             "date": "1610",
             "technique": "Oil on wood 39 x 25 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pourbus/frans_y/henri_iv.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -68,7 +68,7 @@
             "title": "Henry IV King of France in Armour",
             "date": "c. 1610",
             "technique": "Oil on canvas 43 x 28 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pourbus/frans_y/henry_iv.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -88,7 +88,7 @@
             "title": "Isabella Clara Eugenia of Austria",
             "date": "before 1605",
             "technique": "Oil on canvas 235 x 125 cm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/p/pourbus/frans_y/isabellb.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -108,7 +108,7 @@
             "title": "The Last Supper",
             "date": "1618",
             "technique": "Oil on canvas 287 x 370 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pourbus/frans_y/lastsupp.html",
             "form": "painting",
             "painting_type": "religious",
@@ -145,7 +145,7 @@
             "index": 32175
         },
         {
-            "title": "Portrait of Marie de M\u00e9dicis",
+            "title": "Portrait of Marie de Médicis",
             "date": "1611",
             "technique": "Oil on canvas 142 x 127 cm",
             "location": "Galleria degli Uffizi Florence",
@@ -155,7 +155,7 @@
             "index": 32176
         },
         {
-            "title": "Marie des M\u00e9dici Queen of France",
+            "title": "Marie des Médici Queen of France",
             "date": "1617",
             "technique": "Oil on canvas 215 x 115 cm",
             "location": "Museo del Prado Madrid",
@@ -195,10 +195,10 @@
             "index": 32180
         },
         {
-            "title": "Marie de M\u00e9dicis Queen of France",
+            "title": "Marie de Médicis Queen of France",
             "date": "1609-10",
             "technique": "Oil on canvas 307 x 186 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pourbus/frans_y/mariemed.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -255,7 +255,7 @@
             "index": 32186
         },
         {
-            "title": "Portrait of Catherine van Damme Wife of Fran\u00e7ois de Groote",
+            "title": "Portrait of Catherine van Damme Wife of François de Groote",
             "date": "1591",
             "technique": "Oil on panel 106 x 75 cm",
             "location": "Private collection",
@@ -263,7 +263,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 32187
-        },
-        {}
+        }
     ]
 }

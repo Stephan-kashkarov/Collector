@@ -1,5 +1,5 @@
 {
-    "name": "NOM\u00c9 Fran\u00e7ois de",
+    "name": "NOMÉ François de",
     "life": "(b. 1593 Metz d. 1644 Napoli)",
     "school": "French",
     "timeframe": "1601-1650",
@@ -8,7 +8,7 @@
             "title": "Belisarius Recognized by one of his Soldiers",
             "date": "c. 1630",
             "technique": "Oil on canvas 51 x 81 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "location": "Musée des Beaux-Arts Orléans",
             "url": "https://www.wga.hu/html/n/nome/belisari.html",
             "form": "painting",
             "painting_type": "historical",
@@ -28,7 +28,7 @@
             "title": "Architectural Capriccio",
             "date": "c. 1622",
             "technique": "Oil on canvas 96 x 80 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/n/nome/capricci.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -48,7 +48,7 @@
             "title": "A Fantastic Architectural View",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "La Cour d'Or Mus\u00e9es de Metz Metz",
+            "location": "La Cour d'Or Musées de Metz Metz",
             "url": "https://www.wga.hu/html/n/nome/fantasti.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -68,7 +68,7 @@
             "title": "Martyrdom of a Saint",
             "date": "-",
             "technique": "Oil on canvas 46 x 70 cm",
-            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "location": "Musée des Arts décoratifs Paris",
             "url": "https://www.wga.hu/html/n/nome/martyrdo.html",
             "form": "painting",
             "painting_type": "religious",
@@ -78,7 +78,7 @@
             "title": "Landscape with Roman Ruins",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "La Cour d'Or Mus\u00e9es de Metz Metz",
+            "location": "La Cour d'Or Musées de Metz Metz",
             "url": "https://www.wga.hu/html/n/nome/roman.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -103,7 +103,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 29684
-        },
-        {}
+        }
     ]
 }

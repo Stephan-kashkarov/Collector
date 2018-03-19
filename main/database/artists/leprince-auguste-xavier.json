@@ -5,7 +5,7 @@
     "timeframe": "1801-1850",
     "art": [
         {
-            "title": "Young Artist Painting by the Dungeon of Ch\u00e2teau Gaillard",
+            "title": "Young Artist Painting by the Dungeon of Château Gaillard",
             "date": "1824",
             "technique": "Oil on canvas 41 x 32 cm",
             "location": "Private collection",
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 22165
-        },
-        {}
+        }
     ]
 }

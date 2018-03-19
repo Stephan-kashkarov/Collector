@@ -118,7 +118,7 @@
             "title": "Annunciation",
             "date": "1564-67",
             "technique": "Oil on wood 216 x 166 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/v/vasari/1/10annunc.html",
             "form": "painting",
             "painting_type": "religious",
@@ -128,7 +128,7 @@
             "title": "Annunciation",
             "date": "1570-71",
             "technique": "Oil on poplar panel diameter 157 cm",
-            "location": "M\u00f3ra Ferenc M\u00fazeum Szeged",
+            "location": "Móra Ferenc Múzeum Szeged",
             "url": "https://www.wga.hu/html/v/vasari/1/11annunc.html",
             "form": "painting",
             "painting_type": "religious",
@@ -158,7 +158,7 @@
             "title": "Marriage at Cana",
             "date": "1566",
             "technique": "Oil on panel 40 x 28 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/v/vasari/1/14cana.html",
             "form": "painting",
             "painting_type": "religious",
@@ -288,7 +288,7 @@
             "title": "Martyrdom of St Sigismund",
             "date": "-",
             "technique": "Pen and brown ink and brown wash over black chalk on paper 286 x 201 mm",
-            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "location": "Musée des Beaux-Arts Lille",
             "url": "https://www.wga.hu/html/v/vasari/1/z_martyr.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -298,7 +298,7 @@
             "title": "Pope Leo X Appointing Cardinals",
             "date": "1556-59",
             "technique": "Drawing",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/v/vasari/1/z_pope.html",
             "form": "graphics",
             "painting_type": "historical",
@@ -545,7 +545,7 @@
             "index": 42135
         },
         {
-            "title": "Fa\u00e7ade",
+            "title": "Façade",
             "date": "1560",
             "technique": "Photo",
             "location": "Galleria degli Uffizi Florence",
@@ -555,7 +555,7 @@
             "index": 42136
         },
         {
-            "title": "Fa\u00e7ade on the Lungarno",
+            "title": "Façade on the Lungarno",
             "date": "1560",
             "technique": "Photo",
             "location": "Galleria degli Uffizi Florence",
@@ -565,7 +565,7 @@
             "index": 42137
         },
         {
-            "title": "Fa\u00e7ade of the Palazzo dei Cavalieri",
+            "title": "Façade of the Palazzo dei Cavalieri",
             "date": "1562",
             "technique": "Photo",
             "location": "Piazza dei Cavalieri Pisa",
@@ -583,7 +583,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 42139
-        },
-        {}
+        }
     ]
 }

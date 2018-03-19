@@ -658,7 +658,7 @@
             "title": "Portrait of a Boy",
             "date": "1485-1500",
             "technique": "Oil and tempera on poplar 50 x 36 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/p/pinturic/zvarious/port_boy.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -713,7 +713,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 31472
-        },
-        {}
+        }
     ]
 }

@@ -8,7 +8,7 @@
             "title": "Christ on the Cross",
             "date": "1567",
             "technique": "Oil on wood 56 x 56 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/beuckela/christ_c.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Kitchen Interior",
             "date": "1566",
             "technique": "Oil on wood 109 x 139 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/beuckela/kitchen1.html",
             "form": "painting",
             "painting_type": "interior",
@@ -98,7 +98,7 @@
             "title": "Market Scene",
             "date": "-",
             "technique": "Oil on wood 113 x 815 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/beuckela/market.html",
             "form": "painting",
             "painting_type": "genre",
@@ -108,7 +108,7 @@
             "title": "Market Scene (detail)",
             "date": "-",
             "technique": "Oil on wood 113 x 815 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/beuckela/market_d.html",
             "form": "painting",
             "painting_type": "genre",
@@ -158,7 +158,7 @@
             "title": "Christ in the House of Martha and Mary",
             "date": "1565",
             "technique": "Oil on oak 113 x 163 cm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/b/beuckela/martha.html",
             "form": "painting",
             "painting_type": "religious",
@@ -213,7 +213,6 @@
             "form": "painting",
             "painting_type": "still-life",
             "index": 4477
-        },
-        {}
+        }
     ]
 }

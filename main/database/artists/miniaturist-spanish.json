@@ -1,11 +1,11 @@
 {
     "name": "MINIATURIST Spanish",
-    "life": "(active around 945 in Le\u00f3n)",
+    "life": "(active around 945 in León)",
     "school": "Spanish",
     "timeframe": "0901-0950",
     "art": [
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Revelation of St. John",
+            "title": "Beatus of Liébana: Commentary on the Revelation of St. John",
             "date": "c. 945",
             "technique": "Manuscript (M. 644) 387 x 285 mm",
             "location": "The Morgan Library and Museum New York",
@@ -15,7 +15,7 @@
             "index": 28253
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Revelation of St. John",
+            "title": "Beatus of Liébana: Commentary on the Revelation of St. John",
             "date": "c. 945",
             "technique": "Manuscript (M. 644) 387 x 285 mm",
             "location": "The Morgan Library and Museum New York",
@@ -25,7 +25,7 @@
             "index": 28254
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Revelation of St. John",
+            "title": "Beatus of Liébana: Commentary on the Revelation of St. John",
             "date": "975",
             "technique": "Manuscript (Ms. 7) 400 x 260 mm",
             "location": "Cathedral Archives Girona",
@@ -35,7 +35,7 @@
             "index": 28255
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Revelation of St. John",
+            "title": "Beatus of Liébana: Commentary on the Revelation of St. John",
             "date": "975",
             "technique": "Manuscript (Ms. 7) 400 x 260 mm",
             "location": "Cathedral Archives Girona",
@@ -65,7 +65,7 @@
             "index": 28258
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Revelation of St. John",
+            "title": "Beatus of Liébana: Commentary on the Revelation of St. John",
             "date": "before 1000",
             "technique": "Manuscript (Cod. & II. 5) 395 x 225 mm",
             "location": "Real Biblioteca de San Lorenzo El Escorial",
@@ -75,7 +75,7 @@
             "index": 28259
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "11th century",
             "technique": "Manuscript",
             "location": "Museo Diocesano Seu de Urgell",
@@ -85,7 +85,7 @@
             "index": 28260
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "1086",
             "technique": "Manuscript (Codex No. 1)",
             "location": "Museum of the Cathedral Burgo de Osma",
@@ -95,7 +95,7 @@
             "index": 28261
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "1086",
             "technique": "Manuscript (Codex No. 1)",
             "location": "Museum of the Cathedral Burgo de Osma",
@@ -105,7 +105,7 @@
             "index": 28262
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "c. 1180",
             "technique": "Manuscript (1991.232) 448 x 298 mm",
             "location": "Metropolitan Museum of Art New York",
@@ -115,7 +115,7 @@
             "index": 28263
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "c. 1180",
             "technique": "Manuscript (1991.232) 448 x 298 mm",
             "location": "Metropolitan Museum of Art New York",
@@ -125,7 +125,7 @@
             "index": 28264
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "c. 1180",
             "technique": "Manuscript (1991.232) 448 x 298 mm (folio size)",
             "location": "Metropolitan Museum of Art New York",
@@ -145,10 +145,10 @@
             "index": 28266
         },
         {
-            "title": "Beatus of Li\u00e9bana: Commentary on the Apocalypse",
+            "title": "Beatus of Liébana: Commentary on the Apocalypse",
             "date": "1200-20",
             "technique": "Manuscript (Ms 2)",
-            "location": "Museo Arqueol\u00f3gico Madrid",
+            "location": "Museo Arqueológico Madrid",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1201-250/4other/06_1201.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -248,7 +248,7 @@
             "title": "The Miraculous Banner of Baeza",
             "date": "13th century",
             "technique": "Manuscript",
-            "location": "Treasury San Isidoro Le\u00f3n",
+            "location": "Treasury San Isidoro León",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1251-300/4other/06_1253.html",
             "form": "illumination",
             "painting_type": "other",
@@ -368,12 +368,11 @@
             "title": "Heraldry",
             "date": "15th century",
             "technique": "Manuscript (MS 4790)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/zgothic/miniatur/1451-500/4other/18_1452.html",
             "form": "illumination",
             "painting_type": "other",
             "index": 28289
-        },
-        {}
+        }
     ]
 }

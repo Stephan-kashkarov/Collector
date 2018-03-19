@@ -38,7 +38,7 @@
             "title": "Mocking of Job",
             "date": "1645-50",
             "technique": "Oil on canvas 122 x 149 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/a/assereto/mockingjo.html",
             "form": "painting",
             "painting_type": "religious",
@@ -55,7 +55,7 @@
             "index": 2769
         },
         {
-            "title": "Piet\u00e0",
+            "title": "Pietà",
             "date": "1640s",
             "technique": "Oil on beechwood panel 30 x 20 cm",
             "location": "Private collection",
@@ -68,12 +68,11 @@
             "title": "Tobias Healing the Blindness of His Father",
             "date": "-",
             "technique": "Oil on canvas 147 x 203 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Marseille",
+            "location": "Musée des Beaux-Arts Marseille",
             "url": "https://www.wga.hu/html/a/assereto/tobias.html",
             "form": "painting",
             "painting_type": "religious",
             "index": 2771
-        },
-        {}
+        }
     ]
 }

@@ -288,7 +288,7 @@
             "title": "The Dead Christ with Two Angels",
             "date": "c. 1600",
             "technique": "Oil on canvas 65 x 112 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/p/palma/giovane/2/06d_chri.html",
             "form": "painting",
             "painting_type": "religious",
@@ -348,7 +348,7 @@
             "title": "Portrait of Vincenzo Cappello",
             "date": "1610",
             "technique": "Oil on canvas 117 x 91 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/palma/giovane/2/11cappel.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -383,7 +383,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 30246
-        },
-        {}
+        }
     ]
 }

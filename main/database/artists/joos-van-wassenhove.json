@@ -48,7 +48,7 @@
             "title": "Aristotle",
             "date": "c. 1476",
             "technique": "Oil on wood 104 x 68 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/joos/s_aristo.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -58,7 +58,7 @@
             "title": "St Augustine",
             "date": "c. 1474",
             "technique": "Oil on wood 119 x 62 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/joos/s_august.html",
             "form": "painting",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "Cardinal Bessarione",
             "date": "c. 1476",
             "technique": "Oil on wood 116 x 56 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/joos/s_bessar.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -83,7 +83,6 @@
             "form": "sculpture",
             "painting_type": "interior",
             "index": 20713
-        },
-        {}
+        }
     ]
 }

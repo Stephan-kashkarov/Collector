@@ -1,6 +1,6 @@
 {
     "name": "MELBYE Anton",
-    "life": "(b. 1818 K\u00f8benhavn d. 1875 Paris)",
+    "life": "(b. 1818 København d. 1875 Paris)",
     "school": "Danish",
     "timeframe": "1801-1850",
     "art": [
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 25901
-        },
-        {}
+        }
     ]
 }

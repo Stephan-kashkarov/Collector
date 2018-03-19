@@ -1,6 +1,6 @@
 {
     "name": "OLIVIER Ferdinand",
-    "life": "(b. 1785 Dessau d. 1841 M\u00fcnchen)",
+    "life": "(b. 1785 Dessau d. 1841 München)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -35,7 +35,7 @@
             "index": 29792
         },
         {
-            "title": "View of Salzburg and the Hohensalzburg Fortress fom the M\u00f6nschberg",
+            "title": "View of Salzburg and the Hohensalzburg Fortress fom the Mönschberg",
             "date": "1818",
             "technique": "Pencil 326 x 406 mm",
             "location": "Graphische Sammlung Albertina Vienna",
@@ -43,7 +43,6 @@
             "form": "graphics",
             "painting_type": "landscape",
             "index": 29793
-        },
-        {}
+        }
     ]
 }

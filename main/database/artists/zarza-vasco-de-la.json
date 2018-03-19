@@ -1,6 +1,6 @@
 {
     "name": "ZARZA Vasco de la",
-    "life": "(d. 1524 \u00c1vila)",
+    "life": "(d. 1524 햢ila)",
     "school": "Spanish",
     "timeframe": "1501-1550",
     "art": [
@@ -8,7 +8,7 @@
             "title": "Tomb of Don Alonso de Madrigal",
             "date": "1518",
             "technique": "Marble",
-            "location": "Cathedral \u00c1vila",
+            "location": "Cathedral 햢ila",
             "url": "https://www.wga.hu/html/z/zarza/tomb.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Tomb of Don Alonso de Madrigal (detail)",
             "date": "1518",
             "technique": "Marble",
-            "location": "Cathedral \u00c1vila",
+            "location": "Cathedral 햢ila",
             "url": "https://www.wga.hu/html/z/zarza/tomb_d.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -28,12 +28,11 @@
             "title": "Tomb of Don Alonso de Madrigal (detail)",
             "date": "1518",
             "technique": "Marble",
-            "location": "Cathedral \u00c1vila",
+            "location": "Cathedral 햢ila",
             "url": "https://www.wga.hu/html/z/zarza/tomb_d1.html",
             "form": "sculpture",
             "painting_type": "religious",
             "index": 44552
-        },
-        {}
+        }
     ]
 }

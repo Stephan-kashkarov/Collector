@@ -1,5 +1,5 @@
 {
-    "name": "POT\u00c9MONT Adolphe Martial",
+    "name": "POTÉMONT Adolphe Martial",
     "life": "(b. 1827 Paris d. 1883 Paris)",
     "school": "French",
     "timeframe": "1851-1900",
@@ -8,7 +8,7 @@
             "title": "The Boulevard du Temple Paris",
             "date": "1862",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e Carnavalet Paris",
+            "location": "Musée Carnavalet Paris",
             "url": "https://www.wga.hu/html/p/potemont/boulevar.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -23,7 +23,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 32126
-        },
-        {}
+        }
     ]
 }

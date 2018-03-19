@@ -1,6 +1,6 @@
 {
     "name": "CANDID Peter",
-    "life": "(b. ca. 1548 Brugge d. 1628 M\u00fcnchen)",
+    "life": "(b. ca. 1548 Brugge d. 1628 München)",
     "school": "Flemish",
     "timeframe": "1551-1600",
     "art": [
@@ -38,7 +38,7 @@
             "title": "Adoration of the Shepherds",
             "date": "c. 1580",
             "technique": "Pen and brown wash heightened with white on brown paper 240 x 172 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/candid/z_adorat.html",
             "form": "graphics",
             "painting_type": "religious",
@@ -48,12 +48,11 @@
             "title": "Female head",
             "date": "1590s",
             "technique": "Pen black and brown ink red chalk colouring 123 x 83 mm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/candid/z_head.html",
             "form": "graphics",
             "painting_type": "portrait",
             "index": 7317
-        },
-        {}
+        }
     ]
 }

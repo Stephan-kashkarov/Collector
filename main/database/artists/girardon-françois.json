@@ -1,5 +1,5 @@
 {
-    "name": "GIRARDON Fran\u00e7ois",
+    "name": "GIRARDON François",
     "life": "(b. 1628 Troyes d. 1715 Paris)",
     "school": "French",
     "timeframe": "1651-1700",
@@ -68,7 +68,7 @@
             "title": "Saturn or Winter Fountain",
             "date": "1672-77",
             "technique": "Lead and gilt",
-            "location": "Garden of the Ch\u00e2teau Versailles",
+            "location": "Garden of the Château Versailles",
             "url": "https://www.wga.hu/html/g/girardon/fountain.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -78,7 +78,7 @@
             "title": "Equestrian Statue of Louis XIV",
             "date": "c. 1699",
             "technique": "Bronze",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/girardon/louis14.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "The Rape of Persephone",
             "date": "1677-99",
             "technique": "Marble height 270 cm",
-            "location": "Garden of the Ch\u00e2teau Versailles",
+            "location": "Garden of the Château Versailles",
             "url": "https://www.wga.hu/html/g/girardon/proserpi.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -143,7 +143,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 16707
-        },
-        {}
+        }
     ]
 }

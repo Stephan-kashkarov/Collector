@@ -15,7 +15,7 @@
             "index": 12088
         },
         {
-            "title": "Barth\u00e9l\u00e9my Charles Comte de Dreux-Nancr\u00e9",
+            "title": "Barthélémy Charles Comte de Dreux-Nancré",
             "date": "1797",
             "technique": "Oil on canvas 94 x 75 cm",
             "location": "Private collection",
@@ -48,7 +48,7 @@
             "title": "Interior of a Kitchen",
             "date": "1815",
             "technique": "Oil on canvas 65 x 81 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/drolling/kitchen.html",
             "form": "painting",
             "painting_type": "interior",
@@ -58,7 +58,7 @@
             "title": "Interior of a Kitchen (detail)",
             "date": "1815",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/d/drolling/kitchen1.html",
             "form": "painting",
             "painting_type": "interior",
@@ -73,7 +73,6 @@
             "form": "French",
             "painting_type": "1751-1800",
             "index": 12094
-        },
-        {}
+        }
     ]
 }

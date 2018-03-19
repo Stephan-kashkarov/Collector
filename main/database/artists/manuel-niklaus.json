@@ -18,7 +18,7 @@
             "title": "The Judgment of Paris",
             "date": "1517-18",
             "technique": "Tempera on canvas 223 x 160 cm",
-            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "location": "Öffentliche Kunstsammlung Basel",
             "url": "https://www.wga.hu/html/m/manuel/j_paris.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -38,12 +38,11 @@
             "title": "Allegory of Death",
             "date": "-",
             "technique": "Drawing",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/m/manuel/z_death.html",
             "form": "graphics",
             "painting_type": "mythological",
             "index": 24163
-        },
-        {}
+        }
     ]
 }

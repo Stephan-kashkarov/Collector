@@ -58,7 +58,7 @@
             "title": "Self-Portrait",
             "date": "-",
             "technique": "Paper on wood 315 x 215 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/giorgion/portrait/06selfpo.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -68,7 +68,7 @@
             "title": "Portrait of a Youth (Antonio Broccardo?)",
             "date": "1508-10",
             "technique": "Oil on canvas 73 x 54 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/giorgion/portrait/07portra.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -325,10 +325,10 @@
             "index": 15932
         },
         {
-            "title": "Pastoral Concert (F\u00eate champ\u00eatre)",
+            "title": "Pastoral Concert (Fête champêtre)",
             "date": "1508-09",
             "technique": "Oil on canvas 110 x 138 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/giorgion/various/concert.html",
             "form": "painting",
             "painting_type": "genre",
@@ -338,7 +338,7 @@
             "title": "Pastoral Concert (detail)",
             "date": "1508-09",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/g/giorgion/various/concert1.html",
             "form": "painting",
             "painting_type": "genre",
@@ -438,7 +438,7 @@
             "title": "Sleeping Venus",
             "date": "c. 1510",
             "technique": "Oil on canvas 108 x 175 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/g/giorgion/various/venus.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -513,7 +513,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 15951
-        },
-        {}
+        }
     ]
 }

@@ -8,7 +8,7 @@
             "title": "Guarino Guarini da Verona",
             "date": "c. 1453",
             "technique": "Cast copper alloy diameter 9 cm",
-            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "location": "Münzkabinett Staatliche Museen Berlin",
             "url": "https://www.wga.hu/html/p/pasti/guarino.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -28,7 +28,7 @@
             "title": "Sigismondo Pandolfo Malatesta",
             "date": "1446-50",
             "technique": "Cast bronze diameter 8 cm",
-            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "location": "Münzkabinett Staatliche Museen Berlin",
             "url": "https://www.wga.hu/html/p/pasti/malates.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -78,7 +78,7 @@
             "title": "Bust of Leon Battista Alberti",
             "date": "c. 1450",
             "technique": "Cast bronze diameter 93 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pasti/medal_ax.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -93,7 +93,6 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 30495
-        },
-        {}
+        }
     ]
 }

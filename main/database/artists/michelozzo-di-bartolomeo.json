@@ -65,7 +65,7 @@
             "index": 27022
         },
         {
-            "title": "Palazzo Medici Riccardi: Fa\u00e7ade",
+            "title": "Palazzo Medici Riccardi: Façade",
             "date": "1445-60",
             "technique": "Photo",
             "location": "Via Camillo Cavour Florence",
@@ -258,7 +258,7 @@
             "title": "Madonna and Child",
             "date": "1437-38",
             "technique": "Terracotta 77 x 55 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/m/micheloz/2/madonna.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -293,7 +293,6 @@
             "form": "sculpture",
             "painting_type": "interior",
             "index": 27045
-        },
-        {}
+        }
     ]
 }

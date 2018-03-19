@@ -8,7 +8,7 @@
             "title": "Bathing Gypsies",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "location": "Öffentliche Kunstsammlung Basel",
             "url": "https://www.wga.hu/html/l/lingelba/bathing.html",
             "form": "painting",
             "painting_type": "genre",
@@ -48,7 +48,7 @@
             "title": "Roman Market Scene",
             "date": "1653",
             "technique": "Oil on canvas 110 x 1885 cm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/l/lingelba/marketsc.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -78,7 +78,7 @@
             "title": "Crowd in the Piazza del Popolo in Rome",
             "date": "1664",
             "technique": "Oil on canvas 87 x 118 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/l/lingelba/popolo.html",
             "form": "painting",
             "painting_type": "genre",
@@ -133,7 +133,6 @@
             "form": "painting",
             "painting_type": "historical",
             "index": 22447
-        },
-        {}
+        }
     ]
 }

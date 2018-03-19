@@ -5,7 +5,7 @@
     "timeframe": "",
     "art": [
         {
-            "title": "The Family of the Duc de Penthi\u00e8vre (\"\"La Tasse de Chocolat\"\")\"1768Oil on canvas\"Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "title": "The Family of the Duc de Penthièvre (\"\"La Tasse de Chocolat\"\")\"1768Oil on canvas\"Musée National du Château Versailles",
             "date": "https://www.wga.hu/html/c/charpenj/penthie1.html",
             "technique": "painting",
             "location": "portrait",
@@ -15,10 +15,10 @@
             "index": 8715
         },
         {
-            "title": "Louis-Jean-Marie de Bourbon duc de Penthi\u00e8vre (1725-1793)",
+            "title": "Louis-Jean-Marie de Bourbon duc de Penthièvre (1725-1793)",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/c/charpenj/penthie2.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -33,7 +33,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 8717
-        },
-        {}
+        }
     ]
 }

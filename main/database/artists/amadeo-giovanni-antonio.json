@@ -5,7 +5,7 @@
     "timeframe": "1451-1500",
     "art": [
         {
-            "title": "Certosa: Fa\u00e7ade",
+            "title": "Certosa: Façade",
             "date": "1473",
             "technique": "Photo",
             "location": "Certosa Pavia",
@@ -15,7 +15,7 @@
             "index": 440
         },
         {
-            "title": "Certosa: Fa\u00e7ade",
+            "title": "Certosa: Façade",
             "date": "1473",
             "technique": "Marble",
             "location": "Certosa Pavia",
@@ -25,7 +25,7 @@
             "index": 441
         },
         {
-            "title": "Fa\u00e7ade of the church (detail)",
+            "title": "Façade of the church (detail)",
             "date": "1473",
             "technique": "Marble",
             "location": "Certosa Pavia",
@@ -43,7 +43,6 @@
             "form": "architecture",
             "painting_type": "religious",
             "index": 443
-        },
-        {}
+        }
     ]
 }

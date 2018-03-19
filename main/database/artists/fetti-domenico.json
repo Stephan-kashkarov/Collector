@@ -88,7 +88,7 @@
             "title": "The Guardian Angel Protecting a Child from the Empire of the Demon",
             "date": "1615-18",
             "technique": "Oil on canvas 292 x 188 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/f/feti/guardian.html",
             "form": "painting",
             "painting_type": "religious",
@@ -138,7 +138,7 @@
             "title": "Melancholy",
             "date": "c. 1620",
             "technique": "Oil on canvas 168 x 128 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/f/feti/melancho.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -178,7 +178,7 @@
             "title": "Parable of the Lost Drachma",
             "date": "1618-22",
             "technique": "Oil on wood 55 x 44 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/f/feti/parable.html",
             "form": "painting",
             "painting_type": "religious",
@@ -188,7 +188,7 @@
             "title": "Parable of the Lost Drachma",
             "date": "c. 1618",
             "technique": "Oil on wood 75 x 44 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/f/feti/parable1.html",
             "form": "painting",
             "painting_type": "religious",
@@ -248,7 +248,7 @@
             "title": "Portrait of a Scholar",
             "date": "-",
             "technique": "Oil on canvas 98 x 735 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/f/feti/scholar.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -258,7 +258,7 @@
             "title": "Sleeping Girl",
             "date": "c. 1615",
             "technique": "Oil on canvas 675 x 74 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/f/feti/sleeping.html",
             "form": "painting",
             "painting_type": "genre",
@@ -273,7 +273,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 13788
-        },
-        {}
+        }
     ]
 }

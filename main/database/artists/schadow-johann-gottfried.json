@@ -58,7 +58,7 @@
             "title": "Monument of Count von der Mark",
             "date": "1788-89",
             "technique": "Marble",
-            "location": "Dorotheenst\u00e4dtische Kirche Berlin",
+            "location": "Dorotheenstädtische Kirche Berlin",
             "url": "https://www.wga.hu/html/s/schadow/johann/monument.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -103,7 +103,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 36509
-        },
-        {}
+        }
     ]
 }

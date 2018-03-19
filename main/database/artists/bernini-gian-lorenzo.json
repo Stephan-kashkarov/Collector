@@ -158,7 +158,7 @@
             "title": "Project for the Louvre",
             "date": "1665",
             "technique": "Engraving",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bernini/gianlore/architec/project3.html",
             "form": "architecture",
             "painting_type": "study",
@@ -275,7 +275,7 @@
             "index": 4251
         },
         {
-            "title": "Fa\u00e7ade with semi-detached towers",
+            "title": "Façade with semi-detached towers",
             "date": "1636-41",
             "technique": "Drawing MS. Vat. Lat. 13442 f.4.",
             "location": "Biblioteca Apostolica Vatican",
@@ -948,7 +948,7 @@
             "title": "Bust of Cardinal Armand de Richelieu",
             "date": "1640-41",
             "technique": "Marble",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/bernini/gianlore/sculptur/1640/richelie.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -1368,7 +1368,7 @@
             "title": "Bust of Louis XIV",
             "date": "1665",
             "technique": "Marble height 80 cm",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/b/bernini/gianlore/sculptur/1660/louis14b.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -1443,7 +1443,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 4368
-        },
-        {}
+        }
     ]
 }

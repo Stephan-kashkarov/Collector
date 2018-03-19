@@ -5,7 +5,7 @@
     "timeframe": "1651-1700",
     "art": [
         {
-            "title": "San Clemente: Fa\u00e7ade",
+            "title": "San Clemente: Façade",
             "date": "1652",
             "technique": "Photo",
             "location": "Church of San Clemente Isola di San Clemente",
@@ -15,7 +15,7 @@
             "index": 9335
         },
         {
-            "title": "Palazzo Labia: Fa\u00e7ade",
+            "title": "Palazzo Labia: Façade",
             "date": "1680s",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -45,7 +45,7 @@
             "index": 9338
         },
         {
-            "title": "Palazzo Labia: Fa\u00e7ade",
+            "title": "Palazzo Labia: Façade",
             "date": "1680s",
             "technique": "Photo",
             "location": "Canal Grande Venice",
@@ -53,7 +53,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 9339
-        },
-        {}
+        }
     ]
 }

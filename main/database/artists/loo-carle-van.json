@@ -8,7 +8,7 @@
             "title": "Aeneas Carrying Anchises",
             "date": "1729",
             "technique": "Oil on canvas 110 x 105 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/loo/carle/aeneas.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -38,7 +38,7 @@
             "title": "Bear Hunt",
             "date": "1736",
             "technique": "Oil on canvas 184 x 129 cm",
-            "location": "Mus\u00e9e de Picardie Amiens",
+            "location": "Musée de Picardie Amiens",
             "url": "https://www.wga.hu/html/l/loo/carle/bearhunt.html",
             "form": "painting",
             "painting_type": "other",
@@ -58,7 +58,7 @@
             "title": "Halt During the Hunt",
             "date": "1737",
             "technique": "Oil on canvas 220 x 250 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/loo/carle/halthunt.html",
             "form": "painting",
             "painting_type": "genre",
@@ -103,7 +103,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 22978
-        },
-        {}
+        }
     ]
 }

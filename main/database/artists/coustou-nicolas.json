@@ -8,7 +8,7 @@
             "title": "Apollo",
             "date": "1711-14",
             "technique": "Marble height 135 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/coustou/nicolas/apollo.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -18,14 +18,14 @@
             "title": "Pediment of the Custom House",
             "date": "c. 1726",
             "technique": "Bronze",
-            "location": "H\u00f4tel des Douanes Rouen",
+            "location": "Hôtel des Douanes Rouen",
             "url": "https://www.wga.hu/html/c/coustou/nicolas/pediment.html",
             "form": "sculpture",
             "painting_type": "other",
             "index": 9967
         },
         {
-            "title": "Piet\u00e0",
+            "title": "Pietà",
             "date": "1712-28",
             "technique": "Marble 230 x 280 cm",
             "location": "Notre-Dame Cathedral Paris",
@@ -53,7 +53,6 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 9970
-        },
-        {}
+        }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "CARRE\u00d1O DE MIRANDA Juan",
-    "life": "(b. 1614 Avil\u00e9s d. 1685 Madrid)",
+    "name": "CARREÑO DE MIRANDA Juan",
+    "life": "(b. 1614 Avilés d. 1685 Madrid)",
     "school": "Spanish",
     "timeframe": "1651-1700",
     "art": [
@@ -68,17 +68,17 @@
             "title": "Mass of St John of Matha",
             "date": "1666",
             "technique": "Oil on canvas 106 x 86 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/c/carreno/johnmath.html",
             "form": "painting",
             "painting_type": "religious",
             "index": 8019
         },
         {
-            "title": "Portrait of Don Juan Jos\u00e9 de Austria (?)",
+            "title": "Portrait of Don Juan José de Austria (?)",
             "date": "1640-43",
             "technique": "Oil on canvas 785 x 61 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/carreno/juan.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "Mass of St John of Matha",
             "date": "1666",
             "technique": "Oil on canvas 500 x 315 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/carreno/mass_mat.html",
             "form": "painting",
             "painting_type": "religious",
@@ -148,7 +148,7 @@
             "title": "St James the Great in the Battle of Clavijo",
             "date": "1660",
             "technique": "Oil on canvas 231 x 168 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/carreno/st_james.html",
             "form": "painting",
             "painting_type": "religious",
@@ -163,7 +163,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 8028
-        },
-        {}
+        }
     ]
 }

@@ -48,7 +48,7 @@
             "title": "Painter's Studio",
             "date": "1638",
             "technique": "Oil on wood 59 x 95 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/ryckaert/david3/studio.html",
             "form": "painting",
             "painting_type": "genre",
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 35871
-        },
-        {}
+        }
     ]
 }

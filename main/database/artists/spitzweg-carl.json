@@ -1,6 +1,6 @@
 {
     "name": "SPITZWEG Carl",
-    "life": "(b. 1808 M\u00fcnchen d. 1885 M\u00fcnchen)",
+    "life": "(b. 1808 München d. 1885 München)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -38,7 +38,7 @@
             "title": "The Angler",
             "date": "-",
             "technique": "Oil on wood 255 x 18 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/s/spitzweg/theangle.html",
             "form": "painting",
             "painting_type": "genre",
@@ -53,7 +53,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 37827
-        },
-        {}
+        }
     ]
 }

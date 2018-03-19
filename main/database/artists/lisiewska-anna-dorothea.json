@@ -28,14 +28,14 @@
             "title": "Portrait of Jacob Philipp Hackert",
             "date": "1786",
             "technique": "Oil on canvas 80 x 63 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/l/lisiewsk/dorothea/hackert.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 22753
         },
         {
-            "title": "Kurf\u00fcrst Karl Theodor von der Pfalz",
+            "title": "Kurfürst Karl Theodor von der Pfalz",
             "date": "1763",
             "technique": "Oil on canvas 82 x 66 cm",
             "location": "Reiss-Engelhorn-Museen Mannheim",
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 22756
-        },
-        {}
+        }
     ]
 }

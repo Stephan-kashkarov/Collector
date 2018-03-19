@@ -58,7 +58,7 @@
             "title": "Wooded Landscape with a Dead Tree",
             "date": "1667",
             "technique": "Oil on canvas 65 x 88 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/w/wynants/road_fo.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -68,7 +68,7 @@
             "title": "Road beside the Forest (detail)",
             "date": "-",
             "technique": "Oil on canvas",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/w/wynants/road_for.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -103,7 +103,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 44468
-        },
-        {}
+        }
     ]
 }

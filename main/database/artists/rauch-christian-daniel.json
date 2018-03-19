@@ -5,7 +5,7 @@
     "timeframe": "1801-1850",
     "art": [
         {
-            "title": "Bl\u00fccher Victor of Waterloo",
+            "title": "Blücher Victor of Waterloo",
             "date": "1824",
             "technique": "Bronze",
             "location": "Unter den Linden Berlin",
@@ -15,7 +15,7 @@
             "index": 33261
         },
         {
-            "title": "Model of the Bl\u00fccher Monument",
+            "title": "Model of the Blücher Monument",
             "date": "1826",
             "technique": "Bronze height 68 cm",
             "location": "Nationalgalerie Berlin",
@@ -115,7 +115,7 @@
             "index": 33271
         },
         {
-            "title": "Princess L\u00e9ontine von Radziwill",
+            "title": "Princess Léontine von Radziwill",
             "date": "1836",
             "technique": "Gypsum height 42 cm",
             "location": "Nationalgalerie Berlin",
@@ -123,7 +123,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 33272
-        },
-        {}
+        }
     ]
 }

@@ -5,7 +5,7 @@
     "timeframe": "1751-1800",
     "art": [
         {
-            "title": "Santa Maria Maddalena: Fa\u00e7ade",
+            "title": "Santa Maria Maddalena: Façade",
             "date": "1763-89",
             "technique": "Photo",
             "location": "Campo della Maddalena Venice",
@@ -15,7 +15,7 @@
             "index": 38532
         },
         {
-            "title": "Santa Maria Maddalena: Fa\u00e7ade",
+            "title": "Santa Maria Maddalena: Façade",
             "date": "1763-89",
             "technique": "Photo",
             "location": "Campo della Maddalena Venice",
@@ -25,7 +25,7 @@
             "index": 38533
         },
         {
-            "title": "Santa Maria Maddalena: Fa\u00e7ade",
+            "title": "Santa Maria Maddalena: Façade",
             "date": "1760",
             "technique": "Drawing",
             "location": "Museo Correr Venice",
@@ -43,7 +43,6 @@
             "form": "architecture",
             "painting_type": "study",
             "index": 38535
-        },
-        {}
+        }
     ]
 }

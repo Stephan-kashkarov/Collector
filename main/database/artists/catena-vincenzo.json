@@ -28,7 +28,7 @@
             "title": "The Holy Family with a Female Saint",
             "date": "1498-1500",
             "technique": "Oil on panel 66 x 96 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/c/catena/holyfami.html",
             "form": "painting",
             "painting_type": "religious",
@@ -78,12 +78,11 @@
             "title": "Giangiorgio Trissino",
             "date": "1525-27",
             "technique": "Oil on canvas 72 x 63 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/catena/trissino.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 8203
-        },
-        {}
+        }
     ]
 }

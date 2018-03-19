@@ -75,7 +75,7 @@
             "index": 15184
         },
         {
-            "title": "Dana\u00eb",
+            "title": "Danaë",
             "date": "c. 1612",
             "technique": "Oil on copper 41 x 53 cm",
             "location": "Art Museum Saint Louis",
@@ -85,7 +85,7 @@
             "index": 15185
         },
         {
-            "title": "Dana\u00eb (detail)",
+            "title": "Danaë (detail)",
             "date": "c. 1612",
             "technique": "Oil on copper",
             "location": "Art Museum Saint Louis",
@@ -98,7 +98,7 @@
             "title": "Jael and Sisera",
             "date": "1620",
             "technique": "Oil on canvas 86 x 125 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/g/gentiles/artemisi/jaelsise.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -223,7 +223,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 15199
-        },
-        {}
+        }
     ]
 }

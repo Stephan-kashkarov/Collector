@@ -38,7 +38,7 @@
             "title": "Apollo Chasing Daphne",
             "date": "1681",
             "technique": "Oil on canvas 2212 x 224 cm",
-            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "location": "Musées Royaux des Beaux-Arts Brussels",
             "url": "https://www.wga.hu/html/m/maratti/apollo_d.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -85,10 +85,10 @@
             "index": 24180
         },
         {
-            "title": "Portrait of Andre Le N\u00f4tre",
+            "title": "Portrait of Andre Le Nôtre",
             "date": "1678",
             "technique": "Oil on canvas 112 x 85 cm",
-            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "location": "Musée National du Château Versailles",
             "url": "https://www.wga.hu/html/m/maratti/le_notre.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -108,7 +108,7 @@
             "title": "The Holy Night (The Nativity)",
             "date": "1650s",
             "technique": "Oil on canvas 99 x 75 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/m/maratti/nativity.html",
             "form": "painting",
             "painting_type": "religious",
@@ -148,7 +148,7 @@
             "title": "The Sleep of the Infant Jesus with Musician Angels",
             "date": "1697",
             "technique": "Oil on wood 120 x 98 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/m/maratti/sleep.html",
             "form": "painting",
             "painting_type": "religious",
@@ -183,7 +183,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 24190
-        },
-        {}
+        }
     ]
 }

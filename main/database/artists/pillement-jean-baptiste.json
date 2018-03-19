@@ -28,7 +28,7 @@
             "title": "Landscape with Washerwomen",
             "date": "1792",
             "technique": "Oil on canvas 45 x 68 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Bordeaux",
+            "location": "Musée des Beaux-Arts Bordeaux",
             "url": "https://www.wga.hu/html/p/pillemen/landwash.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -38,7 +38,7 @@
             "title": "Landscape with Washerwomen (detail)",
             "date": "1792",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e des Beaux-Arts Bordeaux",
+            "location": "Musée des Beaux-Arts Bordeaux",
             "url": "https://www.wga.hu/html/p/pillemen/landwasx.html",
             "form": "painting",
             "painting_type": "landscape",
@@ -143,7 +143,6 @@
             "form": "graphics",
             "painting_type": "genre",
             "index": 31364
-        },
-        {}
+        }
     ]
 }

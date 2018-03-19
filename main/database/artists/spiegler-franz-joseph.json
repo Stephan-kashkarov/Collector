@@ -1,6 +1,6 @@
 {
     "name": "SPIEGLER Franz Joseph",
-    "life": "(b. 1691 Wangen im Allg\u00e4u d. 1756 Konstanz)",
+    "life": "(b. 1691 Wangen im Allgäu d. 1756 Konstanz)",
     "school": "German",
     "timeframe": "1701-1750",
     "art": [
@@ -8,7 +8,7 @@
             "title": "Interior view",
             "date": "1751",
             "technique": "Fresco",
-            "location": "Fridolinsm\u00fcnster Bad S\u00e4ckingen",
+            "location": "Fridolinsmünster Bad Säckingen",
             "url": "https://www.wga.hu/html/s/spiegler/sacking1.html",
             "form": "architecture",
             "painting_type": "interior",
@@ -18,7 +18,7 @@
             "title": "Apotheosis of St. Fridolin",
             "date": "1751",
             "technique": "Fresco",
-            "location": "Fridolinsm\u00fcnster Bad S\u00e4ckingen",
+            "location": "Fridolinsmünster Bad Säckingen",
             "url": "https://www.wga.hu/html/s/spiegler/sacking2.html",
             "form": "painting",
             "painting_type": "religious",
@@ -43,7 +43,6 @@
             "form": "painting",
             "painting_type": "religious",
             "index": 37762
-        },
-        {}
+        }
     ]
 }

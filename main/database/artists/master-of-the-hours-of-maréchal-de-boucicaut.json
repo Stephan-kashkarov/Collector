@@ -1,54 +1,54 @@
 {
-    "name": "MASTER of the Hours of Mar\u00e9chal de Boucicaut",
+    "name": "MASTER of the Hours of Maréchal de Boucicaut",
     "life": "(active 1405-1420 in Paris)",
     "school": "French",
     "timeframe": "1401-1450",
     "art": [
         {
-            "title": "Book of Hours of Mar\u00e9chal de Boucicaut",
+            "title": "Book of Hours of Maréchal de Boucicaut",
             "date": "1405-08",
             "technique": "Manuscript (Ms. 2) 275 x 190 mm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/boucica1.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 25054
         },
         {
-            "title": "Book of Hours of Mar\u00e9chal de Boucicaut",
+            "title": "Book of Hours of Maréchal de Boucicaut",
             "date": "1405-08",
             "technique": "Manuscript (Ms. 2) 275 x 190 mm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/boucica2.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 25055
         },
         {
-            "title": "Book of Hours of Mar\u00e9chal de Boucicaut",
+            "title": "Book of Hours of Maréchal de Boucicaut",
             "date": "1405-08",
             "technique": "Manuscript (Ms. 2) 275 x 190 mm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/boucica3.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 25056
         },
         {
-            "title": "Book of Hours of Mar\u00e9chal de Boucicaut",
+            "title": "Book of Hours of Maréchal de Boucicaut",
             "date": "1405-08",
             "technique": "Manuscript (Ms. 2) 275 x 190 mm (folio size)",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/boucica4.html",
             "form": "illumination",
             "painting_type": "religious",
             "index": 25057
         },
         {
-            "title": "Book of Hours of Mar\u00e9chal de Boucicaut",
+            "title": "Book of Hours of Maréchal de Boucicaut",
             "date": "1405-08",
             "technique": "Manuscript (Ms. 2) 275 x 190 mm",
-            "location": "Mus\u00e9e Jacquemart-Andr\u00e9 Paris",
+            "location": "Musée Jacquemart-André Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/boucica5.html",
             "form": "illumination",
             "painting_type": "religious",
@@ -77,8 +77,8 @@
         {
             "title": "Livre des Merveilles du Monde",
             "date": "1410-12",
-            "technique": "Manuscript (Ms. fran\u00e7ais 2810) 420 x 298 mm",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 2810) 420 x 298 mm",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/wonders.html",
             "form": "illumination",
             "painting_type": "other",
@@ -87,13 +87,12 @@
         {
             "title": "Livre des Merveilles du Monde",
             "date": "1410-12",
-            "technique": "Manuscript (Ms. fran\u00e7ais 2810)",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "technique": "Manuscript (Ms. français 2810)",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/m/master/boucicau/wonders1.html",
             "form": "illumination",
             "painting_type": "other",
             "index": 25062
-        },
-        {}
+        }
     ]
 }

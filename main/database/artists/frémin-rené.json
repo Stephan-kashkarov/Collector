@@ -1,5 +1,5 @@
 {
-    "name": "FR\u00c9MIN Ren\u00e9",
+    "name": "FRÉMIN René",
     "life": "(b. 1672 Paris d. 1744 Paris)",
     "school": "French",
     "timeframe": "1701-1750",
@@ -8,7 +8,7 @@
             "title": "A Companion of Diana",
             "date": "1717",
             "technique": "Marble height 180 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/f/fremin/diana_co.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -33,7 +33,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 14420
-        },
-        {}
+        }
     ]
 }

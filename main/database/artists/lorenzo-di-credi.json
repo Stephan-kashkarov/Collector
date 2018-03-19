@@ -58,7 +58,7 @@
             "title": "The Holy Family",
             "date": "-",
             "technique": "Poplar 875 x 65 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/l/lorenzo/credi/holy_fam.html",
             "form": "painting",
             "painting_type": "religious",
@@ -68,7 +68,7 @@
             "title": "Madonna with the Christ Child and St John the Baptist",
             "date": "-",
             "technique": "Oil on poplar panel 37 x 27 cm",
-            "location": "Gem\u00e4ldegalerie Dresden",
+            "location": "Gemäldegalerie Dresden",
             "url": "https://www.wga.hu/html/l/lorenzo/credi/madonna.html",
             "form": "painting",
             "painting_type": "religious",
@@ -118,7 +118,7 @@
             "title": "The Virgin and Child with St Julian and St Nicholas of Myra",
             "date": "1490-92",
             "technique": "Wood 163 x 164 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lorenzo/credi/virgin_c.html",
             "form": "painting",
             "painting_type": "religious",
@@ -128,7 +128,7 @@
             "title": "Bust of a Boy Wearing a Cap",
             "date": "c. 1480",
             "technique": "Metalpoint with white highlights on pale brownish pink prepared paper 245 x 188 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lorenzo/credi/z_bust.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -138,7 +138,7 @@
             "title": "Head of an Elderly Man Wearing a Hat",
             "date": "c. 1500",
             "technique": "Metalpoint and white highlighting on pink prepared paper 295 x 210 mm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/l/lorenzo/credi/z_head.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -153,7 +153,6 @@
             "form": "graphics",
             "painting_type": "portrait",
             "index": 23157
-        },
-        {}
+        }
     ]
 }

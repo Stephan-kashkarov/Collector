@@ -1,6 +1,6 @@
 {
     "name": "KRUG Hans I",
-    "life": "(b. ? d. 1519 N\u00fcrnberg)",
+    "life": "(b. ? d. 1519 Nürnberg)",
     "school": "German",
     "timeframe": "1501-1550",
     "art": [
@@ -13,7 +13,6 @@
             "form": "metalwork",
             "painting_type": "other",
             "index": 21236
-        },
-        {}
+        }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "name": "BOSIO Jean Fran\u00e7ois",
+    "name": "BOSIO Jean François",
     "life": "(b. 1764 Monaco d. 1827 Paris)",
     "school": "French",
     "timeframe": "1751-1800",
     "art": [
         {
-            "title": "Portrait of Fr\u00e9d\u00e9ric Donnadieu and His Son Fr\u00e9d\u00e9ric",
+            "title": "Portrait of Frédéric Donnadieu and His Son Frédéric",
             "date": "c. 1800",
             "technique": "Oil on canvas 76 x 64 cm",
             "location": "Private collection",
@@ -13,7 +13,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 5368
-        },
-        {}
+        }
     ]
 }

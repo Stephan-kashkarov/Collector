@@ -27,8 +27,8 @@
         {
             "title": "Adoration of the Magi",
             "date": "c. 1650",
-            "technique": "Oil on canvas 124 \u00d7 173 cm",
-            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "technique": "Oil on canvas 124 × 173 cm",
+            "location": "Musée des Beaux-Arts Strasbourg",
             "url": "https://www.wga.hu/html/b/biscaino/magi_ado.html",
             "form": "painting",
             "painting_type": "religious",
@@ -43,7 +43,6 @@
             "form": "graphics",
             "painting_type": "religious",
             "index": 4626
-        },
-        {}
+        }
     ]
 }

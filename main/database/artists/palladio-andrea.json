@@ -5,7 +5,7 @@
     "timeframe": "1551-1600",
     "art": [
         {
-            "title": "San Giorgio Maggiore: Fa\u00e7ade",
+            "title": "San Giorgio Maggiore: Façade",
             "date": "1566",
             "technique": "Photo",
             "location": "Isola di San Giorgio Maggiore Venice",
@@ -35,7 +35,7 @@
             "index": 30169
         },
         {
-            "title": "San Giorgio Maggiore: Fa\u00e7ade",
+            "title": "San Giorgio Maggiore: Façade",
             "date": "1566",
             "technique": "Photo",
             "location": "Isola di San Giorgio Maggiore Venice",
@@ -85,7 +85,7 @@
             "index": 30174
         },
         {
-            "title": "Il Redentore: Fa\u00e7ade",
+            "title": "Il Redentore: Façade",
             "date": "begun 1577",
             "technique": "Photo",
             "location": "Canale della Giudecca Venice",
@@ -95,7 +95,7 @@
             "index": 30175
         },
         {
-            "title": "Il Redentore: Fa\u00e7ade",
+            "title": "Il Redentore: Façade",
             "date": "begun 1577",
             "technique": "Photo",
             "location": "Canale della Giudecca Venice",
@@ -135,7 +135,7 @@
             "index": 30179
         },
         {
-            "title": "San Francesco della Vigna: Fa\u00e7ade",
+            "title": "San Francesco della Vigna: Façade",
             "date": "1562",
             "technique": "Photo",
             "location": "Campo San Francesco della Vigna Venice",
@@ -145,7 +145,7 @@
             "index": 30180
         },
         {
-            "title": "Santa Maria della Presentazione: Fa\u00e7ade",
+            "title": "Santa Maria della Presentazione: Façade",
             "date": "1576-1588",
             "technique": "Photo",
             "location": "Isola Giudecca Venice",
@@ -175,7 +175,7 @@
             "index": 30183
         },
         {
-            "title": "Villa Caldogno: Fa\u00e7ade",
+            "title": "Villa Caldogno: Façade",
             "date": "1542",
             "technique": "Photo",
             "location": "Caldogno",
@@ -185,7 +185,7 @@
             "index": 30184
         },
         {
-            "title": "Villa Caldogno: Rear fa\u00e7ade",
+            "title": "Villa Caldogno: Rear façade",
             "date": "1570",
             "technique": "Photo",
             "location": "Caldogno",
@@ -195,7 +195,7 @@
             "index": 30185
         },
         {
-            "title": "Villa Cornaro: Fa\u00e7ade",
+            "title": "Villa Cornaro: Façade",
             "date": "1553",
             "technique": "Photo",
             "location": "Piombino Dese",
@@ -215,7 +215,7 @@
             "index": 30187
         },
         {
-            "title": "Villa Emo: Fa\u00e7ade",
+            "title": "Villa Emo: Façade",
             "date": "c. 1554",
             "technique": "Photo",
             "location": "Fanzolo di Vedelago",
@@ -265,7 +265,7 @@
             "index": 30192
         },
         {
-            "title": "Villa Barbaro: Fa\u00e7ade",
+            "title": "Villa Barbaro: Façade",
             "date": "1550s",
             "technique": "Photo",
             "location": "Maser",
@@ -275,7 +275,7 @@
             "index": 30193
         },
         {
-            "title": "Villa Barbaro: Fa\u00e7ade",
+            "title": "Villa Barbaro: Façade",
             "date": "1550s",
             "technique": "Photo",
             "location": "Maser",
@@ -285,7 +285,7 @@
             "index": 30194
         },
         {
-            "title": "Villa Barbaro: Fa\u00e7ade",
+            "title": "Villa Barbaro: Façade",
             "date": "1550s",
             "technique": "Photo",
             "location": "Maser",
@@ -423,7 +423,6 @@
             "form": "architecture",
             "painting_type": "study",
             "index": 30208
-        },
-        {}
+        }
     ]
 }

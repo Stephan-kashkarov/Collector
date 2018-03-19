@@ -1,5 +1,5 @@
 {
-    "name": "F\u00dcGER Friedrich Heinrich",
+    "name": "FÜGER Friedrich Heinrich",
     "life": "(b. 1751 Heilbronn d. 1818 Wien)",
     "school": "German",
     "timeframe": "1751-1800",
@@ -8,7 +8,7 @@
             "title": "Alcestis Sacrifices Herself for Admetus",
             "date": "1804-05",
             "technique": "Oil on canvas 194 x 139 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/f/fuger/alcestis.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -18,14 +18,14 @@
             "title": "Bathsheba at the Bath",
             "date": "-",
             "technique": "Oil on panel 355 x 29 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/f/fuger/bathsheb.html",
             "form": "painting",
             "painting_type": "religious",
             "index": 14571
         },
         {
-            "title": "Portrait of J\u00e1nos Bats\u00e1nyi",
+            "title": "Portrait of János Batsányi",
             "date": "1808",
             "technique": "Oil on canvas (transferred to new canvas) 68 x 51 cm",
             "location": "Historical Picture Gallery Hungarian National Museum Budapest",
@@ -58,7 +58,7 @@
             "title": "Miniature of the Artist's Father",
             "date": "1774",
             "technique": "Gouache on parchment 198 x 165 mm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/f/fuger/miniatu1.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -68,7 +68,7 @@
             "title": "Miniature of the Artist's Mother",
             "date": "1774",
             "technique": "Gouache on parchment 1200 x 165 mm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/f/fuger/miniatu2.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -78,7 +78,7 @@
             "title": "Portrait of the Artist's Son",
             "date": "-",
             "technique": "Oil on canvas 110 x 88 cm",
-            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "location": "Österreichische Galerie Belvedere Vienna",
             "url": "https://www.wga.hu/html/f/fuger/son.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -93,7 +93,6 @@
             "form": "painting",
             "painting_type": "study",
             "index": 14578
-        },
-        {}
+        }
     ]
 }

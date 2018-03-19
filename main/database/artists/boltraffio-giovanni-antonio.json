@@ -48,7 +48,7 @@
             "title": "Virgin and Child with Sts John the Baptist and Sebastian (Pala Casio)",
             "date": "1500",
             "technique": "Oil on poplar panel 186 x 184 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/b/boltraff/palacasi.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Virgin and Child",
             "date": "1490s",
             "technique": "Oil on panel 83 x 635 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/boltraff/virgchil.html",
             "form": "painting",
             "painting_type": "religious",
@@ -98,7 +98,7 @@
             "title": "The Virgin and Child (detail)",
             "date": "1490s",
             "technique": "Panel",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/b/boltraff/virgchix.html",
             "form": "painting",
             "painting_type": "religious",
@@ -143,7 +143,6 @@
             "form": "graphics",
             "painting_type": "study",
             "index": 4947
-        },
-        {}
+        }
     ]
 }

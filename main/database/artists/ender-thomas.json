@@ -5,9 +5,9 @@
     "timeframe": "1801-1850",
     "art": [
         {
-            "title": "Pov\u00e1\u017esk\u00fd Hrad and the Renaissance Mansion",
+            "title": "Povážský Hrad and the Renaissance Mansion",
             "date": "1860s",
-            "technique": "Watercolour and pencil on paper 270 \u00d7 371 mm",
+            "technique": "Watercolour and pencil on paper 270 × 371 mm",
             "location": "Library of the Hungarian Academy of Sciences Budapest",
             "url": "https://www.wga.hu/html/e/ender/thomas/ender01.html",
             "form": "graphics",
@@ -17,7 +17,7 @@
         {
             "title": "Orava Castle",
             "date": "1860s",
-            "technique": "Watercolour and pencil on paper 340 \u00d7 485 mm",
+            "technique": "Watercolour and pencil on paper 340 × 485 mm",
             "location": "Library of the Hungarian Academy of Sciences Budapest",
             "url": "https://www.wga.hu/html/e/ender/thomas/ender02.html",
             "form": "graphics",
@@ -27,7 +27,7 @@
         {
             "title": "The Pieniny Mountains with the Dunajec River",
             "date": "1860s",
-            "technique": "Watercolour and pencil on paper 189 \u00d7 272 mm",
+            "technique": "Watercolour and pencil on paper 189 × 272 mm",
             "location": "Library of the Hungarian Academy of Sciences Budapest",
             "url": "https://www.wga.hu/html/e/ender/thomas/ender03.html",
             "form": "graphics",
@@ -48,12 +48,11 @@
             "title": "View of Rio de Janeiro",
             "date": "1837",
             "technique": "Oil on canvas 127 x 189 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/e/ender/thomas/rjaneiro.html",
             "form": "painting",
             "painting_type": "landscape",
             "index": 13164
-        },
-        {}
+        }
     ]
 }

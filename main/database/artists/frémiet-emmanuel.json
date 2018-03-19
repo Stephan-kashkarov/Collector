@@ -1,5 +1,5 @@
 {
-    "name": "FR\u00c9MIET Emmanuel",
+    "name": "FRÉMIET Emmanuel",
     "life": "(b. 1824 Paris d. 1910 Paris)",
     "school": "French",
     "timeframe": "1851-1900",
@@ -8,7 +8,7 @@
             "title": "Pan with Bear Cubs",
             "date": "1867",
             "technique": "Marble 82 x 182 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/f/fremiet/bearcubs.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -38,7 +38,7 @@
             "title": "Female Gorilla Carrying off a Negress (destroyed)",
             "date": "1859",
             "technique": "Plaster",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/f/fremiet/gorilla.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -55,7 +55,7 @@
             "index": 14414
         },
         {
-            "title": "Moli\u00e8re",
+            "title": "Molière",
             "date": "c. 1875",
             "technique": "Sand cast bronze height 39 cm",
             "location": "Private collection",
@@ -78,12 +78,11 @@
             "title": "St Michael",
             "date": "after 1897",
             "technique": "Copper height 617 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/f/fremiet/smichael.html",
             "form": "sculpture",
             "painting_type": "religious",
             "index": 14417
-        },
-        {}
+        }
     ]
 }

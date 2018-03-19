@@ -1,6 +1,6 @@
 {
     "name": "KLENZE Leo von",
-    "life": "(b. 1784 Schladen d. 1864 M\u00fcnchen)",
+    "life": "(b. 1784 Schladen d. 1864 München)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -48,7 +48,7 @@
             "title": "Glyptothek",
             "date": "1815-30",
             "technique": "Photo",
-            "location": "K\u00f6nigsplatz Munich",
+            "location": "Königsplatz Munich",
             "url": "https://www.wga.hu/html/k/klenze/1/konigs1.html",
             "form": "architecture",
             "painting_type": "other",
@@ -58,7 +58,7 @@
             "title": "Propylaeum",
             "date": "1846-53",
             "technique": "Photo",
-            "location": "K\u00f6nigsplatz Munich",
+            "location": "Königsplatz Munich",
             "url": "https://www.wga.hu/html/k/klenze/1/konigs2.html",
             "form": "architecture",
             "painting_type": "other",
@@ -163,7 +163,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 21077
-        },
-        {}
+        }
     ]
 }

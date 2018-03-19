@@ -1,19 +1,18 @@
 {
     "name": "RICHIER Ligier",
-    "life": "(b. ca. 1500 Saint-Mihiel d. 1567 Gen\u00e8ve)",
+    "life": "(b. ca. 1500 Saint-Mihiel d. 1567 Genève)",
     "school": "French",
     "timeframe": "1501-1550",
     "art": [
         {
-            "title": "Tomb of Ren\u00e9 de Ch\u00e2lons",
+            "title": "Tomb of René de Châlons",
             "date": "after 1544",
             "technique": "Marble",
-            "location": "St. \u00c9tienne Bar-le-Duc",
+            "location": "St. Étienne Bar-le-Duc",
             "url": "https://www.wga.hu/html/r/richier/tomb_ren.html",
             "form": "sculpture",
             "painting_type": "religious",
             "index": 34351
-        },
-        {}
+        }
     ]
 }

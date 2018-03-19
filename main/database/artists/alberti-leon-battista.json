@@ -5,7 +5,7 @@
     "timeframe": "1401-1450",
     "art": [
         {
-            "title": "Sant'Andrea: Fa\u00e7ade",
+            "title": "Sant'Andrea: Façade",
             "date": "1472-92",
             "technique": "Photo",
             "location": "Piazza Andrea Mantegna Mantua",
@@ -15,7 +15,7 @@
             "index": 228
         },
         {
-            "title": "Sant'Andrea: Fa\u00e7ade",
+            "title": "Sant'Andrea: Façade",
             "date": "1472-92",
             "technique": "Photo",
             "location": "Piazza Andrea Mantegna Mantua",
@@ -45,7 +45,7 @@
             "index": 231
         },
         {
-            "title": "Fa\u00e7ade",
+            "title": "Façade",
             "date": "1458-70",
             "technique": "Photo",
             "location": "Santa Maria Novella Florence",
@@ -85,7 +85,7 @@
             "index": 235
         },
         {
-            "title": "Palazzo Ruccelai: Fa\u00e7ade",
+            "title": "Palazzo Ruccelai: Façade",
             "date": "1446-51",
             "technique": "Photo",
             "location": "Via della Vigna Nuova Florence",
@@ -95,7 +95,7 @@
             "index": 236
         },
         {
-            "title": "Palazzo Ruccelai: Fa\u00e7ade",
+            "title": "Palazzo Ruccelai: Façade",
             "date": "1446-51",
             "technique": "Photo",
             "location": "Via della Vigna Nuova Florence",
@@ -105,7 +105,7 @@
             "index": 237
         },
         {
-            "title": "Palazzo Ruccelai: Fa\u00e7ade (detail)",
+            "title": "Palazzo Ruccelai: Façade (detail)",
             "date": "1446-51",
             "technique": "Photo",
             "location": "Via della Vigna Nuova Florence",
@@ -115,7 +115,7 @@
             "index": 238
         },
         {
-            "title": "Palazzo Ruccelai: Fa\u00e7ade (detail)",
+            "title": "Palazzo Ruccelai: Façade (detail)",
             "date": "1446-51",
             "technique": "Photo",
             "location": "Via della Vigna Nuova Florence",
@@ -135,7 +135,7 @@
             "index": 240
         },
         {
-            "title": "Fa\u00e7ade of the Tempietto",
+            "title": "Façade of the Tempietto",
             "date": "1467",
             "technique": "Marble",
             "location": "Cappella Ruccelai San Pancrazio Florence",
@@ -165,7 +165,7 @@
             "index": 243
         },
         {
-            "title": "Tempio Malatestiano: Fa\u00e7ade",
+            "title": "Tempio Malatestiano: Façade",
             "date": "1450",
             "technique": "Photo",
             "location": "Via Quattro Novembre Rimini",
@@ -175,7 +175,7 @@
             "index": 244
         },
         {
-            "title": "Tempio Malatestiana: Fa\u00e7ade",
+            "title": "Tempio Malatestiana: Façade",
             "date": "1450",
             "technique": "Photo",
             "location": "Via Quattro Novembre Rimini",
@@ -183,7 +183,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 245
-        },
-        {}
+        }
     ]
 }

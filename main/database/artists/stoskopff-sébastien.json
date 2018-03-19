@@ -1,5 +1,5 @@
 {
-    "name": "STOSKOPFF S\u00e9bastien",
+    "name": "STOSKOPFF Sébastien",
     "life": "(b. 1597 Strasbourg d. 1657 Idstein)",
     "school": "French",
     "timeframe": "1601-1650",
@@ -18,7 +18,7 @@
             "title": "The Four Elements",
             "date": "1630s",
             "technique": "Oil on canvas 55 x 73 cm",
-            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "location": "Öffentliche Kunstsammlung Basel",
             "url": "https://www.wga.hu/html/s/stoskopf/elements.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -28,7 +28,7 @@
             "title": "Summer or the Five Senses",
             "date": "1633",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e de l'Oeuvre de Notre Dame Strasbourg",
+            "location": "Musée de l'Oeuvre de Notre Dame Strasbourg",
             "url": "https://www.wga.hu/html/s/stoskopf/senses.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -38,7 +38,7 @@
             "title": "Still-Life with Statuette and Shells",
             "date": "-",
             "technique": "Oil on wood 52 x 73 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/s/stoskopf/statuett.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -68,7 +68,7 @@
             "title": "Still-Life of Glasses in a Basket",
             "date": "1644",
             "technique": "Oil on canvas 52 x 63 cm",
-            "location": "Mus\u00e9e de l'Oeuvre de Notre Dame Strasbourg",
+            "location": "Musée de l'Oeuvre de Notre Dame Strasbourg",
             "url": "https://www.wga.hu/html/s/stoskopf/stillife.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -78,7 +78,7 @@
             "title": "Still-Life of Glasses in a Basket (detail)",
             "date": "1644",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e de l'Oeuvre de Notre Dame Strasbourg",
+            "location": "Musée de l'Oeuvre de Notre Dame Strasbourg",
             "url": "https://www.wga.hu/html/s/stoskopf/stillifx.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -108,7 +108,7 @@
             "title": "The Great Vanity Still-Life",
             "date": "1641",
             "technique": "Oil on canvas 125 x 165 cm",
-            "location": "Mus\u00e9e de l'Oeuvre de Notre Dame Strasbourg",
+            "location": "Musée de l'Oeuvre de Notre Dame Strasbourg",
             "url": "https://www.wga.hu/html/s/stoskopf/vanity.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -118,7 +118,7 @@
             "title": "The Great Vanity Still-life (detail)",
             "date": "1641",
             "technique": "Oil on canvas",
-            "location": "Mus\u00e9e de l'Oeuvre de Notre Dame Strasbourg",
+            "location": "Musée de l'Oeuvre de Notre Dame Strasbourg",
             "url": "https://www.wga.hu/html/s/stoskopf/vanity1.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -133,7 +133,6 @@
             "form": "painting",
             "painting_type": "still-life",
             "index": 38109
-        },
-        {}
+        }
     ]
 }

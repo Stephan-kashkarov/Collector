@@ -8,7 +8,7 @@
             "title": "Pierre Aymeric",
             "date": "1534",
             "technique": "Wood 17 x 14 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/corneill/aymeric.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -25,10 +25,10 @@
             "index": 9489
         },
         {
-            "title": "Jean de Bourbon-Vend\u00f4me",
+            "title": "Jean de Bourbon-Vendôme",
             "date": "c. 1550",
             "technique": "Wood 19 x 16 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/corneill/jbourbon.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -38,7 +38,7 @@
             "title": "Portrait of Louise de Rieux",
             "date": "c. 1550",
             "technique": "Oil on panel 16 x 12 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/corneill/louiseri.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -78,7 +78,7 @@
             "title": "Portrait of Gabrielle de Rochechouart",
             "date": "c. 1574",
             "technique": "Oil on wood 17 x 14 cm",
-            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "location": "Musée Condé Chantilly",
             "url": "https://www.wga.hu/html/c/corneill/rochecho.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -93,7 +93,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 9496
-        },
-        {}
+        }
     ]
 }

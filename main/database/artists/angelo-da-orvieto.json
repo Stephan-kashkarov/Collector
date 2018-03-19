@@ -8,7 +8,7 @@
             "title": "Exterior view",
             "date": "1322",
             "technique": "Photo",
-            "location": "Palazzo dei Priori Citt\u00e0 di Castello",
+            "location": "Palazzo dei Priori Città di Castello",
             "url": "https://www.wga.hu/html/a/angelo_o/cittadi1.html",
             "form": "architecture",
             "painting_type": "other",
@@ -18,7 +18,7 @@
             "title": "Interior view",
             "date": "1322",
             "technique": "Photo",
-            "location": "Palazzo dei Priori Citt\u00e0 di Castello",
+            "location": "Palazzo dei Priori Città di Castello",
             "url": "https://www.wga.hu/html/a/angelo_o/cittadi2.html",
             "form": "architecture",
             "painting_type": "interior",
@@ -73,7 +73,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 1002
-        },
-        {}
+        }
     ]
 }

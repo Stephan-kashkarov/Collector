@@ -5,10 +5,10 @@
     "timeframe": "1651-1700",
     "art": [
         {
-            "title": "San Mois\u00e8: Fa\u00e7ade",
+            "title": "San Moisè: Façade",
             "date": "1668",
             "technique": "Photo",
-            "location": "Campo San Mois\u00e8 Venice",
+            "location": "Campo San Moisè Venice",
             "url": "https://www.wga.hu/html/m/meyring/moise1.html",
             "form": "architecture",
             "painting_type": "other",
@@ -18,7 +18,7 @@
             "title": "High Altar",
             "date": "1684",
             "technique": "Stone",
-            "location": "San Mois\u00e8 Venice",
+            "location": "San Moisè Venice",
             "url": "https://www.wga.hu/html/m/meyring/moise2.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -28,7 +28,7 @@
             "title": "High Altar front",
             "date": "1684",
             "technique": "Stone",
-            "location": "San Mois\u00e8 Venice",
+            "location": "San Moisè Venice",
             "url": "https://www.wga.hu/html/m/meyring/moise3.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -43,7 +43,6 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 26386
-        },
-        {}
+        }
     ]
 }

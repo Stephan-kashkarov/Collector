@@ -8,7 +8,7 @@
             "title": "Fries Funeral Monument",
             "date": "1788-90",
             "technique": "Marble",
-            "location": "Castle Garden V\u00f6slau",
+            "location": "Castle Garden Vöslau",
             "url": "https://www.wga.hu/html/z/zauner/funeral.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Genius Bornii",
             "date": "c. 1785",
             "technique": "Plaster graphitiyed height 79 cm",
-            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "location": "Österreichische Galerie Belvedere Vienna",
             "url": "https://www.wga.hu/html/z/zauner/genius.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -43,7 +43,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 44556
-        },
-        {}
+        }
     ]
 }

@@ -5,7 +5,7 @@
     "timeframe": "1801-1850",
     "art": [
         {
-            "title": "Portrait of Count Ferenc Bark\u00f3czy",
+            "title": "Portrait of Count Ferenc Barkóczy",
             "date": "1812",
             "technique": "Oil on canvas 190 x 127 cm",
             "location": "Historical Picture Gallery Hungarian National Museum Budapest",
@@ -18,7 +18,7 @@
             "title": "Faust on Easter Morning",
             "date": "1856",
             "technique": "Oil on canvas 134 x 112 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/k/krafft/faust.html",
             "form": "painting",
             "painting_type": "other",
@@ -58,7 +58,7 @@
             "title": "Ruggiero and Angelica",
             "date": "1842-43",
             "technique": "Oil on wood 134 x 103 cm",
-            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "location": "Akademie der bildenden Künste Vienna",
             "url": "https://www.wga.hu/html/k/krafft/ruggiero.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -68,12 +68,11 @@
             "title": "The Attack of Zrinyi",
             "date": "1825",
             "technique": "Oil on canvas 455 x 645 cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/k/krafft/zrinyi.html",
             "form": "painting",
             "painting_type": "historical",
             "index": 21217
-        },
-        {}
+        }
     ]
 }

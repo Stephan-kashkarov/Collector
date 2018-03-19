@@ -1,5 +1,5 @@
 {
-    "name": "ADAM Nicolas-S\u00e9bastien",
+    "name": "ADAM Nicolas-Sébastien",
     "life": "(b. 1705 Nancy d. 1778 Paris)",
     "school": "French",
     "timeframe": "1701-1750",
@@ -8,7 +8,7 @@
             "title": "The Martyrdom of Sainte Victoire",
             "date": "1747",
             "technique": "Bronze",
-            "location": "Chapel of Ch\u00e2teau Versailles",
+            "location": "Chapel of Château Versailles",
             "url": "https://www.wga.hu/html/a/adam/nicolas/martyrdo.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -38,7 +38,7 @@
             "title": "Prometheus",
             "date": "1737",
             "technique": "Marble height 115 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/a/adam/nicolas/promethe.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -48,7 +48,7 @@
             "title": "Prometheus",
             "date": "1737",
             "technique": "Marble height 115 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/a/adam/nicolas/promethx.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -83,7 +83,6 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 50
-        },
-        {}
+        }
     ]
 }

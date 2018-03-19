@@ -1,11 +1,11 @@
 {
     "name": "BLOCK Benjamin",
-    "life": "(b. 1631 L\u00fcbeck d. 1690 Regensburg)",
+    "life": "(b. 1631 Lübeck d. 1690 Regensburg)",
     "school": "German",
     "timeframe": "1651-1700",
     "art": [
         {
-            "title": "Portrait of Count Ferenc N\u00e1dasdy",
+            "title": "Portrait of Count Ferenc Nádasdy",
             "date": "1656",
             "technique": "Oil on canvas 182 x 120 cm",
             "location": "Historical Picture Gallery Hungarian National Museum Budapest",
@@ -15,7 +15,7 @@
             "index": 4730
         },
         {
-            "title": "Portrait of Princess Anna Julianna Eszterh\u00e1zy Wife of Count Ferenc N\u00e1dasdy",
+            "title": "Portrait of Princess Anna Julianna Eszterházy Wife of Count Ferenc Nádasdy",
             "date": "1656",
             "technique": "Oil on canvas 182 x 121 cm",
             "location": "Historical Picture Gallery Hungarian National Museum Budapest",
@@ -23,7 +23,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 4731
-        },
-        {}
+        }
     ]
 }

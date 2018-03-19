@@ -15,7 +15,7 @@
             "index": 10728
         },
         {
-            "title": "South fa\u00e7ade balcony",
+            "title": "South façade balcony",
             "date": "1400-04",
             "technique": "Stone",
             "location": "Palazzo Ducale Venice",
@@ -25,7 +25,7 @@
             "index": 10729
         },
         {
-            "title": "Fa\u00e7ade towards the waterfront",
+            "title": "Façade towards the waterfront",
             "date": "1400-04",
             "technique": "-",
             "location": "Palazzo Ducale Venice",
@@ -93,7 +93,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 10736
-        },
-        {}
+        }
     ]
 }

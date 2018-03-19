@@ -8,7 +8,7 @@
             "title": "Descent from the Cross",
             "date": "1697",
             "technique": "Oil on canvas 424 x 312 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/jouvenet/descent.html",
             "form": "painting",
             "painting_type": "religious",
@@ -18,7 +18,7 @@
             "title": "Dr Raymond Finot",
             "date": "c. 1704",
             "technique": "Oil on canvas 73 x 59 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/jouvenet/dr_finot.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -38,7 +38,7 @@
             "title": "The Raising of Lazarus",
             "date": "1706",
             "technique": "Oil on canvas 388 x 664 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/jouvenet/lazarus.html",
             "form": "painting",
             "painting_type": "religious",
@@ -48,7 +48,7 @@
             "title": "The Miraculous Draught",
             "date": "before 1706",
             "technique": "Oil on canvas 392 x 664 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/j/jouvenet/miraculo.html",
             "form": "painting",
             "painting_type": "religious",
@@ -63,7 +63,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 20785
-        },
-        {}
+        }
     ]
 }

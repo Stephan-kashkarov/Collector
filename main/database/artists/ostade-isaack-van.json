@@ -18,7 +18,7 @@
             "title": "The Cut Pig",
             "date": "-",
             "technique": "Oil on oak 42 x 31 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/o/ostade/isaack/cut_pig.html",
             "form": "painting",
             "painting_type": "still-life",
@@ -38,7 +38,7 @@
             "title": "Interior of a Peasant House",
             "date": "1640",
             "technique": "Oil on oak 446 x 395 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/o/ostade/isaack/interior.html",
             "form": "painting",
             "painting_type": "interior",
@@ -48,7 +48,7 @@
             "title": "A Barn Interior with a Slaughtered PIg",
             "date": "1642",
             "technique": "Oil on oak 40 x 54 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/o/ostade/isaack/pig_kill.html",
             "form": "painting",
             "painting_type": "interior",
@@ -143,7 +143,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 29971
-        },
-        {}
+        }
     ]
 }

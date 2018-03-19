@@ -1,6 +1,6 @@
 {
-    "name": "YBL Mikl\u00f3s",
-    "life": "(b. 1814 Sz\u00e9kesfeh\u00e9rv\u00e1r d. 1891 Budapest)",
+    "name": "YBL Miklós",
+    "life": "(b. 1814 Székesfehérvár d. 1891 Budapest)",
     "school": "Hungarian",
     "timeframe": "1851-1900",
     "art": [
@@ -58,7 +58,7 @@
             "title": "Exterior view",
             "date": "1845-55",
             "technique": "Photo",
-            "location": "Roman Catholic Church F\u00f3t",
+            "location": "Roman Catholic Church Fót",
             "url": "https://www.wga.hu/html/y/ybl/fot.html",
             "form": "architecture",
             "painting_type": "other",
@@ -103,7 +103,6 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 44486
-        },
-        {}
+        }
     ]
 }

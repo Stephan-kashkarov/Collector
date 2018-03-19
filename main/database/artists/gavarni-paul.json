@@ -8,7 +8,7 @@
             "title": "What a Dreadful Salon",
             "date": "1839",
             "technique": "Lithograph",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/g/gavarni/caricatu.html",
             "form": "graphics",
             "painting_type": "other",
@@ -18,7 +18,7 @@
             "title": "Portrait of Edmond and Jules de Goncourt",
             "date": "-",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/g/gavarni/goncourt.html",
             "form": "graphics",
             "painting_type": "portrait",
@@ -28,12 +28,11 @@
             "title": "Self-Portrait",
             "date": "1842",
             "technique": "Drawing",
-            "location": "Biblioth\u00e8que Nationale Paris",
+            "location": "Bibliothèque Nationale Paris",
             "url": "https://www.wga.hu/html/g/gavarni/selfport.html",
             "form": "graphics",
             "painting_type": "portrait",
             "index": 15088
-        },
-        {}
+        }
     ]
 }

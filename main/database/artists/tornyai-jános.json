@@ -1,14 +1,14 @@
 {
-    "name": "TORNYAI J\u00e1nos",
-    "life": "(b. 1869 H\u00f3dmez\u00f5v\u00e1s\u00e1rhely d. 1936 Budapest)",
+    "name": "TORNYAI János",
+    "life": "(b. 1869 Hódmezõvásárhely d. 1936 Budapest)",
     "school": "Hungarian",
     "timeframe": "1851-1900",
     "art": [
         {
             "title": "The Legacy",
             "date": "1904",
-            "technique": "Olaj v\u00e1szon 156 x 227 cm cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "technique": "Olaj vászon 156 x 227 cm cm",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/t/tornyai/1legacy.html",
             "form": "painting",
             "painting_type": "genre",
@@ -18,7 +18,7 @@
             "title": "Sifting Girl",
             "date": "c. 1900",
             "technique": "Oil on canvas 89 x 73 cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/t/tornyai/2girl.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -38,12 +38,11 @@
             "title": "Young Woman in the Atelier",
             "date": "1904",
             "technique": "Oil on canvas 91 x 72 cm",
-            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "location": "Magyar Nemzeti Galéria Budapest",
             "url": "https://www.wga.hu/html/t/tornyai/4woman.html",
             "form": "painting",
             "painting_type": "portrait",
             "index": 39904
-        },
-        {}
+        }
     ]
 }

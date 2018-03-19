@@ -8,7 +8,7 @@
             "title": "Victor Hugo",
             "date": "1832",
             "technique": "Plaster height 17 cm",
-            "location": "Mus\u00e9e Victor Hugo Paris",
+            "location": "Musée Victor Hugo Paris",
             "url": "https://www.wga.hu/html/d/dantan/hugo_vic.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -18,7 +18,7 @@
             "title": "Liszt Playing the Piano",
             "date": "1836",
             "technique": "Gypsum height 21 cm",
-            "location": "Mus\u00e9e Carnavalet Paris",
+            "location": "Musée Carnavalet Paris",
             "url": "https://www.wga.hu/html/d/dantan/liszt.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -28,7 +28,7 @@
             "title": "Paganini",
             "date": "1832",
             "technique": "Bronze height 32 cm",
-            "location": "Mus\u00e9es de la Ville de Paris Paris",
+            "location": "Musées de la Ville de Paris Paris",
             "url": "https://www.wga.hu/html/d/dantan/paganini.html",
             "form": "sculpture",
             "painting_type": "other",
@@ -43,7 +43,6 @@
             "form": "graphics",
             "painting_type": "portrait",
             "index": 10812
-        },
-        {}
+        }
     ]
 }

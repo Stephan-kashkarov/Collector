@@ -48,7 +48,7 @@
             "title": "Daphne",
             "date": "1713-14",
             "technique": "Marble height 132 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/coustou/guillaum/daphne.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -58,7 +58,7 @@
             "title": "Marie Leczinska as Juno",
             "date": "1731",
             "technique": "Marble",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/coustou/guillaum/leczinsk.html",
             "form": "sculpture",
             "painting_type": "mythological",
@@ -148,7 +148,7 @@
             "title": "Bust of Nicolas Coustou",
             "date": "-",
             "technique": "Terracotta height 56 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/coustou/guillaum/n_coustou.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -158,12 +158,11 @@
             "title": "Summer",
             "date": "1731-35",
             "technique": "Marble height 312 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/c/coustou/guillaum/summer.html",
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 9962
-        },
-        {}
+        }
     ]
 }

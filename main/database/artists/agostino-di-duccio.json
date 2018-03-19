@@ -48,7 +48,7 @@
             "title": "The Angel Gabriel",
             "date": "1470s",
             "technique": "Terracotta with traces of paint height 146 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/a/agostin/gabriel.html",
             "form": "sculpture",
             "painting_type": "religious",
@@ -195,7 +195,7 @@
             "index": 162
         },
         {
-            "title": "Oratorio di San Bernardino: Fa\u00e7ade",
+            "title": "Oratorio di San Bernardino: Façade",
             "date": "1457-61",
             "technique": "-",
             "location": "Piazza San Francesco Perugia",
@@ -203,7 +203,6 @@
             "form": "architecture",
             "painting_type": "religious",
             "index": 163
-        },
-        {}
+        }
     ]
 }

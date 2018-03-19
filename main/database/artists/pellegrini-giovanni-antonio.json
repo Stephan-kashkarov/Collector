@@ -28,7 +28,7 @@
             "title": "Painting and Drawing Instructing Love",
             "date": "1733",
             "technique": "Oil on canvas 99 x 85 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/p/pellegri/1/3drawing.html",
             "form": "painting",
             "painting_type": "mythological",
@@ -38,7 +38,7 @@
             "title": "Brazen Serpent",
             "date": "1707",
             "technique": "Oil on canvas",
-            "location": "San Mois\u00e8 Venice",
+            "location": "San Moisè Venice",
             "url": "https://www.wga.hu/html/p/pellegri/1/brazen.html",
             "form": "painting",
             "painting_type": "religious",
@@ -88,7 +88,7 @@
             "title": "Christ Healing the Paralytic",
             "date": "1730-31",
             "technique": "Oil on canvas 95 x 50 cm",
-            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "location": "Szépmûvészeti Múzeum Budapest",
             "url": "https://www.wga.hu/html/p/pellegri/1/paralyti.html",
             "form": "painting",
             "painting_type": "religious",
@@ -155,7 +155,7 @@
             "index": 30605
         },
         {
-            "title": "Dana\u00eb and the Shower of Gold",
+            "title": "Danaë and the Shower of Gold",
             "date": "c. 1704",
             "technique": "Fresco",
             "location": "Villa Alessandri Mira",
@@ -263,7 +263,6 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 30616
-        },
-        {}
+        }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "RIESENER Henri-Fran\u00e7ois",
+    "name": "RIESENER Henri-François",
     "life": "(b. 1767 Paris d. 1828 Paris)",
     "school": "French",
     "timeframe": "1751-1800",
@@ -28,7 +28,7 @@
             "title": "Portrait of Maurice Quay",
             "date": "1797-99",
             "technique": "Oil on canvas 46 x 56 cm",
-            "location": "Mus\u00e9e du Louvre Paris",
+            "location": "Musée du Louvre Paris",
             "url": "https://www.wga.hu/html/r/riesener/henri/portquay.html",
             "form": "painting",
             "painting_type": "portrait",
@@ -43,7 +43,6 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 34391
-        },
-        {}
+        }
     ]
 }

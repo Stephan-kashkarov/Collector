@@ -7,7 +7,7 @@
         {
             "title": "The Ninth Wave",
             "date": "1850",
-            "technique": "Oil on canvas 221 \u00d7 332 cm",
+            "technique": "Oil on canvas 221 × 332 cm",
             "location": "State Russian Museum St. Petersburg",
             "url": "https://www.wga.hu/html/a/aivazovs/9th_wave.html",
             "form": "painting",
@@ -43,7 +43,6 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 175
-        },
-        {}
+        }
     ]
 }

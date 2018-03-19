@@ -1,6 +1,6 @@
 {
     "name": "CORNELIUS Peter",
-    "life": "(b. 1783 D\u00fcsseldorf d. 1867 Berlin)",
+    "life": "(b. 1783 Düsseldorf d. 1867 Berlin)",
     "school": "German",
     "timeframe": "1801-1850",
     "art": [
@@ -48,7 +48,7 @@
             "title": "The Vision of the Rabenstein",
             "date": "1811",
             "technique": "Pen drawing with gray ink on thin vellum 393 x 516 mm",
-            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "location": "Städelsches Kunstinstitut Frankfurt",
             "url": "https://www.wga.hu/html/c/corneliu/yvision.html",
             "form": "graphics",
             "painting_type": "other",
@@ -63,7 +63,6 @@
             "form": "graphics",
             "painting_type": "religious",
             "index": 9541
-        },
-        {}
+        }
     ]
 }

@@ -38,7 +38,7 @@
             "title": "La Juivre d'Alger (The Jewish Woman of Algiers)",
             "date": "1872",
             "technique": "Bronze enameled bronze marble",
-            "location": "Mus\u00e9e des Beaux-Arts Troyes",
+            "location": "Musée des Beaux-Arts Troyes",
             "url": "https://www.wga.hu/html/c/cordierc/capress.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -78,7 +78,7 @@
             "title": "La Capresse des Colonies (The Goat Tender of the Colonies)",
             "date": "1861",
             "technique": "Silvered bronze gilt bronze and onyx-marble height 97 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cordierc/juivre2.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -98,7 +98,7 @@
             "title": "Negro of the Sudan",
             "date": "1857",
             "technique": "Bronze and onyx porphyry plynth height 98 cm",
-            "location": "Mus\u00e9e d'Orsay Paris",
+            "location": "Musée d'Orsay Paris",
             "url": "https://www.wga.hu/html/c/cordierc/negro.html",
             "form": "sculpture",
             "painting_type": "portrait",
@@ -123,7 +123,6 @@
             "form": "sculpture",
             "painting_type": "portrait",
             "index": 9462
-        },
-        {}
+        }
     ]
 }

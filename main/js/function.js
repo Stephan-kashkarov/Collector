@@ -6,7 +6,8 @@ class artist_lite {
 	constructor(list) {
 		this.name = list[0];
 		this.url = list[1];
-		this.loaded = false
+		this.loaded = false;
+		this.full_profile = "";
 	}
 
 	load_artist() {
@@ -18,7 +19,8 @@ class artist_lite {
 			}
 		})
 		profile = artist_profile.responseText;
-		this.name = new artist_full(profile)
+		this.full_profile = new artist_full(profile)
+		this.full_profile.print()
 	}
 
 }
@@ -38,7 +40,11 @@ class artist_full {
 
 	print(){
 		clear()
-		$(".main").html({[this]})
+		$(".main").html({[this].map(artist_template).join("")})
+		for (var i = 0; i < this.object["art"].length; i++) {
+			thing = this.object["art"][i]
+			$(".art-container").html([thing].map(art_list_template).join(""));
+		}
 	}
 
 	print_art(name) {

@@ -2,7 +2,7 @@ $(document).ready(function (e) {
 	artist_list = $.ajax({
 		method: "GET",
 		url: "/database/artists.json",
-		error: function(xhr){
+		error: function (xhr) {
 			console.log("AJAX error:", xhr.status);
 		}
 	});
@@ -10,7 +10,7 @@ $(document).ready(function (e) {
 	console.log("Parsing artist list");
 	JSON.parse(artist_list);
 	console.log("Artist list parsed");
-	for (var i = 0; i < artist_list.length; i++) {
+	for(var i = 0; i < artist_list.length; i++) {
 		console.log("adding artist,", i);
 		index = parseInt(i);
 		index = new artist_lite(artist_list[i]);

@@ -7,11 +7,11 @@ class artist_lite {
 		this.url = list[1];
 	}
 
-	load_artist(){
+	load_artist() {
 		artist_profile = $.ajax.({
 			method: "GET",
 			url: this.url,
-			error: function(xhr) {
+			error: function (xhr) {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
 			}
 		})
@@ -28,14 +28,14 @@ class artist_full {
 		this.school = object["school"];
 		this.timeframe = object["timeframe"];
 		this.arts = [];
-		for (var i = 0; i < object["art"].length; i++) {
+		for(var i = 0; i < object["art"].length; i++) {
 			this.arts.push(object["art"][i]["title"]);
 		}
 	}
 
 
 	print_art(name) {
-		for (var i = 0; i < object["art"].length; i++) {
+		for(var i = 0; i < object["art"].length; i++) {
 			piece = object["art"][i]["title"];
 			if piece == name {
 				obj = new art(piece)
@@ -56,20 +56,20 @@ class art {
 		this.index = object["index"];
 	}
 
-	print(){
+	print() {
 
 	}
 }
 
 function make_data_list(artist_dict) {
-	for (var i = 0; i < artist_dict.length; i++) {
+	for(var i = 0; i < artist_dict.length; i++) {
 		$("#artist_list").html([artist_dict[i]].map(autocomplete_template).join(""));
 	}
 }
 
 function sort(artist_dict, artist_list, search) {
-	for (var i = 0; i < artist_list.length; i++) {
-		if (artist_list[i].includes(search)) {
+	for(var i = 0; i < artist_list.length; i++) {
+		if(artist_list[i].includes(search)) {
 			print_artist(artist_dict[i], i);
 		}
 	}
@@ -79,11 +79,15 @@ function print_artist(object, index) {
 	object = $.ajax({
 		method: "GET",
 		url: artist_list[index][1]
-		error: function(xhr){
+		error: function (xhr) {
 			console.log("Getting " + artist_list[index][0] + "'s profile. Error: " + xhrstatus);
 		}
 	});
 	object = object.responseText;
 
 	$(".main").html()
+}
+
+function clear() {
+	$("main").remove(article);
 }

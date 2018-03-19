@@ -20,7 +20,7 @@ const art_list_template = ({
 	date,
 	index
 }) => `
-<li class="${title}">
+<li class="${title} article">
 	<span>
 		${title}
 	</span>
@@ -39,7 +39,7 @@ const art_profile = ({
 	painting_type,
 	index
 }) => `
-<li>
+<li class="article">
 	<span>
 		${title}
 	</span>

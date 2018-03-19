@@ -11,7 +11,7 @@ $(document).ready(function (e) {
 	JSON.parse(artist_list);
 	console.log("Artist list parsed");
 	for(var i = 0; i < artist_list.length; i++) {
-		console.log("adding artist,", i);
+		console.log("generating artist,", i);
 		index = parseInt(i);
 		index = new artist_lite(artist_list[i]);
 		artist_lite_dict.push(index);

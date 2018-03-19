@@ -160,7 +160,7 @@ for line in lines:
 
 print("Creating artists-master.json")
 with open("../data/artists-master.json", "w") as outfile:  # SETS JSON FILE AS WRITE
-	json.dump(parsed_data, outfile, indent=4)  # DUMPS DATA TO JSON FILE
+	json.dump(parsed_data, outfile, ensure_ascii=False, indent=4)  # DUMPS DATA TO JSON FILE
 
 name_dict = {}
 name_index = 0
@@ -172,7 +172,7 @@ for name in parsed_data:
 	url = "../main/database/artists/" + filename
 	name_dict[name_index] = [name["name"], url[8:]]
 	with open(url, "w") as file:
-		json.dump(name, file, indent = 4)
+		json.dump(name, file, ensure_ascii=False, indent = 4)
 
 with open("../main/database/artists.json", "w") as outfile:  # SETS JSON FILE AS WRITE
-	json.dump(name_dict, outfile, indent=4)  # DUMPS DATA TO JSON FILE
+	json.dump(name_dict, outfile, ensure_ascii=False, indent=4)  # DUMPS DATA TO JSON FILE

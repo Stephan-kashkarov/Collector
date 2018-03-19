@@ -22,7 +22,7 @@ $(document).ready(function (e) {
 	$(".artist_lite").click(function(e){
 		console.log(e);
 		$(".artist_lite").val();
-		name.print()
+		name.print();
 	});
 
 });

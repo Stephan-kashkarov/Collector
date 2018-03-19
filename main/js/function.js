@@ -11,13 +11,14 @@ class artist_lite {
 	}
 
 	load_artist() {
-		artist_profile = $.ajax.({
+		artist_profile = $.ajax({
 			method: "GET",
 			url: this.url,
 			error: function (xhr) {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
 			}
 		});
+
 		profile = artist_profile.responseText;
 		this.full_profile = new artist_full(profile)
 		this.full_profile.print()
@@ -39,7 +40,8 @@ class artist_full {
 
 	print() {
 		clear()
-		$(".main").html({[this].map(artist_template).join("")})
+		console.log("sdjfhksjdfhkj\sdfh")
+		$(".main").html([this].map(artist_template).join(""))
 		for (var i = 0; i < this.object["art"].length; i++) {
 			thing = this.object["art"][i]
 			$(".art-container").html([thing].map(art_list_template).join(""));
@@ -49,7 +51,7 @@ class artist_full {
 	print_art(name) {
 		for(var i = 0; i < object["art"].length; i++) {
 			piece = object["art"][i]["title"];
-			if piece == name {
+			if (piece == name) {
 				obj = new art(piece, this.name)
 				obj.print()
 				break

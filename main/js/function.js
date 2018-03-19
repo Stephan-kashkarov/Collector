@@ -3,6 +3,7 @@ artist_lite_dict = [];
 artist_full_dict = [];
 
 class artist_lite {
+
 	constructor(list) {
 		this.name = list[0];
 		this.url = list[1];
@@ -26,6 +27,7 @@ class artist_lite {
 }
 
 class artist_full {
+
 	constructor(object) {
 		this.object = object
 		this.name = object["name"];
@@ -33,16 +35,18 @@ class artist_full {
 		this.school = object["school"];
 		this.timeframe = object["timeframe"];
 		this.arts = [];
+
 		for(var i = 0; i < object["art"].length; i++) {
 			this.arts.push(object["art"][i]["title"]);
 		}
+
 	}
 
 	print() {
 		clear()
 		console.log("sdjfhksjdfhkj\sdfh")
 		$(".main").html([this].map(artist_template).join(""))
-		for (var i = 0; i < this.object["art"].length; i++) {
+		for(var i = 0; i < this.object["art"].length; i++) {
 			thing = this.object["art"][i]
 			$(".art-container").html([thing].map(art_list_template).join(""));
 		}
@@ -51,7 +55,7 @@ class artist_full {
 	print_art(name) {
 		for(var i = 0; i < object["art"].length; i++) {
 			piece = object["art"][i]["title"];
-			if (piece == name) {
+			if(piece == name) {
 				obj = new art(piece, this.name)
 				obj.print()
 				break
@@ -61,6 +65,7 @@ class artist_full {
 }
 
 class art {
+	
 	constructor(object, author) {
 		this.author = author
 		this.obj = object

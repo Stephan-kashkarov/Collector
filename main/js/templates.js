@@ -15,6 +15,16 @@ const artist_template = ({
 </li>
 `;
 
+const artist_lite_template = ({
+	name
+}) => `
+<li class="${name} article">
+	<a href="" class="artist_lite">
+		${name}
+	</a>
+</li>
+`;
+
 const art_list_template = ({
 	title,
 	date,

@@ -14,8 +14,13 @@ $(document).ready(function (e) {
 		console.log("adding artist,", i);
 		index = parseInt(i);
 		index = new artist_lite(artist_list[i]);
-		artist_dict.push(index);
+		artist_lite_dict.push(index);
 	}
-	make_data_list(artist_dict);
+	make_data_list(artist_lite_dict);
+	artist_lite_list(artist_lite_dict);
+
+	$(".artist_lite").click(function(e){
+		$(".artist_lite").val();
+	});
 
 });

@@ -1,10 +1,12 @@
 artist_list = [];
-artist_dict = [];
+artist_lite_dict = [];
+artist_full_dict
 
 class artist_lite {
 	constructor(list) {
 		this.name = list[0];
 		this.url = list[1];
+		this.loaded = false
 	}
 
 	load_artist() {
@@ -18,6 +20,7 @@ class artist_lite {
 		profile = artist_profile.responseText;
 		this.name = new artist_full(profile)
 	}
+
 }
 
 class artist_full {
@@ -61,16 +64,23 @@ class art {
 	}
 }
 
-function make_data_list(artist_dict) {
-	for(var i = 0; i < artist_dict.length; i++) {
-		$("#artist_list").html([artist_dict[i]].map(autocomplete_template).join(""));
+function make_data_list(artist_lite_dict) {
+	for(var i = 0; i < artist_lite_dict.length; i++) {
+		$("#artist_list").html([artist_lite_dict[i]].map(autocomplete_template).join(""));
 	}
 }
 
-function sort(artist_dict, artist_list, search) {
+function artist_lite_list(artist_lite_dict) {
+	clear()
+	for(var i = 0; i < artist_lite_dict.length; i++) {
+		$("#artist_list").html([artist_lite_dict[i]].map(artist_lite_template).join(""));
+	}
+}
+
+function sort(artist_lite_dict, artist_list, search) {
 	for(var i = 0; i < artist_list.length; i++) {
 		if(artist_list[i].includes(search)) {
-			print_artist(artist_dict[i], i);
+			print_artist(artist_lite_dict[i], i);
 		}
 	}
 }
@@ -90,4 +100,8 @@ function print_artist(object, index) {
 
 function clear() {
 	$("main").remove(article);
+}
+
+function make_artist_full_dict(dict) {
+	for i in
 }

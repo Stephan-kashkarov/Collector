@@ -65,7 +65,7 @@ class artist_full {
 }
 
 class art {
-	
+
 	constructor(object, author) {
 		this.author = author
 		this.obj = object

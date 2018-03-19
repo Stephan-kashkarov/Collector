@@ -36,6 +36,10 @@ class artist_full {
 		}
 	}
 
+	print(){
+		clear()
+		$(".main").html({[this]})
+	}
 
 	print_art(name) {
 		for(var i = 0; i < object["art"].length; i++) {
@@ -43,9 +47,11 @@ class artist_full {
 			if piece == name {
 				obj = new art(piece)
 				obj.print()
+				break
 			}
 		}
 	}
+
 }
 
 class art {
@@ -102,6 +108,8 @@ function clear() {
 	$("main").remove(article);
 }
 
-function make_artist_full_dict(dict) {
-	for i in
+function make_artist_full_post(artist) {
+	name = artist.name
+	artist.load_artist()
+	name.print_art(name)
 }

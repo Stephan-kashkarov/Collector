@@ -1,6 +1,6 @@
 artist_list = [];
 artist_lite_dict = [];
-artist_full_dict
+artist_full_dict = [];
 
 class artist_lite {
 	constructor(list) {
@@ -17,12 +17,11 @@ class artist_lite {
 			error: function (xhr) {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
 			}
-		})
+		});
 		profile = artist_profile.responseText;
 		this.full_profile = new artist_full(profile)
 		this.full_profile.print()
 	}
-
 }
 
 class artist_full {
@@ -38,7 +37,7 @@ class artist_full {
 		}
 	}
 
-	print(){
+	print() {
 		clear()
 		$(".main").html({[this].map(artist_template).join("")})
 		for (var i = 0; i < this.object["art"].length; i++) {
@@ -51,17 +50,18 @@ class artist_full {
 		for(var i = 0; i < object["art"].length; i++) {
 			piece = object["art"][i]["title"];
 			if piece == name {
-				obj = new art(piece)
+				obj = new art(piece, this.name)
 				obj.print()
 				break
 			}
 		}
 	}
-
 }
 
 class art {
-	constructor(object) {
+	constructor(object, author) {
+		this.author = author
+		this.obj = object
 		this.title = object["title"];
 		this.date = object["date"];
 		this.technique = object["technique"];
@@ -72,7 +72,8 @@ class art {
 	}
 
 	print() {
-
+		clear();
+		$(".main").html([this.obj].map(art_profile).join(""))
 	}
 }
 
@@ -89,33 +90,6 @@ function artist_lite_list(artist_lite_dict) {
 	}
 }
 
-function sort(artist_lite_dict, artist_list, search) {
-	for(var i = 0; i < artist_list.length; i++) {
-		if(artist_list[i].includes(search)) {
-			print_artist(artist_lite_dict[i], i);
-		}
-	}
-}
-
-function print_artist(object, index) {
-	object = $.ajax({
-		method: "GET",
-		url: artist_list[index][1]
-		error: function (xhr) {
-			console.log("Getting " + artist_list[index][0] + "'s profile. Error: " + xhrstatus);
-		}
-	});
-	object = object.responseText;
-
-	$(".main").html()
-}
-
 function clear() {
 	$("main").remove(article);
-}
-
-function make_artist_full_post(artist) {
-	name = artist.name
-	artist.load_artist()
-	name.print_art(name)
 }

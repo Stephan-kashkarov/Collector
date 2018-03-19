@@ -47,7 +47,8 @@ const art_profile = ({
 	location,
 	form,
 	painting_type,
-	index
+	index,
+	author
 }) => `
 <li class="article">
 	<span>
@@ -67,6 +68,9 @@ const art_profile = ({
 		<br>
 		Index: ${index}
 	</p>
+	<a href="" class="back_full">
+		${author}
+	</a>
 </li>
 `
 

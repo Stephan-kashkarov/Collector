@@ -1,6 +1,6 @@
 {
     "name": "ROSLIN Alexander",
-    "life": "(b. 1718 Malmö d. 1793 Paris)",
+    "life": "(b. 1718 Malm\u00f6 d. 1793 Paris)",
     "school": "Swedish",
     "timeframe": "1751-1800",
     "art": [
@@ -27,7 +27,7 @@
         {
             "title": "The Lady with a Fan (The Artist's Wife)",
             "date": "1768",
-            "technique": "Oil on canvas 65 × 54 cm",
+            "technique": "Oil on canvas 65 \u00d7 54 cm",
             "location": "Nationalmuseum Stockholm",
             "url": "https://www.wga.hu/html/r/roslin/alexande/ladyveil.html",
             "form": "painting",
@@ -35,10 +35,10 @@
             "index": 35141
         },
         {
-            "title": "Jean-François Marmontel",
+            "title": "Jean-Fran\u00e7ois Marmontel",
             "date": "1767",
             "technique": "Oil on canvas 64 x 54 cm",
-            "location": "Musée du Louvre Paris",
+            "location": "Mus\u00e9e du Louvre Paris",
             "url": "https://www.wga.hu/html/r/roslin/alexande/marmonte.html",
             "form": "painting",
             "painting_type": "portrait",

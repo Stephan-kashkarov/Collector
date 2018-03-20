@@ -26,9 +26,12 @@ $(document).ready(function (e) {
 	artist_lite_list(artist_lite_dict);
 
 	$(".artist_lite").click(function (e) {
+		event.preventDefault();
 		console.log(e);
+		console.log(e.target);
+		console.log(e.target.val());
 		$(".artist_lite").val();
-		name.print();
+		// name.print();
 	});
 
 });

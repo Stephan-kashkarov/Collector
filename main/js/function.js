@@ -93,9 +93,12 @@ function make_data_list(artist_lite_dict) {
 }
 
 function artist_lite_list(artist_lite_dict) {
+	console.log("making list of shortened profiles");
 	clear()
+	console.log(artist_lite_dict.length);
 	for(var i = 0; i < artist_lite_dict.length; i++) {
-		$("#artist_list").html([artist_lite_dict[i]].map(artist_lite_template).join(""));
+		console.log("printing", artist_lite_dict[i]);
+		$(".main").append([artist_lite_dict[i]].map(artist_lite_template).join(""));
 	}
 }
 

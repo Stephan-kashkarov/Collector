@@ -27,11 +27,9 @@ $(document).ready(function (e) {
 
 	$(".artist_lite").click(function (e) {
 		event.preventDefault();
-		console.log(e);
-		console.log(e.target);
-		console.log(e.target.lenght);
-		console.log(e.target.text());
-		// name.print();
+		var name = $(this).text();
+		console.log(name);
+		name.load_artist();
 	});
 
 });

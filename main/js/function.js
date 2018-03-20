@@ -87,7 +87,7 @@ class art {
 function make_data_list(artist_lite_dict) {
 	console.log("making auto compelte list");
 	for(var i = 0; i < artist_lite_dict.length; i++) {
-		console.log("adding:" artist_lite_dict[i]);
+		console.log("adding:", artist_lite_dict[i]);
 		$("#artist_list").html([artist_lite_dict[i]].map(autocomplete_template).join(""));
 	}
 }

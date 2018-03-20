@@ -29,8 +29,8 @@ $(document).ready(function (e) {
 		event.preventDefault();
 		console.log(e);
 		console.log(e.target);
+		console.log(e.target.lenght);
 		console.log(e.target.text());
-		$(".artist_lite").val();
 		// name.print();
 	});
 

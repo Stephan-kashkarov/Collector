@@ -27,9 +27,11 @@ $(document).ready(function (e) {
 
 	$(".artist_lite").click(function (e) {
 		event.preventDefault();
-		var name = $(this).text();
 		console.log(name);
+		var name = $.trim($(this).text());
+		console.log(name);
+		console.log(artist_lite_dict);
+
 		name.load_artist();
 	});
-
 });

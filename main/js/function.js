@@ -105,3 +105,12 @@ function artist_lite_list(artist_lite_dict) {
 function clear() {
 	$("main").remove(".article");
 }
+
+function look_for_index(name, dict){
+	for (var i = 0; i < dict.length; i++) {
+		i = parseInt(i)
+		if(dict[i]['name'] == name){
+			return i
+		}
+	}
+}

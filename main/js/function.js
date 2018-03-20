@@ -12,7 +12,7 @@ class artist_lite {
 	}
 
 	load_artist() {
-		artist_profile = $.ajax.({
+		artist_profile = $.ajax({
 			method: "GET",
 			url: this.url,
 			error: function (xhr) {
@@ -21,8 +21,8 @@ class artist_lite {
 		});
 
 		profile = artist_profile.responseText;
-		this.full_profile = new artist_full(profile)
-		this.full_profile.print()
+		this.full_profile = new artist_full(profile);
+		this.full_profile.print();
 	}
 }
 

@@ -78,7 +78,7 @@ const art_profile = ({
 const autocomplete_template = ({
 	name
 }) => `
-<option>
+<li>
 	${name}
-<option>
+</li>
 `

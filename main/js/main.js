@@ -38,5 +38,6 @@ $(document).ready(function (e) {
 	});
 
 	// Misc
-	new Awesomplete($("#artist_input"),{list: #artist_list})
+	var input = document.getElementById("artist_input");
+	new Awesomplete(input, {list: document.querySelector("#artist_list")});
 });

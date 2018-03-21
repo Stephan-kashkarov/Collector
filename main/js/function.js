@@ -4,6 +4,7 @@ artist_full_dict = [];
 var global;
 var artist_profile;
 var profile;
+var thing;
 
 class artist_lite {
 
@@ -17,6 +18,7 @@ class artist_lite {
 	load_artist() {
 		artist_profile = $.ajax({
 			method: "GET",
+			async: false,
 			url: this.url,
 			error: function (xhr) {
 				console.log("Getting " + this.name + "'s profile. Error code:", xhr.status);
@@ -24,6 +26,7 @@ class artist_lite {
 		});
 
 		profile = artist_profile.responseText;
+		profile = JSON.parse(profile);
 		this.full_profile = new artist_full(profile);
 		this.full_profile.print();
 	}
@@ -56,6 +59,7 @@ class artist_full {
 	}
 
 	print_art(name) {
+		clear()
 		for(var i = 0; i < object["art"].length; i++) {
 			piece = object["art"][i]["title"];
 			if(piece == name) {

@@ -31,8 +31,8 @@ const art_list_template = ({
 	index
 }) => `
 <li class="${title} article">
-	<a href="" class="art"
-		<span>
+	<a href="" class="art">
+		<span class="title">
 			${title}
 		</span>
 		<p>

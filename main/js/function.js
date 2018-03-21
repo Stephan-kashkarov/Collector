@@ -103,12 +103,12 @@ function clear() {
 	$("main").remove(".article");
 }
 
-function look_for_index(name, dict){
+function look_for_index(name, dict, val){
 	console.log(dict.length);
 	for (var i = 0; i < dict.length; i++) {
-		console.log("Is", name, "the same as", artist_lite_dict[i]["name"] + "?");
+		console.log("Is", name, "the same as", artist_lite_dict[i][val] + "?");
 		i = parseInt(i)
-		if(dict[i]['name'] == name){
+		if(dict[i][val] == name){
 			global = dict[i];
 			return dict[i];
 		}

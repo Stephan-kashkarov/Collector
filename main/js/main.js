@@ -27,11 +27,15 @@ $(document).ready(function (e) {
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
-		name = look_for_index($("#artist_input").val(), artist_lite_dict);
+		name = look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		global.load_artist();
 	});
 
-	$("")
+	$(".art").click(function(e){
+		event.preventDefault;
+		name = this.children(span).val();
+		look_for_index(name, artist_full_dict)
+	});
 
 	// Misc
 

@@ -36,4 +36,7 @@ $(document).ready(function (e) {
 		console.log(name);
 		name.load_artist();
 	});
+
+	// Misc
+	new Awesomplete($("#artist_input"),{list: #artist_list})
 });

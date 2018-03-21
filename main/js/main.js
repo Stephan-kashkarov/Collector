@@ -34,6 +34,7 @@ $(document).ready(function (e) {
 
 
 	// Misc
+	
 	// This code was found @ https://leaverou.github.io/awesomplete/
 	var input = document.getElementById("artist_input");
 	new Awesomplete(input, {list: document.querySelector("#artist_list")});

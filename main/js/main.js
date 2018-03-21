@@ -1,37 +1,33 @@
 $(document).ready(function (e) {
 
-	artist_list = $.ajax({
-		dataType: "json",
-		async: false,
-		method: "GET",
-		url: "/database/artists.json",
-		error: function (xhr) {
-			console.log("AJAX error:", xhr.status);
+	if (window.localStorage == ""){
+		artist_list = $.ajax({
+			dataType: "json",
+			async: false,
+			method: "GET",
+			url: "/database/artists.json",
+			error: function (xhr) {
+				console.log("AJAX error:", xhr.status);
+			}
+		});
+
+
+		artist_list = artist_list.responseText;
+		artist_list = JSON.parse(artist_list);
+		console.log("artist_list", artist_list.lenght);
+		for(var i = 0 in artist_list) {
+			console.log("generating artist,", i);
+			console.log("which is:", artist_list[i]);
+			index = parseInt(i);
+			index = new artist_lite(artist_list[index]);
+			artist_lite_dict.push(index);
 		}
-	});
-
-
-	artist_list = artist_list.responseText;
-	artist_list = JSON.parse(artist_list);
-	console.log("artist_list", artist_list.lenght);
-	for(var i = 0 in artist_list) {
-		console.log("generating artist,", i);
-		console.log("which is:", artist_list[i]);
-		index = parseInt(i);
-		index = new artist_lite(artist_list[index]);
-		artist_lite_dict.push(index);
 	}
-
 	make_data_list(artist_lite_dict);
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
-		console.log($("#artist_input").val());
 		name = look_for_index($("#artist_input").val(), artist_lite_dict);
-		console.log(name);
-		console.log(typeof name);
-		console.log(global);
-		console.log(typeof global);
 		global.load_artist();
 	});
 

@@ -51,7 +51,6 @@ class artist_full {
 
 	print() {
 		clear()
-		console.log("sdjfhksjdfhkj\sdfh")
 		$(".main").append([this].map(artist_template).join(""))
 		for(var i = 0; i < this.object["art"].length; i++) {
 			thing = this.object["art"][i]
@@ -110,8 +109,6 @@ function look_for_index(name, dict){
 		console.log("Is", name, "the same as", artist_lite_dict[i]["name"] + "?");
 		i = parseInt(i)
 		if(dict[i]['name'] == name){
-			console.log(dict[i]["url"]);
-			console.log(typeof dict[i]);
 			global = dict[i];
 			return dict[i];
 		}

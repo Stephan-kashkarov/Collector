@@ -26,9 +26,10 @@ $(document).ready(function (e) {
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
-		console.log($("#sorter").val());
-		name = look_for_index($("#sorter").val(), artist_lite_dict);
-		name = name.toString();
+		console.log($("#artist_input").val());
+		name = look_for_index($("#artist_input").val(), artist_lite_dict);
+		console.log(name);
+		console.log(typeof name);
 		name.load_artist();
 	});
 

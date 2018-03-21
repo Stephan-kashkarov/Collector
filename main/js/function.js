@@ -103,7 +103,8 @@ function look_for_index(name, dict){
 		i = parseInt(i)
 		if(dict[i]['name'] == name){
 			console.log(dict[i]["url"]);
-			return i
+			console.log(typeof dict[i]);
+			return dict[i]
 		}
 	}
 }

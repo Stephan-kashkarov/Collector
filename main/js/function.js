@@ -45,10 +45,10 @@ class artist_full {
 	print() {
 		clear()
 		console.log("sdjfhksjdfhkj\sdfh")
-		$(".main").html([this].map(artist_template).join(""))
+		$(".main").append([this].map(artist_template).join(""))
 		for(var i = 0; i < this.object["art"].length; i++) {
 			thing = this.object["art"][i]
-			$(".art-container").html([thing].map(art_list_template).join(""));
+			$(".art-container").append([thing].map(art_list_template).join(""));
 		}
 	}
 
@@ -80,7 +80,7 @@ class art {
 
 	print() {
 		clear();
-		$(".main").html([this.obj].map(art_profile).join(""))
+		$(".main").append([this.obj].map(art_profile).join(""))
 	}
 }
 
@@ -88,7 +88,7 @@ function make_data_list(artist_lite_dict) {
 	console.log("making auto compelte list");
 	for(var i = 0; i < artist_lite_dict.length; i++) {
 		console.log("adding:", artist_lite_dict[i]);
-		$("#artist_list").html([artist_lite_dict[i]].map(autocomplete_template).join(""));
+		$("#artist_list").append([artist_lite_dict[i]].map(autocomplete_template).join(""));
 	}
 }
 

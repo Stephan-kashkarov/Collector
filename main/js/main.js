@@ -30,8 +30,10 @@ $(document).ready(function (e) {
 		console.log(name);
 		var name = $.trim($(this).text());
 		console.log(name);
-		console.log(artist_lite_dict);
 		name = look_for_index(name, artist_lite_dict);
+		console.log(name);
+		name = name.toString();
+		console.log(name);
 		name.load_artist();
 	});
 });

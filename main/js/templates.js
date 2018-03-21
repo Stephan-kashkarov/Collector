@@ -73,12 +73,3 @@ const art_profile = ({
 	</a>
 </li>
 `
-
-// MISC
-const autocomplete_template = ({
-	name
-}) => `
-<li>
-	${name}
-</li>
-`

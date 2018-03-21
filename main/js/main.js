@@ -23,21 +23,18 @@ $(document).ready(function (e) {
 	}
 
 	make_data_list(artist_lite_dict);
-	artist_lite_list(artist_lite_dict);
 
-	$(".artist_lite").click(function (e) {
+	$("#sorter").click(function (e) {
 		event.preventDefault();
-		console.log(name);
-		var name = $.trim($(this).text());
-		console.log(name);
-		name = look_for_index(name, artist_lite_dict);
-		console.log(name);
+		name = look_for_index($("#sorter").val(), artist_lite_dict);
 		name = name.toString();
-		console.log(name);
 		name.load_artist();
 	});
 
+
+
 	// Misc
+	// This code was found @ https://leaverou.github.io/awesomplete/
 	var input = document.getElementById("artist_input");
 	new Awesomplete(input, {list: document.querySelector("#artist_list")});
 });

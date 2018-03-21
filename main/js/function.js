@@ -88,16 +88,7 @@ function make_data_list(artist_lite_dict) {
 	console.log("making auto compelte list");
 	for(var i = 0; i < artist_lite_dict.length; i++) {
 		console.log("adding:", artist_lite_dict[i]);
-		$("#artist_list").append([artist_lite_dict[i]].map(autocomplete_template).join(""));
-	}
-}
-
-function artist_lite_list(artist_lite_dict) {
-	console.log("making list of shortened profiles");
-	clear()
-	for(var i = 0; i < artist_lite_dict.length; i++) {
-		console.log("printing", artist_lite_dict[i]);
-		$(".main").append([artist_lite_dict[i]].map(artist_lite_template).join(""));
+		$("#artist_list").append([artist_lite_dict[i]].map(artist_lite_template).join(""));
 	}
 }
 

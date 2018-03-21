@@ -1,6 +1,9 @@
 artist_list = [];
 artist_lite_dict = [];
 artist_full_dict = [];
+var global;
+var artist_profile;
+var profile;
 
 class artist_lite {
 
@@ -104,7 +107,8 @@ function look_for_index(name, dict){
 		if(dict[i]['name'] == name){
 			console.log(dict[i]["url"]);
 			console.log(typeof dict[i]);
-			return dict[i]
+			global = dict[i];
+			return dict[i];
 		}
 	}
 }

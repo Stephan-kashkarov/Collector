@@ -30,7 +30,9 @@ $(document).ready(function (e) {
 		name = look_for_index($("#artist_input").val(), artist_lite_dict);
 		console.log(name);
 		console.log(typeof name);
-		name.load_artist();
+		console.log(global);
+		console.log(typeof global);
+		global.load_artist();
 	});
 
 

@@ -97,9 +97,12 @@ function clear() {
 }
 
 function look_for_index(name, dict){
+	console.log(dict.length);
 	for (var i = 0; i < dict.length; i++) {
+		console.log("Is", name, "the same as", artist_lite_dict[i]["name"] + "?");
 		i = parseInt(i)
 		if(dict[i]['name'] == name){
+			console.log(dict[i]["url"]);
 			return i
 		}
 	}

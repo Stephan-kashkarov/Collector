@@ -26,6 +26,7 @@ $(document).ready(function (e) {
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
+		console.log($("#sorter").val());
 		name = look_for_index($("#sorter").val(), artist_lite_dict);
 		name = name.toString();
 		name.load_artist();
@@ -34,7 +35,7 @@ $(document).ready(function (e) {
 
 
 	// Misc
-	
+
 	// This code was found @ https://leaverou.github.io/awesomplete/
 	var input = document.getElementById("artist_input");
 	new Awesomplete(input, {list: document.querySelector("#artist_list")});

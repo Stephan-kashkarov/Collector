@@ -1,6 +1,7 @@
 artist_list = [];
 artist_lite_dict = [];
 artist_full_dict = [];
+art_dict = [];
 var global;
 var artist_profile;
 var profile;
@@ -64,6 +65,7 @@ class artist_full {
 			piece = object["art"][i]["title"];
 			if(piece == name) {
 				obj = new art(piece, this.name)
+				art_dict.push(obj)
 				obj.print()
 				break
 			}

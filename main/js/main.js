@@ -1,28 +1,27 @@
 $(document).ready(function (e) {
 
-	if (window.localStorage == ""){
-		artist_list = $.ajax({
-			dataType: "json",
-			async: false,
-			method: "GET",
-			url: "/database/artists.json",
-			error: function (xhr) {
-				console.log("AJAX error:", xhr.status);
-			}
-		});
-
-
-		artist_list = artist_list.responseText;
-		artist_list = JSON.parse(artist_list);
-		console.log("artist_list", artist_list.lenght);
-		for(var i = 0 in artist_list) {
-			console.log("generating artist,", i);
-			console.log("which is:", artist_list[i]);
-			index = parseInt(i);
-			index = new artist_lite(artist_list[index]);
-			artist_lite_dict.push(index);
+	artist_list = $.ajax({
+		dataType: "json",
+		async: false,
+		method: "GET",
+		url: "/database/artists.json",
+		error: function (xhr) {
+			console.log("AJAX error:", xhr.status);
 		}
+	});
+
+
+	artist_list = artist_list.responseText;
+	artist_list = JSON.parse(artist_list);
+	console.log("artist_list", artist_list.lenght);
+	for(var i = 0 in artist_list) {
+		console.log("generating artist,", i);
+		console.log("which is:", artist_list[i]);
+		index = parseInt(i);
+		index = new artist_lite(artist_list[index]);
+		artist_lite_dict.push(index);
 	}
+
 	make_data_list(artist_lite_dict);
 
 	$("#sorter").click(function (e) {
@@ -32,9 +31,11 @@ $(document).ready(function (e) {
 	});
 
 	$(".art").click(function(e){
-		event.preventDefault;
-		name = this.children(span).val();
-		look_for_index(name, artist_full_dict)
+		event.preventDefault();
+		name = this.parent().sibling(".title").val()
+		title = this.children(span).val();
+		look_for_index(name, artist_full_dict, "name")
+		global.print_art(title);
 	});
 
 	// Misc

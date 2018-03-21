@@ -31,12 +31,14 @@ const art_list_template = ({
 	index
 }) => `
 <li class="${title} article">
-	<span>
-		${title}
-	</span>
-	<p>
-		Date: ${date}, Index: ${index}
-	</p>
+	<a href="" class="art"
+		<span>
+			${title}
+		</span>
+		<p>
+			Date: ${date}, Index: ${index}
+		</p>
+	</a>
 </li>
 `
 // Template for Art Profile

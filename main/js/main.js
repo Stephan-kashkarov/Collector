@@ -35,7 +35,7 @@ $(document).ready(function (e) {
 		global.load_artist();
 	});
 
-
+	$("")
 
 	// Misc
 

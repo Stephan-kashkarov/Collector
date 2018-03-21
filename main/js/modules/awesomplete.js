@@ -5,11 +5,13 @@
  * MIT license
  */
 
+// To reiterate the code in this file is not in any way mine.
+
 (function () {
 
 var _ = function (input, o) {
 	var me = this;
-    
+
     // Keep track of number of instances for unique IDs
     Awesomplete.count = (Awesomplete.count || 0) + 1;
     this.count = Awesomplete.count;
@@ -179,7 +181,7 @@ _.prototype = {
 		this.ul.setAttribute("hidden", "");
 		this.isOpened = false;
 		this.index = -1;
-    
+
 		this.status.setAttribute("hidden", "");
 
 		$.fire(this.input, "awesomplete-close", o || {});
@@ -188,7 +190,7 @@ _.prototype = {
 	open: function () {
 		this.ul.removeAttribute("hidden");
 		this.isOpened = true;
-        
+
 		this.status.removeAttribute("hidden");
 
 		if (this.autoFirst && this.index === -1) {
@@ -245,9 +247,9 @@ _.prototype = {
 
 		if (i > -1 && lis.length > 0) {
 			lis[i].setAttribute("aria-selected", "true");
-            
+
 			this.status.textContent = lis[i].textContent + ", list item " + (i + 1) + " of " + lis.length;
-            
+
             this.input.setAttribute("aria-activedescendant", this.ul.id + "_item_" + this.index);
 
 			// scroll to highlighted element in case parent's height is fixed
@@ -312,20 +314,20 @@ _.prototype = {
 				});
 
 			if (this.ul.children.length === 0) {
-                
+
                 this.status.textContent = "No results found";
-                
+
 				this.close({ reason: "nomatches" });
-        
+
 			} else {
 				this.open();
-        
+
                 this.status.textContent = this.ul.children.length + " results found";
 			}
 		}
 		else {
 			this.close({ reason: "nomatches" });
-            
+
                 this.status.textContent = "No results found";
 		}
 	}

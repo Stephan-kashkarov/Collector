@@ -28,6 +28,7 @@ class artist_lite {
 		profile = artist_profile.responseText;
 		profile = JSON.parse(profile);
 		this.full_profile = new artist_full(profile);
+		artist_full_dict.push(this.full_profile)
 		this.full_profile.print();
 	}
 }

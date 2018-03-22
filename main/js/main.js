@@ -1,4 +1,4 @@
-$(document).ready(function (e) {
+$(document).ready(function () {
 
 	artist_list = $.ajax({
 		dataType: "json",
@@ -30,8 +30,11 @@ $(document).ready(function (e) {
 		global.load_artist();
 	});
 
-	$(".art").click(function(e){
+	$("li").on("click", ".art", function(e){
+
 		event.preventDefault();
+		e.preventDefault()
+		console.log("CLICK");
 		name = this.parent().sibling(".title").val()
 		title = this.children(span).val();
 		look_for_index(name, artist_full_dict, "name")

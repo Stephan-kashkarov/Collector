@@ -30,9 +30,9 @@ const art_list_template = ({
 	date,
 	index
 }) => `
-<li class="${title} article">
+<li class="${title} article art">
 	<a href="" class="art">
-		<span class="title">
+		<span class="title art">
 			${title}
 		</span>
 		<p>

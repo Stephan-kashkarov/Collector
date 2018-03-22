@@ -29,7 +29,7 @@ $(document).ready(function () {
 		name = look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		global.load_artist();
 	});
-
+	// PLZ WORK PLZ WORK PLZ WORK PZL WORK WHY DONT YOU WORK PLEASE!!!!!! !!?
 	$("li").on("click", ".art", function(e){
 		e.preventDefault()
 		console.log("CLICK jquery");

@@ -32,7 +32,7 @@ $(document).ready(function () {
 
 	$("li").on("click", ".art", function(e){
 		e.preventDefault()
-		console.log("CLICK");
+		console.log("CLICK jquery");
 		name = this.parent().sibling(".title").val()
 		title = this.children(span).val();
 		look_for_index(name, artist_full_dict, "name")
@@ -42,8 +42,9 @@ $(document).ready(function () {
 	// STACK OVERFLOW SOLUTION PURE JS WITH EDITS BY ME !!?
 	document.addEventListener('click', function (e) {
 		if (hasClass(e.target, 'art')) {
-			console.log("CLICK");
-			name = this.parent().sibling(".title").val()
+			console.log("CLICK vanilla");
+			console.log(e.target);
+			name = e.target.parent().sibling(".title").val()
 			title = this.children(span).val();
 			look_for_index(name, artist_full_dict, "name")
 			global.print_art(title);

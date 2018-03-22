@@ -116,3 +116,8 @@ function look_for_index(name, dict, val){
 		}
 	}
 }
+
+// STACKOVERFLOW PURE JS SOLUTION
+function hasClass(elem, className) {
+	return elem.classList.contains(className);
+}

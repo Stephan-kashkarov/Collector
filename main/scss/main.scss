@@ -1,3 +1,15 @@
-nav ul #artist_list {
-	display: none;
+$dark: #3F3940;
+$mid: #7D717F;
+$light: #FAE3FF;
+
+@import reset;
+
+nav{
+	background-color: $mid;
+}
+body{
+	background-color: $light;
+}
+footer{
+	background-color: $dark;
 }

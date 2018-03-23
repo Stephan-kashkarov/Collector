@@ -5,8 +5,8 @@
 		"../scss/main.scss"
 	],
 	"sourcesContent": [
-		"nav ul #artist_list {\r\n\tdisplay: none;\r\n}\r\n"
+		"$dark: #3F3940;\r\n$mid: #7D717F;\r\n$light: #FAE3FF;\r\n\r\nnav{\r\n\tbackground-color: $mid;\r\n}\r\nbody{\r\n\tbackground-color: $light;\r\n}\r\nfooter{\r\n\tbackground-color: $dark;\r\n}\r\n"
 	],
-	"mappings": ";AAAA,AAAO,GAAJ,CAAC,EAAE,CAAC,YAAY,CAAC;EACnB,OAAO,EAAE,IAAK;CACd",
+	"mappings": ";AAIA,AAAA,GAAG,CAAA;EACF,gBAAgB,EAJX,OAAO;CAKZ;;;AACD,AAAA,IAAI,CAAA;EACH,gBAAgB,EANT,OAAO;CAOd;;;AACD,AAAA,MAAM,CAAA;EACL,gBAAgB,EAXV,OAAO;CAYb",
 	"names": []
 }

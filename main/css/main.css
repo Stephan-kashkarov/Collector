@@ -1,6 +1,16 @@
-/* line 1, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-nav ul #artist_list {
-  display: none;
+/* line 5, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+nav {
+  background-color: #7D717F;
+}
+
+/* line 8, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+body {
+  background-color: #FAE3FF;
+}
+
+/* line 11, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+footer {
+  background-color: #3F3940;
 }
 
 /*# sourceMappingURL=../css/main.map */

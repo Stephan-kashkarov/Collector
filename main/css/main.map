@@ -5,8 +5,8 @@
 		"../scss/main.scss"
 	],
 	"sourcesContent": [
-		""
+		"ul #artist_list {\r\n\tdisplay: none;\r\n}\r\n"
 	],
-	"mappings": "",
+	"mappings": ";AAAA,AAAG,EAAD,CAAC,YAAY,CAAC;EACf,OAAO,EAAE,IAAK;CACd",
 	"names": []
 }

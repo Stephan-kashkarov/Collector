@@ -1,5 +1,9 @@
 $(document).ready(function () {
-
+	if (window.localStorage.length != 0){
+		console.log("1");
+	} else {
+		console.log("2");
+	}
 	artist_list = $.ajax({
 		dataType: "json",
 		async: false,

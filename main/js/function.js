@@ -90,8 +90,7 @@ class art {
 	}
 
 	print() {
-		clear();
-		$(".main").append([this.obj].map(art_profile).join(""))
+		$(".main").html([this.obj].map(art_profile).join(""))
 	}
 }
 
@@ -108,11 +107,11 @@ function clear() {
 	$("main").remove(".article");
 }
 
-function look_for_index(name, dict, val){
-	for (var i = 0; i < dict.length; i++) {
+function look_for_index(name, dict, val) {
+	for(var i = 0; i < dict.length; i++) {
 		console.log("Is", name, "the same as", artist_lite_dict[i][val] + "?");
 		// i = parseInt(i)
-		if(dict[i][val] == name){
+		if(dict[i][val] == name) {
 			global = dict[i];
 			return dict[i];
 		}

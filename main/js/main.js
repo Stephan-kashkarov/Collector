@@ -26,23 +26,30 @@ $(document).ready(function () {
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
-		name = look_for_index($("#artist_input").val(), artist_lite_dict, "name");
+		look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		global.load_artist();
 	});
 
 	// Done with vanilla JS beause jquery dosent support this uses
-	$(document).on("click","li.art", function(){
-		console.log(this);
-		console.log(this.parentElement.parentElement);
+	$(document).on("click", "li.art", function (e) {
 		name = this.parentElement.parentElement.firstElementChild.innerHTML.trim();
 		title = this.firstElementChild.firstElementChild.innerHTML.trim();
-		console.log("name", name, "title", title);
-		look_for_index(name, artist_full_dict, "name")
-		console.log(global);
+		console.log("Opening", title + "!");
+		look_for_index(name, artist_full_dict, "name");
 		global.print_art(title);
+	});
+
+	// more vanillaish js for the same reason as above
+	$(document).on("click", "a.back_full", function (e) {
+		event.preventDefault;
+		author = this.innerHTML.trim();
+		look_for_index(author, artist_lite_dict, "name");
+		global.load_artist();
 	});
 
 	// This code was found @ https://leaverou.github.io/awesomplete/
 	var input = document.getElementById("artist_input");
-	new Awesomplete(input, {list: document.querySelector("#artist_list")});
+	new Awesomplete(input, {
+		list: document.querySelector("#artist_list")
+	});
 });

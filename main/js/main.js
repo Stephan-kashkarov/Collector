@@ -29,30 +29,28 @@ $(document).ready(function () {
 		name = look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		global.load_artist();
 	});
+
 	// PLZ WORK PLZ WORK PLZ WORK PZL WORK WHY DONT YOU WORK PLEASE!!!!!! !!?
-	$("li").on("click", ".art", function(e){
-		e.preventDefault()
-		console.log("CLICK jquery");
-		name = this.parent().sibling(".title").val()
-		title = this.children(span).val();
+	$(document).on("click","li.art", function(){
+		name_par = $(this).parent();
+		name = name_par.siblings(".title").text();
+		title = $(this).children("span").text();
 		look_for_index(name, artist_full_dict, "name")
+		console.log(title);
 		global.print_art(title);
 	});
 
 	// STACK OVERFLOW SOLUTION PURE JS WITH EDITS BY ME !!?
-	document.addEventListener('click', function (e) {
-		if (hasClass(e.target, 'art')) {
-			console.log("CLICK vanilla");
-			console.log(e.target);
-			name = e.target./parent().sibling(".title").val()
-			title = this.children(span).val();
-			look_for_index(name, artist_full_dict, "name")
-			global.print_art(title);
-		} else if (hasClass(e.target, 'test')) {
-			// .test clicked
-			// Do your other thing
-		}
-	}, false);
+	// document.addEventListener('click', function (e) {
+	// 	if (hasClass(e.target, 'art')) {
+	// 		console.log("CLICK vanilla");
+	// 		console.log(e.target);
+	// 		name = e.target.parent().sibling(".title").val()
+	// 		title = this.children(span).val();
+	// 		look_for_index(name, artist_full_dict, "name")
+	// 		global.print_art(title);
+	// 	}
+	// }, false);
 	// Misc
 
 	// This code was found @ https://leaverou.github.io/awesomplete/

@@ -5,8 +5,8 @@
 		"../scss/main.scss"
 	],
 	"sourcesContent": [
-		"$dark: #3F3940;\r\n$mid: #7D717F;\r\n$light: #FAE3FF;\r\n\r\nnav{\r\n\tbackground-color: $mid;\r\n}\r\nbody{\r\n\tbackground-color: $light;\r\n}\r\nfooter{\r\n\tbackground-color: $dark;\r\n}\r\n"
+		"$dark: #3E3E40;\r\n$mid: #7D7B7F;\r\n$light: #F9F6FF;\r\n\r\nnav{\r\n\tbackground-color: $mid;\r\n\theight: 20%;\r\n\twidth: 100%;\r\n\tinput{\r\n\t\ttext-align: center;\r\n\t}\r\n\tbutton{\r\n\t\ttext-align: center;\r\n\t}\r\n\r\n}\r\nmain{\r\n\tbackground-color: $light;\r\n\theight: 80%;\r\n\tpadding: 20px;\r\n}\r\nfooter{\r\n\tbackground-color: $dark;\r\n\theight: 20%;\r\n}\r\n"
 	],
-	"mappings": ";AAIA,AAAA,GAAG,CAAA;EACF,gBAAgB,EAJX,OAAO;CAKZ;;;AACD,AAAA,IAAI,CAAA;EACH,gBAAgB,EANT,OAAO;CAOd;;;AACD,AAAA,MAAM,CAAA;EACL,gBAAgB,EAXV,OAAO;CAYb",
+	"mappings": ";AAIA,AAAA,GAAG,CAAA;EACF,gBAAgB,EAJX,OAAO;EAKZ,MAAM,EAAE,GAAI;EACZ,KAAK,EAAE,IAAK;CAQZ;;;AAXD,AAIC,GAJE,CAIF,KAAK,CAAA;EACJ,UAAU,EAAE,MAAO;CACnB;;;AANF,AAOC,GAPE,CAOF,MAAM,CAAA;EACL,UAAU,EAAE,MAAO;CACnB;;;AAGF,AAAA,IAAI,CAAA;EACH,gBAAgB,EAfT,OAAO;EAgBd,MAAM,EAAE,GAAI;EACZ,OAAO,EAAE,IAAK;CACd;;;AACD,AAAA,MAAM,CAAA;EACL,gBAAgB,EAtBV,OAAO;EAuBb,MAAM,EAAE,GAAI;CACZ",
 	"names": []
 }

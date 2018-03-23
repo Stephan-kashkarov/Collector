@@ -1,16 +1,31 @@
 /* line 5, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 nav {
-  background-color: #7D717F;
+  background-color: #7D7B7F;
+  height: 20%;
+  width: 100%;
 }
 
-/* line 8, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-body {
-  background-color: #FAE3FF;
+/* line 9, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+nav input {
+  text-align: center;
 }
 
-/* line 11, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 12, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+nav button {
+  text-align: center;
+}
+
+/* line 17, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+main {
+  background-color: #F9F6FF;
+  height: 80%;
+  padding: 20px;
+}
+
+/* line 22, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 footer {
-  background-color: #3F3940;
+  background-color: #3E3E40;
+  height: 20%;
 }
 
 /*# sourceMappingURL=../css/main.map */

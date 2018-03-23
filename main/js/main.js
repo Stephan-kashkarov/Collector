@@ -22,7 +22,7 @@ $(document).ready(function () {
 
 		artist_list = artist_list.responseText;
 		artist_list = JSON.parse(artist_list);
-		window.localStorage.setItem("artist_list", JSON.stringify(artist_list));
+		window.localStorage.setItem("artist_list!", JSON.stringify(artist_list));
 		console.log("artist_list", artist_list.lenght);
 		for(var i = 0 in artist_list) {
 			console.log("generating artist,", i);

@@ -28,6 +28,7 @@ $(document).ready(function () {
 		event.preventDefault();
 		look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		global.load_artist();
+		$("#artist_input").val("");
 	});
 
 	// Done with vanilla JS beause jquery dosent support this uses

@@ -91,7 +91,6 @@ class art {
 
 	print() {
 		$(".main").html([this].map(art_profile).join(""))
-		console.log(this.obj);
 	}
 }
 
@@ -110,7 +109,7 @@ function clear() {
 
 function look_for_index(name, dict, val) {
 	for(var i = 0; i < dict.length; i++) {
-		console.log("Is", name, "the same as", artist_lite_dict[i][val] + "?");
+		//console.log("Is", name, "the same as", artist_lite_dict[i][val] + "?");
 		// i = parseInt(i)
 		if(dict[i][val] == name) {
 			global = dict[i];

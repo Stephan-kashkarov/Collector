@@ -44,7 +44,7 @@ $(document).ready(function () {
 		if (hasClass(e.target, 'art')) {
 			console.log("CLICK vanilla");
 			console.log(e.target);
-			name = e.target.parent().sibling(".title").val()
+			name = e.target./parent().sibling(".title").val()
 			title = this.children(span).val();
 			look_for_index(name, artist_full_dict, "name")
 			global.print_art(title);

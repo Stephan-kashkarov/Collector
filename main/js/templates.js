@@ -70,7 +70,8 @@ const art_profile = ({
 		<br>
 		Index: ${index}
 	</p>
-	<a href="" class="back_full">
+	<p>BACK!:</p>
+	<a class="back_full">
 		${author}
 	</a>
 </li>

@@ -54,7 +54,7 @@ class artist_full {
 
 	print() {
 		clear()
-		$(".main").append([this].map(artist_template).join(""))
+		$(".main").html([this].map(artist_template).join(""))
 		for(var i = 0; i < this.object["art"].length; i++) {
 			thing = this.object["art"][i]
 			$(".art-container").append([thing].map(art_list_template).join(""));
@@ -90,7 +90,7 @@ class art {
 	}
 
 	print() {
-		$(".main").html([this.obj].map(art_profile).join(""))
+		$(".main").html([this].map(art_profile).join(""))
 	}
 }
 

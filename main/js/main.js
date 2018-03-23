@@ -41,7 +41,6 @@ $(document).ready(function () {
 
 	// more vanillaish js for the same reason as above
 	$(document).on("click", "a.back_full", function (e) {
-		event.preventDefault;
 		author = this.innerHTML.trim();
 		look_for_index(author, artist_lite_dict, "name");
 		global.load_artist();

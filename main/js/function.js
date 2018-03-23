@@ -66,7 +66,7 @@ class artist_full {
 		for(var i = 0; i < this.object["art"].length; i++) {
 			piece = this.object["art"][i]["title"];
 			if(piece == name) {
-				obj = new art(piece, this.name)
+				obj = new art(this.object["art"][i], this.name)
 				art_dict.push(obj)
 				obj.print()
 				break
@@ -91,6 +91,7 @@ class art {
 
 	print() {
 		$(".main").html([this].map(art_profile).join(""))
+		console.log(this.obj);
 	}
 }
 

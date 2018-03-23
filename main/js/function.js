@@ -6,6 +6,8 @@ var global;
 var artist_profile;
 var profile;
 var thing;
+var piece;
+var obj;
 
 class artist_lite {
 
@@ -44,8 +46,8 @@ class artist_full {
 		this.timeframe = object["timeframe"];
 		this.arts = [];
 
-		for(var i = 0; i < object["art"].length; i++) {
-			this.arts.push(object["art"][i]["title"]);
+		for(var i = 0; i < this.object["art"].length; i++) {
+			this.arts.push(this.object["art"][i]["title"]);
 		}
 
 	}
@@ -61,8 +63,8 @@ class artist_full {
 
 	print_art(name) {
 		clear()
-		for(var i = 0; i < object["art"].length; i++) {
-			piece = object["art"][i]["title"];
+		for(var i = 0; i < this.object["art"].length; i++) {
+			piece = this.object["art"][i]["title"];
 			if(piece == name) {
 				obj = new art(piece, this.name)
 				art_dict.push(obj)
@@ -102,13 +104,14 @@ function make_data_list(artist_lite_dict) {
 }
 
 function clear() {
+	console.log("clearing!");
 	$("main").remove(".article");
 }
 
 function look_for_index(name, dict, val){
 	for (var i = 0; i < dict.length; i++) {
 		console.log("Is", name, "the same as", artist_lite_dict[i][val] + "?");
-		i = parseInt(i)
+		// i = parseInt(i)
 		if(dict[i][val] == name){
 			global = dict[i];
 			return dict[i];

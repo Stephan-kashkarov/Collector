@@ -30,28 +30,17 @@ $(document).ready(function () {
 		global.load_artist();
 	});
 
-	// PLZ WORK PLZ WORK PLZ WORK PZL WORK WHY DONT YOU WORK PLEASE!!!!!! !!?
+	// Done with vanilla JS beause jquery dosent support this uses
 	$(document).on("click","li.art", function(){
-		name_par = $(this).parent();
-		name = name_par.siblings(".title").text();
-		title = $(this).children("span").text();
+		console.log(this);
+		console.log(this.parentElement.parentElement);
+		name = this.parentElement.parentElement.firstElementChild.innerHTML.trim();
+		title = this.firstElementChild.firstElementChild.innerHTML.trim();
+		console.log("name", name, "title", title);
 		look_for_index(name, artist_full_dict, "name")
-		console.log(title);
+		console.log(global);
 		global.print_art(title);
 	});
-
-	// STACK OVERFLOW SOLUTION PURE JS WITH EDITS BY ME !!?
-	// document.addEventListener('click', function (e) {
-	// 	if (hasClass(e.target, 'art')) {
-	// 		console.log("CLICK vanilla");
-	// 		console.log(e.target);
-	// 		name = e.target.parent().sibling(".title").val()
-	// 		title = this.children(span).val();
-	// 		look_for_index(name, artist_full_dict, "name")
-	// 		global.print_art(title);
-	// 	}
-	// }, false);
-	// Misc
 
 	// This code was found @ https://leaverou.github.io/awesomplete/
 	var input = document.getElementById("artist_input");

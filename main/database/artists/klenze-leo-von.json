@@ -1,0 +1,168 @@
+{
+    "name": "KLENZE Leo von",
+    "life": "(b. 1784 Schladen d. 1864 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Monopteros",
+            "date": "1838",
+            "technique": "Photo",
+            "location": "Englischer Garten Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/garten1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21062
+        },
+        {
+            "title": "Sckell Memorial",
+            "date": "1824",
+            "technique": "Photo",
+            "location": "Englischer Garten Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/garten2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21063
+        },
+        {
+            "title": "Exterior view",
+            "date": "1836-44",
+            "technique": "Photo",
+            "location": "Liberation Hall Kelheim",
+            "url": "https://www.wga.hu/html/k/klenze/1/kelheim1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21064
+        },
+        {
+            "title": "Interior view",
+            "date": "1836-44",
+            "technique": "Photo",
+            "location": "Liberation Hall Kelheim",
+            "url": "https://www.wga.hu/html/k/klenze/1/kelheim2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21065
+        },
+        {
+            "title": "Glyptothek",
+            "date": "1815-30",
+            "technique": "Photo",
+            "location": "K\u00f6nigsplatz Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/konigs1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21066
+        },
+        {
+            "title": "Propylaeum",
+            "date": "1846-53",
+            "technique": "Photo",
+            "location": "K\u00f6nigsplatz Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/konigs2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21067
+        },
+        {
+            "title": "Large Skylight Hall",
+            "date": "1851",
+            "technique": "Photo",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/klenze/1/larghall.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21068
+        },
+        {
+            "title": "Exterior view",
+            "date": "1826-36",
+            "technique": "Photo",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/pinakot1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21069
+        },
+        {
+            "title": "Exterior view",
+            "date": "1826-36",
+            "technique": "Photo",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/pinakot2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21070
+        },
+        {
+            "title": "Exterior view",
+            "date": "1826-36",
+            "technique": "Photo",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/pinakot3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21071
+        },
+        {
+            "title": "Exterior view",
+            "date": "1823-32",
+            "technique": "Photo",
+            "location": "Residenz Munich",
+            "url": "https://www.wga.hu/html/k/klenze/1/residenz.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21072
+        },
+        {
+            "title": "Valhalla of the Germans",
+            "date": "1830-42",
+            "technique": "Photo",
+            "location": "Donaustauf Regensburg",
+            "url": "https://www.wga.hu/html/k/klenze/1/valhall1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21073
+        },
+        {
+            "title": "Valhalla of the Germans (interior)",
+            "date": "1830-42",
+            "technique": "Photo",
+            "location": "Donaustauf Regensburg",
+            "url": "https://www.wga.hu/html/k/klenze/1/valhall2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21074
+        },
+        {
+            "title": "The Acropolis at Athens",
+            "date": "1846",
+            "technique": "Oil on canvas 103 x 148 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/klenze/2/acropoli.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21075
+        },
+        {
+            "title": "South Entrance of the Church of Santa Maria Maggiore Bergamo",
+            "date": "-",
+            "technique": "Oil on canvas 102 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/klenze/2/bergamo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21076
+        },
+        {
+            "title": "View of the Villa Lucia on the Vomero Hill Naples",
+            "date": "1823-24",
+            "technique": "Oil on canvas 32 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/klenze/2/viewvilla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21077
+        }
+    ]
+}

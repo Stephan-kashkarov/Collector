@@ -1,0 +1,38 @@
+{
+    "name": "ROMANESQUE PAINTER Spanish",
+    "life": "(12th century)",
+    "school": "Spanish",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Creation Adam and the Original Sin",
+            "date": "12th century",
+            "technique": "Mural painting transferred to canvas width 450 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c1/07spanis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35003
+        },
+        {
+            "title": "Hunt of the Hare",
+            "date": "12th century",
+            "technique": "Mural painting tranferred to canvas 185 x 360 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c1/08spanis.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 35004
+        },
+        {
+            "title": "Lion wall painting",
+            "date": "c. 1200",
+            "technique": "Fresco transferred to canvas 220 x 330 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c2/06spanis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35005
+        }
+    ]
+}

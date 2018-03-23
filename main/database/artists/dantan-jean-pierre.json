@@ -1,0 +1,48 @@
+{
+    "name": "DANTAN Jean-Pierre",
+    "life": "(b. 1800 Paris d. 1869 Baden-Baden)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Victor Hugo",
+            "date": "1832",
+            "technique": "Plaster height 17 cm",
+            "location": "Mus\u00e9e Victor Hugo Paris",
+            "url": "https://www.wga.hu/html/d/dantan/hugo_vic.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10809
+        },
+        {
+            "title": "Liszt Playing the Piano",
+            "date": "1836",
+            "technique": "Gypsum height 21 cm",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/d/dantan/liszt.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10810
+        },
+        {
+            "title": "Paganini",
+            "date": "1832",
+            "technique": "Bronze height 32 cm",
+            "location": "Mus\u00e9es de la Ville de Paris Paris",
+            "url": "https://www.wga.hu/html/d/dantan/paganini.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 10811
+        },
+        {
+            "title": "Portrait of Tamburini",
+            "date": "1843",
+            "technique": "Litograph",
+            "location": "-",
+            "url": "https://www.wga.hu/html/d/dantan/tamburin.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 10812
+        }
+    ]
+}

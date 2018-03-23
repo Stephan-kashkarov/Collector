@@ -1,0 +1,38 @@
+{
+    "name": "COUSTOU Guillaume II",
+    "life": "(b. 1716 Paris d. 1777 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Monument to the Dauphin",
+            "date": "completed 1777",
+            "technique": "Marble",
+            "location": "Cathedral Sens",
+            "url": "https://www.wga.hu/html/c/coustou/guillaux/dauphin1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 9963
+        },
+        {
+            "title": "Monument to the Dauphin",
+            "date": "completed 1777",
+            "technique": "Marble",
+            "location": "Cathedral Sens",
+            "url": "https://www.wga.hu/html/c/coustou/guillaux/dauphin2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 9964
+        },
+        {
+            "title": "Vulcan",
+            "date": "1742",
+            "technique": "Marble height 69 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/coustou/guillaux/vulcan.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 9965
+        }
+    ]
+}

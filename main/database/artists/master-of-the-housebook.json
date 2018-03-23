@@ -1,0 +1,198 @@
+{
+    "name": "MASTER of the Housebook",
+    "life": "(active 1475-90 in Mainz)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Aristotle and Phyllis",
+            "date": "c. 1485",
+            "technique": "Dry point diameter 155 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/aristotl.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25063
+        },
+        {
+            "title": "Carrying the Cross",
+            "date": "1480s",
+            "technique": "Drypoint 127 x 181 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/carrying.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25064
+        },
+        {
+            "title": "Coronation of Mary",
+            "date": "1475-90",
+            "technique": "Wood 39 x 25 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25065
+        },
+        {
+            "title": "Ill-Matched Couple: Young Man and Old Woman",
+            "date": "-",
+            "technique": "Drypoint engraving",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/couple.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 25066
+        },
+        {
+            "title": "Double Portrait (Pair of Lovers)",
+            "date": "1480-85",
+            "technique": "Oil on linden panel 114 x 80 cm",
+            "location": "Schlossmuseum Gotha",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/doublepo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25067
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "1480-85",
+            "technique": "Panel 131 x 171 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25068
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1475-80",
+            "technique": "Oak panel 131 x 76 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25069
+        },
+        {
+            "title": "Old Bulldog Scratching Himself",
+            "date": "c. 1485",
+            "technique": "Drypoint 114 x 111 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/old_bdog.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 25070
+        },
+        {
+            "title": "Planet Venus",
+            "date": "c. 1475",
+            "technique": "Pen drawing 235 x 143 mm",
+            "location": "F\u00fcrsten zu Waldburg-Wolfegg Schloss Wolfegg",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/planet1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25071
+        },
+        {
+            "title": "Planet Mercury",
+            "date": "c. 1475",
+            "technique": "Pen drawing 235 x 143 mm",
+            "location": "F\u00fcrsten zu Waldburg-Wolfegg Schloss Wolfegg",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/planet2.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25072
+        },
+        {
+            "title": "Planet Mercury (detail)",
+            "date": "c. 1475",
+            "technique": "Pen drawing",
+            "location": "F\u00fcrsten zu Waldburg-Wolfegg Schloss Wolfegg",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/planet2d.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25073
+        },
+        {
+            "title": "Resurrection",
+            "date": "1480-85",
+            "technique": "Panel 132 x 77 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/resurrec.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25074
+        },
+        {
+            "title": "Virgin and Child with St Anne",
+            "date": "c. 1490",
+            "technique": "Tempera and oil on wood 136 x 105 cm",
+            "location": "Landesmuseum Oldenburg",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/s_anne3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25075
+        },
+        {
+            "title": "St Barbara St Catherine",
+            "date": "1485-90",
+            "technique": "Drypoint (unique impression) 120 x 40 and 119 x 38 mm respectively",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/sbarbcat.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25076
+        },
+        {
+            "title": "St Sebastian with Archers",
+            "date": "1475-80",
+            "technique": "Drypoint (unique impression) 129 x 192 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/sebastia.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25077
+        },
+        {
+            "title": "Standing Couple",
+            "date": "c. 1480",
+            "technique": "Drawing 195 x 135 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/standing.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 25078
+        },
+        {
+            "title": "The Holy Family with the Rose-bush",
+            "date": "c. 1490",
+            "technique": "Drypoint (unique impression) 142 x 115 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/theholyf.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25079
+        },
+        {
+            "title": "Three Men in Discussion",
+            "date": "1475-90",
+            "technique": "Pen and brown ink on paper 162 x 104 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/threemen.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 25080
+        },
+        {
+            "title": "Tournament: Deutsches Stechen",
+            "date": "1470-90",
+            "technique": "Drawing",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/hausbuch/tourname.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 25081
+        }
+    ]
+}

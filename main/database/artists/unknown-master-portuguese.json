@@ -1,0 +1,38 @@
+{
+    "name": "UNKNOWN MASTER Portuguese",
+    "life": "(active 1350s)",
+    "school": "Portuguese",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Virgin with St Anne",
+            "date": "1353",
+            "technique": "Tempera on panel",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp4/1virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 41680
+        },
+        {
+            "title": "Man with a Glass of Wine",
+            "date": "c. 1450",
+            "technique": "Wood 63 x 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp4/man_wine.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 41681
+        },
+        {
+            "title": "Young Nobleman",
+            "date": "-",
+            "technique": "Oil on wood 48 x 35 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/m/master/zunk_sp/zunk_sp4/youngman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 41682
+        }
+    ]
+}

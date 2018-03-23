@@ -1,0 +1,38 @@
+{
+    "name": "LORME Anthonie de",
+    "life": "(b. ca. 1610 Tournai d. 1673 Rotterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Interior of a Church",
+            "date": "1650s",
+            "technique": "Oil on panel 118 x 157 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorme/interchu.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23242
+        },
+        {
+            "title": "Interior of the St Laurenskerk in Rotterdam",
+            "date": "1660-65",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/l/lorme/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23243
+        },
+        {
+            "title": "Interior of a Classical Church",
+            "date": "1640-45",
+            "technique": "Oil on panel 72 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorme/interiox.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23244
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "VERHEYEN Jan Hendrik",
+    "life": "(b. 1778 Utrecht d. 1846 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "View of the Choir and Tower of Utrecht Cathedral",
+            "date": "c. 1829",
+            "technique": "Oil on panel",
+            "location": "Centraal Museum Utrecht",
+            "url": "https://www.wga.hu/html/v/verheyen/cathedra.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42513
+        },
+        {
+            "title": "The Market Square and Cathedral in Utrecht",
+            "date": "c. 1820",
+            "technique": "Oil on panel 44 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verheyen/market.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42514
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "DALLE MASEGNE Jacobello",
+    "life": "(d. 1409 active in Emilia)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Altarpiece",
+            "date": "-",
+            "technique": "Marble 385 x 313 cm",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/altarpie.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10728
+        },
+        {
+            "title": "South fa\u00e7ade balcony",
+            "date": "1400-04",
+            "technique": "Stone",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/balcony1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 10729
+        },
+        {
+            "title": "Fa\u00e7ade towards the waterfront",
+            "date": "1400-04",
+            "technique": "-",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/balcony2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 10730
+        },
+        {
+            "title": "Urn of Jacopo Cavalli",
+            "date": "1590s",
+            "technique": "Marble",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/cavalli.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10731
+        },
+        {
+            "title": "Students detail of the Tomb of Giovanni da Legnano",
+            "date": "1383-86",
+            "technique": "Marble 633 x 765 cm",
+            "location": "San Domenico Bologna",
+            "url": "https://www.wga.hu/html/d/dalle_ma/legnano.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10732
+        },
+        {
+            "title": "Sarcophagus of Margherita Malatesta",
+            "date": "1401-06",
+            "technique": "Marble",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/d/dalle_ma/malatest.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10733
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1394-97",
+            "technique": "Stone",
+            "location": "Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/marco1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10734
+        },
+        {
+            "title": "St Mark the Apostle",
+            "date": "1394-97",
+            "technique": "Stone",
+            "location": "Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/marco2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10735
+        },
+        {
+            "title": "Portrait of Doge Antonio Venier",
+            "date": "1394",
+            "technique": "Marble height 51 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/d/dalle_ma/venier.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10736
+        }
+    ]
+}

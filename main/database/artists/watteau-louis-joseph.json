@@ -1,0 +1,48 @@
+{
+    "name": "WATTEAU Louis-Joseph",
+    "life": "(b. 1731 Valenciennes d. 1798 Lille)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Bivouac",
+            "date": "-",
+            "technique": "Watercolour gouache and oxidised white gouache 145 x 245 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/watteau/louis/bivouac.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 43819
+        },
+        {
+            "title": "Musicians with Animals",
+            "date": "1779",
+            "technique": "Oil on panel 26 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/watteau/louis/musicia1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43820
+        },
+        {
+            "title": "Musicians with Animals",
+            "date": "1779",
+            "technique": "Oil on panel 26 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/watteau/louis/musicia2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43821
+        },
+        {
+            "title": "The Storm",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Valenciennes",
+            "url": "https://www.wga.hu/html/w/watteau/louis/thestorm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43822
+        }
+    ]
+}

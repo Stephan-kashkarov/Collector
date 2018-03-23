@@ -1,0 +1,28 @@
+{
+    "name": "BROWN Ford Madox",
+    "life": "(b. 1821 Calais d. 1893 London)",
+    "school": "English",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Last of England",
+            "date": "1852-55",
+            "technique": "Oil on panel 83 x 75 cm",
+            "location": "City Art Gallery Birmingham",
+            "url": "https://www.wga.hu/html/b/brown/england.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 6306
+        },
+        {
+            "title": "Work",
+            "date": "1852-63",
+            "technique": "Oil on canvas 137 x 197 cm",
+            "location": "City Art Gallery Manchester",
+            "url": "https://www.wga.hu/html/b/brown/work.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 6307
+        }
+    ]
+}

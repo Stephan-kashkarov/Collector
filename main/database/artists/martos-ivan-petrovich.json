@@ -1,0 +1,78 @@
+{
+    "name": "MARTOS Ivan Petrovich",
+    "life": "(b. 1754 Ichnya d. 1835 St. Petersburg)",
+    "school": "Other",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Moses Striking a Rock to Bring forth Water",
+            "date": "-",
+            "technique": "Terracotta",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/m/martos/kazan.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24407
+        },
+        {
+            "title": "Monument of Minin and Pozharsky",
+            "date": "1804-18",
+            "technique": "Bronze",
+            "location": "Red Square Moscow",
+            "url": "https://www.wga.hu/html/m/martos/minin.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 24408
+        },
+        {
+            "title": "Monument of Minin and Pozharsky",
+            "date": "1804-18",
+            "technique": "Bronze",
+            "location": "Red Square Moscow",
+            "url": "https://www.wga.hu/html/m/martos/minin1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 24409
+        },
+        {
+            "title": "Monument of Minin and Pozharsky (detail)",
+            "date": "1804-18",
+            "technique": "Bronze",
+            "location": "Red Square Moscow",
+            "url": "https://www.wga.hu/html/m/martos/minin2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 24410
+        },
+        {
+            "title": "Monument of Minin and Pozharsky (detail)",
+            "date": "1804-18",
+            "technique": "Bronze",
+            "location": "Red Square Moscow",
+            "url": "https://www.wga.hu/html/m/martos/minin3.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 24411
+        },
+        {
+            "title": "Tomb of S. S. Volkonskaya",
+            "date": "1782",
+            "technique": "Marble",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/m/martos/tomb1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24412
+        },
+        {
+            "title": "Tomb of Kurakina",
+            "date": "-",
+            "technique": "Gypsum",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/m/martos/tomb2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24413
+        }
+    ]
+}

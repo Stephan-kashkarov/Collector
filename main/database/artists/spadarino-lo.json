@@ -1,0 +1,28 @@
+{
+    "name": "SPADARINO lo",
+    "life": "(b. 1585 Roma d. 1652 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Ptolemy II Discussing the Translation of the Old Testament with the Hebrew Scholars",
+            "date": "1620s",
+            "technique": "Oil on canvas 117 x 162 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/spadarin/ptolemy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37709
+        },
+        {
+            "title": "Venus with Doves",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 125 x 176 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/spadarin/venusdov.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37710
+        }
+    ]
+}

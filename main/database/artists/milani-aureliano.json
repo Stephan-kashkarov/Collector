@@ -1,0 +1,28 @@
+{
+    "name": "MILANI Aureliano",
+    "life": "(b. 1675 Bologna d. 1749 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Combat between Aeneas and Turnus",
+            "date": "1708",
+            "technique": "Oil on canvas 170 x 132 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/milani/aeneas.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 27160
+        },
+        {
+            "title": "Expulsion of Adam and Eve",
+            "date": "-",
+            "technique": "Oil on canvas 153 x 106 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/milani/expulsio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 27161
+        }
+    ]
+}

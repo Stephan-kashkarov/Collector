@@ -1,0 +1,28 @@
+{
+    "name": "BELLEVOIS Jacob Adriaensz.",
+    "life": "(b. ca. 1620 Rotterdam d. 1676 Rotterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Dutch Ships in Choppy Waters",
+            "date": "-",
+            "technique": "Oil on oak panel 47 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bellevoi/dutcship.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3732
+        },
+        {
+            "title": "Ships on a Stormy Sea",
+            "date": "-",
+            "technique": "Oil on panel 100 x 149 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bellevoi/stormy.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3733
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "JAQUOTOT Marie-Victoire",
+    "life": "(b. 1772 Paris d. 1855 Toulouse)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "A Basket of Flowers",
+            "date": "-",
+            "technique": "Gouache on vellum with some gold 116 x 193 mm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/j/jaquotot/basket.html",
+            "form": "graphics",
+            "painting_type": "still-life",
+            "index": 20603
+        },
+        {
+            "title": "Napoleon in Coronation Robes",
+            "date": "1813-14",
+            "technique": "Oil on porcelain gilt bronze 15.5 x 11.5 cm",
+            "location": "Fondation Napoleon Paris",
+            "url": "https://www.wga.hu/html/j/jaquotot/napoleon.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20604
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on panel 22x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jaquotot/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20605
+        }
+    ]
+}

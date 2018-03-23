@@ -1,0 +1,28 @@
+{
+    "name": "BONVICINO Ambrogio",
+    "life": "(b. ca. 1552 Milano d. 1622 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Delivery of the Keys to Peter",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Benediction Loggia St. Peter's Basilica Rome",
+            "url": "https://www.wga.hu/html/b/bonvicin/delivery.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5052
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1602-03",
+            "technique": "Marble",
+            "location": "Santa Maria sopra Minerva Rome",
+            "url": "https://www.wga.hu/html/b/bonvicin/st_john.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5053
+        }
+    ]
+}

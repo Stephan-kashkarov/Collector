@@ -1,0 +1,48 @@
+{
+    "name": "WOLF Ebert the Younger",
+    "life": "(b. ca. 1560 Hildesheim d. 1609 Hildesheim)",
+    "school": "German",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Altar table",
+            "date": "1603-4",
+            "technique": "Gilt wood",
+            "location": "Palace chapel B\u00fcckeburg",
+            "url": "https://www.wga.hu/html/w/wolf/altar.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44315
+        },
+        {
+            "title": "Altar table (detail)",
+            "date": "1603-04",
+            "technique": "Gilt wood",
+            "location": "Palace chapel B\u00fcckeburg",
+            "url": "https://www.wga.hu/html/w/wolf/altar_d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44316
+        },
+        {
+            "title": "Door of the Gods",
+            "date": "1603-04",
+            "technique": "Gilt wood",
+            "location": "Palace B\u00fcckeburg",
+            "url": "https://www.wga.hu/html/w/wolf/buckebu1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44317
+        },
+        {
+            "title": "View of the choir",
+            "date": "1603-4",
+            "technique": "Gilt wood",
+            "location": "Palace chapel B\u00fcckeburg",
+            "url": "https://www.wga.hu/html/w/wolf/buckebu2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44318
+        }
+    ]
+}

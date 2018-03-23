@@ -1,0 +1,148 @@
+{
+    "name": "STOM Matthias",
+    "life": "(b. ca. 1600 Amersfoort d. after 1650 Sicily)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Sarah Leading Hagar to Abraham",
+            "date": "1637-39",
+            "technique": "Oil on canvas 113 x 168 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/stom/abraham.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38058
+        },
+        {
+            "title": "Young Man Reading by Candlelight",
+            "date": "1628-32",
+            "technique": "Oil on canvas 59 x 74 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/stom/candleli.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38059
+        },
+        {
+            "title": "Esau and Jacob",
+            "date": "1640s",
+            "technique": "Oil on canvas 118 x 164 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/stom/esau_ja.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38060
+        },
+        {
+            "title": "St Gregory",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/s/stom/gregory.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38061
+        },
+        {
+            "title": "St Ambrose",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/s/stom/gregory1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38062
+        },
+        {
+            "title": "The Incredulity of St Thomas",
+            "date": "c. 1620",
+            "technique": "Oil on canvas 125 x 99 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/stom/incredul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38063
+        },
+        {
+            "title": "The Lutenist and the Flautist",
+            "date": "1640s",
+            "technique": "Oil on canvas 90 x 79 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/stom/lutenist.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38064
+        },
+        {
+            "title": "The Evangelists St Mark and St Luke",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 113 x 154 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom/markluke.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38065
+        },
+        {
+            "title": "Old Woman Praying",
+            "date": "1640s",
+            "technique": "Oil on canvas 78 x 64 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/stom/old_woma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38066
+        },
+        {
+            "title": "Old Woman Holding a Purse by Candlelight",
+            "date": "-",
+            "technique": "Oil on canvas 62 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom/old_womb.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38067
+        },
+        {
+            "title": "Old Woman with a Candle",
+            "date": "1640s",
+            "technique": "Oil on canvas 85 x 71 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/stom/oldwoman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38068
+        },
+        {
+            "title": "St Peter Praying",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom/peterpra.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38069
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "1630s",
+            "technique": "Oil on canvas 99 x 125 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/s/stom/samson.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38070
+        },
+        {
+            "title": "Saul and the Witch of Endor",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 170 x 250 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom/saulendo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 38071
+        }
+    ]
+}

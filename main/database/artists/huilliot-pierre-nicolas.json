@@ -1,0 +1,28 @@
+{
+    "name": "HUILLIOT Pierre Nicolas",
+    "life": "(b. 1674 Paris d. 1751 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 65 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/huilliot/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20283
+        },
+        {
+            "title": "Still-Life of Musical Instruments",
+            "date": "-",
+            "technique": "Oil on canvas 52 x 88 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/h/huilliot/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20284
+        }
+    ]
+}

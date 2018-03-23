@@ -1,0 +1,28 @@
+{
+    "name": "LORENZI Battista di Domenico",
+    "life": "(b. ca. 1527 Settignano d. 1592 Pisa)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Alpheus and Arethusa",
+            "date": "1568-70",
+            "technique": "Marble 149 x 83 x 60 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzi/battista/alpheus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 23137
+        },
+        {
+            "title": "Tomb of Michelangelo (detail)",
+            "date": "1570",
+            "technique": "Marble",
+            "location": "Santa Croce Florence",
+            "url": "https://www.wga.hu/html/l/lorenzi/battista/tombmich.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 23138
+        }
+    ]
+}

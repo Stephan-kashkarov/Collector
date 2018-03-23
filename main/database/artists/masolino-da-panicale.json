@@ -1,0 +1,608 @@
+{
+    "name": "MASOLINO da Panicale",
+    "life": "(b. 1383 Panicale d. 1447 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "View of the Cappella Brancacci (after restoration)",
+            "date": "1426-82",
+            "technique": "Fresco",
+            "location": "Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/0view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 24505
+        },
+        {
+            "title": "Frescoes in the Cappella Brancacci (right view)",
+            "date": "1426-82",
+            "technique": "Fresco",
+            "location": "Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/0view1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24506
+        },
+        {
+            "title": "Healing of the Cripple and Raising of Tabatha (left view)",
+            "date": "1426-27",
+            "technique": "Fresco 255 x 162 cm (full fresco)",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/healing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24507
+        },
+        {
+            "title": "Healing of the Cripple (detail)",
+            "date": "1426-82",
+            "technique": "Fresco",
+            "location": "Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/healing1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24508
+        },
+        {
+            "title": "The Healing of the Cripple and Raising of Tabitha (detail)",
+            "date": "1426-27",
+            "technique": "Fresco 255 x 598 cm (full fresco)",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/healing2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24509
+        },
+        {
+            "title": "Medallion",
+            "date": "1426-27",
+            "technique": "Fresco",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/medal1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 24510
+        },
+        {
+            "title": "St Peter Preaching",
+            "date": "1426-27",
+            "technique": "Fresco 255 x 162 cm",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/preachin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24511
+        },
+        {
+            "title": "St Peter Preaching (detail)",
+            "date": "1426-27",
+            "technique": "Fresco",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/preachix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24512
+        },
+        {
+            "title": "Healing of the Cripple and Raising of Tabatha (right view)",
+            "date": "1426-27",
+            "technique": "Fresco 255 x 162 cm (full fresco)",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/raising.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24513
+        },
+        {
+            "title": "The Temptation",
+            "date": "1426-27",
+            "technique": "Fresco 208 x 88 cm",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/temptat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24514
+        },
+        {
+            "title": "The Temptation (detail)",
+            "date": "1426-27",
+            "technique": "Fresco",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/temptati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24515
+        },
+        {
+            "title": "The Temptation (detail)",
+            "date": "1426-27",
+            "technique": "Fresco",
+            "location": "Cappella Brancacci Santa Maria del Carmine Florence",
+            "url": "https://www.wga.hu/html/m/masolino/brancacc/temptatk.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24516
+        },
+        {
+            "title": "View of the Chapel",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/01clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24517
+        },
+        {
+            "title": "Scenes from the Catherine Legend (left wall)",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/02clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24518
+        },
+        {
+            "title": "St Catherine Refusing to Worship Idols",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/03clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24519
+        },
+        {
+            "title": "Conversion and Beheading of Empress Faustina",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/04clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24520
+        },
+        {
+            "title": "St Catherine Disputing with Scholars",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/05clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24521
+        },
+        {
+            "title": "St Catherine Disputing with Scholars (detail)",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/06clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24522
+        },
+        {
+            "title": "Miracle of the Wheel",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/07clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24523
+        },
+        {
+            "title": "Scenes from the Life of St Ambrose (right wall)",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/08clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24524
+        },
+        {
+            "title": "Crucifixion (altar wall)",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/09clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24525
+        },
+        {
+            "title": "Crucifixion (altar wall)",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/10clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24526
+        },
+        {
+            "title": "Vaulting of the Chapel",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/11clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24527
+        },
+        {
+            "title": "Vaulting of the Chapel",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/12clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24528
+        },
+        {
+            "title": "St Christopher",
+            "date": "1425-31",
+            "technique": "Fresco",
+            "location": "Castiglione Chapel San Clemente Rome",
+            "url": "https://www.wga.hu/html/m/masolino/clemente/13clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24529
+        },
+        {
+            "title": "View from the entrance",
+            "date": "1435",
+            "technique": "Fresco width of the back wall 47 m",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/01olona.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 24530
+        },
+        {
+            "title": "View from the entrance",
+            "date": "1435",
+            "technique": "Fresco width of the back wall 47 m",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/01olona1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24531
+        },
+        {
+            "title": "View of the altar room",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/02olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24532
+        },
+        {
+            "title": "Sermon in the Wilderness",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/03olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24533
+        },
+        {
+            "title": "The Baptist's Sermon at the Jordan",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/04olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24534
+        },
+        {
+            "title": "The Baptist's Sermon at the Jordan (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/05olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24535
+        },
+        {
+            "title": "The Baptism of Christ",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/06olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24536
+        },
+        {
+            "title": "God the Father Surrounded by Angels (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/07olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24537
+        },
+        {
+            "title": "Landscape with Mountains",
+            "date": "c. 1435",
+            "technique": "Fresco",
+            "location": "Palace of Cardinal Branda Castiglione Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/08olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24538
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/09olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24539
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/10olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24540
+        },
+        {
+            "title": "The Baptist Scolding Herod and Herodias",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/11olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24541
+        },
+        {
+            "title": "The Baptist Scolding Herod and Herodias (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/12olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24542
+        },
+        {
+            "title": "The Baptist Scolding Herod and Herodias",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/13olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24543
+        },
+        {
+            "title": "View of the entry wall (west wall)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/14olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24544
+        },
+        {
+            "title": "Annunciation to Zacharias (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/15olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24545
+        },
+        {
+            "title": "South wall",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/16olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24546
+        },
+        {
+            "title": "South wall",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/17olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24547
+        },
+        {
+            "title": "Feast of Herod (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/18olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24548
+        },
+        {
+            "title": "Feast of Herod (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/19olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24549
+        },
+        {
+            "title": "Salome Bringing the Head of the Baptist to Herodias (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/20olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24550
+        },
+        {
+            "title": "Salome Bringing the Head of the Baptist to Herodias (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/21olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24551
+        },
+        {
+            "title": "Vaulting of the Baptistery",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/22olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24552
+        },
+        {
+            "title": "Vaulting (detail)",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/23olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24553
+        },
+        {
+            "title": "St Ambrose",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/24olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24554
+        },
+        {
+            "title": "St Jerome",
+            "date": "1435",
+            "technique": "Fresco",
+            "location": "Baptistery Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/25olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24555
+        },
+        {
+            "title": "View of the vaulting",
+            "date": "c. 1435",
+            "technique": "Fresco",
+            "location": "Collegiata Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/26olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24556
+        },
+        {
+            "title": "Vaulting (detail)",
+            "date": "c. 1435",
+            "technique": "Fresco",
+            "location": "Collegiata Castiglione Olona",
+            "url": "https://www.wga.hu/html/m/masolino/olona/27olona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24557
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1425-30",
+            "technique": "Tempera on panel 148 x 115 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/masolino/panels/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24558
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1423",
+            "technique": "Tempera on panel 96 x 52 cm",
+            "location": "Kunsthalle Bremen",
+            "url": "https://www.wga.hu/html/m/masolino/panels/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24559
+        },
+        {
+            "title": "Madonna with the Child",
+            "date": "-",
+            "technique": "Wood 955 x 57 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/masolino/panels/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24560
+        },
+        {
+            "title": "Founding of Santa Maria Maggiore",
+            "date": "1423-25",
+            "technique": "Tempera and gold on panel 144 x 76 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/m/masolino/panels/maggiore.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24561
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1424",
+            "technique": "Fresco 280 x 118 cm",
+            "location": "Museo della Collegiata Empoli",
+            "url": "https://www.wga.hu/html/m/masolino/panels/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24562
+        },
+        {
+            "title": "Pope Gregory the Great (?) and St Matthias",
+            "date": "1428-29",
+            "technique": "Tempera and oil on poplar transferred to fibreboard 126 x 59 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/masolino/panels/popegreg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24563
+        },
+        {
+            "title": "Scenes from the Life of St Julien",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Mus\u00e9e Ingres Montauban",
+            "url": "https://www.wga.hu/html/m/masolino/panels/s_julien.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24564
+        }
+    ]
+}

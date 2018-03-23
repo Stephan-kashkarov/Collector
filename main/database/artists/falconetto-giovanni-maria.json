@@ -1,0 +1,178 @@
+{
+    "name": "FALCONETTO Giovanni Maria",
+    "life": "(b. 1468 Verona d. 1535 Padova)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Loggia Odeon Cornaro",
+            "date": "1524-30",
+            "technique": "Photo",
+            "location": "Padua",
+            "url": "https://www.wga.hu/html/f/falcon/loggia.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13493
+        },
+        {
+            "title": "Porta San Giovanni",
+            "date": "1528-30",
+            "technique": "-",
+            "location": "Padua",
+            "url": "https://www.wga.hu/html/f/falcon/porta.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13494
+        },
+        {
+            "title": "Exterior view",
+            "date": "1530s",
+            "technique": "Photo",
+            "location": "Villa dei Vescovi Luvigliano di Torreglia",
+            "url": "https://www.wga.hu/html/f/falcon/vescovi.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13495
+        },
+        {
+            "title": "View of the Sala dello Zodiaco",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 13496
+        },
+        {
+            "title": "Sign of Aries",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac01.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13497
+        },
+        {
+            "title": "Sign of Taurus",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac02.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13498
+        },
+        {
+            "title": "Sign of Gemini",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac03.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13499
+        },
+        {
+            "title": "Sign of Cancer",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac04.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13500
+        },
+        {
+            "title": "Sign of Cancer",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac041.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13501
+        },
+        {
+            "title": "Sign of Leo",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac05.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13502
+        },
+        {
+            "title": "Sign of Virgo",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac06.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13503
+        },
+        {
+            "title": "Sign of Libra",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac07.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13504
+        },
+        {
+            "title": "Sign of Scorpio",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac08.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13505
+        },
+        {
+            "title": "Sign of Sagittarius",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac09.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13506
+        },
+        {
+            "title": "Sign of Capricorn",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac10.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13507
+        },
+        {
+            "title": "Sign of Aquarius",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac11.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13508
+        },
+        {
+            "title": "Sign of Pisces",
+            "date": "1515-20",
+            "technique": "Fresco",
+            "location": "Palazzo d'Arco Mantua",
+            "url": "https://www.wga.hu/html/f/falcon/zodiac12.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13509
+        }
+    ]
+}

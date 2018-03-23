@@ -1,0 +1,28 @@
+{
+    "name": "BELLANG\u00c9 Hippolyte",
+    "life": "(b. 1800 Paris d. 1866 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Battle Scene",
+            "date": "c. 1825",
+            "technique": "Oil on canvas 38 x 48 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/b/bellang/battlesc.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 3709
+        },
+        {
+            "title": "Napoleon in Wagram",
+            "date": "1841",
+            "technique": "Oil on canvas 57 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bellang/napoleon.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 3710
+        }
+    ]
+}

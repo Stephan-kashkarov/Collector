@@ -1,0 +1,368 @@
+{
+    "name": "METSU Gabriel",
+    "life": "(b. 1629 Leiden d. 1667 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Feast of the Bean King",
+            "date": "-",
+            "technique": "Oil on canvas 81 x 79 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/m/metsu/1/beanking.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26328
+        },
+        {
+            "title": "Breakfast",
+            "date": "1660",
+            "technique": "Oil on panel 56 x 42",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/metsu/1/breakfes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26329
+        },
+        {
+            "title": "The Breakfast (detail)",
+            "date": "1660",
+            "technique": "Oil on wood",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/metsu/1/breakfex.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26330
+        },
+        {
+            "title": "Dead Cock",
+            "date": "-",
+            "technique": "Oil on panel 57 x 40 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/metsu/1/deadcock.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 26331
+        },
+        {
+            "title": "The Dismissal of Hagar",
+            "date": "1653-54",
+            "technique": "Oil on canvas 112 x 86 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/m/metsu/1/hagar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26332
+        },
+        {
+            "title": "The Hunter's Gift",
+            "date": "1658-60",
+            "technique": "Oil on canvas 51 x 48 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/metsu/1/hunter_g.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26333
+        },
+        {
+            "title": "The Hunter and a Woman",
+            "date": "-",
+            "technique": "Oil on wood 58 x 43 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/metsu/1/hunter_w.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26334
+        },
+        {
+            "title": "Man and Woman Sitting at the Virginal",
+            "date": "1658-60",
+            "technique": "Oil on oak 38 x 32 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/metsu/1/manwoman.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 26335
+        },
+        {
+            "title": "A Woman Seated at a Table and a Man Tuning a Violin",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 37 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/metsu/1/manwomax.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26336
+        },
+        {
+            "title": "A Musical Party",
+            "date": "1659",
+            "technique": "Oil on canvas 62 x 54 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/metsu/1/musical.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26337
+        },
+        {
+            "title": "Woman Peeling an Apple",
+            "date": "1655-57",
+            "technique": "Oil on wood 28 x 26 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/1/pendant1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26338
+        },
+        {
+            "title": "The Tippler (The Wine Drinker)",
+            "date": "1655-57",
+            "technique": "Oil on wood 28 x 27 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/1/pendant2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26339
+        },
+        {
+            "title": "The Prodigal Son",
+            "date": "1640s",
+            "technique": "Oil on canvas 77 x 66 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/metsu/1/prodigal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26340
+        },
+        {
+            "title": "The Sick Child",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 332 x 272 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/metsu/1/sickchil.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26341
+        },
+        {
+            "title": "The Sick Girl",
+            "date": "1658-59",
+            "technique": "Oil on oak 30 x 26 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/metsu/1/sickgirl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26342
+        },
+        {
+            "title": "The Sleeping Sportsman",
+            "date": "1657-59",
+            "technique": "Oil on canvas 40 x 35 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/m/metsu/1/sleeping.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26343
+        },
+        {
+            "title": "Tavern Scene",
+            "date": "c. 1655",
+            "technique": "Oil on canvas 37 x 32 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/metsu/1/tavern.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26344
+        },
+        {
+            "title": "The Cook",
+            "date": "1657-67",
+            "technique": "Oil on canvas 40 x 34 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/m/metsu/1/the_cook.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26345
+        },
+        {
+            "title": "The Apothecary (The Chemist)",
+            "date": "c. 1661",
+            "technique": "Oil on wood 27 x 23 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/2/chemist.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26346
+        },
+        {
+            "title": "A Young Woman Composing Music",
+            "date": "1662-63",
+            "technique": "Oil on panel 58 x 44 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/m/metsu/2/composin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26347
+        },
+        {
+            "title": "Lady Seated in a Window",
+            "date": "c. 1661",
+            "technique": "Oil on panel 28 x 23 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/metsu/2/ladyseat.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26348
+        },
+        {
+            "title": "The Visit to the Nursery",
+            "date": "1661",
+            "technique": "Oil on canvas 78 x 81 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/metsu/2/nursery.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26349
+        },
+        {
+            "title": "The Cittern Player",
+            "date": "after 1660",
+            "technique": "Oil on oak 37 x 30 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/m/metsu/2/player.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26350
+        },
+        {
+            "title": "Portrait of the Artist with His Wife Isabella de Wolff in a Tavern",
+            "date": "1661",
+            "technique": "Oil on oak panel 36 x 31 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/metsu/2/portarti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26351
+        },
+        {
+            "title": "The Poultry Seller",
+            "date": "1662",
+            "technique": "Oil on oak panel 62 x 46 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/metsu/2/poultry.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26352
+        },
+        {
+            "title": "The Poultry Woman",
+            "date": "1662",
+            "technique": "Oil on oak panel 61 x 45 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/metsu/2/poultry1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26353
+        },
+        {
+            "title": "Soldier Paying a Visit to a Young Lady",
+            "date": "1660-61",
+            "technique": "Oil on wood 64 x 47 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/2/soldier.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26354
+        },
+        {
+            "title": "The Letter-Writer Surprised",
+            "date": "c. 1662",
+            "technique": "Oil on wood 45 x 39 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/m/metsu/2/surprise.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 26355
+        },
+        {
+            "title": "Vegetable Market in Amsterdam",
+            "date": "1661-62",
+            "technique": "Oil on canvas 97 x 813 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/2/v_market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26356
+        },
+        {
+            "title": "Portrait of Jan Jacobsz. Hinlopen and His Family",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 72 x 79 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/metsu/2/valckeni.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 26357
+        },
+        {
+            "title": "Virginal Player",
+            "date": "c. 1661",
+            "technique": "Oil on wood 32 x 24 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/metsu/2/virginal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26358
+        },
+        {
+            "title": "Visit of the Physician",
+            "date": "1660-67",
+            "technique": "Oil on canvas 61 x 48 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/metsu/2/visit.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26359
+        },
+        {
+            "title": "Woman Tuning a Mandolin",
+            "date": "1660-65",
+            "technique": "Oil on wood 31 x 28 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/metsu/2/woman_ma.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26360
+        },
+        {
+            "title": "Man Writing a Letter",
+            "date": "1662-65",
+            "technique": "Oil on panel 53 x 40 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/m/metsu/2/writing1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 26361
+        },
+        {
+            "title": "Woman Reading a Letter",
+            "date": "1662-65",
+            "technique": "Oil on panel 53 x 40 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/m/metsu/2/writing2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 26362
+        },
+        {
+            "title": "Woman Figure",
+            "date": "-",
+            "technique": "Pen 257 x 135 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/m/metsu/2/z_woman.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 26363
+        }
+    ]
+}

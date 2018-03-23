@@ -1,0 +1,98 @@
+{
+    "name": "MASTER of Saint Cecilia",
+    "life": "(active 1300-1320 in Florence)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Saint Cecilia Altarpiece",
+            "date": "c. 1304",
+            "technique": "Tempera on wood 85 x 181 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/cecilia/cecilia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24874
+        },
+        {
+            "title": "Saint Cecilia Altarpiece (detail)",
+            "date": "c. 1304",
+            "technique": "Tempera on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/cecilia/cecilia1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24875
+        },
+        {
+            "title": "Saint Cecilia Altarpiece (detail)",
+            "date": "c. 1304",
+            "technique": "Tempera on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/cecilia/cecilia2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24876
+        },
+        {
+            "title": "Legend of St Francis: Scenes Nos. 26-28",
+            "date": "c. 1300",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/m/master/cecilia/franc2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24877
+        },
+        {
+            "title": "Legend of St Francis: 26. The Healing of a Devotee of the Saint",
+            "date": "c. 1300",
+            "technique": "Fresco 270 x 230 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/m/master/cecilia/franc26.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24878
+        },
+        {
+            "title": "Legend of St Francis: 27. Confession of a Woman Raised from the Dead",
+            "date": "1300",
+            "technique": "Fresco 270 x 230 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/m/master/cecilia/franc27.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24879
+        },
+        {
+            "title": "Legend of St Francis: 28. Liberation of the Repentant Heretic",
+            "date": "1300",
+            "technique": "Fresco 270 x 230 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/m/master/cecilia/franc28.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24880
+        },
+        {
+            "title": "Legend of St Francis: 28. Liberation of the Repentant Heretic (detail)",
+            "date": "1300",
+            "technique": "Fresco 270 x 230 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/m/master/cecilia/frand28.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24881
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1300-20",
+            "technique": "Tempera on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/cecilia/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24882
+        }
+    ]
+}

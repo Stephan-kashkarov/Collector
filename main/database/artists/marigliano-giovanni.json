@@ -1,0 +1,38 @@
+{
+    "name": "MARIGLIANO Giovanni",
+    "life": "(b. ca. 1488 Napoli d. 1558 Napoli)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Monument of Don Pedro of Toledo",
+            "date": "after 1544",
+            "technique": "Marble",
+            "location": "San Giacomo degli Spagnuoli Naples",
+            "url": "https://www.wga.hu/html/m/mariglia/donpedro.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24246
+        },
+        {
+            "title": "Monument of Don Pedro of Toledo (detail)",
+            "date": "after 1544",
+            "technique": "Marble",
+            "location": "San Giacomo degli Spagnoli Naples",
+            "url": "https://www.wga.hu/html/m/mariglia/donpedrx.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 24247
+        },
+        {
+            "title": "High Altar",
+            "date": "c. 1530",
+            "technique": "Marble",
+            "location": "San Lorenzo Maggiore Naples",
+            "url": "https://www.wga.hu/html/m/mariglia/highalta.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24248
+        }
+    ]
+}

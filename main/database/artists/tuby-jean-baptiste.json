@@ -1,0 +1,58 @@
+{
+    "name": "TUBY Jean-Baptiste",
+    "life": "(b. 1635 Roma d. 1700 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Apollo Fountain",
+            "date": "1671",
+            "technique": "Lead formerly gilded",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/t/tuby/apollo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40225
+        },
+        {
+            "title": "Apollo Fountain (detail)",
+            "date": "1671",
+            "technique": "Lead formerly gilded",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/t/tuby/apollo1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40226
+        },
+        {
+            "title": "Flora or Spring Fountain",
+            "date": "1672-79",
+            "technique": "Lead and gilt",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/t/tuby/flora.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40227
+        },
+        {
+            "title": "Funeral Monument of Mazarin",
+            "date": "1692",
+            "technique": "Marble and bronze",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/t/tuby/mazarin.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 40228
+        },
+        {
+            "title": "The Rhone",
+            "date": "c. 1685",
+            "technique": "Bronze",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/t/tuby/rhone.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40229
+        }
+    ]
+}

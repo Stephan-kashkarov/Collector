@@ -1,0 +1,28 @@
+{
+    "name": "LEBAS Louis Hippolyte",
+    "life": "(b. 1782 Paris d. 1867 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1823-36",
+            "technique": "Photo",
+            "location": "Notre-Dame-de-Lorette Paris",
+            "url": "https://www.wga.hu/html/l/lebas/lorette1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21784
+        },
+        {
+            "title": "Interior view",
+            "date": "1823-36",
+            "technique": "Photo",
+            "location": "Notre-Dame-de-Lorette Paris",
+            "url": "https://www.wga.hu/html/l/lebas/lorette2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21785
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "BARATTA Giovanni di Isidoro",
+    "life": "(b. 1670 Carrara d. 1747 Carrara)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bust of a Youth",
+            "date": "1697-1700",
+            "technique": "Marble height 79 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/baratta/giovanni/bust.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 3150
+        },
+        {
+            "title": "Tobias and the Angel",
+            "date": "1697-98",
+            "technique": "Marble",
+            "location": "Santo Spirito Florence",
+            "url": "https://www.wga.hu/html/b/baratta/giovanni/tobias_a.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 3151
+        }
+    ]
+}

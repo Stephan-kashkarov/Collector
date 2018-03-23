@@ -1,0 +1,38 @@
+{
+    "name": "RICHARD Fleury-Fran\u00e7ois",
+    "life": "(b. 1777 Lyon d. 1852 Ecully)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Montaigne and Tasso",
+            "date": "1821",
+            "technique": "Oil on canvas 130 x 100 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/r/richard/mo_tasso.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 34346
+        },
+        {
+            "title": "Valentine of Milan Mourning her Husband the Duke of Orl\u00e9ans",
+            "date": "1802",
+            "technique": "Oil on canvas 55 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/richard/mourning.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34347
+        },
+        {
+            "title": "Death of the Prince de Talmont",
+            "date": "1823",
+            "technique": "Oil on canvas 82 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/richard/talmont.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 34348
+        }
+    ]
+}

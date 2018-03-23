@@ -1,0 +1,78 @@
+{
+    "name": "M\u00caNE Pierre-Jules",
+    "life": "(b. 1810 Paris d. 1879 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "A Horse by a Fence",
+            "date": "1846",
+            "technique": "Bronze 33 x 31 x 12 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/a_horse.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26211
+        },
+        {
+            "title": "Winner of the Derby",
+            "date": "1863",
+            "technique": "Bronze 41 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/derby1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26212
+        },
+        {
+            "title": "Winner of the Derby",
+            "date": "1863",
+            "technique": "Bronze 41 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/derby2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26213
+        },
+        {
+            "title": "The Embrace",
+            "date": "-",
+            "technique": "Bronze 34 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/embrace.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26214
+        },
+        {
+            "title": "Ibrahim",
+            "date": "-",
+            "technique": "Bronze 32 x 28 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/ibrahim.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26215
+        },
+        {
+            "title": "A Lady on Horseback",
+            "date": "1865",
+            "technique": "Bronze height 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/ladyhors.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26216
+        },
+        {
+            "title": "A Mare and Foal",
+            "date": "-",
+            "technique": "Bronze height 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mene/marefoal.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 26217
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "name": "JONES Inigo",
+    "life": "(b. 1573 London d. 1652 London)",
+    "school": "English",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Queen's House",
+            "date": "1616-19",
+            "technique": "Photo",
+            "location": "Greenwich",
+            "url": "https://www.wga.hu/html/j/jones_in/queens1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20659
+        },
+        {
+            "title": "Queen's House",
+            "date": "1616-19",
+            "technique": "Photo",
+            "location": "Greenwich",
+            "url": "https://www.wga.hu/html/j/jones_in/queens2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20660
+        },
+        {
+            "title": "Queen's House",
+            "date": "1616-19",
+            "technique": "Photo",
+            "location": "Greenwich",
+            "url": "https://www.wga.hu/html/j/jones_in/queens3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20661
+        },
+        {
+            "title": "Proscenium stage",
+            "date": "1600-10",
+            "technique": "Drawing",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/j/jones_in/stage.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20662
+        },
+        {
+            "title": "Exterior view",
+            "date": "1619-22",
+            "technique": "Photo",
+            "location": "Banqueting House Whitehall London",
+            "url": "https://www.wga.hu/html/j/jones_in/whiteha1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20663
+        },
+        {
+            "title": "Interior view",
+            "date": "1619-22",
+            "technique": "Photo",
+            "location": "Banqueting House Whitehall London",
+            "url": "https://www.wga.hu/html/j/jones_in/whiteha2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 20664
+        },
+        {
+            "title": "Interior view",
+            "date": "1619-22",
+            "technique": "Photo",
+            "location": "Banqueting House Whitehall London",
+            "url": "https://www.wga.hu/html/j/jones_in/whiteha3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 20665
+        },
+        {
+            "title": "Exterior view",
+            "date": "1632-47",
+            "technique": "Photo",
+            "location": "Wilton House Wilton Wiltshire",
+            "url": "https://www.wga.hu/html/j/jones_in/wilton1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20666
+        },
+        {
+            "title": "Exterior view",
+            "date": "1632-47",
+            "technique": "Photo",
+            "location": "Wilton House Wilton Wiltshire",
+            "url": "https://www.wga.hu/html/j/jones_in/wilton2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20667
+        },
+        {
+            "title": "Interior view",
+            "date": "1632-47",
+            "technique": "Photo",
+            "location": "Wilton House Wilton Wiltshire",
+            "url": "https://www.wga.hu/html/j/jones_in/wilton3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 20668
+        }
+    ]
+}

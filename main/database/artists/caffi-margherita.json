@@ -1,0 +1,28 @@
+{
+    "name": "CAFFI Margherita",
+    "life": "(b. ca. 1650 Vicenza d. 1710 Milano)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life of Flowers in a Gilded Vase",
+            "date": "-",
+            "technique": "Oil on canvas 108 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caffi_m/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6957
+        },
+        {
+            "title": "Still-Life with a Vase of Flower",
+            "date": "-",
+            "technique": "Oil on canvas 109 x 136 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caffi_m/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6958
+        }
+    ]
+}

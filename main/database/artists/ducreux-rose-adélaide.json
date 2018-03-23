@@ -1,0 +1,38 @@
+{
+    "name": "DUCREUX Rose-Ad\u00e9laide",
+    "life": "(b. 1761 Paris d. 1802 Santo Domingo)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Self-Portrait with a Harp",
+            "date": "1791",
+            "technique": "Oil on canvas 193 x 129 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/ducreux/1selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12349
+        },
+        {
+            "title": "Self-Portrait with a Harp (detail)",
+            "date": "1791",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/ducreux/2selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12350
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1790s",
+            "technique": "Oil on canvas 194 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/ducreux/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12351
+        }
+    ]
+}

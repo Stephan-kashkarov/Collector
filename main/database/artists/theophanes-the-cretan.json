@@ -1,0 +1,28 @@
+{
+    "name": "THEOPHANES the Cretan",
+    "life": "(active 1527-1559)",
+    "school": "Greek",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Ascension",
+            "date": "1546",
+            "technique": "Egg tempera on wood 54 x 39 cm",
+            "location": "Stavronikita Monastery Mount Athos",
+            "url": "https://www.wga.hu/html/t/theophax/ascensio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38761
+        },
+        {
+            "title": "St Paul",
+            "date": "1546",
+            "technique": "Wood egg tempera 615 x 50 cm",
+            "location": "Stavronikita Monastery Mount Athos",
+            "url": "https://www.wga.hu/html/t/theophax/st_paul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38762
+        }
+    ]
+}

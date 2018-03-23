@@ -1,0 +1,58 @@
+{
+    "name": "BADALOCCHIO Sisto",
+    "life": "(b. 1585 Parma d. ca. 1619 Parma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Dead Christ",
+            "date": "-",
+            "technique": "Oil on panel 20 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/badalocc/dead_chr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2931
+        },
+        {
+            "title": "The Entombment of Christ",
+            "date": "c. 1610",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/badalocc/entombme.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2932
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1610",
+            "technique": "Oil on panel 81.3 x 57 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/b/badalocc/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2933
+        },
+        {
+            "title": "Mars and Venus",
+            "date": "1610-12",
+            "technique": "Oil on canvas 84 x 120 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "url": "https://www.wga.hu/html/b/badalocc/marsvenu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 2934
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "c. 1609",
+            "technique": "Oil on canvas 1623 x 1114 cm",
+            "location": "Ringling Museum of Art Sarasota",
+            "url": "https://www.wga.hu/html/b/badalocc/susanna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2935
+        }
+    ]
+}

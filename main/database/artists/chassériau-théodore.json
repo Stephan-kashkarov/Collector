@@ -1,0 +1,128 @@
+{
+    "name": "CHASS\u00c9RIAU Th\u00e9odore",
+    "life": "(b. 1819 Sainte-Barbe de Samana d. 1856 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Andromeda and the Nereids",
+            "date": "1840",
+            "technique": "Oil on canvas 92 x 74 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/andromed.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8723
+        },
+        {
+            "title": "Desdemona Retiring to her Bed",
+            "date": "1849",
+            "technique": "Oil on canvas 42 x 32 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/desdemon.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 8724
+        },
+        {
+            "title": "The Toilet of Esther",
+            "date": "1841",
+            "technique": "Oil on canvas 455 x 355 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/esther.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8725
+        },
+        {
+            "title": "Medea about to Kill her Children",
+            "date": "1846-50",
+            "technique": "Oil on paper laid down on canvas 34 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/chasseri/medea.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8726
+        },
+        {
+            "title": "Orientalist Interior: Nude in a Harem",
+            "date": "1850-52",
+            "technique": "Oil on panel 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/chasseri/oriental.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 8727
+        },
+        {
+            "title": "Peace",
+            "date": "1844-48",
+            "technique": "Oil on canvas 340 x 362 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/peace.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 8728
+        },
+        {
+            "title": "Reverend Father Dominique Lacordaire",
+            "date": "1840",
+            "technique": "Oil on canvas 146 x 107 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/reverend.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8729
+        },
+        {
+            "title": "Sappho Leaping into the Sea from the Leucadian Promontory",
+            "date": "c. 1840",
+            "technique": "Watercolour over graphite 370 x 228 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/sappho.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 8730
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1835",
+            "technique": "Oil on canvas 99 x 82 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8731
+        },
+        {
+            "title": "The Artist's Sisters",
+            "date": "1843",
+            "technique": "Oil on canvas 180 x 135 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/sisters.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8732
+        },
+        {
+            "title": "The Tepidarium",
+            "date": "1853",
+            "technique": "Oil on canvas 171 x 258 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/tepidari.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 8733
+        },
+        {
+            "title": "The Tepidarium (detail)",
+            "date": "1853",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/chasseri/tepidarx.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 8734
+        }
+    ]
+}

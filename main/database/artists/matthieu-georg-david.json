@@ -1,0 +1,38 @@
+{
+    "name": "MATTHIEU Georg David",
+    "life": "(b. 1737 Berlin d. 1778 Ludwigslust)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Friedrich der Fromme",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/matthieu/fromme.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25268
+        },
+        {
+            "title": "Joachim Ulrich Giese",
+            "date": "1762-64",
+            "technique": "Oil on canvas 142 x 106 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/matthieu/giese1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25269
+        },
+        {
+            "title": "The Wife of Joachim Ulrich Giese",
+            "date": "1762-64",
+            "technique": "Oil on canvas 142 x 106 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/matthieu/giese2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 25270
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "OEVER Hendrick ten",
+    "life": "(b. 1639 Zwolle d. 1716 Zwolle)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Canal Landscape with Figures Bathing",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 87 cm",
+            "location": "Art Collection University of Edinburgh Edinburgh",
+            "url": "https://www.wga.hu/html/o/oever/canaland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29773
+        },
+        {
+            "title": "Landscape with Urn",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 52 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/oever/land_urn.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29774
+        }
+    ]
+}

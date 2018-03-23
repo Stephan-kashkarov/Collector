@@ -1,0 +1,58 @@
+{
+    "name": "HERRERA Juan de",
+    "life": "(b. 1530 Mobell\u00e1n d. 1597 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1563-84",
+            "technique": "Photo",
+            "location": "San Lorenzo de El Escorial",
+            "url": "https://www.wga.hu/html/h/herreraj/escoria1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19628
+        },
+        {
+            "title": "Perspective view of San Lorenzo de El Escorial",
+            "date": "1587",
+            "technique": "Engraving",
+            "location": "Real Biblioteca Madrid",
+            "url": "https://www.wga.hu/html/h/herreraj/escorial.html",
+            "form": "architecture",
+            "painting_type": "landscape",
+            "index": 19629
+        },
+        {
+            "title": "Exterior view",
+            "date": "after 1595",
+            "technique": "Photo",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/h/herreraj/vallado1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19630
+        },
+        {
+            "title": "Exterior view",
+            "date": "after 1595",
+            "technique": "Photo",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/h/herreraj/vallado2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19631
+        },
+        {
+            "title": "Interior view",
+            "date": "after 1585",
+            "technique": "Photo",
+            "location": "Cathedral Valladolid",
+            "url": "https://www.wga.hu/html/h/herreraj/vallado3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 19632
+        }
+    ]
+}

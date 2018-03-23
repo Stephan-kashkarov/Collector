@@ -1,0 +1,68 @@
+{
+    "name": "SAFONT Marc",
+    "life": "(1385-1458)",
+    "school": "Catalan",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1425",
+            "technique": "Photo",
+            "location": "Palau de la Generalitat Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/general1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35955
+        },
+        {
+            "title": "Interior view",
+            "date": "1425",
+            "technique": "Photo",
+            "location": "Palau de la Generalitat Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/general2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 35956
+        },
+        {
+            "title": "Interior view",
+            "date": "1425",
+            "technique": "Photo",
+            "location": "Palau de la Generalitat Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/general3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 35957
+        },
+        {
+            "title": "Interior view",
+            "date": "1425",
+            "technique": "Photo",
+            "location": "Palau de la Generalitat Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/general4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 35958
+        },
+        {
+            "title": "Exterior view",
+            "date": "1432-34",
+            "technique": "Photo",
+            "location": "Capella de Sant Jordi Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/stjordi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35959
+        },
+        {
+            "title": "Exterior view",
+            "date": "1432-34",
+            "technique": "Photo",
+            "location": "Capella de Sant Jordi Barcelona",
+            "url": "https://www.wga.hu/html/s/safont/stjordi2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35960
+        }
+    ]
+}

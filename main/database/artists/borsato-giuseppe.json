@@ -1,0 +1,48 @@
+{
+    "name": "BORSATO Giuseppe",
+    "life": "(b. 1770 Venezia d. 1849 Venezia)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Commemoration of Canova in the Scuola Grande della Carit\u00e0",
+            "date": "1822",
+            "technique": "Oil on canvas",
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "url": "https://www.wga.hu/html/b/borsato/canova.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 5161
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/borsato/reale1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 5162
+        },
+        {
+            "title": "Wall decoration",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/borsato/reale2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 5163
+        },
+        {
+            "title": "Napoleon I Presiding over a Regatta in Venice in 1807",
+            "date": "1807",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/b/borsato/regatta.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 5164
+        }
+    ]
+}

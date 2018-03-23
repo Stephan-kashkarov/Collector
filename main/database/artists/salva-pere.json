@@ -1,0 +1,28 @@
+{
+    "name": "SALVA Pere",
+    "life": "(active 1300-1320 in Majorca)",
+    "school": "Spanish",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1300-11",
+            "technique": "Photo",
+            "location": "Palacio Real de La Almudaina Palma de Mallorca",
+            "url": "https://www.wga.hu/html/s/salva/almudain.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36043
+        },
+        {
+            "title": "View of the courtyard",
+            "date": "1309-14",
+            "technique": "Photo",
+            "location": "Castell Bellver Palma de Mallorca",
+            "url": "https://www.wga.hu/html/s/salva/castell.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36044
+        }
+    ]
+}

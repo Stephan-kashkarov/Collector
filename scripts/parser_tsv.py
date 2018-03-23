@@ -61,7 +61,7 @@ def make_art(art_cache, title, date, technique, location, url, form, painting_ty
 
 
 art_index = 0
-with open('../data/artist_lite.csv', newline='\n', encoding='utf-8') as f:
+with open('../data/artistcsvdata.csv', newline='\n', encoding='utf-8') as f:
 	data = f.read()
 	lines = data.split('\r\n')
 

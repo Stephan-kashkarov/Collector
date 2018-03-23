@@ -1,0 +1,218 @@
+{
+    "name": "UNKNOWN CABINETMAKER Italian",
+    "life": "(active 14th century in Siena)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Cassone",
+            "date": "14th century",
+            "technique": "Gilded wood 64 x 160 x 56 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_0cass.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40484
+        },
+        {
+            "title": "Cassone",
+            "date": "15th century",
+            "technique": "Gilded wood 64 x 186 x 63 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_1cass.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40485
+        },
+        {
+            "title": "Strozzi Nuptial Chest",
+            "date": "1400-50",
+            "technique": "Wood and painted parchment 45 x 160 x 47 cm",
+            "location": "Carlotta Bruschi Collection Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_1ches.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40486
+        },
+        {
+            "title": "Cassone with painted front panel",
+            "date": "c. 1460",
+            "technique": "Tempera on panel 38 x 130 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_1chex.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40487
+        },
+        {
+            "title": "Wedding Chest",
+            "date": "c. 1480",
+            "technique": "Painted wood",
+            "location": "Museo Horne Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_1chey.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40488
+        },
+        {
+            "title": "Books and scientific instruments",
+            "date": "c. 1476",
+            "technique": "Wood intarsia",
+            "location": "Palazzo Ducale Urbino",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_2book.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40489
+        },
+        {
+            "title": "Polygonal-Shaped Chair",
+            "date": "c. 1500",
+            "technique": "Pinewood with walnut framewwork 70 x 60 x 50 cm",
+            "location": "Museo Horne Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_2chai.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40490
+        },
+        {
+            "title": "Chest with Footboard",
+            "date": "1500s",
+            "technique": "Wood 100 x 238 x 91 cm",
+            "location": "Eredit\u00e0 Bardini Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_3ches.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40491
+        },
+        {
+            "title": "Stool with Strozzi Coat-of-Arms",
+            "date": "1500s",
+            "technique": "Carved and inlaid walnut height 128 cm",
+            "location": "Museo Horne Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_4stoo.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40492
+        },
+        {
+            "title": "\"\"Savonarola\"\" Chair\"1550-1600\"Carved walnut 68 x 68 x 58 cm",
+            "date": "Museo Bardini Florence",
+            "technique": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_5chai.html",
+            "location": "furniture",
+            "url": "other",
+            "form": "Italian",
+            "painting_type": "1551-1600",
+            "index": 40493
+        },
+        {
+            "title": "Small credenza",
+            "date": "16th century",
+            "technique": "Inlaid walnut 105 x 97 x 40 cm",
+            "location": "Eredit\u00e0 Bardini Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/0i_6cred.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40494
+        },
+        {
+            "title": "Cabinet",
+            "date": "c. 1619",
+            "technique": "Pinewood veneered with ebonit incised ivory 68 x 96 x 62 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_1cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40495
+        },
+        {
+            "title": "Cabinet (detail)",
+            "date": "c. 1619",
+            "technique": "Pinewood veneered with ebonit incised ivory",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_2cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40496
+        },
+        {
+            "title": "Cabinet",
+            "date": "c. 1619",
+            "technique": "Pinewood veneered with ebonit incised ivory 68 x 96 x 62 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_3cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40497
+        },
+        {
+            "title": "Cabinet (detail)",
+            "date": "c. 1619",
+            "technique": "Pinewood veneered with ebonit incised ivory",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_4cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40498
+        },
+        {
+            "title": "Armchair",
+            "date": "c. 1650",
+            "technique": "Walnut carved and partially gilded stamped and partially gilded leather 140 x 63 x 55 cm",
+            "location": "Museo degli Argenti Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_5arm.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40499
+        },
+        {
+            "title": "Cabinet with Semiprecious Stone inlays",
+            "date": "1650-75",
+            "technique": "Ebony hard stones and gilt bronze 218 x 50 x 124 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_6cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40500
+        },
+        {
+            "title": "Cabinet with Semiprecious Stone inlays (detail)",
+            "date": "1650-75",
+            "technique": "Ebony hard stones and gilt bronze",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_7cabi.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40501
+        },
+        {
+            "title": "Console table",
+            "date": "c. 1730",
+            "technique": "Lime coniferous wood gilded marbled 92 x 184 x 74 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_8con.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40502
+        },
+        {
+            "title": "Console table (detail)",
+            "date": "c. 1730",
+            "technique": "Lime coniferous wood gilded marbled",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_8con1.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40503
+        },
+        {
+            "title": "Console",
+            "date": "1800-05",
+            "technique": "Carved and gilded wood 91 x 179 x 83 cm",
+            "location": "Museo di Palazzo Martelli Florence",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/1/1i_9cons.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40504
+        }
+    ]
+}

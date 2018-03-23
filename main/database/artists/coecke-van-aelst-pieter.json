@@ -1,0 +1,128 @@
+{
+    "name": "COECKE VAN AELST Pieter",
+    "life": "(b. 1502 Aelst d. 1550 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Triptych: Adoration of the Magi",
+            "date": "-",
+            "technique": "Oil on panel 89 x 57 cm (central) 89 x 25 cm (each wing)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coecke/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9227
+        },
+        {
+            "title": "Agony in the Garden",
+            "date": "1527-30",
+            "technique": "Oil on panel 83 x 57 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/coecke/agony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9228
+        },
+        {
+            "title": "Descent from the Cross",
+            "date": "c. 1535",
+            "technique": "Oil on panel 119 x 170 cm",
+            "location": "Amstelkring Museum Amsterdam",
+            "url": "https://www.wga.hu/html/c/coecke/descent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9229
+        },
+        {
+            "title": "Last Supper",
+            "date": "1531",
+            "technique": "Oil on panel 75 x 82 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/c/coecke/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9230
+        },
+        {
+            "title": "Altarpiece of the Passion",
+            "date": "1532-35",
+            "technique": "Panel 225 x 107 cm (wings)",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/c/coecke/passion.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9231
+        },
+        {
+            "title": "Holy Trinity",
+            "date": "-",
+            "technique": "Oil on panel 98 x 84 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coecke/trinity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9232
+        },
+        {
+            "title": "Triptych",
+            "date": "1530-40s",
+            "technique": "Oil on panel 81 x 127 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/coecke/triptyc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9233
+        },
+        {
+            "title": "Triptych",
+            "date": "1530s",
+            "technique": "Oil on panel 105 x 68 cm (central) 105 x 28 cm (each wing)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coecke/triptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9234
+        },
+        {
+            "title": "Christ and His Disciples on Their Way to Emmaus",
+            "date": "-",
+            "technique": "Oil on panel 68 x 87 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/coecke/wayemmau.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9235
+        },
+        {
+            "title": "Abraham and Isaac",
+            "date": "1535-40",
+            "technique": "Pen brown ink black chalk 235 x 386 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/coecke/zabraham.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9236
+        },
+        {
+            "title": "Turkish Sultan before the Hippodrome (detail)",
+            "date": "1553",
+            "technique": "Woodcut 295 x 831 mm (entire woodcut)",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/coecke/zturkish.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 9237
+        },
+        {
+            "title": "The Triumph of Fame",
+            "date": "1640s",
+            "technique": "Pen in black and brown-grey diameter 284 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/coecke/zstained.html",
+            "form": "stained-glass",
+            "painting_type": "other",
+            "index": 9238
+        }
+    ]
+}

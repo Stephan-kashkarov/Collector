@@ -1,0 +1,28 @@
+{
+    "name": "MIERIS Jan van",
+    "life": "(b. 1660 Leiden d. 1690 Roma)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Cavalier Seated at a Table",
+            "date": "1681",
+            "technique": "Oil on panel 25 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mieris/jan/cavalier.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27092
+        },
+        {
+            "title": "Elegant Lady with a Mirror",
+            "date": "-",
+            "technique": "Oil on panel 23 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mieris/jan/ladymirr.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 27093
+        }
+    ]
+}

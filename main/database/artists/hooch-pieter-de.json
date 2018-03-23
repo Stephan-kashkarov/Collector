@@ -1,0 +1,468 @@
+{
+    "name": "HOOCH Pieter de",
+    "life": "(b. 1629 Rotterdam d. 1684 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Empty Glass",
+            "date": "1653-54",
+            "technique": "Oil on panel 44 x 35 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/h/hooch/1/01hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20080
+        },
+        {
+            "title": "Two Soldiers and a Serving Woman with a Trumpeter",
+            "date": "1654-55",
+            "technique": "Oil on panel 76 x 66 cm",
+            "location": "Kunsthaus Zurich",
+            "url": "https://www.wga.hu/html/h/hooch/1/02hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20081
+        },
+        {
+            "title": "Man Offering a Glass of Wine to a Woman",
+            "date": "c. 1653",
+            "technique": "Oil on panel 53 x 42 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hooch/1/03hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20082
+        },
+        {
+            "title": "Woman Peeling Vegetables in the Back Room of a Dutch House",
+            "date": "c. 1657",
+            "technique": "Oil on canvas 60 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hooch/2/10hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20083
+        },
+        {
+            "title": "The Visit",
+            "date": "c. 1657",
+            "technique": "Oil on wood 68 x 58 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/2/11hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20084
+        },
+        {
+            "title": "The Visit (detail)",
+            "date": "c. 1657",
+            "technique": "Oil on wood",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/2/11hoock.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20085
+        },
+        {
+            "title": "Soldiers Playing Cards",
+            "date": "1657-58",
+            "technique": "Oil on panel 51 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hooch/2/12hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20086
+        },
+        {
+            "title": "A Woman and Two Men in an Arbour",
+            "date": "1657-58",
+            "technique": "Oil on wood 44 x 38 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/2/12hoock.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20087
+        },
+        {
+            "title": "Woman and Her Maid",
+            "date": "c. 1657",
+            "technique": "Oil on canvas 53 x 42 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hooch/2/13hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20088
+        },
+        {
+            "title": "The Courtyard of a House in Delft",
+            "date": "1658",
+            "technique": "Oil on canvas 73 x 60 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hooch/2/14hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20089
+        },
+        {
+            "title": "Figures Drinking in a Courtyard",
+            "date": "1658",
+            "technique": "Oil on canvas 68 x 58 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/h/hooch/2/15hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20090
+        },
+        {
+            "title": "Paying the Hostess",
+            "date": "1658",
+            "technique": "Oil on canvas 71 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hooch/2/17hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20091
+        },
+        {
+            "title": "Cardplayers in a Sunlit Room",
+            "date": "1658",
+            "technique": "Oil on canvas 762 x 661 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/h/hooch/2/18hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20092
+        },
+        {
+            "title": "Young Woman Drinking",
+            "date": "1658",
+            "technique": "Oil on canvas 69 x 60 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hooch/2/19hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20093
+        },
+        {
+            "title": "A Woman with a Baby in Her Lap and a Small Child",
+            "date": "1658",
+            "technique": "Oil on panel 60 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hooch/2/20hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20094
+        },
+        {
+            "title": "A Woman Drinking with Two Men",
+            "date": "c. 1658",
+            "technique": "Oil on canvas 737 x 646",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hooch/2/21hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20095
+        },
+        {
+            "title": "The Bedroom",
+            "date": "1658-60",
+            "technique": "Oil on canvas 508 x 61 cm",
+            "location": "Staatliche Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/h/hooch/2/22hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20096
+        },
+        {
+            "title": "Portrait of a Family in a Courtyard in Delft",
+            "date": "c. 1658",
+            "technique": "Oil on canvas 113 x 97 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/hooch/2/23hooch.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20097
+        },
+        {
+            "title": "Portrait of a Family in a Courrtyard in Delft (detail)",
+            "date": "1658-60",
+            "technique": "Oil on canvas",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/hooch/2/23hooch1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20098
+        },
+        {
+            "title": "A Woman Nursing an Infant with a Child and a Dog",
+            "date": "1658-60",
+            "technique": "Oil on canvas 68 x 56 cm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/h/hooch/2/24hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20099
+        },
+        {
+            "title": "Mother Lacing Her Bodice beside a Cradle",
+            "date": "1659-60",
+            "technique": "Oil on canvas 92 x 100 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hooch/2/25hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20100
+        },
+        {
+            "title": "A Dutch Courtyard",
+            "date": "1659-60",
+            "technique": "Oil on canvas 70 x 60 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hooch/2/26hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20101
+        },
+        {
+            "title": "A Dutch Courtyard (detail)",
+            "date": "1659-60",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/h/hooch/2/27hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20102
+        },
+        {
+            "title": "The Morning of a Young Man",
+            "date": "-",
+            "technique": "Oil on wood 40 x 53 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/h/hooch/2/28hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20103
+        },
+        {
+            "title": "The Mother",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 53 x 61 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hooch/2/29hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20104
+        },
+        {
+            "title": "Woman and Maid in a Courtyard",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 737 x 626 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hooch/2/30hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20105
+        },
+        {
+            "title": "Maid with a Broom and a Pail in a Sunlit Courtyard",
+            "date": "1660-61",
+            "technique": "Oil on canvas 48 x 42 cm",
+            "location": "Staatliche Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/h/hooch/2/31hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20106
+        },
+        {
+            "title": "Woman Peeling Apples",
+            "date": "c. 1663",
+            "technique": "Oil on canvas 71 x 54 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/h/hooch/3/41hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20107
+        },
+        {
+            "title": "Interior with Figures",
+            "date": "1663-65",
+            "technique": "Oil on canvas 58 x 69 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/3/42hooch.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20108
+        },
+        {
+            "title": "The Card-Players",
+            "date": "1663-65",
+            "technique": "Oil on canvas 67 x 77 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/hooch/3/43hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20109
+        },
+        {
+            "title": "Woman Reading a Letter",
+            "date": "1664",
+            "technique": "Oil on canvas 55 x 55 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hooch/3/44hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20110
+        },
+        {
+            "title": "Interior with a Young Couple",
+            "date": "1662-66",
+            "technique": "Oil on canvas 55 x 63 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/3/44hoock.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20111
+        },
+        {
+            "title": "Village House",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 61 x 47 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hooch/3/45hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20112
+        },
+        {
+            "title": "Village House (detail)",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 61 x 47 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hooch/3/46hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20113
+        },
+        {
+            "title": "The Council Chamber in Amsterdam Town Hall",
+            "date": "1661-70",
+            "technique": "Oil on canvas 113 x 99 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/h/hooch/3/46hoock.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20114
+        },
+        {
+            "title": "Mother and Child by a Cradle",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 54 x 65 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/h/hooch/3/46hoocl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20115
+        },
+        {
+            "title": "Company Making Music",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/h/hooch/3/47hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20116
+        },
+        {
+            "title": "At the Linen Closet",
+            "date": "1665",
+            "technique": "Oil on canvas 72 x 775 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hooch/3/48hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20117
+        },
+        {
+            "title": "Couple with Parrot",
+            "date": "1668",
+            "technique": "Oil on canvas 73 x 62 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/h/hooch/3/49hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20118
+        },
+        {
+            "title": "Woman with a Water Pitcher and a Man by a Bed",
+            "date": "1667-70",
+            "technique": "Oil on canvas 62 x 52 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/3/49hoock.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20119
+        },
+        {
+            "title": "Paying the Hostess",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 95 x 111 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/3/50hooca.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20120
+        },
+        {
+            "title": "A Couple Playing Cards with a Serving Woman",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 69 x 58 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hooch/3/50hoocb.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20121
+        },
+        {
+            "title": "Man Reading a Letter to a Woman",
+            "date": "1670-74",
+            "technique": "Oil on canvas 77 x 70 cm",
+            "location": "The Kremer Collection",
+            "url": "https://www.wga.hu/html/h/hooch/3/50hoocc.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20122
+        },
+        {
+            "title": "Card Players at a Table",
+            "date": "1670-74",
+            "technique": "Oil on canvas 107 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hooch/3/50hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20123
+        },
+        {
+            "title": "Suckling Mother and Maid",
+            "date": "1670-75",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/h/hooch/3/51hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20124
+        },
+        {
+            "title": "Musical Party in a Courtyard",
+            "date": "1677",
+            "technique": "Oil on canvas 83.5 x 68.5 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hooch/3/52hooch.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20125
+        }
+    ]
+}

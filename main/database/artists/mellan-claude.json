@@ -1,0 +1,68 @@
+{
+    "name": "MELLAN Claude",
+    "life": "(b. 1598 Abbeville d. 1688 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Frontispiece of a Bible",
+            "date": "1642",
+            "technique": "Engraving 412 x 262 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/mellan/bible.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25916
+        },
+        {
+            "title": "Face of Christ",
+            "date": "1649",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/mellan/facechri.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25917
+        },
+        {
+            "title": "Face of Christ (detail)",
+            "date": "1649",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/mellan/facechrx.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25918
+        },
+        {
+            "title": "Vincenzo Giustiniani",
+            "date": "1631",
+            "technique": "Black chalk and black crayon on paper 241 x 175 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/m/mellan/giustini.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25919
+        },
+        {
+            "title": "Portrait of Louis XIV as a Child",
+            "date": "1644-45",
+            "technique": "Black chalk 210 x 150 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mellan/louis14.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25920
+        },
+        {
+            "title": "Portrait of Henriette-Marie de Buade-Frontenac",
+            "date": "1641",
+            "technique": "Pastel on bluish-grey paper 17 x 14 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mellan/portrait.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25921
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "WHEATLEY Francis",
+    "life": "(b. 1747 London d. 1801 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Fresh Gathered Peas",
+            "date": "1792-95",
+            "technique": "Oil on canvas 88 x 113 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wheatley/freshpea.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44114
+        },
+        {
+            "title": "A Ploughman",
+            "date": "1793",
+            "technique": "Oil on canvas 155 x 216 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wheatley/ploughma.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44115
+        },
+        {
+            "title": "A View of Glen Molaur",
+            "date": "-",
+            "technique": "Oil on canvas 22 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wheatley/viewglen.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44116
+        }
+    ]
+}

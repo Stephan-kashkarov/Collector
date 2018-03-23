@@ -1,0 +1,48 @@
+{
+    "name": "CAMERON Charles",
+    "life": "(b. 1745 London d. 1812 St. Petersburg)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1782-86",
+            "technique": "Photo",
+            "location": "Palace Pavlovsk",
+            "url": "https://www.wga.hu/html/c/cameron/pavlovs1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7084
+        },
+        {
+            "title": "Exterior view",
+            "date": "1780-82",
+            "technique": "Photo",
+            "location": "Temple of Friendship Pavlovsk",
+            "url": "https://www.wga.hu/html/c/cameron/pavlovs2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7085
+        },
+        {
+            "title": "Exterior view",
+            "date": "1783-86",
+            "technique": "Photo",
+            "location": "Cameron Gallery Tsarskoe Selo",
+            "url": "https://www.wga.hu/html/c/cameron/tsarsko1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7086
+        },
+        {
+            "title": "Exterior view",
+            "date": "1783-86",
+            "technique": "Photo",
+            "location": "Cameron Gallery Tsarskoe Selo",
+            "url": "https://www.wga.hu/html/c/cameron/tsarsko2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 7087
+        }
+    ]
+}

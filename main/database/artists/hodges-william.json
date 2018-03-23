@@ -1,0 +1,28 @@
+{
+    "name": "HODGES William",
+    "life": "(b. 1744 London d. 1797 Brixham)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "River Landscape",
+            "date": "c. 1770",
+            "technique": "Oil on canvas 63 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hodges/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19774
+        },
+        {
+            "title": "Tahiti Revisited",
+            "date": "1776",
+            "technique": "Oil on canvas 98 x 138 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/h/hodges/tahiti.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19775
+        }
+    ]
+}

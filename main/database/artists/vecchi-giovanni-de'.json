@@ -1,0 +1,88 @@
+{
+    "name": "VECCHI Giovanni de'",
+    "life": "(b. 1536 Borgo San Sepolcro d. 1614 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/1view.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42155
+        },
+        {
+            "title": "View of the ceiling",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/2mappa1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42156
+        },
+        {
+            "title": "View of the ceiling",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/2mappa2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42157
+        },
+        {
+            "title": "View of the ceiling (detail)",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/2mappa3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42158
+        },
+        {
+            "title": "View of the ceiling (detail)",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/2mappa4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42159
+        },
+        {
+            "title": "View of the ceiling (detail)",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala del Mappamondo Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/2mappa5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42160
+        },
+        {
+            "title": "General view",
+            "date": "1572-74",
+            "technique": "Fresco",
+            "location": "Sala degli Angeli Palazzo Farnese Caprarola",
+            "url": "https://www.wga.hu/html/v/vecchi/3angeli.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42161
+        },
+        {
+            "title": "Carrying the Cross",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/v/vecchi/carrying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 42162
+        }
+    ]
+}

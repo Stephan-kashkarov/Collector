@@ -1,0 +1,48 @@
+{
+    "name": "ASCH Pieter Jansz. van",
+    "life": "(b. 1603 Delft d. 1678 Delft)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Delft City Wall with the Houttuinen",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 53 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/asch/citywall.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2733
+        },
+        {
+            "title": "Landscape",
+            "date": "1635-41",
+            "technique": "Black chalk on vellum 110 x 155 m",
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/a/asch/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 2734
+        },
+        {
+            "title": "River Landscape",
+            "date": "c. 1640",
+            "technique": "Oil on panel 27 x 40 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/asch/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2735
+        },
+        {
+            "title": "Self-portrait",
+            "date": "-",
+            "technique": "Oil on panel 52 x 44 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/asch/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2736
+        }
+    ]
+}

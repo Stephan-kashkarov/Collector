@@ -1,0 +1,68 @@
+{
+    "name": "CELESTI Andrea",
+    "life": "(b. 1637 Venezia d. 1712 Venezia)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "King David Playing the Zither",
+            "date": "-",
+            "technique": "Oil on canvas 135 x 198 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/celesti/davidzit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8323
+        },
+        {
+            "title": "Feast of Belshazzar",
+            "date": "1705",
+            "technique": "Oil on canvas 157 x 203 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/celesti/feast.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8324
+        },
+        {
+            "title": "Presentation of Jesus at the Temple",
+            "date": "c. 1710",
+            "technique": "Oil on canvas 314 x 261 cm",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/c/celesti/presenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8325
+        },
+        {
+            "title": "Queen Jezabel Being Punished by Jehu",
+            "date": "-",
+            "technique": "Oil on canvas 99 x 152 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/celesti/qjezabel.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8326
+        },
+        {
+            "title": "The Virgin and Child with the Infant St John Appearing to St Jerome and St Anthony",
+            "date": "c. 1700",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria dei Derelitti Venice",
+            "url": "https://www.wga.hu/html/c/celesti/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8327
+        },
+        {
+            "title": "Project for a stucco and painted ceiling",
+            "date": "1680s",
+            "technique": "Drawing",
+            "location": "\u00c9cole des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/c/celesti/zproject.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 8328
+        }
+    ]
+}

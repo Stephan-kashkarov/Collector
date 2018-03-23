@@ -1,0 +1,68 @@
+{
+    "name": "CHRISTIAN Johann Josef",
+    "life": "(b. 1706 Riedlingen d. 1777 Riedlingen)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Angel",
+            "date": "c. 1760",
+            "technique": "Stucco",
+            "location": "Benedictine Abbey Ottobeuren",
+            "url": "https://www.wga.hu/html/c/christia/angel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8770
+        },
+        {
+            "title": "Bust of the Prophet Ezekiel",
+            "date": "c. 1764",
+            "technique": "Wood",
+            "location": "Benedictine Abbey Ottobeuren",
+            "url": "https://www.wga.hu/html/c/christia/ezekiel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8771
+        },
+        {
+            "title": "Organ",
+            "date": "1754-56",
+            "technique": "Photo",
+            "location": "Benedictine Abbey Ottobeuren",
+            "url": "https://www.wga.hu/html/c/christia/organ.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8772
+        },
+        {
+            "title": "St Benedict Chanting Psalms (detail of the organ)",
+            "date": "1754-56",
+            "technique": "Wood 213 x 140 cm",
+            "location": "Benedictine Abbey Ottobeuren",
+            "url": "https://www.wga.hu/html/c/christia/organ_d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8773
+        },
+        {
+            "title": "Interior with decoration",
+            "date": "1739-64",
+            "technique": "Photo",
+            "location": "Benedictine Abbey Ottobeuren",
+            "url": "https://www.wga.hu/html/c/christia/ottobeur.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 8774
+        },
+        {
+            "title": "The Prophet Ezekiel",
+            "date": "1752-56",
+            "technique": "Plaster life-size",
+            "location": "Benedictine Abbey Church Zwiefalten",
+            "url": "https://www.wga.hu/html/c/christia/zwiefalt.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8775
+        }
+    ]
+}

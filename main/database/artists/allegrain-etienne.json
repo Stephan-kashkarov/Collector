@@ -1,0 +1,38 @@
+{
+    "name": "ALLEGRAIN Etienne",
+    "life": "(b. 1644 Paris d. 1736 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Landscape with the Finding of Moses",
+            "date": "-",
+            "technique": "Oil on canvas 88 x 115 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/allegrai/etienne/landmose.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 321
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas : 118 x 92 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/a/allegrai/etienne/riverla1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 322
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas : 86 x 136 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/allegrai/etienne/riverla2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 323
+        }
+    ]
+}

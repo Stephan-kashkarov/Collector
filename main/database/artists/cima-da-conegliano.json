@@ -1,0 +1,338 @@
+{
+    "name": "CIMA da Conegliano",
+    "life": "(b. ca. 1459 Conegliano d. 1517/18 Conegliano)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St John the Baptist with Saints",
+            "date": "1491-92",
+            "technique": "Oil on panel 305 x 205 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/01john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8845
+        },
+        {
+            "title": "St John the Baptist with Saints",
+            "date": "1491-92",
+            "technique": "Oil on panel 305 x 205 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/01john1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8846
+        },
+        {
+            "title": "Baptism of Christ",
+            "date": "1493-94",
+            "technique": "Oil on panel 350 x 210 cm",
+            "location": "San Giovanni in Bragora Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/02baptis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8847
+        },
+        {
+            "title": "Madonna of the Orange Tree",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on panel 212 x 139 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/03orang.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8848
+        },
+        {
+            "title": "Madonna of the Orange Tree (detail)",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/03orang1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8849
+        },
+        {
+            "title": "Madonna of the Orange Tree (detail)",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/03orang2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8850
+        },
+        {
+            "title": "Madonna of the Orange Tree (detail)",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/03orang3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8851
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1495",
+            "technique": "Tempera and oil on canvas transferred from wood 136 x 107 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/cima/1/04annun.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8852
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1495",
+            "technique": "Tempera and oil on canvas transferred from wood",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/cima/1/04annun1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8853
+        },
+        {
+            "title": "The Penitent St Jerome in the Wilderness",
+            "date": "c. 1495",
+            "technique": "Oil on panel 70 x 99 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/cima/1/04jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8854
+        },
+        {
+            "title": "The Healing of Anianus",
+            "date": "-",
+            "technique": "Tempera on poplar panel 172 x 135 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/cima/1/06crusad.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8855
+        },
+        {
+            "title": "St Helena",
+            "date": "c. 1495",
+            "technique": "Oil on panel 40 x 32 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/cima/1/07helena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8856
+        },
+        {
+            "title": "The Presentation of the Virgin",
+            "date": "-",
+            "technique": "Wood",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/cima/1/08presen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8857
+        },
+        {
+            "title": "Madonna and Child Enthroned with Saints",
+            "date": "1495-97",
+            "technique": "Poplar panel 206 x 135 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/cima/1/09madons.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8858
+        },
+        {
+            "title": "Madonna and Child Enthroned with Saints",
+            "date": "1496-99",
+            "technique": "Panel 419 x 213 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/1/09madonz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8859
+        },
+        {
+            "title": "Madonna Enthroned with the Child",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Galleria Nazionale Parma",
+            "url": "https://www.wga.hu/html/c/cima/1/10madchi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8860
+        },
+        {
+            "title": "Virgin and Child before a Landscape",
+            "date": "c. 1485",
+            "technique": "Oil on panel",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/c/cima/1/110madon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8861
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1496-99",
+            "technique": "Oil on canvas 65 x 53 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/cima/1/111madon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8862
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1504",
+            "technique": "Tempera on wood 66 x 57 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cima/2/11madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8863
+        },
+        {
+            "title": "St Peter Enthroned with Saints",
+            "date": "-",
+            "technique": "Oil on panel transferred to canvas 156 x 146 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/cima/2/120peter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8864
+        },
+        {
+            "title": "St Peter Martyr with St Nicholas of Bari St Benedict and an Angel Musician",
+            "date": "1504",
+            "technique": "Oil on panel 330 x 216 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/cima/2/12peter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8865
+        },
+        {
+            "title": "St Peter Martyr with St Nicholas of Bari St Benedict and an Angel Musician (detail)",
+            "date": "1504",
+            "technique": "Oil on panel",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/cima/2/12peter1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8866
+        },
+        {
+            "title": "Incredulity of St Thomas with Bishop Magno",
+            "date": "c. 1505",
+            "technique": "Tempera and oil on panel 215 x 151 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/13thomas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8867
+        },
+        {
+            "title": "The Marriage of Bacchus and Ariadne",
+            "date": "c. 1505",
+            "technique": "Panel 28 x 70 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/c/cima/2/14bacch.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8868
+        },
+        {
+            "title": "The Marriage of Bacchus and Ariadne (detail)",
+            "date": "c. 1505",
+            "technique": "Panel",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/c/cima/2/14bacch1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8869
+        },
+        {
+            "title": "St Christopher with the Infant Christ and St Peter",
+            "date": "1504-06",
+            "technique": "Oil on poplar panel 73 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cima/2/14christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8870
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1509-10",
+            "technique": "Panel 300 x 185 cm",
+            "location": "Chiesa dei Carmini Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/15adora.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8871
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "1509-10",
+            "technique": "Panel",
+            "location": "Chiesa dei Carmini Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/15adora1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8872
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "1509-10",
+            "technique": "Panel",
+            "location": "Chiesa dei Carmini Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/15adora2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8873
+        },
+        {
+            "title": "The Madonna and Child with Sts John the Baptist and Mary Magdalen",
+            "date": "1511-13",
+            "technique": "Oil on wood 167 x 110 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cima/2/16madchi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8874
+        },
+        {
+            "title": "David and Jonathan",
+            "date": "1505-10",
+            "technique": "Oil on panel 41 x 39 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/cima/2/17david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8875
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/18corona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8876
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "c. 1500",
+            "technique": "Stained glass",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/c/cima/2/19window.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 8877
+        }
+    ]
+}

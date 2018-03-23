@@ -1,0 +1,38 @@
+{
+    "name": "DIETISALVI DI SPEME",
+    "life": "(active 1250-1291 in Siena)",
+    "school": "Italian",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "The Annunciation",
+            "date": "c. 1260",
+            "technique": "Fresco",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/d/dietisal/crypt1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11523
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1260",
+            "technique": "Fresco",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/d/dietisal/crypt2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11524
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1260-67",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/d/dietisal/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11525
+        }
+    ]
+}

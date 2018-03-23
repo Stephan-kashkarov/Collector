@@ -1,0 +1,28 @@
+{
+    "name": "GRASSER Erasmus",
+    "life": "(b. ca. 1450 Schmidm\u00fchlen d. ca. 1518 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Monument of Doctor Ulrich Aresinger",
+            "date": "1482",
+            "technique": "Marble",
+            "location": "Peterskirche Munich",
+            "url": "https://www.wga.hu/html/g/grasser/aresinge.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 18147
+        },
+        {
+            "title": "Morris Dancer (Bridegroom)",
+            "date": "1480",
+            "technique": "Limewood with modern polychrome height 615 cm",
+            "location": "Stadtmuseum Munich",
+            "url": "https://www.wga.hu/html/g/grasser/morris_d.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 18148
+        }
+    ]
+}

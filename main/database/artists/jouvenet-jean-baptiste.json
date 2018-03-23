@@ -1,0 +1,68 @@
+{
+    "name": "JOUVENET Jean-Baptiste",
+    "life": "(b. 1644 Rouen d. 1717 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Descent from the Cross",
+            "date": "1697",
+            "technique": "Oil on canvas 424 x 312 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jouvenet/descent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20780
+        },
+        {
+            "title": "Dr Raymond Finot",
+            "date": "c. 1704",
+            "technique": "Oil on canvas 73 x 59 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jouvenet/dr_finot.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20781
+        },
+        {
+            "title": "The Education of the Virgin",
+            "date": "1700",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/j/jouvenet/educatio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20782
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1706",
+            "technique": "Oil on canvas 388 x 664 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jouvenet/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20783
+        },
+        {
+            "title": "The Miraculous Draught",
+            "date": "before 1706",
+            "technique": "Oil on canvas 392 x 664 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/j/jouvenet/miraculo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20784
+        },
+        {
+            "title": "Portrait of an Unknown Man",
+            "date": "1700s",
+            "technique": "Oil on canvas 75 x 61 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/j/jouvenet/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20785
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "RUSSI Franco de'",
+    "life": "(active 1453-1482)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Dante: Divina Commedia",
+            "date": "1477-82",
+            "technique": "Manuscript (Urb. lat. 365) 378 x 241 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/r/russi/dante.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 35789
+        },
+        {
+            "title": "Gospels",
+            "date": "1480-82",
+            "technique": "Manuscript (Urb. lat. 10)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/r/russi/gospels1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 35790
+        },
+        {
+            "title": "Gospels",
+            "date": "1480-82",
+            "technique": "Manuscript (Urb. lat. 10)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/r/russi/gospels2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 35791
+        }
+    ]
+}

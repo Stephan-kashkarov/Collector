@@ -1,0 +1,28 @@
+{
+    "name": "BRAY Dirck de",
+    "life": "(active 1651-1678 in Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of Salomon de Bray",
+            "date": "-",
+            "technique": "Woodcut",
+            "location": "-",
+            "url": "https://www.wga.hu/html/b/bray/dirck/salomon.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 5987
+        },
+        {
+            "title": "Still-Life with Symbols of the Virgin Mary",
+            "date": "1672",
+            "technique": "Oil on panel 37 x 31 cm",
+            "location": "Amstelkring Museum Amsterdam",
+            "url": "https://www.wga.hu/html/b/bray/dirck/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 5988
+        }
+    ]
+}

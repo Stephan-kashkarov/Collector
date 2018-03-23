@@ -1,0 +1,28 @@
+{
+    "name": "LANDSEER Charles",
+    "life": "(b. 1799 London d. 1879 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Census of April the 8th 1861",
+            "date": "1861",
+            "technique": "Oil on canvas 99 x 142 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/landseer/charles/census.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 21461
+        },
+        {
+            "title": "Cinderella",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/landseer/charles/cinderel.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21462
+        }
+    ]
+}

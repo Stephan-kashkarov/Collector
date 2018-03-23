@@ -1,0 +1,28 @@
+{
+    "name": "PERROT Antoine Marie",
+    "life": "(b. 1787 Paris d. 1849 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "View outside Florence",
+            "date": "1838",
+            "technique": "Oil on canvas 52 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perrot/view_flo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30743
+        },
+        {
+            "title": "View of the River Arno at Florence",
+            "date": "1837",
+            "technique": "Oil on canvas 52 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perrot/view_riv.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30744
+        }
+    ]
+}

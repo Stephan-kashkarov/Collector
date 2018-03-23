@@ -1,0 +1,58 @@
+{
+    "name": "BRENNA Vincenzo",
+    "life": "(b. 1745 Firenze d. 1820 Dresden)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Aerial view",
+            "date": "1797-1801",
+            "technique": "Photo",
+            "location": "Mikhailovsky Castle St. Petersburg",
+            "url": "https://www.wga.hu/html/b/brenna/mikhail1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6092
+        },
+        {
+            "title": "Exterior view",
+            "date": "1797-1801",
+            "technique": "Photo",
+            "location": "Mikhailovsky Castle St. Petersburg",
+            "url": "https://www.wga.hu/html/b/brenna/mikhail2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6093
+        },
+        {
+            "title": "Exterior view",
+            "date": "1792-98",
+            "technique": "Photo",
+            "location": "Ostankino Palace Moscow",
+            "url": "https://www.wga.hu/html/b/brenna/ostanki1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6094
+        },
+        {
+            "title": "Interior view",
+            "date": "1792-98",
+            "technique": "Photo",
+            "location": "Ostankino Palace Moscow",
+            "url": "https://www.wga.hu/html/b/brenna/ostanki2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 6095
+        },
+        {
+            "title": "Interior view",
+            "date": "1782-86",
+            "technique": "Photo",
+            "location": "Palace Pavlovsk",
+            "url": "https://www.wga.hu/html/b/brenna/pavlovsk.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 6096
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "VALLE Filippo della",
+    "life": "(b. 1698 Firenze d. 1768 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Annuciation",
+            "date": "1750",
+            "technique": "Marble height 930 cm",
+            "location": "Sant'Ignazio Rome",
+            "url": "https://www.wga.hu/html/v/valle/annuncia.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42021
+        },
+        {
+            "title": "Bust of Pope Clement XII",
+            "date": "-",
+            "technique": "Terracotta height 96 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/v/valle/clementx.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 42022
+        },
+        {
+            "title": "Tomb of Innocent XII",
+            "date": "1746",
+            "technique": "Marble",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/v/valle/innoce12.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42023
+        },
+        {
+            "title": "Temperance",
+            "date": "1732",
+            "technique": "Marble",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/v/valle/temperan.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 42024
+        },
+        {
+            "title": "St Therese of \u00c1vila",
+            "date": "1754",
+            "technique": "Marble",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/v/valle/therese.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42025
+        }
+    ]
+}

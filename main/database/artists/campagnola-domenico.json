@@ -1,0 +1,28 @@
+{
+    "name": "CAMPAGNOLA Domenico",
+    "life": "(b. 1500 Venezia d. 1564 Padova)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Mountainous Landscape with Antique Ruins",
+            "date": "1531-33",
+            "technique": "Drawing",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/campagno/antique.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 7103
+        },
+        {
+            "title": "Massacre of the Innocents",
+            "date": "1517",
+            "technique": "Woodcut printed from 2 blocks 512 x 321 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/campagno/innocent.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 7104
+        }
+    ]
+}

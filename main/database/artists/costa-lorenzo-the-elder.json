@@ -1,0 +1,298 @@
+{
+    "name": "COSTA Lorenzo the Elder",
+    "life": "(b. ca. 1460 Ferrara d. 1535 Mantova)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1499",
+            "technique": "Oil on panel 75 x 181 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/adormagi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9781
+        },
+        {
+            "title": "Portrait of Giovanni II Bentivoglio",
+            "date": "c. 1492",
+            "technique": "Tempera on wood 55 x 49 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/bentivo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9782
+        },
+        {
+            "title": "Portrait of Giovanni Bentivoglio (detail)",
+            "date": "c. 1492",
+            "technique": "Tempera on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/bentivol.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9783
+        },
+        {
+            "title": "Two Young Man at a Column (detail)",
+            "date": "-",
+            "technique": "Oil on wood 47 x 17 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/column.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 9784
+        },
+        {
+            "title": "Concert",
+            "date": "1485-95",
+            "technique": "Oil on wood 953 x 756 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9785
+        },
+        {
+            "title": "Court of Isabella d'Este",
+            "date": "c. 1506",
+            "technique": "Oil on canvas 164 x 197 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/isabella.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9786
+        },
+        {
+            "title": "Court of Isabella d'Este (detail)",
+            "date": "c. 1506",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/isabellb.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9787
+        },
+        {
+            "title": "The Reign of Comus",
+            "date": "c. 1511",
+            "technique": "Oil on canvas 152 x 238 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/isabellc.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9788
+        },
+        {
+            "title": "The Reign of Comus (detail)",
+            "date": "c. 1511",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/isabelld.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9789
+        },
+        {
+            "title": "Madonna and Saints",
+            "date": "1492",
+            "technique": "Panel",
+            "location": "San Petronio Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/mad_sain.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9790
+        },
+        {
+            "title": "View of the Oratory",
+            "date": "1504-06",
+            "technique": "Fresco",
+            "location": "Oratory of St Cecilia San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/01view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9791
+        },
+        {
+            "title": "View of the Oratory",
+            "date": "1504-06",
+            "technique": "Fresco",
+            "location": "Oratory of St Cecilia San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/02view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9792
+        },
+        {
+            "title": "Legend of Sts Cecilia and Valerian Scene 2",
+            "date": "1504-06",
+            "technique": "Fresco",
+            "location": "Oratory of St Cecilia San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/scene02.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9793
+        },
+        {
+            "title": "Legend of Sts Cecilia and Valerian Scene 9",
+            "date": "1504-06",
+            "technique": "Fresco",
+            "location": "Oratory of St Cecilia San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/scene09.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9794
+        },
+        {
+            "title": "Giovanni II Bentivoglio and His Family",
+            "date": "1488",
+            "technique": "Oil on canvas",
+            "location": "Bentivoglio Chapel San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/triumph.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9795
+        },
+        {
+            "title": "The Triumph of Death",
+            "date": "1490",
+            "technique": "Fresco",
+            "location": "San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/triumph1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9796
+        },
+        {
+            "title": "Vision of the Apocalypse",
+            "date": "1490s",
+            "technique": "Fresco",
+            "location": "San Giacomo Maggiore Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/maggiore/vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9797
+        },
+        {
+            "title": "Nativity",
+            "date": "-",
+            "technique": "Tempera on wood",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9798
+        },
+        {
+            "title": "Battista Fiera",
+            "date": "1507-08",
+            "technique": "Oil on wood 51 x 39 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/port_fie.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9799
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1490",
+            "technique": "Tempera on wood 50 x 38 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9800
+        },
+        {
+            "title": "Portrait of a Lady with a Lap-dog",
+            "date": "c. 1500",
+            "technique": "Oil on panel 455 x 351 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9801
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "1500-06",
+            "technique": "Oil and tempera on canvas 57 x 44 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9802
+        },
+        {
+            "title": "Portrait of a Woman with a Pearl Necklace",
+            "date": "-",
+            "technique": "Oil on panel 44 x 34 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/portwoma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9803
+        },
+        {
+            "title": "St Sebastian",
+            "date": "1490-91",
+            "technique": "Tempera on wood 55 x 49 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9804
+        },
+        {
+            "title": "St Jerome",
+            "date": "1485",
+            "technique": "Panel",
+            "location": "San Petronio Bologna",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9805
+        },
+        {
+            "title": "Venus",
+            "date": "1515-18",
+            "technique": "Oil on poplar 174 x 76 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/venus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9806
+        },
+        {
+            "title": "Venus (detail)",
+            "date": "1515-18",
+            "technique": "Oil on poplar",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/venus1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9807
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1501-03",
+            "technique": "Panel 57 x 42 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/virgchil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9808
+        },
+        {
+            "title": "Virgin and Child Enthroned",
+            "date": "c. 1495",
+            "technique": "Oil on panel 50 x 37 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/costa/lorenzo/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9809
+        }
+    ]
+}

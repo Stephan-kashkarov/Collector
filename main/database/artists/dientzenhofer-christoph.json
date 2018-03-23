@@ -1,0 +1,48 @@
+{
+    "name": "DIENTZENHOFER Christoph",
+    "life": "(b. 1655 Rosenheim d. 1722 Praha)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1703-17",
+            "technique": "Photo",
+            "location": "St. Nicholas Prague",
+            "url": "https://www.wga.hu/html/d/dientzen/christop/1nichol1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11510
+        },
+        {
+            "title": "Interior view",
+            "date": "1703-17",
+            "technique": "Photo",
+            "location": "St. Nicholas Prague",
+            "url": "https://www.wga.hu/html/d/dientzen/christop/1nichol2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 11511
+        },
+        {
+            "title": "General view",
+            "date": "1708-21",
+            "technique": "Photo",
+            "location": "St. Margaret Monastery B\u00f8evnov",
+            "url": "https://www.wga.hu/html/d/dientzen/christop/brevnov1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11512
+        },
+        {
+            "title": "Exterior view",
+            "date": "1708-21",
+            "technique": "Photo",
+            "location": "Margaretenkirche B\u00f8evnov",
+            "url": "https://www.wga.hu/html/d/dientzen/christop/brevnov2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11513
+        }
+    ]
+}

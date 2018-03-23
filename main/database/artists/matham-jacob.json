@@ -1,0 +1,38 @@
+{
+    "name": "MATHAM Jacob",
+    "life": "(b. 1571 Haarlem d. 1631 Haarlem)",
+    "school": "Netherlandish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Market Scene",
+            "date": "1603",
+            "technique": "Engraving 240 x 320 mm",
+            "location": "Teylers Museum Haarlem",
+            "url": "https://www.wga.hu/html/m/matham/jacob/market_s.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 25237
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "c. 1613",
+            "technique": "Copperplate engraving 380 x 440 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/matham/jacob/samson_d.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25238
+        },
+        {
+            "title": "Theodorus Schrevelius",
+            "date": "1618",
+            "technique": "Engraving 261 x 259 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/matham/jacob/schrevel.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25239
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "GRANET Fran\u00e7ois-Marius",
+    "life": "(b. 1775 Aix-en-Provence d. 1849 Aix-en-Provence)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Crypt of San Martino ai Monti Rome",
+            "date": "1806",
+            "technique": "Oil on canvas 126 x 159 cm",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/g/granet/crypt_sm.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18137
+        },
+        {
+            "title": "Crypt of San Martino ai Monti Rome (detail)",
+            "date": "1806",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/g/granet/crypt_sx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18138
+        },
+        {
+            "title": "Interior of the Choir in the Capuchin Church on the Plazza Barberini in Rome",
+            "date": "1818",
+            "technique": "Oil on canvas 175 x 127 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/granet/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18139
+        },
+        {
+            "title": "Meeting of the Monastic Chapter",
+            "date": "c. 1833",
+            "technique": "Oil on canvas 97 x 135 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/granet/meeting.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18140
+        },
+        {
+            "title": "Monks in a Cave",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 100 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/granet/monkcave.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18141
+        },
+        {
+            "title": "Quay of the Seine with Barge Fog Effect",
+            "date": "1843",
+            "technique": "Watercolour oveer black pencil lines 181 x 293 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/granet/quaysein.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 18142
+        },
+        {
+            "title": "Stella in Prison",
+            "date": "1810",
+            "technique": "Oil on canvas 194 x 144 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/g/granet/stella_p.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 18143
+        },
+        {
+            "title": "The San Rocco Bridge and the Grand Waterfall at Tivoli",
+            "date": "c. 1806",
+            "technique": "Oil on canvas 62 x 49 cm",
+            "location": "Mus\u00e9e Granet Aix-en-Provence",
+            "url": "https://www.wga.hu/html/g/granet/tivoli.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18144
+        },
+        {
+            "title": "San Trinit\u00e0 dei Monti and the Villa Medici Rome",
+            "date": "1808",
+            "technique": "Oil on canvas 48 x 61 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/granet/trinita.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18145
+        }
+    ]
+}

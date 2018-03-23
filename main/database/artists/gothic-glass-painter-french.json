@@ -1,0 +1,268 @@
+{
+    "name": "GOTHIC GLASS PAINTER French",
+    "life": "(active c. 1200)",
+    "school": "French",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Charlemagne",
+            "date": "c. 1200",
+            "technique": "Stained glass window",
+            "location": "Cathedral Strasbourg",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/02f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "historical",
+            "index": 17636
+        },
+        {
+            "title": "St Eustace (detail)",
+            "date": "1200-10",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/03f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17637
+        },
+        {
+            "title": "The Good Samaritan and Genesis",
+            "date": "1205-15",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/03f_1201.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17638
+        },
+        {
+            "title": "North Rose Window",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/04f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17639
+        },
+        {
+            "title": "South Rose Window",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/05f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17640
+        },
+        {
+            "title": "The Prodigal Son",
+            "date": "13th century",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/05f_1201.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17641
+        },
+        {
+            "title": "Miracles of the Virgin",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/06f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17642
+        },
+        {
+            "title": "Charlemagne's Dream",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/06f_1201.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17643
+        },
+        {
+            "title": "Charlemagne's Battle",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/06f_1202.html",
+            "form": "stained-glass",
+            "painting_type": "historical",
+            "index": 17644
+        },
+        {
+            "title": "A Nobleman",
+            "date": "c. 1220",
+            "technique": "Stained glass window",
+            "location": "Cathedral Chartres",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/06f_1203.html",
+            "form": "stained-glass",
+            "painting_type": "portrait",
+            "index": 17645
+        },
+        {
+            "title": "Departure of the Prodigal Son",
+            "date": "c. 1210",
+            "technique": "Stained glass window",
+            "location": "Cath\u00e9drale Saint-\u00c9tienne Bourges",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/07f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17646
+        },
+        {
+            "title": "Scenes of the Story of St Nicasius",
+            "date": "1200-25",
+            "technique": "Stained glass window 70 x 79 cm (each panel)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/07f_1201.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17647
+        },
+        {
+            "title": "Rose window",
+            "date": "c. 1268",
+            "technique": "Stained glass window",
+            "location": "Notre-Dame Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/07f_1202.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17648
+        },
+        {
+            "title": "Esther Window (detail)",
+            "date": "1240s",
+            "technique": "Stained glass window",
+            "location": "Sainte-Chapelle Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/08f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17649
+        },
+        {
+            "title": "Window",
+            "date": "1247-50",
+            "technique": "Stained glass window",
+            "location": "Cathedral Troyes",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/09f_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17650
+        },
+        {
+            "title": "Window",
+            "date": "1269",
+            "technique": "Stained glass window",
+            "location": "Cathedral Amiens",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/16f_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17651
+        },
+        {
+            "title": "Window",
+            "date": "c. 1270",
+            "technique": "Stained glass window",
+            "location": "St.-Urbain Troyes",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/17f_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17652
+        },
+        {
+            "title": "Rose Window",
+            "date": "1290s",
+            "technique": "Stained glass window",
+            "location": "Cathedral Reims",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/18f_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17653
+        },
+        {
+            "title": "Window",
+            "date": "1325-38",
+            "technique": "Stained glass window",
+            "location": "St.-Ouen Rouen",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/02f_1300.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17654
+        },
+        {
+            "title": "Annunciation",
+            "date": "1325",
+            "technique": "Stained glass window",
+            "location": "St.-Ouen Rouen",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/03f_1300.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17655
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1320",
+            "technique": "Stained glass window",
+            "location": "Cath\u00e9drale Notre-Dame \u00c9vreux",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/04f_1300.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17656
+        },
+        {
+            "title": "Choir clerestory",
+            "date": "c. 1340",
+            "technique": "Stained glass window",
+            "location": "Cathedral \u00c9vreux",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/05f_1300.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17657
+        },
+        {
+            "title": "Angel Playing the Lyre",
+            "date": "1340s",
+            "technique": "Stained glass window 205 x 79 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/05f_1301.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17658
+        },
+        {
+            "title": "Charles VI",
+            "date": "c. 1400",
+            "technique": "Stained glass window",
+            "location": "Cathedral \u00c9vreux",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/01f_1400.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17659
+        },
+        {
+            "title": "Jacques Coeur Window",
+            "date": "1451",
+            "technique": "Stained glass window",
+            "location": "Cathedral Bourges",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/02f_1400.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17660
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1450",
+            "technique": "Stained glass window",
+            "location": "Cath\u00e9drale Saint-\u00c9tienne Bourges",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/03f_1450.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17661
+        }
+    ]
+}

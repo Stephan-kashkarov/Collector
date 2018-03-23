@@ -1,0 +1,38 @@
+{
+    "name": "BERGHE Augustin van den",
+    "life": "(b. 1756 Brugge d. 1836 Beauvais)",
+    "school": "Flemish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Naked Warrior (The Archer)",
+            "date": "1780s",
+            "technique": "Oil on canvas 192 x 129 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/b/berghe2/augustin/archer.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 4181
+        },
+        {
+            "title": "St Sebastian",
+            "date": "c. 1777",
+            "technique": "Oil on canvas 192 x 129 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/b/berghe2/augustin/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4182
+        },
+        {
+            "title": "Venus and Adonis",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 152 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/berghe2/augustin/venus_ad.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4183
+        }
+    ]
+}

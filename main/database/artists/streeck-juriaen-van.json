@@ -1,0 +1,48 @@
+{
+    "name": "STREECK Juriaen van",
+    "life": "(b. 1632 Amsterdam d. 1687 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Snack",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 55 x 42 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/streeck/juriaen/snack.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38182
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 49 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/streeck/juriaen/stilbowl.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38183
+        },
+        {
+            "title": "Still-Life with Fruit and Chinese Porcelain",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/streeck/juriaen/stilfrui.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38184
+        },
+        {
+            "title": "Still-Life",
+            "date": "after 1653",
+            "technique": "Oil on oak 545 x 44 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/s/streeck/juriaen/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38185
+        }
+    ]
+}

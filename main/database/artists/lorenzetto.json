@@ -1,0 +1,28 @@
+{
+    "name": "LORENZETTO",
+    "life": "(b. 1490 Firenze d. 1541 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "date": "1520",
+            "technique": "Bronze altar frontal 62 x 210 cm",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/l/lorenzto/adultery.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 23135
+        },
+        {
+            "title": "Jonah",
+            "date": "1519-20",
+            "technique": "Marble",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/l/lorenzto/jonah.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 23136
+        }
+    ]
+}

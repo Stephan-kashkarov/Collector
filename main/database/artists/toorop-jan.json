@@ -1,0 +1,38 @@
+{
+    "name": "TOOROP Jan",
+    "life": "(b. 1858 Purworejo Java d. 1928 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Three Women with Flowers",
+            "date": "1885-86",
+            "technique": "Oil on canvas 110 x 95 cm",
+            "location": "Haags Gemeentemuseum The Hague",
+            "url": "https://www.wga.hu/html/t/toorop/3women.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 39890
+        },
+        {
+            "title": "Shell Gathering on the Beach",
+            "date": "1891",
+            "technique": "Oil on canvas 62 x 66 cm",
+            "location": "Rijksmuseum Kr\u00f6ller-M\u00fcller Otterlo",
+            "url": "https://www.wga.hu/html/t/toorop/beach.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 39891
+        },
+        {
+            "title": "The Dunes and the Sea at Zoutlande",
+            "date": "1907",
+            "technique": "Oil on canvas 48 x 62 cm",
+            "location": "Haags Gemeentemuseum The Hague",
+            "url": "https://www.wga.hu/html/t/toorop/dunes.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 39892
+        }
+    ]
+}

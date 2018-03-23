@@ -1,0 +1,28 @@
+{
+    "name": "MACCARI Cesare",
+    "life": "(b. 1840 Siena d. 1919 Roma)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Decoration of the Sala del Risorgimento",
+            "date": "1886",
+            "technique": "Fresco and marble",
+            "location": "Palazzo Pubblico Siena",
+            "url": "https://www.wga.hu/html/m/maccari/decorati.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23511
+        },
+        {
+            "title": "Presentation to Vittorio Emanuele of the Roman Plebiscite",
+            "date": "1886",
+            "technique": "Fresco",
+            "location": "Sala del Risorgimento Palazzo Pubblico Siena",
+            "url": "https://www.wga.hu/html/m/maccari/presenta.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23512
+        }
+    ]
+}

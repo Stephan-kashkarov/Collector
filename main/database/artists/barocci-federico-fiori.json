@@ -1,0 +1,268 @@
+{
+    "name": "BAROCCI Federico Fiori",
+    "life": "(b. 1526 Urbino d. 1612 Urbino)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Aeneas' Flight from Troy",
+            "date": "1598",
+            "technique": "Oil on canvas 179 x 253 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/barocci/aeneas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3196
+        },
+        {
+            "title": "Aeneas' Flight from Troy (detail)",
+            "date": "1598",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/barocci/aeneas1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3197
+        },
+        {
+            "title": "Annunciation",
+            "date": "1592-96",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria degli Angeli Perugia",
+            "url": "https://www.wga.hu/html/b/barocci/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3198
+        },
+        {
+            "title": "Annunciation",
+            "date": "1582-84",
+            "technique": "Oil on canvas 248 x 170 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/b/barocci/annuncix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3199
+        },
+        {
+            "title": "The Circumcision",
+            "date": "1590",
+            "technique": "Oil on canvas 374 x 252 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barocci/circumci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3200
+        },
+        {
+            "title": "Study of a Bent Right Arm",
+            "date": "c. 1590",
+            "technique": "Pastel on chamois paper 232 x 176 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barocci/circumcx.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 3201
+        },
+        {
+            "title": "Rest on the Flight to Egypt",
+            "date": "1570",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/b/barocci/egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3202
+        },
+        {
+            "title": "The Institution of the Eucharist",
+            "date": "1608",
+            "technique": "Oil on canvas 290 x 177 cm",
+            "location": "Basilica di Santa Maria sopra Minerva Rome",
+            "url": "https://www.wga.hu/html/b/barocci/eucharis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3203
+        },
+        {
+            "title": "Francesco II della Rovere",
+            "date": "1572",
+            "technique": "Oil on canvas 113 x 93 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/barocci/francesc.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3204
+        },
+        {
+            "title": "La Madonna del Gatto",
+            "date": "c. 1575",
+            "technique": "Oil on canvas 113 x 93 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/barocci/gatto.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3205
+        },
+        {
+            "title": "Portrait of Ippolito della Rovere",
+            "date": "c. 1602",
+            "technique": "Oil on canvas 118 x 95 cm",
+            "location": "Italian Embassy London",
+            "url": "https://www.wga.hu/html/b/barocci/ippolito.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3206
+        },
+        {
+            "title": "The Nativity",
+            "date": "1597",
+            "technique": "Oil on canvas 134 x 105 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/barocci/nativity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3207
+        },
+        {
+            "title": "Madonna del Popolo",
+            "date": "1575-79",
+            "technique": "Oil on panel 360 x 250 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/barocci/popolo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3208
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barocci/port_gen.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3209
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "1570-75",
+            "technique": "Oil on paper 45 x 33 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/barocci/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3210
+        },
+        {
+            "title": "Portrait of a Young Lady",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 120 x 83 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/b/barocci/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3211
+        },
+        {
+            "title": "Double Portrait with the Della Rovere Family Emblem",
+            "date": "-",
+            "technique": "Oil on canvas 92 cm x 78 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barocci/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3212
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1570-75",
+            "technique": "Oil on canvas 33 x 25 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/barocci/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3213
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 40 x 34 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/b/barocci/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3214
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1598",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/barocci/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3215
+        },
+        {
+            "title": "Virgin and Child with Sts Simon and Jude (Madonna di San Simone)",
+            "date": "c. 1567",
+            "technique": "Oil on canvas 283 x 190 cm",
+            "location": "Galleria Nazionale delle Marche Urbino",
+            "url": "https://www.wga.hu/html/b/barocci/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3216
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "1561-63",
+            "technique": "Black chalk pen and brush on blue paper 293 x 209 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/barocci/z_adorat.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3217
+        },
+        {
+            "title": "Face of a Woman with Downcast Eyes",
+            "date": "-",
+            "technique": "Pastel on chamois paper 272 x 213 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barocci/z_face.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 3218
+        },
+        {
+            "title": "Male Figure Stooping to Lift a Cauldron",
+            "date": "1590s",
+            "technique": "Pastel on grey paper 382 x 242 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barocci/z_figure.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 3219
+        },
+        {
+            "title": "Virgin and Child in the Clouds",
+            "date": "1570s",
+            "technique": "Etching 153 x 106 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/barocci/z_virgin.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3220
+        },
+        {
+            "title": "Virgin and Child in the Clouds",
+            "date": "1570s",
+            "technique": "Etching",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/barocci/z_virgip.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3221
+        }
+    ]
+}

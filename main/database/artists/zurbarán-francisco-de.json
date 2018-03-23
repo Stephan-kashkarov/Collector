@@ -1,0 +1,438 @@
+{
+    "name": "ZURBAR\u00c1N Francisco de",
+    "life": "(b. 1598 Fuente de Cantos d. 1664 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St Agatha",
+            "date": "1630-33",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/agatha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44755
+        },
+        {
+            "title": "Agnus Dei",
+            "date": "-",
+            "technique": "Oil on canvas 38 x 62 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/agnusdei.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44756
+        },
+        {
+            "title": "St. Apolonia",
+            "date": "-",
+            "technique": "Oil on canvas 113 x 66 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/apolonia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44757
+        },
+        {
+            "title": "Apostle St Andrew",
+            "date": "1631",
+            "technique": "Oil on canvas 1467 x 61 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/apostle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44758
+        },
+        {
+            "title": "The Lying-in-State of St Bonaventura",
+            "date": "1629",
+            "technique": "Oil on canvas 250 x 225 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/bonavent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44759
+        },
+        {
+            "title": "Christ Blessing",
+            "date": "1638",
+            "technique": "Oil on canvas 99 x 71 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/christ_b.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44760
+        },
+        {
+            "title": "Christ on the Cross",
+            "date": "1627",
+            "technique": "Oil on canvas 291 x 165 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/christ_x.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44761
+        },
+        {
+            "title": "Defence of Cadiz against the English",
+            "date": "1634",
+            "technique": "Oil on canvas 302 x 323 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/defence.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 44762
+        },
+        {
+            "title": "St Margaret",
+            "date": "c. 1631",
+            "technique": "Oil on canvas 194 x 112 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/margaret.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44763
+        },
+        {
+            "title": "The Martyrdom of St Serapion",
+            "date": "1628",
+            "technique": "Oil on canvas 120 x 104 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44764
+        },
+        {
+            "title": "Meditation of St Francis",
+            "date": "1632",
+            "technique": "Oil on canvas 114 x 78 cm",
+            "location": "Museo Nacional de Bellas Artes Buenos Aires",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/meditati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44765
+        },
+        {
+            "title": "The Vision of St Peter of Nolasco",
+            "date": "1629",
+            "technique": "Oil on canvas 179 x 223 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/nolasco1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44766
+        },
+        {
+            "title": "The Apparition of Apostle St Peter to St Peter of Nolasco",
+            "date": "1629",
+            "technique": "Oil on canvas 179 x 223 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/nolasco2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44767
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1639-40",
+            "technique": "Oil on canvas 264 x 176 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Grenoble",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/shepher.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44768
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "1638",
+            "technique": "Oil on canvas 267 x 185 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Grenoble",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/shepherd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44769
+        },
+        {
+            "title": "St Hugo of Grenoble in the Carthusian Refectory",
+            "date": "c. 1633",
+            "technique": "Oil on canvas 102 x 168 cm",
+            "location": "Museo de Bellas Artes Seville",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/st_hugo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44770
+        },
+        {
+            "title": "Cup of Water and a Rose on a Silver Plate",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 212 x 301 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44771
+        },
+        {
+            "title": "Still-Life with Pottery Jars",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 46 x 84 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/still_li.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44772
+        },
+        {
+            "title": "Still-life with Lemons Oranges and Rose",
+            "date": "1633",
+            "technique": "Oil on canvas 60 x 107 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 44773
+        },
+        {
+            "title": "St Lawrence",
+            "date": "1636",
+            "technique": "Oil on canvas 292 x 225 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/stlawren.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44774
+        },
+        {
+            "title": "Vision of Blessed Alonso Rodriguez",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo de la Real Academia de San Fernando Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/1/vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44775
+        },
+        {
+            "title": "St Anthony Abbot",
+            "date": "after 1640",
+            "technique": "Oil on canvas 177 x 117 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/anthony.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44776
+        },
+        {
+            "title": "Vision of Brother Andr\u00e9s Salmer\u00f3n",
+            "date": "1639-40",
+            "technique": "Oil on canvas 290 x 222 cm",
+            "location": "Monastery Guadalupe",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/brother.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44777
+        },
+        {
+            "title": "St Elizabeth of Portugal",
+            "date": "1638-42",
+            "technique": "Oil on canvas 184 x 90 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/casilda.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44778
+        },
+        {
+            "title": "St Casilda",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 171 x 107 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/casilda1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44779
+        },
+        {
+            "title": "Christ on the Cross",
+            "date": "1655",
+            "technique": "Oil on canvas 212 x 163 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44780
+        },
+        {
+            "title": "The Holy Family",
+            "date": "1659",
+            "technique": "Oil on canvas 1215 x 97 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44781
+        },
+        {
+            "title": "The Immaculate Conception",
+            "date": "1630-35",
+            "technique": "Oil on canvas 139 x 104 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/immacul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44782
+        },
+        {
+            "title": "Immaculate Conception",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo Cerralbo Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/immacul1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44783
+        },
+        {
+            "title": "The Immaculate Conception",
+            "date": "1661",
+            "technique": "Oil on canvas 1365 x 1025 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/immacula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44784
+        },
+        {
+            "title": "Madonna with Child",
+            "date": "1658",
+            "technique": "Oil on canvas 101 x 78 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44785
+        },
+        {
+            "title": "The House of Nazareth",
+            "date": "c. 1630",
+            "technique": "Oil on canvas",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/nazareth.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44786
+        },
+        {
+            "title": "Portrait of the Duke of Medinaceli",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Hospital of Tavera Toledo",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/port_med.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44787
+        },
+        {
+            "title": "St Francis",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 65 x 53 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/sfrancis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44788
+        },
+        {
+            "title": "Saint James of the Marches",
+            "date": "-",
+            "technique": "Oil on canvas 291 x 165 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/st_james.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44789
+        },
+        {
+            "title": "Saint Luke as a Painter before Christ on the Cross",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 105 x 84 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/st_luke.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44790
+        },
+        {
+            "title": "St Francis at Prayer",
+            "date": "1650-55",
+            "technique": "Oil on canvas 158 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/stfranci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44791
+        },
+        {
+            "title": "St Francis at Prayer (detail)",
+            "date": "1650-55",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/stfranci1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44792
+        },
+        {
+            "title": "St Francis of Assisi Receiving the Stigmata",
+            "date": "-",
+            "technique": "Oil on canvas 248 x 168 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/stigmata.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44793
+        },
+        {
+            "title": "The Sudarium of St Veronica",
+            "date": "1658-61",
+            "technique": "Oil on canvas 104 x 84 cm",
+            "location": "Museo de Bellas Artes Bilbao",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/veronica.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44794
+        },
+        {
+            "title": "Virgin Mary with Child and the Young St John the Baptist",
+            "date": "1662",
+            "technique": "Oil on canvas 169 x 127 cm",
+            "location": "Museo de Bellas Artes Bilbao",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44795
+        },
+        {
+            "title": "The Virgin Mary as a Child Asleep",
+            "date": "c. 1655",
+            "technique": "Oil on canvas 103 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/virginas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44796
+        },
+        {
+            "title": "Childhood of the Virgin",
+            "date": "1658-60",
+            "technique": "Oil on canvas 74 x 54 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/z/zurbaran/2/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44797
+        }
+    ]
+}

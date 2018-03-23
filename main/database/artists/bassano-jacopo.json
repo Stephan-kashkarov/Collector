@@ -1,0 +1,428 @@
+{
+    "name": "BASSANO Jacopo",
+    "life": "(b. ca. 1515 Bassano d. 1592 Bassano)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Annunciation to the Shepherds",
+            "date": "1533",
+            "technique": "Oil on canvas",
+            "location": "Belvoir Castle Leicestershire England",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/01shephe.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3408
+        },
+        {
+            "title": "Supper at Emmaus",
+            "date": "c. 1538",
+            "technique": "Oil on canvas 235 x 250 cm",
+            "location": "Sacristy Parish Church Cittadella",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/02emmaus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3409
+        },
+        {
+            "title": "The Way to Calvary",
+            "date": "c. 1540",
+            "technique": "Oil on canvas 145 x 133 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/03calvar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3410
+        },
+        {
+            "title": "Adoration of the Kings",
+            "date": "1542",
+            "technique": "Oil on canvas 183 x 235 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/04adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3411
+        },
+        {
+            "title": "Adoration of the Kings (detail)",
+            "date": "1542",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/04adorax.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3412
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1544-45",
+            "technique": "Oil on canvas 1395 x 219 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/05adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3413
+        },
+        {
+            "title": "The Martyrdom of St Catherine of Alexandria",
+            "date": "1544",
+            "technique": "Oil on canvas 160 x 130 cm",
+            "location": "Museo Biblioteca Archivio Bassano del Grappa",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/06cather.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3414
+        },
+        {
+            "title": "Portrait of a Cardinal",
+            "date": "c. 1545",
+            "technique": "Oil on canvas 58 x 46 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/07cardin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 3415
+        },
+        {
+            "title": "The Last Supper",
+            "date": "c. 1546",
+            "technique": "Oil on canvas 168 x 270 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/08lastsu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3416
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "c. 1546",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/08lastsx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3417
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "c. 1546",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/08lastsy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3418
+        },
+        {
+            "title": "Two Hounds",
+            "date": "1548-49",
+            "technique": "Oil on canvas 61 x 80 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/09hounds.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 3419
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "1545-50",
+            "technique": "Oil on canvas 191 x 134 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/10altarp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3420
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 97 x 142 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/11adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3421
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1550",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/11adorax.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3422
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1550",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/11adoray.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3423
+        },
+        {
+            "title": "The Road to Calvary",
+            "date": "1550-55",
+            "technique": "Oil on canvas 94 x 114 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/12calvar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3424
+        },
+        {
+            "title": "St Jerome",
+            "date": "1556",
+            "technique": "Oil on canvas 119 x 154 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/13jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3425
+        },
+        {
+            "title": "Pastoral Scene",
+            "date": "c. 1560",
+            "technique": "Oil on canvas 139 x 129 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/14pastor.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3426
+        },
+        {
+            "title": "Sheep and Lamb",
+            "date": "c. 1560",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/15sheela.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3427
+        },
+        {
+            "title": "Great Market",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/16market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3428
+        },
+        {
+            "title": "Great Market (detail)",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/16markex.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3429
+        },
+        {
+            "title": "Market Scene",
+            "date": "1580s",
+            "technique": "Oil on canvas 139 x 234 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/1/17market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3430
+        },
+        {
+            "title": "The Three Magi",
+            "date": "c. 1562",
+            "technique": "Oil on canvas 92 x 118 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/01magi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3431
+        },
+        {
+            "title": "Madonna and Child with Saint John the Baptist",
+            "date": "1570",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/02madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3432
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1571",
+            "technique": "Oil on canvas 85 x 125 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Nimes",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/03susann.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3433
+        },
+        {
+            "title": "Garden of Eden",
+            "date": "1570-73",
+            "technique": "Oil on canvas 77 x 109 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/04garden.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 3434
+        },
+        {
+            "title": "The Road to Calvary",
+            "date": "1575",
+            "technique": "Oil on slate 46 x 42 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/05calvar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3435
+        },
+        {
+            "title": "The Animals Entering Noah' Ark",
+            "date": "-",
+            "technique": "Oil on canvas 207 x 265 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/06animal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3436
+        },
+        {
+            "title": "Noah's Sacrifice",
+            "date": "c. 1574",
+            "technique": "Oil on canvas",
+            "location": "Schloss Sanssouci Potsdam",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/07noahsa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3437
+        },
+        {
+            "title": "St Valentine Baptizing St Lucilla",
+            "date": "c. 1575",
+            "technique": "Oil on canvas",
+            "location": "Museo Civico Bassano del Grappa",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/08lucill.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3438
+        },
+        {
+            "title": "St Roche among the Plague Victims and the Madonna in Glory",
+            "date": "c. 1575",
+            "technique": "Oil on canvas 350 x 210 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/09roche.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3439
+        },
+        {
+            "title": "Summer (Sacrifice of Isaac)",
+            "date": "c. 1575",
+            "technique": "Oil on canvas 79 x 111 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/10summer.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3440
+        },
+        {
+            "title": "Three Martyr Saints",
+            "date": "1578",
+            "technique": "Oil on canvas 102 x 79 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/11saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3441
+        },
+        {
+            "title": "Return of Jacob with His Family",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 150 x 205 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/12jacob1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3442
+        },
+        {
+            "title": "Return of Jacob with His Family (detail)",
+            "date": "c. 1580",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/12jacob2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3443
+        },
+        {
+            "title": "Return of Jacob with His Family (detail)",
+            "date": "c. 1580",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/12jacob3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3444
+        },
+        {
+            "title": "The Purification of the Temple",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 161 x 268 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/13purifi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3445
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1580-85",
+            "technique": "Oil on slate 35 x 27 cm",
+            "location": "Dob\u00f3 Istv\u00e1n V\u00e1rm\u00fazeum Eger",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/14adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3446
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1590-91",
+            "technique": "Oil on canvas 421 x 219 cm",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/15adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3447
+        },
+        {
+            "title": "The Betrayal of Christ",
+            "date": "1568",
+            "technique": "Pastel over charcoal on faded blue papeer 413 x 549 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/z_betray.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3448
+        },
+        {
+            "title": "The Good Thief on the Cross",
+            "date": "-",
+            "technique": "Pastel over charcoal on blue paper 530 x 369 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bassano/jacopo/2/z_thief.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 3449
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "TISCHBEIN Johann Heinrich the Elder",
+    "life": "(b. 1722 Haina d. 1789 Kassel)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Mocking of Anacreon",
+            "date": "1754",
+            "technique": "Oil on canvas 165 x 113 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/t/tischbei/johann/anacreon.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39532
+        },
+        {
+            "title": "Portrait of the Artist and His Wife at the Spinet",
+            "date": "1769",
+            "technique": "Oil on canvas 48 x 34 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/t/tischbei/johann/port_art.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39533
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "1758-65",
+            "technique": "Oil on canvas 26 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tischbei/johann/rape_eur.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39534
+        }
+    ]
+}

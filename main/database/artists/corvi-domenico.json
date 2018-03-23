@@ -1,0 +1,38 @@
+{
+    "name": "CORVI Domenico",
+    "life": "(b. 1721 Viterbo d. 1803 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "St Joseph Calasanz Resuscitating a Child",
+            "date": "1767",
+            "technique": "Oil on canvas 222 x 176 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/c/corvi/calasanz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9726
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on canvas 60 x 49 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/corvi/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9727
+        },
+        {
+            "title": "Madonna and Child Attended by Saints and Bishops",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corvi/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9728
+        }
+    ]
+}

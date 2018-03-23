@@ -1,0 +1,48 @@
+{
+    "name": "VESALIUS Andreas",
+    "life": "(b. 1514 Bruxelles d. 1564 Zakynthos)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Title page",
+            "date": "1543",
+            "technique": "Engraving",
+            "location": "National Library of Medicine Washington",
+            "url": "https://www.wga.hu/html/v/vesalius/0title.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43089
+        },
+        {
+            "title": "Anatomy",
+            "date": "1543",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/vesalius/anatomy.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43090
+        },
+        {
+            "title": "Dissected human body",
+            "date": "1543",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/vesalius/dissect.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43091
+        },
+        {
+            "title": "Portrait of Andreas Vesalius",
+            "date": "1543",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/vesalius/portrait.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 43092
+        }
+    ]
+}

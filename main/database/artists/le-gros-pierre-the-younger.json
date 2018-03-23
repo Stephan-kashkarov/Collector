@@ -1,0 +1,78 @@
+{
+    "name": "LE GROS Pierre the Younger",
+    "life": "(b. 1666 Paris d. 1719 Roma)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "St Aloyzius Gonzaga in Glory",
+            "date": "1698-99",
+            "technique": "Coloured marble relief with bronze marble and silver setting height c. 900 cm",
+            "location": "Sant'Ignazio Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/aloyzius.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21688
+        },
+        {
+            "title": "The Death of St Stanislas Kostka",
+            "date": "1705",
+            "technique": "Marble",
+            "location": "Sant'Andrea al Quirinale Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/kostka.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21689
+        },
+        {
+            "title": "The Death of St Stanislas Kostka (detail)",
+            "date": "1705",
+            "technique": "Marble",
+            "location": "Sant'Andrea al Quirinale Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/kostka1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21690
+        },
+        {
+            "title": "Religion Overthrowing Heresy and Hatred",
+            "date": "1695-99",
+            "technique": "Marble height 300 cm",
+            "location": "Il Ges\u00f9 Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/religion.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21691
+        },
+        {
+            "title": "St Bartholomew",
+            "date": "1708-18",
+            "technique": "Marble height 425 cm",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/s_bartho.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21692
+        },
+        {
+            "title": "St Dominic",
+            "date": "1706",
+            "technique": "Marble",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/l/le_gros/s_domini.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21693
+        },
+        {
+            "title": "St Thomas",
+            "date": "1705-11",
+            "technique": "Marble height 425 cm",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/l/le_gros/s_thomas.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 21694
+        }
+    ]
+}

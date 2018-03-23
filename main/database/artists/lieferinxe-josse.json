@@ -1,0 +1,48 @@
+{
+    "name": "LIEFERINXE Josse",
+    "life": "(active 1493-1508 in Marseille)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Christ Child",
+            "date": "c. 1500",
+            "technique": "Wood 38 x 47 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lieferin/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22336
+        },
+        {
+            "title": "Pilgrims at the Tomb of St Sebastian",
+            "date": "1497",
+            "technique": "Oil on panel 82 x 55 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/l/lieferin/sebasti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22337
+        },
+        {
+            "title": "St Irene Nurses St Sebastian",
+            "date": "1497-98",
+            "technique": "Oil on panel 83 x 55 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/l/lieferin/sebasti2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22338
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1500-05",
+            "technique": "Oil on panel 170 x 126 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lieferin/zcrucifi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22339
+        }
+    ]
+}

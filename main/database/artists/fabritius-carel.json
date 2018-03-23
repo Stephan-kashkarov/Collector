@@ -1,0 +1,108 @@
+{
+    "name": "FABRITIUS Carel",
+    "life": "(b. 1622 Middenbeemster d. 1654 Delft)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Goldfinch",
+            "date": "1654",
+            "technique": "Oil on panel 34 x 23 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/goldfinc.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13458
+        },
+        {
+            "title": "Hagar and the Angel",
+            "date": "1643-45",
+            "technique": "Oil on canvas 158 x 136 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/hagar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13459
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "c. 1642",
+            "technique": "Oil on canvas 211 x 140 cm",
+            "location": "Muzeum Narodowe Warsaw",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13460
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1654",
+            "technique": "Oil on canvas 705 x 615 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/self_por.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13461
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1645",
+            "technique": "Oil on panel 65 x 49 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/self_pt.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13462
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on panel 62 x 51 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/self_pz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13463
+        },
+        {
+            "title": "The Sentry",
+            "date": "1654",
+            "technique": "Oil on canvas 68 x 58 cm",
+            "location": "Staatliches Museum Schwerin",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/sentry.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 13464
+        },
+        {
+            "title": "The Beheading of John the Baptist",
+            "date": "1648-50",
+            "technique": "Oil on canvas 149 x 121 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13465
+        },
+        {
+            "title": "View of the City of Delft",
+            "date": "1652",
+            "technique": "Oil on canvas 154 x 316 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/view_del.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13466
+        },
+        {
+            "title": "Christ among the Doctors",
+            "date": "1640s",
+            "technique": "Pen and brush brown ink heightened with white gouache 220 x 295 mm",
+            "location": "Oskar Reinhart Collection Winterthur",
+            "url": "https://www.wga.hu/html/f/fabritiu/carel/z_christ.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 13467
+        }
+    ]
+}

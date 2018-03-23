@@ -1,0 +1,28 @@
+{
+    "name": "BRINCKMANN Philipp Hieronymus",
+    "life": "(b. 1709 Speyer d. 1760 Mannheim)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Rocky Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 46 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brinckma/rocky_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6153
+        },
+        {
+            "title": "Spandrel painting",
+            "date": "after 1748",
+            "technique": "Fresco",
+            "location": "Jesuit Church Mannheim",
+            "url": "https://www.wga.hu/html/b/brinckma/spandrel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6154
+        }
+    ]
+}

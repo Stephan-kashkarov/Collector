@@ -1,0 +1,128 @@
+{
+    "name": "ANGUISSOLA Sofonisba",
+    "life": "(b. ca. 1530 Cremona d. 1625 Palermo)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Bernardino Campi Painting Sofonisba Anguissola",
+            "date": "c. 1559",
+            "technique": "Oil on canvas 111 x 110 cm",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/campipai.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1019
+        },
+        {
+            "title": "Portrait of the Artist's Sisters Playing Chess",
+            "date": "1555",
+            "technique": "Oil on canvas 72 x 97 cm",
+            "location": "Muzeum Narodowe Poznan",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/chess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1020
+        },
+        {
+            "title": "Asdrubale Bitten by a Crawfish",
+            "date": "c. 1554",
+            "technique": "Black chalk and charcoal on brown paper 333 x 385 mm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/crawfish.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 1021
+        },
+        {
+            "title": "Old Woman Studying the Alphabet with a Laughing Girl",
+            "date": "1550s",
+            "technique": "Black chalk heightened with white on paper mounted on canvas 301 x 345 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/laughing.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 1022
+        },
+        {
+            "title": "Portrait of Minerva Anguissola",
+            "date": "-",
+            "technique": "Oil on canvas 36 x 29 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/minerva.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1023
+        },
+        {
+            "title": "Portrait of a Nun",
+            "date": "1551",
+            "technique": "Oil on canvas 169 x 53 cm",
+            "location": "City Art Gallery Southampton",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/port_nun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1024
+        },
+        {
+            "title": "Profile Portrait of a Young Woman",
+            "date": "-",
+            "technique": "Oil on canvas 685 x 525 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/profport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1025
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1550s",
+            "technique": "Oil on canvas 45 x 34 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/s_portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1026
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1556",
+            "technique": "Oil on parchment 83 x 64 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/self_por.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1027
+        },
+        {
+            "title": "Self-Portrait at the Easel",
+            "date": "c. 1556",
+            "technique": "Oil on canvas 66 x 57 cm",
+            "location": "Muzeum-Zamek Lancut",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfease.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1028
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1554",
+            "technique": "Oil on panel 20 x 13 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1029
+        },
+        {
+            "title": "Self-Portrait Playing the Spinet",
+            "date": "1556-57",
+            "technique": "Oil on canvas 57 x 48 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfspin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1030
+        }
+    ]
+}

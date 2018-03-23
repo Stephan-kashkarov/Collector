@@ -1,0 +1,338 @@
+{
+    "name": "ARCHITECT Flemish",
+    "life": "(active after 1220s in Gent)",
+    "school": "Flemish",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "1228-29",
+            "technique": "Photo",
+            "location": "Van de Bijloke Abbey Gent",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1201.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1369
+        },
+        {
+            "title": "Interior view",
+            "date": "1227-47",
+            "technique": "Photo",
+            "location": "Notre-Dame Dinant (Namur)",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1221.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1370
+        },
+        {
+            "title": "Interior view",
+            "date": "1227-47",
+            "technique": "Photo",
+            "location": "Notre-Dame Dinant (Namur)",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1222.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1371
+        },
+        {
+            "title": "Interior view",
+            "date": "1227-47",
+            "technique": "Photo",
+            "location": "Notre-Dame Dinant (Namur)",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1223.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1372
+        },
+        {
+            "title": "Interior view",
+            "date": "1227-47",
+            "technique": "Photo",
+            "location": "Notre-Dame Dinant (Namur)",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1224.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1373
+        },
+        {
+            "title": "Exterior view",
+            "date": "1270-1486",
+            "technique": "Photo",
+            "location": "Cloth Hall Bruges",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/04f_1251.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1374
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1342",
+            "technique": "Photo",
+            "location": "St. Rumbold Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/03f_1301.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1375
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1342",
+            "technique": "Photo",
+            "location": "St. Rumbold Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/03f_1302.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1376
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1342",
+            "technique": "Photo",
+            "location": "St. Rumbold Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/03f_1303.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1377
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1342",
+            "technique": "Photo",
+            "location": "St. Rumbold Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/03f_1304.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1378
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1352",
+            "technique": "Photo",
+            "location": "Onze-Lieve-Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/04f_1351.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1379
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1352",
+            "technique": "Photo",
+            "location": "Onze-Lieve-Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/04f_1352.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1380
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1352",
+            "technique": "Photo",
+            "location": "Onze-Lieve-Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/04f_1353.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1381
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1370s",
+            "technique": "Photo",
+            "location": "St. John's Cathedral 's-Hertogenbosch",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/05f_1351.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1382
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1370s",
+            "technique": "Photo",
+            "location": "St. John's Cathedral 's-Hertogenbosch",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/05f_1352.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1383
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1311",
+            "technique": "Photo",
+            "location": "Notre-Dame Huy",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/06f_1301.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1384
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1311",
+            "technique": "Photo",
+            "location": "Notre-Dame Huy",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/06f_1302.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1385
+        },
+        {
+            "title": "Main ward of the hospital",
+            "date": "c. 1450",
+            "technique": "Photo",
+            "location": "H\u00f4tel-Dieu Beaune (C\u00f4te d'Or)",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/05f_1400.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1386
+        },
+        {
+            "title": "Interior view",
+            "date": "1400-48",
+            "technique": "Photo",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/05f_1401.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1387
+        },
+        {
+            "title": "Exterior view",
+            "date": "1448-63",
+            "technique": "Photo",
+            "location": "Town Hall Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/06f_1450.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1388
+        },
+        {
+            "title": "Exterior view",
+            "date": "1448-63",
+            "technique": "Photo",
+            "location": "Town Hall Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/06f_1451.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1389
+        },
+        {
+            "title": "Exterior view",
+            "date": "1448-63",
+            "technique": "Photo",
+            "location": "Town Hall Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/06f_1452.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1390
+        },
+        {
+            "title": "Exterior view",
+            "date": "1448-63",
+            "technique": "Photo",
+            "location": "Town Hall Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/06f_1453.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1391
+        },
+        {
+            "title": "Exterior view",
+            "date": "1450-1572",
+            "technique": "Photo",
+            "location": "Town Hall Arras (Pas-de-Calais)",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/07f_1451.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1392
+        },
+        {
+            "title": "Exterior view",
+            "date": "1402-54",
+            "technique": "Photo",
+            "location": "Town Hall Brussels",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/08f_1451.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1393
+        },
+        {
+            "title": "Belfry",
+            "date": "completed 1486",
+            "technique": "Photo",
+            "location": "Cloth Hall Bruges",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/08f_1452.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1394
+        },
+        {
+            "title": "Interior view",
+            "date": "1453-76",
+            "technique": "Photo",
+            "location": "Monastery church of Brou Bourg-en-Bresse (Ain)",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/09f_1451.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1395
+        },
+        {
+            "title": "Interior view",
+            "date": "1453-76",
+            "technique": "Photo",
+            "location": "Monastery church of Brou Bourg-en-Bresse (Ain)",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/09f_1452.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1396
+        },
+        {
+            "title": "Interior view",
+            "date": "1453-76",
+            "technique": "Photo",
+            "location": "Monastery church of Brou Bourg-en-Bresse (Ain)",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/09f_1453.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1397
+        },
+        {
+            "title": "Exterior view",
+            "date": "1569-1634",
+            "technique": "Photo",
+            "location": "Saint-Pierre Aire-sur-la-Lys (Pas-de-Calais)",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/6/01f_1551.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 1398
+        },
+        {
+            "title": "Exterior view",
+            "date": "1650-66",
+            "technique": "Photo",
+            "location": "Sint-Michielskerk Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/05f_1651.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1399
+        },
+        {
+            "title": "Exterior view",
+            "date": "1650-66",
+            "technique": "Photo",
+            "location": "Sint-Michielskerk Leuven",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/05f_1652.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1400
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1700",
+            "technique": "Photo",
+            "location": "Grande Place Brussels",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/05f_1653.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1401
+        }
+    ]
+}

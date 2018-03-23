@@ -1,0 +1,28 @@
+{
+    "name": "ZUCCHI Antonio",
+    "life": "(b. 1726 Venezia d. 1796 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Landscape Animated with Musicians Shepherds and Fishermen",
+            "date": "-",
+            "technique": "Quill and brown ink with grey and brown wash 460 x 670 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zucchi1/antonio/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44733
+        },
+        {
+            "title": "Agriculture",
+            "date": "1769",
+            "technique": "Oil on paper 48 x 98 cm",
+            "location": "English Heritage Kenwood",
+            "url": "https://www.wga.hu/html/z/zucchi1/antonio/lunette.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 44734
+        }
+    ]
+}

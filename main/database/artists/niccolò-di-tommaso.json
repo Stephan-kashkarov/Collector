@@ -1,0 +1,28 @@
+{
+    "name": "NICCOL\u00d2 DI TOMMASO",
+    "life": "(active 1350-1380)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "St Bridget and the Vision of the Nativity",
+            "date": "after 1372",
+            "technique": "Tempera on wood 44 x 54 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/n/niccolo/tommaso/bridget.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29618
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "after 1360",
+            "technique": "Tempera on panel 101 x 70 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/n/niccolo/tommaso/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29619
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "name": "NAIVEU Matthijs",
+    "life": "(b. 1647 Leiden d. 1726 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Candle-Lit Interior",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naiveu/candllit.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29333
+        },
+        {
+            "title": "Carnival Scene",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naiveu/carnival.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29334
+        },
+        {
+            "title": "Grapes in a Niche",
+            "date": "1680-1700",
+            "technique": "Oil on canvas 57 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naiveu/grapes.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29335
+        },
+        {
+            "title": "Interior with an Elegant Lady Receiving a Suitor",
+            "date": "c. 1695",
+            "technique": "Oil on canvas 55 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naiveu/interior.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29336
+        },
+        {
+            "title": "Newborn Baby",
+            "date": "1675",
+            "technique": "Oil on canvas 64 x 80 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/n/naiveu/newborn.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29337
+        },
+        {
+            "title": "Visit to the Nursery",
+            "date": "c. 1700",
+            "technique": "Oil on canvas 705 x 863 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/n/naiveu/nursery.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29338
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/naiveu/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29339
+        },
+        {
+            "title": "Boy and Girl Blowing Soap Bubbles",
+            "date": "-",
+            "technique": "Oil on canvas 50 x 42 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/n/naiveu/s_bubble.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29340
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "TORREGGIANI Alfonso",
+    "life": "(b. 1682 Budrio d. 1764 Bologna)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1744-52",
+            "technique": "Photo",
+            "location": "Palazzo Aldrovandi-Montanari Bologna",
+            "url": "https://www.wga.hu/html/t/torreggi/aldrovan.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 39905
+        },
+        {
+            "title": "Interior view",
+            "date": "1720-23",
+            "technique": "Photo",
+            "location": "Palazzo Davia-Bargellini Bologna",
+            "url": "https://www.wga.hu/html/t/torreggi/davia.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 39906
+        },
+        {
+            "title": "Interior view",
+            "date": "1720-23",
+            "technique": "Photo",
+            "location": "Palazzo Malvezzi De' Medici Bologna",
+            "url": "https://www.wga.hu/html/t/torreggi/malvezzi.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 39907
+        }
+    ]
+}

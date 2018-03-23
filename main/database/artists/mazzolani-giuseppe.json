@@ -1,0 +1,48 @@
+{
+    "name": "MAZZOLANI Giuseppe",
+    "life": "(b. 1842 Ferrara d. 1916 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Allegory of September",
+            "date": "1898",
+            "technique": "Pen and ink drawing",
+            "location": "Musei Civici d'Arte Antica Ferrara",
+            "url": "https://www.wga.hu/html/m/mazzolan/schifan1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25341
+        },
+        {
+            "title": "Allegory of August",
+            "date": "1898",
+            "technique": "Pen and ink drawing",
+            "location": "Musei Civici d'Arte Antica Ferrara",
+            "url": "https://www.wga.hu/html/m/mazzolan/schifan2.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25342
+        },
+        {
+            "title": "Allegory of March (detail)",
+            "date": "1898",
+            "technique": "Pen and ink drawing 74 x 1145 mm",
+            "location": "Musei Civici d'Arte Antica Ferrara",
+            "url": "https://www.wga.hu/html/m/mazzolan/schifan3.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25343
+        },
+        {
+            "title": "Allegory of April (detail)",
+            "date": "1898",
+            "technique": "Pen and ink drawing 750 x 1190 mm",
+            "location": "Musei Civici d'Arte Antica Ferrara",
+            "url": "https://www.wga.hu/html/m/mazzolan/schifan4.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 25344
+        }
+    ]
+}

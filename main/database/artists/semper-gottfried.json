@@ -1,0 +1,38 @@
+{
+    "name": "SEMPER Gottfried",
+    "life": "(b. 1803 Altona d. 1879 Roma)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1878",
+            "technique": "Photo",
+            "location": "Semperoper Theaterplatz Dresden",
+            "url": "https://www.wga.hu/html/s/semper/opera1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36887
+        },
+        {
+            "title": "The First Opera House in Dresden",
+            "date": "c. 1850",
+            "technique": "Coloured engraving",
+            "location": "Kupferstichkabinett Dresden",
+            "url": "https://www.wga.hu/html/s/semper/opera2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 36888
+        },
+        {
+            "title": "Opera House",
+            "date": "1838-41",
+            "technique": "Engraving",
+            "location": "Kupferstichkabinett Dresden",
+            "url": "https://www.wga.hu/html/s/semper/opera3.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 36889
+        }
+    ]
+}

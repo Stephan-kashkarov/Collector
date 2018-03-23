@@ -1,0 +1,58 @@
+{
+    "name": "MARTIN Jean-Baptiste",
+    "life": "(b. 1659 Paris d. 1735 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Cavalry Attack",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/martin_j/c_attack.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24375
+        },
+        {
+            "title": "Crossing the Rhine",
+            "date": "-",
+            "technique": "Oil on canvas 88 x 179 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/martin_j/crossing.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24376
+        },
+        {
+            "title": "View of the Orangerie (detail)",
+            "date": "1688-90",
+            "technique": "Oil on canvas",
+            "location": "Salon Grand Trianon Versailles",
+            "url": "https://www.wga.hu/html/m/martin_j/orangeri.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24377
+        },
+        {
+            "title": "King Louis XIV and His Retinue at the Siege of a Walled City",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 114 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/martin_j/siege.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 24378
+        },
+        {
+            "title": "The Stables Viewed from the Ch\u00e2teau at Versailles",
+            "date": "1688-90",
+            "technique": "Oil on canvas 260 x 184 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/m/martin_j/stables.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 24379
+        }
+    ]
+}

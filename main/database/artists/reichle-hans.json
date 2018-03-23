@@ -1,0 +1,38 @@
+{
+    "name": "REICHLE Hans",
+    "life": "(b. ca. 1570 Schongau d. 1642 Brixen)",
+    "school": "German",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Archangel Michael",
+            "date": "1603-06",
+            "technique": "Bronze over-life-size",
+            "location": "Fa\u00e7ade of the Arsenal Augsburg",
+            "url": "https://www.wga.hu/html/r/reichle/archange.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33355
+        },
+        {
+            "title": "Crucifixion group",
+            "date": "1605",
+            "technique": "Bronze",
+            "location": "Collegiate church of St. Ulrich and St. Afra Augsburg",
+            "url": "https://www.wga.hu/html/r/reichle/crucifix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33356
+        },
+        {
+            "title": "Crucifixion group (detail)",
+            "date": "1605",
+            "technique": "Bronze height 190 cm",
+            "location": "Collegiate church of St. Ulrich and St. Afra Augsburg",
+            "url": "https://www.wga.hu/html/r/reichle/crucifiz.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33357
+        }
+    ]
+}

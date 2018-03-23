@@ -1,0 +1,28 @@
+{
+    "name": "GAUDREAUS Antoine-Robert",
+    "life": "(b. ca. 1682 Paris d. 1746 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Chest of drawers",
+            "date": "1739",
+            "technique": "Veneered on oak with kingwood and satin\u00e9 height 89 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/g/gaudreau/chest1.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 14895
+        },
+        {
+            "title": "Chest of drawers",
+            "date": "1735-40",
+            "technique": "Veneered on oak with kingwood height 93 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/g/gaudreau/chest2.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 14896
+        }
+    ]
+}

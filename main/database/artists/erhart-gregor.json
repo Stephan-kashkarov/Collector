@@ -1,0 +1,38 @@
+{
+    "name": "ERHART Gregor",
+    "life": "(b. 1460/79 Ulm d. 1540 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ Child with the Terrestrial Globe",
+            "date": "c. 1500",
+            "technique": "Polychromed limewood height 565 cm",
+            "location": "Museum f\u00fcr Kunst und Gewerbe Hamburg",
+            "url": "https://www.wga.hu/html/e/erhart/gregor/christ_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13201
+        },
+        {
+            "title": "Mary Magdalene",
+            "date": "c. 1500",
+            "technique": "Polychrome limewood",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/e/erhart/gregor/marymagd.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13202
+        },
+        {
+            "title": "Vanitas",
+            "date": "c. 1500",
+            "technique": "Wood height 46 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/e/erhart/gregor/vanitas.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 13203
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "name": "MECKENEM Israhel van the Younger",
+    "life": "(b. 1440/45 Meckenheim d. 1503 Bocholt)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Artist and His Wife Ida",
+            "date": "c. 1490",
+            "technique": "Copper engraving 142 x 175 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/meckenem/artist_w.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25378
+        },
+        {
+            "title": "The Artist and his Wife Ida",
+            "date": "c. 1490",
+            "technique": "Copper engraving 124 x 171 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/meckenem/artist_z.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25379
+        },
+        {
+            "title": "Dance at the Court of Herod",
+            "date": "c. 1500",
+            "technique": "Engraving 216 x 314 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/meckenem/herod.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25380
+        },
+        {
+            "title": "The Lute Player and the Harpist",
+            "date": "c. 1490",
+            "technique": "Copper engraving 165 x 117 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/m/meckenem/luteharp.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 25381
+        },
+        {
+            "title": "Mass of St Gregory",
+            "date": "1490-95",
+            "technique": "Engraving 464 x 295 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/meckenem/massgreg.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25382
+        },
+        {
+            "title": "Morris Dance",
+            "date": "c. 1475",
+            "technique": "Engraving diameter 174 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/meckenem/morris_d.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 25383
+        },
+        {
+            "title": "Visit to the Spinner",
+            "date": "1495-1500",
+            "technique": "Engraving 162 x 111 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/meckenem/spinner.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 25384
+        },
+        {
+            "title": "Vera icon",
+            "date": "c. 1490",
+            "technique": "Engraving 168 x 112 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/meckenem/veraicon.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 25385
+        }
+    ]
+}

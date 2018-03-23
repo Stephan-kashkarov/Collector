@@ -1,0 +1,158 @@
+{
+    "name": "ANGELI Giuseppe",
+    "life": "(b. 1712 Venezia d. 1798 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "View of the ballroom",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/1mira.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 725
+        },
+        {
+            "title": "The Sacrifice of Iphigenia",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/2mira.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 726
+        },
+        {
+            "title": "The Abduction of Helen",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/3mira.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 727
+        },
+        {
+            "title": "The Abduction of Helen (detail)",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/3mira1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 728
+        },
+        {
+            "title": "View of the ceiling in the ballroom",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/4mira.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 729
+        },
+        {
+            "title": "Ceiling fresco in the ballroom (detail)",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/4mira1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 730
+        },
+        {
+            "title": "Coriolanus Accepting the Command of the Roman Troops",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/5mira1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 731
+        },
+        {
+            "title": "Curtius Rufus on his Horse",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/5mira2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 732
+        },
+        {
+            "title": "Scipio Combating the Carthaginians",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/5mira3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 733
+        },
+        {
+            "title": "Mucius Scaevola before Porsenna",
+            "date": "1760",
+            "technique": "Fresco",
+            "location": "Villa Widmann Mira",
+            "url": "https://www.wga.hu/html/a/angeli/5mira4.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 734
+        },
+        {
+            "title": "The Immaculate Conception",
+            "date": "1765",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/a/angeli/immacula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 735
+        },
+        {
+            "title": "Lesson in Astronomy",
+            "date": "1757-59",
+            "technique": "Oil on canvas 100 x 45 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/angeli/lesson.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 736
+        },
+        {
+            "title": "St Roch in Glory",
+            "date": "c. 1754",
+            "technique": "Oil on canvas 251 x 166 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/a/angeli/rocco1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 737
+        },
+        {
+            "title": "Faith",
+            "date": "c. 1754",
+            "technique": "Oil on canvas 155 x 150 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/a/angeli/rocco2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 738
+        },
+        {
+            "title": "Charity",
+            "date": "c. 1754",
+            "technique": "Oil on canvas 155 x 150 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/a/angeli/rocco3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 739
+        }
+    ]
+}

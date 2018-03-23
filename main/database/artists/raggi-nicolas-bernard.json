@@ -1,0 +1,28 @@
+{
+    "name": "RAGGI Nicolas-Bernard",
+    "life": "(b. 1790 Carrara d. 1862 Paris)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Henri IV",
+            "date": "1819-43",
+            "technique": "Marble",
+            "location": "Place Royale Pau",
+            "url": "https://www.wga.hu/html/r/raggi_n/henri_iv.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 33180
+        },
+        {
+            "title": "Monument to Comte Frochot",
+            "date": "1829",
+            "technique": "Stone",
+            "location": "Pere Lachaise Cemetery Paris",
+            "url": "https://www.wga.hu/html/r/raggi_n/monument.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33181
+        }
+    ]
+}

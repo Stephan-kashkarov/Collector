@@ -1,0 +1,48 @@
+{
+    "name": "BENOUVILLE Fran\u00e7ois-L\u00e9on",
+    "life": "(b. 1821 Paris d. 1859 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Wrath of Achilles",
+            "date": "1847",
+            "technique": "Oil on canvas 156 x 95 cm",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/b/benouvil/francois/achilles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4065
+        },
+        {
+            "title": "Esther",
+            "date": "1844",
+            "technique": "Oil on canvas 122 x 162 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Pau",
+            "url": "https://www.wga.hu/html/b/benouvil/francois/esther.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 4066
+        },
+        {
+            "title": "Nicolas Poussin on the Banks of the Tiber",
+            "date": "1856",
+            "technique": "Watercolour and paint on paper 227 x 395 mm",
+            "location": "Historisch Museum Amsterdam",
+            "url": "https://www.wga.hu/html/b/benouvil/francois/poussin.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 4067
+        },
+        {
+            "title": "Two Men Ascending a Stair",
+            "date": "-",
+            "technique": "Brush and black ink black and white chalk",
+            "location": "Michael C. Carlos Museum of Emory University Atlanta",
+            "url": "https://www.wga.hu/html/b/benouvil/francois/two_men.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 4068
+        }
+    ]
+}

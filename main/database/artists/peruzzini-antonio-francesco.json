@@ -1,0 +1,38 @@
+{
+    "name": "PERUZZINI Antonio Francesco",
+    "life": "(b. ca. 1646 Ancona d. 1724 Milano)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Mediterranean Coastal Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 94 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/peruzzin/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30904
+        },
+        {
+            "title": "Landscape with Hermit Pilgrim and Peasant Woman",
+            "date": "-",
+            "technique": "Oil on canvas 139 x 110 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/peruzzin/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30905
+        },
+        {
+            "title": "Temptation of St Anthony",
+            "date": "1706-07",
+            "technique": "Oil on canvas 115 x 93 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/peruzzin/temptati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30906
+        }
+    ]
+}

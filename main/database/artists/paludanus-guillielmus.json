@@ -1,0 +1,28 @@
+{
+    "name": "PALUDANUS Guillielmus",
+    "life": "(b. 1530 Mechelen d. 1579 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Garden of Eden or Love",
+            "date": "1567",
+            "technique": "White stone 20 x 835 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/p/paludanu/garden.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 30289
+        },
+        {
+            "title": "The Garden of Eden or Love (detail)",
+            "date": "1567",
+            "technique": "White stone",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/p/paludanu/garden1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 30290
+        }
+    ]
+}

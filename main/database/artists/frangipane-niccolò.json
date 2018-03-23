@@ -1,0 +1,38 @@
+{
+    "name": "FRANGIPANE Niccol\u00f2",
+    "life": "(active 1563-1585)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Holy Family with the Infant St John the Baptist",
+            "date": "1595",
+            "technique": "Oil on canvas 98 x 137 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/frangipa/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14400
+        },
+        {
+            "title": "The Holy Family with the Infant St John",
+            "date": "1585",
+            "technique": "Oil on canvas 102 x 121 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/frangipa/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14401
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1593",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/f/frangipa/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14402
+        }
+    ]
+}

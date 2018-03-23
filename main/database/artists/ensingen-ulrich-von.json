@@ -1,0 +1,38 @@
+{
+    "name": "ENSINGEN Ulrich von",
+    "life": "(b. ca. 1365 Swabia d. 1419 Strasbourg)",
+    "school": "German",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1392-1471",
+            "technique": "Photo",
+            "location": "Minster Ulm",
+            "url": "https://www.wga.hu/html/e/ensingen/minster1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13182
+        },
+        {
+            "title": "Interior view",
+            "date": "1392-1471",
+            "technique": "Photo",
+            "location": "Minster Ulm",
+            "url": "https://www.wga.hu/html/e/ensingen/minster2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13183
+        },
+        {
+            "title": "Interior view",
+            "date": "after 1392",
+            "technique": "Photo",
+            "location": "Minster Ulm",
+            "url": "https://www.wga.hu/html/e/ensingen/minster3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 13184
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CODINO Francesco",
+    "life": "(b. ca. 1590 Frankfurt(?)- d. ca. 1635 Italy)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on poplar panel 43 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codino/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9208
+        },
+        {
+            "title": "Still-Life",
+            "date": "1620s",
+            "technique": "Oil on panel 41 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codino/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9209
+        },
+        {
+            "title": "Still-Life with Fruit",
+            "date": "1620-24",
+            "technique": "Oil on panel 42 x 66 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/c/codino/stillif3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9210
+        }
+    ]
+}

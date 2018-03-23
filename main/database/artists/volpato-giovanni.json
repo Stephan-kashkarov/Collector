@@ -1,0 +1,28 @@
+{
+    "name": "VOLPATO Giovanni",
+    "life": "(b. 1733 Bassano d. 1803 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Clio",
+            "date": "1790s",
+            "technique": "Bisque height 30 cm",
+            "location": "Liebieghaus Frankfurt",
+            "url": "https://www.wga.hu/html/v/volpato/clio.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43511
+        },
+        {
+            "title": "Thalia",
+            "date": "1790s",
+            "technique": "Bisque height 313 cm",
+            "location": "Liebieghaus Frankfurt",
+            "url": "https://www.wga.hu/html/v/volpato/thalia.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 43512
+        }
+    ]
+}

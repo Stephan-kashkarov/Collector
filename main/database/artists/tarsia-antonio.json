@@ -1,0 +1,28 @@
+{
+    "name": "TARSIA Antonio",
+    "life": "(b. ca. 1662 Venezia d. 1739 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Charity",
+            "date": "1700-10",
+            "technique": "Marble",
+            "location": "San Stae Venice",
+            "url": "https://www.wga.hu/html/t/tarsia/charity.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38501
+        },
+        {
+            "title": "Monument to the Valier Family",
+            "date": "1705-08",
+            "technique": "Marble",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/t/tarsia/valier.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 38502
+        }
+    ]
+}

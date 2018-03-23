@@ -1,0 +1,38 @@
+{
+    "name": "CIOLI Valerio",
+    "life": "(b. ca. 1529 Settignano d. 1599 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Fountain of the Dwarf Pietro Barbino",
+            "date": "1561-68",
+            "technique": "Marble",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/cioli/barbino.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8925
+        },
+        {
+            "title": "Fountain",
+            "date": "1590s",
+            "technique": "Marble",
+            "location": "Boboli Gardens Florence",
+            "url": "https://www.wga.hu/html/c/cioli/fountain.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8926
+        },
+        {
+            "title": "Venus",
+            "date": "1561",
+            "technique": "Bronze height 60 cm (without the base)",
+            "location": "Museo di Palazzo Davanzati Florence",
+            "url": "https://www.wga.hu/html/c/cioli/venus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8927
+        }
+    ]
+}

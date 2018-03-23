@@ -1,0 +1,148 @@
+{
+    "name": "LE SUEUR Eustache",
+    "life": "(b. 1616/17 Paris d. 1655 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Birth of Cupid",
+            "date": "1645-47",
+            "technique": "Oil on panel 182 x 125 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/birth_cu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21757
+        },
+        {
+            "title": "Caligula Depositing the Ashes of his Mother and Brother in the Tomb of his Ancestors",
+            "date": "1647",
+            "technique": "Oil on canvas 167 x 143 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/l/le_sueur/caligula.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 21758
+        },
+        {
+            "title": "A Gathering of Friends",
+            "date": "1640-42",
+            "technique": "Oil on canvas 127 x 195 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/friends.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21759
+        },
+        {
+            "title": "St Gervase and St Protase Brought before Anastasius",
+            "date": "1652",
+            "technique": "Oil on canvas 357 x 684 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/gervase.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21760
+        },
+        {
+            "title": "Christ Healing the Blind Man",
+            "date": "-",
+            "technique": "Oil on panel 49 x 65 cm",
+            "location": "Schloss Sanssouci Berlin",
+            "url": "https://www.wga.hu/html/l/le_sueur/healing.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21761
+        },
+        {
+            "title": "The Muses: Clio Euterpe and Thalia",
+            "date": "1652-55",
+            "technique": "Oil on wood 130 x 130 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/muses.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21762
+        },
+        {
+            "title": "The Muses: Melpomene Erato and Polyhymnia",
+            "date": "1652-55",
+            "technique": "Oil on canvas 130 x 130 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/muses2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21763
+        },
+        {
+            "title": "Allegory of Poetry",
+            "date": "1640-42",
+            "technique": "Oil on canvas 130 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/le_sueur/poetry.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21764
+        },
+        {
+            "title": "The Preaching of St Paul at Ephesus",
+            "date": "1649",
+            "technique": "Oil on canvas 394 x 328 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/preachin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21765
+        },
+        {
+            "title": "Presentation of the Virgin",
+            "date": "c. 1641",
+            "technique": "Oil on canvas 103 x 102 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/le_sueur/presenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21766
+        },
+        {
+            "title": "The Rape of Tamar",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 189 x 161 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/le_sueur/raptamar.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21767
+        },
+        {
+            "title": "St Bruno Appearing to Comte Roger",
+            "date": "1645-48",
+            "technique": "Oil on canvas 193 x 130 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/st_bruno.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21768
+        },
+        {
+            "title": "The Muse Terpsichore",
+            "date": "1652-55",
+            "technique": "Oil on panel 116 x 74 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/le_sueur/terpsich.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21769
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 64 x 52 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/l/le_sueur/youngman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21770
+        }
+    ]
+}

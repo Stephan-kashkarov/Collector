@@ -1,0 +1,88 @@
+{
+    "name": "FR\u00c9MIET Emmanuel",
+    "life": "(b. 1824 Paris d. 1910 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Pan with Bear Cubs",
+            "date": "1867",
+            "technique": "Marble 82 x 182 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/f/fremiet/bearcubs.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 14410
+        },
+        {
+            "title": "Two Seated Bloodhounds",
+            "date": "-",
+            "technique": "Bronze height 31 cm (overall)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fremiet/bloodhou.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14411
+        },
+        {
+            "title": "Crane",
+            "date": "-",
+            "technique": "Bronze 7 x 3 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/f/fremiet/crane.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14412
+        },
+        {
+            "title": "Female Gorilla Carrying off a Negress (destroyed)",
+            "date": "1859",
+            "technique": "Plaster",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/f/fremiet/gorilla.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14413
+        },
+        {
+            "title": "Race-Horses and Jockeys",
+            "date": "1855",
+            "technique": "Bronze 46 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fremiet/jockeys.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14414
+        },
+        {
+            "title": "Moli\u00e8re",
+            "date": "c. 1875",
+            "technique": "Sand cast bronze height 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fremiet/moliere.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 14415
+        },
+        {
+            "title": "Saint George Slaying the Dragon",
+            "date": "1871",
+            "technique": "Bronze height 50 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/f/fremiet/sgeorge.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 14416
+        },
+        {
+            "title": "St Michael",
+            "date": "after 1897",
+            "technique": "Copper height 617 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/f/fremiet/smichael.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 14417
+        }
+    ]
+}

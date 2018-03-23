@@ -1,0 +1,268 @@
+{
+    "name": "PIAZZETTA Giovanni Battista",
+    "life": "(b. 1682 Venezia d. 1754 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Virgin Appearing to St Philip Neri",
+            "date": "1725",
+            "technique": "Oil on canvas 367 x 200 cm",
+            "location": "Santa Maria della Consolazione (Fava) Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/appearin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30992
+        },
+        {
+            "title": "Beggar Boy",
+            "date": "1725-30",
+            "technique": "Oil on canvas 67 x 55 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/beggar_b.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30993
+        },
+        {
+            "title": "Christ Crucified between the Two Thieves",
+            "date": "c. 1710",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/christ_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30994
+        },
+        {
+            "title": "The Death of Darius",
+            "date": "c. 1746",
+            "technique": "Oil on canvas 240 x 480 cm",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/death_da.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30995
+        },
+        {
+            "title": "The Death of Darius (detail)",
+            "date": "c. 1746",
+            "technique": "Oil on canvas",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/death_db.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 30996
+        },
+        {
+            "title": "The Glory of St Dominic",
+            "date": "1727",
+            "technique": "Oil on canvas 780 x 600 cm",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/dominic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30997
+        },
+        {
+            "title": "The Glory of St Dominic",
+            "date": "1727",
+            "technique": "Oil on canvas 780 x 600 cm",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/dominic1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30998
+        },
+        {
+            "title": "Three Dominican Saints",
+            "date": "1738",
+            "technique": "Oil on canvas 345 x 172 cm",
+            "location": "Santa Maria del Rosario (Gesuati) Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/dominica.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30999
+        },
+        {
+            "title": "Three Dominican Saints (detail)",
+            "date": "1738",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria dei Gesuati Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/dominicx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31000
+        },
+        {
+            "title": "The Ecstasy of St Francis",
+            "date": "1729",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Civica Vicenza",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/ecstasy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31001
+        },
+        {
+            "title": "A Young Ensign",
+            "date": "c. 1742",
+            "technique": "Oil on canvas 87 x 72 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/ensign.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 31002
+        },
+        {
+            "title": "The Guardian Angel with Sts Anthony of Padua and Gaetano Thiene",
+            "date": "c. 1729",
+            "technique": "Oil on canvas 250 x 112 cm",
+            "location": "San Vidal Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/guardian.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31003
+        },
+        {
+            "title": "Idyll at the Coast",
+            "date": "c. 1741",
+            "technique": "Oil on canvas 197 x 146 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/idyll.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31004
+        },
+        {
+            "title": "The Sacrifice of Isaac",
+            "date": "c. 1715",
+            "technique": "Oil on canvas 100 x 126 cm",
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/isaac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31005
+        },
+        {
+            "title": "Judith and Holofernes",
+            "date": "c. 1745",
+            "technique": "Oil on canvas 197 x 186 cm",
+            "location": "Scuola Grande dei Carmini Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/judithol.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31006
+        },
+        {
+            "title": "Rebecca at the Well",
+            "date": "c. 1740",
+            "technique": "Oil on canvas 102 x 137 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/rebecca.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31007
+        },
+        {
+            "title": "Mucius Scaevola before King Porsenna",
+            "date": "1745",
+            "technique": "Oil on canvas 316 x 302 cm",
+            "location": "Palazzo Barbaro-Curtiz Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/scaevola.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 31008
+        },
+        {
+            "title": "Peasant Girl",
+            "date": "1720-22",
+            "technique": "Oil on canvas 66 x 83 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/shepher.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 31009
+        },
+        {
+            "title": "Shepherd Boy",
+            "date": "1720-22",
+            "technique": "Oil on canvas 66 x 83 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/shepherd.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 31010
+        },
+        {
+            "title": "The Soothsayer",
+            "date": "c. 1740",
+            "technique": "Oil on canvas 154 x 114 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/soothsay.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 31011
+        },
+        {
+            "title": "Martyrdom of St James",
+            "date": "1722",
+            "technique": "Oil on canvas 165 x 138 cm",
+            "location": "San Stae Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/st_james.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31012
+        },
+        {
+            "title": "Martyrdom of St James",
+            "date": "1722",
+            "technique": "Oil on canvas 165 x 138 cm",
+            "location": "San Stae Venice",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/st_jamex.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31013
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1740s",
+            "technique": "Oil on canvas 48 x 39 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31014
+        },
+        {
+            "title": "St Joseph with the Child",
+            "date": "1730s",
+            "technique": "Oil on canvas 57 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/st_josep.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31015
+        },
+        {
+            "title": "St Theresa in Ecstasy",
+            "date": "-",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/theresa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31016
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1735",
+            "technique": "Oil on canvas 517 x 243 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/piazzett/giovanni/virgin_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31017
+        }
+    ]
+}

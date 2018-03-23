@@ -1,0 +1,28 @@
+{
+    "name": "LEFEBVRE Claude",
+    "life": "(b. 1637 Fontainebleau d. 1675 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of Jean-Baptiste Colbert",
+            "date": "1666",
+            "technique": "Oil on canvas 118 x 113 cm",
+            "location": "Ch\u00e2teau de Versailles Versailles",
+            "url": "https://www.wga.hu/html/l/lefebvre/colbert.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21824
+        },
+        {
+            "title": "A Teacher and his Pupil",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 135 x 111 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lefebvre/teacher.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21825
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "name": "BERRUGUETE Pedro",
+    "life": "(b. 1450 Paredes de Nava d. 1504 \u00c1vila)",
+    "school": "Spanish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "-",
+            "technique": "Oil on panel 350 x 206 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4388
+        },
+        {
+            "title": "Two Wise Men",
+            "date": "-",
+            "technique": "Oil on panel 350 x 206 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/adoratiw.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4389
+        },
+        {
+            "title": "Annunciation",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Monastery of Miraflores Burgos",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4390
+        },
+        {
+            "title": "Christ on the Cross",
+            "date": "1493-99",
+            "technique": "Oil on wood 186 x 131 cm",
+            "location": "Diputaci\u00f3n Provincial Segovia",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/christ_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4391
+        },
+        {
+            "title": "Burning of the Heretics (Auto-da-f\u00e9)",
+            "date": "c. 1500",
+            "technique": "Oil on panel 154 x 92 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/dominic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4392
+        },
+        {
+            "title": "St Dominic Resurrects a Boy",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on wood 122 x 83 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/dominic1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4393
+        },
+        {
+            "title": "St Dominic and the Albigenses",
+            "date": "c. 1495",
+            "technique": "Tempera and oil on wood 122 x 83 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/dominic2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4394
+        },
+        {
+            "title": "Holy Family",
+            "date": "1500",
+            "technique": "Panel",
+            "location": "Private collection Paredes de Nava",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4395
+        },
+        {
+            "title": "Prince Federico da Montefeltro and his Son",
+            "date": "1480-81",
+            "technique": "Oil on panel 134 x 77 cm",
+            "location": "Galleria Nazionale delle Marche Urbino",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/montefel.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4396
+        },
+        {
+            "title": "Plato",
+            "date": "c. 1477",
+            "technique": "Wood 101 x 69 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/plato.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4397
+        },
+        {
+            "title": "David",
+            "date": "c. 1500",
+            "technique": "Oil on wood 110 x 80 cm",
+            "location": "Santa Eulalia Paredes de Nava",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/prophet1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4398
+        },
+        {
+            "title": "Salomon",
+            "date": "c. 1500",
+            "technique": "Oil on wood 110 x 80 cm",
+            "location": "Santa Eulalia Paredes de Nava",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/prophet2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4399
+        },
+        {
+            "title": "Ezekiel",
+            "date": "c. 1500",
+            "technique": "Oil on wood 110 x 80 cm",
+            "location": "Santa Eulalia Paredes de Nava",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/prophet3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4400
+        },
+        {
+            "title": "Self-portrait",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo L\u00e1zaro Galdiano Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4401
+        },
+        {
+            "title": "The Tomb of Saint Peter Martyr",
+            "date": "c. 1495",
+            "technique": "Oil on wood 131 x 85 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/tomb_pet.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4402
+        },
+        {
+            "title": "The Death of Saint Peter Martyr",
+            "date": "c. 1495",
+            "technique": "Oil on wood 128 x 82 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/tomb_pex.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4403
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1500",
+            "technique": "Panel",
+            "location": "Municipal Museum Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4404
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Panel 58 x 43 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4405
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1475",
+            "technique": "Oil on wood 65 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/berrugue/pedro/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4406
+        }
+    ]
+}

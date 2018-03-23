@@ -1,0 +1,918 @@
+{
+    "name": "GIULIO ROMANO",
+    "life": "(b. ca. 1499 Roma d. 1546 Mantova)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "View of the Sala dei Giganti (south and west walls)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/0view1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16761
+        },
+        {
+            "title": "View of the Sala dei Giganti (west and north walls)",
+            "date": "1526-34",
+            "technique": "Fresco",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/0view2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16762
+        },
+        {
+            "title": "View of the Sala dei Giganti (vault and south wall)",
+            "date": "1526-34",
+            "technique": "Fresco",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/0view3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16763
+        },
+        {
+            "title": "View of the Sala dei Giganti (west wall)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/1west.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16764
+        },
+        {
+            "title": "View of the Sala dei Giganti (south wall)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/2south.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16765
+        },
+        {
+            "title": "Fresco on the south wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/2south1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16766
+        },
+        {
+            "title": "Fresco on the south wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/2south2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16767
+        },
+        {
+            "title": "Fresco on the south wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/2south3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16768
+        },
+        {
+            "title": "Fresco on the south wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/2south4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16769
+        },
+        {
+            "title": "View of the Sala dei Giganti (east wall)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/3east.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16770
+        },
+        {
+            "title": "Fresco on the east wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/3east1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16771
+        },
+        {
+            "title": "View of the Sala dei Giganti (north wall)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/4north0.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16772
+        },
+        {
+            "title": "Fresco on the north wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/4north1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16773
+        },
+        {
+            "title": "Fresco on the north wall (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/4north2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16774
+        },
+        {
+            "title": "Vault: The Assembly of Gods around Jupiter's Throne",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/5vault.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16775
+        },
+        {
+            "title": "Vault: The Assembly of Gods around Jupiter's Throne (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/5vault1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16776
+        },
+        {
+            "title": "Vault: The Assembly of Gods around Jupiter's Throne (detail)",
+            "date": "1532-34",
+            "technique": "Fresco",
+            "location": "Sala dei Giganti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/giganti/5vault2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16777
+        },
+        {
+            "title": "View of the Sala di Psiche (west and north walls)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/0view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16778
+        },
+        {
+            "title": "View of the Sala di Psiche (south wall)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16779
+        },
+        {
+            "title": "View of the Sala di Psiche (south wall)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south0.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16780
+        },
+        {
+            "title": "Tribute to Apollo",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16781
+        },
+        {
+            "title": "Tribute to Apollo",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16782
+        },
+        {
+            "title": "The Old Woman and Vulcan Tribute to Apollo",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16783
+        },
+        {
+            "title": "The Old Woman and Vulcan",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16784
+        },
+        {
+            "title": "Cupid and Psyche",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/1south5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16785
+        },
+        {
+            "title": "View of the Sala di Psiche (north wall)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/2north.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16786
+        },
+        {
+            "title": "Venus and Mars Bathing",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/2north1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16787
+        },
+        {
+            "title": "Mars Chasing Adonis from Venus's Pavilion",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/2north2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16788
+        },
+        {
+            "title": "Psyche's Second Task (River Deity)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/2north3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16789
+        },
+        {
+            "title": "View of the Sala di Psiche (east wall)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/3east.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16790
+        },
+        {
+            "title": "Polyphemus",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/3east1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16791
+        },
+        {
+            "title": "Jupiter Seducing Olympias",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/3east2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16792
+        },
+        {
+            "title": "Psyche Appealing in Vain to Juno",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/3east3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16793
+        },
+        {
+            "title": "View of the Sala di Psiche (west wall)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/4west.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16794
+        },
+        {
+            "title": "River Landscape with Springs",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/4west1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16795
+        },
+        {
+            "title": "Vaulted ceiling",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16796
+        },
+        {
+            "title": "Vaulted ceiling (detail)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16797
+        },
+        {
+            "title": "Vaulted ceiling (detail)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16798
+        },
+        {
+            "title": "Vaulted ceiling (detail)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16799
+        },
+        {
+            "title": "Vaulted ceiling (detail)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16800
+        },
+        {
+            "title": "Vaulted ceiling (detail)",
+            "date": "1526-28",
+            "technique": "Fresco",
+            "location": "Sala di Psiche Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/psyche/5vault5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16801
+        },
+        {
+            "title": "View of the Palazzo del T\u00e8",
+            "date": "1526-34",
+            "technique": "Photo",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/view.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 16802
+        },
+        {
+            "title": "Fa\u00e7ade",
+            "date": "1526-34",
+            "technique": "Photo",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/view0.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 16803
+        },
+        {
+            "title": "Fa\u00e7ade and courtyard view",
+            "date": "1526-34",
+            "technique": "Photo",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/view1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 16804
+        },
+        {
+            "title": "View of the Salone dei Cavalli",
+            "date": "c. 1526",
+            "technique": "Fresco",
+            "location": "Salone dei Cavalli Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/1cavall.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16805
+        },
+        {
+            "title": "View of the Salone dei Cavalli",
+            "date": "c. 1526",
+            "technique": "Fresco",
+            "location": "Salone dei Cavalli Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/1cavall1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16806
+        },
+        {
+            "title": "The Horse \"\"Morel favorito\"\"\"c. 1526Fresco\"Salone dei Cavalli Palazzo del T\u00e8 Mantua",
+            "date": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/1cavall2.html",
+            "technique": "painting",
+            "location": "other",
+            "url": "Italian",
+            "form": "1501-1550",
+            "painting_type": "",
+            "index": 16807
+        },
+        {
+            "title": "Ceiling (detail)",
+            "date": "c. 1526",
+            "technique": "Fresco",
+            "location": "Salone dei Cavalli Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/1cavall3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16808
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16809
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16810
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16811
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16812
+        },
+        {
+            "title": "The Prisoners",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16813
+        },
+        {
+            "title": "Hunting Scene",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti6.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 16814
+        },
+        {
+            "title": "Hunting Scene",
+            "date": "1527-28",
+            "technique": "Fresco",
+            "location": "Camera dei Venti Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/2venti7.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 16815
+        },
+        {
+            "title": "Vaulted ceiling",
+            "date": "1526",
+            "technique": "Fresco",
+            "location": "Stanza del Sole Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/3sole1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16816
+        },
+        {
+            "title": "Chariot of the Sun",
+            "date": "1526",
+            "technique": "Fresco",
+            "location": "Stanza del Sole Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/1pala_te/z_other/3sole2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16817
+        },
+        {
+            "title": "View of the Sala di Troia",
+            "date": "1536-40",
+            "technique": "Fresco",
+            "location": "Sala di Troia Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/1troia1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16818
+        },
+        {
+            "title": "View of the Sala di Troia",
+            "date": "1536-40",
+            "technique": "Fresco",
+            "location": "Sala di Troia Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/1troia2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16819
+        },
+        {
+            "title": "View of the Sala di Troia",
+            "date": "1538-39",
+            "technique": "Fresco",
+            "location": "Sala di Troia Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/1troia3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 16820
+        },
+        {
+            "title": "Ajax Defends Patroclus's Corps",
+            "date": "1538-39",
+            "technique": "Fresco",
+            "location": "Sala di Troia Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/1troia4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16821
+        },
+        {
+            "title": "Emperor Alexander",
+            "date": "1532",
+            "technique": "Fresco",
+            "location": "Camerino dei Cesari Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/2cesari1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 16822
+        },
+        {
+            "title": "Coat-of-arms",
+            "date": "1532",
+            "technique": "Fresco",
+            "location": "Camerino dei Cesari Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/2cesari2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16823
+        },
+        {
+            "title": "Frieze (detail)",
+            "date": "1532",
+            "technique": "Fresco",
+            "location": "Camerino dei Cesari Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/2cesari3.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 16824
+        },
+        {
+            "title": "Triumph of Titus and Vespasian",
+            "date": "1537",
+            "technique": "Oil on wood 122 x 171 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/2cesari4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16825
+        },
+        {
+            "title": "Ajax Defends Patroclus's Corps",
+            "date": "1538-39",
+            "technique": "Fresco",
+            "location": "Sala dei Cavalli Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/3cavalli.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16826
+        },
+        {
+            "title": "Tarquin and Lucretia",
+            "date": "1536",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/ducale/lucretia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16827
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1535",
+            "technique": "Oil on wood 275 x 212 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16828
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1535",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/adorati1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16829
+        },
+        {
+            "title": "St John the Baptist in the Wilderness",
+            "date": "-",
+            "technique": "Oil on panel 178 x 154 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/g/giulio/various/baptist.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16830
+        },
+        {
+            "title": "The Lovers",
+            "date": "c. 1525",
+            "technique": "Oil on panel transferred to canvas 163 x 337 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/giulio/various/lovers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 16831
+        },
+        {
+            "title": "The Lovers (detail)",
+            "date": "c. 1525",
+            "technique": "Oil on panel transferred to canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/giulio/various/lovers1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 16832
+        },
+        {
+            "title": "The Lovers (detail)",
+            "date": "c. 1525",
+            "technique": "Oil on panel transferred to canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/giulio/various/lovers2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 16833
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1522-23",
+            "technique": "Oil on panel 37 x 305 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/g/giulio/various/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16834
+        },
+        {
+            "title": "Coronation of the Virgin (Madonna of Monteluce)",
+            "date": "1505-25",
+            "technique": "Oil on wood 354 x 232 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/g/giulio/various/monteluc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16835
+        },
+        {
+            "title": "Polyphemus",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Villa Madama Rome",
+            "url": "https://www.wga.hu/html/g/giulio/various/polyphem.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 16836
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1531",
+            "technique": "Oil on panel 1155 x 905 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/g/giulio/various/portwom1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 16837
+        },
+        {
+            "title": "Portrait of a Woman (detail)",
+            "date": "c. 1531",
+            "technique": "Oil on panel",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/g/giulio/various/portwom2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 16838
+        },
+        {
+            "title": "Tomb of Pietro Strozzi",
+            "date": "c. 1529",
+            "technique": "Marble",
+            "location": "Sant'Andrea Mantua",
+            "url": "https://www.wga.hu/html/g/giulio/various/strozzi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 16839
+        },
+        {
+            "title": "The Circumcision",
+            "date": "-",
+            "technique": "Oil on wood transferred to canvas 115 x 122 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/thecircu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16840
+        },
+        {
+            "title": "Virgin with the Child",
+            "date": "1520s",
+            "technique": "Tempera on wood 105 x 77 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giulio/various/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16841
+        },
+        {
+            "title": "Virgin and Child with the Infant St John",
+            "date": "c. 1523",
+            "technique": "Oil on wood 126 x 85 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/g/giulio/various/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16842
+        },
+        {
+            "title": "Allegory of the Virtues of Federico II Gonzaga",
+            "date": "1531-34",
+            "technique": "Pen and brown ink black chalk and white highlights 249 x 317 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/giulio/various/zallegor.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 16843
+        },
+        {
+            "title": "The Birth of Bacchus",
+            "date": "c. 1533",
+            "technique": "Pen brown ink black wash over black chalk 250 x 406 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/giulio/various/zbacchus.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 16844
+        },
+        {
+            "title": "Head of a Hermaphrodite",
+            "date": "1519-20",
+            "technique": "Charcoal heightened with white 209 x 201 mm",
+            "location": "Museo Horne Florence",
+            "url": "https://www.wga.hu/html/g/giulio/various/zhermaph.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 16845
+        },
+        {
+            "title": "Flaying of Marsyas",
+            "date": "1525-35",
+            "technique": "Pen ink and wash over chalk 502 x 663 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/zmarsyas.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 16846
+        },
+        {
+            "title": "Study for the Holy Family",
+            "date": "1518",
+            "technique": "Red chalk 173 x 119 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/zmary.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16847
+        },
+        {
+            "title": "Nude Child with Open Arms",
+            "date": "-",
+            "technique": "Red chalk on white paper 270 x 209 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/giulio/various/znude.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16848
+        },
+        {
+            "title": "Temperance",
+            "date": "1519-20",
+            "technique": "Black chalk heightened with white on beige ground 1842 x 1190 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/giulio/various/ztempera.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 16849
+        },
+        {
+            "title": "Victory Janus Chronos and Gaea",
+            "date": "1532-34",
+            "technique": "Pen brown ink black wash over black chalk 374 x 317 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/giulio/various/zvictory.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 16850
+        },
+        {
+            "title": "Stoning of St Stephen",
+            "date": "1520-21",
+            "technique": "Charcoal and black chalk mounted on canvas 412 x 285 cm",
+            "location": "Musei Vaticani Rome",
+            "url": "https://www.wga.hu/html/g/giulio/various/zstoning.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 16851
+        }
+    ]
+}

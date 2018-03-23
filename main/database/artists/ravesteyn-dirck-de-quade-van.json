@@ -1,0 +1,48 @@
+{
+    "name": "RAVESTEYN Dirck de Quade van",
+    "life": "(active c. 1576-1612)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Allegory of Music",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 111 x 128 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/r/raveste/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33284
+        },
+        {
+            "title": "Cupid Stung by Bees",
+            "date": "1600-10",
+            "technique": "Red and black chalk 198 x 150 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/raveste/cupid.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 33285
+        },
+        {
+            "title": "Venus Riding a Satyr",
+            "date": "1602-08",
+            "technique": "Oil on canvas 186 x 116 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/r/raveste/venus_sa.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33286
+        },
+        {
+            "title": "Venus Adonis and Cupid",
+            "date": "-",
+            "technique": "Oil on canvas 130 x 108 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/raveste/venusado.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33287
+        }
+    ]
+}

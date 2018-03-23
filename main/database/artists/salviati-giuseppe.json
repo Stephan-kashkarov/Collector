@@ -1,0 +1,38 @@
+{
+    "name": "SALVIATI Giuseppe",
+    "life": "(b. ca. 1520 Castelnuovo di Garfagnana d. ca. 1575 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1540-45",
+            "technique": "Oil on canvas",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/s/salviatx/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36101
+        },
+        {
+            "title": "Pallas Athene between Fortune and Virtue",
+            "date": "1556",
+            "technique": "Oil on canvas",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/s/salviatx/pallasat.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36102
+        },
+        {
+            "title": "Presentation of Mary in the Temple",
+            "date": "1548-50",
+            "technique": "Oil on canvas 483 x 247 cm",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/s/salviatx/presenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36103
+        }
+    ]
+}

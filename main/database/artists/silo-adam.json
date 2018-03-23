@@ -1,0 +1,38 @@
+{
+    "name": "SILO Adam",
+    "life": "(b. ca. 1674 Amsterdam d. 1772 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Fleet Manoeuvres",
+            "date": "1698-99",
+            "technique": "Oil on canvas 70 x 87 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/silo/fleetman.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 37151
+        },
+        {
+            "title": "A Dutch Whaler and Other Vessels in the Ice",
+            "date": "c. 1757",
+            "technique": "Oil on canvas 44 x 62 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/s/silo/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37152
+        },
+        {
+            "title": "Sailing Vessels",
+            "date": "1730s",
+            "technique": "Oil on canvas 36 x 52 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/silo/vessels.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37153
+        }
+    ]
+}

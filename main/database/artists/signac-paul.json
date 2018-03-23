@@ -1,0 +1,258 @@
+{
+    "name": "SIGNAC Paul",
+    "life": "(b. 1863 Paris d. 1935 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "View of the Bay of Cassis Cap Canaille",
+            "date": "1889",
+            "technique": "Oil on canvas 66 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/signac/1/cassis.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37011
+        },
+        {
+            "title": "Evening Calm Concarneau Opus 220 (Allegro Maestoso)",
+            "date": "1891",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/signac/1/concarn1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37012
+        },
+        {
+            "title": "Setting Sun Sardine Fishing Concarneau op. 221 (Adagio)",
+            "date": "1891",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Museum of Moden Art New York",
+            "url": "https://www.wga.hu/html/s/signac/1/concarn2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37013
+        },
+        {
+            "title": "Outskirrts of Paris: the Road to Gennevilliers",
+            "date": "1883",
+            "technique": "Oil on canvas 73 x 92 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/signac/1/paris1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37014
+        },
+        {
+            "title": "The Railway at Bois-Colombe",
+            "date": "1886",
+            "technique": "Oil on canvas 33 x 47 cm",
+            "location": "City Art Gallery Leeds",
+            "url": "https://www.wga.hu/html/s/signac/1/paris2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37015
+        },
+        {
+            "title": "Gasometers at Clichy",
+            "date": "1886",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "National Gallery of Victoria Melbourne",
+            "url": "https://www.wga.hu/html/s/signac/1/paris3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37016
+        },
+        {
+            "title": "The River Bank Petit-Andely",
+            "date": "1886",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/signac/1/paris4.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37017
+        },
+        {
+            "title": "Boulevard de Clichy under Snow",
+            "date": "1886",
+            "technique": "Oil on canvas 47 x 66 cm",
+            "location": "Institute of Arts Minneapolis",
+            "url": "https://www.wga.hu/html/s/signac/1/paris5.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37018
+        },
+        {
+            "title": "Les Andelys Riverbank",
+            "date": "1886",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/signac/1/paris6.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37019
+        },
+        {
+            "title": "Rue Caulaincourt: Mills on Montmartre",
+            "date": "1884",
+            "technique": "Oil on canvas 35 x 27 cm",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/s/signac/1/paris7.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37020
+        },
+        {
+            "title": "Saint-Tropez the Storm",
+            "date": "1895",
+            "technique": "Oil on canvas 47 x 55 cm",
+            "location": "Mus\u00e9e de l'Annonciade Saint-Tropez",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37021
+        },
+        {
+            "title": "The Port of Saint-Tropez",
+            "date": "1898",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e de l'Annonciade Saint-Tropez",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37022
+        },
+        {
+            "title": "View of Saint-Tropez",
+            "date": "1897",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e de l'Annonciade Saint-Tropez",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37023
+        },
+        {
+            "title": "View of Saint-Tropez (detail)",
+            "date": "1897",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e de l'Annonciade Saint-Tropez",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez4.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37024
+        },
+        {
+            "title": "Saint-Tropez the Harbour",
+            "date": "1895",
+            "technique": "Colour lithograph 392 x 324 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez5.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 37025
+        },
+        {
+            "title": "Pine Tree at Saint-Tropez",
+            "date": "1909",
+            "technique": "Oil on canvas 72 x 92 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/s/signac/1/tropez6.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37026
+        },
+        {
+            "title": "The Grand Canal Venice",
+            "date": "1908",
+            "technique": "Watercolour 190 x 250 mm",
+            "location": "Mus\u00e9e Marmottan Monet Paris",
+            "url": "https://www.wga.hu/html/s/signac/1/venice.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 37027
+        },
+        {
+            "title": "The Papal Palace in Avignon",
+            "date": "1900",
+            "technique": "Oil on canvas 73 x 92 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/signac/1/zavignon.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37028
+        },
+        {
+            "title": "Still-Life with a Book",
+            "date": "1883",
+            "technique": "Oil on canvas 33 x 47 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/signac/2/bookstil.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37029
+        },
+        {
+            "title": "Breakfast (The Dining Room)",
+            "date": "1886-87",
+            "technique": "Oil on canvas 89 x 115 cm",
+            "location": "Rijksmuseum Kr\u00f6ller-M\u00fcller Otterlo",
+            "url": "https://www.wga.hu/html/s/signac/2/breakfas.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37030
+        },
+        {
+            "title": "Woman by a Lamp",
+            "date": "1887",
+            "technique": "Oil on canvas 25 x 15 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/signac/2/lamp.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37031
+        },
+        {
+            "title": "Two Milliners Rue du Caire",
+            "date": "1885-86",
+            "technique": "Oil on canvas 112 x 89 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/signac/2/milliner.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37032
+        },
+        {
+            "title": "Woman with a Parasol",
+            "date": "1893",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/signac/2/parasol.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37033
+        },
+        {
+            "title": "Portrait of F\u00e9lix F\u00e9n\u00e9on",
+            "date": "1890",
+            "technique": "Oil on canvas 74 x 95 cm",
+            "location": "Museum of Modern Art New York",
+            "url": "https://www.wga.hu/html/s/signac/2/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37034
+        },
+        {
+            "title": "Woman Taking up Her Hair",
+            "date": "1892",
+            "technique": "Oil on canvas 59 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/signac/2/woman.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37035
+        }
+    ]
+}

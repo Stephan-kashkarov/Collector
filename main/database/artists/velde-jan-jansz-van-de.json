@@ -1,0 +1,48 @@
+{
+    "name": "VELDE Jan Jansz. van de",
+    "life": "(b. 1619/20 Haarlem d. 1662 Rotterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life with Tall Beer Glass",
+            "date": "1647",
+            "technique": "Oil on panel 64 x 59 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/velde2/jan3/still1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42365
+        },
+        {
+            "title": "Still-Life with R\u00f6mer Flute Glass Earthenware Jug and Pipes",
+            "date": "1651",
+            "technique": "Oil on canvas 69 x 90 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/v/velde2/jan3/still2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42366
+        },
+        {
+            "title": "Still-Life",
+            "date": "c. 1653",
+            "technique": "Oil on panel 144 x 12 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/velde2/jan3/still3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42367
+        },
+        {
+            "title": "Still-Life with a Mug of Beer",
+            "date": "1649",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/velde2/jan3/still4.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 42368
+        }
+    ]
+}

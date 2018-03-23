@@ -1,0 +1,28 @@
+{
+    "name": "VISSCHER Roemer",
+    "life": "(b. 1547 Amsterdam d. 1620 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Emblem from Sinnepoppen",
+            "date": "1614",
+            "technique": "Engraving",
+            "location": "Universiteits-Bibliotheek Amsterdam",
+            "url": "https://www.wga.hu/html/v/vissche/roemer/sinnepo1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43307
+        },
+        {
+            "title": "Emblem from Sinnepoppen",
+            "date": "1614",
+            "technique": "Engraving",
+            "location": "Universiteits-Bibliotheek Amsterdam",
+            "url": "https://www.wga.hu/html/v/vissche/roemer/sinnepo2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 43308
+        }
+    ]
+}

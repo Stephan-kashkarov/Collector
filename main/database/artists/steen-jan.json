@@ -1,0 +1,718 @@
+{
+    "name": "STEEN Jan",
+    "life": "(b. 1626 Leiden d. 1679 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Burgher of Delft and His Daughter",
+            "date": "1655",
+            "technique": "Oil on canvas 83 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page1/burgher.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37900
+        },
+        {
+            "title": "Country Wedding",
+            "date": "1662-66",
+            "technique": "Oil in canvas 105 x 150 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page1/countryw.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37901
+        },
+        {
+            "title": "The Sick Woman",
+            "date": "1663-66",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctor.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37902
+        },
+        {
+            "title": "The Sick Woman (detail)",
+            "date": "1663-66",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctor_d.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37903
+        },
+        {
+            "title": "Doctor's Visit",
+            "date": "1658-62",
+            "technique": "Oil on panel 49 x 42 cm",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctor_v.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37904
+        },
+        {
+            "title": "The Lovesick Maiden",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 86 x 99 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctor_x.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37905
+        },
+        {
+            "title": "The Lovesick Maiden (detail)",
+            "date": "c. 1660",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctor_y.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37906
+        },
+        {
+            "title": "The Doctor's Visit",
+            "date": "c. 1660",
+            "technique": "Oil on panel 63 x 51 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page1/doctorsv.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37907
+        },
+        {
+            "title": "The Harpsichord Lesson",
+            "date": "c. 1660",
+            "technique": "Oil on wood 365 x 485 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/s/steen/page1/harpsich.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37908
+        },
+        {
+            "title": "Leaving the Tavern",
+            "date": "-",
+            "technique": "Oil on canvas 84 x 109 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/s/steen/page1/leaving.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37909
+        },
+        {
+            "title": "Love Sickness",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 61 x 52 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/steen/page1/lovesick.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37910
+        },
+        {
+            "title": "The Marriage",
+            "date": "-",
+            "technique": "Oil on canvas 131 x 172 cm",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/s/steen/page1/marriage.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37911
+        },
+        {
+            "title": "Merry Couple",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/s/steen/page1/merry_c.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37912
+        },
+        {
+            "title": "The Morning Toilet",
+            "date": "1663",
+            "technique": "Oil on wood 647 x 53 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/s/steen/page1/morningt.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37913
+        },
+        {
+            "title": "The Morning Toilet",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 37 x 28 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/morningz.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37914
+        },
+        {
+            "title": "The Feast of St. Nicholas",
+            "date": "1665-68",
+            "technique": "Oil on canvas 82 x 71 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/nicholas.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37915
+        },
+        {
+            "title": "The Feast of St. Nicholas (detail)",
+            "date": "1665-68",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/nicholax.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37916
+        },
+        {
+            "title": "\"\"Oude Vrijer - Jonge Meid\"\"\"c. 1665\"Oil on oak panel 41 x 36 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/s/steen/page1/oudevrij.html",
+            "location": "painting",
+            "url": "genre",
+            "form": "Dutch",
+            "painting_type": "1651-1700",
+            "index": 37917
+        },
+        {
+            "title": "Tavern Garden",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 68 x 58 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/steen/page1/picnic.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37918
+        },
+        {
+            "title": "The Quackdoctor",
+            "date": "1651",
+            "technique": "Oil on canvas 33 x 27 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/steen/page1/quack_d.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37919
+        },
+        {
+            "title": "Feast of the Chamber of Rhetoricians near a Town-Gate",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page1/rhetor.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37920
+        },
+        {
+            "title": "The Rhetoricians - \"\"In liefde vrij\"\"\"1665-68\"Oil on canvas 86 x 100 cm",
+            "date": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "technique": "https://www.wga.hu/html/s/steen/page1/rhetori.html",
+            "location": "painting",
+            "url": "genre",
+            "form": "Dutch",
+            "painting_type": "1651-1700",
+            "index": 37921
+        },
+        {
+            "title": "Rhetoricians at a Window",
+            "date": "1662-66",
+            "technique": "Oil on canvas 74 x 59 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/s/steen/page1/rhetoric.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37922
+        },
+        {
+            "title": "Rommelpot Player",
+            "date": "1660s",
+            "technique": "Oil on canvas 57 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page1/rommelpo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37923
+        },
+        {
+            "title": "Self-Portrait as a Lutenist",
+            "date": "1652-55",
+            "technique": "Oil on panel 55 x 44 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/s/steen/page1/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37924
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 73 x 62 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page1/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37925
+        },
+        {
+            "title": "Skittle Players Outside an Inn",
+            "date": "c. 1660",
+            "technique": "Oil on wood 335 x 27 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/steen/page1/skittle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37926
+        },
+        {
+            "title": "The Meal",
+            "date": "1650s",
+            "technique": "Oil on wood 41 x 50 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/s/steen/page1/the_meal.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37927
+        },
+        {
+            "title": "Arrival of a Visitor",
+            "date": "c. 1668",
+            "technique": "Oil on oak panel 62 x 46 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/steen/page1/visitor.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37928
+        },
+        {
+            "title": "The Whitsun Bride",
+            "date": "-",
+            "technique": "Oil on oak panel 36 x 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page1/whitsun.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37929
+        },
+        {
+            "title": "Christ among the Doctors",
+            "date": "1660",
+            "technique": "Oil on canvas",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/s/steen/page1/z_christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37930
+        },
+        {
+            "title": "The Bean Feast",
+            "date": "1668",
+            "technique": "Oil on canvas 80 x 105 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/s/steen/page2/beanfest.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37931
+        },
+        {
+            "title": "Argument over a Card Game",
+            "date": "-",
+            "technique": "Oil on canvas 90 x 119 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/steen/page2/cardgame.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37932
+        },
+        {
+            "title": "Celebrating the Birth",
+            "date": "1664",
+            "technique": "Oil on canvas 89 x 109 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/s/steen/page2/celbirth.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37933
+        },
+        {
+            "title": "Twin Birth Celebration",
+            "date": "1668",
+            "technique": "Oil on canvas 69 x 79 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/celtwin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37934
+        },
+        {
+            "title": "Baptism (\"\"So de oude songen so pypen de jongen\"\")",
+            "date": "-",
+            "technique": "Oil on canvas 83 x 99 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/steen/page2/christen.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37935
+        },
+        {
+            "title": "Marriage Contract",
+            "date": "c. 1668",
+            "technique": "Oil on canvas 65 x 83 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/contract.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37936
+        },
+        {
+            "title": "The Dissolute Household",
+            "date": "1661-64",
+            "technique": "Oil on canvas 81 x 89 cm",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/s/steen/page2/dissolu.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37937
+        },
+        {
+            "title": "The Dissolute Household (detail)",
+            "date": "1661-64",
+            "technique": "Oil on canvas",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/s/steen/page2/dissolu1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37938
+        },
+        {
+            "title": "The Dissolute Household",
+            "date": "1663-64",
+            "technique": "Oil on canvas 108 x 90 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/steen/page2/dissolut.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37939
+        },
+        {
+            "title": "The Drinker",
+            "date": "c. 1660",
+            "technique": "Oil on panel 39 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/drinker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37940
+        },
+        {
+            "title": "The Drinker (detail)",
+            "date": "c. 1660",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/drinker_.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37941
+        },
+        {
+            "title": "\"\"In weelde siet toe\"\" (In Luxury Beware)",
+            "date": "1663",
+            "technique": "Oil on canvas 105 x 145 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37942
+        },
+        {
+            "title": "In Luxury Beware (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37943
+        },
+        {
+            "title": "In Luxury Beware (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37944
+        },
+        {
+            "title": "In Luxury Beware (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37945
+        },
+        {
+            "title": "In Luxury Beware (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil4.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37946
+        },
+        {
+            "title": "In Luxury Beware (detail)",
+            "date": "1663",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/famil5.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37947
+        },
+        {
+            "title": "'As the Old Sing So Pipe the Young'",
+            "date": "1668-70",
+            "technique": "Oil on canvas 134 x 163 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/steen/page2/family.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37948
+        },
+        {
+            "title": "'As the Old Sing So Pipe the Young' (detail)",
+            "date": "1668-70",
+            "technique": "Oil on canvas",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/steen/page2/family_d.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37949
+        },
+        {
+            "title": "The Effects of Intemperance",
+            "date": "1663-65",
+            "technique": "Oil on wood 76 x 106 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/steen/page2/intemper.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37950
+        },
+        {
+            "title": "The Fat Kitchen",
+            "date": "1667-69",
+            "technique": "Oil on panel 36 x 45 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/steen/page2/kitchen.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37951
+        },
+        {
+            "title": "Before an Inn",
+            "date": "-",
+            "technique": "Oil on panel 50 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page2/kolfspel.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37952
+        },
+        {
+            "title": "The Life of Man",
+            "date": "1665",
+            "technique": "Oil on canvas 682 x 82 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/steen/page2/life_man.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37953
+        },
+        {
+            "title": "Merry Company on a Terrace",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 141 x 131 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/steen/page2/m_compan.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37954
+        },
+        {
+            "title": "A Merry Party",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 150 x 148 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/steen/page2/m_party.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37955
+        },
+        {
+            "title": "A Merry Party (detail)",
+            "date": "c. 1660",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/steen/page2/m_party1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37956
+        },
+        {
+            "title": "A Merry Party (detail)",
+            "date": "c. 1660",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/steen/page2/m_party2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37957
+        },
+        {
+            "title": "The Oyster-eater",
+            "date": "1658-60",
+            "technique": "Oil on panel 21 x 15 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/s/steen/page2/oyster.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37958
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "1667-70",
+            "technique": "Oil on canvas 134 x 199 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/s/steen/page2/samson.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37959
+        },
+        {
+            "title": "The Scholar and Death",
+            "date": "1660s",
+            "technique": "Oil on oak panel 47 x 43 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/s/steen/page2/scholar.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 37960
+        },
+        {
+            "title": "Nocturnal Serenade",
+            "date": "c. 1675",
+            "technique": "Oil on canvas",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/s/steen/page2/serenade.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37961
+        },
+        {
+            "title": "In the Tavern",
+            "date": "1660s",
+            "technique": "Oil on canvas 63 x 695 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/steen/page2/tavern.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37962
+        },
+        {
+            "title": "Tavern Scene",
+            "date": "c. 1670",
+            "technique": "Oil on panel 50 x 51 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/tavern_s.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37963
+        },
+        {
+            "title": "Tric-Trac Players",
+            "date": "1667",
+            "technique": "Oil on panel 46 x 39 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/steen/page2/trictrac.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37964
+        },
+        {
+            "title": "The Schoolmaster",
+            "date": "1663-65",
+            "technique": "Oil on canvas 109 x 81 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/s/steen/page2/u_school.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37965
+        },
+        {
+            "title": "Riotous Schoolroom with a Snoozing Schoolmaster",
+            "date": "1672",
+            "technique": "Oil on oak panel 38 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page2/v_riot.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37966
+        },
+        {
+            "title": "Riotous Schoolroom with a Snoozing Schoolmaster (detail)",
+            "date": "1672",
+            "technique": "Oil on oak panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page2/v_riot1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37967
+        },
+        {
+            "title": "The Village School",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 838 x 1092",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/s/steen/page2/v_school.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37968
+        },
+        {
+            "title": "Revelry at an Inn",
+            "date": "1674",
+            "technique": "Oil on canvas 117 x 161 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/steen/page2/w_revel.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37969
+        },
+        {
+            "title": "Garden Party",
+            "date": "1677",
+            "technique": "Oil on canvas 67 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steen/page2/x_garden.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37970
+        }
+    ]
+}

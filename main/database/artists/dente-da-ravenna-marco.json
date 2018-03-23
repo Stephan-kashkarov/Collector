@@ -1,0 +1,28 @@
+{
+    "name": "DENTE DA RAVENNA Marco",
+    "life": "(b. ca. 1486 Ravenna d. 1527 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Madonna of the Fish",
+            "date": "c. 1512-13",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/d/dente/mad_fish.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 11436
+        },
+        {
+            "title": "Birth of Venus",
+            "date": "1515-20",
+            "technique": "Engraving 261 x 173 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/d/dente/venus.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 11437
+        }
+    ]
+}

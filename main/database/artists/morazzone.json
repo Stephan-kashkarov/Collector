@@ -1,0 +1,48 @@
+{
+    "name": "MORAZZONE",
+    "life": "(b. 1573 Morazzone d. 1626 Piedmont",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Ecce Homo",
+            "date": "1609-13",
+            "technique": "Fresco",
+            "location": "Ecce Homo Chapel Sacro Monte Varallo",
+            "url": "https://www.wga.hu/html/m/morazzon/eccehomo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28792
+        },
+        {
+            "title": "Martyrdom of Sts Seconda and Rufina",
+            "date": "1620-25",
+            "technique": "Oil on canvas 194 x 193 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/m/morazzon/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28793
+        },
+        {
+            "title": "St Francis",
+            "date": "c. 1610",
+            "technique": "Oil on canvas 99 x 75 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/m/morazzon/sfrancis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28794
+        },
+        {
+            "title": "Vision of St Gregory",
+            "date": "-",
+            "technique": "Oil on canvas 49 x 36 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/morazzon/visiongr.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28795
+        }
+    ]
+}

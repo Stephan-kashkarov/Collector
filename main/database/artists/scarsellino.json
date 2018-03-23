@@ -1,0 +1,78 @@
+{
+    "name": "SCARSELLINO",
+    "life": "(b. ca. 1550 Ferrara d. 1620 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "date": "1600-10",
+            "technique": "Oil on canvas 52 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scarsell/christwo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36492
+        },
+        {
+            "title": "The Discovery of Coral",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scarsell/coral.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36493
+        },
+        {
+            "title": "St Demetrius",
+            "date": "-",
+            "technique": "Oil on canvas 163 x 95 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/s/scarsell/demetriu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36494
+        },
+        {
+            "title": "The Rape of Prosperina",
+            "date": "-",
+            "technique": "Oil on canvas 187 x 160 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scarsell/proserpi.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36495
+        },
+        {
+            "title": "Salmacis and Hermaphroditus",
+            "date": "c. 1585",
+            "technique": "Oil on wood 42 x 56 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/s/scarsell/salmacis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36496
+        },
+        {
+            "title": "The Virgin Receiving St Stephen of Hungary in Paradise",
+            "date": "-",
+            "technique": "Oil on canvas 80 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scarsell/stephen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36497
+        },
+        {
+            "title": "Virgin and Angels Imploring Christ not to Punish Lust Avarice and Pride",
+            "date": "-",
+            "technique": "Oil on canvas 87 x 104 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/s/scarsell/virgin_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36498
+        }
+    ]
+}

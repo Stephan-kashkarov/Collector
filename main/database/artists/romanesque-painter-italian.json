@@ -1,0 +1,358 @@
+{
+    "name": "ROMANESQUE PAINTER Italian",
+    "life": "(active early 9th century in M\u00fcstair)",
+    "school": "Italian",
+    "timeframe": "0801-0850",
+    "art": [
+        {
+            "title": "View of the frescoes",
+            "date": "800-30",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustai.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34968
+        },
+        {
+            "title": "Fresco cycle",
+            "date": "800-30",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustai1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34969
+        },
+        {
+            "title": "Fresco cycle",
+            "date": "800-30",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustai2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34970
+        },
+        {
+            "title": "Fresco cycle",
+            "date": "12th century",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustai5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34971
+        },
+        {
+            "title": "Christ Healing the Mute Man",
+            "date": "c. 800",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustair3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34972
+        },
+        {
+            "title": "Ornamental band",
+            "date": "c. 800",
+            "technique": "Fresco",
+            "location": "Benedictine monastery M\u00fcstair",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/2mustair4.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 34973
+        },
+        {
+            "title": "Flight of Paul",
+            "date": "c. 800",
+            "technique": "Fresco",
+            "location": "St. Proculus Naturno",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/3naturno.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34974
+        },
+        {
+            "title": "Donor figure",
+            "date": "c. 880",
+            "technique": "Fresco",
+            "location": "Benedictine church Malles",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/4malles1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34975
+        },
+        {
+            "title": "Donor figure",
+            "date": "c. 880",
+            "technique": "Fresco",
+            "location": "Benedictine church Malles",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/4malles2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34976
+        },
+        {
+            "title": "Donor figure",
+            "date": "c. 880",
+            "technique": "Fresco",
+            "location": "Benedictine church Malles",
+            "url": "https://www.wga.hu/html/zgothic/mural/08-10c/4malles3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34977
+        },
+        {
+            "title": "The Martyrdom of St Vincent",
+            "date": "c. 1007",
+            "technique": "Fresco with secco applications",
+            "location": "San Vicenzo Basilica Galliano",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/01gallia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34978
+        },
+        {
+            "title": "View of the nave looking east",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/02formi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34979
+        },
+        {
+            "title": "Last Judgment",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/02formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34980
+        },
+        {
+            "title": "Angel of the Last Judgment",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/03formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34981
+        },
+        {
+            "title": "Last Judgment (detail)",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/04formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34982
+        },
+        {
+            "title": "Christ in Majesty",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/05formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34983
+        },
+        {
+            "title": "Betrayal of Christ",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/06formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34984
+        },
+        {
+            "title": "Last Supper",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/07formis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34985
+        },
+        {
+            "title": "Christ Healing the Blind Man",
+            "date": "c. 1080",
+            "technique": "Fresco",
+            "location": "Sant'Angelo in Formis Capua",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/07formix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34986
+        },
+        {
+            "title": "The Fight with the Dragon",
+            "date": "c. 1090",
+            "technique": "Fresco",
+            "location": "San Pietro al Monte Civate",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/08civate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34987
+        },
+        {
+            "title": "The Fight with the Dragon (detail)",
+            "date": "c. 1090",
+            "technique": "Fresco",
+            "location": "San Pietro al Monte Civate",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/09civate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34988
+        },
+        {
+            "title": "The Heavenly Jerusalem",
+            "date": "c. 1090",
+            "technique": "Fresco",
+            "location": "San Pietro al Monte Civate",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/10civate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34989
+        },
+        {
+            "title": "The End of King Herod",
+            "date": "before 1093",
+            "technique": "Fresco with secco applications",
+            "location": "Benedictine Church Lambach",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/11lambac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34990
+        },
+        {
+            "title": "Apse frescoes",
+            "date": "c. 1100",
+            "technique": "Fresco",
+            "location": "Basilica Sant'Anastasio Castel Sant'Elia di Nepi",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/12nepi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34991
+        },
+        {
+            "title": "St Clement celebrating the Mass",
+            "date": "c. 1100",
+            "technique": "Fresco with secco applications",
+            "location": "San Clemente Rome",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/13clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34992
+        },
+        {
+            "title": "Relics of St Cyrillus",
+            "date": "c. 1100",
+            "technique": "Fresco",
+            "location": "San Clemente Rome",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/14clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34993
+        },
+        {
+            "title": "The Miraculous Rescue of a Child",
+            "date": "c. 1100",
+            "technique": "Fresco with secco applications",
+            "location": "San Clemente Rome",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/15clemen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34994
+        },
+        {
+            "title": "Old Testament Scenes",
+            "date": "1190s",
+            "technique": "Fresco",
+            "location": "San Pietro in Valle Ferentillo",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/16ferent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34995
+        },
+        {
+            "title": "Frescoes in the crypt",
+            "date": "1225-50",
+            "technique": "Fresco",
+            "location": "Cattedrale di Santa Maria Anagni",
+            "url": "https://www.wga.hu/html/zgothic/mural/11c2/17anagni.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34996
+        },
+        {
+            "title": "St Peter Consecrates St Hermagoras Bishop in the Presence of St Mark",
+            "date": "c. 1180",
+            "technique": "Fresco",
+            "location": "Crypt Basilica Aquileia",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c2/16italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34997
+        },
+        {
+            "title": "Deposition from the Cross",
+            "date": "c. 1180",
+            "technique": "Fresco",
+            "location": "Crypt Basilica Aquileia",
+            "url": "https://www.wga.hu/html/zgothic/mural/12c2/17italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34998
+        },
+        {
+            "title": "St Francis of Assisi",
+            "date": "before 1224",
+            "technique": "Fresco",
+            "location": "Cappella di San Gregorio Subiaco",
+            "url": "https://www.wga.hu/html/zgothic/mural/13c/12italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 34999
+        },
+        {
+            "title": "St. Helena",
+            "date": "1290s",
+            "technique": "Fresco",
+            "location": "San Giovanni Decollato Venice",
+            "url": "https://www.wga.hu/html/zgothic/mural/13c/13italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35000
+        },
+        {
+            "title": "Donation of Constantine",
+            "date": "13th century",
+            "technique": "Fresco",
+            "location": "Santi Quattro Coronati Rome",
+            "url": "https://www.wga.hu/html/zgothic/mural/13c/14italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35001
+        },
+        {
+            "title": "Donation of Constantine (detail)",
+            "date": "13th century",
+            "technique": "Fresco",
+            "location": "Santi Quattro Coronati Rome",
+            "url": "https://www.wga.hu/html/zgothic/mural/13c/15italia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35002
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "DOUVEN Frans Bartholomeus",
+    "life": "(b. 1688 D\u00fcsseldorf d. after 1726 D\u00fcsseldorf)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bathsheba in the Bath",
+            "date": "-",
+            "technique": "Oil on canvas 109 x 139 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/douven/frans/bathsheb.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 12068
+        },
+        {
+            "title": "Penitent Magdalene",
+            "date": "1717",
+            "technique": "Oil on panel 39 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/douven/frans/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 12069
+        },
+        {
+            "title": "Vertumnus and Pomona",
+            "date": "-",
+            "technique": "Oil on canvas 143 x 155 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/douven/frans/vertumnu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 12070
+        }
+    ]
+}

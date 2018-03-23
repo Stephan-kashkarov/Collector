@@ -1,0 +1,38 @@
+{
+    "name": "YEVELE Henry",
+    "life": "(b. 1320s Yeaveley Derbys d. 1400 London)",
+    "school": "English",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "View of the nave",
+            "date": "1380-1400",
+            "technique": "Photo",
+            "location": "Cathedral Canterbury",
+            "url": "https://www.wga.hu/html/y/yevele/canterb1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44487
+        },
+        {
+            "title": "View of the nave",
+            "date": "1380-1400",
+            "technique": "Photo",
+            "location": "Cathedral Canterbury",
+            "url": "https://www.wga.hu/html/y/yevele/canterb2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44488
+        },
+        {
+            "title": "Westminster Hall",
+            "date": "1394-1401",
+            "technique": "Photo",
+            "location": "Palace of Westminster London",
+            "url": "https://www.wga.hu/html/y/yevele/westmins.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44489
+        }
+    ]
+}

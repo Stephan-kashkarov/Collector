@@ -1,0 +1,28 @@
+{
+    "name": "PEREGO Giovanni",
+    "life": "(b. 1776 Milano d. 1817 Milano)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1812",
+            "technique": "Photo",
+            "location": "Palazzo Rocca-Saporiti Milan",
+            "url": "https://www.wga.hu/html/p/perego/roccasa1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30669
+        },
+        {
+            "title": "Exterior view",
+            "date": "1812",
+            "technique": "Photo",
+            "location": "Palazzo Rocca-Saporiti Milan",
+            "url": "https://www.wga.hu/html/p/perego/roccasa2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30670
+        }
+    ]
+}

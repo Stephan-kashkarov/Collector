@@ -1,0 +1,28 @@
+{
+    "name": "SABATELLI Luigi",
+    "life": "(b. 1772 Firenze d. 1850 Milano)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Olympus",
+            "date": "1819-25",
+            "technique": "Fresco",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/sabatell/olympus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35894
+        },
+        {
+            "title": "Dante and Virgil Watching Charon Ferrying Souls to Hell",
+            "date": "1789-94",
+            "technique": "Pen and brown ink over traces of black chalk 440 x 620 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sabatell/virgil.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 35895
+        }
+    ]
+}

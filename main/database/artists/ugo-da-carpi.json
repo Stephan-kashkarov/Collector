@@ -1,0 +1,28 @@
+{
+    "name": "UGO DA CARPI",
+    "life": "(c. 1480-c. 1532)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Hero and Sibyl",
+            "date": "after 1518",
+            "technique": "Chiaroscuro woodcut 292 x 213 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/u/ugo/hero_sib.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 40412
+        },
+        {
+            "title": "St Paul and St John",
+            "date": "1510s",
+            "technique": "Chiaroscuro woodcut 153 x 105 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/u/ugo/pauljohn.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 40413
+        }
+    ]
+}

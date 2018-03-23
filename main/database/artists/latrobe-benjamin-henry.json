@@ -1,0 +1,98 @@
+{
+    "name": "LATROBE Benjamin Henry",
+    "life": "(b. 1764 Fulneck England d. 1820 New Orleans)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Bank of Pennsylvania at Philadelphia",
+            "date": "1798",
+            "technique": "Pencil ink and watercolour on paper",
+            "location": "Maryland Historical Society Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/bankpenn.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21578
+        },
+        {
+            "title": "Baltimore Basilica",
+            "date": "1804-18",
+            "technique": "Pencil ink and watercolour on paper",
+            "location": "Maryland Historical Society Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/basilic1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21579
+        },
+        {
+            "title": "General view",
+            "date": "1806-21",
+            "technique": "Photo",
+            "location": "Basilica Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/basilic2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21580
+        },
+        {
+            "title": "Interior view",
+            "date": "1806-21",
+            "technique": "Photo",
+            "location": "Basilica Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/basilic3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21581
+        },
+        {
+            "title": "Interior view",
+            "date": "1804-18",
+            "technique": "Photo",
+            "location": "Basilica Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/basilic4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21582
+        },
+        {
+            "title": "Interior view",
+            "date": "1804-18",
+            "technique": "Photo",
+            "location": "Basilica Baltimore",
+            "url": "https://www.wga.hu/html/l/latrobe/basilic5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 21583
+        },
+        {
+            "title": "Exterior view",
+            "date": "1792-1827",
+            "technique": "Photo",
+            "location": "Capitol Washington D.C.",
+            "url": "https://www.wga.hu/html/l/latrobe/capitol.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21584
+        },
+        {
+            "title": "Exterior view",
+            "date": "1815",
+            "technique": "Photo",
+            "location": "White House Washington D.C.",
+            "url": "https://www.wga.hu/html/l/latrobe/whiteho4.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21585
+        },
+        {
+            "title": "Exterior view",
+            "date": "1815",
+            "technique": "Photo",
+            "location": "White House Washington D.C.",
+            "url": "https://www.wga.hu/html/l/latrobe/whiteho5.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21586
+        }
+    ]
+}

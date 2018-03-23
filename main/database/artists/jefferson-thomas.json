@@ -1,0 +1,78 @@
+{
+    "name": "JEFFERSON Thomas",
+    "life": "(b. 1743 Shadwell d. 1826 Monticello)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "completed 1796",
+            "technique": "Photo",
+            "location": "State Capitol of Virginia Richmond",
+            "url": "https://www.wga.hu/html/j/jefferso/capitol1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20622
+        },
+        {
+            "title": "General view",
+            "date": "completed 1796",
+            "technique": "Photo",
+            "location": "State Capitol of Virginia Richmond",
+            "url": "https://www.wga.hu/html/j/jefferso/capitol2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20623
+        },
+        {
+            "title": "Exterior view",
+            "date": "completed 1796",
+            "technique": "Photo",
+            "location": "State Capitol of Virginia Richmond",
+            "url": "https://www.wga.hu/html/j/jefferso/capitol3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20624
+        },
+        {
+            "title": "Exterior view",
+            "date": "1817-26",
+            "technique": "Photo",
+            "location": "University of Virginia Charlottesville Virginia",
+            "url": "https://www.wga.hu/html/j/jefferso/charlot1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20625
+        },
+        {
+            "title": "Exterior view",
+            "date": "1817-26",
+            "technique": "Photo",
+            "location": "University of Virginia Charlottesville Virginia",
+            "url": "https://www.wga.hu/html/j/jefferso/charlot2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20626
+        },
+        {
+            "title": "Exterior view",
+            "date": "1817-26",
+            "technique": "Photo",
+            "location": "University of Virginia Charlottesville Virginia",
+            "url": "https://www.wga.hu/html/j/jefferso/charlot3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20627
+        },
+        {
+            "title": "Jefferson's House",
+            "date": "1768-1809",
+            "technique": "Photo",
+            "location": "Monticello near Charlottesville Virginia",
+            "url": "https://www.wga.hu/html/j/jefferso/monticel.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20628
+        }
+    ]
+}

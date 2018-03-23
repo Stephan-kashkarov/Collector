@@ -1,0 +1,38 @@
+{
+    "name": "FERNANDES Vasco",
+    "life": "(active 1500-1542 in Viseu)",
+    "school": "Portuguese",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1501-06",
+            "technique": "Oil on wood 132 x 79 cm",
+            "location": "Vasco Museum Viseu",
+            "url": "https://www.wga.hu/html/f/fernand/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13661
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "c. 1506",
+            "technique": "Oil on wood 1315 x 1305 cm",
+            "location": "Vasco Museum Viseu",
+            "url": "https://www.wga.hu/html/f/fernand/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13662
+        },
+        {
+            "title": "St. Peter",
+            "date": "c. 1530",
+            "technique": "Oil on wood 213 x 2313 cm",
+            "location": "Vasco Museum Viseu",
+            "url": "https://www.wga.hu/html/f/fernand/stpeter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13663
+        }
+    ]
+}

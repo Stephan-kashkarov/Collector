@@ -1,0 +1,28 @@
+{
+    "name": "CH\u00c2TELET Claude-Louis",
+    "life": "(b. 1753 Paris d. 1794 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of the Cascata delle Marmore",
+            "date": "-",
+            "technique": "Oil on paper laid on canvas 93 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/chatelet/cascade1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8737
+        },
+        {
+            "title": "View of the Large Cascade",
+            "date": "-",
+            "technique": "Oil on paper laid on canvas 93 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/chatelet/cascade2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8738
+        }
+    ]
+}

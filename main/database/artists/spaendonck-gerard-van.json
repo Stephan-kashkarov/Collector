@@ -1,0 +1,48 @@
+{
+    "name": "SPAENDONCK Gerard van",
+    "life": "(b. 1746 Tilburg d. 1822 Paris)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Vase of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/s/spaendon/gerard/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37722
+        },
+        {
+            "title": "Still-Life",
+            "date": "1783",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/spaendon/gerard/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37723
+        },
+        {
+            "title": "Still-Life",
+            "date": "1783",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/spaendon/gerard/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37724
+        },
+        {
+            "title": "Still-Life with Flowers and Insects on Marble Plinth",
+            "date": "1787",
+            "technique": "Oil on canvas 100 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/spaendon/gerard/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 37725
+        }
+    ]
+}

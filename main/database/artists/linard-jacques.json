@@ -1,0 +1,78 @@
+{
+    "name": "LINARD Jacques",
+    "life": "(b. ca. 1600 Paris d. 1645 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Basket of Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 48 x 605 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/linard/basket_f.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22427
+        },
+        {
+            "title": "Bouquet on Wooden Box",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 57 x 42 cm",
+            "location": "Staatliche Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/l/linard/bouquet.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22428
+        },
+        {
+            "title": "Bowl of Grapes",
+            "date": "1631",
+            "technique": "Oil on panel 48 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/linard/bowlgrap.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22429
+        },
+        {
+            "title": "Chinese Bowl with Flowers",
+            "date": "1640",
+            "technique": "Oil on canvas 53 x 66 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/l/linard/chinese.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22430
+        },
+        {
+            "title": "The Five Senses",
+            "date": "1638",
+            "technique": "Oil on canvas 55 x 68 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/l/linard/fivesens.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22431
+        },
+        {
+            "title": "The Five Senses and the Four Elements",
+            "date": "1627",
+            "technique": "Oil on canvas 105 x 153 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/linard/senses.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22432
+        },
+        {
+            "title": "Still-Life with Bowl of Plums",
+            "date": "-",
+            "technique": "Oil on panel 24 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/linard/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 22433
+        }
+    ]
+}

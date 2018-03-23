@@ -1,0 +1,38 @@
+{
+    "name": "VOIRIOT Guillaume",
+    "life": "(b. 1713 Paris d. 1799 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of M. Gilbert Desvoisins Councillor of State in Ordinary",
+            "date": "1761",
+            "technique": "Oil on canvas 101 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voiriot/desvoisi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43489
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on canvas 66 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voiriot/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43490
+        },
+        {
+            "title": "Portrait of an Actor",
+            "date": "-",
+            "technique": "Oil on canvas 88 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/voiriot/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43491
+        }
+    ]
+}

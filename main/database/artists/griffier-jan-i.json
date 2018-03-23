@@ -1,0 +1,48 @@
+{
+    "name": "GRIFFIER Jan I",
+    "life": "(b. ca. 1645 Amsterdam d. 1718 London)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "View of London from the Horseferry Pier",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/griffier/london.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18500
+        },
+        {
+            "title": "View of London from the Horseferry Pier (detail)",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/griffier/london1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18501
+        },
+        {
+            "title": "Rhenish Landscape with a Steep Forest Path on the Left",
+            "date": "-",
+            "technique": "Oil on copper 47 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/griffier/rhenish.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18502
+        },
+        {
+            "title": "Winter",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/griffier/winter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 18503
+        }
+    ]
+}

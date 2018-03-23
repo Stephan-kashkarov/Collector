@@ -1,0 +1,38 @@
+{
+    "name": "VASSALLETTO Pietro",
+    "life": "(active 1154-1186 in Rome)",
+    "school": "Italian",
+    "timeframe": "1151-1200",
+    "art": [
+        {
+            "title": "Easter Candlestick",
+            "date": "c. 1170",
+            "technique": "Marble height 560 cm",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/v/vassalet/easter_a.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42145
+        },
+        {
+            "title": "Easter Candlestick",
+            "date": "c. 1170",
+            "technique": "Marble height 560 cm",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/v/vassalet/easter_b.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 42146
+        },
+        {
+            "title": "Easter Candlestick (detail)",
+            "date": "c. 1170",
+            "technique": "Marble",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/v/vassalet/easter_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42147
+        }
+    ]
+}

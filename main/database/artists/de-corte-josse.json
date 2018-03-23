@@ -1,0 +1,68 @@
+{
+    "name": "DE CORTE Josse",
+    "life": "(b. 1627 Ypres d. 1679 Venezia)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "High Altar",
+            "date": "1670",
+            "technique": "Marble",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/altar.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11065
+        },
+        {
+            "title": "High Altar (detail)",
+            "date": "1670",
+            "technique": "Marble",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/altar_d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11066
+        },
+        {
+            "title": "St Mark",
+            "date": "1670",
+            "technique": "Marble",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/altar_x.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11067
+        },
+        {
+            "title": "Altar of the Crucifixion",
+            "date": "1672",
+            "technique": "Marble",
+            "location": "Santa Maria Gloriosa dei Frari Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/crucifix.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 11068
+        },
+        {
+            "title": "Grotesque",
+            "date": "1660s",
+            "technique": "Marble",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/osped1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 11069
+        },
+        {
+            "title": "Telamon",
+            "date": "1660s",
+            "technique": "Marble",
+            "location": "Ospedaletto Venice",
+            "url": "https://www.wga.hu/html/d/de_corte/osped2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 11070
+        }
+    ]
+}

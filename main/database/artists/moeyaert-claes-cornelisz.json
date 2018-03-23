@@ -1,0 +1,48 @@
+{
+    "name": "MOEYAERT Claes Cornelisz.",
+    "life": "(b. 1591 Durgerdam d. 1655 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Abraham and Lot Divide the Land",
+            "date": "1640",
+            "technique": "Oil on panel 48 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moeyaert/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28355
+        },
+        {
+            "title": "David and Abigail",
+            "date": "1620s",
+            "technique": "Oil on panel 89 x 142 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moeyaert/david_ab.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28356
+        },
+        {
+            "title": "Moses Ordering the Slaughter of the Midianitic",
+            "date": "1650",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moeyaert/moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28357
+        },
+        {
+            "title": "Triumph of Bacchus",
+            "date": "1624",
+            "technique": "Oil on panel 53 x 83 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/m/moeyaert/triumph.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28358
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "MARMION Simon",
+    "life": "(b. ca. 1420 Amiens d. 1489 Valenciennes)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Scenes from the Life of St Bertin",
+            "date": "1459",
+            "technique": "Panel 56 x 147 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/marmion/bertin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24320
+        },
+        {
+            "title": "Scenes from the Life of St Bertin",
+            "date": "1459",
+            "technique": "Panel 56 x 147 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/marmion/bertin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24321
+        },
+        {
+            "title": "Scenes from the Life of St Bertin (detail)",
+            "date": "1459",
+            "technique": "Panel 56 x 147 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/marmion/bertin21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24322
+        },
+        {
+            "title": "Scenes from the Life of St Bertin (detail)",
+            "date": "1459",
+            "technique": "Panel",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/marmion/bertin22.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24323
+        },
+        {
+            "title": "The Soul of Saint Bertin Carried up to God",
+            "date": "c. 1459",
+            "technique": "Panel",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/m/marmion/bertin3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24324
+        },
+        {
+            "title": "Virgin and the Man of Sorrow",
+            "date": "1480-90",
+            "technique": "Oil on panel 44 x 305 cm (each)",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/m/marmion/diptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24325
+        },
+        {
+            "title": "Jean Mansel: The Flower of History",
+            "date": "c. 1455",
+            "technique": "Manuscript (Mss. 9231-9232 2 volumes) 430 x 300 mm",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/m/marmion/mansel1.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 24326
+        },
+        {
+            "title": "Jean Mansel: The Flower of History",
+            "date": "c. 1455",
+            "technique": "Manuscript (Mss. 9231-9232 2 volumes) 430 x 300 mm (folio size)",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/m/marmion/mansel2.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 24327
+        },
+        {
+            "title": "Book of the Seven Ages of the World",
+            "date": "c. 1455",
+            "technique": "Manuscript (Ms. 947) 440 x 300 mm",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/m/marmion/sevenage.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 24328
+        }
+    ]
+}

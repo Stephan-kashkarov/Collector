@@ -1,0 +1,38 @@
+{
+    "name": "MASTER of the Legend of Saint Ursula (II)",
+    "life": "(active 1480-1520 in Cologne)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Ursula with her Parents at the Altar",
+            "date": "1492-96",
+            "technique": "Canvas 124 x 115 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/m/master/legend2/ursula1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25120
+        },
+        {
+            "title": "St Ursula Announces to her Father her Departure on a Pilgrimage to Rome",
+            "date": "1490s",
+            "technique": "Canvas 129 x 144 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/master/legend2/ursula2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25121
+        },
+        {
+            "title": "Dream of St Ursula",
+            "date": "c. 1495",
+            "technique": "Canvas 123 x 114 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/m/master/legend2/ursula3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25122
+        }
+    ]
+}

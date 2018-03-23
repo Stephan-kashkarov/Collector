@@ -1,0 +1,38 @@
+{
+    "name": "LOO Jean-Baptiste van",
+    "life": "(b. 1684 Aix-en-Provence d. 1745 Aix-en-Provence)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Princess Amelia",
+            "date": "c. 1738",
+            "technique": "Oil on canvas 125 x97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loo/jean/amelia.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22992
+        },
+        {
+            "title": "Portrait of Sieur de Carnay Spanish Court Treasurer",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loo/jean/carnay.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22993
+        },
+        {
+            "title": "Triumph of Galatea",
+            "date": "1720",
+            "technique": "Oil on canvas 90 x 116 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/loo/jean/galatea.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22994
+        }
+    ]
+}

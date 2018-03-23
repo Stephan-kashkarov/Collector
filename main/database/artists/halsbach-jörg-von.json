@@ -1,0 +1,48 @@
+{
+    "name": "HALSBACH J\u00f6rg von",
+    "life": "(d. 1488 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1468-88",
+            "technique": "Photo",
+            "location": "Frauenkirche Munich",
+            "url": "https://www.wga.hu/html/h/halsbach/frauen1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19238
+        },
+        {
+            "title": "Exterior view",
+            "date": "1468-88",
+            "technique": "Photo",
+            "location": "Frauenkirche Munich",
+            "url": "https://www.wga.hu/html/h/halsbach/frauen2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 19239
+        },
+        {
+            "title": "Interior view",
+            "date": "1468-88",
+            "technique": "Photo",
+            "location": "Frauenkirche Munich",
+            "url": "https://www.wga.hu/html/h/halsbach/frauen3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 19240
+        },
+        {
+            "title": "Interior view",
+            "date": "1468-88",
+            "technique": "Photo",
+            "location": "Frauenkirche Munich",
+            "url": "https://www.wga.hu/html/h/halsbach/frauen4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 19241
+        }
+    ]
+}

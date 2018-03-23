@@ -1,0 +1,118 @@
+{
+    "name": "DANTI Vincenzo",
+    "life": "(b. 1530 Perugia d. 1576 Perugia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Cosimo as Augustus",
+            "date": "1568-72",
+            "technique": "Marble height 280 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/cosimo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10813
+        },
+        {
+            "title": "Descent from the Cross",
+            "date": "c. 1560",
+            "technique": "Bronze 45 x 48 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/d/danti/descent.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10814
+        },
+        {
+            "title": "Descent from the Cross (detail)",
+            "date": "c. 1560",
+            "technique": "Bronze",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/d/danti/descent1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10815
+        },
+        {
+            "title": "Honour Triumphant over Falsehood (front view)",
+            "date": "1561",
+            "technique": "Marble height 187 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/honour.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10816
+        },
+        {
+            "title": "Honour Triumphant over Falsehood (front view)",
+            "date": "1561",
+            "technique": "Marble height 187 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/honour1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10817
+        },
+        {
+            "title": "Honour Triumphant over Falsehood (rear view)",
+            "date": "1561",
+            "technique": "Marble height 187 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/honour2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10818
+        },
+        {
+            "title": "Moses and the Brazen Serpent",
+            "date": "1559",
+            "technique": "Bronze height 82 x 172 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/moses.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10819
+        },
+        {
+            "title": "Sportello (Safe Door)",
+            "date": "1550s",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/d/danti/safedoor.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 10820
+        },
+        {
+            "title": "Beheading of St John the Baptist",
+            "date": "1569-71",
+            "technique": "Bronze height 243 cm",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/d/danti/st_john.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10821
+        },
+        {
+            "title": "Beheading of St John the Baptist",
+            "date": "1569-71",
+            "technique": "Bronze height 243 cm",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/d/danti/st_john1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 10822
+        },
+        {
+            "title": "Venus Anadyomene",
+            "date": "1572-73",
+            "technique": "Bronze",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/d/danti/venus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10823
+        }
+    ]
+}

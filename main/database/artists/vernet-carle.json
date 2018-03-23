@@ -1,0 +1,78 @@
+{
+    "name": "VERNET Carle",
+    "life": "(b. 1758 Bordeaux d. 1836 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Arrival of Emigres with the Duchess of Berry on the French Coast",
+            "date": "-",
+            "technique": "Oil on panel 36 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vernet/carle/emigres.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42681
+        },
+        {
+            "title": "A General with his Aide de Camp",
+            "date": "-",
+            "technique": "Oil on panel 46 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vernet/carle/general.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 42682
+        },
+        {
+            "title": "A Mameluk Leading His Horse",
+            "date": "-",
+            "technique": "Oil on canvas 64 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vernet/carle/mameluk.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 42683
+        },
+        {
+            "title": "Napoleon on a Hunt in the Forest of Compi\u00e8gne",
+            "date": "1811",
+            "technique": "Oil on canvas 131 x 163 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vernet/carle/napohunt.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42684
+        },
+        {
+            "title": "Equestrian Portrait of of Emperor Napoleon I",
+            "date": "1805-10",
+            "technique": "Oil on canvas 134 x 112 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vernet/carle/napoleon.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42685
+        },
+        {
+            "title": "Equestrian Portrait of Napoleon",
+            "date": "1805-10",
+            "technique": "Oil on canvas 153 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vernet/carle/napoleox.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 42686
+        },
+        {
+            "title": "Return from the Hunt",
+            "date": "1828",
+            "technique": "Oil on canvas 111 x 145 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/v/vernet/carle/return.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42687
+        }
+    ]
+}

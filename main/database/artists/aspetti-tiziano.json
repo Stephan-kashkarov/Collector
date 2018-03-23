@@ -1,0 +1,28 @@
+{
+    "name": "ASPETTI Tiziano",
+    "life": "(b. ca. 1559 Padova d. 1606 Pisa)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Andirons",
+            "date": "-",
+            "technique": "Bronze",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/a/aspetti/andirons.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 2747
+        },
+        {
+            "title": "Perseus",
+            "date": "-",
+            "technique": "Bronze height 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aspetti/perseus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 2748
+        }
+    ]
+}

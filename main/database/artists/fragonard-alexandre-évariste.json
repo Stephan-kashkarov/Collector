@@ -1,0 +1,48 @@
+{
+    "name": "FRAGONARD Alexandre-\u00c9variste",
+    "life": "(b. 1780 Grasse d. 1850 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Vivant Denon Replacing El Cid's Remains in their Tombs",
+            "date": "c. 1811",
+            "technique": "Oil on canvas 40 x 35 cm",
+            "location": "Mus\u00e9e Antoine-Lecuyer St Quentin",
+            "url": "https://www.wga.hu/html/f/fragonar/son/denoncid.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 14129
+        },
+        {
+            "title": "Don Juan and the Statute of the Commander",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fragonar/son/don_juan.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 14130
+        },
+        {
+            "title": "The Immured",
+            "date": "-",
+            "technique": "Watercolour over a black pencil sketch 490 x 360 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/f/fragonar/son/immured.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 14131
+        },
+        {
+            "title": "Cardinal Mazarin at the Deathbed of Eustache Le Sueur",
+            "date": "-",
+            "technique": "Oil on canvas 38 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fragonar/son/mazarin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 14132
+        }
+    ]
+}

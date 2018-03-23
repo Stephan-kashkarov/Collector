@@ -1,0 +1,28 @@
+{
+    "name": "MIJN Heroman van der",
+    "life": "(b. ca. 1684 Amsterdam d. 1741 London)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "A Bacchante",
+            "date": "1719",
+            "technique": "Oil on oak panel 52 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mijn/heroman/bacchant.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 27146
+        },
+        {
+            "title": "\"\"The Hat of Freedom\"\"\"-\"Oil on panel 67 x 51 cm",
+            "date": "Private collection",
+            "technique": "https://www.wga.hu/html/m/mijn/heroman/hat_free.html",
+            "location": "painting",
+            "url": "other",
+            "form": "Dutch",
+            "painting_type": "1701-1750",
+            "index": 27147
+        }
+    ]
+}

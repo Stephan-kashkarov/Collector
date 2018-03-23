@@ -1,0 +1,38 @@
+{
+    "name": "MASTER of the Holy Kinship",
+    "life": "(active 1480-1518 in Cologne)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Holy Kinship Altarpiece (central panel)",
+            "date": "1500-03",
+            "technique": "Oak 144 x 187 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/m/master/holykins/altarpie.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25051
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "1510s",
+            "technique": "Oil on panel 116 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/holykins/double1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25052
+        },
+        {
+            "title": "The Throne of Grace",
+            "date": "1510s",
+            "technique": "Oil on panel 116 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/holykins/double2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25053
+        }
+    ]
+}

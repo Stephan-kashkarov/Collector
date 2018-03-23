@@ -1,0 +1,48 @@
+{
+    "name": "MARINALI Orazio",
+    "life": "(b. 1643 Angarano d. 1720 Vicenza)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Boy in a Hat",
+            "date": "c. 1710",
+            "technique": "Marble",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/m/marinali/boyinhat.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 24256
+        },
+        {
+            "title": "Bravo",
+            "date": "c. 1710",
+            "technique": "Marble height c. 58 cm",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/m/marinali/bravo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 24257
+        },
+        {
+            "title": "A Cutthroat (detail)",
+            "date": "1690s",
+            "technique": "Marble",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/m/marinali/cutthroa.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 24258
+        },
+        {
+            "title": "Old Man",
+            "date": "c. 1710",
+            "technique": "Marble",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/m/marinali/old_man.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 24259
+        }
+    ]
+}

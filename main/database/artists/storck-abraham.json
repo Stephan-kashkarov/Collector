@@ -1,0 +1,78 @@
+{
+    "name": "STORCK Abraham",
+    "life": "(b. 1644 Amsterdam d. 1708 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "View of a Harbour on the Zuiderzee",
+            "date": "1680s",
+            "technique": "Oil on canvas 46 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/harbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38081
+        },
+        {
+            "title": "Italianate Park Landscape",
+            "date": "1687",
+            "technique": "Oil on panel 38 x 45 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38082
+        },
+        {
+            "title": "Fortified Mediterranean Port",
+            "date": "1676",
+            "technique": "Oil on panel 47 x 63 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/mediport.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38083
+        },
+        {
+            "title": "Mediterranean Harbour Scene",
+            "date": "-",
+            "technique": "Oil on canvas 78 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/mharbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38084
+        },
+        {
+            "title": "Seascape with View of a Beach Animated by Figures",
+            "date": "-",
+            "technique": "Oil on canvas 33 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/seascape.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38085
+        },
+        {
+            "title": "Dutch Man-'O-War \u001fStates Yacht and Other Ships in a Fresh Breeze",
+            "date": "1696",
+            "technique": "Oil on canvas 58 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/storck/abraham/shipbree.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38086
+        },
+        {
+            "title": "Shipping",
+            "date": "1690s",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/s/storck/abraham/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38087
+        }
+    ]
+}

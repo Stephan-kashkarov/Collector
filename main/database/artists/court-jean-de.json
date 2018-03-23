@@ -1,0 +1,28 @@
+{
+    "name": "COURT Jean de",
+    "life": "(active 1555-1585)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Marguerite de France as Minerva",
+            "date": "1555",
+            "technique": "Limoges enamel 20 x 155 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/c/court_j/minerva.html",
+            "form": "metalwork",
+            "painting_type": "portrait",
+            "index": 9918
+        },
+        {
+            "title": "Oval bowl",
+            "date": "1580s",
+            "technique": "Silver",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/c/court_j/ovalbowl.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 9919
+        }
+    ]
+}

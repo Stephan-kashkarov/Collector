@@ -1,0 +1,78 @@
+{
+    "name": "PENCZ Georg",
+    "life": "(b. ca. 1500 N\u00fcrnberg d. 1550 N\u00fcrnberg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Angel",
+            "date": "1525-30",
+            "technique": "Limewood 509 x 17 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/p/pencz/angel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30621
+        },
+        {
+            "title": "Desiderius Erasmus",
+            "date": "1537",
+            "technique": "Wood 59 x 46 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/p/pencz/erasmus.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30622
+        },
+        {
+            "title": "Portrait of Martin Luther",
+            "date": "1533",
+            "technique": "Oil on panel 41 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pencz/luther.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30623
+        },
+        {
+            "title": "Portrait of Count Palatine Ottheinrich",
+            "date": "c. 1550",
+            "technique": "Oil on panel 94 x 73 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/pencz/ottheinr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30624
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1540s",
+            "technique": "Oil on canvas 1095 x 82 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/pencz/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30625
+        },
+        {
+            "title": "Portrait of a Seated Youth",
+            "date": "1544",
+            "technique": "Oil on wood 91 x 70 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/pencz/seated_y.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30626
+        },
+        {
+            "title": "Caritas",
+            "date": "c. 1528",
+            "technique": "Copperplate engraving",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/p/pencz/zcaritas.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 30627
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "ESSELENS Jacob",
+    "life": "(b. ca. 1627 Amsterdam d. 1687 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Classical Landscape with Figures",
+            "date": "-",
+            "technique": "Oil on canvas 77 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/esselens/classica.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13241
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 63 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/esselens/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 13242
+        }
+    ]
+}

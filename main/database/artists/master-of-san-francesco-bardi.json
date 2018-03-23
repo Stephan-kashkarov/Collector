@@ -1,0 +1,38 @@
+{
+    "name": "MASTER of San Francesco Bardi",
+    "life": "(active 1240-1270 in Florence)",
+    "school": "Italian",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Crucifix with scenes from Calvary",
+            "date": "1240-45",
+            "technique": "Panel 247 x 200 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/san_fran/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24895
+        },
+        {
+            "title": "St Francis Receiving the Stigmata",
+            "date": "1240-50",
+            "technique": "Tempera on wood 81 x 51 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/san_fran/stigmata.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24896
+        },
+        {
+            "title": "St Francis Receiving the Stigmata",
+            "date": "1240-50",
+            "technique": "Tempera on wood 81 x 51 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/m/master/san_fran/stigmatb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24897
+        }
+    ]
+}

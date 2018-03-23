@@ -1,0 +1,28 @@
+{
+    "name": "KERN Anton",
+    "life": "(b. 1709 Tetschen d. 1747 Dresden)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Summer and Spring",
+            "date": "1747",
+            "technique": "Oil on canvas 165 x 126 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/kern_a/summer.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20927
+        },
+        {
+            "title": "Autumn and Winter",
+            "date": "1747",
+            "technique": "Oil on canvas 165 x 126 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/kern_a/winter.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 20928
+        }
+    ]
+}

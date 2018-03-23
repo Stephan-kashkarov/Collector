@@ -1,0 +1,98 @@
+{
+    "name": "F\u00dcGER Friedrich Heinrich",
+    "life": "(b. 1751 Heilbronn d. 1818 Wien)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Alcestis Sacrifices Herself for Admetus",
+            "date": "1804-05",
+            "technique": "Oil on canvas 194 x 139 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/f/fuger/alcestis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 14570
+        },
+        {
+            "title": "Bathsheba at the Bath",
+            "date": "-",
+            "technique": "Oil on panel 355 x 29 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/f/fuger/bathsheb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14571
+        },
+        {
+            "title": "Portrait of J\u00e1nos Bats\u00e1nyi",
+            "date": "1808",
+            "technique": "Oil on canvas (transferred to new canvas) 68 x 51 cm",
+            "location": "Historical Picture Gallery Hungarian National Museum Budapest",
+            "url": "https://www.wga.hu/html/f/fuger/batsanyi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14572
+        },
+        {
+            "title": "Catherine of Alexandria before the Emperor Maxentius",
+            "date": "c. 1805",
+            "technique": "Oil on canvas 112 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fuger/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14573
+        },
+        {
+            "title": "Portrait of Frederick Charles Joseph Baron von Erthal",
+            "date": "1789",
+            "technique": "Watercolour and bodycolour on ivory ormolu frame decorated with a golden pearl motif 182 x 145 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fuger/erthal.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14574
+        },
+        {
+            "title": "Miniature of the Artist's Father",
+            "date": "1774",
+            "technique": "Gouache on parchment 198 x 165 mm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/f/fuger/miniatu1.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 14575
+        },
+        {
+            "title": "Miniature of the Artist's Mother",
+            "date": "1774",
+            "technique": "Gouache on parchment 1200 x 165 mm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/f/fuger/miniatu2.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 14576
+        },
+        {
+            "title": "Portrait of the Artist's Son",
+            "date": "-",
+            "technique": "Oil on canvas 110 x 88 cm",
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "url": "https://www.wga.hu/html/f/fuger/son.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 14577
+        },
+        {
+            "title": "Study for Two Female Figures Praying",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fuger/study.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 14578
+        }
+    ]
+}

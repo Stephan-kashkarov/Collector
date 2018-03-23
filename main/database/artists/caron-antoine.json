@@ -1,0 +1,48 @@
+{
+    "name": "CARON Antoine",
+    "life": "(b. 1521 Beauvais d. 1599 Paris)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Augustus and the Sibyl",
+            "date": "1575-80",
+            "technique": "Oil on canvas 125 x 170 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caron/augustus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7737
+        },
+        {
+            "title": "Merry-go-round with Elephant",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caron/merry_go.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7738
+        },
+        {
+            "title": "The Triumph of Winter",
+            "date": "c. 1568",
+            "technique": "Oil on canvas 103 x 179 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caron/t_winter.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7739
+        },
+        {
+            "title": "The Massacres of the Triumvirate",
+            "date": "1566",
+            "technique": "Oil on canvas 116 x 195 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caron/triumvir.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 7740
+        }
+    ]
+}

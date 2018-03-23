@@ -1,0 +1,48 @@
+{
+    "name": "ASAM Egid Quirin",
+    "life": "(b. 1692 Tegernsee d. 1750 Mannheim)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1717-25",
+            "technique": "Marble and stucco",
+            "location": "Pilgrimage-church Rohr Bavaria",
+            "url": "https://www.wga.hu/html/a/asam/egid/assumpti.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2729
+        },
+        {
+            "title": "Assumption of the Virgin (detail)",
+            "date": "1717-25",
+            "technique": "Marble and stucco",
+            "location": "Pilgrimage-church Rohr Bavaria",
+            "url": "https://www.wga.hu/html/a/asam/egid/assumptx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2730
+        },
+        {
+            "title": "Exterior view",
+            "date": "1733-34",
+            "technique": "Photo",
+            "location": "St. John Nepomuk church Munich",
+            "url": "https://www.wga.hu/html/a/asam/egid/nepomuk.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2731
+        },
+        {
+            "title": "St George and the Dragon",
+            "date": "1721",
+            "technique": "Gilt stucco",
+            "location": "Benedictine Abbey Weltenburg",
+            "url": "https://www.wga.hu/html/a/asam/egid/s_george.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2732
+        }
+    ]
+}

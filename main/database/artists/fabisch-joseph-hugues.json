@@ -1,0 +1,28 @@
+{
+    "name": "FABISCH Joseph-Hugues",
+    "life": "(b. 1812 Aix-en-Provence d. 1886 Lyon)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Beatrice",
+            "date": "1855",
+            "technique": "Marble heuight 183 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/f/fabisch/beatrice.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 13438
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1863",
+            "technique": "Alabaster",
+            "location": "Church of Saint-Bruno des Chartreux Lyon",
+            "url": "https://www.wga.hu/html/f/fabisch/virgin_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13439
+        }
+    ]
+}

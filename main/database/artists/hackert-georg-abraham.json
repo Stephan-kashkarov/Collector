@@ -1,0 +1,38 @@
+{
+    "name": "HACKERT Georg Abraham",
+    "life": "(b. 1755 Prenzlau d. 1805 Firenze)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of the Environs of Carpentras",
+            "date": "1778",
+            "technique": "Etching with line engraving 480 x 670 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hackert/georg/carpentr.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 19024
+        },
+        {
+            "title": "Ruins of the Augustan Bridge at Narni",
+            "date": "1779",
+            "technique": "Etching with line engraving 535 x 710 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hackert/georg/narni.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 19025
+        },
+        {
+            "title": "View near Sorrento",
+            "date": "1777-79",
+            "technique": "Etching 870 x 48 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hackert/georg/sorrento.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 19026
+        }
+    ]
+}

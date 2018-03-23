@@ -1,0 +1,68 @@
+{
+    "name": "SPINELLI Niccol\u00f2 di Forzore",
+    "life": "(b. 1430 Firenze d. 1514 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Giovanna degli Albizzi Tornabuoni",
+            "date": "c. 1486",
+            "technique": "Cast bronze diameter 8 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/albizzi.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37778
+        },
+        {
+            "title": "Angelo Poliziano",
+            "date": "c. 1494",
+            "technique": "Cast bronze diameter 6 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/angelo_p.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37779
+        },
+        {
+            "title": "Lorenzo de' Medici",
+            "date": "c. 1490",
+            "technique": "Cast bronze diameter 9 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/l_medici.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37780
+        },
+        {
+            "title": "Portrait of Lodovico Luti of Siena",
+            "date": "1498",
+            "technique": "Bronze diameter 8 cm",
+            "location": "National Gallery of Australia Canberra",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/lodoluti.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37781
+        },
+        {
+            "title": "Girolamo Savonarola",
+            "date": "1493-98",
+            "technique": "Cast bronze diameter 6 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/savonaro.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37782
+        },
+        {
+            "title": "Filippo Strozzi",
+            "date": "1489",
+            "technique": "Cast copper alloy diameter 9 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/s/spinello/spinelln/strozzi.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37783
+        }
+    ]
+}

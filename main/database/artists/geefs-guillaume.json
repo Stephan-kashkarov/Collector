@@ -1,0 +1,38 @@
+{
+    "name": "GEEFS Guillaume",
+    "life": "(b. 1805 Antwerpen d. 1883 Bruxelles)",
+    "school": "Belgian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Lion in Love",
+            "date": "1851",
+            "technique": "White marble 61 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/geefs/lionlove.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15090
+        },
+        {
+            "title": "The Genius of Evil",
+            "date": "1848",
+            "technique": "Marble",
+            "location": "St. Paul's Cathedral Li\u00e8ge",
+            "url": "https://www.wga.hu/html/g/geefs/lucifer.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15091
+        },
+        {
+            "title": "Statue of Peter Paul Rubens",
+            "date": "1846",
+            "technique": "Bronze",
+            "location": "Groenplaats Antwerp",
+            "url": "https://www.wga.hu/html/g/geefs/rubens.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 15092
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "BOONEN Arnold",
+    "life": "(b. 1669 Dordrecht d. 1729 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "A Boy Seated at a Table Smoking",
+            "date": "1690s",
+            "technique": "Oil on canvas 33 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boonen/boysmoke.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 5059
+        },
+        {
+            "title": "Portrait of Susanna Catharina van der Spelt-Pels and her Daughter",
+            "date": "-",
+            "technique": "Oil on canvas 65 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boonen/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5060
+        },
+        {
+            "title": "Portrait of Anna Lucretia Ortt",
+            "date": "1723",
+            "technique": "Oil on canvas 95 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boonen/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5061
+        },
+        {
+            "title": "Portrait of Elisabeth Jacoba Bors van Waveren-Ortt and her Daughter",
+            "date": "1723",
+            "technique": "Oil on canvas 96 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boonen/portrai3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5062
+        },
+        {
+            "title": "A Young Man Seated at a Table",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boonen/youngman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 5063
+        }
+    ]
+}

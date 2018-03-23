@@ -1,0 +1,38 @@
+{
+    "name": "KELLER Heinrich",
+    "life": "(b. 1778 Z\u00fcrich d. 1862 Z\u00fcrich)",
+    "school": "Swiss",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Das Oberdorftor in Zurich",
+            "date": "1813",
+            "technique": "Watercolour",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keller/1oberdor.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20916
+        },
+        {
+            "title": "The Fraum\u00fcnsterkirche in Zurich",
+            "date": "1830",
+            "technique": "Engraving",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keller/fraumuns.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20917
+        },
+        {
+            "title": "Atalanta",
+            "date": "1802",
+            "technique": "Marble 175 x 130 cm",
+            "location": "Kunsthaus Zurich",
+            "url": "https://www.wga.hu/html/k/keller2/atalanta.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 20918
+        }
+    ]
+}

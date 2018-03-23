@@ -1,0 +1,38 @@
+{
+    "name": "SNAYERS Pieter",
+    "life": "(b. 1592 Antwerpen d. 1667 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "A Cavalry Engagement",
+            "date": "1618",
+            "technique": "Oil on canvas 76 x 110 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/snayers/cavalry.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37466
+        },
+        {
+            "title": "Halt of Horsemen in a Forest",
+            "date": "1657-59",
+            "technique": "Oil on canvas 82 x 107 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/snayers/horsemen.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37467
+        },
+        {
+            "title": "A Wooded Landscape with Travellers",
+            "date": "-",
+            "technique": "Oil on canvas 82 x 117 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/snayers/woodland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37468
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "REINAGLE Ramsay Richard",
+    "life": "(b. 1775 London 1862 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Italian Landscape with Lake",
+            "date": "-",
+            "technique": "Oil on canvas 63 x 90 cm",
+            "location": "Government Hospitality Lancaster House London",
+            "url": "https://www.wga.hu/html/r/reinagle/ramsay/italian.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 33365
+        },
+        {
+            "title": "Francis Noel Clarke Mundy and His Grandson William Mundy",
+            "date": "1809",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Yale Center for British Art New Haven",
+            "url": "https://www.wga.hu/html/r/reinagle/ramsay/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 33366
+        },
+        {
+            "title": "Sir William Cornwallis Harris",
+            "date": "c. 1823",
+            "technique": "Oil on canvas 76 x 63 cm",
+            "location": "National Portrait Gallery London",
+            "url": "https://www.wga.hu/html/r/reinagle/ramsay/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 33367
+        },
+        {
+            "title": "A Boy Reading",
+            "date": "c.1795",
+            "technique": "Oil on canvas 77 x 64 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/r/reinagle/ramsay/reading.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 33368
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Graphite drawing 212 x 186 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/r/reinagle/ramsay/selfport.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 33369
+        }
+    ]
+}

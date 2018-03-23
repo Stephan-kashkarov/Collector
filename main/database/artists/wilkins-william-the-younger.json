@@ -1,0 +1,28 @@
+{
+    "name": "WILKINS William the Younger",
+    "life": "(b. 1778 Norwich d. 1839 Cambridge)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1807-21",
+            "technique": "Photo",
+            "location": "Downing College Cambridge",
+            "url": "https://www.wga.hu/html/w/wilkins/downing.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44170
+        },
+        {
+            "title": "General view",
+            "date": "1809-16",
+            "technique": "Photo",
+            "location": "The Grange Hampshire",
+            "url": "https://www.wga.hu/html/w/wilkins/grange.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44171
+        }
+    ]
+}

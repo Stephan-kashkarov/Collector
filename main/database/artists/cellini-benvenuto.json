@@ -1,0 +1,748 @@
+{
+    "name": "CELLINI Benvenuto",
+    "life": "(b. 1500 Firenze d. 1571 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Salt Cellar",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony 26 x 335 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/01salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8330
+        },
+        {
+            "title": "Salt Cellar",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony 26 x 335 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/02salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8331
+        },
+        {
+            "title": "Salt Cellar",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony 26 x 335 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/03salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8332
+        },
+        {
+            "title": "Salt Cellar",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony 26 x 335 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/04salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8333
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/05salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8334
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/06salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8335
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/07salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8336
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/08salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8337
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/09salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8338
+        },
+        {
+            "title": "Salt Cellar (detail)",
+            "date": "1540-44",
+            "technique": "Gold enamel and ebony",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/cellini/1/10salt.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8339
+        },
+        {
+            "title": "'Two Carlini' of Clemens VII",
+            "date": "1520s",
+            "technique": "Silver",
+            "location": "Gabinetti Numismatici Turin",
+            "url": "https://www.wga.hu/html/c/cellini/2/01medal.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8340
+        },
+        {
+            "title": "Medal of Clement VII (obverse)",
+            "date": "1534",
+            "technique": "Gilt silver diameter 4 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/02medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8341
+        },
+        {
+            "title": "Medal of Clement VII (two versions of the verso)",
+            "date": "1534",
+            "technique": "Gilt silver diameter 4 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/03medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8342
+        },
+        {
+            "title": "Alessandro de' Medici",
+            "date": "1535",
+            "technique": "Struck silver testoon diameter 3 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/cellini/2/041medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8343
+        },
+        {
+            "title": "'Testone' of Alessandro de' Medici",
+            "date": "1535",
+            "technique": "Gilded silver diameter 4 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/04medal.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8344
+        },
+        {
+            "title": "'Giulio' of Alessandro de' Medici",
+            "date": "1530s",
+            "technique": "Silver diameter 26 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/05medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8345
+        },
+        {
+            "title": "Medal of Alessandro de' Medici",
+            "date": "1530s",
+            "technique": "Silver diameter 36 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/06medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8346
+        },
+        {
+            "title": "Francis I King of France",
+            "date": "1537",
+            "technique": "Lead medal",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/c/cellini/2/07medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8347
+        },
+        {
+            "title": "Medal of Fran\u00e7ois I",
+            "date": "c. 1540",
+            "technique": "Cast bronze diameter 38 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/08medal.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8348
+        },
+        {
+            "title": "Seal of Cardinal Ippolito d'Este",
+            "date": "c. 1540",
+            "technique": "Lead 11 x 8 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/c/cellini/2/09medal.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8349
+        },
+        {
+            "title": "Medallion with Leda and the Swan",
+            "date": "c. 1520",
+            "technique": "Gold diameter 38 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/2/10medal.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8350
+        },
+        {
+            "title": "Perseus",
+            "date": "1545-54",
+            "technique": "Bronze height 320 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/01perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8351
+        },
+        {
+            "title": "Perseus",
+            "date": "1545-54",
+            "technique": "Bronze height 320 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/02perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8352
+        },
+        {
+            "title": "Perseus",
+            "date": "1545-54",
+            "technique": "Bronze height 320 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/03perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8353
+        },
+        {
+            "title": "Perseus",
+            "date": "1545-54",
+            "technique": "Bronze height 320 cm",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/04perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8354
+        },
+        {
+            "title": "Perseus (detail)",
+            "date": "1545-54",
+            "technique": "Bronze",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/05perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8355
+        },
+        {
+            "title": "Perseus (detail)",
+            "date": "1545-54",
+            "technique": "Bronze",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/06perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8356
+        },
+        {
+            "title": "Perseus (detail)",
+            "date": "1545-54",
+            "technique": "Bronze",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/07perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8357
+        },
+        {
+            "title": "Perseus (detail)",
+            "date": "1545-54",
+            "technique": "Bronze",
+            "location": "Loggia dei Lanzi Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/08perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8358
+        },
+        {
+            "title": "Perseus",
+            "date": "1540s",
+            "technique": "Wax height 72 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/09perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8359
+        },
+        {
+            "title": "Perseus",
+            "date": "1540s",
+            "technique": "Bronze height 75 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/10perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8360
+        },
+        {
+            "title": "Perseus",
+            "date": "1540s",
+            "technique": "Bronze height 75 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/3/11perseu.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8361
+        },
+        {
+            "title": "Nymph of Fontainebleau",
+            "date": "1542-44",
+            "technique": "Bronze 205 x 409 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/4/01bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8362
+        },
+        {
+            "title": "Nymph of Fontainebleau (detail)",
+            "date": "1542-44",
+            "technique": "Bronze",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/4/02bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8363
+        },
+        {
+            "title": "Nymph of Fontainebleau (detail)",
+            "date": "1542-44",
+            "technique": "Bronze",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/4/03bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8364
+        },
+        {
+            "title": "Bust of Cosimo I",
+            "date": "1546-47",
+            "technique": "Bronze height 110 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/04bronze.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8365
+        },
+        {
+            "title": "Bust of Cosimo I (detail)",
+            "date": "1546-47",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/05bronze.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8366
+        },
+        {
+            "title": "Bust of Cosimo I (detail)",
+            "date": "1546-47",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/06bronze.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8367
+        },
+        {
+            "title": "Bust of Cosimo I (detail)",
+            "date": "1546-47",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/07bronze.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8368
+        },
+        {
+            "title": "Bust of Bindo Altoviti",
+            "date": "1549",
+            "technique": "Bronze height 105 cm",
+            "location": "Isabella Stewart Gardner Museum Boston",
+            "url": "https://www.wga.hu/html/c/cellini/4/08bronze.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8369
+        },
+        {
+            "title": "Sakuki Greyhound",
+            "date": "-",
+            "technique": "Bronze 18 x 28 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/09bronze.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8370
+        },
+        {
+            "title": "Ganymede",
+            "date": "1548-50",
+            "technique": "Bronze height 60 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/10bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8371
+        },
+        {
+            "title": "Ganymede",
+            "date": "1548-50",
+            "technique": "Bronze height 60 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/11bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8372
+        },
+        {
+            "title": "Mercury",
+            "date": "1545-53",
+            "technique": "Bronze height 96 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/12bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8373
+        },
+        {
+            "title": "Jupiter",
+            "date": "1545-53",
+            "technique": "Bronze height 98 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/13bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8374
+        },
+        {
+            "title": "Minerva",
+            "date": "1545-53",
+            "technique": "Bronze height 89 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/14bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8375
+        },
+        {
+            "title": "Dana\u00eb and her Son Perseus",
+            "date": "1545-53",
+            "technique": "Bronze height 84 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/15bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8376
+        },
+        {
+            "title": "Nude of Fear",
+            "date": "-",
+            "technique": "Bronze height 32 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/16bronze.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 8377
+        },
+        {
+            "title": "The Rescue of Andromeda",
+            "date": "1550s",
+            "technique": "Bronze 82 x 90 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/17bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8378
+        },
+        {
+            "title": "The Rescue of Andromeda (detail)",
+            "date": "1550s",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/18bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8379
+        },
+        {
+            "title": "The Rescue of Andromeda (detail)",
+            "date": "1550s",
+            "technique": "Bronze",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/4/19bronze.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8380
+        },
+        {
+            "title": "Apollo and Hyacinth",
+            "date": "1540s",
+            "technique": "Marble height 191 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/5/00marble.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8381
+        },
+        {
+            "title": "Apollo and Hyacinth (detail)",
+            "date": "1540s",
+            "technique": "Marble",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/5/01marble.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8382
+        },
+        {
+            "title": "Crucifix",
+            "date": "1562",
+            "technique": "Marble height 185 cm",
+            "location": "Monasterio de San Lorenzo El Escorial",
+            "url": "https://www.wga.hu/html/c/cellini/5/02marble.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8383
+        },
+        {
+            "title": "Crucifix (detail)",
+            "date": "1562",
+            "technique": "Marble",
+            "location": "Monasterio de San Lorenzo El Escorial",
+            "url": "https://www.wga.hu/html/c/cellini/5/03marble.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8384
+        },
+        {
+            "title": "Narcissus",
+            "date": "1540s",
+            "technique": "Marble height 149 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/5/04marble.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8385
+        },
+        {
+            "title": "Ganymede",
+            "date": "1540s",
+            "technique": "Marble height 106 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/c/cellini/5/05marble.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 8386
+        },
+        {
+            "title": "Morion for Francesco I de' Medici",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron height 37 cm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/01armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8387
+        },
+        {
+            "title": "Morion for Francesco I de' Medici",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron height 37 cm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/02armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8388
+        },
+        {
+            "title": "Shield for Francesco I de' Medici",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron height 76 cm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/03armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8389
+        },
+        {
+            "title": "Shield for Francesco I de' Medici (detail)",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/04armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8390
+        },
+        {
+            "title": "Shield for Francesco I de' Medici (detail)",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/05armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8391
+        },
+        {
+            "title": "Shield for Francesco I de' Medici (detail)",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/06armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8392
+        },
+        {
+            "title": "Shield for Francesco I de' Medici (detail)",
+            "date": "c. 1570",
+            "technique": "Chased and silver-plated iron",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/c/cellini/6/07armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8393
+        },
+        {
+            "title": "Shield",
+            "date": "c. 1572",
+            "technique": "Embossed chased and gold-plated iron 68 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/6/08armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8394
+        },
+        {
+            "title": "Helmet",
+            "date": "c. 1570",
+            "technique": "Repouss\u00e9 steel plated with gold and enameled 68 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/6/09armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8395
+        },
+        {
+            "title": "Gunpowder case",
+            "date": "c. 1570",
+            "technique": "Silver",
+            "location": "Royal Armouries London",
+            "url": "https://www.wga.hu/html/c/cellini/6/10armour.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 8396
+        },
+        {
+            "title": "Cope pin (profile)",
+            "date": "1520s",
+            "technique": "Drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cellini/7/01graphi.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 8397
+        },
+        {
+            "title": "Cope pin (front and back)",
+            "date": "1520s",
+            "technique": "Drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cellini/7/02graphi.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 8398
+        },
+        {
+            "title": "Juno",
+            "date": "c. 1540",
+            "technique": "Black chalk 247 x 186 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/7/03graphi.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 8399
+        },
+        {
+            "title": "Satyr",
+            "date": "-",
+            "technique": "Drawing",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/cellini/7/04graphi.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 8400
+        },
+        {
+            "title": "Study for a seal",
+            "date": "1560s",
+            "technique": "Pen drawing 315 x 125 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cellini/7/05graphi.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 8401
+        },
+        {
+            "title": "Project for a seal",
+            "date": "1563-69",
+            "technique": "Drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cellini/7/06graphi.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 8402
+        },
+        {
+            "title": "Apollo",
+            "date": "1560s",
+            "technique": "Drawing",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cellini/7/07graphi.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 8403
+        }
+    ]
+}

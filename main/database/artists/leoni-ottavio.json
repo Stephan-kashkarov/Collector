@@ -1,0 +1,88 @@
+{
+    "name": "LEONI Ottavio",
+    "life": "(b. 1578 Roma d. 1630 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Giovanni Lorenzo Bernini",
+            "date": "-",
+            "technique": "Engraving 140 x 110 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/l/leoni_o/bernini.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22142
+        },
+        {
+            "title": "Caravaggio",
+            "date": "1621-25",
+            "technique": "Chalk on blue paper 234 x 163 mm",
+            "location": "Biblioteca Marucelliana Florence",
+            "url": "https://www.wga.hu/html/l/leoni_o/caravagg.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22143
+        },
+        {
+            "title": "Portrait of Annibale Carracci",
+            "date": "c. 1614",
+            "technique": "Chalk 242 x 170 mm",
+            "location": "Biblioteca Marucelliana Florence",
+            "url": "https://www.wga.hu/html/l/leoni_o/carracci.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22144
+        },
+        {
+            "title": "Cardinal Francesco del Monte",
+            "date": "1616",
+            "technique": "Black chalk with wwhite heightening 229 x 165 mm",
+            "location": "Ringling Museum of Art Sarasota",
+            "url": "https://www.wga.hu/html/l/leoni_o/delmonte.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22145
+        },
+        {
+            "title": "Portrait of Cardinal Ludovico Ludovisi",
+            "date": "1621",
+            "technique": "Oil on canvas 136 x 100 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/leoni_o/ludovisi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22146
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "-",
+            "technique": "Oil on copper 29 x 22 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leoni_o/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22147
+        },
+        {
+            "title": "Portrait of Guido Reni",
+            "date": "1614",
+            "technique": "Chalk 242 x 170 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leoni_o/reni.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22148
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1625",
+            "technique": "Engraving 145 x 115 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/l/leoni_o/selfport.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22149
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "name": "BALASSI Mario",
+    "life": "(b. 1604 Firenze d. 1667 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Noli me tangere",
+            "date": "c. 1632",
+            "technique": "Oil on canvas 243 x 165 cm",
+            "location": "Ente Cassa di Risparmio Florence",
+            "url": "https://www.wga.hu/html/b/balassi/balassi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2977
+        },
+        {
+            "title": "Ghismonda Receiving the Heart of her Lover",
+            "date": "-",
+            "technique": "Oil on canvas 248 x 166 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balassi/balassi2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 2978
+        },
+        {
+            "title": "Santa Margherita",
+            "date": "-",
+            "technique": "Oil on canvas 96 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balassi/balassi3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2979
+        },
+        {
+            "title": "St Nicholas of Tolentino Resuscitates the Birds",
+            "date": "1648",
+            "technique": "Oil on canvas 330 x 225 cm",
+            "location": "Museo Civico Prato",
+            "url": "https://www.wga.hu/html/b/balassi/balassi4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2980
+        },
+        {
+            "title": "The Virgin and Child Appear to St Dominic",
+            "date": "1656",
+            "technique": "Oil on canvas 190 x 145 cm",
+            "location": "Museo Civico Prato",
+            "url": "https://www.wga.hu/html/b/balassi/balassi5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2981
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1660",
+            "technique": "Oil on panel 60 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balassi/balassi6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2982
+        },
+        {
+            "title": "Queen of Armenia",
+            "date": "-",
+            "technique": "Oil on panel 64 x 48 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/balassi/balassi7.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2983
+        },
+        {
+            "title": "Portrait of Vittoria della Rovere",
+            "date": "1661",
+            "technique": "Oil on canvas 83 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balassi/balassi8.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2984
+        }
+    ]
+}

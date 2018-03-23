@@ -1,0 +1,28 @@
+{
+    "name": "TILGNER Victor Oskar",
+    "life": "(b. 1844 Pressburg d. 1896 Wien)",
+    "school": "Austrian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Gladiator and Defeated Slave",
+            "date": "1880",
+            "technique": "Patinated and gilt plaster height 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tilgner/gladiato.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39200
+        },
+        {
+            "title": "Mozart Monument",
+            "date": "1896",
+            "technique": "Marble",
+            "location": "Burggarten Hofburg Palace Vienna",
+            "url": "https://www.wga.hu/html/t/tilgner/mozart.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 39201
+        }
+    ]
+}

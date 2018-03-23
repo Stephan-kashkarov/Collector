@@ -1,0 +1,28 @@
+{
+    "name": "P\u00c9REZ SIERRA Francisco",
+    "life": "(b. 1627 Napoli d. 1709 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Vase of Flowers",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 62 x 43 cm",
+            "location": "Palacio Real Madrid",
+            "url": "https://www.wga.hu/html/p/perez_s/flowers1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30681
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "c. 1690",
+            "technique": "Oil on canvas 60 x 415 cm",
+            "location": "Monasterio de El Escorial Madrid",
+            "url": "https://www.wga.hu/html/p/perez_s/flowers2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30682
+        }
+    ]
+}

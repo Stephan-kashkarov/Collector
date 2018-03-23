@@ -1,0 +1,98 @@
+{
+    "name": "MAINARDI Bastiano",
+    "life": "(b. 1466 San Gimignano d. 1513 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Child",
+            "date": "-",
+            "technique": "Tempera on panel diameter 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mainardi/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23680
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "c. 1482",
+            "technique": "Fresco",
+            "location": "Loggia del Comune Collegiata San Gimignano",
+            "url": "https://www.wga.hu/html/m/mainardi/annunci1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23681
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "c. 1482",
+            "technique": "Fresco",
+            "location": "Loggia del Comune Collegiata San Gimignano",
+            "url": "https://www.wga.hu/html/m/mainardi/annunci2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23682
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "c. 1482",
+            "technique": "Fresco",
+            "location": "Loggia del Comune Collegiata San Gimignano",
+            "url": "https://www.wga.hu/html/m/mainardi/annunci3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23683
+        },
+        {
+            "title": "Assumption of the Virgin with the Gift of the Girdle",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Santa Croce Florence",
+            "url": "https://www.wga.hu/html/m/mainardi/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23684
+        },
+        {
+            "title": "Madonna with Child the Young St John and Two Angels",
+            "date": "c. 1500",
+            "technique": "Oil on panel diameter 82 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/m/mainardi/mad_chil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23685
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1500",
+            "technique": "Tempera on wood 45 x 34 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/mainardi/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23686
+        },
+        {
+            "title": "Tomb Monument to Fra Domenico Strambi",
+            "date": "1487",
+            "technique": "Fresco 250 x 290 cm",
+            "location": "Sant'Agostino San Gimignano",
+            "url": "https://www.wga.hu/html/m/mainardi/strambi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23687
+        },
+        {
+            "title": "Virgin Adoring the Child with Two Angels",
+            "date": "1490s",
+            "technique": "Panel diameter 32 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/m/mainardi/virgin_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23688
+        }
+    ]
+}

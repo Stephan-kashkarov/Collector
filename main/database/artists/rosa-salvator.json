@@ -1,0 +1,278 @@
+{
+    "name": "ROSA Salvator",
+    "life": "(b. 1615 Arenella d. 1673 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of a Man",
+            "date": "1640s",
+            "technique": "Oil on canvas 78 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rosa/bandit.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35100
+        },
+        {
+            "title": "A Battle Scene",
+            "date": "1640s",
+            "technique": "Oil on canvas 96 x 154 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosa/battlesc.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 35101
+        },
+        {
+            "title": "Democritus in Meditation",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 344 x 214 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/rosa/democrit.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35102
+        },
+        {
+            "title": "Democritus in Meditation",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 344 x 214 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/r/rosa/democrix.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35103
+        },
+        {
+            "title": "A Friar Tempted by Demons",
+            "date": "1660-65",
+            "technique": "Oil on canvas 65 x 83 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/r/rosa/demons1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35104
+        },
+        {
+            "title": "Anchorites Tempted by Demons",
+            "date": "1660-65",
+            "technique": "Oil on canvas 65 x 83 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/r/rosa/demons2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35105
+        },
+        {
+            "title": "Diogenes Casting away his Cup",
+            "date": "1650s",
+            "technique": "Oil on canvas 219 x 148 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosa/diogenes.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35106
+        },
+        {
+            "title": "Evening Landscape",
+            "date": "1640-43",
+            "technique": "Oil on canvas 99 x 151 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosa/evening.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35107
+        },
+        {
+            "title": "Human Fragility",
+            "date": "-",
+            "technique": "Oil on canvas 199 x 134 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/r/rosa/fragilit.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35108
+        },
+        {
+            "title": "Grotto with Cascades",
+            "date": "1639-40",
+            "technique": "Oil on canvas 65 x 49 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/r/rosa/grotto.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35109
+        },
+        {
+            "title": "Harbour with Ruins",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 88 x 111 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/rosa/harbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35110
+        },
+        {
+            "title": "Rocky Landscape with Waterfall",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 87 x 111 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/rosa/harbour1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35111
+        },
+        {
+            "title": "Heroic Battle",
+            "date": "1652-64",
+            "technique": "Oil on canvas 214 x 351 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/rosa/heroicba.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 35112
+        },
+        {
+            "title": "Marine Landscape with Towers",
+            "date": "after 1645",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/r/rosa/marine.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35113
+        },
+        {
+            "title": "Odysseus and Nausicaa",
+            "date": "1663-64",
+            "technique": "Oil on canvas 195 x 144 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rosa/odysseus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35114
+        },
+        {
+            "title": "Portrait of a Philosopher",
+            "date": "-",
+            "technique": "Oil on canvas 119 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosa/philosop.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35115
+        },
+        {
+            "title": "Portrait of the Artist's Wife Lucrezia",
+            "date": "1657-60",
+            "technique": "Oil on canvas 66 x 505 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/r/rosa/portwife.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35116
+        },
+        {
+            "title": "The Prodigal Son",
+            "date": "1651-55",
+            "technique": "Oil on canvas 254 x 201 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rosa/prodigal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35117
+        },
+        {
+            "title": "Pythagoras and the Fisherman",
+            "date": "1662",
+            "technique": "Oil on canvas 132 x 188 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/r/rosa/pythagor.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 35118
+        },
+        {
+            "title": "River Landscape with Apollo and the Cumean Sibyl",
+            "date": "c. 1655",
+            "technique": "Oil on canvas 174 x 259 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/r/rosa/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35119
+        },
+        {
+            "title": "The Shade of Samuel Appears to Saul",
+            "date": "1668",
+            "technique": "Oil on canvas 275 x 191 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/rosa/samuel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35120
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on canvas 99 x 79 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/rosa/self_por.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35121
+        },
+        {
+            "title": "Self-Portrait as Philosopher of Silence",
+            "date": "c. 1641",
+            "technique": "Oil on canvas 116 x 94 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/r/rosa/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35122
+        },
+        {
+            "title": "View of the Gulf of Salerno",
+            "date": "1640-45",
+            "technique": "Oil on canvas 170 x 260 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/r/rosa/view_sal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35123
+        },
+        {
+            "title": "Warrior",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Chigi Saracini Siena",
+            "url": "https://www.wga.hu/html/r/rosa/warrior.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35124
+        },
+        {
+            "title": "Rocky Landscape with a Huntsman and Warriors",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 142 x 192 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/r/rosa/warriors.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35125
+        },
+        {
+            "title": "Wooded Landscape",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 72 x 134 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosa/woodland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35126
+        }
+    ]
+}

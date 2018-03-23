@@ -1,0 +1,58 @@
+{
+    "name": "GIBSON John",
+    "life": "(b. 1790 Conway d. 1866 Roma)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bust of Cupid",
+            "date": "1820s",
+            "technique": "White marble height 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gibson/cupid.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15768
+        },
+        {
+            "title": "The 'Tinted Venus'",
+            "date": "1851-56",
+            "technique": "Marble with slight pigmentation height 175 cm",
+            "location": "Walker Art Gallery Liverpool",
+            "url": "https://www.wga.hu/html/g/gibson/venus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15769
+        },
+        {
+            "title": "The 'Tinted Venus'",
+            "date": "1851-56",
+            "technique": "Marble with slight pigmentation height 175 cm",
+            "location": "Walker Art Gallery Liverpool",
+            "url": "https://www.wga.hu/html/g/gibson/venus1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15770
+        },
+        {
+            "title": "The 'Tinted Venus' (detail)",
+            "date": "1851-56",
+            "technique": "Marble with slight pigmentation",
+            "location": "Walker Art Gallery Liverpool",
+            "url": "https://www.wga.hu/html/g/gibson/venus2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 15771
+        },
+        {
+            "title": "Queen Victoria",
+            "date": "1850",
+            "technique": "Marble",
+            "location": "Palace of Westminster London",
+            "url": "https://www.wga.hu/html/g/gibson/victoria.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 15772
+        }
+    ]
+}

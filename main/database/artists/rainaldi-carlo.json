@@ -1,0 +1,118 @@
+{
+    "name": "RAINALDI Carlo",
+    "life": "(b. 1611 Roma d. 1691 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Sant'Andrea della Valle: Fa\u00e7ade",
+            "date": "1593-1666",
+            "technique": "Photo",
+            "location": "Piazza Vidoni Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/andreaval.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33214
+        },
+        {
+            "title": "Santa Maria in Campitelli: Fa\u00e7ade",
+            "date": "1659-67",
+            "technique": "Photo",
+            "location": "Piazza di Campitelli Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/campite1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33215
+        },
+        {
+            "title": "Santa Maria in Campitelli: Interior",
+            "date": "1659-67",
+            "technique": "Photo",
+            "location": "Piazza di Campitelli Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/campite2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 33216
+        },
+        {
+            "title": "Fa\u00e7ade of Santa Maria in Campitelli",
+            "date": "1658",
+            "technique": "Drawing",
+            "location": "Archivio di S. Maria in Campitelli Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/campite3.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 33217
+        },
+        {
+            "title": "Santa Maria Maggiore: Exterior view of the apse area",
+            "date": "1670s",
+            "technique": "Photo",
+            "location": "Piazza Esquilino Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/maggior1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33218
+        },
+        {
+            "title": "Santa Maria Maggiore: Exterior view of the apse area",
+            "date": "1673",
+            "technique": "Photo",
+            "location": "Piazza Esquilino Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/maggior2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33219
+        },
+        {
+            "title": "Sant'Agnese in Agone",
+            "date": "1652-72",
+            "technique": "Photo",
+            "location": "Piazza Navona Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/navona.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33220
+        },
+        {
+            "title": "Twin churches",
+            "date": "1662-78",
+            "technique": "Photo",
+            "location": "Piazza del Popolo Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/popolo.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33221
+        },
+        {
+            "title": "Twin churches",
+            "date": "1662-78",
+            "technique": "Photo",
+            "location": "Piazza del Popolo Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/popolo1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33222
+        },
+        {
+            "title": "Twin churches",
+            "date": "1662-78",
+            "technique": "Photo",
+            "location": "Piazza del Popolo Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/popolo2.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 33223
+        },
+        {
+            "title": "Twin churches",
+            "date": "1662-78",
+            "technique": "Photo",
+            "location": "Piazza del Popolo Rome",
+            "url": "https://www.wga.hu/html/r/rainaldi/popolo3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 33224
+        }
+    ]
+}

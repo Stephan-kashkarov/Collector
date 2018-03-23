@@ -1,0 +1,38 @@
+{
+    "name": "KAMPER Godaert",
+    "life": "(b. ca. 1613 D\u00fcsseldorf d. 1679 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Dutch Landscape",
+            "date": "-",
+            "technique": "Oil on panel 45 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/kamper/dutchlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20878
+        },
+        {
+            "title": "Musical Party",
+            "date": "-",
+            "technique": "Oil on panel 38 x 48 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/k/kamper/musical.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 20879
+        },
+        {
+            "title": "The Road through the Woods",
+            "date": "-",
+            "technique": "Oil on panel 45 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/kamper/roadwood.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20880
+        }
+    ]
+}

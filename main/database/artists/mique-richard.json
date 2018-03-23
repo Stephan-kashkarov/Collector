@@ -1,0 +1,38 @@
+{
+    "name": "MIQUE Richard",
+    "life": "(b. 1728 Nancy d. 1794 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1782-85",
+            "technique": "Photo",
+            "location": "Hameau de la Reine Trianon Versailles",
+            "url": "https://www.wga.hu/html/m/mique/hameau1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 28317
+        },
+        {
+            "title": "Exterior view",
+            "date": "1782-85",
+            "technique": "Photo",
+            "location": "Hameau de la Reine Trianon Versailles",
+            "url": "https://www.wga.hu/html/m/mique/hameau2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 28318
+        },
+        {
+            "title": "Temple of Love",
+            "date": "1775",
+            "technique": "Photo",
+            "location": "Petit Trianon Versailles",
+            "url": "https://www.wga.hu/html/m/mique/trianon.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 28319
+        }
+    ]
+}

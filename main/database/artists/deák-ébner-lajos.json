@@ -1,0 +1,58 @@
+{
+    "name": "DE\u00c1K-\u00c9BNER Lajos",
+    "life": "(b. 1850 Pest d.1934 Budapest)",
+    "school": "Hungarian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Riverside",
+            "date": "1877-80",
+            "technique": "Oil on canvas mounted on cardboard 34 x 50 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/deak-ebn/1riversi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11072
+        },
+        {
+            "title": "Road of the Wild Mallows",
+            "date": "c. 1880",
+            "technique": "Oil on canvas 37 x 78 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/deak-ebn/2mallows.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11073
+        },
+        {
+            "title": "Boat Warpers",
+            "date": "c. 1885",
+            "technique": "Oil on canvas 132 x 98 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/deak-ebn/3warpers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11074
+        },
+        {
+            "title": "Market Scene",
+            "date": "c. 1885",
+            "technique": "Oil on canvas 56 x 90 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/deak-ebn/4market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11075
+        },
+        {
+            "title": "Marriage Procession",
+            "date": "1888",
+            "technique": "Oil on canvas 99 x 87 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/d/deak-ebn/5marriag.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 11076
+        }
+    ]
+}

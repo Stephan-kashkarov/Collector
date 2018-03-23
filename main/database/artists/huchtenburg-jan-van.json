@@ -1,0 +1,58 @@
+{
+    "name": "HUCHTENBURG Jan van",
+    "life": "(b. 1647 Haarlem d. 1733 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Battle of the Boyne",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/huchtenb/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20243
+        },
+        {
+            "title": "Battle between Cavalrymen and Foot Soldiers",
+            "date": "-",
+            "technique": "Brush and black wash over faint indications in graphite on paper 309 x 408 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/h/huchtenb/battle1.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 20244
+        },
+        {
+            "title": "Cavalry Battle with a Town Beyond",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/huchtenb/cavalry.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20245
+        },
+        {
+            "title": "Cavalry Battle with a Town Beyond (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/huchtenb/cavalry1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20246
+        },
+        {
+            "title": "Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 32 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/huchtenb/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20247
+        }
+    ]
+}

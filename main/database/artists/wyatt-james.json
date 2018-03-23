@@ -1,0 +1,58 @@
+{
+    "name": "WYATT James",
+    "life": "(b. 1746 Burton Constable d. 1813 Marlborough)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1808-17",
+            "technique": "Photo",
+            "location": "Ashridge Little Gaddesden Hertfordshire",
+            "url": "https://www.wga.hu/html/w/wyatt/james/ashridg1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44445
+        },
+        {
+            "title": "Interior view",
+            "date": "1808-17",
+            "technique": "Photo",
+            "location": "Ashridge Little Gaddesden Hertfordshire",
+            "url": "https://www.wga.hu/html/w/wyatt/james/ashridg2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 44446
+        },
+        {
+            "title": "Interior view",
+            "date": "1808-17",
+            "technique": "Photo",
+            "location": "Ashridge Little Gaddesden Hertfordshire",
+            "url": "https://www.wga.hu/html/w/wyatt/james/ashridg3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 44447
+        },
+        {
+            "title": "Exterior view",
+            "date": "1800-13",
+            "technique": "Photo",
+            "location": "Belvoir Castle Leicestershire",
+            "url": "https://www.wga.hu/html/w/wyatt/james/belvoir.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44448
+        },
+        {
+            "title": "West fa\u00e7ade",
+            "date": "1793-1818",
+            "technique": "Photo",
+            "location": "Dodington Park Gloucestershire",
+            "url": "https://www.wga.hu/html/w/wyatt/james/dodingto.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44449
+        }
+    ]
+}

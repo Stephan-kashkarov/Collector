@@ -1,0 +1,48 @@
+{
+    "name": "SCHALL Jean-Fr\u00e9d\u00e9ric",
+    "life": "(b. 1752 Strasbourg d. 1825 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Young Lady in a Garden",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schall/garden.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36537
+        },
+        {
+            "title": "Lady at Her Dressing Table with a Dog",
+            "date": "-",
+            "technique": "Oil on canvas 32 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schall/ladydres.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36538
+        },
+        {
+            "title": "Flower-Woman in Red Apron",
+            "date": "-",
+            "technique": "Oil on canvas 33 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schall/redapron.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36539
+        },
+        {
+            "title": "Gardener in Straw Hat",
+            "date": "-",
+            "technique": "Oil on canvas 33 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schall/strawhat.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36540
+        }
+    ]
+}

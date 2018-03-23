@@ -1,0 +1,28 @@
+{
+    "name": "BARRY Sir Charles",
+    "life": "(b. 1795 London d. 1860 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Travellers Club and Reform Club",
+            "date": "1829-41",
+            "technique": "Photo",
+            "location": "Pall Mall London",
+            "url": "https://www.wga.hu/html/b/barry/pallmall.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 3256
+        },
+        {
+            "title": "Houses of Parliament",
+            "date": "1839-60",
+            "technique": "Photo",
+            "location": "Westminster London",
+            "url": "https://www.wga.hu/html/b/barry/westmins.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 3257
+        }
+    ]
+}

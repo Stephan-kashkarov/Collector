@@ -1,0 +1,58 @@
+{
+    "name": "VERBRUGGEN Hendrick Frans",
+    "life": "(b. 1654 Antwerpen d. 1724 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Memorial of Bishop Marius Ambrose Capello",
+            "date": "1676",
+            "technique": "White an black marble",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/v/verbrugg/capello.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42473
+        },
+        {
+            "title": "Pulpit",
+            "date": "1699-1702",
+            "technique": "Wood",
+            "location": "St Peter and St Paul Mechelen",
+            "url": "https://www.wga.hu/html/v/verbrugg/m_pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42474
+        },
+        {
+            "title": "Pulpit",
+            "date": "1695-99",
+            "technique": "Gilded oak height 700 cm width:350 cm",
+            "location": "Cathedral of Ste Gudule Brussels",
+            "url": "https://www.wga.hu/html/v/verbrugg/pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42475
+        },
+        {
+            "title": "Adam and Eve Banished from Paradise (detail of the pulpit)",
+            "date": "1695-99",
+            "technique": "Gilded oak",
+            "location": "Cathedral of Ste Gudule Brussels",
+            "url": "https://www.wga.hu/html/v/verbrugg/pulpit_c.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42476
+        },
+        {
+            "title": "Adam and Eve Banished from Paradise (detail of the pulpit)",
+            "date": "1695-99",
+            "technique": "Gilded oak",
+            "location": "Cathedral of Ste Gudule Brussels",
+            "url": "https://www.wga.hu/html/v/verbrugg/pulpit_d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 42477
+        }
+    ]
+}

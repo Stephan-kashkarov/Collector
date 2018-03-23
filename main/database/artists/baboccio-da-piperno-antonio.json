@@ -1,0 +1,38 @@
+{
+    "name": "BABOCCIO DA PIPERNO Antonio",
+    "life": "(b. ca. 1351 Piperno d. 1435 Piperno)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Main portal",
+            "date": "1407",
+            "technique": "Marble",
+            "location": "Cathedral Naples",
+            "url": "https://www.wga.hu/html/b/baboccio/portal.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2852
+        },
+        {
+            "title": "Tomb of Ludovico Aldomorisco",
+            "date": "1421",
+            "technique": "Marble",
+            "location": "Basilica of San Lorenzo Maggiore Naples",
+            "url": "https://www.wga.hu/html/b/baboccio/tomb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2853
+        },
+        {
+            "title": "Tomb of Ludovico Aldomorisco (detail)",
+            "date": "1421",
+            "technique": "Marble relief",
+            "location": "Basilica of San Lorenzo Maggiore Naples",
+            "url": "https://www.wga.hu/html/b/baboccio/tomb1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 2854
+        }
+    ]
+}

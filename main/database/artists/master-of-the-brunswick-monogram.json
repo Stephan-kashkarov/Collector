@@ -1,0 +1,38 @@
+{
+    "name": "MASTER of the Brunswick Monogram",
+    "life": "(active 1525-1550 in Antwerp)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Abraham Leading his Son Isaac to the Sacrifice",
+            "date": "c. 1535",
+            "technique": "Wood 40 x 32 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/master/brunswic/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24955
+        },
+        {
+            "title": "Road to Calvary",
+            "date": "c. 1535",
+            "technique": "Wood 70 x 84 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/master/brunswic/calvary1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24956
+        },
+        {
+            "title": "Calvary",
+            "date": "1550s",
+            "technique": "Oil on panel 29 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/brunswic/calvary2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24957
+        }
+    ]
+}

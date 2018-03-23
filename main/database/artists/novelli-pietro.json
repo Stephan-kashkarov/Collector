@@ -1,0 +1,48 @@
+{
+    "name": "NOVELLI Pietro",
+    "life": "(b. 1603 Monreale d. 1647 Palermo)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Cain and Abel",
+            "date": "-",
+            "technique": "Oil on canvas 198 x 147 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/n/novelli/cainabel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29716
+        },
+        {
+            "title": "Our Lady of Mount Carmel",
+            "date": "1641",
+            "technique": "Oil on canvas",
+            "location": "Museo Diocesano Palermo",
+            "url": "https://www.wga.hu/html/n/novelli/carmel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29717
+        },
+        {
+            "title": "Marriage of the Virgin",
+            "date": "1647",
+            "technique": "Oil on canvas",
+            "location": "S. Matteo Palermo",
+            "url": "https://www.wga.hu/html/n/novelli/m_virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29718
+        },
+        {
+            "title": "Portrait of a Young Man with an Earring",
+            "date": "1630s",
+            "technique": "Oil on canvas 73 x 54 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/novelli/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29719
+        }
+    ]
+}

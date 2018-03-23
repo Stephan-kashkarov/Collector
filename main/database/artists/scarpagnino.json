@@ -1,0 +1,48 @@
+{
+    "name": "SCARPAGNINO",
+    "life": "(b. ca. 1465 Grosio d. 1549 Venezia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Palazzo Contarini delle Figure: Fa\u00e7ade",
+            "date": "1505-46",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/s/scarpagn/contari1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36488
+        },
+        {
+            "title": "Palazzo Contarini delle Figure: Fa\u00e7ade",
+            "date": "1505-46",
+            "technique": "Photo",
+            "location": "Canal Grande Venice",
+            "url": "https://www.wga.hu/html/s/scarpagn/contari2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36489
+        },
+        {
+            "title": "Scuola Grande di San Rocco: Fa\u00e7ade",
+            "date": "1517-60",
+            "technique": "Photo",
+            "location": "Campo di San Rocco Venice Venice",
+            "url": "https://www.wga.hu/html/s/scarpagn/scuola.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36490
+        },
+        {
+            "title": "San Sebastiano: Fa\u00e7ade",
+            "date": "1505-48",
+            "technique": "Photo",
+            "location": "Campo San Sebastiano Venice",
+            "url": "https://www.wga.hu/html/s/scarpagn/sebastia.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36491
+        }
+    ]
+}

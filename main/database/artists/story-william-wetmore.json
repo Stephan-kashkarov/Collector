@@ -1,0 +1,48 @@
+{
+    "name": "STORY William Wetmore",
+    "life": "(b. 1819 Salem d. 1895 Vallombrosa)",
+    "school": "American",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Cleopatra",
+            "date": "1858",
+            "technique": "Marble height 141 x 85 x 131 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/story/cleopatr.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 38093
+        },
+        {
+            "title": "Libyan Sibyl",
+            "date": "1860",
+            "technique": "Marble height 135 x 71 x 116 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/story/libyan.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38094
+        },
+        {
+            "title": "Medea",
+            "date": "1865",
+            "technique": "Marble height 209 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/story/medea.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38095
+        },
+        {
+            "title": "Medea",
+            "date": "1876",
+            "technique": "White marble height 119 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/story/medea1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 38096
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "WEENIX Jan Baptist",
+    "life": "(b. 1621 Amsterdam d. 1660 Doetinchem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Ancient Ruins",
+            "date": "-",
+            "technique": "Oil on canvas 805 x 683 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/a_ruins.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43854
+        },
+        {
+            "title": "Ancient Ruins (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/a_ruins_.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43855
+        },
+        {
+            "title": "Dead Partridge",
+            "date": "1650-52",
+            "technique": "Oil on canvas 506 x 435 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/deadpart.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 43856
+        },
+        {
+            "title": "Hound with a Joint of Meat and a Cat Looking On",
+            "date": "-",
+            "technique": "Oil on canvas 115 x 130 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/hound.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 43857
+        },
+        {
+            "title": "Departure of an Oriental Entourage",
+            "date": "1647-50",
+            "technique": "Oil on canvas 123 x 175 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/oriental.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43858
+        },
+        {
+            "title": "The Ford in the River",
+            "date": "1647",
+            "technique": "Oil on canvas 100 x 132 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/the_ford.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43859
+        },
+        {
+            "title": "The Roman Tinker",
+            "date": "c. 1656",
+            "technique": "Oil on canvas 79 x 63 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/w/weenix/jan_fath/tinker.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43860
+        }
+    ]
+}

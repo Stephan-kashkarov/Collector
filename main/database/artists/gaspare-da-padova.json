@@ -1,0 +1,38 @@
+{
+    "name": "GASPARE DA PADOVA",
+    "life": "(active 1466-1517 in Rome)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Aristotle: Ethica ad Nicomachum",
+            "date": "c. 1470",
+            "technique": "Manuscript (BH Ms. 388) 356 x 246 mm",
+            "location": "Biblioteca Historica Universitat de Valencia Valencia",
+            "url": "https://www.wga.hu/html/g/gaspare/aristotle.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14872
+        },
+        {
+            "title": "C. Suetonii Tranquilli de vita et moribus Caesarum libri duodecim",
+            "date": "1470s",
+            "technique": "Manuscript (Ms. lat. 5809) 276 x 180 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/g/gaspare/c_sueton.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14873
+        },
+        {
+            "title": "Caesar: Commentaries",
+            "date": "1490s",
+            "technique": "Manuscript (Ms. 453)",
+            "location": "Biblioteca Casanatense Rome",
+            "url": "https://www.wga.hu/html/g/gaspare/caesar.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 14874
+        }
+    ]
+}

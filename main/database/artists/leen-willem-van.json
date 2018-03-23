@@ -1,0 +1,58 @@
+{
+    "name": "LEEN Willem van",
+    "life": "(b. 1753 Dordrecht d.1825 Delfshaven)",
+    "school": "Dutch",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Flowers in a Blue Vase",
+            "date": "1780s",
+            "technique": "Oil on canvas 140 x 74 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/leen/flowers1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 21816
+        },
+        {
+            "title": "Bowl of Flowers",
+            "date": "-",
+            "technique": "Oil on panel 54 x 44 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/l/leen/flowers2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 21817
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 85 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leen/stil-lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 21818
+        },
+        {
+            "title": "Still-Life with Fruit and Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 48 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leen/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 21819
+        },
+        {
+            "title": "Still-Life with Flowers in a Park Landscape",
+            "date": "c. 1790",
+            "technique": "Oil on canvas 69 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/leen/stilpark.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 21820
+        }
+    ]
+}

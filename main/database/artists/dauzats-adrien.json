@@ -1,0 +1,48 @@
+{
+    "name": "DAUZATS Adrien",
+    "life": "(b. 1804 Bordeaux d. 1868 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Passage of the Iron Gates in Algeria",
+            "date": "1840",
+            "technique": "Oil on canvas 150 x 130 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "url": "https://www.wga.hu/html/d/dauzats/algeria.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10877
+        },
+        {
+            "title": "Mosque of Cairo",
+            "date": "1840",
+            "technique": "Oil on canvas 35 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dauzats/cairo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10878
+        },
+        {
+            "title": "The Giralda Seville",
+            "date": "1836-37",
+            "technique": "Oil on paper laid down on canvas 21 x 30 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/dauzats/giralda.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10879
+        },
+        {
+            "title": "Church of Saint-Georges in Haguenau",
+            "date": "-",
+            "technique": "Drawing",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/d/dauzats/haguenau.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 10880
+        }
+    ]
+}

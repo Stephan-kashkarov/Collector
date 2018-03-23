@@ -1,0 +1,68 @@
+{
+    "name": "CHANTREY Sir Francis Legatt",
+    "life": "(b. 1781 Norton d. 1841 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bust of Revd. John Horne-Tooke",
+            "date": "1811",
+            "technique": "Marble",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/c/chantrey/busttook.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8635
+        },
+        {
+            "title": "Bishop Ryder Monument",
+            "date": "1841",
+            "technique": "Marble",
+            "location": "Cathedral Lichfield",
+            "url": "https://www.wga.hu/html/c/chantrey/ryder.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8636
+        },
+        {
+            "title": "Mrs. Siddons",
+            "date": "1831",
+            "technique": "Marble",
+            "location": "Westminster Abbey London",
+            "url": "https://www.wga.hu/html/c/chantrey/siddons.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 8637
+        },
+        {
+            "title": "The Sleeping Children",
+            "date": "1817",
+            "technique": "Marble",
+            "location": "Cathedral Lichfield",
+            "url": "https://www.wga.hu/html/c/chantrey/sleep_ch.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 8638
+        },
+        {
+            "title": "Robinson Monument: The Sleeping Children",
+            "date": "1817",
+            "technique": "Marble",
+            "location": "Cathedral Lichfield",
+            "url": "https://www.wga.hu/html/c/chantrey/sleep_ci.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 8639
+        },
+        {
+            "title": "The Sleeping Children (detail)",
+            "date": "1817",
+            "technique": "Marble",
+            "location": "Cathedral Lichfield",
+            "url": "https://www.wga.hu/html/c/chantrey/sleep_cx.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 8640
+        }
+    ]
+}

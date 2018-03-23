@@ -1,0 +1,28 @@
+{
+    "name": "GAI Antonio",
+    "life": "(b. 1686 Venezia d. 1769 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Gate of the Loggetta (detail)",
+            "date": "1734",
+            "technique": "Bronze",
+            "location": "Piazza San Marco Venice",
+            "url": "https://www.wga.hu/html/g/gai/gate.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14695
+        },
+        {
+            "title": "St Mark",
+            "date": "1753",
+            "technique": "Marble",
+            "location": "Santa Maria della Piet\u00e0 Venice",
+            "url": "https://www.wga.hu/html/g/gai/st_mark.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 14696
+        }
+    ]
+}

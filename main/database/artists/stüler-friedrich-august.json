@@ -1,0 +1,28 @@
+{
+    "name": "ST\u00dcLER Friedrich August",
+    "life": "(b. 1800 M\u00fchlhausen d. 1865 Berlin)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1843-55",
+            "technique": "Photo",
+            "location": "Neues Museum Berlin",
+            "url": "https://www.wga.hu/html/s/stuler/n_museum.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 38307
+        },
+        {
+            "title": "General view",
+            "date": "1840-57",
+            "technique": "Photo",
+            "location": "Schloss Schwerin",
+            "url": "https://www.wga.hu/html/s/stuler/schwerin.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 38308
+        }
+    ]
+}

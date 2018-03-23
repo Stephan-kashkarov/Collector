@@ -1,0 +1,68 @@
+{
+    "name": "HUBER Wolf",
+    "life": "(b. ca. 1490 Feldkirch d. 1553 Passau)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Capture of Christ",
+            "date": "-",
+            "technique": "Oil on lime wood 61 x 67 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/h/huber/capture.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20237
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "1525-30",
+            "technique": "Linden panel 56 x 57 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/huber/egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20238
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "1524",
+            "technique": "Wood 105 x 86 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/huber/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20239
+        },
+        {
+            "title": "Landscape with Castle",
+            "date": "1545-50",
+            "technique": "Ink drawing",
+            "location": "F\u00fcrsten zu Waldburg-Wolfegg Schloss Wolfegg",
+            "url": "https://www.wga.hu/html/h/huber/landsca.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 20240
+        },
+        {
+            "title": "Landscape near Feldkirch",
+            "date": "1527",
+            "technique": "Drawing",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/h/huber/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20241
+        },
+        {
+            "title": "Portrait of Jacob Ziegler",
+            "date": "c. 1540",
+            "technique": "Oil on wood 585 x 44 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/h/huber/ziegler.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20242
+        }
+    ]
+}

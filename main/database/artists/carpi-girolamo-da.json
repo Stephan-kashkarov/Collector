@@ -1,0 +1,28 @@
+{
+    "name": "CARPI Girolamo da",
+    "life": "(b. 1501 Ferrara d. 1556 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Rape of Ganymede",
+            "date": "1543-44",
+            "technique": "Oil on canvas 81 x 145 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/carpi/ganymede.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7879
+        },
+        {
+            "title": "Landscape with Magicians",
+            "date": "c. 1525",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/carpi/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 7880
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "PINEAU Nicolas",
+    "life": "(b. 1684 Paris d. 1754 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Golden Carriage",
+            "date": "1738",
+            "technique": "Painted and gilt wood velvet with gold embroidery length 610 cm width 213 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/p/pineau/carriage.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 31389
+        },
+        {
+            "title": "Carved oak paneling",
+            "date": "c. 1739",
+            "technique": "Oak panel",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pineau/paneling.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 31390
+        }
+    ]
+}

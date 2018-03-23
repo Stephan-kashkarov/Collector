@@ -1,0 +1,158 @@
+{
+    "name": "CODDE Pieter",
+    "life": "(b. 1599 Amsterdam d. 1678 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Actors' Changing Room",
+            "date": "1630s",
+            "technique": "Oil on oak 33 x 52 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/codde/actorsro.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9193
+        },
+        {
+            "title": "Art-lovers in a Painter's Studio",
+            "date": "c. 1630",
+            "technique": "Oil on panel 38 x 49 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/c/codde/artlover.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9194
+        },
+        {
+            "title": "Musical Company",
+            "date": "1639",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/company.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9195
+        },
+        {
+            "title": "The Dancing Lesson",
+            "date": "1627",
+            "technique": "Oil on panel 40 x 53 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/codde/dancingl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9196
+        },
+        {
+            "title": "Elegant Company Making Music",
+            "date": "-",
+            "technique": "Oil on panel 31 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/elegant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9197
+        },
+        {
+            "title": "A Merry Company in an Interior",
+            "date": "-",
+            "technique": "Oil on panel 38 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/elegant1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 9198
+        },
+        {
+            "title": "Gallant Company",
+            "date": "1633",
+            "technique": "Oil on panel 54 x 68 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/codde/gallant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9199
+        },
+        {
+            "title": "Lady Seated at Virginals",
+            "date": "-",
+            "technique": "Oil on oak panel 43 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/ladyseat.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9200
+        },
+        {
+            "title": "The Meagre Company",
+            "date": "1633-37",
+            "technique": "Oil on canvas 2073 x 4275 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/codde/meagre.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9201
+        },
+        {
+            "title": "Merry Company",
+            "date": "1633",
+            "technique": "Oil on wood 49 x 77 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/codde/merry_co.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9202
+        },
+        {
+            "title": "Interior with Musicians Seated around a Table",
+            "date": "c. 1627",
+            "technique": "Oil on panel 40 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/musicia.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9203
+        },
+        {
+            "title": "Interior with Musicians Seated around a Table (detail)",
+            "date": "c. 1627",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/codde/musicia1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9204
+        },
+        {
+            "title": "The Young Draughtsman",
+            "date": "c. 1630",
+            "technique": "Oil on panel 28 x 37 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/c/codde/youngdrau.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9205
+        },
+        {
+            "title": "Young Scholar in His Study: Melancholy",
+            "date": "c. 1630",
+            "technique": "Oil on panel 46 x 34 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/c/codde/youngman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 9206
+        },
+        {
+            "title": "Portrait of a Child",
+            "date": "-",
+            "technique": "Oil on canvas 53 x 40 cm",
+            "location": "Staatsgalerie Schleissheim",
+            "url": "https://www.wga.hu/html/c/codde/z_child.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9207
+        }
+    ]
+}

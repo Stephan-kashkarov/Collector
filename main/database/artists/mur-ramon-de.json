@@ -1,0 +1,28 @@
+{
+    "name": "MUR Ramon de",
+    "life": "(active 1412-1435 in Tarragona)",
+    "school": "Catalan",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Birth of Jesus",
+            "date": "1400-50",
+            "technique": "Tempera on wood",
+            "location": "Museu Episcopal Vic",
+            "url": "https://www.wga.hu/html/m/mur/birth_j.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29215
+        },
+        {
+            "title": "The Fall",
+            "date": "1412",
+            "technique": "Panel",
+            "location": "Museu Episcopal Vic",
+            "url": "https://www.wga.hu/html/m/mur/the_fall.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29216
+        }
+    ]
+}

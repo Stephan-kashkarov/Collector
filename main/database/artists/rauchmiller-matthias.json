@@ -1,0 +1,38 @@
+{
+    "name": "RAUCHMILLER Matthias",
+    "life": "(b. 1645 Radolfzell d. 1686 Wien)",
+    "school": "German",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Resplendent tankard",
+            "date": "1676",
+            "technique": "Ivory silver cup inside height 35 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/r/rauchmil/tankard.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 33273
+        },
+        {
+            "title": "Tomb of Karl von Metternich",
+            "date": "c. 1675",
+            "technique": "Marble slightly over-life-size",
+            "location": "Frauenkirche Trier",
+            "url": "https://www.wga.hu/html/r/rauchmil/tomb.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 33274
+        },
+        {
+            "title": "Tomb of Karl von Metternich (detail)",
+            "date": "c. 1675",
+            "technique": "Marble slightly over-life-size",
+            "location": "Frauenkirche Trier",
+            "url": "https://www.wga.hu/html/r/rauchmil/tomb1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 33275
+        }
+    ]
+}

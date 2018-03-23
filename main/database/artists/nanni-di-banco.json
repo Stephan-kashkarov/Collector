@@ -1,0 +1,98 @@
+{
+    "name": "NANNI DI BANCO",
+    "life": "(b. ca. 1375 Firenze d. 1421 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Porta della Mandorla",
+            "date": "1414-21",
+            "technique": "Marble",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/assumpt.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29345
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1414-21",
+            "technique": "Marble",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/assumpti.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29346
+        },
+        {
+            "title": "Esaias",
+            "date": "1408",
+            "technique": "Marble height 193 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/esaias.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29347
+        },
+        {
+            "title": "Quattro Santi Coronati",
+            "date": "1408-13",
+            "technique": "Marble height c. 185 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/q_santi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29348
+        },
+        {
+            "title": "Quattro Santi Coronati",
+            "date": "1408-13",
+            "technique": "Marble height c. 185 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/q_santi0.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29349
+        },
+        {
+            "title": "Quattro Santi Coronati",
+            "date": "1408-13",
+            "technique": "Marble height c. 185 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/q_santi1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29350
+        },
+        {
+            "title": "Sculptors at work",
+            "date": "c. 1416",
+            "technique": "Marble",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/q_santi2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29351
+        },
+        {
+            "title": "Quattro Santi Coronati (detail)",
+            "date": "1408-13",
+            "technique": "Marble",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/q_santi3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29352
+        },
+        {
+            "title": "St. Luke",
+            "date": "1408-15",
+            "technique": "Marble height 208 cm",
+            "location": "Museo dell'Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/n/nanni/banco/st_luke.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29353
+        }
+    ]
+}

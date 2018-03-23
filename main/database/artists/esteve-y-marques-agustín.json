@@ -1,0 +1,28 @@
+{
+    "name": "ESTEVE Y MARQUES Agust\u00edn",
+    "life": "(b. 1753 Valencia d. ca. 1820 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of the Condesa de Castroterre\u00f1o",
+            "date": "-",
+            "technique": "Oil on canvas 72 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/esteve/condesa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13243
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/esteve/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 13244
+        }
+    ]
+}

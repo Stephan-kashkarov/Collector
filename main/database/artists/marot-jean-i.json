@@ -1,0 +1,88 @@
+{
+    "name": "MAROT Jean I",
+    "life": "(b. 1619 Paris d. 1679 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Ceremonial Entry of Louis XIV and Marie-Th\u00e9r\u00e8se into Paris in 1660",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/ceremoni.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 24338
+        },
+        {
+            "title": "The Fa\u00e7ade of the Church of the Feuillants Paris",
+            "date": "1660",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/facade.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24339
+        },
+        {
+            "title": "Portal of the Church of the Feuillants Monastery",
+            "date": "1660",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/facade1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24340
+        },
+        {
+            "title": "View and Perspective of the H\u00f4tel de Liancourt",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/liancour.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24341
+        },
+        {
+            "title": "Bernini's scheme for the Louvre",
+            "date": "1665",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/louvre.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24342
+        },
+        {
+            "title": "The Ch\u00e2teau de Richelieu",
+            "date": "1650s",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/richelie.html",
+            "form": "architecture",
+            "painting_type": "landscape",
+            "index": 24343
+        },
+        {
+            "title": "H\u00f4tel Tambonneau Paris",
+            "date": "1650s",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/tambonne.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24344
+        },
+        {
+            "title": "H\u00f4tel de la Vrill\u00e8re Paris",
+            "date": "1650s",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/m/marot/jean1/vrillier.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24345
+        }
+    ]
+}

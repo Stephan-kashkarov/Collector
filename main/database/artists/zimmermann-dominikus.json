@@ -1,0 +1,58 @@
+{
+    "name": "ZIMMERMANN Dominikus",
+    "life": "(b. 1685 Wessobrunn d. 1766 Wies)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Pulpit",
+            "date": "1746-56",
+            "technique": "Stucco and wood",
+            "location": "Pilgrimage church Wies",
+            "url": "https://www.wga.hu/html/z/zimmerma/dominiku/pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44655
+        },
+        {
+            "title": "Exterior view",
+            "date": "1729-33",
+            "technique": "Photo",
+            "location": "St. Peter and St. Paul Steinhausen",
+            "url": "https://www.wga.hu/html/z/zimmerma/dominiku/steinha1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44656
+        },
+        {
+            "title": "Interior view",
+            "date": "1729-33",
+            "technique": "Photo",
+            "location": "St. Peter and St. Paul Steinhausen",
+            "url": "https://www.wga.hu/html/z/zimmerma/dominiku/steinha2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 44657
+        },
+        {
+            "title": "Exterior",
+            "date": "begun 1743",
+            "technique": "Photo",
+            "location": "Pilgrimage church Wies",
+            "url": "https://www.wga.hu/html/z/zimmerma/dominiku/wies1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44658
+        },
+        {
+            "title": "Interior",
+            "date": "begun 1743",
+            "technique": "Photo",
+            "location": "Pilgrimage church Wies",
+            "url": "https://www.wga.hu/html/z/zimmerma/dominiku/wies2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 44659
+        }
+    ]
+}

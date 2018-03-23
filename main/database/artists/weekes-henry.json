@@ -1,0 +1,28 @@
+{
+    "name": "WEEKES Henry",
+    "life": "(b. 1807. Canterbury d. 1877 Ramsgate)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Bust of a Gentleman",
+            "date": "-",
+            "technique": "Marble height 74 cm (with socle)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/weekes/bustgent.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43833
+        },
+        {
+            "title": "The Young Naturalist",
+            "date": "1857",
+            "technique": "White marble height 146 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/weekes/naturali.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 43834
+        }
+    ]
+}

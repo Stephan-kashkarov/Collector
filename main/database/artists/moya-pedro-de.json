@@ -1,0 +1,38 @@
+{
+    "name": "MOYA Pedro de",
+    "life": "(b. 1610 Granada d. ca. 1666 Granada)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Holy Family",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Museo Cerralbo Madrid",
+            "url": "https://www.wga.hu/html/m/moya/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29152
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1655-60",
+            "technique": "Oil on canvas 43 x 29 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/moya/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29153
+        },
+        {
+            "title": "Vision of St Maria Magdalena di Pazzi",
+            "date": "-",
+            "technique": "Oil on canvas 210 x 169 cm",
+            "location": "Museo de Bellas Artes Granada",
+            "url": "https://www.wga.hu/html/m/moya/vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29154
+        }
+    ]
+}

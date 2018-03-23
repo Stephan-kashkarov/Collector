@@ -1,0 +1,88 @@
+{
+    "name": "MASTER of the Codex of Saint George",
+    "life": "(active first half of the 14th century)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Codex of St George (Folio 17r)",
+            "date": "1325-30",
+            "technique": "Tempera and gold on parchment",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/m/master/codex/codex_1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 24998
+        },
+        {
+            "title": "Codex of St George (Folio 85r)",
+            "date": "1325-30",
+            "technique": "Tempera and gold on parchment 373 x 263 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/m/master/codex/codex_2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 24999
+        },
+        {
+            "title": "Codex of St George (Folio 123r)",
+            "date": "1325-30",
+            "technique": "Tempera and gold on parchment",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/m/master/codex/codex_3.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25000
+        },
+        {
+            "title": "Missal (Folio 55)",
+            "date": "1320s",
+            "technique": "Tempera and gold on parchment 375 x 255 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/m/master/codex/missal_1.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25001
+        },
+        {
+            "title": "Missal (Folio 58)",
+            "date": "1320s",
+            "technique": "Tempera and gold on parchment 375 x 255 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/m/master/codex/missal_2.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 25002
+        },
+        {
+            "title": "The Crucifixion",
+            "date": "1330-35",
+            "technique": "Tempera and gold on panel 46 x 30 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/codex/z_panel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25003
+        },
+        {
+            "title": "The Lamentation",
+            "date": "1330-35",
+            "technique": "Tempera and gold on panel 46 x 30 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/codex/z_panel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25004
+        },
+        {
+            "title": "Diptych",
+            "date": "c. 1315",
+            "technique": "Tempera and gold on panel 28 x 15 cm (each wing)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/codex/zdiptych.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 25005
+        }
+    ]
+}

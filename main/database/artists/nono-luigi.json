@@ -1,0 +1,38 @@
+{
+    "name": "NONO Luigi",
+    "life": "(b. 1850 Fusine d. 1918 Venezia)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Ave Maria",
+            "date": "1892",
+            "technique": "Oil on canvas",
+            "location": "Galleria d'Arte Moderna del Civico Museo Revoltella Trieste",
+            "url": "https://www.wga.hu/html/n/nono/avemaria.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29693
+        },
+        {
+            "title": "The Source of the Gorgazzo",
+            "date": "1872",
+            "technique": "Oil on canvas 65 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nono/gorgazzo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 29694
+        },
+        {
+            "title": "Abandoned",
+            "date": "1903",
+            "technique": "Oil on canvas 97 x 36 cm",
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "url": "https://www.wga.hu/html/n/nono/social.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29695
+        }
+    ]
+}

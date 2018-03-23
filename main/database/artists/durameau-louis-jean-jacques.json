@@ -1,0 +1,28 @@
+{
+    "name": "DURAMEAU Louis-Jean-Jacques",
+    "life": "(b. 1733 Paris d. 1796 Versailles)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Presumed Portrait of Joseph Pellerin",
+            "date": "1768",
+            "technique": "Black chalk and pastel",
+            "location": "Institut N\u00e9erlandais Paris",
+            "url": "https://www.wga.hu/html/d/durameau/pellerin.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 12438
+        },
+        {
+            "title": "Profile Study of a Bearded Man",
+            "date": "-",
+            "technique": "Oil on paper mounted on canvas 55 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/durameau/study.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 12439
+        }
+    ]
+}

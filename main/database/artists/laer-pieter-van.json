@@ -1,0 +1,68 @@
+{
+    "name": "LAER Pieter van",
+    "life": "(b. 1592/95 Haarlem d. 1642 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Bentvueghels in a Roman Tavern",
+            "date": "c. 1625",
+            "technique": "Pen in brown wash over a drawing in black chalk 203 x 258 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/laer/bentvueg.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 21354
+        },
+        {
+            "title": "The Cake Seller",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale Rome",
+            "url": "https://www.wga.hu/html/l/laer/cakesell.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21355
+        },
+        {
+            "title": "The Flagellants",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 536 x 822 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/l/laer/flagella.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21356
+        },
+        {
+            "title": "Landscape with Morra Players",
+            "date": "-",
+            "technique": "Oil on panel 335 x 47 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/laer/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21357
+        },
+        {
+            "title": "The Herdsmen",
+            "date": "1639-42",
+            "technique": "Oil on canvas 32 x 43 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/laer/pendant1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21358
+        },
+        {
+            "title": "Departure from the Inn",
+            "date": "1639-42",
+            "technique": "Oil on canvas 32 x 43 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/laer/pendant2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21359
+        }
+    ]
+}

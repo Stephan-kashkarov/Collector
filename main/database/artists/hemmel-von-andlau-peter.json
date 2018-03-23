@@ -1,0 +1,28 @@
+{
+    "name": "HEMMEL VON ANDLAU Peter",
+    "life": "(active 1447 d. ca. 1501)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St Catherine (detail)",
+            "date": "c. 1470",
+            "technique": "Stained glass window",
+            "location": "Hessisches Landesmuseum Darmstadt",
+            "url": "https://www.wga.hu/html/h/hemmel/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19595
+        },
+        {
+            "title": "Mystic Marriage of St Catherine",
+            "date": "c. 1481",
+            "technique": "Stained glass window",
+            "location": "St. Lorenz Nuremberg",
+            "url": "https://www.wga.hu/html/h/hemmel/mystic.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 19596
+        }
+    ]
+}

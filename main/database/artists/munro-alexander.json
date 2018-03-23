@@ -1,0 +1,48 @@
+{
+    "name": "MUNRO Alexander",
+    "life": "(b. 1825 Inverness d. 1871 Cannes)",
+    "school": "Scottish",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Paolo and Francesca",
+            "date": "1852",
+            "technique": "Marble",
+            "location": "Birmingham Museum and Art Gallery Birmingham",
+            "url": "https://www.wga.hu/html/m/munro/dante.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 29211
+        },
+        {
+            "title": "Portrait of Eva Butler with Dove",
+            "date": "1850s",
+            "technique": "White marble relief set in veined green marble frame diameter 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/munro/dove1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 29212
+        },
+        {
+            "title": "Portrait of Eva Butler with Dove",
+            "date": "1850s",
+            "technique": "White marble relief set in veined green marble frame diameter 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/munro/dove2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 29213
+        },
+        {
+            "title": "Fountain",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Berkeley Square London",
+            "url": "https://www.wga.hu/html/m/munro/fountain.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 29214
+        }
+    ]
+}

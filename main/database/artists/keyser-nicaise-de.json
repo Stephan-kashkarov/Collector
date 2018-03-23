@@ -1,0 +1,48 @@
+{
+    "name": "KEYSER Nicaise de",
+    "life": "(b. 1813 Zandvliet d. 1887 Antwerpen)",
+    "school": "Belgian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "West and East",
+            "date": "1854",
+            "technique": "Oil on canvas 172 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keyserni/allegor.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21012
+        },
+        {
+            "title": "West and East (detail)",
+            "date": "1854",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keyserni/allegor1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21013
+        },
+        {
+            "title": "A Gallant Knight",
+            "date": "-",
+            "technique": "Oil on panel 53 x 40 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keyserni/knight.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21014
+        },
+        {
+            "title": "The Philosopher",
+            "date": "c. 1850",
+            "technique": "Oil on canvas",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/k/keyserni/philosop.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21015
+        }
+    ]
+}

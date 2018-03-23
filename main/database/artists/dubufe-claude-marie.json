@@ -1,0 +1,58 @@
+{
+    "name": "DUBUFE Claude-Marie",
+    "life": "(b. 1790 Paris d. 1864 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Crossing of Bidassoa (16 April 1823)",
+            "date": "-",
+            "technique": "Oil on canvas 77 x 106 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/crossing.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 12152
+        },
+        {
+            "title": "The Dubufe Family",
+            "date": "1820",
+            "technique": "Oil on canvas 64 \u00d7 84 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12153
+        },
+        {
+            "title": "Memories",
+            "date": "1826-27",
+            "technique": "Oil on canvas oval 92 x 119 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/memorie1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12154
+        },
+        {
+            "title": "Regrets",
+            "date": "1826-27",
+            "technique": "Oil on canvas oval 92 x 119 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/memorie2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12155
+        },
+        {
+            "title": "The Surprise",
+            "date": "before 1827",
+            "technique": "Oil on canvas 65 x 54 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/surprise.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12156
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "PACKH J\u00e1nos",
+    "life": "(b. 1796 Eisenstadt d. 1839 Esztergom)",
+    "school": "Hungarian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1828-32",
+            "technique": "Photo",
+            "location": "Benedictine Archabbey Pannonhalma",
+            "url": "https://www.wga.hu/html/p/packh/archabbe.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30094
+        },
+        {
+            "title": "General view",
+            "date": "1824-56",
+            "technique": "Photo",
+            "location": "Basilica Esztergom",
+            "url": "https://www.wga.hu/html/p/packh/basilic1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30095
+        },
+        {
+            "title": "Exterior view",
+            "date": "1824-56",
+            "technique": "Photo",
+            "location": "Basilica Esztergom",
+            "url": "https://www.wga.hu/html/p/packh/basilic2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30096
+        },
+        {
+            "title": "Exterior view",
+            "date": "1824-56",
+            "technique": "Photo",
+            "location": "Basilica Esztergom",
+            "url": "https://www.wga.hu/html/p/packh/basilic3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30097
+        },
+        {
+            "title": "Interior view",
+            "date": "1824-56",
+            "technique": "Photo",
+            "location": "Basilica Esztergom",
+            "url": "https://www.wga.hu/html/p/packh/basilic4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30098
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "FABBRINI Giuseppe Antonio",
+    "life": "(b. ca. 1740 Firenze d. ca. 1795 Firenze)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of the Segretaria del Granduca",
+            "date": "1777",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 13427
+        },
+        {
+            "title": "Side wall picture: Classical Offering Rite",
+            "date": "1777",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13428
+        },
+        {
+            "title": "Side wall picture: Apollo Pegasus and the Muses",
+            "date": "1777",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13429
+        },
+        {
+            "title": "Side wall picture: The Fine Arts and Mercury",
+            "date": "1777",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13430
+        }
+    ]
+}

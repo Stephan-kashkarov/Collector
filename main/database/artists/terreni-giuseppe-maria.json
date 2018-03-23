@@ -1,0 +1,48 @@
+{
+    "name": "TERRENI Giuseppe Maria",
+    "life": "(b. 1739 Livorno d. 1811 Livorno)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of the Sala delle Opere e dei Giorni",
+            "date": "1773",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/t/terreni/poggio1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 38727
+        },
+        {
+            "title": "Wall painting: Shepherd Idyll",
+            "date": "1773",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/t/terreni/poggio2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38728
+        },
+        {
+            "title": "Wall painting: Nobleman in Front of a Tavern",
+            "date": "1773",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/t/terreni/poggio3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38729
+        },
+        {
+            "title": "View of the Sala delle Quattro Stagioni",
+            "date": "1777-78",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/t/terreni/poggio4.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 38730
+        }
+    ]
+}

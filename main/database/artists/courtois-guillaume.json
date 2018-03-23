@@ -1,0 +1,48 @@
+{
+    "name": "COURTOIS Guillaume",
+    "life": "(b. 1628 Saint-Hippolyte Doubs d. 1679 Roma)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Martyrdom of St Andrew",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/guillaum/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9925
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1660-65",
+            "technique": "Oil on canvas 95 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/guillaum/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9926
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on paper laid down on canvas 41 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/guillaum/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9927
+        },
+        {
+            "title": "Still-Life of Fruits and Flowers with a Figure",
+            "date": "1660s",
+            "technique": "Oil on canvas 127 x 182 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/guillaum/stillfig.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 9928
+        }
+    ]
+}

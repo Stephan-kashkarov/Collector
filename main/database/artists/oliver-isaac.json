@@ -1,0 +1,38 @@
+{
+    "name": "OLIVER Isaac",
+    "life": "(b. before 1568 Rouen d. 1617 London)",
+    "school": "English",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Frances Howard Countess of Somerset and Essex",
+            "date": "c. 1595",
+            "technique": "Watercolour on parchment diameter 13 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/o/oliver/isaac/f_howard.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29786
+        },
+        {
+            "title": "A Lady in Masque Costume",
+            "date": "c. 1610",
+            "technique": "Watercolour on vellum 59 x 48 mm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/o/oliver/isaac/masque.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29787
+        },
+        {
+            "title": "A Party in the Open Air. (Allegory on Conjugal Love)",
+            "date": "1590-95",
+            "technique": "Watercolour on vellum 11 x 17 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/o/oliver/isaac/party.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 29788
+        }
+    ]
+}

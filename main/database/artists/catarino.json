@@ -1,0 +1,58 @@
+{
+    "name": "CATARINO",
+    "life": "(known 1362-1382 in Venice)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1375",
+            "technique": "Tempera on panel 89 x 58 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/catarino/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8187
+        },
+        {
+            "title": "Coronation of the Virgin (detail)",
+            "date": "1375",
+            "technique": "Tempera on panel",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/c/catarino/coronatj.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8188
+        },
+        {
+            "title": "Coronation of Mary",
+            "date": "1360s",
+            "technique": "Tempera on panel 120 x 75 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/catarino/coronatx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8189
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1372",
+            "technique": "Panel 137 x 77 cm",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/c/catarino/corvirgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8190
+        },
+        {
+            "title": "St Paul",
+            "date": "1360s",
+            "technique": "Tempera on panel 32 x 95 cm",
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "url": "https://www.wga.hu/html/c/catarino/st_paul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8191
+        }
+    ]
+}

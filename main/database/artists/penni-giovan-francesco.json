@@ -1,0 +1,58 @@
+{
+    "name": "PENNI Giovan Francesco",
+    "life": "(b. ca. 1496 Firenze d. ca. 1528 Napoli)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Battle at Pons Milvius",
+            "date": "1519-20",
+            "technique": "Pen and ink brush and wash white highlighting over black chalk 376 x 851 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/penni/giovan/battle.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 30634
+        },
+        {
+            "title": "Portrait of Clement I with the Features of Leo X",
+            "date": "1520-21",
+            "technique": "Fresco",
+            "location": "Sala di Constantino Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/penni/giovan/clement1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30635
+        },
+        {
+            "title": "Design for the funerary monument of Francesco Gonzaga",
+            "date": "c. 1519",
+            "technique": "Brush pen and brown ink with white highlights over pierre noire 507 x 272 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/penni/giovan/gonzaga.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 30636
+        },
+        {
+            "title": "The Holy Family of the Book",
+            "date": "1512-15",
+            "technique": "Tempera grassa on panel 35 x 24 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/penni/giovan/holifami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30637
+        },
+        {
+            "title": "Holy Family with the Infant St John",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/penni/giovan/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30638
+        }
+    ]
+}

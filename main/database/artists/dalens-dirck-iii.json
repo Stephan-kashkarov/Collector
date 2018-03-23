@@ -1,0 +1,38 @@
+{
+    "name": "DALENS Dirck III",
+    "life": "(b. 1688 Amsterdam d. 1753 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Frozen River Landscape",
+            "date": "-",
+            "technique": "Oil on copper 18 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalens/dirck3/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10725
+        },
+        {
+            "title": "River Landscape with Cattle and Figures",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalens/dirck3/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10726
+        },
+        {
+            "title": "Winter Landscape with Travelers",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dalens/dirck3/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 10727
+        }
+    ]
+}

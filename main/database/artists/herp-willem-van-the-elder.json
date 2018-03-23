@@ -1,0 +1,28 @@
+{
+    "name": "HERP Willem van the Elder",
+    "life": "(b. ca. 1614 Antwerpen d. 1677 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Tavern with Merrymakers and Cardplayers",
+            "date": "1660s",
+            "technique": "Oil on copper 81 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/herp/tavern.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19617
+        },
+        {
+            "title": "The Visitation",
+            "date": "1659",
+            "technique": "Oil on canvas 85 x 121 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/herp/visitati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19618
+        }
+    ]
+}

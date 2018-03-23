@@ -1,0 +1,28 @@
+{
+    "name": "G\u00dcNTHER Matth\u00e4us",
+    "life": "(b. 1705 Tritschengreith d. 1788 Haid bei Wessobrunn)",
+    "school": "German",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Apotheosis of St Benedict",
+            "date": "1761-63",
+            "technique": "Ceiling fresco",
+            "location": "Benedictine Church Rott am Inn",
+            "url": "https://www.wga.hu/html/g/guntherm/rottamin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19014
+        },
+        {
+            "title": "Interior",
+            "date": "1740s",
+            "technique": "-",
+            "location": "Klosterkirche Rottenbuch",
+            "url": "https://www.wga.hu/html/g/guntherm/rottenbu.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 19015
+        }
+    ]
+}

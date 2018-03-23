@@ -1,0 +1,1378 @@
+{
+    "name": "LOTTO Lorenzo",
+    "life": "(b. ca. 1480 Venezia d. 1556 Loreto)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Madonna and Child with St Peter Martyr",
+            "date": "1503",
+            "technique": "Wood panel 55 x 87 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/l/lotto/1/01madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23254
+        },
+        {
+            "title": "Madonna and Child with Sts Peter Christine Liberale and Jerome",
+            "date": "1505",
+            "technique": "Oil on wood 177 x 162 cm (lunette: 90 x 179 cm)",
+            "location": "Santa Cristina al Tiverone Treviso",
+            "url": "https://www.wga.hu/html/l/lotto/1/02tiver.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23255
+        },
+        {
+            "title": "Madonna and Child with Sts Peter Christine Liberale and Jerome (detail)",
+            "date": "1505",
+            "technique": "Oil on wood",
+            "location": "Santa Cristina al Tiverone Treviso",
+            "url": "https://www.wga.hu/html/l/lotto/1/02tiver1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23256
+        },
+        {
+            "title": "Bishop Bernardo de' Rossi",
+            "date": "1505",
+            "technique": "Oil on wood 54 x 41 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/l/lotto/1/03rossi1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23257
+        },
+        {
+            "title": "Allegory of Virtue and Vice",
+            "date": "1505",
+            "technique": "Oil on wood 57 x 42 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lotto/1/03rossi2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23258
+        },
+        {
+            "title": "Allegory of Virtue and Vice (detail)",
+            "date": "1505",
+            "technique": "Oil on wood",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lotto/1/03rossi3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23259
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "c. 1506",
+            "technique": "Oil on wood 36 x 28 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "url": "https://www.wga.hu/html/l/lotto/1/04lady1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23260
+        },
+        {
+            "title": "Allegory of Chastity (\"\"Maiden's Dream\"\")\"c. 1506\"Oil on panel 43 x 34 cm",
+            "date": "National Gallery of Art Washington",
+            "technique": "https://www.wga.hu/html/l/lotto/1/04lady2.html",
+            "location": "painting",
+            "url": "mythological",
+            "form": "Italian",
+            "painting_type": "1501-1550",
+            "index": 23261
+        },
+        {
+            "title": "Allegory of Chastity detail)",
+            "date": "c. 1506",
+            "technique": "Oil on panel",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lotto/1/04lady2d.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23262
+        },
+        {
+            "title": "Head of a Young Man",
+            "date": "c. 1505",
+            "technique": "Oil on wood 28 x 23 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lotto/1/05head.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23263
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1506",
+            "technique": "Oil on wood 175 x 162 cm",
+            "location": "Duomo Asolo (Treviso)",
+            "url": "https://www.wga.hu/html/l/lotto/1/06assump.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23264
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "c. 1506",
+            "technique": "Oil on wood 83 x 105 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/l/lotto/1/07madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23265
+        },
+        {
+            "title": "St Jerome in the Wilderness",
+            "date": "1506",
+            "technique": "Oil on wood 48 x 40 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lotto/1/08jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23266
+        },
+        {
+            "title": "Recanati Polyptych",
+            "date": "1508",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23267
+        },
+        {
+            "title": "Madonna and Child with Sts Dominic Gregory and Urban",
+            "date": "1508",
+            "technique": "Oil on wood 227 x 108 cm",
+            "location": "Pinacoteca Comunale Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23268
+        },
+        {
+            "title": "Recanati Polyptych (detail)",
+            "date": "1508",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23269
+        },
+        {
+            "title": "Sts Thomas Aquinas and Flavian Sts Peter the Martyr and Vitus",
+            "date": "1508",
+            "technique": "Oil on wood 155 x 67 cm (each panel)",
+            "location": "Pinacoteca Comunale Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23270
+        },
+        {
+            "title": "Recanati Polyptych: Sts Peter Martyr and Vitus",
+            "date": "1508",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23271
+        },
+        {
+            "title": "Sts Catherine of Siena and Sigismund",
+            "date": "1508",
+            "technique": "Oil on wood 67 x 67 cm",
+            "location": "Pinacoteca Comunale Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23272
+        },
+        {
+            "title": "Recanati Polyptych: Piet\u00e0",
+            "date": "1508",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/01recan6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23273
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine",
+            "date": "1505-08",
+            "technique": "Oil on wood 71 x 91 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/l/lotto/2/02mystic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23274
+        },
+        {
+            "title": "Madonna and Child with Sts Francis John the Baptist Jerome and Catherine",
+            "date": "c. 1508",
+            "technique": "Oil on panel 40 x 29 cm",
+            "location": "Muzeum Narodowe Krakow",
+            "url": "https://www.wga.hu/html/l/lotto/2/03madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23275
+        },
+        {
+            "title": "Portrait of a Young Man with an Oil-lamp",
+            "date": "1506-10",
+            "technique": "Oil on wood 42 x 36 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/2/04young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23276
+        },
+        {
+            "title": "Portrait of a Young Man with an Oil-lamp (detail)",
+            "date": "1506-10",
+            "technique": "Oil on wood",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/2/04young1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23277
+        },
+        {
+            "title": "Madonna and Child with St Ignatius of Antioch and St Onophrius",
+            "date": "1508",
+            "technique": "Oil on wood 53 x 67 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/05madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23278
+        },
+        {
+            "title": "Madonna and Child with St Ignatius of Antioch and St Onophrius (detail)",
+            "date": "1508",
+            "technique": "Oil on wood",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/05madonx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23279
+        },
+        {
+            "title": "St Jerome in the Wilderness",
+            "date": "c. 1509",
+            "technique": "Oil on panel 81 x 61 cm",
+            "location": "Museo Nazionale di Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/06jerom.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23280
+        },
+        {
+            "title": "St Jerome in the Wilderness (detail)",
+            "date": "c. 1509",
+            "technique": "Oil on panel",
+            "location": "Museo Nazionale di Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/06jerom1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23281
+        },
+        {
+            "title": "St Jerome in the Wilderness (detail)",
+            "date": "c. 1509",
+            "technique": "Oil on panel",
+            "location": "Museo Nazionale di Castel Sant'Angelo Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/06jerom2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23282
+        },
+        {
+            "title": "Transfiguration",
+            "date": "c. 1511",
+            "technique": "Oil on wood 300 x 203 cm",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/2/07transf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23283
+        },
+        {
+            "title": "Entombment of Christ",
+            "date": "1512",
+            "technique": "Oil on wood 298 x 197 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/2/08entomb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23284
+        },
+        {
+            "title": "Judith with the Head of Holofernes",
+            "date": "1512",
+            "technique": "Oil on panel 20 x 15 cm",
+            "location": "Banca Nazionale del Lavoro Rome",
+            "url": "https://www.wga.hu/html/l/lotto/2/09judith.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23285
+        },
+        {
+            "title": "San Bartolomeo Altarpiece",
+            "date": "1513-16",
+            "technique": "Oil on wood 520 x 250 cm",
+            "location": "San Bartolomeo Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/01barto.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23286
+        },
+        {
+            "title": "St Dominic Raises Napoleone Orsini",
+            "date": "1513-16",
+            "technique": "Oil on wood 51 x 97 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/01barto1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23287
+        },
+        {
+            "title": "Deposition",
+            "date": "1513-16",
+            "technique": "Oil on wood 51 x 97 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/01barto2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23288
+        },
+        {
+            "title": "The Martyrdom of St Stephen",
+            "date": "1513-16",
+            "technique": "Oil on wood 51 x 97 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/01barto3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23289
+        },
+        {
+            "title": "The Penitent St Jerome",
+            "date": "1513-15",
+            "technique": "Oil on panel 56 x 40 cm",
+            "location": "Muzeul National de Arta Bucharest",
+            "url": "https://www.wga.hu/html/l/lotto/3/02jerom.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23290
+        },
+        {
+            "title": "The Penitent St Jerome (detail)",
+            "date": "1513-15",
+            "technique": "Oil on panel",
+            "location": "Muzeul National de Arta Bucharest",
+            "url": "https://www.wga.hu/html/l/lotto/3/02jerom1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23291
+        },
+        {
+            "title": "The Penitent St Jerome",
+            "date": "1515",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "location": "Allentown Art Museum Allentown",
+            "url": "https://www.wga.hu/html/l/lotto/3/03jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23292
+        },
+        {
+            "title": "Portrait of a Gentleman with a Rosary",
+            "date": "1515-18",
+            "technique": "Oil on panel 79 x 62 cm",
+            "location": "Nivaagaards Malerisamling Niva Denmark",
+            "url": "https://www.wga.hu/html/l/lotto/3/04rosary.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23293
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1517",
+            "technique": "Oil on wood 50 x 60 cm",
+            "location": "Contini Bonacossi Collection Florence",
+            "url": "https://www.wga.hu/html/l/lotto/3/05susann.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23294
+        },
+        {
+            "title": "Portrait of Lucina Brembati",
+            "date": "c. 1518",
+            "technique": "Oil on panel 53 x 45 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/06lucina.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23295
+        },
+        {
+            "title": "San Bernardino Altarpiece",
+            "date": "1521",
+            "technique": "Oil on canvas 300 x 275 cm",
+            "location": "San Bernardino in Pignolo Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/07berna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23296
+        },
+        {
+            "title": "San Bernardino Altarpiece (detail)",
+            "date": "1521",
+            "technique": "Oil on canvas",
+            "location": "San Bernardino in Pignolo Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/07berna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23297
+        },
+        {
+            "title": "Santo Spirito Altarpiece",
+            "date": "1521",
+            "technique": "Oil on canvas 287 x 268 cm",
+            "location": "Santo Spirito Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/08spiri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23298
+        },
+        {
+            "title": "Santo Spirito Altarpiece (detail)",
+            "date": "1521",
+            "technique": "Oil on canvas",
+            "location": "Santo Spirito Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/08spiri1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23299
+        },
+        {
+            "title": "Santo Spirito Altarpiece (detail)",
+            "date": "1521",
+            "technique": "Oil on canvas",
+            "location": "Santo Spirito Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/08spiri2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23300
+        },
+        {
+            "title": "The Trinity",
+            "date": "1523",
+            "technique": "Oil on canvas 170 x 115 cm",
+            "location": "Sant'Alessandro della Croce Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/09trini.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23301
+        },
+        {
+            "title": "The Trinity (detail)",
+            "date": "1523",
+            "technique": "Oil on canvas",
+            "location": "Sant'Alessandro della Croce Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/09trini1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23302
+        },
+        {
+            "title": "Christ Taking Leave of his Mother",
+            "date": "1521",
+            "technique": "Oil on canvas 126 x 99 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/3/10leave.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23303
+        },
+        {
+            "title": "Christ Taking Leave of his Mother (detail)",
+            "date": "1521",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/3/10leave1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23304
+        },
+        {
+            "title": "Christ Taking Leave of his Mother (detail)",
+            "date": "1521",
+            "technique": "Oil on canvas 126 x 99 cm (full painting)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/3/10leave2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23305
+        },
+        {
+            "title": "Virgin and Child with Sts John the Baptist and Catherine",
+            "date": "1522",
+            "technique": "Oil on canvas 74 x 68 cm",
+            "location": "Palma Camozzi Vertova Collection Costa di Mezzate Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/11virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23306
+        },
+        {
+            "title": "St Catherine of Alexandria",
+            "date": "1522",
+            "technique": "Oil on panel 57 x 50 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lotto/3/12cather.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23307
+        },
+        {
+            "title": "Madonna with the Child and Sts Rock and Sebastian",
+            "date": "c. 1522",
+            "technique": "Oil on wood 80 x 70 cm",
+            "location": "Contini Bonacossi Collection Florence",
+            "url": "https://www.wga.hu/html/l/lotto/3/13madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23308
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine",
+            "date": "1523",
+            "technique": "Oil on canvas 189 x 134 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/14mysti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23309
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine (detail)",
+            "date": "1523",
+            "technique": "Oil on canvas",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/14mysti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23310
+        },
+        {
+            "title": "Nativity",
+            "date": "1523",
+            "technique": "Oil on wood 46 x 36 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lotto/3/15nativi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23311
+        },
+        {
+            "title": "Virgin and Child with Sts Jerome and Nicholas of Tolentino",
+            "date": "1523-24",
+            "technique": "Oil on canvas 94 x 78 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/l/lotto/3/16virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23312
+        },
+        {
+            "title": "Portrait of a Married Couple",
+            "date": "1523-24",
+            "technique": "Oil on canvas 96 x 116 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lotto/3/17coupl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23313
+        },
+        {
+            "title": "Portrait of a Married Couple (detail)",
+            "date": "1523-24",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lotto/3/17coupl1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23314
+        },
+        {
+            "title": "Marsilio Cassotti and His Bride Faustina",
+            "date": "1523",
+            "technique": "Oil on canvas 71 x 84 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/l/lotto/3/18couple.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23315
+        },
+        {
+            "title": "Mystic Marriage of St Catherine",
+            "date": "1524",
+            "technique": "Oil on canvas 98 x 115 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/l/lotto/3/19mysti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23316
+        },
+        {
+            "title": "Mystic Marriage of St Catherine (detail)",
+            "date": "1524",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/l/lotto/3/19mysti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23317
+        },
+        {
+            "title": "Scenes from the Life of the Virgin",
+            "date": "1524",
+            "technique": "Fresco",
+            "location": "San Michele al Pozzo Bianco Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/3/20pozzo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23318
+        },
+        {
+            "title": "View of the oratory toward the altar",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/1trescor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23319
+        },
+        {
+            "title": "View of the oratory toward the entrance side",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/2trescor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23320
+        },
+        {
+            "title": "Legend of St Brigid (south wall)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23321
+        },
+        {
+            "title": "Legend of St Brigid (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23322
+        },
+        {
+            "title": "Legend of St Brigid (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23323
+        },
+        {
+            "title": "Legend of St Brigid (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23324
+        },
+        {
+            "title": "Legend of St Brigid (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23325
+        },
+        {
+            "title": "Legend of St Brigid (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/3brigid5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23326
+        },
+        {
+            "title": "Legend of St Barbara (north wall)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23327
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23328
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23329
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23330
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23331
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23332
+        },
+        {
+            "title": "Legend of St Barbara (detail)",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Oratorio Suardi Trescore",
+            "url": "https://www.wga.hu/html/l/lotto/3a/4barbar6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23333
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1526",
+            "technique": "Oil on canvas 66 x 60 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lotto/4/01carry.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23334
+        },
+        {
+            "title": "Christ Carrying the Cross (detail)",
+            "date": "1526",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lotto/4/01carry1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23335
+        },
+        {
+            "title": "Young Man in a Striped Coat",
+            "date": "1525-26",
+            "technique": "Oil on wood 47 x 38 cm",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/l/lotto/4/02young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23336
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1526",
+            "technique": "Oil on canvas 47 x 37 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/4/03young.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23337
+        },
+        {
+            "title": "Bishop Tommaso Negri",
+            "date": "1527",
+            "technique": "Oil on panel",
+            "location": "Franciscan Convent of Poljud Split",
+            "url": "https://www.wga.hu/html/l/lotto/4/04bishop.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23338
+        },
+        {
+            "title": "Portrait of Andrea Odoni",
+            "date": "1527",
+            "technique": "Oil on canvas 104 x 117 cm",
+            "location": "Royal Collection Hampton Court",
+            "url": "https://www.wga.hu/html/l/lotto/4/05odoni.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23339
+        },
+        {
+            "title": "Portrait of Andrea Odoni (detail)",
+            "date": "1527",
+            "technique": "Oil on canvas 114 x 101 cm (full painting)",
+            "location": "Royal Collection Hampton Court",
+            "url": "https://www.wga.hu/html/l/lotto/4/05odoni1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23340
+        },
+        {
+            "title": "Man with a Golden Paw",
+            "date": "c. 1527",
+            "technique": "Oil on canvas 96 x 70 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/06manpa.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23341
+        },
+        {
+            "title": "Man with a Golden Paw (detail)",
+            "date": "c. 1527",
+            "technique": "Oil on canvas 96 x 70 cm (full painting)",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/06manpa1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23342
+        },
+        {
+            "title": "Angel Annunciating",
+            "date": "1527",
+            "technique": "Oil on wood 75 x 55 cm",
+            "location": "Santi Alessandro e Vincenzo Ponteranica",
+            "url": "https://www.wga.hu/html/l/lotto/4/07ponte1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23343
+        },
+        {
+            "title": "Virgin Annunciate",
+            "date": "1527",
+            "technique": "Oil on wood 75 x 55 cm",
+            "location": "Santi Alessandro e Vincenzo Ponteranica",
+            "url": "https://www.wga.hu/html/l/lotto/4/07ponte2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23344
+        },
+        {
+            "title": "Madonna and Child with Saints and an Angel",
+            "date": "1527-28",
+            "technique": "Oil on canvas 114 x 152 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/08madon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23345
+        },
+        {
+            "title": "Madonna and Child with Saints and an Angel (detail)",
+            "date": "1527-28",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/08madon1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23346
+        },
+        {
+            "title": "Madonna and Child with Saints and an Angel (detail)",
+            "date": "1527-28",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/08madon2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23347
+        },
+        {
+            "title": "St Nicholas in Glory with Sts John the Baptist and Lucy",
+            "date": "1527-29",
+            "technique": "Oil on canvas 335 x 188 cm",
+            "location": "Chiesa dei Carmini Venice",
+            "url": "https://www.wga.hu/html/l/lotto/4/09nicho.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23348
+        },
+        {
+            "title": "St Nicholas in Glory with Sts John the Baptist and Lucy (detail)",
+            "date": "1527-29",
+            "technique": "Oil on canvas",
+            "location": "Chiesa dei Carmini Venice",
+            "url": "https://www.wga.hu/html/l/lotto/4/09nicho1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23349
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "date": "1527-29",
+            "technique": "Oil on canvas 124 x 156 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lotto/4/10adulte.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23350
+        },
+        {
+            "title": "Rest on the Flight into Egypt",
+            "date": "1529-30",
+            "technique": "Oil on canvas 82 x 133 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lotto/4/11egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23351
+        },
+        {
+            "title": "Angel of the Annunciation",
+            "date": "c. 1530",
+            "technique": "Oil on canvas 82 x 42 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/12angel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23352
+        },
+        {
+            "title": "Portrait of a Goldsmith in Three Positions",
+            "date": "c. 1530",
+            "technique": "Oil on canvas 52 x 79 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lotto/4/13goldsm.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23353
+        },
+        {
+            "title": "Portrait of a Gentleman in his Study",
+            "date": "c. 1530",
+            "technique": "Oil on canvas 98 x 111 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/l/lotto/4/14gentl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23354
+        },
+        {
+            "title": "Portrait of a Gentleman in his Study (detail)",
+            "date": "c. 1530",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/l/lotto/4/14gentl1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23355
+        },
+        {
+            "title": "St Lucy Altarpiece",
+            "date": "1532",
+            "technique": "Oil on wood 243 x 237 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23356
+        },
+        {
+            "title": "St Lucy Altarpiece (detail)",
+            "date": "1532",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23357
+        },
+        {
+            "title": "St Lucy at the Tomb of St Agatha",
+            "date": "1532",
+            "technique": "Oil on wood 32 x 69 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23358
+        },
+        {
+            "title": "St Lucy at the Tomb of St Agatha (detail)",
+            "date": "1532",
+            "technique": "Oil on wood",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23359
+        },
+        {
+            "title": "St Lucy before Paschasius and St Lucy Harnessed to Oxen",
+            "date": "1532",
+            "technique": "Oil on wood 32 x 69 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23360
+        },
+        {
+            "title": "Teams of Oxen",
+            "date": "1532",
+            "technique": "Oil on wood 32 x 69 cm",
+            "location": "Pinacoteca Civica Iesi",
+            "url": "https://www.wga.hu/html/l/lotto/4/15lucy5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23361
+        },
+        {
+            "title": "Portrait of a Lady as Lucretia",
+            "date": "1530-32",
+            "technique": "Oil on canvas 96 x 111 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/l/lotto/5/01lucret.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23362
+        },
+        {
+            "title": "St Sebastian",
+            "date": "1531",
+            "technique": "Oil on canvas 162 x 57 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/5/02wing1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23363
+        },
+        {
+            "title": "St Christopher",
+            "date": "1531",
+            "technique": "Oil on canvas 162 x 57 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/5/02wing2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23364
+        },
+        {
+            "title": "The Holy Family with St Catherine of Alexandria",
+            "date": "1533",
+            "technique": "Oil on canvas 82 x 115 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/l/lotto/5/03holyfa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23365
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "1534",
+            "technique": "Oil on canvas 65 x 82 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lotto/5/04madonn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23366
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1534",
+            "technique": "Oil on canvas 147 x 166 cm",
+            "location": "Musei Civici d'Arte e Storia Brescia",
+            "url": "https://www.wga.hu/html/l/lotto/5/05adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23367
+        },
+        {
+            "title": "Annunciation",
+            "date": "1534-35",
+            "technique": "Oil on canvas 166 x 114 cm",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/5/06annun1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23368
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "1534-35",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/5/06annun2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23369
+        },
+        {
+            "title": "Annunciation (detail)",
+            "date": "1534-35",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Civica Recanati",
+            "url": "https://www.wga.hu/html/l/lotto/5/06annun3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23370
+        },
+        {
+            "title": "Sts Christopher Roch and Sebastian",
+            "date": "c. 1535",
+            "technique": "Oil on canvas 275 x 232 cm",
+            "location": "Santuario della Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/l/lotto/5/07loreto.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23371
+        },
+        {
+            "title": "Architect",
+            "date": "c. 1535",
+            "technique": "Oil on panel 105 x 82 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lotto/5/08archit.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23372
+        },
+        {
+            "title": "Portrait of a Man in Black Silk Cloak",
+            "date": "c. 1535",
+            "technique": "Oil on canvas 94 x 82 cm",
+            "location": "Museum of Art New Orleans",
+            "url": "https://www.wga.hu/html/l/lotto/5/09portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23373
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "c. 1535",
+            "technique": "Oil on canvas 118 x 105 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/l/lotto/5/10portge.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23374
+        },
+        {
+            "title": "Holy Family with Angels",
+            "date": "1536-37",
+            "technique": "Oil on canvas 150 x 237 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lotto/5/11holyfa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23375
+        },
+        {
+            "title": "Madonna of the Rosary",
+            "date": "c. 1539",
+            "technique": "Oil on canvas 384 x 264 cm",
+            "location": "Church of San Nicolo Cingoli",
+            "url": "https://www.wga.hu/html/l/lotto/5/12rosary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23376
+        },
+        {
+            "title": "Venus and Cupid",
+            "date": "c. 1540",
+            "technique": "Oil on canvas 92 x 111 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lotto/5/13venus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23377
+        },
+        {
+            "title": "The Alms of St Antoninus",
+            "date": "1542",
+            "technique": "Oil on wood 332 x 235 cm",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/l/lotto/6/01antoni.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23378
+        },
+        {
+            "title": "Portrait of a Man with a Felt Hat",
+            "date": "1541",
+            "technique": "Oil on paper mounted to paperboard and lined 58 x 47 cm",
+            "location": "National Gallery of Canada Ottawa",
+            "url": "https://www.wga.hu/html/l/lotto/6/02hat.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23379
+        },
+        {
+            "title": "Portrait of a Gentleman with Gloves",
+            "date": "c. 1543",
+            "technique": "Oil on canvas 90 x 75 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/l/lotto/6/03gloves.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23380
+        },
+        {
+            "title": "Portrait of Febo da Brescia",
+            "date": "1544",
+            "technique": "Oil on canvas 82 x 78 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/l/lotto/6/04febo1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23381
+        },
+        {
+            "title": "Portrait of Laura da Pola",
+            "date": "1544",
+            "technique": "Oil on canvas 90 x 75 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/l/lotto/6/04febo2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23382
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1540s",
+            "technique": "Oil on panel 43 x 35 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/l/lotto/6/05selfpo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23383
+        },
+        {
+            "title": "St Jerome",
+            "date": "1544",
+            "technique": "Oil on canvas 53 x 42 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/l/lotto/6/06jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23384
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1545",
+            "technique": "Oil on canvas 185 x 150 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/l/lotto/6/07pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23385
+        },
+        {
+            "title": "Piet\u00e0 (detail)",
+            "date": "1545",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/l/lotto/6/07pieta1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23386
+        },
+        {
+            "title": "Virgin and Child with Saints",
+            "date": "1546",
+            "technique": "Oil on canvas",
+            "location": "San Giacomo dall'Orio Venice",
+            "url": "https://www.wga.hu/html/l/lotto/6/08virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23387
+        },
+        {
+            "title": "Fra Gregorio Belo di Vicenza",
+            "date": "1547",
+            "technique": "Oil on canvas 87 x 71 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lotto/6/09belo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23388
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1549",
+            "technique": "Oil on canvas",
+            "location": "San Francesco alle Scale Ancona",
+            "url": "https://www.wga.hu/html/l/lotto/6/10ancona.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23389
+        },
+        {
+            "title": "Presentation in the Temple",
+            "date": "1554-55",
+            "technique": "Oil on canvas 172 x 137 cm",
+            "location": "Santuario della Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/l/lotto/6/11loreto.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23390
+        }
+    ]
+}

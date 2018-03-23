@@ -1,0 +1,58 @@
+{
+    "name": "STAZIO Abbondio",
+    "life": "(b. 1663 Massagno d. 1757 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Entrance hall",
+            "date": "1690-1710",
+            "technique": "Stucco",
+            "location": "Palazzo Albrizzi Venice",
+            "url": "https://www.wga.hu/html/s/stazio/albrizzi.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 37895
+        },
+        {
+            "title": "Fame with the Merati Family Coat of Arms",
+            "date": "1689-1712",
+            "technique": "Stucco",
+            "location": "Palazzo Merati Venice",
+            "url": "https://www.wga.hu/html/s/stazio/merati.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 37896
+        },
+        {
+            "title": "Interior decoration (detail)",
+            "date": "1718",
+            "technique": "Stucco",
+            "location": "Palazzo Sagredo Venice",
+            "url": "https://www.wga.hu/html/s/stazio/sagredo1.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 37897
+        },
+        {
+            "title": "Bedroom from the Sagredo Palace",
+            "date": "c. 1718",
+            "technique": "Wood stucco marble glass 767 x 554 x 401 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/stazio/sagredo2.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 37898
+        },
+        {
+            "title": "Monochromes framed by stucco",
+            "date": "1697-98",
+            "technique": "Fresco stucco work",
+            "location": "Palazzetto Zane Venice",
+            "url": "https://www.wga.hu/html/s/stazio/zane.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 37899
+        }
+    ]
+}

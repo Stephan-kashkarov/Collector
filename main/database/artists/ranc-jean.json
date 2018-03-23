@@ -1,0 +1,28 @@
+{
+    "name": "RANC Jean",
+    "life": "(b. 1674 Montpellier d. 1735 Madrid)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Ferdinand VI as Prince",
+            "date": "-",
+            "technique": "Oil on canvas 144 x 116 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/r/ranc/ferdinan.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 33243
+        },
+        {
+            "title": "Vertumnus and Pomona",
+            "date": "1710s",
+            "technique": "Oil on canvas 171 x 119 cm",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/r/ranc/vertumnu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33244
+        }
+    ]
+}

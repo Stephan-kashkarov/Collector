@@ -1,0 +1,28 @@
+{
+    "name": "LONGHI Barbara",
+    "life": "(b. 1552 Ravenna d. ca. 1638 Ravenna)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "St Catherine of Alexandria",
+            "date": "1589",
+            "technique": "Oil on canvas 41 x 34 cm",
+            "location": "Museo d'Arte della Citt\u00e0 Ravenna",
+            "url": "https://www.wga.hu/html/l/longhi1/barbara/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22915
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Oil on canvas 42 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/longhi1/barbara/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22916
+        }
+    ]
+}

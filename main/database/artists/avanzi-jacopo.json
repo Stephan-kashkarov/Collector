@@ -1,0 +1,28 @@
+{
+    "name": "AVANZI Jacopo",
+    "life": "(active 1363-1384)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "View of the Cappella di San Giacomo",
+            "date": "1370s",
+            "technique": "Fresco",
+            "location": "Basilica di Sant'Antonio Padua",
+            "url": "https://www.wga.hu/html/a/avanzi/santo.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 2819
+        },
+        {
+            "title": "Liberation of the Companions of St James",
+            "date": "c. 1374",
+            "technique": "Fresco",
+            "location": "Basilica di Sant'Antonio Padua",
+            "url": "https://www.wga.hu/html/a/avanzi/santo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 2820
+        }
+    ]
+}

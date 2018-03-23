@@ -1,0 +1,28 @@
+{
+    "name": "POLACK Jan",
+    "life": "(b. ca. 1450 near Krak\u00f3w d. 1519 M\u00fcnchen)",
+    "school": "Polish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Death of St Corbinian",
+            "date": "1484-85",
+            "technique": "Wood 147 x 129 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/p/polack/corbian.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31854
+        },
+        {
+            "title": "Portrait of a Benedictine Monk",
+            "date": "1484",
+            "technique": "Oil on panel 57 x 41 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/p/polack/portmonk.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31855
+        }
+    ]
+}

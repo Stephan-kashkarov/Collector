@@ -1,0 +1,38 @@
+{
+    "name": "PULZONE Scipione",
+    "life": "(b. 1544 Gaeta d. 1598 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of Marcantonio Colonna",
+            "date": "1575",
+            "technique": "Oil on canvas 202 x 119 cm",
+            "location": "Galleria Colonna Rome",
+            "url": "https://www.wga.hu/html/p/pulzone/colonna.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32628
+        },
+        {
+            "title": "Lamentation",
+            "date": "1591",
+            "technique": "Oil on canvas 290 x 127 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/pulzone/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32629
+        },
+        {
+            "title": "Portrait of a Noblewoman",
+            "date": "1594",
+            "technique": "Oil on canvas 133 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pulzone/noblewom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32630
+        }
+    ]
+}

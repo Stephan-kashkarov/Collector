@@ -1,0 +1,58 @@
+{
+    "name": "KOBELL Wilhelm von",
+    "life": "(b. 1766 Mannheim d. 1853 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Siege of Cosel",
+            "date": "1808",
+            "technique": "Oil on canvas 202 x 305 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/kobell/wilhelm/cosel.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 21131
+        },
+        {
+            "title": "Gentleman on Horseback and Country Girl on the Banks of the Isar near Munich",
+            "date": "1831",
+            "technique": "Watercolour 237 x 306 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/k/kobell/wilhelm/gentlema.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 21132
+        },
+        {
+            "title": "Isar Landscape near Munich",
+            "date": "1819",
+            "technique": "Oak wood 41 x 53 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/kobell/wilhelm/isarland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21133
+        },
+        {
+            "title": "Riders at the Tegernsee",
+            "date": "1832",
+            "technique": "Oil on panel 28 x 26 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/k/kobell/wilhelm/riders.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21134
+        },
+        {
+            "title": "View of Tegernsee",
+            "date": "1833",
+            "technique": "Oil on canvas 38 x 33 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/kobell/wilhelm/tegern.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21135
+        }
+    ]
+}

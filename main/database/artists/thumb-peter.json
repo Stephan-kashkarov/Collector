@@ -1,0 +1,68 @@
+{
+    "name": "THUMB Peter",
+    "life": "(b. 1681 Bezau d. 1766 Konstanz)",
+    "school": "Austrian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1721-70",
+            "technique": "Photo",
+            "location": "Former Benedictine Abbey Church St Gallen",
+            "url": "https://www.wga.hu/html/t/thumb/1gallen1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 38829
+        },
+        {
+            "title": "Interior view",
+            "date": "1721-70",
+            "technique": "Photo",
+            "location": "Former Benedictine Abbey Church St Gallen",
+            "url": "https://www.wga.hu/html/t/thumb/1gallen2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 38830
+        },
+        {
+            "title": "Interior view",
+            "date": "1721-70",
+            "technique": "Photo",
+            "location": "Former Benedictine Abbey Church St Gallen",
+            "url": "https://www.wga.hu/html/t/thumb/1gallen3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 38831
+        },
+        {
+            "title": "Interior view",
+            "date": "1766",
+            "technique": "Photo",
+            "location": "Stiftsbibliothek St. Gallen",
+            "url": "https://www.wga.hu/html/t/thumb/1gallen4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 38832
+        },
+        {
+            "title": "Interior view",
+            "date": "1766",
+            "technique": "Photo",
+            "location": "Stiftsbibliothek St. Gallen",
+            "url": "https://www.wga.hu/html/t/thumb/1gallen5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 38833
+        },
+        {
+            "title": "External view",
+            "date": "1748-50",
+            "technique": "Photo",
+            "location": "Unsere Liebe Frau Birnau",
+            "url": "https://www.wga.hu/html/t/thumb/birnau.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 38834
+        }
+    ]
+}

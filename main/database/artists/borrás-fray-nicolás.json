@@ -1,0 +1,28 @@
+{
+    "name": "BORR\u00c1S Fray Nicol\u00e1s",
+    "life": "(b. 1530 Cocentaina d. 1610 Gand\u00eda)",
+    "school": "Spanish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Adoration of the Magi",
+            "date": "1570s",
+            "technique": "Oil on panel 49 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/borras/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5117
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1570s",
+            "technique": "Oil on panel 49 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/borras/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5118
+        }
+    ]
+}

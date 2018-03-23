@@ -1,0 +1,48 @@
+{
+    "name": "MALOUEL Jean",
+    "life": "(active 1397-1415)",
+    "school": "Flemish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Calvary and the Martyrdom of St Denis",
+            "date": "1416",
+            "technique": "Oil on panel transferred to canvas 161 x 210 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/malouel/calvary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23765
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1410",
+            "technique": "Tempera on wood 10 x 15 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/malouel/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23766
+        },
+        {
+            "title": "Large Round Piet\u00e0",
+            "date": "1400-10",
+            "technique": "Wood diameter 64 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/malouel/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23767
+        },
+        {
+            "title": "Virgin and Child with Angels",
+            "date": "c. 1410",
+            "technique": "Canvas 107 x 81 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/m/malouel/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23768
+        }
+    ]
+}

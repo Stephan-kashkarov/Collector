@@ -1,0 +1,48 @@
+{
+    "name": "STAROV Ivan",
+    "life": "(b. 1745 St. Petersburg d. 1808 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1783-89",
+            "technique": "Photo",
+            "location": "Tauride Palace St. Petersburg",
+            "url": "https://www.wga.hu/html/s/starov/tauride.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37889
+        },
+        {
+            "title": "Aerial view",
+            "date": "1783-89",
+            "technique": "Photo",
+            "location": "Tauride Palace St. Petersburg",
+            "url": "https://www.wga.hu/html/s/starov/tauride1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37890
+        },
+        {
+            "title": "Exterior view",
+            "date": "1776-90",
+            "technique": "Photo",
+            "location": "Cathedral of the Trinity St. Petersburg",
+            "url": "https://www.wga.hu/html/s/starov/trinity.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37891
+        },
+        {
+            "title": "Aerial view",
+            "date": "1776-90",
+            "technique": "Photo",
+            "location": "Cathedral of the Trinity St. Petersburg",
+            "url": "https://www.wga.hu/html/s/starov/trinity1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37892
+        }
+    ]
+}

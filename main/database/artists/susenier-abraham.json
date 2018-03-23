@@ -1,0 +1,28 @@
+{
+    "name": "SUSENIER Abraham",
+    "life": "(b. ca. 1620 Leiden d. ca. 1668 Dordrecht)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "1663",
+            "technique": "Oil on panel 63 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/susenier/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38325
+        },
+        {
+            "title": "Still-Life with Shells",
+            "date": "1659",
+            "technique": "Oil on canvas 58 x 85 cm",
+            "location": "Dordrechts Museum Dordrecht",
+            "url": "https://www.wga.hu/html/s/susenier/stilshel.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 38326
+        }
+    ]
+}

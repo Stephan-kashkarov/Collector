@@ -1,0 +1,28 @@
+{
+    "name": "CARNERI Mattia",
+    "life": "(b. 1592 Trento d. 1673 Trento)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Funeral Monument to Doge Francesco Erizzo",
+            "date": "1633",
+            "technique": "Bronze and marble",
+            "location": "Church of San Martino Venice",
+            "url": "https://www.wga.hu/html/c/carneri/erizzo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 7701
+        },
+        {
+            "title": "Paolo Veronese",
+            "date": "before 1631",
+            "technique": "Bronze",
+            "location": "San Sebastiano Venice",
+            "url": "https://www.wga.hu/html/c/carneri/veronese.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 7702
+        }
+    ]
+}

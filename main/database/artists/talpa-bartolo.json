@@ -1,0 +1,28 @@
+{
+    "name": "TALPA Bartolo",
+    "life": "(active c. 1495 in Mantua)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Francesco II Gonzaga",
+            "date": "c. 1495",
+            "technique": "Cast copper alloy diameter 8 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/t/talpa/gonzaga1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38475
+        },
+        {
+            "title": "Federigo I Gonzaga",
+            "date": "c. 1495",
+            "technique": "Bronze diameter 9 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/t/talpa/gonzaga2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38476
+        }
+    ]
+}

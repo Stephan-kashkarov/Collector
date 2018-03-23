@@ -1,0 +1,328 @@
+{
+    "name": "SEURAT Georges",
+    "life": "(b. 1859 Paris d. 1891 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Bathers at Asni\u00e8res",
+            "date": "1883-84",
+            "technique": "Oil on canvas 201 x 300 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/figures/bathers1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36941
+        },
+        {
+            "title": "Study for Bathers at Asni\u00e8res",
+            "date": "1883-84",
+            "technique": "Oil on canvas 15 x 25 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/figures/bathers2.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36942
+        },
+        {
+            "title": "Study for Bathers at Asni\u00e8res",
+            "date": "1883-84",
+            "technique": "Oil on canvas 118 x 26 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/s/seurat/figures/bathers3.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36943
+        },
+        {
+            "title": "A Sunday Afternoon on the Ile de la Grande Jatte",
+            "date": "1884-86",
+            "technique": "Oil on canvas 208 x 308 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36944
+        },
+        {
+            "title": "Study for \"\"A Sunday on La Grande Jatte\"\"\"1884\"Oil on canvas 71 x 104 cm",
+            "date": "Metropolitan Museum of Art New York",
+            "technique": "https://www.wga.hu/html/s/seurat/figures/jatte1.html",
+            "location": "painting",
+            "url": "study",
+            "form": "French",
+            "painting_type": "1851-1900",
+            "index": 36945
+        },
+        {
+            "title": "Couple",
+            "date": "1884-86",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte2.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36946
+        },
+        {
+            "title": "A Woman Fishing",
+            "date": "1884",
+            "technique": "Cont\u00e9 crayon on paper 308 x 235 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36947
+        },
+        {
+            "title": "Angler",
+            "date": "1884-86",
+            "technique": "Oil on panel 24 x 15 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte4.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36948
+        },
+        {
+            "title": "Woman with Parasol",
+            "date": "1884",
+            "technique": "Oil on canvas 25 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte5.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36949
+        },
+        {
+            "title": "L'Ile de la Grande Jatte",
+            "date": "1884",
+            "technique": "Oil on canvas 82 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/jatte6.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36950
+        },
+        {
+            "title": "The Models",
+            "date": "1888",
+            "technique": "Oil on canvas 39 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36951
+        },
+        {
+            "title": "Models (detail)",
+            "date": "1888",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36952
+        },
+        {
+            "title": "Seated Female Nude",
+            "date": "1886-87",
+            "technique": "Oil on panel 25 x 16 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models2.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36953
+        },
+        {
+            "title": "Standing Female Nude",
+            "date": "1887",
+            "technique": "Oil on panel 25 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models3.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36954
+        },
+        {
+            "title": "Standing Female Nude",
+            "date": "1887",
+            "technique": "Oil on panel 25 x 16 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models4.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36955
+        },
+        {
+            "title": "Model from Behind",
+            "date": "1886-87",
+            "technique": "Oil on panel 25 x 16 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/seurat/figures/models5.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36956
+        },
+        {
+            "title": "Young Woman Powdering Herself",
+            "date": "1889-90",
+            "technique": "Oil on canvas 96 x 80 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/figures/powderin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36957
+        },
+        {
+            "title": "Circus Sideshow",
+            "date": "1887-88",
+            "technique": "Oil on canvas 100 x 150 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/seurat/figures/xcircus1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36958
+        },
+        {
+            "title": "Circus Sideshow (detail)",
+            "date": "1887-88",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/seurat/figures/xcircus2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36959
+        },
+        {
+            "title": "Le Chahut",
+            "date": "1889-90",
+            "technique": "Oil on canvas 172 x 141 cm",
+            "location": "Rijksmuseum Kr\u00f6ller-M\u00fcller Otterlo",
+            "url": "https://www.wga.hu/html/s/seurat/figures/ychahut1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36960
+        },
+        {
+            "title": "Study for Le Chahut",
+            "date": "1889",
+            "technique": "Oil on canvas 56 x 47 cm",
+            "location": "Albright-Knox Art Gallery Buffalo",
+            "url": "https://www.wga.hu/html/s/seurat/figures/ychahut2.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36961
+        },
+        {
+            "title": "Dancers on Stage",
+            "date": "1889",
+            "technique": "Oil on panel 22 x 16 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/figures/ychahut3.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 36962
+        },
+        {
+            "title": "The Circus",
+            "date": "1891",
+            "technique": "Oil on canvas 180 x 148 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/seurat/figures/zcircus1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36963
+        },
+        {
+            "title": "The Circus",
+            "date": "1891",
+            "technique": "Oil on canvas 180 x 148 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/seurat/figures/zcircus2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36964
+        },
+        {
+            "title": "Bec du Hoc Grandcamp",
+            "date": "1885",
+            "technique": "Oil on canvas 66 x 83 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/becduhoc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36965
+        },
+        {
+            "title": "The Seine at Courbevoi",
+            "date": "1885",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/courbevo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36966
+        },
+        {
+            "title": "The Beach at Bas-Butin near Honfleur",
+            "date": "1886",
+            "technique": "Oil on canvas 67 x 78 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Tournai",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/honfleu.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36967
+        },
+        {
+            "title": "The Harbour at Honfleur",
+            "date": "1886",
+            "technique": "Oil on canvas 80 x 63 cm",
+            "location": "Rijksmuseum Kr\u00f6ller-M\u00fcller Otterlo",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/honfleu1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36968
+        },
+        {
+            "title": "The \"\"Maria\"\" Honfleur",
+            "date": "1886",
+            "technique": "Oil on canvas 53 x 64 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/honfleu2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36969
+        },
+        {
+            "title": "The Lighthouse at Honfleur",
+            "date": "1886",
+            "technique": "Oil on canvas 67 x 82 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/honfleu3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36970
+        },
+        {
+            "title": "Port-en-Bessin The Outer Harbour at High Tide",
+            "date": "1888",
+            "technique": "Oil on canvas 67 x 82 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/portbes1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36971
+        },
+        {
+            "title": "Port-en-Bessin",
+            "date": "1888",
+            "technique": "Oil on canvas 66 x 83 cm",
+            "location": "Institute of Arts Minneapolis",
+            "url": "https://www.wga.hu/html/s/seurat/landscap/portbes2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36972
+        }
+    ]
+}

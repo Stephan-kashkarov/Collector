@@ -1,0 +1,28 @@
+{
+    "name": "PETROVI\u00c6 Nade\u017eda",
+    "life": "(b. 1873 \u00c8a\u00e8ak d. 1915 Valjevo)",
+    "school": "Other",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Bois de Boulogne",
+            "date": "1911",
+            "technique": "Oil on cardboard 45 x 52 cm",
+            "location": "Museum for Modern Art Belgrade",
+            "url": "https://www.wga.hu/html/p/petrovic/boulogne.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 30950
+        },
+        {
+            "title": "Lady with a White Parasol",
+            "date": "c. 1910",
+            "technique": "Oil on canvas 90 x 65 cm",
+            "location": "National Museum Belgrade",
+            "url": "https://www.wga.hu/html/p/petrovic/parasol.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30951
+        }
+    ]
+}

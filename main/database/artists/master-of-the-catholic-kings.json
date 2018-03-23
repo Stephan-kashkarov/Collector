@@ -1,0 +1,38 @@
+{
+    "name": "MASTER of the Catholic Kings",
+    "life": "(active 1485-1500 in Castile)",
+    "school": "Spanish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Marriage at Cana",
+            "date": "c. 1495/1497",
+            "technique": "Oil on panel 137 x 93 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/catholic/catholi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24986
+        },
+        {
+            "title": "The Marriage at Cana (detail)",
+            "date": "c. 1495/1497",
+            "technique": "Oil on panel",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/catholic/catholi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24987
+        },
+        {
+            "title": "Christ among the Doctors",
+            "date": "1495-97",
+            "technique": "Oil on panel 136 x 93 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/master/catholic/catholic.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24988
+        }
+    ]
+}

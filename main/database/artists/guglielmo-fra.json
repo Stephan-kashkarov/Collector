@@ -1,0 +1,28 @@
+{
+    "name": "GUGLIELMO Fra",
+    "life": "(b. ca. 1235 Pisa d. ca. 1310 ?)",
+    "school": "Italian",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "Pulpit",
+            "date": "c. 1270",
+            "technique": "Marble",
+            "location": "San Giovanni Fuorcivitas Pistoia",
+            "url": "https://www.wga.hu/html/g/guglielm/pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 18937
+        },
+        {
+            "title": "Pulpit (detail)",
+            "date": "c. 1270",
+            "technique": "Marble",
+            "location": "San Giovanni Fuorcivitas Pistoia",
+            "url": "https://www.wga.hu/html/g/guglielm/pulpit1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 18938
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "JACOB Louis",
+    "life": "(b. 1712 Lisieux d. 1802 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Departure of the Italian Comedians in 1697",
+            "date": "c. 1740",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/j/jacob_l/italian.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 20431
+        },
+        {
+            "title": "Saint Thomas",
+            "date": "1726",
+            "technique": "Etching and engraving 346 x 218 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/j/jacob_l/s_thomas.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 20432
+        }
+    ]
+}

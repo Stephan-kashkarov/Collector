@@ -1,0 +1,58 @@
+{
+    "name": "HEYDEN Pieter van der",
+    "life": "(b. ca. 1530 Antwerpen d. ca. 1575 Berchem)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Blind Leading the Blind",
+            "date": "c. 1561",
+            "technique": "Engraving",
+            "location": "New York Public Library New York",
+            "url": "https://www.wga.hu/html/h/heyden_p/blindlea.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 19688
+        },
+        {
+            "title": "Luxuria (Lechery)",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/h/heyden_p/luxuria.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 19689
+        },
+        {
+            "title": "The Sailing Scale",
+            "date": "1562",
+            "technique": "Engraving 207 x 288 mm",
+            "location": "University Art Collection Li\u00e8ge",
+            "url": "https://www.wga.hu/html/h/heyden_p/sailing.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 19690
+        },
+        {
+            "title": "Ship of Fools (Die blau schuyte)",
+            "date": "1559",
+            "technique": "Engraving",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/h/heyden_p/shipfool.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 19691
+        },
+        {
+            "title": "Winter",
+            "date": "1570",
+            "technique": "Engraving",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/h/heyden_p/winter.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 19692
+        }
+    ]
+}

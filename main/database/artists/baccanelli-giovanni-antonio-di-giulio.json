@@ -1,0 +1,38 @@
+{
+    "name": "BACCANELLI Giovanni Antonio di Giulio",
+    "life": "(documented 1630-1661 in Florence)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St Francis",
+            "date": "1647",
+            "technique": "Engraving",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/b/baccanel/saints1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 2863
+        },
+        {
+            "title": "St Louis of Toulouse",
+            "date": "1647",
+            "technique": "Engraving",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/b/baccanel/saints2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 2864
+        },
+        {
+            "title": "St Anthony of Padua",
+            "date": "1647",
+            "technique": "Engraving",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/b/baccanel/saints3.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 2865
+        }
+    ]
+}

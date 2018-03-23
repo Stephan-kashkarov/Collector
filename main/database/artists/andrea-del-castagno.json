@@ -1,0 +1,518 @@
+{
+    "name": "ANDREA DEL CASTAGNO",
+    "life": "(b. 1423 Castagno d. 1457 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Crucifixion and Saints",
+            "date": "1440-41",
+            "technique": "Fresco",
+            "location": "Ospedale Santa Maria Nuova Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/01crucif.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 573
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1442",
+            "technique": "Fresco",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/021johnb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 574
+        },
+        {
+            "title": "God the Father",
+            "date": "1442",
+            "technique": "Fresco height of figure 176 cm",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/022god.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 575
+        },
+        {
+            "title": "St John the Evangelist",
+            "date": "1442",
+            "technique": "Fresco height of figure 176 cm",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/023johne.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 576
+        },
+        {
+            "title": "St Mark",
+            "date": "1442",
+            "technique": "Fresco height of figure 176 cm",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/024mark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 577
+        },
+        {
+            "title": "Dormition of the Virgin",
+            "date": "1442-43",
+            "technique": "Mosaic",
+            "location": "Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/03death.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 578
+        },
+        {
+            "title": "Dormition of the Virgin",
+            "date": "1448-51",
+            "technique": "Mosaic",
+            "location": "Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/041dormi.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 579
+        },
+        {
+            "title": "Dormition of the Virgin",
+            "date": "1442-43",
+            "technique": "Mosaic",
+            "location": "Basilica di San Marco Venice",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/042dormi.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 580
+        },
+        {
+            "title": "Deposition",
+            "date": "c. 1444",
+            "technique": "Stained glass",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/04deposi.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 581
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "c. 1445",
+            "technique": "Fresco 290 x 212 cm",
+            "location": "Contini Bonacossi Collection Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/05pazzi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 582
+        },
+        {
+            "title": "Last Supper and Stories of Christ's Passion",
+            "date": "1447",
+            "technique": "Fresco 453 x 975 cm (each fresco)",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/06apollo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 583
+        },
+        {
+            "title": "Stories of Christ's Passion (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/07apollo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 584
+        },
+        {
+            "title": "Last Supper and Stories of Christ's Passion",
+            "date": "1447",
+            "technique": "Fresco 453 x 975 cm (each fresco)",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/07passi0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 585
+        },
+        {
+            "title": "Stories of Christ's Passion",
+            "date": "1447",
+            "technique": "Fresco 453 x 975 cm",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/07passi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 586
+        },
+        {
+            "title": "Stories of Christ's Passion (synopia)",
+            "date": "1447",
+            "technique": "Synopia",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/07passi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 587
+        },
+        {
+            "title": "Resurrection (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/07passi3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 588
+        },
+        {
+            "title": "Last Supper",
+            "date": "1447",
+            "technique": "Fresco 453 x 975 cm",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 589
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 590
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 591
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 592
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 593
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 594
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 595
+        },
+        {
+            "title": "Last Supper (detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 596
+        },
+        {
+            "title": "Last Supper (architectural detail)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/08lasts9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 597
+        },
+        {
+            "title": "Christ in the Sepulchre with Two Angels",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/09chris1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 598
+        },
+        {
+            "title": "Christ in the Sepulchre with Two Angels (synopia)",
+            "date": "1447",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/1_1440s/09chris2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 599
+        },
+        {
+            "title": "Famous Persons Cycle (reconstruction)",
+            "date": "c. 1450",
+            "technique": "Fresco",
+            "location": "Villa Carducci Legnaia",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/0view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 600
+        },
+        {
+            "title": "View of the former loggia",
+            "date": "-",
+            "technique": "Photo",
+            "location": "Villa Carducci Legnaia",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/0view1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 601
+        },
+        {
+            "title": "Famous Persons: Eve",
+            "date": "c. 1450",
+            "technique": "Fresco",
+            "location": "Villa Carducci Legnaia",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/1eve.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 602
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1450",
+            "technique": "Fresco",
+            "location": "Villa Carducci Legnaia",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/1lunette.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 603
+        },
+        {
+            "title": "Famous Persons: Pippo Spano",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/1pippo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 604
+        },
+        {
+            "title": "Famous Persons: Niccol\u00f2 Acciaiuoli",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/2acciaol.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 605
+        },
+        {
+            "title": "Famous Persons: Farinata degli Uberti",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/3uberti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 606
+        },
+        {
+            "title": "Famous Persons: Queen Esther",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 120 x 150 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/4esther.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 607
+        },
+        {
+            "title": "Famous Persons: The Cumean Sibyl",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/5cumean.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 608
+        },
+        {
+            "title": "Famous Persons: Queen Tomyris",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 245 x 155 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/6tomyri.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 609
+        },
+        {
+            "title": "Famous Persons: Dante Allighieri",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/7dante.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 610
+        },
+        {
+            "title": "Famous Persons: Giovanni Boccaccio",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 250 x 154 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/8boccacc.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 611
+        },
+        {
+            "title": "Famous Persons: Francesco Petrarca",
+            "date": "c. 1450",
+            "technique": "Fresco transferred to wood 247 x 153 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/2_famous/9petrarc.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 612
+        },
+        {
+            "title": "Our Lady of the Assumption with Sts Miniato and Julian",
+            "date": "1450",
+            "technique": "Panel 150 x 158 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/01assump.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 613
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1450",
+            "technique": "Panel 29 x 35 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/02crucif.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 614
+        },
+        {
+            "title": "The Youthful David",
+            "date": "c. 1450",
+            "technique": "Tempera on leather on wood width at bottom 1156 x 41 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/03david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 615
+        },
+        {
+            "title": "The Holy Trinity St Jerome and Two Saints",
+            "date": "c. 1453",
+            "technique": "Fresco",
+            "location": "Santissima Annunziata Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/05trinit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 616
+        },
+        {
+            "title": "St Julian and the Redeemer",
+            "date": "c. 1453",
+            "technique": "Fresco",
+            "location": "Santissima Annunziata Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/06julian.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 617
+        },
+        {
+            "title": "Interior view",
+            "date": "1454",
+            "technique": "Fresco",
+            "location": "Greek Library Vatican",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/06vatica.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 618
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1455",
+            "technique": "Fresco 270 x 347 cm",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/07cruci1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 619
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "c. 1455",
+            "technique": "Fresco",
+            "location": "Sant'Apollonia Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/07cruci2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 620
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1450-57",
+            "technique": "Tempera on panel 56 x 41 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/08portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 621
+        },
+        {
+            "title": "Monument to Niccol\u00f2 da Tolentino",
+            "date": "1456",
+            "technique": "Fresco",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/09tolent.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 622
+        },
+        {
+            "title": "Monument to Niccol\u00f2 da Tolentino",
+            "date": "1456",
+            "technique": "Fresco",
+            "location": "Duomo Florence",
+            "url": "https://www.wga.hu/html/a/andrea/castagno/3_1450s/10tolent.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 623
+        }
+    ]
+}

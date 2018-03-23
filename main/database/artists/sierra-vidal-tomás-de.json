@@ -1,0 +1,28 @@
+{
+    "name": "SIERRA VIDAL Tom\u00e1s de",
+    "life": "(b. ca. 1654 Santalla del Bierzo d. 1725 Medina de R\u00edoseco)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Altarpiece",
+            "date": "1704",
+            "technique": "Polychrome wood width 1.200 cm",
+            "location": "Iglesia de Santiago Medina de Rioseco",
+            "url": "https://www.wga.hu/html/s/sierra/altar.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37009
+        },
+        {
+            "title": "Altarpiece (detail)",
+            "date": "1704",
+            "technique": "Polychrome wood",
+            "location": "Iglesia de Santiago Medina de Rioseco",
+            "url": "https://www.wga.hu/html/s/sierra/altar_d.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37010
+        }
+    ]
+}

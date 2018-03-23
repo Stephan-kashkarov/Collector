@@ -1,0 +1,28 @@
+{
+    "name": "HUMBERT DE SUPERVILLE David Pierre Giottino",
+    "life": "(b. 1770 Den Haag d. 1849 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Portrait of Johan Melchior Kemper",
+            "date": "1815",
+            "technique": "Oil on panel 38 x 29 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/humbert/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20289
+        },
+        {
+            "title": "The Santa Croce Altarpiece",
+            "date": "-",
+            "technique": "Drawing (Vat. Lat. 9847 ff. 91v-92r)",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/h/humbert/ugolino.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 20290
+        }
+    ]
+}

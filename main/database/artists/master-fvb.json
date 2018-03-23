@@ -1,0 +1,28 @@
+{
+    "name": "MASTER FVB",
+    "life": "(active 1475-1500 in Bruges)",
+    "school": "Flemish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Saint Barbara",
+            "date": "1475-1500",
+            "technique": "Engraving 166 x 92 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/fvb/1barbara.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24664
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1480",
+            "technique": "Engraving 204 x 161 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/m/master/fvb/annuncia.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 24665
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "LE HONGRE \u00c9tienne",
+    "life": "(b. 1628 Paris d. 1690 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Air",
+            "date": "1685",
+            "technique": "Marble",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/le_hongr/air.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 21695
+        },
+        {
+            "title": "The Seine",
+            "date": "1680s",
+            "technique": "Bronze",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/le_hongr/seine.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 21696
+        }
+    ]
+}

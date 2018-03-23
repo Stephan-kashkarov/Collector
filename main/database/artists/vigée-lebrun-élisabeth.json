@@ -1,0 +1,238 @@
+{
+    "name": "VIG\u00c9E-LEBRUN \u00c9lisabeth",
+    "life": "(b. 1755 Paris d. 1842 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of Princess Anna Ivanonva Bariatinsky",
+            "date": "1796",
+            "technique": "Oil on canvas 136 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vigee/bariatin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43163
+        },
+        {
+            "title": "The Duchess of Caderousse",
+            "date": "-",
+            "technique": "Oil oncanvas 105 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vigee/caderous.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43164
+        },
+        {
+            "title": "The Daughter's Portrait",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale Parma",
+            "url": "https://www.wga.hu/html/v/vigee/daughter.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43165
+        },
+        {
+            "title": "Portrait of Madame de Sta\u00ebl as Corinne on Cape Misenum",
+            "date": "1809",
+            "technique": "Oil on canvas 140 x 118 cm",
+            "location": "Mus\u00e9e d'Art et d'Histoire Geneva",
+            "url": "https://www.wga.hu/html/v/vigee/de_stael.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43166
+        },
+        {
+            "title": "Madame d'Aguesseau de Fresnes",
+            "date": "1789",
+            "technique": "Oil on panel 107 x 83 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vigee/fresnes.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43167
+        },
+        {
+            "title": "The Genius of Alexander",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vigee/genius.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43168
+        },
+        {
+            "title": "Hubert Robert Artist",
+            "date": "1788",
+            "technique": "Oil on wood 105 x 84 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vigee/h_robert.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43169
+        },
+        {
+            "title": "Marie Antoinette",
+            "date": "after 1783",
+            "technique": "Oil on canvas 93 x 73 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vigee/marianto.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43170
+        },
+        {
+            "title": "The Marquise de Pezay and the Marquise de Roug\u00e9 with Her Sons Alexis and Adrien",
+            "date": "1787",
+            "technique": "Oil on canvas 123 x 156 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/v/vigee/marquise.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43171
+        },
+        {
+            "title": "Portrait of Madame Grand",
+            "date": "1783",
+            "technique": "Oil on canvas 92 x 72 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/v/vigee/mmegrand.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43172
+        },
+        {
+            "title": "Portrait of a Young Musician",
+            "date": "1777",
+            "technique": "Oil on canvas 92 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vigee/musician.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43173
+        },
+        {
+            "title": "Madame Perregaux",
+            "date": "1789",
+            "technique": "Oil on panel 100 x 79 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/v/vigee/perregau.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43174
+        },
+        {
+            "title": "Portrait of Anna Pitt as Hebe",
+            "date": "1792",
+            "technique": "Oil on canvas 140 x 100cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vigee/portpitt.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43175
+        },
+        {
+            "title": "Prince Heinrich Lubomirski as the Genius of Fame",
+            "date": "1789",
+            "technique": "Oil on oak 106 x 83 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/v/vigee/princehe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43176
+        },
+        {
+            "title": "Portrait of Hyacinthe Gabrielle Roland",
+            "date": "1791",
+            "technique": "Oil on canvas 99 x 75 cm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/v/vigee/roland.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43177
+        },
+        {
+            "title": "Self-Portrait with Her Daughter Julie",
+            "date": "1786",
+            "technique": "Oil on wood 105 x 84 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vigee/self_da.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43178
+        },
+        {
+            "title": "Self-Portrait with Her Daughter Julie",
+            "date": "c. 1789",
+            "technique": "Oil on canvas 130 x 94 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vigee/self_dau.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43179
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1800",
+            "technique": "Oil on canvas 79 x 68 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vigee/self_por.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43180
+        },
+        {
+            "title": "Self-Portrait in a Straw Hat",
+            "date": "after 1782",
+            "technique": "Oil on canvas 98 x 70 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/v/vigee/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43181
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1790",
+            "technique": "Oil on canvas 100 x 81 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/v/vigee/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43182
+        },
+        {
+            "title": "Moritz von Fries",
+            "date": "c. 1796",
+            "technique": "Pastel on grey paper 54 x 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vigee/vonfries.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43183
+        },
+        {
+            "title": "Woman's Head",
+            "date": "1780",
+            "technique": "Charcoal and coloured chalk on blue paper 479 x 405 mm",
+            "location": "\u00c9cole des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/v/vigee/wom_head.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43184
+        },
+        {
+            "title": "Portrait of a Young Woman",
+            "date": "c. 1797",
+            "technique": "Oil on canvas 82 x 71 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/v/vigee/young_wo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43185
+        }
+    ]
+}

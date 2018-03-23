@@ -1,0 +1,168 @@
+{
+    "name": "ORCAGNA",
+    "life": "(b. ca. 1308 Firenze d. ca. 1368 Firenze)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "The Expulsion of the Duke of Athens",
+            "date": "after 1343",
+            "technique": "Detached fresco 290 x 260 cm",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/expulsio.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 29832
+        },
+        {
+            "title": "Hell (fragment)",
+            "date": "c. 1345",
+            "technique": "Fresco",
+            "location": "Museo dell'Opera di Santa Croce Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/hell.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29833
+        },
+        {
+            "title": "Saint Matthew and Scenes from his Life",
+            "date": "c. 1367",
+            "technique": "Tempera on wood 291 x 265 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/matthew.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29834
+        },
+        {
+            "title": "View of the Chapel",
+            "date": "1350s",
+            "technique": "Fresco",
+            "location": "Cappella Strozzi Santa Maria Novella Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/strozz0.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29835
+        },
+        {
+            "title": "The Strozzi Altarpiece",
+            "date": "1354-57",
+            "technique": "Tempera on wood 274 x 296 cm",
+            "location": "Cappella Strozzi Santa Maria Novella Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/strozz1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29836
+        },
+        {
+            "title": "The Strozzi Altarpiece",
+            "date": "1354-57",
+            "technique": "Tempera on wood",
+            "location": "Cappella Strozzi Santa Maria Novella Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/strozzi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29837
+        },
+        {
+            "title": "Tabernacle",
+            "date": "1359",
+            "technique": "Marble lapis lazuli gold and glass inlay",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/taber.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 29838
+        },
+        {
+            "title": "Tabernacle",
+            "date": "1359",
+            "technique": "Marble lapis lazuli gold and glass inlay",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29839
+        },
+        {
+            "title": "Tabernacle",
+            "date": "1359",
+            "technique": "Marble lapis lazuli gold and glass inlay",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29840
+        },
+        {
+            "title": "Dormition and Assumption of the Virgin detail of the Tabernacle",
+            "date": "1359",
+            "technique": "Marble lapis lazuli gold and glass inlay",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29841
+        },
+        {
+            "title": "Dormition and Assumption of the Virgin detail of the Tabernacle",
+            "date": "1359",
+            "technique": "Marble lapis lazuli gold and glass inlay",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_21.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29842
+        },
+        {
+            "title": "The Burial of the Virgin",
+            "date": "1359",
+            "technique": "Marble height 122 cm",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29843
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1359",
+            "technique": "Marble on mosaic background",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29844
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1359",
+            "technique": "Marble on mosaic background",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_5.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29845
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1359",
+            "technique": "Marble on mosaic background",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29846
+        },
+        {
+            "title": "Tabernacle (detail)",
+            "date": "1359",
+            "technique": "Marble",
+            "location": "Orsanmichele Florence",
+            "url": "https://www.wga.hu/html/o/orcagna/tabern_7.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29847
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "BRITTO Giovanni",
+    "life": "(active 1530-50 in Venice)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Francesco Priscianese",
+            "date": "c. 1540",
+            "technique": "Woodcut",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/britto/priscian.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 6155
+        },
+        {
+            "title": "Self-Portrait by Titian",
+            "date": "1550",
+            "technique": "Woodcut 415 x 325 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/b/britto/titian.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 6156
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "JEGHER Christoffel",
+    "life": "(b. 1596 Antwerpen d. 1653 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Garden of Love",
+            "date": "c. 1631",
+            "technique": "Woodcut on ivory laid paper 456 x 590 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/j/jegher/garden_l.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 20631
+        },
+        {
+            "title": "The Garden of Love",
+            "date": "c. 1631",
+            "technique": "Woodcut 465 x 598 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/j/jegher/garden_r.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 20632
+        },
+        {
+            "title": "Jesus and St John the Baptist in their Childhood",
+            "date": "-",
+            "technique": "Woodcut 2nd state 342 x 465 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/j/jegher/jesujohn.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 20633
+        }
+    ]
+}

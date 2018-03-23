@@ -1,0 +1,28 @@
+{
+    "name": "LA VALL\u00c9E Jean de",
+    "life": "(b. 1620 Paris d. 1696 Stockholm)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1641-74",
+            "technique": "Photo",
+            "location": "Riddarhuset Stockholm",
+            "url": "https://www.wga.hu/html/l/la_valle/riddar1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21335
+        },
+        {
+            "title": "Exterior view",
+            "date": "1641-74",
+            "technique": "Photo",
+            "location": "Riddarhuset Stockholm",
+            "url": "https://www.wga.hu/html/l/la_valle/riddar2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 21336
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "name": "SALVIATI Cecchino del",
+    "life": "(b. 1510 Firenze d. 1563 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Charity",
+            "date": "1554-58",
+            "technique": "Oil on wood 156 x 122 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/s/salviati/1/charity.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36055
+        },
+        {
+            "title": "Charity (detail)",
+            "date": "1554-58",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/s/salviati/1/charity1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36056
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1540s",
+            "technique": "Oil on panel 66 x 45 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/s/salviati/1/christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36057
+        },
+        {
+            "title": "Coronation of the Virgin with Angels",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 177 x 140 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/s/salviati/1/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36058
+        },
+        {
+            "title": "The Three Fates",
+            "date": "1550",
+            "technique": "Oil on wood 61 x 83 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/s/salviati/1/fates.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36059
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1543-46",
+            "technique": "Oil on panel 97 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/salviati/1/gentlema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36060
+        },
+        {
+            "title": "The Incredulity of St Thomas",
+            "date": "1543-47",
+            "technique": "Oil on wood transferred to canvas 275 x 234 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/salviati/1/incredul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36061
+        },
+        {
+            "title": "Lamentation",
+            "date": "1539-41",
+            "technique": "Oil on canvas 322 x 193 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/s/salviati/1/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36062
+        },
+        {
+            "title": "Raising of Lazarus",
+            "date": "1540s",
+            "technique": "Oil on panel 89 x 67 cm",
+            "location": "Palazzo Colonna Rome",
+            "url": "https://www.wga.hu/html/s/salviati/1/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36063
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "after 1548",
+            "technique": "Oil on panel 89 x 69 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/s/salviati/1/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36064
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1543-45",
+            "technique": "Panel 59 x 47 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/s/salviati/1/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36065
+        },
+        {
+            "title": "Design for a Ewer",
+            "date": "c. 1545",
+            "technique": "Pen and brown ink with grey wash 411 x 276 mm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/s/salviati/1/z_ewer.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36066
+        },
+        {
+            "title": "View of the oratory",
+            "date": "1536-53",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/1view1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36067
+        },
+        {
+            "title": "View of the oratory",
+            "date": "1550",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/1view2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36068
+        },
+        {
+            "title": "The Visitation",
+            "date": "1538",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/2visita1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36069
+        },
+        {
+            "title": "The Visitation",
+            "date": "1538",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/2visita2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36070
+        },
+        {
+            "title": "The Visitation (detail)",
+            "date": "1538",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/2visita3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36071
+        },
+        {
+            "title": "The Visitation (detail)",
+            "date": "1538",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/2visita4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36072
+        },
+        {
+            "title": "The Birth of St John the Baptist",
+            "date": "1551",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/3birth1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36073
+        },
+        {
+            "title": "St Andrew",
+            "date": "1550",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/4andrew.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36074
+        },
+        {
+            "title": "St Bartholomew",
+            "date": "1550",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/4barthol.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36075
+        },
+        {
+            "title": "Illusionistic window",
+            "date": "1536-53",
+            "technique": "Fresco",
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "url": "https://www.wga.hu/html/s/salviati/2/5window.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36076
+        },
+        {
+            "title": "Sketch for the Birth of St John the Baptist",
+            "date": "-",
+            "technique": "Pen ink and brown wash 114 x 173 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/s/salviati/2/studies1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36077
+        },
+        {
+            "title": "Sketch for the Birth of St John the Baptist",
+            "date": "-",
+            "technique": "Pen ink and brown wash 114 x 150 mm",
+            "location": "Mus\u00e9e des Beaux-Arts Rennes",
+            "url": "https://www.wga.hu/html/s/salviati/2/studies2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36078
+        },
+        {
+            "title": "Sketch for the Baptism of Christ",
+            "date": "-",
+            "technique": "Pen ink and brown wash 242 x 203 mm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/s/salviati/2/studies3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36079
+        },
+        {
+            "title": "Design for the fresco cycle",
+            "date": "-",
+            "technique": "Pen and brown ink and gray-brown wash 128 x 224 mm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/s/salviati/2/studies4.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36080
+        },
+        {
+            "title": "General view",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/1view1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36081
+        },
+        {
+            "title": "General view",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/1view2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36082
+        },
+        {
+            "title": "View of the window wall",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/1view3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36083
+        },
+        {
+            "title": "The Story of David (3 scenes)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/2david1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36084
+        },
+        {
+            "title": "The Story of David (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/2david2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36085
+        },
+        {
+            "title": "The Story of David (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/2david3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36086
+        },
+        {
+            "title": "The Story of David (4 scenes)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/2david4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36087
+        },
+        {
+            "title": "The Story of David (4 scenes)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/3bathsh1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36088
+        },
+        {
+            "title": "Bathsheba Bathing (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/3bathsh2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36089
+        },
+        {
+            "title": "Bathsheba Bathing (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/3bathsh3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36090
+        },
+        {
+            "title": "Bathsheba Bathing (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/3bathsh4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36091
+        },
+        {
+            "title": "The Story of David (4 scenes)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/4absalo1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36092
+        },
+        {
+            "title": "The Death of Absalom (detail)",
+            "date": "1552-54",
+            "technique": "Fresco",
+            "location": "Sala dell'Udienza Invernale Palazzo Ricci-Sacchetti Rome",
+            "url": "https://www.wga.hu/html/s/salviati/3/4absalo2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36093
+        },
+        {
+            "title": "Scenes from the Life of Furius Camillus",
+            "date": "1545",
+            "technique": "Fresco",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/s/salviati/4/camillu1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36094
+        },
+        {
+            "title": "Allegory of Peace Burning Arms",
+            "date": "1545",
+            "technique": "Fresco",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/s/salviati/4/camillu1a.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36095
+        },
+        {
+            "title": "Triumph of Furius Camillus (detail)",
+            "date": "1545",
+            "technique": "Fresco",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/s/salviati/4/camillu2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36096
+        },
+        {
+            "title": "Scenes from the Life of Furius Camillus",
+            "date": "1545",
+            "technique": "Fresco",
+            "location": "Palazzo Vecchio Florence",
+            "url": "https://www.wga.hu/html/s/salviati/4/camillu3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36097
+        },
+        {
+            "title": "History of the Farnese",
+            "date": "c. 1558",
+            "technique": "Fresco",
+            "location": "Salotto Dipinto Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/s/salviati/4/paul3_1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36098
+        },
+        {
+            "title": "History of Paul III",
+            "date": "c. 1558",
+            "technique": "Fresco",
+            "location": "Salotto Dipinto Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/s/salviati/4/paul3_2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36099
+        },
+        {
+            "title": "History of Paul III (detail)",
+            "date": "c. 1558",
+            "technique": "Fresco",
+            "location": "Salotto Dipinto Palazzo Farnese Rome",
+            "url": "https://www.wga.hu/html/s/salviati/4/paul3_21.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36100
+        }
+    ]
+}

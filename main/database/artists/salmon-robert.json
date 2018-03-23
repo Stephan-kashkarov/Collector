@@ -1,0 +1,48 @@
+{
+    "name": "SALMON Robert",
+    "life": "(b. ca. 1775 Cumberland d. ca. 1848 England)",
+    "school": "American",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Ship Aground",
+            "date": "1827",
+            "technique": "Oil on panel 26 x 37 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/s/salmon/aground.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36034
+        },
+        {
+            "title": "A Naval Cutter",
+            "date": "-",
+            "technique": "Oil on panel 51 x 79 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/salmon/cutter.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36035
+        },
+        {
+            "title": "The Estridge off Dover",
+            "date": "1800",
+            "technique": "Oil on canvas 67 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/salmon/estridge.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36036
+        },
+        {
+            "title": "Ship in Storm",
+            "date": "1828",
+            "technique": "Oil on board 36 x 50 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/s/salmon/storm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36037
+        }
+    ]
+}

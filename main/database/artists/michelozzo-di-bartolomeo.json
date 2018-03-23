@@ -1,0 +1,298 @@
+{
+    "name": "MICHELOZZO DI BARTOLOMEO",
+    "life": "(b. 1396 Firenze d. 1472 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "View of the Convent of San Marco",
+            "date": "1436",
+            "technique": "Photo",
+            "location": "Convento di San Marco Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/1marco1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27017
+        },
+        {
+            "title": "Courtyard",
+            "date": "1430s",
+            "technique": "Photo",
+            "location": "Convento di San Marco Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/1marco2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27018
+        },
+        {
+            "title": "Library",
+            "date": "1437-51",
+            "technique": "Photo",
+            "location": "Convento di San Marco Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/1marco3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 27019
+        },
+        {
+            "title": "Library",
+            "date": "1437-51",
+            "technique": "Photo",
+            "location": "Convento di San Marco Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/1marco4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 27020
+        },
+        {
+            "title": "Corridor of the North Dormitory",
+            "date": "1440-41",
+            "technique": "Photo",
+            "location": "Convento di San Marco Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/1marco5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 27021
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Exterior",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27022
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Fa\u00e7ade",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27023
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Exterior (detail)",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27024
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Courtyard",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Palazzo Medici Riccardi Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici4.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27025
+        },
+        {
+            "title": "Courtyard",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Palazzo Medici Riccardi Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici5.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27026
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Courtyard",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici6.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27027
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Courtyard",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici7.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27028
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Courtyard",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici8.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27029
+        },
+        {
+            "title": "Palazzo Medici Riccardi: Garden",
+            "date": "1445-60",
+            "technique": "Photo",
+            "location": "Via Camillo Cavour Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/1/2medici9.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27030
+        },
+        {
+            "title": "Exterior view",
+            "date": "1430s",
+            "technique": "Photo",
+            "location": "Villa Medicea Careggi",
+            "url": "https://www.wga.hu/html/m/micheloz/1/3careggi.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27031
+        },
+        {
+            "title": "Exterior view",
+            "date": "1430s",
+            "technique": "Photo",
+            "location": "Villa Medicea Careggi",
+            "url": "https://www.wga.hu/html/m/micheloz/1/3careggj.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27032
+        },
+        {
+            "title": "Villa Medicea",
+            "date": "1443-52",
+            "technique": "Photo",
+            "location": "Cafaggiolo",
+            "url": "https://www.wga.hu/html/m/micheloz/1/4cafaggi.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27033
+        },
+        {
+            "title": "Villa Medici",
+            "date": "c. 1455",
+            "technique": "Photo",
+            "location": "Fiesole",
+            "url": "https://www.wga.hu/html/m/micheloz/1/5fiesole.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 27034
+        },
+        {
+            "title": "Funeral Monument to the Anti-pope John XXIII",
+            "date": "1422-28",
+            "technique": "Gilded pietra serena 713 x 200 x 213 cm",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/1john_23.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27035
+        },
+        {
+            "title": "Funeral Monument to the Anti-pope John XXIII (detail)",
+            "date": "1422-28",
+            "technique": "Pietra serena",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/3john_23.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27036
+        },
+        {
+            "title": "Funeral Monument to the Anti-pope John XXIII (detail)",
+            "date": "1422-28",
+            "technique": "Pietra serena",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/4john_23.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27037
+        },
+        {
+            "title": "Funeral Monument of Cardinal Rainaldo Brancacci",
+            "date": "c. 1427",
+            "technique": "Marble partly gilded and polychrome 1160 x 460 cm",
+            "location": "Sant'Angelo a Nilo Naples",
+            "url": "https://www.wga.hu/html/m/micheloz/2/brancacc.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27038
+        },
+        {
+            "title": "Funeral Monument of Cardinal Rainaldo Brancacci (detail)",
+            "date": "c. 1427",
+            "technique": "Marble",
+            "location": "Sant'Angelo a Nilo Naples",
+            "url": "https://www.wga.hu/html/m/micheloz/2/brancacd.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27039
+        },
+        {
+            "title": "Faith",
+            "date": "1427-37",
+            "technique": "Marble",
+            "location": "Cathedral Montepulciano",
+            "url": "https://www.wga.hu/html/m/micheloz/2/faith.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 27040
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1430",
+            "technique": "Marble100 x 71 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/madchild.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27041
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1437-38",
+            "technique": "Terracotta 77 x 55 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/micheloz/2/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27042
+        },
+        {
+            "title": "Pulpit",
+            "date": "1438",
+            "technique": "Marble",
+            "location": "Cathedral Prato",
+            "url": "https://www.wga.hu/html/m/micheloz/2/pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 27043
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1452",
+            "technique": "Silver",
+            "location": "Museo dell\"\"Opera del Duomo Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/st_john.html",
+            "form": "metalwork",
+            "painting_type": "religious",
+            "index": 27044
+        },
+        {
+            "title": "View of the Chapel of the Crucifixion",
+            "date": "-",
+            "technique": "Marble",
+            "location": "San Miniato al Monte Florence",
+            "url": "https://www.wga.hu/html/m/micheloz/2/zminiato.html",
+            "form": "sculpture",
+            "painting_type": "interior",
+            "index": 27045
+        }
+    ]
+}

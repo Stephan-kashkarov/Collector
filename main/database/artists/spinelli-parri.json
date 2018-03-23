@@ -1,0 +1,28 @@
+{
+    "name": "SPINELLI Parri",
+    "life": "(b. 1387 Arezzo d. 1453 Arezzo)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Madonna of Mercy",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzo della Fraternit\u00e0 dei Laici",
+            "url": "https://www.wga.hu/html/s/spinello/parri/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37784
+        },
+        {
+            "title": "Navicella",
+            "date": "c. 1400",
+            "technique": "Pen on paper 274 x 388 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/spinello/parri/navicell.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37785
+        }
+    ]
+}

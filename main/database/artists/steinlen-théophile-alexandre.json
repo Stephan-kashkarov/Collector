@@ -1,0 +1,38 @@
+{
+    "name": "STEINLEN Th\u00e9ophile Alexandre",
+    "life": "(b. 1859 Lausanne d. 1923 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Entourage",
+            "date": "1895",
+            "technique": "Charcoal with stumping and touches of pastel on tan wove paper 357 x 275 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/s/steinlen/entourag.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 38002
+        },
+        {
+            "title": "A Smoking Officer",
+            "date": "-",
+            "technique": "Watercolour 330 x 200 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/steinlen/smoking.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 38003
+        },
+        {
+            "title": "La Traite des Blanches",
+            "date": "1899",
+            "technique": "Lithograph in olive red yellow and black on cream wove paper 795 x 576 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/s/steinlen/traite.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 38004
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "GIBSON Thomas",
+    "life": "(b. ca. 1680 London d. 1751 London)",
+    "school": "English",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of a Girl Feeding a Deer",
+            "date": "-",
+            "technique": "Oil on canvas 127 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gibson_t/girlfeed.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15773
+        },
+        {
+            "title": "Portrait of Lewis Christian Austin Granom",
+            "date": "1743",
+            "technique": "Oil on canvas 91 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/gibson_t/granom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15774
+        }
+    ]
+}

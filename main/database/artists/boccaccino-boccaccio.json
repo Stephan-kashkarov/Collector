@@ -1,0 +1,138 @@
+{
+    "name": "BOCCACCINO Boccaccio",
+    "life": "(b. ca. 1460 Ferrara d. 1525 Cremona)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Christ in Majesty with the Patron Saints of Cremona",
+            "date": "1506",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4804
+        },
+        {
+            "title": "Annunciation to Mary",
+            "date": "c. 1516",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4805
+        },
+        {
+            "title": "Annunciation to Joachim",
+            "date": "1514-15",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4806
+        },
+        {
+            "title": "Meeting at the Golden Gate",
+            "date": "1514-15",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4807
+        },
+        {
+            "title": "Birth of Mary",
+            "date": "1514-15",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4808
+        },
+        {
+            "title": "Betrothal of Mary",
+            "date": "1514-15",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/1/cremona6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4809
+        },
+        {
+            "title": "Gypsy Girl",
+            "date": "1516-18",
+            "technique": "Oil on panel 24 x 19 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/gypsy_g.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4810
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1500-05",
+            "technique": "Oil and tempera on panel 81 x 62 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/virchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4811
+        },
+        {
+            "title": "Virgin and Child with Saints and a Donor",
+            "date": "-",
+            "technique": "Oil on panel 71 x 107 cm",
+            "location": "Birmingham Museum and Art Gallery Birmingham",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/virdonor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4812
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1510s",
+            "technique": "Oil on panel",
+            "location": "Muzeul National de Arta Bucharest",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4813
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1505",
+            "technique": "Oil on panel 47 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4814
+        },
+        {
+            "title": "Virgin and Child with Saints",
+            "date": "c. 1505",
+            "technique": "Panel 87 x 143 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/virsaint.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4815
+        },
+        {
+            "title": "Liber Iesus",
+            "date": "1496-98",
+            "technique": "Manuscript (Ms. 2163) 196 x 138 mm",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/b/boccacci/boccacci/2/zillumin.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 4816
+        }
+    ]
+}

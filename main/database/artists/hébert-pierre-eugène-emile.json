@@ -1,0 +1,28 @@
+{
+    "name": "H\u00c9BERT Pierre-Eug\u00e8ne-Emile",
+    "life": "(b. 1828 Paris d. 1893 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Amazon Preparing for Battle",
+            "date": "1660s",
+            "technique": "Bronze height 65 cm",
+            "location": "National Gallery o Art Washington",
+            "url": "https://www.wga.hu/html/h/hebert/son/amazon.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 19392
+        },
+        {
+            "title": "Bellerophon",
+            "date": "-",
+            "technique": "Bronze height 118 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hebert/son/bellerop.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 19393
+        }
+    ]
+}

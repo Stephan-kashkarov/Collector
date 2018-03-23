@@ -1,0 +1,28 @@
+{
+    "name": "LUTTICHUIJS Isaac",
+    "life": "(b. 1616 London d. 1673 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Portrait of a Young Man",
+            "date": "-",
+            "technique": "Oil on panel 27 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luttichu/isaac/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23492
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1657",
+            "technique": "Oil on canvas 81 x 104 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/luttichu/isaac/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23493
+        }
+    ]
+}

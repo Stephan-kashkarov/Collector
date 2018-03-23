@@ -1,0 +1,28 @@
+{
+    "name": "LOMBARDI Giovanni Domenico",
+    "life": "(b. 1682 Lucca d. 1751 Lucca)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Concert with Two Singers",
+            "date": "-",
+            "technique": "Oil on canvas 109 x 160 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lombardj/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22824
+        },
+        {
+            "title": "Interior of a Palace with Elegant Figures",
+            "date": "-",
+            "technique": "Oil on canvas 102 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lombardj/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 22825
+        }
+    ]
+}

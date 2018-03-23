@@ -1,0 +1,428 @@
+{
+    "name": "PARMIGIANINO",
+    "life": "(b. 1503 Parma d. 1540 Casal Maggiore)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of a Young Lady",
+            "date": "c. 1535",
+            "technique": "Oil on canvas 139 x 88 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/p/parmigia/1/antea.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30399
+        },
+        {
+            "title": "The Conversion of St Paul",
+            "date": "-",
+            "technique": "Oil on canvas 1775 x 1285 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/parmigia/1/conversi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30400
+        },
+        {
+            "title": "Self-Portrait in a Convex Mirror",
+            "date": "c. 1524",
+            "technique": "Oil on wood diameter 244 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/parmigia/1/convex.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30401
+        },
+        {
+            "title": "Cupid",
+            "date": "1523-24",
+            "technique": "Oil on wood 135 x 653 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/parmigia/1/cupid.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30402
+        },
+        {
+            "title": "Rest on the Flight to Egypt",
+            "date": "1524",
+            "technique": "Oil on panel 110 x 89 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/parmigia/1/egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30403
+        },
+        {
+            "title": "Gian Galeazzo Sanvitale Count of Fontanellato",
+            "date": "1524",
+            "technique": "Oil on panel 109 x 81 cm",
+            "location": "Pinacoteca Museo Nazionale Naples",
+            "url": "https://www.wga.hu/html/p/parmigia/1/galeazzo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30404
+        },
+        {
+            "title": "Madonna dal Collo Lungo (Madonna with Long Neck)",
+            "date": "1534-40",
+            "technique": "Oil on panel 216 x 132 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/parmigia/1/longneck.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30405
+        },
+        {
+            "title": "Madonna and Child with Saints",
+            "date": "c. 1530",
+            "technique": "Oil on wood 755 x 60 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/parmigia/1/mad_sain.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30406
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "c. 1525",
+            "technique": "Oil on panel (arched) 588 x 341 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/p/parmigia/1/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30407
+        },
+        {
+            "title": "The Mystic Marriage of St Catherine",
+            "date": "c. 1527",
+            "technique": "Oil on wood 21 x 27 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/parmigia/1/mysticma.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30408
+        },
+        {
+            "title": "Pallas Athene",
+            "date": "c. 1539",
+            "technique": "Oil on canvas 638 x 451 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/p/parmigia/1/pallas_a.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30409
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1528-30",
+            "technique": "Oil on wood 52 x 42 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/parmigia/1/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30410
+        },
+        {
+            "title": "Portrait of a Youth",
+            "date": "1520s",
+            "technique": "Oil on wood 59 x 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/parmigia/1/port_you.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30411
+        },
+        {
+            "title": "Portrait of Lorenzo Cybo",
+            "date": "1523",
+            "technique": "Oil on canvas 127 x 105 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/p/parmigia/1/portcybo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30412
+        },
+        {
+            "title": "Decoration of the under-arch above the main altar",
+            "date": "1530s",
+            "technique": "Fresco",
+            "location": "Madonna della Steccata Parma",
+            "url": "https://www.wga.hu/html/p/parmigia/1/steccata.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30413
+        },
+        {
+            "title": "Three Foolish Virgins Flanked by Moses and Adam",
+            "date": "1531-39",
+            "technique": "Fresco",
+            "location": "Madonna della Steccata Parma",
+            "url": "https://www.wga.hu/html/p/parmigia/1/steccatd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30414
+        },
+        {
+            "title": "The Vision of St Jerome",
+            "date": "1527",
+            "technique": "Oil on panel 343 x 149 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/parmigia/1/v_jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30415
+        },
+        {
+            "title": "Virgin and Child with an Angel",
+            "date": "c. 1523",
+            "technique": "Oil on panel 26 x 19 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/p/parmigia/1/virgin_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30416
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1525-27",
+            "technique": "Oil on panel",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/p/parmigia/1/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30417
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca0.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30418
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30419
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30420
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30421
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30422
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30423
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca6.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30424
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca7.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30425
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1523-24",
+            "technique": "Fresco",
+            "location": "Rocca Sanvitale Fontanellato",
+            "url": "https://www.wga.hu/html/p/parmigia/2/rocca8.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30426
+        },
+        {
+            "title": "Three studies of a putti (verso)",
+            "date": "1523-24",
+            "technique": "Black and red chalk 157 x 156 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/p/parmigia/2/study1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30427
+        },
+        {
+            "title": "Three studies of a putti (recto)",
+            "date": "1523-24",
+            "technique": "Pen and brown ink over red chalk on paper 157 x 156 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/p/parmigia/2/study2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30428
+        },
+        {
+            "title": "Sketch for a wall decoration (recto)",
+            "date": "1523-24",
+            "technique": "Pen and red chalk 171 x 236 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/parmigia/2/study3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30429
+        },
+        {
+            "title": "Sketch for a wall decoration (verso)",
+            "date": "1523-24",
+            "technique": "Pen and red chalk 171 x 236 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/parmigia/2/study4.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30430
+        },
+        {
+            "title": "Circe and the Companions of Ulysses",
+            "date": "c. 1527",
+            "technique": "Black pencil pen and brown ink and wash white lead on white paper 230 x 279 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/parmigia/3/circe.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 30431
+        },
+        {
+            "title": "Deposition",
+            "date": "-",
+            "technique": "Etching (2nd condition) 331 x 240 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/p/parmigia/3/deposi.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 30432
+        },
+        {
+            "title": "Judith",
+            "date": "1524-30",
+            "technique": "Etching 152 x 91 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/parmigia/3/judith.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 30433
+        },
+        {
+            "title": "Lovers",
+            "date": "c. 1528",
+            "technique": "Etching with engraving and drypoint 147 x 103 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/parmigia/3/lovers.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 30434
+        },
+        {
+            "title": "Study of drapery",
+            "date": "-",
+            "technique": "Brush grey ink heightened with white over red chalk 230 x 100 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30435
+        },
+        {
+            "title": "Two Women and a Child",
+            "date": "-",
+            "technique": "Pen and brown ink 154 x 119 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30436
+        },
+        {
+            "title": "An Evangelist or a Prophet",
+            "date": "-",
+            "technique": "Pen and brown ink with brown wash heightened with white on light brown prepared paper 265 x 198 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies3.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30437
+        },
+        {
+            "title": "Four seated figures",
+            "date": "-",
+            "technique": "Pen and brown ink 195 x 228 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies4.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30438
+        },
+        {
+            "title": "Study of legs",
+            "date": "-",
+            "technique": "Red chalk 77 x 65 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies5.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30439
+        },
+        {
+            "title": "An eagle",
+            "date": "-",
+            "technique": "Red chalk 136 x 105 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/parmigia/3/studies6.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 30440
+        }
+    ]
+}

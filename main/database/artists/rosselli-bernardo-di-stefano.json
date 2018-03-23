@@ -1,0 +1,38 @@
+{
+    "name": "ROSSELLI Bernardo di Stefano",
+    "life": "(b. ca. 1450 Firenze d. ca. 1526 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Madonna della Cintola",
+            "date": "1484",
+            "technique": "Tempera on wood panel 163 x 150 cm",
+            "location": "University Art Museum Princeton",
+            "url": "https://www.wga.hu/html/r/rosselli/bernardo/cintola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35144
+        },
+        {
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Tempera on panel arched top 71 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/rosselli/bernardo/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35145
+        },
+        {
+            "title": "Virgin and Child with an Angel",
+            "date": "1477-80",
+            "technique": "Tempera on panel 58 x 45 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/r/rosselli/bernardo/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35146
+        }
+    ]
+}

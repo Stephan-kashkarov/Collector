@@ -1,0 +1,58 @@
+{
+    "name": "VOORT Michiel van der the Elder",
+    "life": "(b. 1667 Antwerpen d. 1737 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bust of Jacobus Franciscus van Caverson",
+            "date": "c. 1713",
+            "technique": "Marble height 847 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/v/voort/caverson.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 43519
+        },
+        {
+            "title": "Pulpit",
+            "date": "1723",
+            "technique": "Wood",
+            "location": "Saint Rombout Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/v/voort/pulpit.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43520
+        },
+        {
+            "title": "Pulpit",
+            "date": "1713",
+            "technique": "Oak",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/v/voort/pulpit_a.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43521
+        },
+        {
+            "title": "Pulpit (rear view)",
+            "date": "1723",
+            "technique": "Wood",
+            "location": "Saint Rombout Cathedral Mechelen",
+            "url": "https://www.wga.hu/html/v/voort/pulpit1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43522
+        },
+        {
+            "title": "Pulpit",
+            "date": "1723",
+            "technique": "Wood",
+            "location": "Stadsmuseum Mechelen",
+            "url": "https://www.wga.hu/html/v/voort/pulpit2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43523
+        }
+    ]
+}

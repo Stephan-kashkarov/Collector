@@ -1,0 +1,38 @@
+{
+    "name": "STEINL Matthias",
+    "life": "(b. ca. 1644 Salzburg d. 1727 Dorotheerhof)",
+    "school": "Austrian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Immaculate Conception (front and rear views)",
+            "date": "1688",
+            "technique": "Wood once gilded height 93 cm",
+            "location": "Liebighaus Frankfurt",
+            "url": "https://www.wga.hu/html/s/steinl/immacula.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 37996
+        },
+        {
+            "title": "Exterior view",
+            "date": "1703-24",
+            "technique": "Photo",
+            "location": "Parish church Laxenburg",
+            "url": "https://www.wga.hu/html/s/steinl/laxenbu1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37997
+        },
+        {
+            "title": "Interior view",
+            "date": "1703-24",
+            "technique": "Photo",
+            "location": "Parish church Laxenburg",
+            "url": "https://www.wga.hu/html/s/steinl/laxenbu2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 37998
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "MAINO Fray Juan Bautista",
+    "life": "(b. 1581 Pastrana d. 1649 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1612",
+            "technique": "Oil on canvas 315 x 174 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/maino/1adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23692
+        },
+        {
+            "title": "Adoration of the Kings",
+            "date": "1612",
+            "technique": "Oil on canvas 315 x 174 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/maino/2adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23693
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1613",
+            "technique": "Oil on canvas 144 x 101 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/maino/3adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23694
+        },
+        {
+            "title": "The Recapture of Bahia in 1625",
+            "date": "1634-35",
+            "technique": "Oil on canvas 309 x 381 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/m/maino/recovery.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23695
+        }
+    ]
+}

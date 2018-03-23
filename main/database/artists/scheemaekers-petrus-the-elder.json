@@ -1,0 +1,28 @@
+{
+    "name": "SCHEEMAEKERS Petrus the Elder",
+    "life": "(b. 1652 Antwerpen d. 1714 Arendonk)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Memorial of the Van Delft and Keurlinckx Families",
+            "date": "1688",
+            "technique": "White red and black marble",
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "url": "https://www.wga.hu/html/s/scheemae/memorial.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36572
+        },
+        {
+            "title": "Predella",
+            "date": "1700",
+            "technique": "Marble",
+            "location": "Sint-Jacobskerk Antwerp",
+            "url": "https://www.wga.hu/html/s/scheemae/predella.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36573
+        }
+    ]
+}

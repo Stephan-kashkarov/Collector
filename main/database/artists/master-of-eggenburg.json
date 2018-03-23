@@ -1,0 +1,48 @@
+{
+    "name": "MASTER of Eggenburg",
+    "life": "(active 1475-1500 in Lower Austria)",
+    "school": "Austrian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St Adalbert and St Procopius (exterior)",
+            "date": "1490s",
+            "technique": "Oil and gold on spruce panel 71 x 45 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/eggenbur/wencesl1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24744
+        },
+        {
+            "title": "The Burial of St Wenceslas (interior)",
+            "date": "1490s",
+            "technique": "Oil and gold on spruce panel 71 x 45 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/m/master/eggenbur/wencesl2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24745
+        },
+        {
+            "title": "St James Minor and St Vitus",
+            "date": "1490s",
+            "technique": "Oil on spruce panel 69 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/eggenbur/wencesl3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24746
+        },
+        {
+            "title": "St Wenceslas and St Ludmilla",
+            "date": "1490s",
+            "technique": "Oil on spruce panel 69 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/master/eggenbur/wencesl4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24747
+        }
+    ]
+}

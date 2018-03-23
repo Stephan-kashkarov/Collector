@@ -1,0 +1,98 @@
+{
+    "name": "SANSOVINO Andrea",
+    "life": "(b. ca. 1467 Monte Sansovino d. 1529 Monte Sansovino)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "1522",
+            "technique": "Marble",
+            "location": "Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/adoratio.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36225
+        },
+        {
+            "title": "Annunciation",
+            "date": "c. 1522",
+            "technique": "Marble",
+            "location": "Santa Casa Loreto",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/annuncia.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36226
+        },
+        {
+            "title": "Baptism of Christ",
+            "date": "1502-05",
+            "technique": "Marble 282 and 260 cm with bases",
+            "location": "Baptistry Florence",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/baptism.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36227
+        },
+        {
+            "title": "The Night and the Chariot of the Sun",
+            "date": "1490s",
+            "technique": "Glazed terracotta 58 x 90 cm",
+            "location": "Villa Medici Poggio a Caiano",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/chariot.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36228
+        },
+        {
+            "title": "Madonna and Child with St Anne",
+            "date": "1512",
+            "technique": "Marble",
+            "location": "Sant'Agostino Rome",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36229
+        },
+        {
+            "title": "Madonna and Child with St Anne",
+            "date": "1512",
+            "technique": "Marble",
+            "location": "Sant'Agostino Rome",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/madonnb.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36230
+        },
+        {
+            "title": "Tomb of Girolamo Basso della Rovere",
+            "date": "1505-07",
+            "technique": "Marble",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/rovere.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36231
+        },
+        {
+            "title": "Monument of Ascanio Sforza",
+            "date": "1505-07",
+            "technique": "Marble",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/sforza.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 36232
+        },
+        {
+            "title": "Monument of Ascanio Sforza (detail)",
+            "date": "1505-07",
+            "technique": "Marble",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/s/sansovin/andrea/sforza1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 36233
+        }
+    ]
+}

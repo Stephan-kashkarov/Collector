@@ -1,0 +1,48 @@
+{
+    "name": "ROKOTOV Fyodor",
+    "life": "(b. ca. 1735 near Moscow d. 1808 Moscow)",
+    "school": "Russian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of Catherine II",
+            "date": "1780s",
+            "technique": "Oil on canvas 26 x 19 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rokotov/catherin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34845
+        },
+        {
+            "title": "Portrait of Emperor Paul I as a Child",
+            "date": "1761",
+            "technique": "Oil on canvas",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rokotov/paul_1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34846
+        },
+        {
+            "title": "Portrait of Count Ivan Shuvalov",
+            "date": "1760",
+            "technique": "Oil on canvas 64 x 50 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rokotov/shuvalov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34847
+        },
+        {
+            "title": "Alexandra Struyskaya",
+            "date": "1772",
+            "technique": "Oil on canvas",
+            "location": "Tratyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/r/rokotov/struyska.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34848
+        }
+    ]
+}

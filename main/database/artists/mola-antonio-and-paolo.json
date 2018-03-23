@@ -1,0 +1,38 @@
+{
+    "name": "MOLA Antonio and Paolo",
+    "life": "(known from 1489 died 1532 and 1545)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Musical instruments",
+            "date": "c. 1505",
+            "technique": "Wood intarsia",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/m/mola_ap/musical1.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 28381
+        },
+        {
+            "title": "Musical instruments",
+            "date": "c. 1505",
+            "technique": "Wood intarsia",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/m/mola_ap/musical2.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 28382
+        },
+        {
+            "title": "Perspective vista",
+            "date": "c. 1505",
+            "technique": "Wood intarsia",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/m/mola_ap/vista.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 28383
+        }
+    ]
+}

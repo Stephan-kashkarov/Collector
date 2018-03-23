@@ -1,0 +1,68 @@
+{
+    "name": "LOCATELLI Andrea",
+    "life": "(b. 1695 Roma d. 1741 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Market in the Piazza Navona in Rome",
+            "date": "1733",
+            "technique": "Oil on copper 73 x 93 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/l/locatell/1market.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22779
+        },
+        {
+            "title": "Figures in a Landscape",
+            "date": "-",
+            "technique": "Oil on board on canvas 27 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/locatell/figures.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22780
+        },
+        {
+            "title": "A Faun and a Nymph Reclining in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 41 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/locatell/landfaun.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22781
+        },
+        {
+            "title": "Landscape with Mercury and Argus",
+            "date": "-",
+            "technique": "Oil on canvas 95 x 170 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/locatell/landmerc.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22782
+        },
+        {
+            "title": "Landscape in Lazio with a Well",
+            "date": "-",
+            "technique": "Oil on canvas 58 x 110 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/locatell/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 22783
+        },
+        {
+            "title": "Mercury and Argus",
+            "date": "-",
+            "technique": "Oil on canvas 63 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/locatell/mercury.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22784
+        }
+    ]
+}

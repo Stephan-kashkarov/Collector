@@ -1,0 +1,818 @@
+{
+    "name": "BRUEGHEL Jan the Elder",
+    "life": "(b. ca. 1568 Bruxelles d. 1625 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Air (Optics)",
+            "date": "1621",
+            "technique": "Oil on copper 45 x 65 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/air.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6548
+        },
+        {
+            "title": "The Animals Entering the Ark",
+            "date": "1615",
+            "technique": "Oil on copper 255 x 37 cm",
+            "location": "Wellington Museum Apsley House London",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/animals.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6549
+        },
+        {
+            "title": "The Caravan",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 24 x 35 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/caravan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6550
+        },
+        {
+            "title": "Coastal Landscape",
+            "date": "1610s",
+            "technique": "Oil on panel 45 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6551
+        },
+        {
+            "title": "The Earthly Paradise",
+            "date": "-",
+            "technique": "Oil on panel 59 x 41 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/earthly.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6552
+        },
+        {
+            "title": "Earth (The Earthly Paradise)",
+            "date": "1607-08",
+            "technique": "Oil on copper 45 x 65 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/earthly1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6553
+        },
+        {
+            "title": "Fair at a Riverside Village",
+            "date": "c. 1614",
+            "technique": "Oil on canvas 54 x 93 cm",
+            "location": "Vizovice Castle Czech Republic",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/fairrive.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6554
+        },
+        {
+            "title": "Great Fish-Market",
+            "date": "1603",
+            "technique": "Oil on panel 59 x 92 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/fishmark.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6555
+        },
+        {
+            "title": "A Flemish Fair",
+            "date": "1610s",
+            "technique": "Oil on copper 476 x 686 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/fl_fair1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6556
+        },
+        {
+            "title": "A Flemish Fair (detail)",
+            "date": "1610s",
+            "technique": "Oil on copper",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/fl_fair2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6557
+        },
+        {
+            "title": "A Flemish Fair (detail)",
+            "date": "1610s",
+            "technique": "Oil on copper",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/fl_fair3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6558
+        },
+        {
+            "title": "Going to the Market",
+            "date": "1603",
+            "technique": "Copperplate 185 x 255 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/g_market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6559
+        },
+        {
+            "title": "Garden of Eden",
+            "date": "1612",
+            "technique": "Oil on copper 503 x 801 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/garden_e.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6560
+        },
+        {
+            "title": "Gathering of Gypsies in the Wood",
+            "date": "-",
+            "technique": "Oil on panel 35 x 43 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/gatherin.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6561
+        },
+        {
+            "title": "Guards in a Forest Clearing",
+            "date": "1607",
+            "technique": "Oil on oak 33 x 42 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/guards_f.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6562
+        },
+        {
+            "title": "Landscape with Hunters",
+            "date": "1594-95",
+            "technique": "Oil on copper 24 x 36 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Nantes",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/hunters.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6563
+        },
+        {
+            "title": "The Battle of Issus",
+            "date": "1602",
+            "technique": "Oil on wood 86 x 135 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/issus.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 6564
+        },
+        {
+            "title": "Orpheus in the Underworld",
+            "date": "1594",
+            "technique": "Oil on copper 27 x 36 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/orpheus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6565
+        },
+        {
+            "title": "Panoramic Landscape with Travellers",
+            "date": "c. 1610",
+            "technique": "Oil on copper 22 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/panoram.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6566
+        },
+        {
+            "title": "Panoramic Landscape with Travellers (detail)",
+            "date": "c. 1610",
+            "technique": "Oil on copper",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/panoram1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6567
+        },
+        {
+            "title": "Woodland Road with Wagon and Travelers",
+            "date": "1609",
+            "technique": "Oil on copper mounted on panel 9 x 15 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/panorama.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6568
+        },
+        {
+            "title": "The Garden of Eden with the Fall of Man",
+            "date": "c. 1615",
+            "technique": "Oil on panel 74 x 115 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradis0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6569
+        },
+        {
+            "title": "The Garden of Eden with the Fall of Man",
+            "date": "1616",
+            "technique": "Oil on copper 24 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradis1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6570
+        },
+        {
+            "title": "The Garden of Eden with the Fall of Man (detail)",
+            "date": "1616",
+            "technique": "Oil on copper",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradis2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6571
+        },
+        {
+            "title": "The Original Sin",
+            "date": "1616",
+            "technique": "Oil on wood 52 x 835 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradise.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6572
+        },
+        {
+            "title": "The Original Sin (detail)",
+            "date": "1616",
+            "technique": "Oil on wood 52 x 835 cm (full painting)",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradisx.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6573
+        },
+        {
+            "title": "Paradise Landscape with the Animals Entering Noah's Ark",
+            "date": "1596",
+            "technique": "Oil on copper 27 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/paradlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6574
+        },
+        {
+            "title": "River Landscape with Lumbermen",
+            "date": "1608",
+            "technique": "Oil on panel 47 x 46 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6575
+        },
+        {
+            "title": "River Landscape",
+            "date": "1602-03",
+            "technique": "Oil on copper 18 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/river_lb.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6576
+        },
+        {
+            "title": "Spring",
+            "date": "1618-19",
+            "technique": "Oil on canvas 129 x 189 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/spring.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6577
+        },
+        {
+            "title": "Travellers on the Way",
+            "date": "-",
+            "technique": "Oil on copper 22 x 30 cm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6578
+        },
+        {
+            "title": "Travellers on the Way (detail)",
+            "date": "-",
+            "technique": "Oil on copper",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6579
+        },
+        {
+            "title": "Extensive Landscape with Travellers on a Road",
+            "date": "1608",
+            "technique": "Oil on copper 18 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6580
+        },
+        {
+            "title": "Country Landscape with Travellers",
+            "date": "-",
+            "technique": "Oil on copper 13 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6581
+        },
+        {
+            "title": "Landscape with Peasants and Livestock",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel4.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6582
+        },
+        {
+            "title": "Landscape with Peasants and Livestock (detail)",
+            "date": "-",
+            "technique": "Oil on panel",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/travel4a.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6583
+        },
+        {
+            "title": "Village Scene with Figures and Cows",
+            "date": "1609",
+            "technique": "Oil on copper 11 x 17 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/villages.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6584
+        },
+        {
+            "title": "Wedding Banquet",
+            "date": "-",
+            "technique": "Oil on canvas 84 x 126 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/wedding.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6585
+        },
+        {
+            "title": "Landscape with Windmills",
+            "date": "c. 1607",
+            "technique": "Oil on panel 34 x 50 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/windmill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6586
+        },
+        {
+            "title": "Wooded Landscape with Figures Crossing a Bridge",
+            "date": "1598-1600",
+            "technique": "Oil on oak panel circular diameter 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/wooded.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6587
+        },
+        {
+            "title": "Landscape with Tobias and the Angel",
+            "date": "c. 1595",
+            "technique": "Pen brush brown blue ink 202 x 313 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/z_lands1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 6588
+        },
+        {
+            "title": "Winter Landscape with Travellers",
+            "date": "c. 1561",
+            "technique": "Brush pen brown ink wash heightened with white on blue paper 136 x 216 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/z_lands2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 6589
+        },
+        {
+            "title": "Villagers on their Way to Market",
+            "date": "1615-19",
+            "technique": "Ink on paper 168 x 284 mm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/1/z_villag.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 6590
+        },
+        {
+            "title": "The Sense of Hearing",
+            "date": "1618",
+            "technique": "Oil on panel 65 x 107 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6591
+        },
+        {
+            "title": "The Sense of Hearing (detail)",
+            "date": "1618",
+            "technique": "Oil on panel",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense11.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6592
+        },
+        {
+            "title": "The Sense of Hearing (detail)",
+            "date": "1618",
+            "technique": "Oil on panel",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense12.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6593
+        },
+        {
+            "title": "The Sense of Sight",
+            "date": "1618",
+            "technique": "Oil on panel 65 x 109 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6594
+        },
+        {
+            "title": "The Sense of Sight (detail)",
+            "date": "1618",
+            "technique": "Oil on panel",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense21.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6595
+        },
+        {
+            "title": "The Sense of Sight (detail)",
+            "date": "1618",
+            "technique": "Oil on panel",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense22.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6596
+        },
+        {
+            "title": "The Sense of Taste",
+            "date": "1618",
+            "technique": "Oil on panel 64 x 108 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6597
+        },
+        {
+            "title": "The Sense of Touch",
+            "date": "1618",
+            "technique": "Oil on panel 65 x 110 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6598
+        },
+        {
+            "title": "The Sense of Smell",
+            "date": "1618",
+            "technique": "Oil on panel 65 x 109 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense5.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6599
+        },
+        {
+            "title": "Allegory of Sight and Smell",
+            "date": "-",
+            "technique": "Oil on canvas 175 x 263 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense61.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6600
+        },
+        {
+            "title": "The Senses of Hearing Touch and Taste",
+            "date": "1618",
+            "technique": "Oil on panel 176 x 264 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/5sense62.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 6601
+        },
+        {
+            "title": "Adam and Eve in the Garden of Eden",
+            "date": "1610s",
+            "technique": "Oil on copper 486 x 656 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/adam_eve.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6602
+        },
+        {
+            "title": "Rest on the Flight to Egypt detail",
+            "date": "1607",
+            "technique": "Oil on wood",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/egypt.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6603
+        },
+        {
+            "title": "Christ in the Storm on the Sea of Galilee",
+            "date": "c. 1596",
+            "technique": "Oil on copper 27 x 35 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/galilee.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6604
+        },
+        {
+            "title": "The Holy Family",
+            "date": "c. 1623",
+            "technique": "Oil on panel 935 x 72 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6605
+        },
+        {
+            "title": "St John Preaching in the Wilderness",
+            "date": "c. 1600",
+            "technique": "Oil on copper 26 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/preachin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6606
+        },
+        {
+            "title": "Monkeys Feasting",
+            "date": "1621",
+            "technique": "Oil on copper 27 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/singerie.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6607
+        },
+        {
+            "title": "The Vision of St Hubert",
+            "date": "1615-30",
+            "technique": "Oil on panel 63 x 100 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/sthubert.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6608
+        },
+        {
+            "title": "St Martin",
+            "date": "-",
+            "technique": "Oil on copper 22 x 31 cm",
+            "location": "The Lobkowicz Collections Nelahozeves Castle Czech Republic",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/stmartin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6609
+        },
+        {
+            "title": "St Martin (detail)",
+            "date": "-",
+            "technique": "Oil on copper",
+            "location": "The Lobkowicz Collections Nelahozeves Castle Czech Republic",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/stmartix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6610
+        },
+        {
+            "title": "Temptation of St Anthony",
+            "date": "-",
+            "technique": "Oil on copperplate 209 x 29 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/temptati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6611
+        },
+        {
+            "title": "Landscape with the Young Tobias",
+            "date": "1598",
+            "technique": "Oil on copper 36 x 55 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/tobias.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6612
+        },
+        {
+            "title": "Landscape with the Young Tobias (detail)",
+            "date": "1598",
+            "technique": "Oil on copper",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/2/tobias1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6613
+        },
+        {
+            "title": "Vase of Flowers with Jewellery Coins and Shells",
+            "date": "1606",
+            "technique": "Oil on copper 65 x 45 cm",
+            "location": "Pinacoteca Ambrosiana Milan",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/bouquet.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6614
+        },
+        {
+            "title": "Bouquet of Flowers",
+            "date": "1609-15",
+            "technique": "Oil on oak 64 x 59 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/bouquet1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6615
+        },
+        {
+            "title": "Bouquet",
+            "date": "1603",
+            "technique": "Wood 125 x 96 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6616
+        },
+        {
+            "title": "Flowers",
+            "date": "-",
+            "technique": "Oil on panel 49 x 39 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6617
+        },
+        {
+            "title": "The Great Bouquet",
+            "date": "1607",
+            "technique": "Oil on wood 98 x 73 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6618
+        },
+        {
+            "title": "The Great Bouquet (detail)",
+            "date": "1607",
+            "technique": "Oil on wood",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers21.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6619
+        },
+        {
+            "title": "Bouquet in a Clay Vase",
+            "date": "1599-1607",
+            "technique": "Oil on wood 51 x 40 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6620
+        },
+        {
+            "title": "Flowers in a Vase",
+            "date": "-",
+            "technique": "Oil on panel 101 x 76 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers4.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6621
+        },
+        {
+            "title": "Bouquet of Flowers",
+            "date": "-",
+            "technique": "Oil on oak panel 67 x 51 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers5.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6622
+        },
+        {
+            "title": "Bouquet of Flowers (detail)",
+            "date": "-",
+            "technique": "Oil on oak panel",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers6.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6623
+        },
+        {
+            "title": "Bouquet in a Clay Vase",
+            "date": "1607-08",
+            "technique": "Oil on panel 66 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers7.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6624
+        },
+        {
+            "title": "Bouquet of Flowers",
+            "date": "c. 1610",
+            "technique": "Oil on copper oval 9 x 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers8.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6625
+        },
+        {
+            "title": "Still-Life of Flowers in a Stoneware Vase",
+            "date": "1606-10",
+            "technique": "Oil on oak panel 67 x 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/flowers9.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6626
+        },
+        {
+            "title": "Still-Life with Garland of Flowers and Golden Tazza",
+            "date": "1618",
+            "technique": "Oil on wood 475 x 525 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/goldenta.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 6627
+        },
+        {
+            "title": "Virgin and Child Surrounded by Flowers and Fruit",
+            "date": "-",
+            "technique": "Oil on panel 79 x 65 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/jan_e/flowers/virgflow.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6628
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+{
+    "name": "BRUEGHEL Pieter the Younger",
+    "life": "(b. 1564 Bruxelles d. 1638 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1600",
+            "technique": "Oil on panel 38 x 56 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6646
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "-",
+            "technique": "Oil on canvas 36 x 56 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/adoratim.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6647
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "-",
+            "technique": "Tempera on oak panel 39 x 555 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6648
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "-",
+            "technique": "Tempera on oak panel",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/adoratip.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6649
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "-",
+            "technique": "Tempera on oak panel",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/adoratir.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6650
+        },
+        {
+            "title": "Winter Landscape with a Bird-trap",
+            "date": "-",
+            "technique": "Oil on panel 40 x 57 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/birdtrap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6651
+        },
+        {
+            "title": "The Bird Trap",
+            "date": "-",
+            "technique": "Oil on panel 46 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/birdtrax.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6652
+        },
+        {
+            "title": "The Bird Trap",
+            "date": "-",
+            "technique": "Oil on panel 38 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/birdtray.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6653
+        },
+        {
+            "title": "Battle of Carnival and Lent",
+            "date": "-",
+            "technique": "Oil on wood 1213 x 1715 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/carnival.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6654
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1617",
+            "technique": "Oil on wood 82 x 123 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6655
+        },
+        {
+            "title": "Village Street with Dancing Peasants",
+            "date": "1626-28",
+            "technique": "Oil on panel 41 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/dancing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6656
+        },
+        {
+            "title": "Massacre of the Innocents",
+            "date": "1610s",
+            "technique": "Oil on panel transferred to canvas 115 x 164 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/innocent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6657
+        },
+        {
+            "title": "The Kermesse of St George",
+            "date": "1628",
+            "technique": "Oil on oak panel 117 x 176 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/kermesse.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6658
+        },
+        {
+            "title": "Peasants Greeting One Another",
+            "date": "1600-10",
+            "technique": "Oil on panel 11 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/panel1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6659
+        },
+        {
+            "title": "Two Monks in front of an Inn",
+            "date": "1600-10",
+            "technique": "Oil on panel 11 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/panel2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6660
+        },
+        {
+            "title": "Two Peasant Couples",
+            "date": "1600-10",
+            "technique": "Oil on panel 11 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/panel3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6661
+        },
+        {
+            "title": "The Peasants' Brawl",
+            "date": "1620s",
+            "technique": "Oil on panel 97 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/peasant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6662
+        },
+        {
+            "title": "The Peasants' Brawl (detail)",
+            "date": "1620s",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/peasant1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6663
+        },
+        {
+            "title": "Village Street with Peasants Dancing",
+            "date": "1627-29",
+            "technique": "Oil on oak panel 41 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/peasantd.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6664
+        },
+        {
+            "title": "Peasants Making Merry outside a Tavern 'The Swan'",
+            "date": "c. 1630",
+            "technique": "Oil on oak panel 55 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/peasants.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6665
+        },
+        {
+            "title": "Peasants Warming Themselves beside a Hearth",
+            "date": "1610s",
+            "technique": "Oil on panel 24 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/peasantw.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6666
+        },
+        {
+            "title": "Proverbs",
+            "date": "-",
+            "technique": "Oil on canvas 123 x 164 cm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6667
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6668
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6669
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6670
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb4.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6671
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb5.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6672
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb6.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6673
+        },
+        {
+            "title": "Proverbs (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/proverb7.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6674
+        },
+        {
+            "title": "The Seven Acts of Mercy",
+            "date": "after 1616",
+            "technique": "Oil on panel 42 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/sevenact.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 6675
+        },
+        {
+            "title": "Spring",
+            "date": "-",
+            "technique": "Oil on panel 42 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/spring.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6676
+        },
+        {
+            "title": "Summer: Figures Eating during the Summer Harvest",
+            "date": "1600",
+            "technique": "Oil on panel 60 x 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/summer.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6677
+        },
+        {
+            "title": "Summer: Figures Eating during the Summer Harvest (detail)",
+            "date": "1600",
+            "technique": "Oil on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/summer1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6678
+        },
+        {
+            "title": "Summer: Harvest Time",
+            "date": "-",
+            "technique": "Oil on panel 52 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/summer2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6679
+        },
+        {
+            "title": "The Creek",
+            "date": "-",
+            "technique": "Tempera on oak panel diameter 165 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/thecreek.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 6680
+        },
+        {
+            "title": "Twelfth Night",
+            "date": "c. 1619",
+            "technique": "Oil on oak panel 74 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/twelfth.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6681
+        },
+        {
+            "title": "Village Lawyer's Office",
+            "date": "1626",
+            "technique": "Oil on panel 75 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/v_lawye.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6682
+        },
+        {
+            "title": "Village Lawyer",
+            "date": "1621",
+            "technique": "Oil on panel 748 x 122 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/v_lawyer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6683
+        },
+        {
+            "title": "Village Lawyer's Office",
+            "date": "1626",
+            "technique": "Oil on panel 75 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/v_lawyex.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6684
+        },
+        {
+            "title": "A Village Street",
+            "date": "c. 1630",
+            "technique": "Oil on oak panel 24 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/village.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6685
+        },
+        {
+            "title": "Village Feast",
+            "date": "-",
+            "technique": "Oil on wood 114 x 161 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/villagef.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6686
+        },
+        {
+            "title": "Peasant Wedding Dance",
+            "date": "1607",
+            "technique": "Oil on panel",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/wedding.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6687
+        },
+        {
+            "title": "Peasant Wedding Dance",
+            "date": "1610s",
+            "technique": "Oil on oak panel 42 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/wedding0.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6688
+        },
+        {
+            "title": "The Wedding Dance in a Barn",
+            "date": "c. 1616",
+            "technique": "Oil on oak panel 74 x 106 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/wedding1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6689
+        },
+        {
+            "title": "The Whitsun Bride",
+            "date": "-",
+            "technique": "Oil on panel 46 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bruegel/pieter_y/whitsun.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 6690
+        }
+    ]
+}

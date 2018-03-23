@@ -1,0 +1,138 @@
+{
+    "name": "ROMANINO Girolamo",
+    "life": "(b. ca. 1484 Brescia d. ca. 1559 Brescia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "c. 1542",
+            "technique": "Oil on canvas 81 x 72 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/r/romanino/carrying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35009
+        },
+        {
+            "title": "Christ before Pilate and Flagellation of Christ",
+            "date": "1519",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/r/romanino/cremona1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35010
+        },
+        {
+            "title": "Christ Crowned with Thorns and Ecce Homo",
+            "date": "1519",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/r/romanino/cremona2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35011
+        },
+        {
+            "title": "Christ before Pilate (detail)",
+            "date": "1519",
+            "technique": "Fresco",
+            "location": "Cathedral Cremona",
+            "url": "https://www.wga.hu/html/r/romanino/cremona3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35012
+        },
+        {
+            "title": "Ecce Homo",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 79 x 68 cm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/r/romanino/eccehomo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35013
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1527-29",
+            "technique": "Oil on panel 70 x 59 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/romanino/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35014
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1520-25",
+            "technique": "Oil on wood 83 x 72 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/romanino/manportr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35015
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "1510",
+            "technique": "Oil on panel 183 x 185 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/r/romanino/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35016
+        },
+        {
+            "title": "Presentation of Jesus at the Temple",
+            "date": "1529",
+            "technique": "Oil on canvas 188 x 140 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/r/romanino/presenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 35017
+        },
+        {
+            "title": "Self-portrait (?)",
+            "date": "1535-40",
+            "technique": "Oil on canvas 86 x 66 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/r/romanino/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35018
+        },
+        {
+            "title": "Fall of Phaethon",
+            "date": "1531-32",
+            "technique": "Fresco",
+            "location": "Loggia Castello del Buonconsiglio Trent",
+            "url": "https://www.wga.hu/html/r/romanino/trent.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 35019
+        },
+        {
+            "title": "Two Nude Men",
+            "date": "-",
+            "technique": "Pen and brown ink with brown wash on yellowed paper 263 x 207 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/r/romanino/z_study1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 35020
+        },
+        {
+            "title": "Concert Champ\u00eatre",
+            "date": "-",
+            "technique": "Pen and brown ink with brown wash over black chalk 291 x 409 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/romanino/z_study2.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 35021
+        }
+    ]
+}

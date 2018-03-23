@@ -1,0 +1,38 @@
+{
+    "name": "PERRAULT Claude",
+    "life": "(b. 1613 Paris d. 1688 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Classification of the Five Orders of Columns",
+            "date": "1683",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/perrault/5orders.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30718
+        },
+        {
+            "title": "Exterior view",
+            "date": "1667",
+            "technique": "Photo",
+            "location": "Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perrault/colonna1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30719
+        },
+        {
+            "title": "Exterior view",
+            "date": "1667",
+            "technique": "Photo",
+            "location": "Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perrault/colonna2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30720
+        }
+    ]
+}

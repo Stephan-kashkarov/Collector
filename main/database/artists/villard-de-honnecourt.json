@@ -1,0 +1,58 @@
+{
+    "name": "VILLARD DE HONNECOURT",
+    "life": "(b. ca. 1200 Picardy d. ca. 1250)",
+    "school": "French",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Portfolio of Villard de Honnecourt",
+            "date": "c. 1235",
+            "technique": "Manuscript (MS Fr 19093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/villard/liontame.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43233
+        },
+        {
+            "title": "Portfolio of Villard de Honnecourt",
+            "date": "c. 1235",
+            "technique": "Manuscript (MS Fr 19093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/villard/machines.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43234
+        },
+        {
+            "title": "Portfolio of Villard de Honnecourt",
+            "date": "c. 1235",
+            "technique": "Manuscript (MS Fr 19093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/villard/portfol1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43235
+        },
+        {
+            "title": "Portfolio of Villard de Honnecourt",
+            "date": "c. 1235",
+            "technique": "Manuscript (MS Fr 19093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/villard/portfol2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 43236
+        },
+        {
+            "title": "Portfolio of Villard de Honnecourt",
+            "date": "c. 1235",
+            "technique": "Manuscript (MS Fr 19093)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/v/villard/sketchbo.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 43237
+        }
+    ]
+}

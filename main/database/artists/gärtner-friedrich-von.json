@@ -1,0 +1,28 @@
+{
+    "name": "G\u00c4RTNER Friedrich von",
+    "life": "(b. 1791 Koblenz d. 1847 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1832-43",
+            "technique": "Photo",
+            "location": "Ludwigstrasse Munich",
+            "url": "https://www.wga.hu/html/g/gartner1/ludwigs1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14847
+        },
+        {
+            "title": "Exterior view",
+            "date": "1830s",
+            "technique": "Photo",
+            "location": "Ludwigstrasse Munich",
+            "url": "https://www.wga.hu/html/g/gartner1/ludwigs2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14848
+        }
+    ]
+}

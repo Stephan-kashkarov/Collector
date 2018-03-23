@@ -1,0 +1,28 @@
+{
+    "name": "VANNI Francesco",
+    "life": "(b. 1563 Siena d. 1610 Siena)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "St Hyacinthus Raising a Drowned Child",
+            "date": "-",
+            "technique": "Oil on paper 40 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vanni_f/hyacinth.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 42051
+        },
+        {
+            "title": "Madonna and Child with St Lucy",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vanni_f/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 42052
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "TRAVERSI Gaspare",
+    "life": "(b. ca. 1722 Napoli d. 1770 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Card Players",
+            "date": "-",
+            "technique": "Oil on canvas 774 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/traversi/cardplay.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40137
+        },
+        {
+            "title": "The Drawing Lesson",
+            "date": "c. 1750",
+            "technique": "Oil on canvas 154 x 206 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/t/traversi/drlesson.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40138
+        },
+        {
+            "title": "Old Man and a Child",
+            "date": "-",
+            "technique": "Oil on canvas 74 x 62 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/t/traversi/oldman_c.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40139
+        },
+        {
+            "title": "The Operation (The Wound)",
+            "date": "-",
+            "technique": "Oil on canvas 78 x 104 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/traversi/operatio.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40140
+        },
+        {
+            "title": "Reading a Letter",
+            "date": "1741-60",
+            "technique": "Oil on canvas 105 x 140 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/traversi/readlett.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40141
+        },
+        {
+            "title": "The Secret Letter",
+            "date": "c. 1755",
+            "technique": "Oil on canvas 131 x 146 cm",
+            "location": "Collezione Intesa Sanpaolo Palazzo Zevallos Stigliano Naples",
+            "url": "https://www.wga.hu/html/t/traversi/secretle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40142
+        },
+        {
+            "title": "The Sitting",
+            "date": "1754",
+            "technique": "Oi on canvas 99 x 130 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/t/traversi/sitting.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 40143
+        }
+    ]
+}

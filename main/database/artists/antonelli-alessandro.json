@@ -1,0 +1,58 @@
+{
+    "name": "ANTONELLI Alessandro",
+    "life": "(b. 1798 Ghemme d. 1788 Maggiora)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1841",
+            "technique": "Photo",
+            "location": "San Gaudenzio Novara",
+            "url": "https://www.wga.hu/html/a/antonel/gaudenz1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1089
+        },
+        {
+            "title": "Interior view",
+            "date": "1841",
+            "technique": "Photo",
+            "location": "San Gaudenzio Novara",
+            "url": "https://www.wga.hu/html/a/antonel/gaudenz2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 1090
+        },
+        {
+            "title": "General view",
+            "date": "1863-89",
+            "technique": "Photo",
+            "location": "Mole Antonelliana Turin",
+            "url": "https://www.wga.hu/html/a/antonel/moleant1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1091
+        },
+        {
+            "title": "Exterior view",
+            "date": "1863-89",
+            "technique": "Photo",
+            "location": "Mole Antonelliana Turin",
+            "url": "https://www.wga.hu/html/a/antonel/moleant2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1092
+        },
+        {
+            "title": "Exterior view",
+            "date": "1863-89",
+            "technique": "Photo",
+            "location": "Mole Antonelliana Turin",
+            "url": "https://www.wga.hu/html/a/antonel/moleant3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 1093
+        }
+    ]
+}

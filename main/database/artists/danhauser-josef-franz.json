@@ -1,0 +1,48 @@
+{
+    "name": "DANHAUSER Josef Franz",
+    "life": "(b. 1805 Wien d. 1845 Wien)",
+    "school": "Austrian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Widow's Offering",
+            "date": "c. 1838",
+            "technique": "Oil on canvas 97 x 127 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/d/danhause/offering.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 10778
+        },
+        {
+            "title": "Portrait of the Piano-Manufcturer Konrad Graf",
+            "date": "1840",
+            "technique": "Oil on wood 82 x 63 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/d/danhause/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10779
+        },
+        {
+            "title": "The Scholars' Room",
+            "date": "c. 1842",
+            "technique": "Oil on canvas 40 x 52 cm",
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "url": "https://www.wga.hu/html/d/danhause/scholars.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 10780
+        },
+        {
+            "title": "Siesta (The Sleepers)",
+            "date": "1831",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/d/danhause/siesta.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 10781
+        }
+    ]
+}

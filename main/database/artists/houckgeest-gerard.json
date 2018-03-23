@@ -1,0 +1,98 @@
+{
+    "name": "HOUCKGEEST Gerard",
+    "life": "(b. ca. 1600 The Hague d. 1661 Delft)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Interior of an Imaginary Catholic Church in Classical Style",
+            "date": "1638-40",
+            "technique": "Oil on panel 69 x 98 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/houckgee/imaginar.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20189
+        },
+        {
+            "title": "Interior of the Nieuwe Kerk Delft with the Tomb of William the Silent",
+            "date": "1650",
+            "technique": "Oil on panel 126 x 89 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/h/houckgee/nieuwe1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20190
+        },
+        {
+            "title": "Ambulatory of the New Church in Delft with the Tomb of William the Silent",
+            "date": "c. 1651",
+            "technique": "Oil on panel 66 x 78 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/houckgee/nieuwe2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20191
+        },
+        {
+            "title": "The Nieuwe Kerk in Delft with the Tomb of William the Silent",
+            "date": "1651",
+            "technique": "Oil on panel 56 x 38 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/h/houckgee/nieuwe3.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20192
+        },
+        {
+            "title": "Interior of the Nieuwe Kerk Delft with the Tomb of William the Silent",
+            "date": "1651-52",
+            "technique": "Oil on panel (cut round at top) 60 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/houckgee/nieuwe4.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20193
+        },
+        {
+            "title": "Interior of Nieuwe Kerk in Delft with the Tomb of William the Silent",
+            "date": "1650-51",
+            "technique": "Oil on canvas 117 x 90 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/h/houckgee/nieuwe5.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20194
+        },
+        {
+            "title": "Interior of the Oude Kerk Delft with the Pulpit of 1548",
+            "date": "1651",
+            "technique": "Oil on panel 49 x 41 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/houckgee/oudekerk.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20195
+        },
+        {
+            "title": "View through an Arcade",
+            "date": "1638",
+            "technique": "Oil on canvas 131 x 152 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/h/houckgee/viewarca.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 20196
+        },
+        {
+            "title": "Imaginary Gothic Church",
+            "date": "1637-39",
+            "technique": "Engraving 251 x 216 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/houckgee/zimagina.html",
+            "form": "graphics",
+            "painting_type": "interior",
+            "index": 20197
+        }
+    ]
+}

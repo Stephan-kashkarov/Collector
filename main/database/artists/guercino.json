@@ -1,0 +1,688 @@
+{
+    "name": "GUERCINO",
+    "life": "(b. 1591 Cento d. 1666 Bologna)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Dead Christ Mourned by Two Angels",
+            "date": "1617-18",
+            "technique": "Oil on copper 39 x 44 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/guercino/0/a_weepin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18851
+        },
+        {
+            "title": "Et in Arcadia Ego",
+            "date": "1618-22",
+            "technique": "Oil on canvas 82 x 91 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/g/guercino/0/arcadia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18852
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "1623",
+            "technique": "Oil on canvas 307 x 332 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/guercino/0/assumpti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18853
+        },
+        {
+            "title": "The Vision of St Jerome",
+            "date": "1619-20",
+            "technique": "Oil on copper 42 x 48 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guercino/0/avision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18854
+        },
+        {
+            "title": "Christ Crowned with Thorns",
+            "date": "c. 1622",
+            "technique": "Oil on copper 285 x 24 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/guercino/0/christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18855
+        },
+        {
+            "title": "A Donor Presented to the Virgin",
+            "date": "1616",
+            "technique": "Oil on canvas 309 x 192 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/g/guercino/0/donorpre.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18856
+        },
+        {
+            "title": "Erminia Finds the Wounded Tancred",
+            "date": "1618-19",
+            "technique": "Oil on canvas 1455 x 1875 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/g/guercino/0/ermina.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18857
+        },
+        {
+            "title": "Portrait of Paul Gregory XV",
+            "date": "1622-23",
+            "technique": "Oil on canvas 134 x 98 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/g/guercino/0/gregory1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 18858
+        },
+        {
+            "title": "St Gregory the Great with Sts Ignatius and Francis Xavier",
+            "date": "c. 1626",
+            "technique": "Oil on canvas 296 x 211 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/g/guercino/0/gregory2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18859
+        },
+        {
+            "title": "The Liberation of St Peter",
+            "date": "c. 1622",
+            "technique": "Oil on canvas 105 x 136 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/g/guercino/0/liberati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18860
+        },
+        {
+            "title": "The Martyrdom of St Peter",
+            "date": "1618-19",
+            "technique": "Oil on canvas 320 x 193 cm",
+            "location": "Galleria Estense Modena",
+            "url": "https://www.wga.hu/html/g/guercino/0/martyrdo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18861
+        },
+        {
+            "title": "Mystical Marriage of St Catherine of Alexandria",
+            "date": "1620",
+            "technique": "Oil on canvas 88 x 70 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/guercino/0/mystical.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18862
+        },
+        {
+            "title": "Return of the Prodigal Son",
+            "date": "1619",
+            "technique": "Oil on canvas 107 x 144 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/guercino/0/prodigal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18863
+        },
+        {
+            "title": "Raising of Lazarus",
+            "date": "c. 1619",
+            "technique": "Oil on canvas 199 x 233 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guercino/0/raising.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18864
+        },
+        {
+            "title": "The Resurrected Christ Appears to the Virgin",
+            "date": "1629",
+            "technique": "Oil on canvas 260 x 179 cm",
+            "location": "Pinacoteca Comunale Cento",
+            "url": "https://www.wga.hu/html/g/guercino/0/resurrec.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18865
+        },
+        {
+            "title": "Samson Captured by the Philistines",
+            "date": "1619",
+            "technique": "Oil on canvas 191 x 237 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/guercino/0/samson.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18866
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1617",
+            "technique": "Oil on canvas 175 x 207 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/g/guercino/0/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18867
+        },
+        {
+            "title": "The Toilet of Venus",
+            "date": "1622-23",
+            "technique": "Oil on canvas 150 x 190 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/0/toivenus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18868
+        },
+        {
+            "title": "St William of Aquitaine Receiving the Cowl",
+            "date": "1620",
+            "technique": "Oil on canvas 349 x 231 cm",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/g/guercino/0/william.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18869
+        },
+        {
+            "title": "St Augustine Washing the Feet of the Redeemer",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Sant' Agostino in Campo Marzio Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/augusti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18870
+        },
+        {
+            "title": "St Augustine St John the Baptist and St Paul the Hermit",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Sant' Agostino in Campo Marzio Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/augusti2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18871
+        },
+        {
+            "title": "St Augustine",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "San Pietro in Vincoli Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/augusti3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18872
+        },
+        {
+            "title": "Martyrdom of St Catherine",
+            "date": "1653",
+            "technique": "Oil on canvas 2225 x 159 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/guercino/1/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18873
+        },
+        {
+            "title": "The Entombment of Christ",
+            "date": "1656",
+            "technique": "Oil on canvas",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/g/guercino/1/entombme.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18874
+        },
+        {
+            "title": "The Flagellation of Christ",
+            "date": "1657",
+            "technique": "Oil on canvas 250 x 185 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/flagella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18875
+        },
+        {
+            "title": "St Francis with an Angel Playing Violin",
+            "date": "-",
+            "technique": "Oil on canvas 162 x 127 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/g/guercino/1/franci_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18876
+        },
+        {
+            "title": "Hersilia Separating Romulus and Tatius",
+            "date": "1645",
+            "technique": "Oil on canvas 253 x 267 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guercino/1/hersilia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18877
+        },
+        {
+            "title": "St Marguerite",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "San Pietro in Vincoli Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/margueri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18878
+        },
+        {
+            "title": "The Penitent Magdalen",
+            "date": "1649",
+            "technique": "Oil on canvas 230 x 177 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/1/penitent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18879
+        },
+        {
+            "title": "Jesus and the Samaritan Woman at the Well",
+            "date": "1640-41",
+            "technique": "Oil on canvas 116 x 156 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/g/guercino/1/samarita.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18880
+        },
+        {
+            "title": "Saul Attacking David",
+            "date": "1646",
+            "technique": "Oil on canvas 147 x 220 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/g/guercino/1/saul_dav.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18881
+        },
+        {
+            "title": "St Luke Displaying a Painting of the Virgin",
+            "date": "1652-53",
+            "technique": "Oil on canvas",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/g/guercino/1/st_luke.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18882
+        },
+        {
+            "title": "St Peter Weeping before the Virgin",
+            "date": "1647",
+            "technique": "Oil on canvas 122 x 159 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guercino/1/st_peter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18883
+        },
+        {
+            "title": "St Jerome in the Wilderness",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 307 x 332 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/guercino/1/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18884
+        },
+        {
+            "title": "Doubting Thomas",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/g/guercino/1/thomas_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18885
+        },
+        {
+            "title": "Virgin and Child with Four Saints",
+            "date": "c. 1651",
+            "technique": "Oil on canvas 332 x 230 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/guercino/1/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18886
+        },
+        {
+            "title": "Abraham Casting Out Hagar and Ishmael",
+            "date": "1657",
+            "technique": "Oil on canvas 115 x 154 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/g/guercino/2/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18887
+        },
+        {
+            "title": "Allegory of Painting and Sculpture",
+            "date": "1637",
+            "technique": "Oil on canvas 114 x 139 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/g/guercino/2/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18888
+        },
+        {
+            "title": "Apparition of Christ to the Virgin",
+            "date": "1628-30",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Civica Cento",
+            "url": "https://www.wga.hu/html/g/guercino/2/appariti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18889
+        },
+        {
+            "title": "The Flagellation of Christ",
+            "date": "1641-44",
+            "technique": "Oil on canvas 351 x 177 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/guercino/2/flagel_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18890
+        },
+        {
+            "title": "The Penitent Magdalene",
+            "date": "1650-55",
+            "technique": "Oil on canvas 114 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/2/magdale.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18891
+        },
+        {
+            "title": "Mary Magdalene in Penitence",
+            "date": "-",
+            "technique": "Oil on canvas 121 x 102 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/g/guercino/2/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18892
+        },
+        {
+            "title": "Magdalen and Two Angels",
+            "date": "1622",
+            "technique": "Oil on canvas 222 x 200 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/g/guercino/2/magdatwo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18893
+        },
+        {
+            "title": "Portrait of Fra Bonaventura Bisi Called \"\"Il Pittorino\"\"",
+            "date": "c. 1658",
+            "technique": "Oil on canvas 94 x 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/2/pittorin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 18894
+        },
+        {
+            "title": "Portrait of Francesco Righetti",
+            "date": "1626-28",
+            "technique": "Oil on canvas 83 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/2/righetti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 18895
+        },
+        {
+            "title": "St Romuald",
+            "date": "1640-41",
+            "technique": "Oil on canvas 292 x 184 cm",
+            "location": "Pinacoteca Comunale Ravenna",
+            "url": "https://www.wga.hu/html/g/guercino/2/romuald.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18896
+        },
+        {
+            "title": "Semiramis Called to Arms",
+            "date": "1645",
+            "technique": "Oil on canvas 130 x 152 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/2/semiram.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18897
+        },
+        {
+            "title": "Semiramis Receiving Word of the Revolt of Babylon",
+            "date": "1624",
+            "technique": "Oil on canvas 112 x 155 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/g/guercino/2/semirami.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18898
+        },
+        {
+            "title": "St Anthony of Padua with the Infant Christ",
+            "date": "1656",
+            "technique": "Oil on canvas 91 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/guercino/2/stanthon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18899
+        },
+        {
+            "title": "Madonna of the Swallow",
+            "date": "1620",
+            "technique": "Oil on canvas 120 x 88 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/g/guercino/2/swallow.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18900
+        },
+        {
+            "title": "Venus Mars and Cupid",
+            "date": "1633",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Estense Modena",
+            "url": "https://www.wga.hu/html/g/guercino/2/venus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18901
+        },
+        {
+            "title": "A Cosmographer",
+            "date": "1660",
+            "technique": "Black chalk 260 x 193 mm",
+            "location": "University Art Museum Princeton",
+            "url": "https://www.wga.hu/html/g/guercino/2/z_cosmog.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18902
+        },
+        {
+            "title": "View of the Sala dell'Aurora",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/01aurora.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 18903
+        },
+        {
+            "title": "Ceiling painting",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/02aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18904
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/03aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18905
+        },
+        {
+            "title": "Aurora",
+            "date": "1621-23",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/04aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18906
+        },
+        {
+            "title": "Aurora",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/05aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18907
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/06aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18908
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/07aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18909
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/08aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18910
+        },
+        {
+            "title": "Lunette painting",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/09aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18911
+        },
+        {
+            "title": "Lunette painting",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/10aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18912
+        },
+        {
+            "title": "Ceiling painting",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/11aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18913
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/12aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18914
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/13aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18915
+        },
+        {
+            "title": "Ceiling painting (detail)",
+            "date": "1621",
+            "technique": "Fresco",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/g/guercino/3/14aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 18916
+        },
+        {
+            "title": "Sketch for Aurora",
+            "date": "1621",
+            "technique": "Red chalk on paper 271 x 248 mm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/g/guercino/3/15aurora.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 18917
+        },
+        {
+            "title": "Virgin of the Benediction",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/g/guercino/virgin_b.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 18918
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "SERGEL Johan Tobias",
+    "life": "(b. 1740 Stockholm d. 1814 Stockholm)",
+    "school": "Swedish",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Diomedes",
+            "date": "c. 1770",
+            "technique": "Terracotta height 41 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/sergel/diomedes.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36894
+        },
+        {
+            "title": "King Gustavus III of Sweden",
+            "date": "1791",
+            "technique": "Plaster height 96 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/sergel/gustavus.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 36895
+        },
+        {
+            "title": "Mars and Venus",
+            "date": "1770",
+            "technique": "Marble",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/sergel/mars_ven.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36896
+        },
+        {
+            "title": "The Drunken Faun",
+            "date": "1774",
+            "technique": "Marble 45 x 84 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/sergel/thedrunk.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 36897
+        },
+        {
+            "title": "Plunging into Despair",
+            "date": "1795",
+            "technique": "Wash over ink 198 x 331 mm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/s/sergel/z_plung.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36898
+        }
+    ]
+}

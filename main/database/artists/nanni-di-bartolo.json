@@ -1,0 +1,28 @@
+{
+    "name": "NANNI DI BARTOLO",
+    "life": "(active 1419-1435)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Brenzoni Monument",
+            "date": "1426-39",
+            "technique": "Marble",
+            "location": "S. Fermo Maggiore Verona",
+            "url": "https://www.wga.hu/html/n/nanni/bartolo/brenzoni.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29354
+        },
+        {
+            "title": "Judgment of Salomon",
+            "date": "1424-38",
+            "technique": "Istrian stone height 200 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/n/nanni/bartolo/salomon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29355
+        }
+    ]
+}

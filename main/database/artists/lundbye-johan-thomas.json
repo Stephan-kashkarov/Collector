@@ -1,0 +1,38 @@
+{
+    "name": "LUNDBYE Johan Thomas",
+    "life": "(b. 1818 Kalundborg d. 1848 Bedsted)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "A Danish Coast",
+            "date": "1843",
+            "technique": "Oil on canvas 189 x 256 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/l/lundbye/danishco.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23475
+        },
+        {
+            "title": "Kolas Wood Vejrhoj",
+            "date": "1846",
+            "technique": "Oil on paper laid down on canvas 24 x 33 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/l/lundbye/vejrhoj.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23476
+        },
+        {
+            "title": "Zeeland Landscape",
+            "date": "1842",
+            "technique": "Oil on canvas 95 x 128 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/l/lundbye/zeeland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23477
+        }
+    ]
+}

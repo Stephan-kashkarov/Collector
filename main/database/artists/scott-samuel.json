@@ -1,0 +1,78 @@
+{
+    "name": "SCOTT Samuel",
+    "life": "(b. ca. 1702 London d. 1772 Bath)",
+    "school": "English",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Building of Westminster Bridge",
+            "date": "1750",
+            "technique": "Oil on canvas 79 x 151 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scott/building.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36783
+        },
+        {
+            "title": "Departure from England of Francis Duke of Lorraine 1731",
+            "date": "1732",
+            "technique": "Oil on canvas 124 x 186 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scott/departur.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36784
+        },
+        {
+            "title": "Part of Old Westminster Bridge",
+            "date": "c. 1750",
+            "technique": "Oil on canvas",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/s/scott/oldbridg.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36785
+        },
+        {
+            "title": "Shipping on the Thames off Rotherhithe",
+            "date": "1740s",
+            "technique": "Oil on canvas 107 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scott/rotherhi.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36786
+        },
+        {
+            "title": "Shipping at Anchor in the Thames Estuary near Wapping",
+            "date": "-",
+            "technique": "Oil on canvas 198 x 211 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scott/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36787
+        },
+        {
+            "title": "The Thames at Westminster Bridge with Barges",
+            "date": "1746",
+            "technique": "Oil on canvas 100 x 190 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/scott/thames.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36788
+        },
+        {
+            "title": "A Thames Wharf",
+            "date": "c. 1757",
+            "technique": "Oil on canvas 160 x 137 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/s/scott/wharf.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36789
+        }
+    ]
+}

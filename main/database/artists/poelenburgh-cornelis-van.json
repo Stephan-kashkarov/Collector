@@ -1,0 +1,238 @@
+{
+    "name": "POELENBURGH Cornelis van",
+    "life": "(b. ca. 1594 Utrecht d. 1667 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Amaryllis Giving Myrtill the Price",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 115 x 146 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/poelenbu/amarylli.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31822
+        },
+        {
+            "title": "Annunciation",
+            "date": "c. 1635",
+            "technique": "Oil on copper 48 x 41 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/poelenbu/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31823
+        },
+        {
+            "title": "Children of Frederick V Prince Elector of Pfalz and King of Bohemia",
+            "date": "1628",
+            "technique": "Oil on wood 379 x 653 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/poelenbu/children.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31824
+        },
+        {
+            "title": "Figures beneath the Arches of a Classical Ruin",
+            "date": "1620-25",
+            "technique": "Pen and brush in brown over black chalk 427 x 385 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/poelenbu/figures.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 31825
+        },
+        {
+            "title": "Figures Dancing near Ruin",
+            "date": "c. 1624",
+            "technique": "Oil on panel 49 x 59 cm",
+            "location": "Institute of Arts Detroit",
+            "url": "https://www.wga.hu/html/p/poelenbu/figuresd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31826
+        },
+        {
+            "title": "The Finding of Moses",
+            "date": "-",
+            "technique": "Oil on panel 19 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poelenbu/findmose.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31827
+        },
+        {
+            "title": "Italianate Landscape with Dancing Figures",
+            "date": "-",
+            "technique": "Oil on panel 37 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poelenbu/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31828
+        },
+        {
+            "title": "Landscape with Diana and Callisto",
+            "date": "-",
+            "technique": "Oil on panel 54 x 82 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/poelenbu/landiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31829
+        },
+        {
+            "title": "Landscape with Nymphs",
+            "date": "c. 1650",
+            "technique": "Oil on panel 22 x 29 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/p/poelenbu/lanymphs.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31830
+        },
+        {
+            "title": "Mercury and Herse",
+            "date": "c. 1620",
+            "technique": "Oil on board 18 x 27 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/p/poelenbu/mercury.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31831
+        },
+        {
+            "title": "Nymphs and Satyrs at the Entrance of a Grotto",
+            "date": "1624-30",
+            "technique": "Oil on wood diameter 27 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/poelenbu/nymphs.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31832
+        },
+        {
+            "title": "Landscape with Nymphs near a Grotto",
+            "date": "-",
+            "technique": "Oil on panel 19 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poelenbu/nymphs1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31833
+        },
+        {
+            "title": "Nymph and Shepherd in Landscape",
+            "date": "c. 1630",
+            "technique": "Oil on copper 19 x 28 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/p/poelenbu/nymphshe.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31834
+        },
+        {
+            "title": "Portrait of a Young Girl as Flora",
+            "date": "-",
+            "technique": "Oil on panel 12 x 10 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poelenbu/porflora.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31835
+        },
+        {
+            "title": "Portrait of a Young Girl",
+            "date": "-",
+            "technique": "Oil on wood 21 x 17 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/p/poelenbu/portgirl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31836
+        },
+        {
+            "title": "Rest on the Flight into Egypt",
+            "date": "c. 1640",
+            "technique": "Oil on copper 34 x 44 cm",
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "url": "https://www.wga.hu/html/p/poelenbu/rest_fli.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31837
+        },
+        {
+            "title": "Rest on Flight to Egypt",
+            "date": "-",
+            "technique": "Oil on panel 24 x 32 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/p/poelenbu/restflig.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31838
+        },
+        {
+            "title": "Roman Ruins",
+            "date": "c. 1620",
+            "technique": "Oil on copper 23 x 31 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/poelenbu/romanrui.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31839
+        },
+        {
+            "title": "Capriccio View of Rome with the Martyrdom of St Lawrence",
+            "date": "1622-25",
+            "technique": "Oil on panel 36 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poelenbu/romecapr.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31840
+        },
+        {
+            "title": "Ruins of Ancient Rome",
+            "date": "c. 1620",
+            "technique": "Oil on copper 44 x 57 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/poelenbu/ruinrome.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31841
+        },
+        {
+            "title": "Satyr Dance",
+            "date": "c. 1621",
+            "technique": "Oil on copper 45 x 63 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/poelenbu/satyrdan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31842
+        },
+        {
+            "title": "Sine Cerere et Baccho friget Venus",
+            "date": "c. 1630",
+            "technique": "Oil on wood 33 x 50 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/p/poelenbu/sinecere.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31843
+        },
+        {
+            "title": "View of the Campo Vaccino",
+            "date": "1620",
+            "technique": "Oil on copper 40 x 55 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/poelenbu/vaccino.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 31844
+        }
+    ]
+}

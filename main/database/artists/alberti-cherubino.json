@@ -1,0 +1,48 @@
+{
+    "name": "ALBERTI Cherubino",
+    "life": "(b. 1553 Borgo San Sepolcro d. 1615 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Fame",
+            "date": "-",
+            "technique": "Engraving. 320 x 170 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/fame.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 223
+        },
+        {
+            "title": "Part of the Sistine Chapel Ceiling",
+            "date": "1577",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/sistine.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 224
+        },
+        {
+            "title": "Madonna and Child in Glory with Angels",
+            "date": "-",
+            "technique": "Engraving. 280 x 190 mm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/virgin_c.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 225
+        },
+        {
+            "title": "The Cardinal Virtues",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Sala Clementina Vatican Palace Rome",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/virtues.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 226
+        }
+    ]
+}

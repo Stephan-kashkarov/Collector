@@ -1,0 +1,28 @@
+{
+    "name": "TOL Domenicus van",
+    "life": "(b. ca. 1635 Bodegraven d. 1676 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Children with a Mousetrap",
+            "date": "1660s",
+            "technique": "Oil on panel 31 x 25 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/tol/children.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 39857
+        },
+        {
+            "title": "Portrait of a Young Painter",
+            "date": "1660s",
+            "technique": "Oil on canvas 37 x 30 cm",
+            "location": "Dob\u00f3 Istv\u00e1n V\u00e1rm\u00fazeum Eger",
+            "url": "https://www.wga.hu/html/t/tol/painter.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39858
+        }
+    ]
+}

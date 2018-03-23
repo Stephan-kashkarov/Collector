@@ -1,0 +1,608 @@
+{
+    "name": "CLAUDE LORRAIN",
+    "life": "(b. 1604 Chamagne d. 1682 Roma)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Landscape with Merchants",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 97 x 144 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/claude/1/00landsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8979
+        },
+        {
+            "title": "The Mill",
+            "date": "1631",
+            "technique": "Oil on canvas 62 x 85 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/claude/1/01mill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8980
+        },
+        {
+            "title": "The Campo Vaccino Rome",
+            "date": "-",
+            "technique": "Oil on canvas 56 x 72 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/1/01vaccin.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8981
+        },
+        {
+            "title": "A Mediterranean Seaport",
+            "date": "1633-35",
+            "technique": "Oil on canvas 74 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/claude/1/021medit.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8982
+        },
+        {
+            "title": "Italianate Landscape",
+            "date": "c. 1635",
+            "technique": "Oil on copper 12 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/claude/1/022itali.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8983
+        },
+        {
+            "title": "Seaport with the Campidoglio",
+            "date": "1636",
+            "technique": "Oil n canvas",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/1/02campid.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8984
+        },
+        {
+            "title": "Forest Path with Herdsmen and Herd",
+            "date": "c. 1633",
+            "technique": "Oil on canvas 31 x 52 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/claude/1/02forest.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8985
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "c. 1635",
+            "technique": "Oil on canvas 71 x 98 cm",
+            "location": "Museum of Art Indianapolis",
+            "url": "https://www.wga.hu/html/c/claude/1/02gegypt.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8986
+        },
+        {
+            "title": "Port Scene with the Villa Medici",
+            "date": "1637",
+            "technique": "Oil on canvas 102 x 133 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/claude/1/02medici.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8987
+        },
+        {
+            "title": "Landscape with a Goatherd",
+            "date": "1637",
+            "technique": "Pen and brown ink with grey and brown wash on paper 194 x 260 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/1/03goathe.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 8988
+        },
+        {
+            "title": "Landscape with the Finding of Moses",
+            "date": "1637-39",
+            "technique": "Oil on canvas 209 x 138 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/claude/1/03moses.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8989
+        },
+        {
+            "title": "Embarkation of St Paula Romana at Ostia",
+            "date": "1637-39",
+            "technique": "Oil on canvas 211 x 145 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/claude/1/04paola.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8990
+        },
+        {
+            "title": "Port Scene with the Embarkation of St Ursula",
+            "date": "1641",
+            "technique": "Oil on canvas 113 x 149 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/1/05ursula.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8991
+        },
+        {
+            "title": "The Disembarkation of Cleopatra at Tarsus",
+            "date": "1642-43",
+            "technique": "Oil on canvas 119 x 170 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/1/06cleopa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8992
+        },
+        {
+            "title": "Italian Coastal Landscape",
+            "date": "1642",
+            "technique": "Oil on canvas 97 x 131 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/claude/1/07italia.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8993
+        },
+        {
+            "title": "Imaginary View of Tivoli",
+            "date": "1642",
+            "technique": "Oil on copper 216 x 257 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/1/08tivoli.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8994
+        },
+        {
+            "title": "Marine with the Trojans Burning their Boats",
+            "date": "1643",
+            "technique": "Oil on canvas 105 x 152 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/claude/1/09trojan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8995
+        },
+        {
+            "title": "Harbour Scene with Grieving Heliades",
+            "date": "c. 1640",
+            "technique": "Oil on canvas 1255 x 1755 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/c/claude/1/10harbor.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8996
+        },
+        {
+            "title": "Harbour Scene at Sunset",
+            "date": "1643",
+            "technique": "Oil on canvas 74 x 99 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/c/claude/1/11harbor.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 8997
+        },
+        {
+            "title": "Harbour Scene",
+            "date": "-",
+            "technique": "Pen grey-brown wash on blue paper 190 x 259 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/1/12harbor.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 8998
+        },
+        {
+            "title": "View of Tivoli",
+            "date": "-",
+            "technique": "Wash drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/1/13tivoli.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 8999
+        },
+        {
+            "title": "View of the Campagna",
+            "date": "-",
+            "technique": "Wash drawing",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/1/14campag.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 9000
+        },
+        {
+            "title": "Trees",
+            "date": "-",
+            "technique": "Wash",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/1/15trees.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 9001
+        },
+        {
+            "title": "Ulysses Returns Chryseis to her Father",
+            "date": "1648",
+            "technique": "Oil on canvas 119 x 150 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/2/01ulysse.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9002
+        },
+        {
+            "title": "Landscape with Shepherds - The Pont Molle",
+            "date": "1645",
+            "technique": "Oil on canvas 74 x 97 cm",
+            "location": "City Art Gallery Birmingham",
+            "url": "https://www.wga.hu/html/c/claude/2/02pontmo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9003
+        },
+        {
+            "title": "Landscape with Cephalus and Procris Reunited by Diana",
+            "date": "1645",
+            "technique": "Oil on canvas 102 x 132 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/2/03cephal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9004
+        },
+        {
+            "title": "Landscape with Apollo Guarding the Herds of Admetus",
+            "date": "1645",
+            "technique": "Oil on canvas 55 x 45 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/claude/2/04apollo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9005
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1645-46",
+            "technique": "Oil on canvas 112 x 150 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/claude/2/05paris.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9006
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1645-46",
+            "technique": "Pen and brown ink and brown wash on paper 195 x 256 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/2/05paris1.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9007
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "c. 1645",
+            "technique": "Pen and brown ink with brown wash over black chalk on laid paper",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/c/claude/2/05paris2.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9008
+        },
+        {
+            "title": "The Judgment of Paris",
+            "date": "1645-46",
+            "technique": "Pen and brown ink with brown wash on paper 90 x 130 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/claude/2/05paris3.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9009
+        },
+        {
+            "title": "Port Scene with the Departure of Ulysses from the Land of the Feaci",
+            "date": "1646",
+            "technique": "Oil on canvas 119 x 150 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/2/05ulysse.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9010
+        },
+        {
+            "title": "Landscape with Shepherds",
+            "date": "1645-46",
+            "technique": "Oil on canvas 688 x 91 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/claude/2/06landsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9011
+        },
+        {
+            "title": "Landscape with Apollo and the Cumaean Sibyl",
+            "date": "1645-49",
+            "technique": "Oil on canvas 100 x 127 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/claude/2/07landsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9012
+        },
+        {
+            "title": "Landscape with Dancing Figures",
+            "date": "1648",
+            "technique": "Oil on canvas 149 x 197 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/2/07rebecc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9013
+        },
+        {
+            "title": "Landscape with Dancing Figures (The Mill)",
+            "date": "1648",
+            "technique": "Oil on canvas 1506 x 1978 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/claude/2/08mill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9014
+        },
+        {
+            "title": "Landscape with Dancing Figures (detail)",
+            "date": "1648",
+            "technique": "Oil on canvas",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/claude/2/08mill1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9015
+        },
+        {
+            "title": "Landscape with Rest in Flight to Egypt",
+            "date": "1647",
+            "technique": "Oil on canvas 102 x 134 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/claude/2/09rest.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9016
+        },
+        {
+            "title": "Seaport with the Embarkation of the Queen of Sheba",
+            "date": "1648",
+            "technique": "Oil on canvas 148 x 194 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/2/10sheba.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9017
+        },
+        {
+            "title": "Landscape with Paris and Oenone",
+            "date": "1648",
+            "technique": "Oil on canvas 119 x 150 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/claude/2/11paris.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9018
+        },
+        {
+            "title": "Apollo Guarding the Herds of Admetus",
+            "date": "1654",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/claude/2/12apollo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9019
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "1655",
+            "technique": "Oil on canvas 100 x 137 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/c/claude/2/12europa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9020
+        },
+        {
+            "title": "Flock of Sheep in the Campagna",
+            "date": "1656",
+            "technique": "Oil on canvas 35 x 45 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/claude/3/00flock.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9021
+        },
+        {
+            "title": "Landscape with Acis and Galatea",
+            "date": "1657",
+            "technique": "Oil on canvas 100 x 135 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/c/claude/3/01acis.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9022
+        },
+        {
+            "title": "Landscape with Apollo and Mercury",
+            "date": "1660",
+            "technique": "Oil on canvas 745 x 1105 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/c/claude/3/02apollo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9023
+        },
+        {
+            "title": "Ideal Landscape with the Flight into Egypt",
+            "date": "1663",
+            "technique": "Oil on canvas 193 x 147 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/claude/3/02egypt.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9024
+        },
+        {
+            "title": "Erminia and the Shepherds",
+            "date": "1666",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/claude/3/02ermini.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9025
+        },
+        {
+            "title": "Landscape with Jacob and Rachel at the Well (Morning)",
+            "date": "1666",
+            "technique": "Oil on canvas 113 x 157 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/claude/3/02jacob.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9026
+        },
+        {
+            "title": "Landscape with the Rest on the Flight into Egypt",
+            "date": "1666",
+            "technique": "Oil on canvas 116 x 157cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/claude/3/03landsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9027
+        },
+        {
+            "title": "Landscape with the Rest on the Flight into Egypt (detail)",
+            "date": "1666",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/claude/3/04rest.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9028
+        },
+        {
+            "title": "Coast Scene with the Rape of Europa",
+            "date": "1667",
+            "technique": "Oil on canvas 1346 x 1016 cm",
+            "location": "Royal Collection London",
+            "url": "https://www.wga.hu/html/c/claude/3/05europa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9029
+        },
+        {
+            "title": "The Expulsion of Hagar",
+            "date": "1668",
+            "technique": "Oil on canvas 107 x 140 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/c/claude/3/06hagar.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9030
+        },
+        {
+            "title": "View of Delphi",
+            "date": "1672",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/c/claude/3/071delph.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9031
+        },
+        {
+            "title": "Landscape with Aeneas at Delos",
+            "date": "1672",
+            "technique": "Oil on canvas 100 x 134 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/claude/3/07delos.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9032
+        },
+        {
+            "title": "Landscape with Jacob Wrestling with the Angel",
+            "date": "1672",
+            "technique": "Oil on canvas 113 x 157 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/claude/3/07jacob.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9033
+        },
+        {
+            "title": "A Seaport at Sunrise",
+            "date": "1674",
+            "technique": "Oil on canvas 72 x 96 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/c/claude/3/08seapor.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9034
+        },
+        {
+            "title": "Aeneas's Farewell to Dido in Carthago",
+            "date": "1676",
+            "technique": "Oil on canvas 120 x 1492 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/c/claude/3/09aeneas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9035
+        },
+        {
+            "title": "Apollo and the Muses on Mount Helion (Parnassus)",
+            "date": "1680",
+            "technique": "Oil on canvas 98 x 135 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/c/claude/3/10muses.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9036
+        },
+        {
+            "title": "Landscape with Noli Me Tangere Scene",
+            "date": "1681",
+            "technique": "Oil on canvas 845 x 141 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/c/claude/3/11nolime.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9037
+        },
+        {
+            "title": "Landscape with Ascanius Shooting the Stag of Sylvia",
+            "date": "1682",
+            "technique": "Oil on canvas 120 x 150 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/c/claude/3/12sylvia.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9038
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "WILIGELMO",
+    "life": "(active 1099-1120 in Modena)",
+    "school": "Italian",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Creation of Adam and Eve Fall of Man",
+            "date": "1100s",
+            "technique": "Marble height 100 cm",
+            "location": "Cathedral of San Geminiano Modena",
+            "url": "https://www.wga.hu/html/w/wiligelm/modena1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44156
+        },
+        {
+            "title": "Creation of Adam and Eve",
+            "date": "1100s",
+            "technique": "Marble height 100 cm",
+            "location": "Cathedral of San Geminiano Modena",
+            "url": "https://www.wga.hu/html/w/wiligelm/modena2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44157
+        },
+        {
+            "title": "Scenes from Genesis",
+            "date": "1100s",
+            "technique": "Marble height 100 cm",
+            "location": "Cathedral of San Geminiano Modena",
+            "url": "https://www.wga.hu/html/w/wiligelm/modena3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44158
+        },
+        {
+            "title": "Adam and Eve Labouring",
+            "date": "1100s",
+            "technique": "Marble height 100 cm",
+            "location": "Cathedral Modena",
+            "url": "https://www.wga.hu/html/w/wiligelm/modena4.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44159
+        },
+        {
+            "title": "Daniel and Zacharias",
+            "date": "1100-20",
+            "technique": "Marble",
+            "location": "Cathedral of San Geminiano Modena",
+            "url": "https://www.wga.hu/html/w/wiligelm/modena5.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44160
+        },
+        {
+            "title": "Telamon",
+            "date": "1110s",
+            "technique": "Stone",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/w/wiligelm/telamon.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44161
+        }
+    ]
+}

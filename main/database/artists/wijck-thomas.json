@@ -1,0 +1,58 @@
+{
+    "name": "WIJCK Thomas",
+    "life": "(b. 1616 Beverwijck d. 1677 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "An Alchemist",
+            "date": "-",
+            "technique": "Oil on panel 41 x 36 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/wyck/1thomas/alchemis.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44141
+        },
+        {
+            "title": "Italianate Harbour Scene",
+            "date": "1650s",
+            "technique": "Oil on canvas 81 x 100 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/w/wyck/1thomas/harbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44142
+        },
+        {
+            "title": "Interior of a Cave",
+            "date": "c. 1640",
+            "technique": "Oil on panel 43 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wyck/1thomas/int_cave.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 44143
+        },
+        {
+            "title": "Morra-Players",
+            "date": "1640s",
+            "technique": "Oil on canvas 44 x 37 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/w/wyck/1thomas/morrapla.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44144
+        },
+        {
+            "title": "Southern Landscape",
+            "date": "-",
+            "technique": "Oil on panel 47 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wyck/1thomas/southern.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44145
+        }
+    ]
+}

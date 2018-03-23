@@ -1,0 +1,118 @@
+{
+    "name": "STUBBS George",
+    "life": "(b. 1724 Liverpool d. 1806 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "William Anderson with Two Saddle-horses",
+            "date": "1793",
+            "technique": "Oil on canvas 1022 x 1279 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/s/stubbs/2saddleh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38293
+        },
+        {
+            "title": "A Dark Bay Thoroughbred in a Landscape",
+            "date": "1762-68",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stubbs/darkbay.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38294
+        },
+        {
+            "title": "The Milbanke and Melbourne Families",
+            "date": "c. 1769",
+            "technique": "Oil on canvas 97 x 149 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/stubbs/families.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38295
+        },
+        {
+            "title": "Haymaking",
+            "date": "1785",
+            "technique": "Oil on wood 895 x 1325 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/s/stubbs/haymake.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38296
+        },
+        {
+            "title": "Lion Devouring a Horse",
+            "date": "1763",
+            "technique": "Oil on canvas 69 x 104 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/s/stubbs/lion_dev.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38297
+        },
+        {
+            "title": "The Pointer",
+            "date": "c. 1766",
+            "technique": "Oil on canvas 61 x 70 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/stubbs/pointer.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38298
+        },
+        {
+            "title": "King Charles Spaniel",
+            "date": "1776",
+            "technique": "Oil on panel 59 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stubbs/spaniel.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38299
+        },
+        {
+            "title": "Portrait of a Dark Brown and White Newfoundland Spaniel",
+            "date": "1784",
+            "technique": "Oil on panel 69 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stubbs/spaniel1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38300
+        },
+        {
+            "title": "Whistlejacket",
+            "date": "1761-62",
+            "technique": "Oil on canvas 325 x 259 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stubbs/whistle.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 38301
+        },
+        {
+            "title": "Bird",
+            "date": "c. 1800",
+            "technique": "Etching",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/s/stubbs/z_bird.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 38302
+        },
+        {
+            "title": "Man",
+            "date": "c. 1800",
+            "technique": "Etching",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/s/stubbs/z_man.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 38303
+        }
+    ]
+}

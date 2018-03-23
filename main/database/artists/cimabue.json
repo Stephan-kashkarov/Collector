@@ -1,0 +1,438 @@
+{
+    "name": "CIMABUE",
+    "life": "(b. ca. 1240 Firenze d. ca. 1302 Firenze)",
+    "school": "Italian",
+    "timeframe": "1251-1300",
+    "art": [
+        {
+            "title": "View of the transept and apse from the east",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8878
+        },
+        {
+            "title": "View of the transept and nave from the west",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8879
+        },
+        {
+            "title": "View of the transept",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8880
+        },
+        {
+            "title": "View of the transept",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8881
+        },
+        {
+            "title": "View of the frescoes in the left transept",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8882
+        },
+        {
+            "title": "South transept (detail)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/0view6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8883
+        },
+        {
+            "title": "Scenes from the Apocalypse",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/apocaly.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8884
+        },
+        {
+            "title": "Scenes from the Apocalypse: The Angel of the Sixth Seal",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/apocaly1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8885
+        },
+        {
+            "title": "Apocalyptical Christ (detail)",
+            "date": "1277-80",
+            "technique": "Fresco 350 x 300 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/apocaly2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8886
+        },
+        {
+            "title": "Apocalyptical Christ (detail)",
+            "date": "1277-80",
+            "technique": "Fresco 350 x 300 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/apocaly3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8887
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1277-80",
+            "technique": "Fresco 350 x 690 cm",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8888
+        },
+        {
+            "title": "Crucifixion of St Peter",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/st_peter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8889
+        },
+        {
+            "title": "Crossing vault",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8890
+        },
+        {
+            "title": "Crossing vault (detail of the south cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8891
+        },
+        {
+            "title": "Crossing vault (detail of the west cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8892
+        },
+        {
+            "title": "Crossing vault (detail of the west cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8893
+        },
+        {
+            "title": "Crossing vault (detail of the east cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8894
+        },
+        {
+            "title": "Crossing vault (detail of the east cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8895
+        },
+        {
+            "title": "Crossing vault (detail of the north cell)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8896
+        },
+        {
+            "title": "Crossing vault (detail)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8897
+        },
+        {
+            "title": "Crossing vault (detail)",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/vault9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8898
+        },
+        {
+            "title": "The Virgin beside Christ on the Heavenly Throne",
+            "date": "1277-80",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8899
+        },
+        {
+            "title": "The Capture of Christ (detail)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Upper Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/assisi/z_judas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8900
+        },
+        {
+            "title": "Crucifix",
+            "date": "1268-71",
+            "technique": "Tempera on wood 336 x 267 cm",
+            "location": "San Domenico Arezzo",
+            "url": "https://www.wga.hu/html/c/cimabue/crucifix/cruci_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8901
+        },
+        {
+            "title": "Crucifix (detail)",
+            "date": "1268-71",
+            "technique": "Tempera on wood 45 x 28 cm (size of the detail)",
+            "location": "San Domenico Arezzo",
+            "url": "https://www.wga.hu/html/c/cimabue/crucifix/cruci_a1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8902
+        },
+        {
+            "title": "Crucifix (detail)",
+            "date": "1268-71",
+            "technique": "Tempera on wood 45 x 28 cm (size of the detail)",
+            "location": "San Domenico Arezzo",
+            "url": "https://www.wga.hu/html/c/cimabue/crucifix/cruci_a2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8903
+        },
+        {
+            "title": "Crucifix (detail)",
+            "date": "1268-71",
+            "technique": "Tempera on wood 645 x 53 cm (size of the detail)",
+            "location": "San Domenico Arezzo",
+            "url": "https://www.wga.hu/html/c/cimabue/crucifix/cruci_a3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8904
+        },
+        {
+            "title": "Crucifix",
+            "date": "1287-88",
+            "technique": "Panel 448 x 390 cm",
+            "location": "Museo dell'Opera di Santa Croce Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/crucifix/cruci_sc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8905
+        },
+        {
+            "title": "Madonna Enthroned with the Child St Francis and Four Angels",
+            "date": "1278-80",
+            "technique": "Fresco 320 x 340 cm",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonn_1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8906
+        },
+        {
+            "title": "Madonna Enthroned with the Child St Francis and Four Angels",
+            "date": "1278-80",
+            "technique": "Fresco 320 x 340 cm",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonn_2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8907
+        },
+        {
+            "title": "Madonna Enthroned with the Child St Francis and four Angels (detail)",
+            "date": "1278-80",
+            "technique": "Fresco 73 x 60 cm (size of detail)",
+            "location": "Lower Church San Francesco Assisi",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonn_3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8908
+        },
+        {
+            "title": "The Madonna in Majesty (Maest\u00e0)",
+            "date": "1285-86",
+            "technique": "Tempera on panel 385 x 223 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8909
+        },
+        {
+            "title": "The Madonna in Majesty (detail)",
+            "date": "1285-86",
+            "technique": "Tempera on panel 91 x 75 cm (size of the detail)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8910
+        },
+        {
+            "title": "The Madonna in Majesty (detail)",
+            "date": "1285-86",
+            "technique": "Tempera on panel 48 x 39 cm (size of the detail)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonna2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8911
+        },
+        {
+            "title": "The Madonna in Majesty (detail)",
+            "date": "1285-86",
+            "technique": "Tempera on panel 101 x 118 cm (size of the detail)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonna3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8912
+        },
+        {
+            "title": "Madonna Enthroned with the Child St Francis St. Domenico and two Angels",
+            "date": "-",
+            "technique": "Tempera on wood 133 x 81 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonnb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8913
+        },
+        {
+            "title": "Madonna Enthroned with the Child and Two Angels",
+            "date": "-",
+            "technique": "Tempera on wood 218 x 118 cm",
+            "location": "Santa Maria dei Servi Bologna",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/madonnc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8914
+        },
+        {
+            "title": "Virgin and Child with Two Angels",
+            "date": "1280-85",
+            "technique": "Egg tempera on wood 26 x 21 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/panel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8915
+        },
+        {
+            "title": "Virgin and Child with Two Angels (detail)",
+            "date": "1280-85",
+            "technique": "Egg tempera on wood",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/panel1a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8916
+        },
+        {
+            "title": "Flagellation",
+            "date": "1280-85",
+            "technique": "Tempera on wood 25 x 20 cm",
+            "location": "Frick Collection New York",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/panel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8917
+        },
+        {
+            "title": "Virgin Enthroned with Angels",
+            "date": "1290-95",
+            "technique": "Panel 424 x 276 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8918
+        },
+        {
+            "title": "Window in the choir",
+            "date": "1287-88",
+            "technique": "Stained glass",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/c/cimabue/madonna/window.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 8919
+        },
+        {
+            "title": "Christ Enthroned between the Virgin and St John the Evangelist (detail)",
+            "date": "1301-02",
+            "technique": "Mosaic 385 x 223 cm",
+            "location": "Duomo Pisa",
+            "url": "https://www.wga.hu/html/c/cimabue/mosaic/st_john.html",
+            "form": "mosaic",
+            "painting_type": "religious",
+            "index": 8920
+        }
+    ]
+}

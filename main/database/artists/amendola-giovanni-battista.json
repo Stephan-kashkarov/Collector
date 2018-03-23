@@ -1,0 +1,28 @@
+{
+    "name": "AMENDOLA Giovanni Battista",
+    "life": "(b. 1848 Episcopio di Sarno d. 1887 Napoli)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Venus",
+            "date": "-",
+            "technique": "Bronze golden brown and dark brown patina height 87 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amendola/venus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 452
+        },
+        {
+            "title": "The Wedded",
+            "date": "-",
+            "technique": "Bronze golden brown and gilt patina height 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amendola/wedded.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 453
+        }
+    ]
+}

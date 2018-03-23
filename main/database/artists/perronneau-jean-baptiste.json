@@ -1,0 +1,158 @@
+{
+    "name": "PERRONNEAU Jean-Baptiste",
+    "life": "(b. 1715 Paris d. 1783 Amsterdam)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Jacques Cazotte",
+            "date": "1760-64",
+            "technique": "Oil on canvas 92 x 73 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/perronne/cazotte.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30728
+        },
+        {
+            "title": "Portrait of Charles le Normant du Coudray",
+            "date": "1769",
+            "technique": "Oil on canvas 62 x 48 cm",
+            "location": "Mus\u00e9e Cognacq-Jay Paris",
+            "url": "https://www.wga.hu/html/p/perronne/coudray.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30729
+        },
+        {
+            "title": "A Girl with a Kitten",
+            "date": "1745",
+            "technique": "Pastel",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/perronne/girl_kit.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30730
+        },
+        {
+            "title": "Portrait of Gabriel Huquier",
+            "date": "1747",
+            "technique": "Pastel on blue paper 63 x 54 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/huquier.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30731
+        },
+        {
+            "title": "Portrait of Gabriel Huquier (detail)",
+            "date": "1747",
+            "technique": "Pastel on blue paper",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/huquier1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30732
+        },
+        {
+            "title": "Madmoiselle Huquier",
+            "date": "1747",
+            "technique": "Pastel on vellum 47 x 38 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/huquier2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30733
+        },
+        {
+            "title": "Portrait of Jean-Baptiste Oudry",
+            "date": "1753",
+            "technique": "Oil on canvas 105 x 131 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/jb_oudry.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30734
+        },
+        {
+            "title": "Portrait of the Lawyer Daniel Jousse",
+            "date": "1765-67",
+            "technique": "Oil on canvas 80 x 64 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "url": "https://www.wga.hu/html/p/perronne/jousse.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30735
+        },
+        {
+            "title": "Laurent Cars engraver",
+            "date": "-",
+            "technique": "Pastel on blue-gray paper",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/laurent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30736
+        },
+        {
+            "title": "Portrait of a Boy with a Book",
+            "date": "1740s",
+            "technique": "Oil on canvas 63 x 52 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/perronne/port_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30737
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1766",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/p/perronne/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30738
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1766",
+            "technique": "Oil on canvas 82 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perronne/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30739
+        },
+        {
+            "title": "Abrahann Van Robais",
+            "date": "1769",
+            "technique": "Pastel on blue paper 73 x 60 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/robais.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30740
+        },
+        {
+            "title": "Madame de Sorquainville",
+            "date": "1749",
+            "technique": "Oil on canvas 101 x 81 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/sorquain.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30741
+        },
+        {
+            "title": "Monsieur Tassin de La Renardi\u00e8re",
+            "date": "1765",
+            "technique": "Pastel on blue paper 67 x 54 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perronne/tassin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 30742
+        }
+    ]
+}

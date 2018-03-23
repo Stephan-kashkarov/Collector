@@ -1,0 +1,48 @@
+{
+    "name": "M\u00c9NAGEOT Fran\u00e7ois-Guillaume",
+    "life": "(b. 1744 London d. 1816 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Death of Leonardo da Vinci in the Arms of Francis I",
+            "date": "1781",
+            "technique": "Oil on canvas 278 x 357 cm",
+            "location": "Mus\u00e9e de l'H\u00f4tel de Ville Amboise",
+            "url": "https://www.wga.hu/html/m/menageot/death_le.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 26207
+        },
+        {
+            "title": "Lady Nursing Her Child",
+            "date": "1783-86",
+            "technique": "Oil on panel 26 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/menageot/nursing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26208
+        },
+        {
+            "title": "Envy Plucking the Wings of Fame",
+            "date": "1806",
+            "technique": "Oil on canvas 105 x 91 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/menageot/plucking.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 26209
+        },
+        {
+            "title": "The Martyrdom of St Sebastian",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Haggerty Museum of Art Milwaulkee Wisconsin",
+            "url": "https://www.wga.hu/html/m/menageot/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 26210
+        }
+    ]
+}

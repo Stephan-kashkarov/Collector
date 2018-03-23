@@ -1,0 +1,108 @@
+{
+    "name": "OCHTERVELT Jacob",
+    "life": "(b. 1634 Rotterdam d. 1682 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "A Child and Nurse in the Foyer of a Townhouse",
+            "date": "1663",
+            "technique": "Oil on canvas 82 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ochterve/childnur.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29748
+        },
+        {
+            "title": "A Family Group",
+            "date": "1670",
+            "technique": "Oil on canvas 97 x 91 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/ochterve/d_family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29749
+        },
+        {
+            "title": "The Drawing Lesson",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 59 cm",
+            "location": "Rheinisches Landesmuseum Bonn",
+            "url": "https://www.wga.hu/html/o/ochterve/drawingl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29750
+        },
+        {
+            "title": "Buying Grapes",
+            "date": "1669",
+            "technique": "Oil on canvas 81 x 67 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/o/ochterve/grapes.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29751
+        },
+        {
+            "title": "Itinerant Musicians",
+            "date": "1660-65",
+            "technique": "Oil on oak 56 x 47 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/o/ochterve/itineran.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29752
+        },
+        {
+            "title": "The Love Letter",
+            "date": "1670-72",
+            "technique": "Oil on canvas 91 x 64 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/o/ochterve/lovelett.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29753
+        },
+        {
+            "title": "Musical Company in an Interior",
+            "date": "c. 1670",
+            "technique": "Oil on canvas 59 x 49 cm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/o/ochterve/mcompany.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29754
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1660s",
+            "technique": "Oil on panel 26 x 21 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/ochterve/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29755
+        },
+        {
+            "title": "Street Musicians at the Doorway of a House",
+            "date": "1665",
+            "technique": "Oil on canvas",
+            "location": "Art Museum Saint Louis",
+            "url": "https://www.wga.hu/html/o/ochterve/s_musici.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29756
+        },
+        {
+            "title": "Rehearsing the Song",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/o/ochterve/song_reh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29757
+        }
+    ]
+}

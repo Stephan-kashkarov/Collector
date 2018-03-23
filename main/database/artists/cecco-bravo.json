@@ -1,0 +1,48 @@
+{
+    "name": "CECCO BRAVO",
+    "life": "(b. 1601 Firenze d. 1661 Innsbruck)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Christ Supported by Two Angels",
+            "date": "1650s",
+            "technique": "Oil on canvas 132 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cecco_br/christ_s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8303
+        },
+        {
+            "title": "View of the south wall",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/cecco_br/pitti.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 8304
+        },
+        {
+            "title": "South wall decoration (detail)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/c/cecco_br/pitti1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 8305
+        },
+        {
+            "title": "Ulysses and Nausicaa",
+            "date": "1650s",
+            "technique": "Oil on canvas 97 \u00d7 135 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cecco_br/ulysses.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8306
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "KRACKER Johann Lucas",
+    "life": "(b. 1719 Wien d. 1779 Eger)",
+    "school": "Austrian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Saint John of Nepomuk",
+            "date": "1770",
+            "technique": "Oil on canvas 188 x 126 cm",
+            "location": "Bishopric Seminary Eger",
+            "url": "https://www.wga.hu/html/k/kracker/nepomuk.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21204
+        },
+        {
+            "title": "The Dispute between St Catherine of Alexandria and the Philosophers",
+            "date": "1775",
+            "technique": "Oil on canvas 765 x 405 cm",
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "url": "https://www.wga.hu/html/k/kracker/skatalin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21205
+        },
+        {
+            "title": "St. Francis of Solano Baptizing Indians",
+            "date": "1770",
+            "technique": "Oil on canvas 190 x 1405 cm",
+            "location": "Bishopric Seminary Eger",
+            "url": "https://www.wga.hu/html/k/kracker/solano.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21206
+        },
+        {
+            "title": "Appearance of the Virgin to St Anthony",
+            "date": "1771",
+            "technique": "Oil on canvas",
+            "location": "Minorite Church Eger",
+            "url": "https://www.wga.hu/html/k/kracker/sztantal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21207
+        },
+        {
+            "title": "The Council in Trident (detail)",
+            "date": "1778",
+            "technique": "Fresco",
+            "location": "Library of the College Eger",
+            "url": "https://www.wga.hu/html/k/kracker/trident1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21208
+        }
+    ]
+}

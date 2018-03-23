@@ -1,0 +1,958 @@
+{
+    "name": "ARCHITECT Spanish",
+    "life": "(active 842-850 in Oviedo)",
+    "school": "Spanish",
+    "timeframe": "0801-0850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "842-50",
+            "technique": "Photo",
+            "location": "Palace auditorium Monte Naranco Oviedo",
+            "url": "https://www.wga.hu/html/zzzarchi/09c/oviedo1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2357
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 850",
+            "technique": "Photo",
+            "location": "San Miguel de Lillo Monte Naranco Oviedo",
+            "url": "https://www.wga.hu/html/zzzarchi/09c/oviedo2.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2358
+        },
+        {
+            "title": "Interior view",
+            "date": "1057",
+            "technique": "Photo",
+            "location": "Abbey of San Salvador de Leyre (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/05s_1001.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2359
+        },
+        {
+            "title": "Exterior view",
+            "date": "1057",
+            "technique": "Photo",
+            "location": "Abbey of San Salvador de Leyre (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/05s_1002.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2360
+        },
+        {
+            "title": "Interior view",
+            "date": "1063-1100",
+            "technique": "Photo",
+            "location": "San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/06s_1001.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2361
+        },
+        {
+            "title": "Interior view",
+            "date": "1063-1100",
+            "technique": "Photo",
+            "location": "San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/06s_1002.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2362
+        },
+        {
+            "title": "Exterior view",
+            "date": "1066-1100",
+            "technique": "Photo",
+            "location": "San Mart\u00edn Fr\u00f3mista (Palencia)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/07s_1001.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2363
+        },
+        {
+            "title": "Interior view",
+            "date": "1066-1100",
+            "technique": "Photo",
+            "location": "San Mart\u00edn Fr\u00f3mista (Palencia)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/07s_1002.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2364
+        },
+        {
+            "title": "Exterior view",
+            "date": "1066-1100",
+            "technique": "Photo",
+            "location": "San Mart\u00edn Fr\u00f3mista (Palencia)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/07s_1003.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2365
+        },
+        {
+            "title": "Interior view",
+            "date": "1075-1125",
+            "technique": "Photo",
+            "location": "Cathedral Santiago de Compostela (Galicia)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/08s_1001.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2366
+        },
+        {
+            "title": "Interior view",
+            "date": "1036-94",
+            "technique": "Photo",
+            "location": "Cathedral Jaca (Huesca)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/09s_1001.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2367
+        },
+        {
+            "title": "View of the bridge",
+            "date": "11th century",
+            "technique": "Photo",
+            "location": "Puente la Reina (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/11c/5/10s_1001.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2368
+        },
+        {
+            "title": "Exterior view",
+            "date": "1120s",
+            "technique": "Photo",
+            "location": "San Tirso Sahag\u00fan (Le\u00f3n)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/11s_1101.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2369
+        },
+        {
+            "title": "Exterior view",
+            "date": "1120s",
+            "technique": "Photo",
+            "location": "San Tirso Sahag\u00fan (Le\u00f3n)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/11s_1102.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2370
+        },
+        {
+            "title": "Exterior view",
+            "date": "12th century",
+            "technique": "Photo",
+            "location": "San Lorenzo Sahag\u00fan (Le\u00f3n)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/12s_1101.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2371
+        },
+        {
+            "title": "Interior view",
+            "date": "1149",
+            "technique": "Photo",
+            "location": "San Isidoro Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/13s_1101.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2372
+        },
+        {
+            "title": "General view",
+            "date": "1109-1200",
+            "technique": "Photo",
+            "location": "San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/14s_1101.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2373
+        },
+        {
+            "title": "Exterior view",
+            "date": "1109-1200",
+            "technique": "Photo",
+            "location": "San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/14s_1102.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2374
+        },
+        {
+            "title": "Interior view",
+            "date": "1109-1200",
+            "technique": "Photo",
+            "location": "San Vicente \u00c1vila",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/14s_1103.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2375
+        },
+        {
+            "title": "Interior view",
+            "date": "1170-1200",
+            "technique": "Photo",
+            "location": "Cathedral of San Salvador \u00c1vila",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/14s_1151.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2376
+        },
+        {
+            "title": "Exterior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Cathedral Zamora",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/15s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2377
+        },
+        {
+            "title": "Exterior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Cathedral Zamora",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/15s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2378
+        },
+        {
+            "title": "Interior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Cathedral Zamora",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/15s_1153.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2379
+        },
+        {
+            "title": "Exterior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Cathedral Zamora",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/15s_1154.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2380
+        },
+        {
+            "title": "Exterior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Collegiate church Toro (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/16s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2381
+        },
+        {
+            "title": "Exterior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Collegiate church Toro (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/16s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2382
+        },
+        {
+            "title": "Interior view",
+            "date": "1151-71",
+            "technique": "Photo",
+            "location": "Collegiate church Toro (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/16s_1153.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2383
+        },
+        {
+            "title": "Interior view",
+            "date": "1150-1200",
+            "technique": "Photo",
+            "location": "Old Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/17s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2384
+        },
+        {
+            "title": "Exterior view",
+            "date": "1150-1200",
+            "technique": "Photo",
+            "location": "Old Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/17s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2385
+        },
+        {
+            "title": "Interior view",
+            "date": "1150-1200",
+            "technique": "Photo",
+            "location": "Old Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/17s_1153.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2386
+        },
+        {
+            "title": "Interior view",
+            "date": "c. 1170",
+            "technique": "Photo",
+            "location": "Moreruela Abbey Granja de Moreruela (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/18s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2387
+        },
+        {
+            "title": "Interior view",
+            "date": "c. 1170",
+            "technique": "Photo",
+            "location": "Moreruela Abbey Granja de Moreruela (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/18s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2388
+        },
+        {
+            "title": "Exterior view",
+            "date": "1190-1210",
+            "technique": "Photo",
+            "location": "Church of Holy Sepulchre Torres del R\u00edo (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/19s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2389
+        },
+        {
+            "title": "Interior view",
+            "date": "1190-1210",
+            "technique": "Photo",
+            "location": "Church of Holy Sepulchre Torres del R\u00edo (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/19s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2390
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1170",
+            "technique": "Photo",
+            "location": "Moreruela Abbey Granja de Moreruela (Zamora)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/20s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2391
+        },
+        {
+            "title": "Exterior view",
+            "date": "1180-1200",
+            "technique": "Photo",
+            "location": "Santo Domingo Soria",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/21s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2392
+        },
+        {
+            "title": "Exterior view",
+            "date": "1190s",
+            "technique": "Photo",
+            "location": "Vera Cruz Segovia",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/22s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2393
+        },
+        {
+            "title": "Alc\u00e1zar",
+            "date": "12th century",
+            "technique": "Photo",
+            "location": "Segovia Castile",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/22s_1152.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2394
+        },
+        {
+            "title": "Exterior view",
+            "date": "1190s",
+            "technique": "Photo",
+            "location": "Santa Maria Eunate (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/23s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2395
+        },
+        {
+            "title": "Exterior view",
+            "date": "1190s",
+            "technique": "Photo",
+            "location": "Santa Maria Eunate (Navarre)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/23s_1152.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2396
+        },
+        {
+            "title": "Capitals in the cloister",
+            "date": "12th century",
+            "technique": "Photo",
+            "location": "Abbey Santo Domingo de Silos (Burgos)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/24s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2397
+        },
+        {
+            "title": "Exterior view",
+            "date": "12th century",
+            "technique": "Photo",
+            "location": "Monastery of San Juan de la Pe\u00f1a Santa Cruz de la Ser\u00f3s (Huesca)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/25s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2398
+        },
+        {
+            "title": "General view",
+            "date": "11th-13th centuries",
+            "technique": "Photo",
+            "location": "Castle Loarre (Huesca)",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/5/26s_1151.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2399
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun c. 1222",
+            "technique": "Photo",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/04s_1201.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2400
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun c. 1222",
+            "technique": "Photo",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/04s_1202.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2401
+        },
+        {
+            "title": "Interior view",
+            "date": "begun c. 1222",
+            "technique": "Photo",
+            "location": "Cathedral Toledo",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/04s_1203.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2402
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun c. 1255",
+            "technique": "Photo",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/05s_1251.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2403
+        },
+        {
+            "title": "Interior view",
+            "date": "begun c. 1255",
+            "technique": "Photo",
+            "location": "Cathedral Le\u00f3n",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/05s_1252.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2404
+        },
+        {
+            "title": "Cloister",
+            "date": "1200-30",
+            "technique": "Photo",
+            "location": "San Juan de Duero Monastery Soria",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/06s_1201.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2405
+        },
+        {
+            "title": "Cloister",
+            "date": "1200-30",
+            "technique": "Photo",
+            "location": "San Juan de Duero Monastery Soria",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/06s_1202.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2406
+        },
+        {
+            "title": "Interior view",
+            "date": "1220s",
+            "technique": "Photo",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/09s_1201.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2407
+        },
+        {
+            "title": "Exterior view",
+            "date": "1200-10",
+            "technique": "Photo",
+            "location": "Cistercian convent church Las Huelgas",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/09s_1202.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2408
+        },
+        {
+            "title": "Exterior view",
+            "date": "1257-58",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Teruel",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/09s_1251.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2409
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1290",
+            "technique": "Photo",
+            "location": "Cathedral Plasencia",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/5/09s_1252.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2410
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1315",
+            "technique": "Photo",
+            "location": "Church of San Mart\u00edn Teruel",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/5/11s_1301.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2411
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1321",
+            "technique": "Photo",
+            "location": "Cathedral Palencia",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/5/12s_1301.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2412
+        },
+        {
+            "title": "View of the courtyard",
+            "date": "1309-14",
+            "technique": "Photo",
+            "location": "Castell Bellver Palma de Mallorca",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/5/14s_1301.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2413
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1402",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/02s_1401.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2414
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1402",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/02s_1402.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2415
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1402",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/02s_1403.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2416
+        },
+        {
+            "title": "General view",
+            "date": "begun 1435",
+            "technique": "Photo",
+            "location": "Castillo Manzanares el Real",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/04s_1401.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2417
+        },
+        {
+            "title": "Exterior view",
+            "date": "after 1445",
+            "technique": "Photo",
+            "location": "San Pablo Valladolid",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/05s_1401.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2418
+        },
+        {
+            "title": "Interior view",
+            "date": "after 1445",
+            "technique": "Photo",
+            "location": "San Pablo Valladolid",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/06s_1451.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2419
+        },
+        {
+            "title": "View of the cloister",
+            "date": "1486-96",
+            "technique": "Photo",
+            "location": "Colegio de San Gregorio Valladolid",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/06s_1452.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2420
+        },
+        {
+            "title": "Ornamentation (detail)",
+            "date": "1486-96",
+            "technique": "Photo",
+            "location": "Colegio de San Gregorio Valladolid",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/06s_1453.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2421
+        },
+        {
+            "title": "Ornamentation (detail)",
+            "date": "1486-96",
+            "technique": "Photo",
+            "location": "Colegio de San Gregorio Valladolid",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/06s_1454.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2422
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1477",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Astorga",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/07s_1451.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2423
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1477",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Astorga",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/07s_1452.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2424
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1477",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Astorga",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/07s_1453.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2425
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1477",
+            "technique": "Photo",
+            "location": "Cathedral of Santa Mar\u00eda Astorga",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/07s_1454.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2426
+        },
+        {
+            "title": "General view",
+            "date": "1480s",
+            "technique": "Photo",
+            "location": "Cathedral Burgos",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/08s_1451.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2427
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1500",
+            "technique": "Photo",
+            "location": "Casa de Pilatos Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/10s_1451.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2428
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1500",
+            "technique": "Photo",
+            "location": "Casa de Pilatos Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/10s_1452.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2429
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1500",
+            "technique": "Photo",
+            "location": "Casa de Pilatos Seville",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/10s_1453.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2430
+        },
+        {
+            "title": "General view",
+            "date": "15th century",
+            "technique": "Photo",
+            "location": "Castillo Coca",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/13s_1451.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2431
+        },
+        {
+            "title": "View of the castle",
+            "date": "15th century",
+            "technique": "Photo",
+            "location": "Coca Segovia",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/5/13s_1452.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2432
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1496",
+            "technique": "Photo",
+            "location": "Cathedral Plasencia",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/03s_1501.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2433
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1496",
+            "technique": "Photo",
+            "location": "Cathedral Plasencia",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/03s_1502.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2434
+        },
+        {
+            "title": "Exterior view",
+            "date": "1504",
+            "technique": "Photo",
+            "location": "Cathedral Palencia",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/04s_1501.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 2435
+        },
+        {
+            "title": "Interior view",
+            "date": "1514",
+            "technique": "Photo",
+            "location": "Cathedral Palencia",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/04s_1502.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2436
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1513",
+            "technique": "Photo",
+            "location": "Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/05s_1501.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2437
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1513",
+            "technique": "Photo",
+            "location": "Cathedral Salamanca",
+            "url": "https://www.wga.hu/html/zzzarchi/16c/5/05s_1502.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2438
+        },
+        {
+            "title": "Exterior view",
+            "date": "begun 1611",
+            "technique": "Photo",
+            "location": "La Encarnaci\u00f3n Madrid",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/05s_1601.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2439
+        },
+        {
+            "title": "Interior view",
+            "date": "begun 1617",
+            "technique": "Photo",
+            "location": "Monastery church Alcal\u00e1 de Henares",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/05s_1602.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 2440
+        },
+        {
+            "title": "Exterior view",
+            "date": "c. 1667",
+            "technique": "Photo",
+            "location": "Carthusian monastery Jerez de la Frontera",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/06s_1651.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2441
+        },
+        {
+            "title": "Exterior view",
+            "date": "1667-88",
+            "technique": "Photo",
+            "location": "Cathedral Ja\u00e9n",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/07s_1651.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2442
+        },
+        {
+            "title": "Exterior view",
+            "date": "1667-88",
+            "technique": "Photo",
+            "location": "Cathedral Ja\u00e9n",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/07s_1652.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2443
+        },
+        {
+            "title": "Exterior view",
+            "date": "1667-88",
+            "technique": "Photo",
+            "location": "Cathedral Ja\u00e9n",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/5/07s_1653.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2444
+        },
+        {
+            "title": "General view",
+            "date": "c. 1700",
+            "technique": "Photo",
+            "location": "Gardens La Granja",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/01s_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2445
+        },
+        {
+            "title": "General view",
+            "date": "c. 1700",
+            "technique": "Photo",
+            "location": "Gardens La Granja",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/01s_1702.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2446
+        },
+        {
+            "title": "Exterior view",
+            "date": "1728-71",
+            "technique": "Photo",
+            "location": "Royal Tobacco Factory",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/02s_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2447
+        },
+        {
+            "title": "Exterior view",
+            "date": "1740-44",
+            "technique": "Photo",
+            "location": "Palace of the Marquis of Dos Aguas Valencia",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/03s_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2448
+        },
+        {
+            "title": "Exterior view",
+            "date": "1748-71",
+            "technique": "Photo",
+            "location": "Royal Palace Aranjuez",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/04s_1701.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2449
+        },
+        {
+            "title": "Exterior view",
+            "date": "1761-85",
+            "technique": "Photo",
+            "location": "San Francisco el Grande Madrid",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/05s_1751.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2450
+        },
+        {
+            "title": "Exteror view",
+            "date": "1778-82",
+            "technique": "Photo",
+            "location": "La Peregrina Pontevedra",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/5/06s_1751.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 2451
+        }
+    ]
+}

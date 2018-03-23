@@ -1,0 +1,28 @@
+{
+    "name": "BONAV\u00cdA Santiago",
+    "life": "(b. 1705 Piacenza d. 1759 Aranjuez)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1531-68",
+            "technique": "Photo",
+            "location": "Court church of San Antonio Aranjuez",
+            "url": "https://www.wga.hu/html/b/bonavia1/aranjuez.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4983
+        },
+        {
+            "title": "Exterior view",
+            "date": "1739-45",
+            "technique": "Photo",
+            "location": "Bas\u00edlica Pontificia de San Miguel Madrid",
+            "url": "https://www.wga.hu/html/b/bonavia1/s_miguel.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 4984
+        }
+    ]
+}

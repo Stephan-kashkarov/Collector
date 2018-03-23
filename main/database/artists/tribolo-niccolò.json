@@ -1,0 +1,48 @@
+{
+    "name": "TRIBOLO Niccol\u00f2",
+    "life": "(b. 1500 Firenze d. 1558 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Fountain of Hercules and Antaeus",
+            "date": "after 1536",
+            "technique": "Bronze and marble",
+            "location": "Villa Castello Rifredi Florence",
+            "url": "https://www.wga.hu/html/t/tribolo/hercules.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40157
+        },
+        {
+            "title": "Fountain of Hercules and Antaeus (detail)",
+            "date": "after 1536",
+            "technique": "Bronze and marble",
+            "location": "Villa Castello Rifredi Florence",
+            "url": "https://www.wga.hu/html/t/tribolo/herculey.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40158
+        },
+        {
+            "title": "Fountain of the Labyrinth",
+            "date": "1555-60",
+            "technique": "Marble height of bronze figure 125 cm",
+            "location": "Villa Castello Rifredi Florence",
+            "url": "https://www.wga.hu/html/t/tribolo/labyrint.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 40159
+        },
+        {
+            "title": "The Goddess of Nature",
+            "date": "c. 1529",
+            "technique": "Marble",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "url": "https://www.wga.hu/html/t/tribolo/nature.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 40160
+        }
+    ]
+}

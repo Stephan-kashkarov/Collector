@@ -1,0 +1,28 @@
+{
+    "name": "ORSI Tranquillo",
+    "life": "(b. 1771 Venezia d. 1845 Venezia)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Palazzo Dandolo (Hotel Danieli): Interior",
+            "date": "1820s",
+            "technique": "Photo",
+            "location": "Riva dei Schiavoni Venice",
+            "url": "https://www.wga.hu/html/o/orsi_t/danieli1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 29890
+        },
+        {
+            "title": "Palazzo Dandolo (Hotel Danieli): Interior",
+            "date": "1820s",
+            "technique": "Photo",
+            "location": "Riva dei Schiavoni Venice",
+            "url": "https://www.wga.hu/html/o/orsi_t/danieli2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 29891
+        }
+    ]
+}

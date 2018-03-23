@@ -1,0 +1,28 @@
+{
+    "name": "CASALI Andrea",
+    "life": "(b. 1705 Roma d. 1764 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of Sir Charles Frederick",
+            "date": "-",
+            "technique": "Oil on canvas 134 x 97 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/c/casali/frederic.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8089
+        },
+        {
+            "title": "Lucretia",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 75 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/casali/lucretia.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8090
+        }
+    ]
+}

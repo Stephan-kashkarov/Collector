@@ -1,0 +1,38 @@
+{
+    "name": "TASSEL Jean",
+    "life": "(b. 1608 Langres d. 1667 Langres)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Portrait of Catherine de Montholon",
+            "date": "-",
+            "technique": "Oil on canvas 54 x 40 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "url": "https://www.wga.hu/html/t/tassel/montholo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38508
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1632",
+            "technique": "Oil on canvas 56 x 44 cm",
+            "location": "Mus\u00e9e Calvet Avignon",
+            "url": "https://www.wga.hu/html/t/tassel/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38509
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "-",
+            "technique": "Oil on canvas 43 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tassel/st_john.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38510
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "CASTAGNOLI Giuseppe",
+    "life": "(b. 1754 Prato d. 1832 Firenze)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "View of the Hall of the Niches",
+            "date": "1790s",
+            "technique": "Fresco",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/castagno/pitti1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 8129
+        },
+        {
+            "title": "View of the Castagnoli Room",
+            "date": "1790s",
+            "technique": "Fresco",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/castagno/pitti2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 8130
+        }
+    ]
+}

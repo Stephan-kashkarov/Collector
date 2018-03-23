@@ -1,0 +1,28 @@
+{
+    "name": "SQUARCIONE Francesco",
+    "life": "(b. 1397 Padova d. 1468 Padova)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "De Lazara Altarpiece",
+            "date": "1449-52",
+            "technique": "Panel 175 x 220 cm",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/s/squarcio/delazara.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37844
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1460",
+            "technique": "Poplar panel 82 x 70 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/squarcio/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37845
+        }
+    ]
+}

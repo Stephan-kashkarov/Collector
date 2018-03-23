@@ -1,0 +1,88 @@
+{
+    "name": "ALBERTINELLI Mariotto",
+    "life": "(b. 1474 Firenze d. 1515 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Child with Angel",
+            "date": "1497-99",
+            "technique": "Panel diameter 86 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/a/albertin/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 246
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1505-10",
+            "technique": "Tempera on panel 60 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/albertin/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 247
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1512",
+            "technique": "Panel 51 x 35 cm",
+            "location": "Pinacoteca Manfrediana Venice",
+            "url": "https://www.wga.hu/html/a/albertin/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 248
+        },
+        {
+            "title": "Visitation",
+            "date": "1503",
+            "technique": "Oil on wood 232 x 146 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/albertin/visitat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 249
+        },
+        {
+            "title": "Annunciation",
+            "date": "1503",
+            "technique": "Oil on wood 23 x 50 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/albertin/visitat1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 250
+        },
+        {
+            "title": "Birth of Christ",
+            "date": "1503",
+            "technique": "Oil on wood 23 x 50 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/albertin/visitat2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 251
+        },
+        {
+            "title": "Circumcision",
+            "date": "1503",
+            "technique": "Oil on wood 23 x 50 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/albertin/visitat3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 252
+        },
+        {
+            "title": "Visitation",
+            "date": "1508",
+            "technique": "Oil on panel enlarged at the top 147 x 116 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/albertin/visitat4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 253
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "FUGA Ferdinando",
+    "life": "(b. 1699 Firenze d. 1781 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Baldacchino",
+            "date": "1750",
+            "technique": "Porphyry bronze",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/f/fuga/baldacch.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 14525
+        },
+        {
+            "title": "Exterior view",
+            "date": "1732",
+            "technique": "Photo",
+            "location": "Palazzo della Consulta Rome",
+            "url": "https://www.wga.hu/html/f/fuga/consult1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14526
+        },
+        {
+            "title": "Exterior view",
+            "date": "1732-35",
+            "technique": "Photo",
+            "location": "Palazzo della Consulta Rome",
+            "url": "https://www.wga.hu/html/f/fuga/consult2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14527
+        },
+        {
+            "title": "Exterior view",
+            "date": "1741-43",
+            "technique": "Photo",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/f/fuga/maggior1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14528
+        },
+        {
+            "title": "Exterior view",
+            "date": "1741-43",
+            "technique": "Photo",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/f/fuga/maggior2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14529
+        }
+    ]
+}

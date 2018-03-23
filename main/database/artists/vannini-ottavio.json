@@ -1,0 +1,78 @@
+{
+    "name": "VANNINI Ottavio",
+    "life": "(b. 1585 Firenze d. 1644 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "General view of the Salone Terreno",
+            "date": "1635-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 42056
+        },
+        {
+            "title": "View of the west wall",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 42057
+        },
+        {
+            "title": "View of the west wall (detail)",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 42058
+        },
+        {
+            "title": "Michelangelo Showing Lorenzo il Magnifico the Head of a Faun",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42059
+        },
+        {
+            "title": "Michelangelo Showing Lorenzo il Magnifico the Head of a Faun",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti4.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42060
+        },
+        {
+            "title": "Michelangelo Showing Lorenzo il Magnifico the Head of a Faun (detail)",
+            "date": "1638-42",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/v/vannini/pitti5.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 42061
+        },
+        {
+            "title": "Scenes from the Reign of Cosimo II de' Medici",
+            "date": "1622-23",
+            "technique": "Fresco",
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "url": "https://www.wga.hu/html/v/vannini/poggio.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 42062
+        }
+    ]
+}

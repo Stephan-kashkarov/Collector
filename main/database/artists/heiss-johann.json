@@ -1,0 +1,48 @@
+{
+    "name": "HEISS Johann",
+    "life": "(b. 1640 Memmingen d. 1704 Augsburg)",
+    "school": "German",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Allegory of Winter",
+            "date": "1665",
+            "technique": "Oil on copper 29 x 37 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/heiss/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19551
+        },
+        {
+            "title": "The Holy Kinship",
+            "date": "-",
+            "technique": "Oil on canvas 83 x 59 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heiss/kinship.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19552
+        },
+        {
+            "title": "The Continence of Scipio",
+            "date": "1700",
+            "technique": "Oil on canvas 130 x 196 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heiss/scipio.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19553
+        },
+        {
+            "title": "Vulcan Surprising Venus and Mars in Bed before an Assembly of the Gods",
+            "date": "1679",
+            "technique": "Oil on canvas 135 x 197 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heiss/vulcanve.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19554
+        }
+    ]
+}

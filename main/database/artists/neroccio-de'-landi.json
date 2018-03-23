@@ -1,0 +1,108 @@
+{
+    "name": "NEROCCIO DE' LANDI",
+    "life": "(b. 1445 Siena d. 1500 Siena)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Yale University Art Gallery New Haven",
+            "url": "https://www.wga.hu/html/n/nerocci/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29513
+        },
+        {
+            "title": "Three Episodes from the Life of St Benedict (1)",
+            "date": "1475",
+            "technique": "Panel 28 x 193 cm (all three)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/n/nerocci/benedic1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29514
+        },
+        {
+            "title": "Three Episodes from the Life of St Benedict (2)",
+            "date": "1475",
+            "technique": "Panel 28 x 193 cm (all three)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/n/nerocci/benedic2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29515
+        },
+        {
+            "title": "Three Episodes from the Life of St Benedict (3)",
+            "date": "1475",
+            "technique": "Panel 28 x 193 cm (all three)",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/n/nerocci/benedic3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29516
+        },
+        {
+            "title": "The Angel Gabriel",
+            "date": "-",
+            "technique": "Terracotta height 164 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/n/nerocci/gabriel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 29517
+        },
+        {
+            "title": "Madonna with Child St Sebastian and St Catherine of Alexandria",
+            "date": "1485-90",
+            "technique": "Tempera on wood 73 x 50 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/n/nerocci/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29518
+        },
+        {
+            "title": "Madonna and Child between St Jerome and St Bernardino of Siena",
+            "date": "c. 1476",
+            "technique": "Tempera and gold on panel 98 x 52 cm (with original frame)",
+            "location": "Pinacoteca Nazionale Siena",
+            "url": "https://www.wga.hu/html/n/nerocci/madonna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29519
+        },
+        {
+            "title": "Madonna and Child with St John the Baptist and St Mary Magdalene",
+            "date": "c. 1495",
+            "technique": "Tempera on panel",
+            "location": "Museum of Art Indianapolis",
+            "url": "https://www.wga.hu/html/n/nerocci/madonnb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29520
+        },
+        {
+            "title": "Madonna with the Child",
+            "date": "1470-75",
+            "technique": "Tempera on panel 52 x 37 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/n/nerocci/madonnc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29521
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1480s",
+            "technique": "Tempera on panel 47 x 31 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/n/nerocci/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29522
+        }
+    ]
+}

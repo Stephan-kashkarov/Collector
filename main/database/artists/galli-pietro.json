@@ -1,0 +1,38 @@
+{
+    "name": "GALLI Pietro",
+    "life": "(b. 1804 Roma d. 1877 Roma)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Font",
+            "date": "1860",
+            "technique": "Marble",
+            "location": "San Paolo fuori le Mura Rome",
+            "url": "https://www.wga.hu/html/g/galli/font.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14770
+        },
+        {
+            "title": "Olympos",
+            "date": "1839-44",
+            "technique": "Unfired clay height 31 cm",
+            "location": "Thorvaldsens Museum Copenhagen",
+            "url": "https://www.wga.hu/html/g/galli/olympus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 14771
+        },
+        {
+            "title": "Louis Pasteur",
+            "date": "c. 1870",
+            "technique": "Bronze",
+            "location": "Science Museum Blythe House London",
+            "url": "https://www.wga.hu/html/g/galli/pasteur.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 14772
+        }
+    ]
+}

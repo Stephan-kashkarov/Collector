@@ -1,0 +1,2908 @@
+{
+    "name": "TINTORETTO",
+    "life": "(b. 1518 Venezia d. 1594 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Martyrdom of the Ten Thousand (fragment)",
+            "date": "c. 1538",
+            "technique": "Oil on panel 138 x 218 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/1martyrd.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39228
+        },
+        {
+            "title": "The Supper at Emmaus",
+            "date": "1542-43",
+            "technique": "Oil on canvas 156 x 212 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/2emmaus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39229
+        },
+        {
+            "title": "St George",
+            "date": "1543-44",
+            "technique": "Oil on canvas 122 x 92 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/2stgeor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39230
+        },
+        {
+            "title": "The Conversion of Saul",
+            "date": "c. 1545",
+            "technique": "Oil on canvas 152 x 236 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/3conver.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39231
+        },
+        {
+            "title": "The Conversion of Saul (detail)",
+            "date": "c. 1545",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/3conver1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39232
+        },
+        {
+            "title": "Christ Washing the Feet of His Disciples",
+            "date": "c. 1547",
+            "technique": "Oil on canvas 210 x 533 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/4washin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39233
+        },
+        {
+            "title": "Christ Washing the Feet of His Disciples (detail)",
+            "date": "c. 1547",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/4washin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39234
+        },
+        {
+            "title": "Christ Washing the Feet of His Disciples (detail)",
+            "date": "c. 1547",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/4washin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39235
+        },
+        {
+            "title": "Christ Washing the Feet of His Disciples (detail)",
+            "date": "c. 1547",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/4washin3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39236
+        },
+        {
+            "title": "The Miracle of St Augustine",
+            "date": "c. 1549",
+            "technique": "Oil on canvas 255 x 175 cm",
+            "location": "Museo Civico Vicenza",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/5miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39237
+        },
+        {
+            "title": "The Visitation (detail)",
+            "date": "c. 1549",
+            "technique": "Oil on canvas 240 x 146 cm (entire painting)",
+            "location": "Pinacoteca Nazionale Bologna",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/6visitat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39238
+        },
+        {
+            "title": "Baptism of Christ",
+            "date": "-",
+            "technique": "Oil on canvas 137 x 105 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/7baptism.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39239
+        },
+        {
+            "title": "Sts Helen and Barbara Adoring the Cross",
+            "date": "-",
+            "technique": "Oil on canvas 275 x 165 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/7helenba.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39240
+        },
+        {
+            "title": "St Nicholas",
+            "date": "-",
+            "technique": "Oil on canvas 114 x 56 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/1_1540s/7nichola.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39241
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 119 x 168 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/01adult1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39242
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery (detail)",
+            "date": "c. 1550",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/01adult2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39243
+        },
+        {
+            "title": "Creation of the Animals",
+            "date": "1551-52",
+            "technique": "Oil on canvas 151 x 258 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/02creati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39244
+        },
+        {
+            "title": "St Jerome and St Andrew",
+            "date": "c. 1552",
+            "technique": "Oil on canvas 235 x 145 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/03camer1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39245
+        },
+        {
+            "title": "St Louis St George and the Princess",
+            "date": "c. 1553",
+            "technique": "Oil on canvas 226 x 146 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/03camer2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39246
+        },
+        {
+            "title": "The Birth of John the Baptist",
+            "date": "c. 1554",
+            "technique": "Oil on canvas 181 x 266 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/04birth.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39247
+        },
+        {
+            "title": "The Birth of John the Baptist (detail)",
+            "date": "c. 1554",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/04birth1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39248
+        },
+        {
+            "title": "The Birth of John the Baptist (detail)",
+            "date": "c. 1554",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/04birth2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39249
+        },
+        {
+            "title": "Assumption of the Virgin",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 244 x 137 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/05assum.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39250
+        },
+        {
+            "title": "The Assumption",
+            "date": "1555",
+            "technique": "Oil on canvas 440 x 260 cm",
+            "location": "Gesuiti Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/05assump.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39251
+        },
+        {
+            "title": "Christ and the Adulteress",
+            "date": "c. 1555",
+            "technique": "Oil on canvas 160 x 225 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/06adult.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39252
+        },
+        {
+            "title": "The Presentation of Christ in the Temple",
+            "date": "1550-55",
+            "technique": "Oil on canvas 239 x 298 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/07prese.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39253
+        },
+        {
+            "title": "The Presentation of Christ in the Temple (detail)",
+            "date": "1550-55",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/07prese1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39254
+        },
+        {
+            "title": "The Evangelists Mark and John",
+            "date": "1557",
+            "technique": "Oil on canvas 257 x 150 cm",
+            "location": "Santa Maria del Giglio Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/08gigli1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39255
+        },
+        {
+            "title": "The Evangelists Luke and Matthew",
+            "date": "1557",
+            "technique": "Oil on canvas 257 x 150 cm",
+            "location": "Santa Maria del Giglio Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/08gigli2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39256
+        },
+        {
+            "title": "St George and the Dragon",
+            "date": "1555-58",
+            "technique": "Oil on canvas 158 x 100 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/09george.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39257
+        },
+        {
+            "title": "The Deposition",
+            "date": "1557-59",
+            "technique": "Oil on canvas 104 x 135 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tintoret/2_1550s/10deposi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39258
+        },
+        {
+            "title": "The Presentation of the Virgin",
+            "date": "1553-56",
+            "technique": "Oil on canvas 429 x 480 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/1prese.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39259
+        },
+        {
+            "title": "The Presentation of the Virgin (detail)",
+            "date": "1553-56",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/1prese1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39260
+        },
+        {
+            "title": "The Presentation of the Virgin (detail)",
+            "date": "1553-56",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/1prese2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39261
+        },
+        {
+            "title": "The Martyrdom of St Paul",
+            "date": "c. 1556",
+            "technique": "Oil on canvas 430 x 240 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/2st_paul.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39262
+        },
+        {
+            "title": "The Vision of St Peter",
+            "date": "c. 1556",
+            "technique": "Oil on canvas 420 x 240 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/3vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39263
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "1560-62",
+            "technique": "Oil on canvas 1450 x 590 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/4lastju.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39264
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "1560-62",
+            "technique": "Oil on canvas 1450 x 590 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/4lastju0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39265
+        },
+        {
+            "title": "The Last Judgment (detail)",
+            "date": "1560-62",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/4lastju1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39266
+        },
+        {
+            "title": "The Last Judgment (detail)",
+            "date": "1560-62",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/4lastju2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39267
+        },
+        {
+            "title": "The Last Judgment (detail)",
+            "date": "1560-62",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/4lastju3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39268
+        },
+        {
+            "title": "Moses Receiving the Tables of the Law",
+            "date": "1560-62",
+            "technique": "Oil on canvas 1450 x 590 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/5moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39269
+        },
+        {
+            "title": "Moses Receiving the Tables of the Law (detail)",
+            "date": "1560-62",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/5moses1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39270
+        },
+        {
+            "title": "Moses Receiving the Tables of the Law (detail)",
+            "date": "1560-62",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/5moses2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39271
+        },
+        {
+            "title": "The Miracle of St Agnes",
+            "date": "c. 1577",
+            "technique": "Oil on canvas 400 x 200 cm",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/6agnes.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39272
+        },
+        {
+            "title": "The Miracle of St Agnes (detail)",
+            "date": "c. 1577",
+            "technique": "Oil on canvas",
+            "location": "Madonna dell'Orto Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/2a/6agnes1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39273
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1560",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria del Rosario (Gesuati) Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/0crucifi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39274
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "c. 1560",
+            "technique": "Oil on canvas 227 x 294 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/1lamenta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39275
+        },
+        {
+            "title": "Marriage at Cana",
+            "date": "1561",
+            "technique": "Oil on canvas 435 x 535 cm",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/2cana.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39276
+        },
+        {
+            "title": "Marriage at Cana (detail)",
+            "date": "1561",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/2cana1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39277
+        },
+        {
+            "title": "Marriage at Cana (detail)",
+            "date": "1561",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/2cana2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39278
+        },
+        {
+            "title": "The Deposition",
+            "date": "1563",
+            "technique": "Oil on canvas 108 x 170 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/3deposit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39279
+        },
+        {
+            "title": "Birth of St John the Baptist",
+            "date": "c. 1563",
+            "technique": "Oil on canvas 270 x 204 cm",
+            "location": "San Zaccaria Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/4birth_s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39280
+        },
+        {
+            "title": "Christ Carried to the Tomb",
+            "date": "c. 1560",
+            "technique": "Oil on canvas 164 x 128 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/5tomb.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39281
+        },
+        {
+            "title": "Christ Carried to the Tomb (detail)",
+            "date": "c. 1565",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/5tomb1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39282
+        },
+        {
+            "title": "The Resurrection of Christ",
+            "date": "1565",
+            "technique": "Oil on canvas 350 x 230 cm (without added lower section)",
+            "location": "San Cassiano Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/6cassia1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39283
+        },
+        {
+            "title": "The Crucifixion of Christ",
+            "date": "1568",
+            "technique": "Oil on canvas 341 x 371 cm",
+            "location": "San Cassiano Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/6cassia2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39284
+        },
+        {
+            "title": "The Descent into Hell",
+            "date": "1568",
+            "technique": "Oil on canvas 342 x 373 cm",
+            "location": "San Cassiano Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/6cassia3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39285
+        },
+        {
+            "title": "Madonna dei Camerlenghi (Madonna dei Tesorieri)",
+            "date": "c. 1567",
+            "technique": "Oil on canvas 221 x 521 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3_1560s/7tesorie.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39286
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave",
+            "date": "1548",
+            "technique": "Oil on canvas 415 x 541 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39287
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave",
+            "date": "1548",
+            "technique": "Oil on canvas 415 x 541 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39288
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave (detail)",
+            "date": "1548",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39289
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave (detail)",
+            "date": "1548",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39290
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave (detail)",
+            "date": "1548",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39291
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave (detail)",
+            "date": "1548",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39292
+        },
+        {
+            "title": "The Miracle of St Mark Freeing the Slave (detail)",
+            "date": "1548",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/1mark5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39293
+        },
+        {
+            "title": "St Mark Working Many Miracles",
+            "date": "1562-66",
+            "technique": "Oil on canvas 396 x 400 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/2mark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39294
+        },
+        {
+            "title": "St Mark Working Many Miracles (detail)",
+            "date": "1562-66",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/2mark1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39295
+        },
+        {
+            "title": "The Stealing of the Dead Body of St Mark",
+            "date": "1562-66",
+            "technique": "Oil on canvas 398 x 315 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/3mark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39296
+        },
+        {
+            "title": "St Mark Rescuing a Saracen from Shipwreck",
+            "date": "1562-66",
+            "technique": "Oil on canvas 398 x 337 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3a/4mark.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39297
+        },
+        {
+            "title": "View of the Sala dell'Albergo",
+            "date": "1564-67",
+            "technique": "-",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/00view1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39298
+        },
+        {
+            "title": "The Sala dell'Albergo",
+            "date": "1564-67",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/00view2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39299
+        },
+        {
+            "title": "The Apotheosis of St Roch",
+            "date": "1564",
+            "technique": "Oil on canvas 240 x 360 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/01ceilin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39300
+        },
+        {
+            "title": "Spring",
+            "date": "c. 1564",
+            "technique": "Oil on canvas diameter 90 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/02ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39301
+        },
+        {
+            "title": "Summer",
+            "date": "c. 1564",
+            "technique": "Oil on canvas diameter 90 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/03ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39302
+        },
+        {
+            "title": "Autumn",
+            "date": "c. 1564",
+            "technique": "Oil on canvas diameter 90 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/04ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39303
+        },
+        {
+            "title": "Winter",
+            "date": "c. 1564",
+            "technique": "Oil on canvas diameter 90 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/05ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39304
+        },
+        {
+            "title": "Allegory of the Scuola di San Giovanni Evangelista",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/06ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39305
+        },
+        {
+            "title": "Allegory of the Scuola della Misericordia",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/07ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39306
+        },
+        {
+            "title": "Allegory of the Scuola di San Marco",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/08ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39307
+        },
+        {
+            "title": "Allegory of Truth",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/09ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39308
+        },
+        {
+            "title": "Allegory of the Scuola di San Teodoro",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/10ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39309
+        },
+        {
+            "title": "Allegory of Faith",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/11ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39310
+        },
+        {
+            "title": "Female figure",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/12ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39311
+        },
+        {
+            "title": "Allegory of Happiness",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/13ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39312
+        },
+        {
+            "title": "Allegory of Fortune (Felicit\u00e0)",
+            "date": "1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/141ceili.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39313
+        },
+        {
+            "title": "Female figure",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/14ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39314
+        },
+        {
+            "title": "Allegory of Goodness",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/15ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39315
+        },
+        {
+            "title": "Allegory of the Scuola della Carit\u00e0",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/16ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39316
+        },
+        {
+            "title": "Allegory of Generosity",
+            "date": "c. 1564",
+            "technique": "Oil on canvas 90 x 190 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/1/17ceilin.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39317
+        },
+        {
+            "title": "The Ascent to Calvary",
+            "date": "1565-67",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/1carry.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39318
+        },
+        {
+            "title": "The Ascent to Calvary (detail)",
+            "date": "1566-67",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/1carry1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39319
+        },
+        {
+            "title": "Ecce Homo",
+            "date": "1566-67",
+            "technique": "Oil on canvas 285 x 400 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/2ecce.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39320
+        },
+        {
+            "title": "Ecce Homo (detail)",
+            "date": "1566-67",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/2ecce1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39321
+        },
+        {
+            "title": "Christ before Pilate",
+            "date": "1566-67",
+            "technique": "Oil on canvas 515 x 380 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/3pilate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39322
+        },
+        {
+            "title": "Christ before Pilate (detail)",
+            "date": "1566-67",
+            "technique": "Oil on canvas",
+            "location": "Sala dell'Albergo Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/3pilate1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39323
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1565",
+            "technique": "Oil on canvas 536 x 1224 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39324
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci01.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39325
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci02.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39326
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci03.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39327
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci04.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39328
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci05.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39329
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci06.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39330
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci07.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39331
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci08.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39332
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci09.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39333
+        },
+        {
+            "title": "The Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci10.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39334
+        },
+        {
+            "title": "Crucifixion (detail)",
+            "date": "1565",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/4cruci11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39335
+        },
+        {
+            "title": "Prophet",
+            "date": "1566-67",
+            "technique": "Oil on canvas 261 x 106 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/5prophet.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39336
+        },
+        {
+            "title": "Prophet",
+            "date": "1566-67",
+            "technique": "Oil on canvas 261 x 136 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/1albergo/2/6prophet.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39337
+        },
+        {
+            "title": "View of the Sala Superiore",
+            "date": "1576-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/000inter.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39338
+        },
+        {
+            "title": "View of the Sala Superiore",
+            "date": "1560",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/001inter.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39339
+        },
+        {
+            "title": "View of the Sala Superiore",
+            "date": "1576-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/002inter.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39340
+        },
+        {
+            "title": "View of the Sala Superiore",
+            "date": "1560",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/003inter.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39341
+        },
+        {
+            "title": "The Brazen Serpent",
+            "date": "1575-76",
+            "technique": "Oil on canvas 840 x 520 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/01braze.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39342
+        },
+        {
+            "title": "The Brazen Serpent (detail)",
+            "date": "1575-76",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/01braze1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39343
+        },
+        {
+            "title": "Moses Drawing Water from the Rock",
+            "date": "1577",
+            "technique": "Oil on canvas 550 x 520 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/02moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39344
+        },
+        {
+            "title": "Moses Drawing Water from the Rock (detail)",
+            "date": "1577",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/02moses1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39345
+        },
+        {
+            "title": "Moses Drawing Water from the Rock (detail)",
+            "date": "1577",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/02moses2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39346
+        },
+        {
+            "title": "The Miracle of Manna",
+            "date": "c. 1577",
+            "technique": "Oil on canvas 550 x 520 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/03manna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39347
+        },
+        {
+            "title": "The Miracle of Manna (detail)",
+            "date": "c. 1577",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/03manna1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39348
+        },
+        {
+            "title": "The Fall of Man",
+            "date": "1577-78",
+            "technique": "Oil on canvas 265 x 370 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/04fall.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39349
+        },
+        {
+            "title": "The Eternal Father Appears to Moses",
+            "date": "1577-78",
+            "technique": "Oil on canvas 370 x 265 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/05eterna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39350
+        },
+        {
+            "title": "The Pillar of Fire",
+            "date": "1577-78",
+            "technique": "Oil on canvas 370 x 275 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/06pillar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39351
+        },
+        {
+            "title": "Jonah Leaves the Whale's Belly",
+            "date": "1577-78",
+            "technique": "Oil on canvas 265 x 370 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/07jonah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39352
+        },
+        {
+            "title": "The Vision of Ezekiel",
+            "date": "1577-78",
+            "technique": "Oil on canvas 660 x 265 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/08vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39353
+        },
+        {
+            "title": "Jacob's Ladder",
+            "date": "1577-78",
+            "technique": "Oil on canvas 660 x 265 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/09jacob.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39354
+        },
+        {
+            "title": "The Sacrifice of Isaac",
+            "date": "1577-78",
+            "technique": "Oil on canvas 265 x 370 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/10isaac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39355
+        },
+        {
+            "title": "Elisha Multiplies the Bread",
+            "date": "1577-78",
+            "technique": "Oil on canvas 370 x 265 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/11elisha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39356
+        },
+        {
+            "title": "Elijah Fed by the Angel",
+            "date": "1577-78",
+            "technique": "Oil on canvas 370 x 265 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/12elijah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39357
+        },
+        {
+            "title": "The Passover",
+            "date": "1577-78",
+            "technique": "Oil on canvas 265 x 370 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/1/13passov.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39358
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "1578-81",
+            "technique": "Oil on canvas 542 x 455 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/22adora.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39359
+        },
+        {
+            "title": "The Baptism of Christ",
+            "date": "1579-81",
+            "technique": "Oil on canvas 538 x 465 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/23bapti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39360
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/23bapti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39361
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/23bapti2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39362
+        },
+        {
+            "title": "The Baptism of Christ (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/23bapti3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39363
+        },
+        {
+            "title": "The Resurrection of Christ",
+            "date": "1579-81",
+            "technique": "Oil on canvas 529 x 485 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/24resur.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39364
+        },
+        {
+            "title": "The Resurrection of Christ (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/24resur1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39365
+        },
+        {
+            "title": "The Prayer in the Garden",
+            "date": "1578-81",
+            "technique": "Oil on canvas 538 x 455 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/25praye.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39366
+        },
+        {
+            "title": "The Prayer in the Garden (detail)",
+            "date": "1578-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/25praye1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39367
+        },
+        {
+            "title": "The Prayer in the Garden (detail)",
+            "date": "1578-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/25praye2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39368
+        },
+        {
+            "title": "The Prayer in the Garden (detail)",
+            "date": "1578-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/25praye3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39369
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1579-81",
+            "technique": "Oil on canvas 538 x 487 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/26lasts.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39370
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/26lasts1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39371
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/26lasts2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39372
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/26lasts3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39373
+        },
+        {
+            "title": "The Apparition of St Roch",
+            "date": "c. 1588",
+            "technique": "Oil on canvas 495 x 246 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/27appari.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39374
+        },
+        {
+            "title": "The Miracle of the Loaves and Fishes",
+            "date": "1579-81",
+            "technique": "Oil on canvas 523 x 460 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/28mirac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39375
+        },
+        {
+            "title": "The Miracle of the Loaves and Fishes (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/28mirac1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39376
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1579-81",
+            "technique": "Oil on canvas 541 x 356 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/29lazar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39377
+        },
+        {
+            "title": "The Raising of Lazarus (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/29lazar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39378
+        },
+        {
+            "title": "The Ascension",
+            "date": "1579-81",
+            "technique": "Oil on canvas 538 x 325 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/30ascen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39379
+        },
+        {
+            "title": "The Ascension (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/30ascen1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39380
+        },
+        {
+            "title": "The Ascension (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/30ascen2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39381
+        },
+        {
+            "title": "The Ascension (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/30ascen3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39382
+        },
+        {
+            "title": "Probatica Piscina",
+            "date": "1579-81",
+            "technique": "Oil on canvas 533 x 529 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/31proba.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39383
+        },
+        {
+            "title": "Probatica Piscina (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/31proba1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39384
+        },
+        {
+            "title": "The Temptation of Christ",
+            "date": "1579-81",
+            "technique": "Oil on canvas 539 x 330 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/32tempt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39385
+        },
+        {
+            "title": "The Temptation of Christ (detail)",
+            "date": "1579-81",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/32tempt1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39386
+        },
+        {
+            "title": "St Roch",
+            "date": "1579-81",
+            "technique": "Oil on canvas 250 x 80 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/33stroch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39387
+        },
+        {
+            "title": "St Sebastian",
+            "date": "1579-81",
+            "technique": "Oil on canvas 250 x 80 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/2upper/2/34stseba.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39388
+        },
+        {
+            "title": "View of the Sala Inferiore",
+            "date": "1583-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/00view.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39389
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1583-87",
+            "technique": "Oil on canvas 422 x 545 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/1annunc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39390
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1583-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/1annunc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39391
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "1582",
+            "technique": "Oil on canvas 425 x 544 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/2adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39392
+        },
+        {
+            "title": "The Adoration of the Magi (detail)",
+            "date": "1582",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/2adorat1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39393
+        },
+        {
+            "title": "The Adoration of the Magi (detail)",
+            "date": "1582",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/2adorat2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39394
+        },
+        {
+            "title": "The Adoration of the Magi (detail)",
+            "date": "c. 1582",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/2adorat3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39395
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "1582-87",
+            "technique": "Oil on canvas 422 x 580 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/3flight.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39396
+        },
+        {
+            "title": "The Flight into Egypt (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/3flight1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39397
+        },
+        {
+            "title": "The Flight into Egypt (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/3flight2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39398
+        },
+        {
+            "title": "The Flight into Egypt (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/3flight3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39399
+        },
+        {
+            "title": "The Massacre of the Innocents",
+            "date": "1582-87",
+            "technique": "Oil on canvas 422 x 546 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/4massac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39400
+        },
+        {
+            "title": "The Massacre of the Innocents (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/4massac1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39401
+        },
+        {
+            "title": "The Massacre of the Innocents (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/4massac2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39402
+        },
+        {
+            "title": "The Massacre of the Innocents (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/4massac3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39403
+        },
+        {
+            "title": "The Massacre of the Innocents (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/4massac4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39404
+        },
+        {
+            "title": "St Mary Magdalen",
+            "date": "1582-87",
+            "technique": "Oil on canvas 425 x 209 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/5maryma.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39405
+        },
+        {
+            "title": "St Mary of Egypt",
+            "date": "1582-87",
+            "technique": "Oil on canvas 425 x 211 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/6maryeg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39406
+        },
+        {
+            "title": "St Mary of Egypt (detail)",
+            "date": "1582-87",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/6maryeg1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39407
+        },
+        {
+            "title": "The Circumcision",
+            "date": "c. 1587",
+            "technique": "Oil on canvas 440 x 482 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/7circum.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39408
+        },
+        {
+            "title": "The Circumcision (detail)",
+            "date": "c. 1587",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/7circum1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39409
+        },
+        {
+            "title": "The Assumption of the Virgin",
+            "date": "1582-97",
+            "technique": "Oil on canvas 425 x 587 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/8assum.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39410
+        },
+        {
+            "title": "The Assumption of the Virgin (detail)",
+            "date": "1582-97",
+            "technique": "Oil on canvas",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/3ground/8assum1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39411
+        },
+        {
+            "title": "View of Campo di San Rocco",
+            "date": "1517-60",
+            "technique": "-",
+            "location": "Campo di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/campo.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39412
+        },
+        {
+            "title": "Fa\u00e7ade of the Scuola Grande di San Rocco",
+            "date": "1516-49",
+            "technique": "Marble",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3b/facade.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 39413
+        },
+        {
+            "title": "St Roch in the Hospital",
+            "date": "1549",
+            "technique": "Oil on canvas 307 x 673 cm",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/1roch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39414
+        },
+        {
+            "title": "St Roch in the Hospital (detail)",
+            "date": "1549",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/1roch1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39415
+        },
+        {
+            "title": "St Roch in the Hospital (detail)",
+            "date": "1549",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/1roch2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39416
+        },
+        {
+            "title": "St Roch in the Hospital (detail)",
+            "date": "1549",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/1roch3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39417
+        },
+        {
+            "title": "St Roch in Prison Visited by an Angel",
+            "date": "1567",
+            "technique": "Oil on canvas 300 x 670 cm",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/2roch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39418
+        },
+        {
+            "title": "St Roch in Prison Visited by an Angel (detail)",
+            "date": "1567",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/2roch1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39419
+        },
+        {
+            "title": "St Roch in Prison Visited by an Angel (detail)",
+            "date": "1567",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/2roch2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39420
+        },
+        {
+            "title": "St Roch in Prison Visited by an Angel (detail)",
+            "date": "1567",
+            "technique": "Oil on canvas",
+            "location": "San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/3c/2roch3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39421
+        },
+        {
+            "title": "The Last Supper",
+            "date": "c. 1570",
+            "technique": "Oil on canvas",
+            "location": "Santo Stefano Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4_1570s/1lastsu1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39422
+        },
+        {
+            "title": "Last Supper",
+            "date": "c. 1570",
+            "technique": "Oil on canvas 228 x 535 cm",
+            "location": "San Polo Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4_1570s/1lastsu2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39423
+        },
+        {
+            "title": "Christ in the House of Martha and Mary",
+            "date": "1570-75",
+            "technique": "Oil on canvas 200 x 132 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/t/tintoret/4_1570s/2martmar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39424
+        },
+        {
+            "title": "Christ at the Sea of Galilee",
+            "date": "1575-80",
+            "technique": "Oil on canvas 117 x 169 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/t/tintoret/4_1570s/3galilee.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39425
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "date": "c. 1577",
+            "technique": "Oil on canvas 282 x 165 cm",
+            "location": "San Trovaso Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4_1570s/4temptat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39426
+        },
+        {
+            "title": "Bacchus Venus and Ariadne",
+            "date": "1576-77",
+            "technique": "Oil on canvas 146 x 167 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/1antico1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39427
+        },
+        {
+            "title": "Minerva Sending Away Mars from Peace and Prosperity",
+            "date": "1576-77",
+            "technique": "Oil on canvas 148 x 168 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/1antico2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39428
+        },
+        {
+            "title": "Vulcan's Forge",
+            "date": "1576-77",
+            "technique": "Oil on canvas 145 x 156 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/1antico3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39429
+        },
+        {
+            "title": "Mercury and the Graces",
+            "date": "1576-77",
+            "technique": "Oil on canvas 146 x 155 cm",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/1antico4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39430
+        },
+        {
+            "title": "View of the Sala del Collegio",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/2colleg.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39431
+        },
+        {
+            "title": "Mystic Marriage of St Catherine (detail)",
+            "date": "1576",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/2colleg1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39432
+        },
+        {
+            "title": "Doge Nicol\u00f2 da Ponte Invoking the Protection of the Virgin",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/2colleg2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39433
+        },
+        {
+            "title": "View of the Hall of the Senate",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39434
+        },
+        {
+            "title": "Triumph of Venice",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate0.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39435
+        },
+        {
+            "title": "The Dead Christ Adored by Doges Pietro Lando and Marcantonio Trevisan",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39436
+        },
+        {
+            "title": "The Dead Christ Adored by Doges Pietro Lando and Marcantonio Trevisan (detail)",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39437
+        },
+        {
+            "title": "The Dead Christ Adored by Doges Pietro Lando and Marcantonio Trevisan (detail)",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39438
+        },
+        {
+            "title": "The Dead Christ Adored by Doges Pietro Lando and Marcantonio Trevisan (detail)",
+            "date": "1580s",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/3senate4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39439
+        },
+        {
+            "title": "Conquest of Zara",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/4scrutin.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39440
+        },
+        {
+            "title": "View of the Great Council Hall",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5maggio.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 39441
+        },
+        {
+            "title": "Defence of Brescia",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5maggio0.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39442
+        },
+        {
+            "title": "Doge Nicol\u00f2 da Ponte Receiving a Laurel Crown from Venice",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5maggio1.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39443
+        },
+        {
+            "title": "Doge Nicol\u00f2 da Ponte Receiving a Laurel Crown from Venice",
+            "date": "1584",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5maggio2.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39444
+        },
+        {
+            "title": "Paradise",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39445
+        },
+        {
+            "title": "Paradise",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39446
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39447
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39448
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39449
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39450
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39451
+        },
+        {
+            "title": "Paradise (detail)",
+            "date": "after 1588",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/5parad8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39452
+        },
+        {
+            "title": "Paradise",
+            "date": "c. 1565",
+            "technique": "Oil on canvas 143 x 362 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/t/tintoret/4a/6parad.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39453
+        },
+        {
+            "title": "The Capture of Parma by Federico II",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 212 x 284 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/0gonzaga.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39454
+        },
+        {
+            "title": "Battle between Turks and Christians",
+            "date": "1588-89",
+            "technique": "Oil on canvas 189 x 307 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/1battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39455
+        },
+        {
+            "title": "Visitation",
+            "date": "c. 1588",
+            "technique": "Oil on canvas 158 x 237 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/1visitat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39456
+        },
+        {
+            "title": "The Jews in the Desert",
+            "date": "c. 1593",
+            "technique": "Oil on canvas 377 x 576 cm",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/2desert.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39457
+        },
+        {
+            "title": "The Jews in the Desert (detail)",
+            "date": "1592-94",
+            "technique": "Oil on canvas",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/2desert1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39458
+        },
+        {
+            "title": "The Jews in the Desert (detail)",
+            "date": "1592-94",
+            "technique": "Oil on canvas",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/2desert2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39459
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1592-94",
+            "technique": "Oil on canvas 365 x 568 cm",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/3lastsup.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39460
+        },
+        {
+            "title": "Entombment",
+            "date": "1592-94",
+            "technique": "Oil on canvas 288 x 166 cm",
+            "location": "San Giorgio Maggiore Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/5_1580s/4entombm.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39461
+        },
+        {
+            "title": "Solomon and the Queen of Sheba",
+            "date": "c. 1545",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/6/01solomo.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39462
+        },
+        {
+            "title": "Esther before Ahasuerus",
+            "date": "1547-48",
+            "technique": "Oil on canvas 2074 x 273 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/t/tintoret/6/02esther.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 39463
+        },
+        {
+            "title": "The Temptation of Adam",
+            "date": "1551-52",
+            "technique": "Oil on canvas 150 x 220 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/6/03adamev.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39464
+        },
+        {
+            "title": "The Murder of Abel",
+            "date": "1551-52",
+            "technique": "Oil on canvas 149 x 196 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/6/04abel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39465
+        },
+        {
+            "title": "Joseph and Potiphar's Wife",
+            "date": "c. 1555",
+            "technique": "Oil on canvas 54 x 117 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/6/05joseph.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39466
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "c. 1555",
+            "technique": "Oil on canvas 147 x 194 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/6/06susan.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39467
+        },
+        {
+            "title": "Susanna and the Elders (detail)",
+            "date": "c. 1555",
+            "technique": "Oil on canvas 147 x 194 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/6/06susan1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39468
+        },
+        {
+            "title": "Susanna and the Elders (detail)",
+            "date": "c. 1555",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/6/06susan2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39469
+        },
+        {
+            "title": "The Meeting of Tamar and Judah",
+            "date": "1555-58",
+            "technique": "Oil on canvas 150 x 155 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/6/07oldte1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39470
+        },
+        {
+            "title": "The Annunciation to Manoah's Wife",
+            "date": "1555-58",
+            "technique": "Oil on canvas 150 x 155 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/6/07oldte2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39471
+        },
+        {
+            "title": "Judith and Holofernes",
+            "date": "c. 1579",
+            "technique": "Oil on canvas 188 x 251 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/6/08judit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39472
+        },
+        {
+            "title": "Judith and Holofernes (detail)",
+            "date": "c. 1579",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/6/08judit1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 39473
+        },
+        {
+            "title": "Deucalion and Pyrrha Praying before the Statue of the Goddess Themis",
+            "date": "c. 1542",
+            "technique": "Oil on panel 127 x 124 cm",
+            "location": "Galleria Estense Modena",
+            "url": "https://www.wga.hu/html/t/tintoret/7/1deucali.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39474
+        },
+        {
+            "title": "Venus Mars and Vulcan",
+            "date": "c. 1551",
+            "technique": "Oil on canvas 135 x 198 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/t/tintoret/7/2vulcan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39475
+        },
+        {
+            "title": "Venus Mars and Vulcan (detail)",
+            "date": "c. 1551",
+            "technique": "Oil on canvas",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/t/tintoret/7/2vulcan1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39476
+        },
+        {
+            "title": "Venus Mars and Vulcan (detail)",
+            "date": "c. 1551",
+            "technique": "Oil on canvas",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/t/tintoret/7/2vulcan2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39477
+        },
+        {
+            "title": "The Liberation of Arsinoe",
+            "date": "c. 1556",
+            "technique": "Oil on canvas 153 x 251 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/t/tintoret/7/3arsinoe.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39478
+        },
+        {
+            "title": "Women Playing Music",
+            "date": "-",
+            "technique": "Oil on canvas 142 x 214 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/t/tintoret/7/4women_p.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39479
+        },
+        {
+            "title": "The Origin of the Milky Way",
+            "date": "1570",
+            "technique": "Oil on canvas 148 x 165 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/t/tintoret/7/5milky.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39480
+        },
+        {
+            "title": "A Philosopher",
+            "date": "1570",
+            "technique": "Oil on canvas",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/7/6philoso.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39481
+        },
+        {
+            "title": "A Philosopher (detail)",
+            "date": "1570",
+            "technique": "Oil on canvas",
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/7/6philosx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39482
+        },
+        {
+            "title": "Dana\u00eb",
+            "date": "1580",
+            "technique": "Oil on canvas 142 x 182 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "url": "https://www.wga.hu/html/t/tintoret/7/7danae.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 39483
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1547",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/t/tintoret/8/01selfpo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39484
+        },
+        {
+            "title": "Portrait of a White-Bearded Man",
+            "date": "c. 1545",
+            "technique": "Oil on canvas 92 x 60 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/8/02beard.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39485
+        },
+        {
+            "title": "Portrait of Jacopo Sansovino",
+            "date": "before 1546",
+            "technique": "Oil on canvas 120 x 100 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/8/03sansov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39486
+        },
+        {
+            "title": "Portrait of a Man (fragment)",
+            "date": "c. 1548",
+            "technique": "Oil on canvas (on wood) 44 x 39 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/t/tintoret/8/04portma.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39487
+        },
+        {
+            "title": "Man in Armour",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 116 x 98 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tintoret/8/05armour.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39488
+        },
+        {
+            "title": "Portrait of a Genoese Nobleman",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 154 x 131 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/8/06noblem.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39489
+        },
+        {
+            "title": "Portrait of Procurator Nicol\u00f2 Priuli",
+            "date": "before 1545",
+            "technique": "Oil on canvas 105 x 125 cm",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/8/06priuli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39490
+        },
+        {
+            "title": "Portrait of Procurator Antonio Cappello",
+            "date": "c. 1551",
+            "technique": "Oil on canvas 114 x 80 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/8/07cappel.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39491
+        },
+        {
+            "title": "Portrait of Procurator Jacopo Soranzo",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 106 x 90 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/8/08soranz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39492
+        },
+        {
+            "title": "Portrait of Procurator Jacopo Soranzo",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 75 x 60 cm",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/t/tintoret/8/09soranz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39493
+        },
+        {
+            "title": "Portrait of a Young Gentleman",
+            "date": "c. 1555",
+            "technique": "Oil on canvas 105 x 92 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/t/tintoret/8/10youngg.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39494
+        },
+        {
+            "title": "Man with a Golden Lace",
+            "date": "1550s",
+            "technique": "Oil on canvas 103 x 76 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/8/11manlac.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39495
+        },
+        {
+            "title": "Portrait of Doge Girolamo Priuli",
+            "date": "1559",
+            "technique": "Oil on canvas 63 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tintoret/8/12priuli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39496
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1560",
+            "technique": "Oil on canvas 805 x 64 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/t/tintoret/8/13portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39497
+        },
+        {
+            "title": "Portrait of Giovanni Paolo Cornaro",
+            "date": "1561",
+            "technique": "Oil on canvas 102 x 81 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/t/tintoret/8/14cornar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39498
+        },
+        {
+            "title": "Portrait of Alvise Cornaro",
+            "date": "1560-65",
+            "technique": "Oil on canvas 113 x 85 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/8/15cornar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39499
+        },
+        {
+            "title": "Portrait of Jacopo Sansovino",
+            "date": "c. 1565",
+            "technique": "Oil on canvas 51 x 38 cm",
+            "location": "Kunstsammlungen Weimar",
+            "url": "https://www.wga.hu/html/t/tintoret/8/15sansov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39500
+        },
+        {
+            "title": "Portrait of Jacopo Sansovino",
+            "date": "1571",
+            "technique": "Oil on canvas 70 x 66 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/8/16sansov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39501
+        },
+        {
+            "title": "Portrait of Doge Pietro Loredano",
+            "date": "c. 1570",
+            "technique": "Oil on canvas 127 x 100 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/t/tintoret/8/17loreda.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39502
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "-",
+            "technique": "Oil on canvas 38 x 33 3 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/t/tintoret/8/18portwo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39503
+        },
+        {
+            "title": "Portrait of a Woman Revealing Her Breasts",
+            "date": "c. 1570",
+            "technique": "Oil on canvas 61 x 55 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/8/19breast.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39504
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1573",
+            "technique": "Oil on canvas 72 x 57 cm",
+            "location": "Scuola Grande di San Rocco Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/8/20portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39505
+        },
+        {
+            "title": "Doge Alvise Mocenigo",
+            "date": "c. 1570",
+            "technique": "Oil on canvas 117 x 99 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/t/tintoret/8/21portra.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39506
+        },
+        {
+            "title": "Portrait of a Senator",
+            "date": "c. 1570",
+            "technique": "Oil on canvas 119 x 100 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/t/tintoret/8/21senato.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39507
+        },
+        {
+            "title": "Portrait of a Senator",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 63 x 50 cm",
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "url": "https://www.wga.hu/html/t/tintoret/8/22senato.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39508
+        },
+        {
+            "title": "Portrait of Vincenzo Morosini",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 845 x 515 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/t/tintoret/8/23morosi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39509
+        },
+        {
+            "title": "Portrait of Sebastiano Venier with a Page",
+            "date": "c. 1580",
+            "technique": "Oil on canvas 194 x 132 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tintoret/8/24venier.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39510
+        },
+        {
+            "title": "Portrait of a Procurator of St Mark's",
+            "date": "1570s",
+            "technique": "Oil on canvas 139 x 101 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/t/tintoret/8/25procur.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39511
+        },
+        {
+            "title": "Portrait of a Procurator of St Mark's (detail)",
+            "date": "1580-83",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/t/tintoret/8/26procur.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39512
+        },
+        {
+            "title": "Self-Portrait with a Book",
+            "date": "c. 1585",
+            "technique": "Oil on canvas 73 x 58 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/8/27selfp.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39513
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1588",
+            "technique": "Oil on canvas 63 x 52 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/t/tintoret/8/27selfpo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 39514
+        },
+        {
+            "title": "Venus Mars and Vulcan",
+            "date": "c. 1551",
+            "technique": "Black chalk pen drawing in brown color-washed and heightened in white on blue paper 202 x 272 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/t/tintoret/9/1vulcan.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 39515
+        },
+        {
+            "title": "Study",
+            "date": "c.1551",
+            "technique": "Black and white chalk on tinted paper 402 x 266 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tintoret/9/2study.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 39516
+        },
+        {
+            "title": "Design for an Allegory of Fortune (Felicit\u00e0)",
+            "date": "1564",
+            "technique": "Black chalk on white paper 206 x 275 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/t/tintoret/9/3felicit.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 39517
+        }
+    ]
+}

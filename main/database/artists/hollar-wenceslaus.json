@@ -1,0 +1,68 @@
+{
+    "name": "HOLLAR Wenceslaus",
+    "life": "(b. 1607 Praha d. 1677 London)",
+    "school": "Bohemian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Antwerp Cathedral",
+            "date": "1649",
+            "technique": "Etching 480 x 328 mm",
+            "location": "-",
+            "url": "https://www.wga.hu/html/h/hollar/antwerp.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 19988
+        },
+        {
+            "title": "Democritus and Heraclitus",
+            "date": "-",
+            "technique": "Etching",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hollar/demohera.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 19989
+        },
+        {
+            "title": "Giorgione's Self-Portrait as David",
+            "date": "1650",
+            "technique": "Engraving",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/h/hollar/giorgion.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 19990
+        },
+        {
+            "title": "Portrait of Bonaventura Peeters I",
+            "date": "1649",
+            "technique": "Etching on paper second state 160 x 112 mm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/h/hollar/peeters.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 19991
+        },
+        {
+            "title": "Stellion Insulting Ceres",
+            "date": "1646",
+            "technique": "Etching 303 x 234 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hollar/stellion.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 19992
+        },
+        {
+            "title": "Winter",
+            "date": "1643",
+            "technique": "Etching 253 x 180 mm",
+            "location": "Institut N\u00e9erlandais Paris",
+            "url": "https://www.wga.hu/html/h/hollar/winter.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 19993
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "COLLANTES Francisco",
+    "life": "(b. 1599 Madrid d. 1656 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Burning Bush",
+            "date": "c. 1634",
+            "technique": "Oil on canvas 116 x 163 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/collante/b_bush.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9286
+        },
+        {
+            "title": "The Denial of St Peter",
+            "date": "-",
+            "technique": "Oil on canvas 143 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/collante/denial.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9287
+        },
+        {
+            "title": "Landscape with Ruins",
+            "date": "c. 1634",
+            "technique": "Oil on canvas 88 x 112 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/collante/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9288
+        },
+        {
+            "title": "Nymphs Turning the Apulian Shepherd into an Olive Tree",
+            "date": "-",
+            "technique": "Oil on canvas 128 x 176 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/collante/nymphs.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9289
+        },
+        {
+            "title": "St Onuphrius",
+            "date": "-",
+            "technique": "Oil on canvas 168 x 108 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/collante/onuphriu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9290
+        },
+        {
+            "title": "The Vision of Ezekiel",
+            "date": "1630",
+            "technique": "Oil on canvas 177 x 205 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/collante/vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9291
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "SCHENCK Pieter",
+    "life": "(b. 1660 Elberfeld d. ca. 1718 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Bird's-Eye View of the Huis ter Nieuburch at Rijswijck",
+            "date": "1697",
+            "technique": "Engraving 164 x 198 mm",
+            "location": "Gemeentearchief The Hague",
+            "url": "https://www.wga.hu/html/s/schenck/birdseye.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36594
+        },
+        {
+            "title": "Herr Johann Petzschen's Hoff und Ballen Hausz in Leipzig",
+            "date": "-",
+            "technique": "Etching 214 x 265 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/schenck/petzsche.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36595
+        }
+    ]
+}

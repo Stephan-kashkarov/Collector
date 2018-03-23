@@ -1,0 +1,78 @@
+{
+    "name": "SLEVOGT Max",
+    "life": "(b. 1868 Landshut d. 1932 Neukastel)",
+    "school": "German",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Dance of Death",
+            "date": "1896",
+            "technique": "Oil on canvas 102 x 123 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 37406
+        },
+        {
+            "title": "Man with Parrots",
+            "date": "1901",
+            "technique": "Oil on canvas 82 x 66 cm",
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37407
+        },
+        {
+            "title": "The Singer Francisco d'Andrade as Don Giovanni",
+            "date": "Feb-01",
+            "technique": "Oil on canvas 210 x 170 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37408
+        },
+        {
+            "title": "The Alster at Hamburg",
+            "date": "1905",
+            "technique": "Oil on canvas 59 x 76 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt4.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37409
+        },
+        {
+            "title": "Garden at Neu-Cladow",
+            "date": "1912",
+            "technique": "Oil on canvas 66 x 83 cm",
+            "location": "Westf\u00e4lisches Landesmuseum M\u00fcnster",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt5.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37410
+        },
+        {
+            "title": "Steinbart Villa Berlin",
+            "date": "1911",
+            "technique": "Oil on canvas 86 x 106 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt6.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 37411
+        },
+        {
+            "title": "Portrait of Mrs. C.",
+            "date": "1917",
+            "technique": "Oil on canvas 71 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/slevogt/slevogt7.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37412
+        }
+    ]
+}

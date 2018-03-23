@@ -1,0 +1,98 @@
+{
+    "name": "MALLET Jean-Baptiste",
+    "life": "(b. 1759 Grasse d. 1835 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Young French Marquise in Exile in Lausanne",
+            "date": "1789",
+            "technique": "Gouache on wove paper 217 x 300 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/m/mallet/exile.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 23751
+        },
+        {
+            "title": "The Happy Family",
+            "date": "1792",
+            "technique": "Gouache on paper 260 x 360 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/family.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 23752
+        },
+        {
+            "title": "'Scene Galante'",
+            "date": "-",
+            "technique": "Gouache on paper 325 x 229 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/galante.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 23753
+        },
+        {
+            "title": "Gothic Bathroom",
+            "date": "1810",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "location": "Ch\u00e2teau-Mus\u00e9e Dieppe",
+            "url": "https://www.wga.hu/html/m/mallet/gothic_b.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23754
+        },
+        {
+            "title": "Studio Interior with a Young Woman Painting",
+            "date": "1806",
+            "technique": "Oil on panel 34 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 23755
+        },
+        {
+            "title": "Young Woman Kneeling Before a Priest",
+            "date": "1826",
+            "technique": "Oil on canvas on panel 24 x 33 cm",
+            "location": "Museum of Fine Arts Boston",
+            "url": "https://www.wga.hu/html/m/mallet/kneeling.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23756
+        },
+        {
+            "title": "The Little Fixer (Le petit redresseur de Quilles)",
+            "date": "-",
+            "technique": "Oil on canvas 27 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/little_f.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 23757
+        },
+        {
+            "title": "The Love Letter",
+            "date": "-",
+            "technique": "Pen brown ink and watercolor on paper 324 x 229 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/lovelett.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 23758
+        },
+        {
+            "title": "Elegant Figures in a Park",
+            "date": "-",
+            "technique": "Gouache on paper 300 x 232 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mallet/parkeleg.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 23759
+        }
+    ]
+}

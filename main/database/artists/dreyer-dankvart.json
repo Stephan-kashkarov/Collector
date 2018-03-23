@@ -1,0 +1,48 @@
+{
+    "name": "DREYER Dankvart",
+    "life": "(b. 1816 Assens d. 1852 Assens)",
+    "school": "Danish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Dolmen on Brands\u00f8",
+            "date": "c. 1842",
+            "technique": "Oil on canvas 29 x 41 cm",
+            "location": "Hirschsprung Collection Copenhagen",
+            "url": "https://www.wga.hu/html/d/dreyer/dolmen.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12084
+        },
+        {
+            "title": "Glade in a Forest",
+            "date": "1838",
+            "technique": "Oil on cardboard on canvas 24 x 29 cm",
+            "location": "Funen Art Museum Odense",
+            "url": "https://www.wga.hu/html/d/dreyer/glade.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12085
+        },
+        {
+            "title": "Road across the Hills",
+            "date": "1842",
+            "technique": "Oil on canvas 28 x 41 cm",
+            "location": "Hirschsprung Collection Copenhagen",
+            "url": "https://www.wga.hu/html/d/dreyer/roadhill.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 12086
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1838",
+            "technique": "Oil on canvas",
+            "location": "Funen Art Museum Odense",
+            "url": "https://www.wga.hu/html/d/dreyer/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12087
+        }
+    ]
+}

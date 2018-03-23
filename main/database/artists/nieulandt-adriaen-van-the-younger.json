@@ -1,0 +1,58 @@
+{
+    "name": "NIEULANDT Adriaen van the Younger",
+    "life": "(b. 1587 Antwerpen d. 1658 Amsterdam)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Allegory of the Peace under Stadholder William II",
+            "date": "1650",
+            "technique": "Oil on canvas 136 x 105 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/n/nieuland/adriaen/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29632
+        },
+        {
+            "title": "Amarillis Crowning Mirtillo",
+            "date": "1648",
+            "technique": "Oil on panel 52 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nieuland/adriaen/amarilli.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 29633
+        },
+        {
+            "title": "Diana and Her Nymphs",
+            "date": "1651",
+            "technique": "Oil on panel 83 x 114 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nieuland/adriaen/diana_ny.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 29634
+        },
+        {
+            "title": "Kitchen Scene",
+            "date": "1616",
+            "technique": "Oil on canvas 194 x 247 cm",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/n/nieuland/adriaen/kitchen.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 29635
+        },
+        {
+            "title": "Portrait of a Man Dressed as a Turk",
+            "date": "1633",
+            "technique": "Oil on panel 31 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/nieuland/adriaen/man_turk.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29636
+        }
+    ]
+}

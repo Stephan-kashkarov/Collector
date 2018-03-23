@@ -1,0 +1,78 @@
+{
+    "name": "SANDRART Joachim von",
+    "life": "(b. 1609 Frankfurt/Main d. 1688 N\u00fcrnberg)",
+    "school": "German",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Captain Bicker's Company Waiting to Welcome Marie de Medicis in September 1638",
+            "date": "1638-40",
+            "technique": "Oil on canvas 343 x 258 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/sandrart/bicker.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36142
+        },
+        {
+            "title": "February",
+            "date": "1642",
+            "technique": "Oil on canvas 149 x 1235 cm",
+            "location": "Staatsgalerie Schleissheim",
+            "url": "https://www.wga.hu/html/s/sandrart/february.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36143
+        },
+        {
+            "title": "Mars Venus and Cupid",
+            "date": "c. 1630",
+            "technique": "Oil on canvas 112 x 80 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/sandrart/marsvenu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36144
+        },
+        {
+            "title": "November",
+            "date": "1643",
+            "technique": "Oil on canvas 149 x 124 cm",
+            "location": "Staatsgalerie Schleissheim",
+            "url": "https://www.wga.hu/html/s/sandrart/november.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 36145
+        },
+        {
+            "title": "Matthias Gr\u00fcnewald in his Youth",
+            "date": "1675",
+            "technique": "Copper engraving 9 x 75 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/s/sandrart/z1grunew.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 36146
+        },
+        {
+            "title": "The Old Matthias Gr\u00fcnewald",
+            "date": "1683",
+            "technique": "Copper engraving 9 x 75 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/s/sandrart/z2grunew.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 36147
+        },
+        {
+            "title": "Matthias Gr\u00fcnewald",
+            "date": "-",
+            "technique": "Drawing 12 x 10 cm",
+            "location": "Bayerische Staatsbibliothek Munich",
+            "url": "https://www.wga.hu/html/s/sandrart/z3grunew.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 36148
+        }
+    ]
+}

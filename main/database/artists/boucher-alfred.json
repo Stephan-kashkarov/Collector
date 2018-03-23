@@ -1,0 +1,28 @@
+{
+    "name": "BOUCHER Alfred",
+    "life": "(b. 1850 Bouy-sur-Ovin d. 1934 Aix-les-Bains)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Finishing Line",
+            "date": "after 1886",
+            "technique": "Bronze 67 x 102 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bouche/finishin.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 5640
+        },
+        {
+            "title": "The Haymaker",
+            "date": "-",
+            "technique": "White marble with a gilt bronze pitchfork height 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bouche/haymaker.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 5641
+        }
+    ]
+}

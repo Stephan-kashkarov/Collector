@@ -1,0 +1,38 @@
+{
+    "name": "HAMILTON Philipp Ferdinand de",
+    "life": "(b. ca. 1664 Bruxelles d. 1750 Wien)",
+    "school": "Scottish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Dead Game",
+            "date": "1718",
+            "technique": "Oil on canvas 49 x 61 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hamilto/philipp/deadgame.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19262
+        },
+        {
+            "title": "Fox in the Courtyard",
+            "date": "1746",
+            "technique": "Oil on canvas 77 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hamilto/philipp/foxcourt.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19263
+        },
+        {
+            "title": "Oriental Pheasants by a Pond in a Wooded Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 95 x 126 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hamilto/philipp/pheasant.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19264
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "RESTOUT Jean-Bernard",
+    "life": "(b. 1732 Paris d. 1797 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of an Architect",
+            "date": "1764",
+            "technique": "Oil on canvas oval 57 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/restout/jeanbern/architec.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 34125
+        },
+        {
+            "title": "Study of a Bearded Man",
+            "date": "-",
+            "technique": "Paper laid down on canvas 58 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/restout/jeanbern/study.html",
+            "form": "painting",
+            "painting_type": "study",
+            "index": 34126
+        }
+    ]
+}

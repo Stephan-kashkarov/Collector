@@ -1,0 +1,98 @@
+{
+    "name": "SCHNORR VON CAROLSFELD Julius",
+    "life": "(b. 1794 Leipzig d. 1872 Dresden)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "1818",
+            "technique": "Oil on canvas 120 x 92 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schnorr/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36655
+        },
+        {
+            "title": "The Family of St John the Baptist Visiting the Family of Christ",
+            "date": "1817",
+            "technique": "Oil on canvas 123 x 1025 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/s/schnorr/family.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36656
+        },
+        {
+            "title": "The Wedding Feast at Cana",
+            "date": "1819",
+            "technique": "Oil on canvas 140 x 210 cm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/s/schnorr/feast.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36657
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1820",
+            "technique": "Oil on canvas 74 x 62 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/s/schnorr/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36658
+        },
+        {
+            "title": "Clara Bianca von Quandt",
+            "date": "1820",
+            "technique": "Oil on panel 37 x 26 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/s/schnorr/quandt.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36659
+        },
+        {
+            "title": "Decoration",
+            "date": "1831-67",
+            "technique": "Encaustic wall painting",
+            "location": "Saal der Rache Niebelungens\u00e4le Residenz Munich",
+            "url": "https://www.wga.hu/html/s/schnorr/residenz.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 36660
+        },
+        {
+            "title": "Seated Boy Playing a Pipe",
+            "date": "1822",
+            "technique": "Sepia on paper 439 x 29 mm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/s/schnorr/seatedbo.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 36661
+        },
+        {
+            "title": "Portrait of Victor Emil Jansen",
+            "date": "-",
+            "technique": "Pen and silverpoint 300 x 247 mm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/s/schnorr/v_jansen.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 36662
+        },
+        {
+            "title": "The View of the Archpriest in Olevano",
+            "date": "-",
+            "technique": "Sepia pen230 x 305 mm",
+            "location": "Albertinum Dresden",
+            "url": "https://www.wga.hu/html/s/schnorr/view_olev.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 36663
+        }
+    ]
+}

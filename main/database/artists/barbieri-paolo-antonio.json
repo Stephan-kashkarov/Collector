@@ -1,0 +1,28 @@
+{
+    "name": "BARBIERI Paolo Antonio",
+    "life": "(b. 1603 Cento d. 1649 Cento)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Spice Shop",
+            "date": "1637",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Comunale Spoleto",
+            "url": "https://www.wga.hu/html/b/barbieri/spicesho.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 3174
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 74 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/barbieri/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 3175
+        }
+    ]
+}

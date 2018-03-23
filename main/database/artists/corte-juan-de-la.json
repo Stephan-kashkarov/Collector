@@ -1,0 +1,48 @@
+{
+    "name": "CORTE Juan de la",
+    "life": "(b. ca. 1590 Flanders d. 1662 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Achilles Confronting Hector outside Troy",
+            "date": "-",
+            "technique": "Oil on canvas 196 x 309 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte_j/achilles.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9645
+        },
+        {
+            "title": "Battle Scene with a Roman Army Besieging a Large City",
+            "date": "-",
+            "technique": "Oil on canvas 162 x 196 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte_j/battle_s.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9646
+        },
+        {
+            "title": "Battle",
+            "date": "1643",
+            "technique": "Oil on canvas 67 x 88 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/corte_j/battle_t.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9647
+        },
+        {
+            "title": "Lot and His Daughters",
+            "date": "-",
+            "technique": "Oil on canvas 133 x 194 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/corte_j/lot_daug.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 9648
+        }
+    ]
+}

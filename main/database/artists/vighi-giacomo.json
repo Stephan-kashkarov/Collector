@@ -1,0 +1,38 @@
+{
+    "name": "VIGHI Giacomo",
+    "life": "(b. ca. 1510 Argenta d. 1573 Torino)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of Charles Emmanuel of Savoy with Dwarf",
+            "date": "c. 1572",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/v/vighi/carlo_em.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43186
+        },
+        {
+            "title": "Portrait of Emmanuel Philibert Duke of Savoy",
+            "date": "1568-73",
+            "technique": "Oil on canvas",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/v/vighi/emanuele.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43187
+        },
+        {
+            "title": "Portrait of Vittoria Farnese",
+            "date": "1566",
+            "technique": "Oil on canvas 120 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vighi/vittoria.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43188
+        }
+    ]
+}

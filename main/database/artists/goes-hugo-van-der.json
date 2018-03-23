@@ -1,0 +1,738 @@
+{
+    "name": "GOES Hugo van der",
+    "life": "(b. ca. 1440 Ghent d. 1482 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1480",
+            "technique": "Wood 97 x 245 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16905
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1480",
+            "technique": "Wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/adorati0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16906
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1480",
+            "technique": "Wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/adorati1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16907
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1480",
+            "technique": "Wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/adorati2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16908
+        },
+        {
+            "title": "Adoration of the Shepherds (detail)",
+            "date": "c. 1480",
+            "technique": "Wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/adorati3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16909
+        },
+        {
+            "title": "Crucifixion",
+            "date": "c. 1470",
+            "technique": "Oil on panel",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/g/goes/1/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16910
+        },
+        {
+            "title": "The Fall",
+            "date": "1467-68",
+            "technique": "Oil on oak 338 x 23 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/goes/1/diptych1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16911
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "1467-68",
+            "technique": "Oil on oak 338 x 23 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/g/goes/1/diptych2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16912
+        },
+        {
+            "title": "Portrait of a Donor with St John the Baptist",
+            "date": "1478-80",
+            "technique": "Wood 232 x 225 cm",
+            "location": "Walters Art Museum Baltimore",
+            "url": "https://www.wga.hu/html/g/goes/1/donor_s.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16913
+        },
+        {
+            "title": "Lamentation",
+            "date": "-",
+            "technique": "Oil on panel 36 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/goes/1/lamentat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16914
+        },
+        {
+            "title": "Mary Triptych",
+            "date": "c. 1478",
+            "technique": "Wood 301 x 234 cm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/g/goes/1/mary_tri.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16915
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1475",
+            "technique": "Tempera on wood 318 x 267 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/g/goes/1/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 16916
+        },
+        {
+            "title": "Deposition Diptych (Small Deposition left wing)",
+            "date": "c. 1480",
+            "technique": "Canvas 533 x 383 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/goes/1/small1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16917
+        },
+        {
+            "title": "Deposition Diptych (Small Deposition right wing)",
+            "date": "c. 1480",
+            "technique": "Oil on canvas 535 x 385 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/1/small2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16918
+        },
+        {
+            "title": "Jacob and Rachel",
+            "date": "c.1470-75",
+            "technique": "Pen and wash heightened with white on gray paper",
+            "location": "Christ Church Picture Gallery Oxford",
+            "url": "https://www.wga.hu/html/g/goes/1/wjacob.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 16919
+        },
+        {
+            "title": "Calvary Triptych",
+            "date": "1465-68",
+            "technique": "Oil on wood 250 x 216 cm",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16920
+        },
+        {
+            "title": "Calvary Triptych (left wing)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16921
+        },
+        {
+            "title": "Calvary Triptych (detail)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16922
+        },
+        {
+            "title": "Calvary Triptych (central panel)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16923
+        },
+        {
+            "title": "Calvary Triptych (detail)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16924
+        },
+        {
+            "title": "Calvary Triptych (detail)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar22.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16925
+        },
+        {
+            "title": "Calvary Triptych (detail)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar23.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16926
+        },
+        {
+            "title": "Calvary Triptych (right wing)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16927
+        },
+        {
+            "title": "Calvary Triptych (detail)",
+            "date": "1465-68",
+            "technique": "Oil on wood",
+            "location": "Cathedral of St Bavo Ghent",
+            "url": "https://www.wga.hu/html/g/goes/calvary/calvar31.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16928
+        },
+        {
+            "title": "The Death of the Virgin",
+            "date": "c. 1480",
+            "technique": "Oil on wood 1478 x 1225 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16929
+        },
+        {
+            "title": "The Death of the Virgin",
+            "date": "c. 1480",
+            "technique": "Oil on wood 1478 x 1225 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16930
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16931
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16932
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16933
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16934
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16935
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16936
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "c. 1480",
+            "technique": "Oil on wood",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/g/goes/deathvir/death_v7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16937
+        },
+        {
+            "title": "Monforte Altarpiece",
+            "date": "c. 1470",
+            "technique": "Oil on wood 150 x 247 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16938
+        },
+        {
+            "title": "Monforte Altarpiece",
+            "date": "c. 1470",
+            "technique": "Oil on wood 150 x 247 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16939
+        },
+        {
+            "title": "Monforte Altarpiece",
+            "date": "c. 1470",
+            "technique": "Oil on wood 150 x 247 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16940
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16941
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16942
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16943
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16944
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16945
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16946
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16947
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16948
+        },
+        {
+            "title": "Monforte Altarpiece (detail)",
+            "date": "c. 1470",
+            "technique": "Oil on wood",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/g/goes/monforte/monfort9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16949
+        },
+        {
+            "title": "Portinari Triptych",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 586 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/1portina.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16950
+        },
+        {
+            "title": "Portinari Triptych",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 586 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/2portina.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16951
+        },
+        {
+            "title": "Portinari Triptych",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 586 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/3portina.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16952
+        },
+        {
+            "title": "Portinari Triptych (closed)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/4portina.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16953
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 304 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16954
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre01.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16955
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre02.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16956
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre03.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16957
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre04.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16958
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre05.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16959
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre06.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16960
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre07.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16961
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre08.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16962
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre09.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16963
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre10.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16964
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre11.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16965
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre12.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16966
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre13.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16967
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/centre14.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16968
+        },
+        {
+            "title": "Sts Anthony and Thomas with Tommaso Portinari",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 141 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/left.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16969
+        },
+        {
+            "title": "Sts Anthony and Thomas with Tommaso Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/left1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16970
+        },
+        {
+            "title": "Sts Anthony and Thomas with Tommaso Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/left2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16971
+        },
+        {
+            "title": "Sts Anthony and Thomas with Tommaso Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/left3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16972
+        },
+        {
+            "title": "Sts Margaret and Mary Magdalene with Maria Portinari",
+            "date": "1476-79",
+            "technique": "Oil on wood 253 x 141 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/right.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16973
+        },
+        {
+            "title": "Sts Margaret and Mary Magdalene with Maria Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/right1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16974
+        },
+        {
+            "title": "Sts Margaret and Mary Magdalene with Maria Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/right2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16975
+        },
+        {
+            "title": "Sts Margaret and Mary Magdalene with Maria Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/right3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16976
+        },
+        {
+            "title": "Sts Margaret and Mary Magdalene with Maria Portinari (detail)",
+            "date": "1476-79",
+            "technique": "Oil on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/g/goes/portinar/right4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16977
+        }
+    ]
+}

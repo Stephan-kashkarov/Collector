@@ -1,0 +1,78 @@
+{
+    "name": "BRACCI Pietro",
+    "life": "(b. 1700 Roma d. 1773 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Tomb of Benedict XIV",
+            "date": "1763-70",
+            "technique": "Marble",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/b/bracci/benedi14.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5893
+        },
+        {
+            "title": "Bust of Pope Benedict XIII",
+            "date": "1762-73",
+            "technique": "Marble height 764 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bracci/benedic1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5894
+        },
+        {
+            "title": "Bust of Pope Benedict XIII",
+            "date": "1724",
+            "technique": "Terracotta height 41 cm",
+            "location": "Palazzo Venezia Rome",
+            "url": "https://www.wga.hu/html/b/bracci/benedic2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 5895
+        },
+        {
+            "title": "Tomb of Pope Benedict XIII",
+            "date": "1734",
+            "technique": "Marble",
+            "location": "Santa Maria sopra Minerva Rome",
+            "url": "https://www.wga.hu/html/b/bracci/benedict.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5896
+        },
+        {
+            "title": "Neptune",
+            "date": "after 1759",
+            "technique": "Marble",
+            "location": "Piazza di Trevi Rome",
+            "url": "https://www.wga.hu/html/b/bracci/neptune.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 5897
+        },
+        {
+            "title": "Tomb of Maria Clementina Sobieski",
+            "date": "1744",
+            "technique": "Marble",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/b/bracci/sobieski.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5898
+        },
+        {
+            "title": "Tomb of Maria Clementina Sobieska (detail)",
+            "date": "1739",
+            "technique": "Polychrome marble height 193 cm",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/b/bracci/sobieskx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 5899
+        }
+    ]
+}

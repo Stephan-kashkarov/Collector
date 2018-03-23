@@ -1,0 +1,28 @@
+{
+    "name": "SCHALCKE Cornelis Symonsz. van der",
+    "life": "(b. 1611 Haarlem d. 1671 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "An Extensive River Landscape",
+            "date": "c. 1659",
+            "technique": "Oil on canvas 101 x 150 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/s/schalck/extensiv.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36522
+        },
+        {
+            "title": "River Landscape with a Ferry",
+            "date": "1649",
+            "technique": "Oil on panel 40 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schalck/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 36523
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "REINER DE HUY",
+    "life": "(d. ca. 1150 Neufmoustier)",
+    "school": "Flemish",
+    "timeframe": "1101-1150",
+    "art": [
+        {
+            "title": "Baptismal font",
+            "date": "1107-18",
+            "technique": "Cast bronze height 60 cm diameter 80 cm",
+            "location": "Saint-Barth\u00e9lemy Li\u00e8ge",
+            "url": "https://www.wga.hu/html/r/reiner/font1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33370
+        },
+        {
+            "title": "Baptismal font",
+            "date": "1107-18",
+            "technique": "Cast bronze height 60 cm diameter 80 cm",
+            "location": "Saint-Barth\u00e9lemy Li\u00e8ge",
+            "url": "https://www.wga.hu/html/r/reiner/font2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33371
+        },
+        {
+            "title": "Baptismal font",
+            "date": "1107-18",
+            "technique": "Cast bronze height 60 cm diameter 80 cm",
+            "location": "Saint-Barth\u00e9lemy Li\u00e8ge",
+            "url": "https://www.wga.hu/html/r/reiner/font3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 33372
+        }
+    ]
+}

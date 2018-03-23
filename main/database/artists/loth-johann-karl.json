@@ -1,0 +1,88 @@
+{
+    "name": "LOTH Johann Karl",
+    "life": "(b. 1632 M\u00fcnchen d. 1698 Venezia)",
+    "school": "German",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Apollo Pan and Marsyas",
+            "date": "-",
+            "technique": "Oil on canvas 97 x 117 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/loth/apollo.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23245
+        },
+        {
+            "title": "Death of St Peter Martyr",
+            "date": "1691",
+            "technique": "Oil on canvas 500 x 306 cm",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/l/loth/deathpet.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23246
+        },
+        {
+            "title": "Eliezer and Rebecca at the Well",
+            "date": "1670s",
+            "technique": "Oil on canvas 123 x 159 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/loth/eliezer.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23247
+        },
+        {
+            "title": "The Good Samaritane",
+            "date": "c. 1676",
+            "technique": "Oil on canvas (oval) 125 x 108 cm",
+            "location": "Kunstsammlungen Graf von Sch\u00f6nborn Pommersfelden",
+            "url": "https://www.wga.hu/html/l/loth/good_sam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23248
+        },
+        {
+            "title": "Holy Family and God the Father",
+            "date": "1681",
+            "technique": "Oil on canvas 385 x 188 cm",
+            "location": "San Silvestro Venice",
+            "url": "https://www.wga.hu/html/l/loth/holy_fam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23249
+        },
+        {
+            "title": "Jupiter and Mercury at Philemon and Baucis",
+            "date": "before 1659",
+            "technique": "Oil on canvas 178 x 252 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/l/loth/jupiter.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23250
+        },
+        {
+            "title": "Mercury Piping to Argus",
+            "date": "before 1660",
+            "technique": "Oil on canvas 117 x 100 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/l/loth/mercury.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 23251
+        },
+        {
+            "title": "Portrait of an Old Man with Bust",
+            "date": "-",
+            "technique": "Oil on canvas 115 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/loth/old_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23252
+        }
+    ]
+}

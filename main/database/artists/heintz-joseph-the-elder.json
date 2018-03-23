@@ -1,0 +1,58 @@
+{
+    "name": "HEINTZ Joseph the Elder",
+    "life": "(b. 1564 Basel d. 1609 Praha)",
+    "school": "Swiss",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adonis Parting from Venus",
+            "date": "-",
+            "technique": "Copperplate 40 x 31 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/h/heintz/joseph_e/adonis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19540
+        },
+        {
+            "title": "Dancing Couple with a Viola da Gamba",
+            "date": "-",
+            "technique": "Oil on canvas 105 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heintz/joseph_e/dancing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19541
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "1590s",
+            "technique": "Oil on copperplate 40 x 49 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/h/heintz/joseph_e/diana_ac.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19542
+        },
+        {
+            "title": "The Fall of Phaethon",
+            "date": "1596",
+            "technique": "Oil on wood 1225 x 665 cm",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/h/heintz/joseph_e/phaeton.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19543
+        },
+        {
+            "title": "The Rape of Proserpina",
+            "date": "1598-1605",
+            "technique": "Oil on copperplate 63 x 94 cm",
+            "location": "Gemaldegalerie Dresden",
+            "url": "https://www.wga.hu/html/h/heintz/joseph_e/proserpi.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19544
+        }
+    ]
+}

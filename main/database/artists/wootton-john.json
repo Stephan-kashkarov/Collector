@@ -1,0 +1,68 @@
+{
+    "name": "WOOTTON John",
+    "life": "(b. ca. 1682 Snitterfield Warwickshire d. 1764 London)",
+    "school": "English",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "A Bay Hunter Held by a Liveried Groom",
+            "date": "c. 1735",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wootton/bayhunte.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44343
+        },
+        {
+            "title": "A Dark Chestnut Racehorse Held by a Jockey",
+            "date": "-",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wootton/chestnut.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44344
+        },
+        {
+            "title": "Hounds and a Magpie",
+            "date": "1740s",
+            "technique": "Oil on canvas 152 x 128 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/wootton/hounds.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44345
+        },
+        {
+            "title": "A Lady and a Black Groom",
+            "date": "c. 1735",
+            "technique": "Oil on canvas 53 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wootton/ladygroo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44346
+        },
+        {
+            "title": "A Race Meeting",
+            "date": "1718",
+            "technique": "Oil on canvas 114 x 194 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wootton/meeting.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 44347
+        },
+        {
+            "title": "The Shooting Party",
+            "date": "1740",
+            "technique": "Oil on canvas 889 x 74 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/w/wootton/shooting.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44348
+        }
+    ]
+}

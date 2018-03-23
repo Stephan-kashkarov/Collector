@@ -1,0 +1,48 @@
+{
+    "name": "POLLET Joseph-Michel-Ange",
+    "life": "(b. 1814 Palermo d. 1870 Paris)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "\u00c9loa",
+            "date": "1869",
+            "technique": "Marble",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pollet/eloa.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 31906
+        },
+        {
+            "title": "Hesperus Goddess of the Dawn",
+            "date": "-",
+            "technique": "Bronze height 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pollet/hesperus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 31907
+        },
+        {
+            "title": "An Hour of the Night",
+            "date": "-",
+            "technique": "Bronze golden brown patina height 187 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pollet/night.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 31908
+        },
+        {
+            "title": "The Night",
+            "date": "1850s",
+            "technique": "Marble",
+            "location": "Museo Nacional de Arte Decorativo Buenos Aires",
+            "url": "https://www.wga.hu/html/p/pollet/thenight.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 31909
+        }
+    ]
+}

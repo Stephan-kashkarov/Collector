@@ -1,0 +1,48 @@
+{
+    "name": "BISSCHOP Abraham",
+    "life": "(b. 1670 Dordrecht d. 1729 Middelburg)",
+    "school": "Dutch",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Birds in a Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 88 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bisschop/abraham/birdland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4637
+        },
+        {
+            "title": "Birds in Wooded Landscape",
+            "date": "1699",
+            "technique": "Oil on canvas 68 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bisschop/abraham/birdwood.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4638
+        },
+        {
+            "title": "A Mute Swan a Goose and Other Fowl on a Wooded River Bank",
+            "date": "-",
+            "technique": "Oil on canvas diameter 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bisschop/abraham/fowlwood.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4639
+        },
+        {
+            "title": "Peacock on a Fallen Vase",
+            "date": "1722",
+            "technique": "Oil on canvas 228 x 170 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bisschop/abraham/peacock.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4640
+        }
+    ]
+}

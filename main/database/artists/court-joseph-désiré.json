@@ -1,0 +1,48 @@
+{
+    "name": "COURT Joseph-D\u00e9sir\u00e9",
+    "life": "(b. 1797 Rouen d. 1865 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Christian VIII and Caroline Amalie in Coronation Robes",
+            "date": "1841",
+            "technique": "Oil on canvas 294 x 359 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/c/court/christi8.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9920
+        },
+        {
+            "title": "Half-length Woman Lying on a Couch",
+            "date": "1829",
+            "technique": "Oil on canvas 81 x 66 cm",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/c/court/womanlyi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9921
+        },
+        {
+            "title": "Portrait of Yekaterina Scherbatova",
+            "date": "c. 1840",
+            "technique": "Oil on canvas 165 x 123 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/court/yekateri.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 9922
+        },
+        {
+            "title": "Young Girl at the Scamander River",
+            "date": "1824",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts et de la Dentelle d'Alen\u00e7on Alen\u00e7on",
+            "url": "https://www.wga.hu/html/c/court/young_g.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9923
+        }
+    ]
+}

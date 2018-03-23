@@ -1,0 +1,28 @@
+{
+    "name": "COLA DA CAPRAROLA",
+    "life": "(active 1494-1518)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Santa Maria della Consolazione",
+            "date": "1508",
+            "technique": "Photo",
+            "location": "Todi",
+            "url": "https://www.wga.hu/html/c/cola_c/todi.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 9258
+        },
+        {
+            "title": "Santa Maria della Consolazione",
+            "date": "1508",
+            "technique": "Photo",
+            "location": "Todi",
+            "url": "https://www.wga.hu/html/c/cola_c/todi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 9259
+        }
+    ]
+}

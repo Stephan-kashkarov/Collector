@@ -1,0 +1,98 @@
+{
+    "name": "TANZIO DA VARALLO",
+    "life": "(b. ca. 1580 Riale d\u2019Alagna d. ca. 1632 Varallo)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "David with the Head of Goliath",
+            "date": "1624-26",
+            "technique": "Oil on canvas 120 x 90 cm",
+            "location": "Pinacoteca Varallo",
+            "url": "https://www.wga.hu/html/t/tanzio/david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38482
+        },
+        {
+            "title": "David with the Head of Goliath (detail)",
+            "date": "1624-26",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Varallo",
+            "url": "https://www.wga.hu/html/t/tanzio/david1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38483
+        },
+        {
+            "title": "St Jerome",
+            "date": "1624-26",
+            "technique": "Oil on canvas 80 x 64 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/t/tanzio/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38484
+        },
+        {
+            "title": "St John the Baptist in the Desert",
+            "date": "1627-28",
+            "technique": "Oil on canvas 159 x 112 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tanzio/johnbapt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38485
+        },
+        {
+            "title": "St Onofrio",
+            "date": "c. 1632",
+            "technique": "Oil on canvas 90 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tanzio/onofrio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 38486
+        },
+        {
+            "title": "Portrait of a Gentleman with a Sword",
+            "date": "c. 1615",
+            "technique": "Oil on canvas 78 x 62 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tanzio/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38487
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1620s",
+            "technique": "Oil on canvas 46 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tanzio/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38488
+        },
+        {
+            "title": "Study for an Angel",
+            "date": "1631-32",
+            "technique": "Red chalk on red prepared paper 356 x 252 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/t/tanzio/study1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 38489
+        },
+        {
+            "title": "Landscape with Mountains",
+            "date": "-",
+            "technique": "Red chalk on pink prepared paper 235 x 325 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/t/tanzio/study2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 38490
+        }
+    ]
+}

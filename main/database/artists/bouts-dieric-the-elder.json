@@ -1,0 +1,598 @@
+{
+    "name": "BOUTS Dieric the Elder",
+    "life": "(b. ca. 1415 Haarlem d. 1475 Leuven)",
+    "school": "Netherlandish",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Christ in the House of Simon",
+            "date": "1440s",
+            "technique": "Oil on wood 405 x 61 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/1simon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5802
+        },
+        {
+            "title": "The Capture of Christ",
+            "date": "-",
+            "technique": "Oil on wood 105 x 68 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/2capture.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5803
+        },
+        {
+            "title": "The Entombment",
+            "date": "c. 1450",
+            "technique": "Distemper on flax canvas 90 x 74 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/3entombm.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5804
+        },
+        {
+            "title": "The Entombment (detail)",
+            "date": "c. 1450",
+            "technique": "Distemper on flax canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/3entombx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5805
+        },
+        {
+            "title": "Resurrection",
+            "date": "1450-60",
+            "technique": "Tempera on canvas 89 x 725 cm",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/3resurre.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5806
+        },
+        {
+            "title": "Resurrection (detail)",
+            "date": "1450-60",
+            "technique": "Tempera on canvas",
+            "location": "Norton Simon Museum of Art Pasadena",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/3resurrx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5807
+        },
+        {
+            "title": "Paradise",
+            "date": "1450",
+            "technique": "Oil on wood 115 x 695 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/4paradis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5808
+        },
+        {
+            "title": "The Way to Paradise (detail)",
+            "date": "1450",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/4paradit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5809
+        },
+        {
+            "title": "Hell",
+            "date": "1450",
+            "technique": "Oil on wood 115 x 695 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Lille",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/5thefall.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5810
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "c. 1450",
+            "technique": "Panel 83 x 86 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/1/6coronat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5811
+        },
+        {
+            "title": "Ecce Agnus Dei",
+            "date": "1462-64",
+            "technique": "Wood 54 x 41 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/ecce_agn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5812
+        },
+        {
+            "title": "The Lamentation of Christ",
+            "date": "c. 1460",
+            "technique": "Oil on wood 69 x 49 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/lament1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5813
+        },
+        {
+            "title": "Moses and the Burning Bush",
+            "date": "1465-70",
+            "technique": "Oil on panel 44 x 36 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5814
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1462",
+            "technique": "Oil on wood 31 x 20 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5815
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1470",
+            "technique": "Oil on wood 31 x 22 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5816
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1462",
+            "technique": "Silverpoint on white paper",
+            "location": "Smith College Museum of Art Northampton",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/portrai3.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 5817
+        },
+        {
+            "title": "The Virgin and Child",
+            "date": "-",
+            "technique": "Panel 295 x 205 cm",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5818
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on wood 216 x 165 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5819
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1455-60",
+            "technique": "Oil on wood 29 x 20 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/virgin_d.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5820
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1465-70",
+            "technique": "Oil on wood 285 x 20 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/virgin_e.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5821
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1465",
+            "technique": "Wood 37 x 28 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/2/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5822
+        },
+        {
+            "title": "Triptych of the Virgin",
+            "date": "c. 1445",
+            "technique": "Oil on wood 80 x 224 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/1tripti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5823
+        },
+        {
+            "title": "The Annunciation",
+            "date": "c. 1445",
+            "technique": "Oil on wood 80 x 56 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/1tripti1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5824
+        },
+        {
+            "title": "The Visitation",
+            "date": "c. 1445",
+            "technique": "Oil on wood 80 x 56 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/1tripti2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5825
+        },
+        {
+            "title": "Nativity",
+            "date": "c. 1445",
+            "technique": "Oil on wood 80 x 56 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/1tripti3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5826
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1445",
+            "technique": "Oil on wood 80 x 56 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/1tripti4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5827
+        },
+        {
+            "title": "Martyrdom of St Erasmus (triptych)",
+            "date": "c. 1458",
+            "technique": "Oil on wood 34 x 148 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasm.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5828
+        },
+        {
+            "title": "Martyrdom of St Erasmus (triptych)",
+            "date": "c. 1458",
+            "technique": "Oil on wood 34 x 148 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasmu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5829
+        },
+        {
+            "title": "Martyrdom of St Erasmus (central panel)",
+            "date": "c. 1458",
+            "technique": "Oil on wood",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasmu0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5830
+        },
+        {
+            "title": "Martyrdom of St Erasmus (detail)",
+            "date": "c. 1458",
+            "technique": "Oil on wood",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasmu1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5831
+        },
+        {
+            "title": "Martyrdom of St Erasmus (left wing)",
+            "date": "c. 1458",
+            "technique": "Oil on wood",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasmu2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5832
+        },
+        {
+            "title": "Martyrdom of St Erasmus (right wing)",
+            "date": "c. 1458",
+            "technique": "Oil on wood",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/2erasmu3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5833
+        },
+        {
+            "title": "Passion Altarpiece (central)",
+            "date": "c. 1455",
+            "technique": "Oil on wood 191 x 145 cm",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/passion.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5834
+        },
+        {
+            "title": "Passion Altarpiece (side wings)",
+            "date": "c. 1455",
+            "technique": "Oil on wood 191 x 58 cm (each)",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/passion1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5835
+        },
+        {
+            "title": "Passion Altarpiece (central)",
+            "date": "c. 1455",
+            "technique": "Oil on wood 191 x 145 cm",
+            "location": "Museo de la Capilla Real Granada",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/passion2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5836
+        },
+        {
+            "title": "St Hippolyte Triptych",
+            "date": "after 1468",
+            "technique": "Oil on wood 90 x 892 cm (central panel) 92 x 41 cm (each wing)",
+            "location": "Museum of Sint Salvator Kathedral Brugge",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar/torture.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5837
+        },
+        {
+            "title": "The Execution of the Innocent Count",
+            "date": "c. 1460",
+            "technique": "Oil on wood 324 x 182 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/3empero.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5838
+        },
+        {
+            "title": "The Execution of the Innocent Count (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/3empero1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5839
+        },
+        {
+            "title": "The Execution of the Innocent Count (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/3empero2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5840
+        },
+        {
+            "title": "The Ordeal by Fire",
+            "date": "c. 1460",
+            "technique": "Oil on wood 324 x 182 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/4empero.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5841
+        },
+        {
+            "title": "The Ordeal by Fire (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/4empero1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5842
+        },
+        {
+            "title": "The Ordeal by Fire (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/4empero2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5843
+        },
+        {
+            "title": "The Ordeal by Fire (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/4empero3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5844
+        },
+        {
+            "title": "The Ordeal by Fire (detail)",
+            "date": "c. 1460",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/altar1/4empero4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5845
+        },
+        {
+            "title": "Altarpiece of the Holy Sacrament",
+            "date": "1464-67",
+            "technique": "Oil on panel 185 x 294 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/0altar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5846
+        },
+        {
+            "title": "Altarpiece of the Holy Sacrament",
+            "date": "1464-67",
+            "technique": "Oil on panel 185 x 294 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/0altar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5847
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1464-67",
+            "technique": "Oil on panel 180 x 150 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5848
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5849
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5850
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5851
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5852
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5853
+        },
+        {
+            "title": "The Last Supper (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/1lastsu6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5854
+        },
+        {
+            "title": "The Meeting of Abraham and Melchizedek",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/2melchi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5855
+        },
+        {
+            "title": "The Meeting of Abraham and Melchizedek (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/2melchi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5856
+        },
+        {
+            "title": "The Gathering of the Manna",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/3manna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5857
+        },
+        {
+            "title": "The Feast of the Passover",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/4feast.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5858
+        },
+        {
+            "title": "The Feast of the Passover (detail)",
+            "date": "1464-67",
+            "technique": "Oil on panel",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/4feast1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5859
+        },
+        {
+            "title": "Prophet Elijah in the Desert",
+            "date": "1464-68",
+            "technique": "Oil on panel 88 x 71 cm",
+            "location": "Sint-Pieterskerk Leuven",
+            "url": "https://www.wga.hu/html/b/bouts/dirk_e/lastsupp/5elijah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5860
+        }
+    ]
+}

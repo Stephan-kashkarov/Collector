@@ -1,0 +1,28 @@
+{
+    "name": "ROSSETTI Biagio",
+    "life": "(b. 1447 Ferrara d. 1516 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Palazzo dei Diamanti",
+            "date": "1493",
+            "technique": "Photo",
+            "location": "Corso Ercole I d'Este Ferrara",
+            "url": "https://www.wga.hu/html/r/rossett/diamant.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35207
+        },
+        {
+            "title": "Detail of the exterior",
+            "date": "1493",
+            "technique": "Photo",
+            "location": "Corso Ercole I d'Este Ferrara",
+            "url": "https://www.wga.hu/html/r/rossett/diamant1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 35208
+        }
+    ]
+}

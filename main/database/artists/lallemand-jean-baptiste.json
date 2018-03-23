@@ -1,0 +1,38 @@
+{
+    "name": "LALLEMAND Jean-Baptiste",
+    "life": "(b. 1716 Dijon d. ca. 1803 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "View of the Ch\u00e2teau de Montmusard",
+            "date": "-",
+            "technique": "Oil on canvas 89 x 128 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "url": "https://www.wga.hu/html/l/lallema/montmusa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21396
+        },
+        {
+            "title": "Pastoral Landscape with Figures",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lallema/pastoral.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21397
+        },
+        {
+            "title": "View of Rome",
+            "date": "-",
+            "technique": "Oil on canvas 44 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lallema/viewrome.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21398
+        }
+    ]
+}

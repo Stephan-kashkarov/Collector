@@ -1,0 +1,28 @@
+{
+    "name": "FORMENT Damian",
+    "life": "(b. ca. 1480 Valencia d. 1540 Logrono)",
+    "school": "Spanish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Retable of the High Altar (detail)",
+            "date": "1520-34",
+            "technique": "Marble",
+            "location": "Cathedral Huesca",
+            "url": "https://www.wga.hu/html/f/forment/huesca.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 14068
+        },
+        {
+            "title": "Main Altar (detail)",
+            "date": "c. 1540",
+            "technique": "Marble",
+            "location": "Santo Domingo de la Calzada Saragossa",
+            "url": "https://www.wga.hu/html/f/forment/main_alt.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 14069
+        }
+    ]
+}

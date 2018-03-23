@@ -1,0 +1,28 @@
+{
+    "name": "TIECK Christian Friedrich",
+    "life": "(b. 1776 Berlin d. 1851 Berlin)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Clemens Brentano",
+            "date": "1794",
+            "technique": "Gypsum height 58 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/t/tieck/brentano.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 38858
+        },
+        {
+            "title": "Tomb of Gerhard von Scharnhorst",
+            "date": "1822",
+            "technique": "Stone and bronze",
+            "location": "Invalidenfriedhof Berlin",
+            "url": "https://www.wga.hu/html/t/tieck/tomb.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 38859
+        }
+    ]
+}

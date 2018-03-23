@@ -1,0 +1,28 @@
+{
+    "name": "BERGOIJS Claes",
+    "life": "(active 1651-1668 in Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 94 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bergoijs/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 4197
+        },
+        {
+            "title": "Still-Life with a Flask",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bergoijs/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 4198
+        }
+    ]
+}

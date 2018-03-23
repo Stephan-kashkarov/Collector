@@ -1,0 +1,68 @@
+{
+    "name": "SPERANDIO SAVELLI",
+    "life": "(b. ca. 1425 Mantova d. ca. 1504 Venezia)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Eleonora of Aragon",
+            "date": "c. 1475",
+            "technique": "Marble 29 x 24 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/sperandi/eleonora.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37753
+        },
+        {
+            "title": "Ercole I d'Este",
+            "date": "1475",
+            "technique": "Marble 58 x 38 cm",
+            "location": "Palazzina di Marfisa d'Este Ferrara",
+            "url": "https://www.wga.hu/html/s/sperandi/ercole.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37754
+        },
+        {
+            "title": "Federico da Montefeltro",
+            "date": "c. 1482",
+            "technique": "Cast bronze diameter 9 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/sperandi/federico.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37755
+        },
+        {
+            "title": "Giovanni II Bentivoglio",
+            "date": "before 1482",
+            "technique": "Cast bronze diameter 10 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sperandi/giovanni.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37756
+        },
+        {
+            "title": "Cardinal Francesco Gonzaga",
+            "date": "c. 1483",
+            "technique": "Cast bronze diameter 9 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/s/sperandi/gonzaga.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37757
+        },
+        {
+            "title": "Medal of Cardinal Francesco Gonzaga (verso)",
+            "date": "c. 1483",
+            "technique": "Bronze medal",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/s/sperandi/gonzaga1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 37758
+        }
+    ]
+}

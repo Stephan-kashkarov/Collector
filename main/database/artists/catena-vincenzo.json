@@ -1,0 +1,88 @@
+{
+    "name": "CATENA Vincenzo",
+    "life": "(b. ca. 1480 Venezia d. 1531 Venezia)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Santa Cristina Altarpiece",
+            "date": "c. 1520",
+            "technique": "Oil on panel 225 x 150 cm",
+            "location": "Santa Maria Materdomini Venice",
+            "url": "https://www.wga.hu/html/c/catena/altarpie.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8196
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "1520s",
+            "technique": "Oil on panel 47 x 38 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/c/catena/carrying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8197
+        },
+        {
+            "title": "The Holy Family with a Female Saint",
+            "date": "1498-1500",
+            "technique": "Oil on panel 66 x 96 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/catena/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8198
+        },
+        {
+            "title": "Judith",
+            "date": "1520-25",
+            "technique": "Oil on panel 82 x 65 cm",
+            "location": "Fondazione Querini Stampalia Venice",
+            "url": "https://www.wga.hu/html/c/catena/judith.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 8199
+        },
+        {
+            "title": "Virgin and Child with Sts Mark and Jerome",
+            "date": "1520-25",
+            "technique": "Oil on panel marouflaged 69 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/catena/madon_ch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8200
+        },
+        {
+            "title": "Madonna and Child with Saints and the Donor",
+            "date": "1504",
+            "technique": "Oil on canvas 74 x 109 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/catena/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 8201
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1505-10",
+            "technique": "Oil on wood 31 x 24 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/catena/portyoun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8202
+        },
+        {
+            "title": "Giangiorgio Trissino",
+            "date": "1525-27",
+            "technique": "Oil on canvas 72 x 63 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/catena/trissino.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 8203
+        }
+    ]
+}

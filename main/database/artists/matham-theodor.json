@@ -1,0 +1,38 @@
+{
+    "name": "MATHAM Theodor",
+    "life": "(b. ca. 1605 Haarlem d. 1676 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Man with Roemer and Pipe",
+            "date": "1633",
+            "technique": "Ink on vellum 410 x 330 mm",
+            "location": "Fogg Art Museum Cambridge",
+            "url": "https://www.wga.hu/html/m/matham/theodor/man_pipe.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 25240
+        },
+        {
+            "title": "Merry Toper",
+            "date": "1629-30",
+            "technique": "Engraving 216 x 170 mm",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/m/matham/theodor/toper.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 25241
+        },
+        {
+            "title": "Vanitas",
+            "date": "1622",
+            "technique": "Engraving 230 x 330 mm",
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "url": "https://www.wga.hu/html/m/matham/theodor/vanitas.html",
+            "form": "graphics",
+            "painting_type": "still-life",
+            "index": 25242
+        }
+    ]
+}

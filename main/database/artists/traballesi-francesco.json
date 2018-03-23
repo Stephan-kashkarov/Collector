@@ -1,0 +1,28 @@
+{
+    "name": "TRABALLESI Francesco",
+    "life": "(b. 1544 Firenze d. 1588 Mantova)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Portrait of a Man",
+            "date": "1567",
+            "technique": "Oil on canvas",
+            "location": "Art Museum Seattle",
+            "url": "https://www.wga.hu/html/t/traball/francesc/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40126
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "-",
+            "technique": "Oil on poplar panel 87 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/traball/francesc/portyoun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 40127
+        }
+    ]
+}

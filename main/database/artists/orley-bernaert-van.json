@@ -1,0 +1,288 @@
+{
+    "name": "ORLEY Bernaert van",
+    "life": "(b. 1491/92 Bruxelles d. 1542 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Altarpiece of Sts Thomas and Matthew (detail)",
+            "date": "1512",
+            "technique": "Oil on wood 140 x 180 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/o/orley/altar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29852
+        },
+        {
+            "title": "Altarpiece of Calvary",
+            "date": "c. 1534",
+            "technique": "Wood",
+            "location": "O.L. Vrouwekerk Bruges",
+            "url": "https://www.wga.hu/html/o/orley/calvary.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29853
+        },
+        {
+            "title": "Altarpiece of Calvary",
+            "date": "c. 1534",
+            "technique": "Wood",
+            "location": "O.L. Vrouwekerk Bruges",
+            "url": "https://www.wga.hu/html/o/orley/calvary1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29854
+        },
+        {
+            "title": "Portrait of Charles V",
+            "date": "1519-20",
+            "technique": "Oil on wood 71 x 52 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/orley/charles5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29855
+        },
+        {
+            "title": "Haneton Triptych (centre panel)",
+            "date": "-",
+            "technique": "Oil on oak 87 x 1085 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/haneton1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29856
+        },
+        {
+            "title": "Haneton Triptych (wings)",
+            "date": "-",
+            "technique": "Oil on oak 87 x 48 cm (each)",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/haneton2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29857
+        },
+        {
+            "title": "Holy Family",
+            "date": "1531",
+            "technique": "Wood 107 x 89 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/o/orley/holyfam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29858
+        },
+        {
+            "title": "Holy Family",
+            "date": "1522",
+            "technique": "Oil tempera on wood 90 x 74 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/o/orley/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29859
+        },
+        {
+            "title": "The Last Judgment",
+            "date": "1519-25",
+            "technique": "Oil on panel 248 x 218 cm (centre) 248 x 94 cm (side panels)",
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "url": "https://www.wga.hu/html/o/orley/lastjudg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29860
+        },
+        {
+            "title": "Portrait of Margareta van Oostenrijk",
+            "date": "-",
+            "technique": "Wood",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/margaret.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29861
+        },
+        {
+            "title": "Portrait of Margaret of Austria",
+            "date": "-",
+            "technique": "Wood",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/orley/portmarg.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29862
+        },
+        {
+            "title": "Scene in a church",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/o/orley/scene_ch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29863
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1515",
+            "technique": "Panel 98 x 71 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/o/orley/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29864
+        },
+        {
+            "title": "Virgin of Louvain",
+            "date": "1520",
+            "technique": "Oil on panel 45 x 49 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/o/orley/virgin_lo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29865
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "c. 1515",
+            "technique": "Oil on wood 59 x 385 cm",
+            "location": "Landesmuseum Oldenburg",
+            "url": "https://www.wga.hu/html/o/orley/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29866
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1520-25",
+            "technique": "Oil on panel 60 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/orley/virgin3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29867
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on panel 44 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/o/orley/virgin4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29868
+        },
+        {
+            "title": "Triptych of Virtue of Patience",
+            "date": "1521",
+            "technique": "Oil on oak 176 x 184 cm (centre) 174 x 80 cm (each wing)",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/virtue.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29869
+        },
+        {
+            "title": "Triptych of Virtue of Patience (closed)",
+            "date": "1521",
+            "technique": "Oil on oak 174 x 80 cm (each wing)",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/virtue1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29870
+        },
+        {
+            "title": "Triptych of Virtue of Patience (central panel)",
+            "date": "1521",
+            "technique": "Oil on oak 176 x 184 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/virtue2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29871
+        },
+        {
+            "title": "Triptych of Virtue of Patience (central panel detail)",
+            "date": "1521",
+            "technique": "Oil on oak",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/virtue3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 29872
+        },
+        {
+            "title": "Joris van Zelle",
+            "date": "1519",
+            "technique": "Oil on oak 39 x 32 cm",
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "url": "https://www.wga.hu/html/o/orley/zelle.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29873
+        },
+        {
+            "title": "Portrait of Margaret of Austria",
+            "date": "-",
+            "technique": "Drawing with additions",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/o/orley/zmargare.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29874
+        },
+        {
+            "title": "Count Henry I of Nassau with his Bride",
+            "date": "c. 1530",
+            "technique": "Pen and watercolour 340 x 550 mm",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/o/orley/znassau.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 29875
+        },
+        {
+            "title": "November",
+            "date": "1531-33",
+            "technique": "Tapestry",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/o/orley/ztapest1.html",
+            "form": "tapestry",
+            "painting_type": "mythological",
+            "index": 29876
+        },
+        {
+            "title": "Sharing Out the Game",
+            "date": "1528-30",
+            "technique": "Pen brown ink with wash 387 x 537 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/o/orley/ztapest2.html",
+            "form": "tapestry",
+            "painting_type": "study",
+            "index": 29877
+        },
+        {
+            "title": "Romulus Offers the Head of Amulius to Numitor",
+            "date": "1524",
+            "technique": "Pen and brown ink watercolour 340 x 554 mm",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/o/orley/ztapest3.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 29878
+        },
+        {
+            "title": "Romulus Gives Laws to the Roman People",
+            "date": "1524",
+            "technique": "Pen and wash 345 x 545 mm",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/o/orley/ztapest4.html",
+            "form": "tapestry",
+            "painting_type": "mythological",
+            "index": 29879
+        }
+    ]
+}

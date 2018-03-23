@@ -1,0 +1,28 @@
+{
+    "name": "FIGUEROA Leonardo de",
+    "life": "(b. ca.1650 Utiel d. 1730 Sevilla)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1724-34",
+            "technique": "Photo",
+            "location": "Colegio de San Telmo Seville",
+            "url": "https://www.wga.hu/html/f/figueroa/santelm1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13824
+        },
+        {
+            "title": "Exterior view",
+            "date": "1724-34",
+            "technique": "Photo",
+            "location": "Colegio de San Telmo Seville",
+            "url": "https://www.wga.hu/html/f/figueroa/santelm2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13825
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "ZANDOMENEGHI Federico",
+    "life": "(b. 1841 Venezia d. 1917 Paris)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Palazzo Pretorio in Florence",
+            "date": "1865",
+            "technique": "Oil on canvas 81 x 64 cm",
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi01.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44525
+        },
+        {
+            "title": "Honeymoon (Fishing on the Seine)",
+            "date": "1877",
+            "technique": "Oil on canvas 15 x 25 cm",
+            "location": "Galleria d'Arte Moderna Florence",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi02.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44526
+        },
+        {
+            "title": "In Bed",
+            "date": "1878",
+            "technique": "Oil on canvas 61 x 74 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi03.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44527
+        },
+        {
+            "title": "Le Moulin de la Galette",
+            "date": "1878",
+            "technique": "Oil on canvas 80 x 120 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi05.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44528
+        },
+        {
+            "title": "Place d'Anvers Paris",
+            "date": "1880",
+            "technique": "Oil on canvas 100 x 135 cm",
+            "location": "Galleria d'Arte Moderna Ricci Oddi Piacenza",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi06.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44529
+        },
+        {
+            "title": "Children's Games in the Parc Monceau",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 92 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi07.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44530
+        },
+        {
+            "title": "Lady in a Meadow",
+            "date": "1893",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi08.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 44531
+        },
+        {
+            "title": "Portrait of a Girl",
+            "date": "1893-95",
+            "technique": "Oil on canvas 61 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi09.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44532
+        },
+        {
+            "title": "The Young Model",
+            "date": "1894-1905",
+            "technique": "Oil on canvas 46 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zandomen/2federic/federi10.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 44533
+        }
+    ]
+}

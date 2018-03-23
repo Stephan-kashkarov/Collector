@@ -1,0 +1,78 @@
+{
+    "name": "PISANO Nino",
+    "life": "(active c. 1349-1360 in Pisa)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Monument to the Doge Marco Corner",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/corner.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31670
+        },
+        {
+            "title": "Monument to the Doge Marco Corner (detail)",
+            "date": "1360s",
+            "technique": "Marble",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/corner1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 31671
+        },
+        {
+            "title": "Madonna del Latte",
+            "date": "1343-47",
+            "technique": "Marble height 89 cm",
+            "location": "Museo Nazionale di San Matteo Pisa",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/m_latte.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31672
+        },
+        {
+            "title": "Madonna with the Child",
+            "date": "c. 1348",
+            "technique": "Marble",
+            "location": "Santa Maria Novella Florence",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/mad_chi.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31673
+        },
+        {
+            "title": "Madonna with the Child",
+            "date": "c. 1348",
+            "technique": "Marble",
+            "location": "Santa Maria Novella Florence",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/mad_chil.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31674
+        },
+        {
+            "title": "Madonna with the Child",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Museo dell'Opera del Duomo Orvieto",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/madonna.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31675
+        },
+        {
+            "title": "Virgin Annunciate (detail)",
+            "date": "after 1349",
+            "technique": "Polychrome wood",
+            "location": "Museo Nazionale di San Matteo Pisa",
+            "url": "https://www.wga.hu/html/p/pisano1/nino/virgin.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31676
+        }
+    ]
+}

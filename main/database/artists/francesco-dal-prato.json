@@ -1,0 +1,28 @@
+{
+    "name": "FRANCESCO DAL PRATO",
+    "life": "(b. 1512 Caravaggio d. 1562 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Medal of Alessandro de' Medici",
+            "date": "1534",
+            "technique": "Bronze cast diameter 4 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/f/franceso/03/medici.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 14224
+        },
+        {
+            "title": "Medal of Alessandro de' Medici",
+            "date": "1535-36",
+            "technique": "Bronze cast diameter 6 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/f/franceso/03/medici1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 14225
+        }
+    ]
+}

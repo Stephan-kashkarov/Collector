@@ -1,0 +1,28 @@
+{
+    "name": "STOCK Andries Jacobsz.",
+    "life": "(b. ca. 1580 Antwerpen d. after 1648 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Self-Portrait of Lucas van Layden",
+            "date": "c. 1620",
+            "technique": "Engraving 218 x 167 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/stock/leyden.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 38050
+        },
+        {
+            "title": "Witches' Sabbath",
+            "date": "c. 1610",
+            "technique": "Engraving two plates overall 435 x 658 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/stock/wsabbath.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 38051
+        }
+    ]
+}

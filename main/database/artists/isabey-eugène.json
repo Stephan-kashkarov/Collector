@@ -1,0 +1,48 @@
+{
+    "name": "ISABEY Eug\u00e8ne",
+    "life": "(b. 1803 Paris d. 1886 Mont\u00e9vrain)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Beach at Low Tide",
+            "date": "1833",
+            "technique": "Oil on canvas 124 x 168 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/isabey/eugene/beachlow.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20388
+        },
+        {
+            "title": "Louis XIV Entering Paris",
+            "date": "1830",
+            "technique": "Oil on canvas 33 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/i/isabey/eugene/louis14.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 20389
+        },
+        {
+            "title": "Rocks at Saint-Malo",
+            "date": "1850",
+            "technique": "Watercolour and gouache 194 x 319 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/i/isabey/eugene/rockmalo.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 20390
+        },
+        {
+            "title": "After a Storm",
+            "date": "1869",
+            "technique": "Oil on canvas 37 x 60 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/i/isabey/eugene/storm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20391
+        }
+    ]
+}

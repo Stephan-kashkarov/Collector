@@ -1,0 +1,118 @@
+{
+    "name": "SPEECKAERT Hans",
+    "life": "(b. ca. 1540 Bruxelles d. 1577 Roma)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Abraham and Isaac",
+            "date": "c. 1570",
+            "technique": "Pen and brown ink brown wash on paper 213 x 288 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/abraham.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37734
+        },
+        {
+            "title": "\"\"Sine Cerere et Baccho friget Venus\"\"\"1565-70\"Pen and brown ink wash on paper 203 x 277 mm",
+            "date": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "technique": "https://www.wga.hu/html/s/speeckae/cerere.html",
+            "location": "graphics",
+            "url": "mythological",
+            "form": "Flemish",
+            "painting_type": "1551-1600",
+            "index": 37735
+        },
+        {
+            "title": "Christ on the Cross",
+            "date": "1560s",
+            "technique": "Pen brown ink wash heightened with white on paper 310 x 254 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/christcr.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37736
+        },
+        {
+            "title": "Conversion of St Paul on the Road to Damascus",
+            "date": "1570-77",
+            "technique": "Oil on canvas 147 x 196 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/s/speeckae/conversi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 37737
+        },
+        {
+            "title": "The Flood",
+            "date": "15665-70",
+            "technique": "Pen brown ink wash on paper 216 x 280 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/flood.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37738
+        },
+        {
+            "title": "Galatea",
+            "date": "1565",
+            "technique": "Pen and ink drawing",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/s/speeckae/galatea.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 37739
+        },
+        {
+            "title": "Nude Soldiers Fighting",
+            "date": "c. 1570",
+            "technique": "Pen in brown with a gray and brown wash on blue paper 259 x 427 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/speeckae/soldiers.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 37740
+        },
+        {
+            "title": "The Triumph of the Church I",
+            "date": "c. 1574",
+            "technique": "Pen and brown ink wash on paper 435 x 829 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/triump1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37741
+        },
+        {
+            "title": "The Triumph of the Church I",
+            "date": "c. 1574",
+            "technique": "Pen and brown ink",
+            "location": "Museum Plantin-Moretus Antwerp",
+            "url": "https://www.wga.hu/html/s/speeckae/triump1a.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37742
+        },
+        {
+            "title": "The Triumph of the Church I (detail)",
+            "date": "c. 1574",
+            "technique": "Pen and brown ink wash on paper",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/triump1b.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37743
+        },
+        {
+            "title": "The Triumph of the Church II",
+            "date": "c. 1574",
+            "technique": "Pen and brown ink wash on paper 434 x 834 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/s/speeckae/triump2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 37744
+        }
+    ]
+}

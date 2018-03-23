@@ -1,0 +1,28 @@
+{
+    "name": "EIGTVED Nicolaj",
+    "life": "(b. 1701 Egtved d. 1754 K\u00f8benhavn)",
+    "school": "Danish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1749-1849",
+            "technique": "Photo",
+            "location": "Frederiks Kirke Copenhagen",
+            "url": "https://www.wga.hu/html/e/eigtved/frederi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13117
+        },
+        {
+            "title": "Exterior view",
+            "date": "1749-1849",
+            "technique": "Photo",
+            "location": "Frederiks Kirke Copenhagen",
+            "url": "https://www.wga.hu/html/e/eigtved/frederi2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 13118
+        }
+    ]
+}

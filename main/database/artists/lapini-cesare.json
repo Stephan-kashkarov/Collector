@@ -1,0 +1,68 @@
+{
+    "name": "LAPINI Cesare",
+    "life": "(b. 1848 Firenze d. after 1893 Firenze)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The First Kiss",
+            "date": "1883",
+            "technique": "Marble height 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lapini/firstkis.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 21525
+        },
+        {
+            "title": "The Love Letter",
+            "date": "-",
+            "technique": "White marble height 97 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lapini/lovelett.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 21526
+        },
+        {
+            "title": "Odalisque",
+            "date": "1889",
+            "technique": "White marble height 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lapini/odalisqu.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 21527
+        },
+        {
+            "title": "At the Seaside",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Mus\u00e9e de la Piscine Roubaix",
+            "url": "https://www.wga.hu/html/l/lapini/seaside.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 21528
+        },
+        {
+            "title": "Surprise",
+            "date": "1883",
+            "technique": "Marble height 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lapini/surpris1.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 21529
+        },
+        {
+            "title": "Surprise",
+            "date": "1883",
+            "technique": "Marble height 80 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lapini/surpris2.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 21530
+        }
+    ]
+}

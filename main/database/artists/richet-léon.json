@@ -1,0 +1,28 @@
+{
+    "name": "RICHET L\u00e9on",
+    "life": "(b. 1847 Solesmes d. 1907 Fontainebleau)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Trees in Barbizon",
+            "date": "-",
+            "technique": "Oil on canvas 24 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/richet/barbizon.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34349
+        },
+        {
+            "title": "Washerwomen by a Pond",
+            "date": "-",
+            "technique": "Oil on canvas 115 x 147 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/richet/pond.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34350
+        }
+    ]
+}

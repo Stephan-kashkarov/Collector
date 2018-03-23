@@ -1,0 +1,28 @@
+{
+    "name": "WAILLY Charles de",
+    "life": "(b. 1729 Paris d. 1798 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1779-82",
+            "technique": "Photo",
+            "location": "Th\u00e9\u00e2tre de l'Od\u00e9on Paris",
+            "url": "https://www.wga.hu/html/w/wailly/odeon1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43700
+        },
+        {
+            "title": "Entrance fa\u00e7ade",
+            "date": "1779-82",
+            "technique": "Photo",
+            "location": "Th\u00e9\u00e2tre de l'Od\u00e9on Paris",
+            "url": "https://www.wga.hu/html/w/wailly/odeon2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 43701
+        }
+    ]
+}

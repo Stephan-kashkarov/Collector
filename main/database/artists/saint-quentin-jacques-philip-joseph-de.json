@@ -1,0 +1,28 @@
+{
+    "name": "SAINT-QUENTIN Jacques-Philip-Joseph de",
+    "life": "(b. 1738 Paris d. after 1776)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Illustration for 'The mad day or the marriage of Figaro'",
+            "date": "c. 1784",
+            "technique": "Etching with engraving 164 x 100 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/saint-qu/figaro.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 36002
+        },
+        {
+            "title": "The Death of Socrates",
+            "date": "1762",
+            "technique": "Oil on canvas 140 x 115 cm",
+            "location": "\u00c9cole des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/s/saint-qu/socrates.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36003
+        }
+    ]
+}

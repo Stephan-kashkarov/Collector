@@ -1,0 +1,38 @@
+{
+    "name": "TOUSSAINT Fran\u00e7ois Christophe Armand",
+    "life": "(b. 1806 Paris d. 1862 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Two Indian Slaves Holding Torches",
+            "date": "1850",
+            "technique": "Bronze brown and gilt patina height 120 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/toussain/slaves.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 40117
+        },
+        {
+            "title": "Two Indian Slaves Holding Torches (detail)",
+            "date": "1850",
+            "technique": "Bronze brown and gilt patina",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/toussain/slaves1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 40118
+        },
+        {
+            "title": "Two Indian Slaves Holding Torches (detail)",
+            "date": "1850",
+            "technique": "Bronze brown and gilt patina",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/toussain/slaves2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 40119
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "COX David",
+    "life": "(b. 1783 Birmingham d. 1859 Harbourne)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Landscape with a Gypsy Tent",
+            "date": "1848",
+            "technique": "Oil on panel 23 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/cox/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 9984
+        },
+        {
+            "title": "The Night Train",
+            "date": "c. 1849",
+            "technique": "Watercolour 280 x 380 mm",
+            "location": "City Art Gallery Birmingham",
+            "url": "https://www.wga.hu/html/c/cox/night_tr.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 9985
+        }
+    ]
+}

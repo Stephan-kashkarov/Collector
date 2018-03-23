@@ -1,0 +1,188 @@
+{
+    "name": "PATER Jean Baptiste Joseph",
+    "life": "(b. 1695 Valenciennes d. 1736 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Chinese Hunt",
+            "date": "1736",
+            "technique": "Oil on canvas 55 x 46 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pater/chineseh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30526
+        },
+        {
+            "title": "Concert Champ\u00eatre",
+            "date": "1734",
+            "technique": "Oil on canvas 53 x 69 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/p/pater/concert.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30527
+        },
+        {
+            "title": "Concert Champ\u00eatre",
+            "date": "1730-35",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Valenciennes",
+            "url": "https://www.wga.hu/html/p/pater/concert1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30528
+        },
+        {
+            "title": "Relaxing in the Country",
+            "date": "1730-35",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Valenciennes",
+            "url": "https://www.wga.hu/html/p/pater/concert2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30529
+        },
+        {
+            "title": "On the Terrace",
+            "date": "1730-35",
+            "technique": "Oil on canvas 72 x 100 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pater/concert3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30530
+        },
+        {
+            "title": "Conversation Galante",
+            "date": "1720-23",
+            "technique": "Oil on canvas 48 x 39 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pater/conversa.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30531
+        },
+        {
+            "title": "The Crowned Shepherdess (La Bergere Courronn\u00e9e)",
+            "date": "-",
+            "technique": "Oil on canvas 65 x 81 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/crowned.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30532
+        },
+        {
+            "title": "F\u00eate Champ\u00eatre",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 75 x 93 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pater/fete_cha.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30533
+        },
+        {
+            "title": "F\u00eate Champ\u00eatre",
+            "date": "-",
+            "technique": "Oil on canvas 72 x 90 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/fetecham.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30534
+        },
+        {
+            "title": "Picking Roses",
+            "date": "-",
+            "technique": "Oil on panel 23 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/fetegal1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30535
+        },
+        {
+            "title": "The Musicians",
+            "date": "-",
+            "technique": "Oil on panel 23 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/fetegal2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30536
+        },
+        {
+            "title": "F\u00eate Galante: La Barque de plaisir",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/fetegala.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30537
+        },
+        {
+            "title": "Gathering of Actors of the Com\u00e9die-Italienne in a Park",
+            "date": "-",
+            "technique": "Oil on canvas 24 x 32 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pater/gatherin.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30538
+        },
+        {
+            "title": "The May Tree",
+            "date": "-",
+            "technique": "Oil on canvas 34 x 44 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/p/pater/may_tree.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30539
+        },
+        {
+            "title": "Mme. de Bouvillon Tempts Fate by Asking Ragotin to Search for a Flea",
+            "date": "-",
+            "technique": "Oil on canvas 28 x 38 cm",
+            "location": "Schloss Sanssouci Berlin",
+            "url": "https://www.wga.hu/html/p/pater/ragotin1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30540
+        },
+        {
+            "title": "The Poet Roquebrun Breaks His Garter",
+            "date": "-",
+            "technique": "Oil on canvas 28 x 38 cm",
+            "location": "Schloss Sanssouci Berlin",
+            "url": "https://www.wga.hu/html/p/pater/ragotin2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30541
+        },
+        {
+            "title": "Soldiers and Camp Followers Resting from a March",
+            "date": "c. 1730",
+            "technique": "Oil on paper laid on canvas 43 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pater/soldiers.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30542
+        },
+        {
+            "title": "Les Baigneuses (The Bathers)",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 61 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/pater/the_bath.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 30543
+        }
+    ]
+}

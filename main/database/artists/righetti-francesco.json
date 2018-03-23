@@ -1,0 +1,28 @@
+{
+    "name": "RIGHETTI Francesco",
+    "life": "(b. 1749 Roma d. 1819 Roma)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Castor and Pollux",
+            "date": "1792",
+            "technique": "Bronze height 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/righetti/castorpo.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 34411
+        },
+        {
+            "title": "Moses (after Michelangelo)",
+            "date": "1800-10",
+            "technique": "Bronze height 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/righetti/moses.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 34412
+        }
+    ]
+}

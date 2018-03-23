@@ -1,0 +1,28 @@
+{
+    "name": "RUSSELL John",
+    "life": "(b. 1745 Guildford d. 1806 Hull)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of a Girl in a Bonnet",
+            "date": "1780-1800",
+            "technique": "Pastel 72 x 55 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/russell/portgirl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35787
+        },
+        {
+            "title": "Small Girl Presenting Cherries",
+            "date": "1780",
+            "technique": "Pastel on blue paper 62 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/russell/smallgir.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 35788
+        }
+    ]
+}

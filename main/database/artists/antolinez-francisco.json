@@ -1,0 +1,48 @@
+{
+    "name": "ANTOLINEZ Francisco",
+    "life": "(b. 1644 Sevilla d. 1700 Sevilla)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "David Triumphs over Goliath",
+            "date": "1685",
+            "technique": "Oil on canvas 122 x 186 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/david1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 1073
+        },
+        {
+            "title": "Samuel Anoints David",
+            "date": "1685",
+            "technique": "Oil on canvas 122 x 186 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/david2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 1074
+        },
+        {
+            "title": "Flight into Egypt",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 45 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1075
+        },
+        {
+            "title": "Presentation of the Virgin",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 45 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 1076
+        }
+    ]
+}

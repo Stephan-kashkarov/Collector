@@ -1,0 +1,28 @@
+{
+    "name": "GOTHIC GLASS PAINTER Swiss",
+    "life": "(active c. 1453)",
+    "school": "Swiss",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "c. 1453",
+            "technique": "Stained glass window",
+            "location": "Cathedral Berne",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/06s_1450.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17675
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "c. 1453",
+            "technique": "Stained glass window",
+            "location": "Cathedral Berne",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/07s_1450.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17676
+        }
+    ]
+}

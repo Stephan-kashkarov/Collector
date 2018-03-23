@@ -1,0 +1,38 @@
+{
+    "name": "WOENSAM Anton von Worms",
+    "life": "(b. ca. 1495 Worms d. 1541 K\u00f6ln)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Christ on the Cross with Carthusian Saints",
+            "date": "1535",
+            "technique": "Oak 67 x 87 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/w/woensam/christ_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44312
+        },
+        {
+            "title": "View of Cologne (detail)",
+            "date": "1531",
+            "technique": "Woodcut 592 \u00d7 3526 mm (size of the entire woodcut)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/w/woensam/cologne1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44313
+        },
+        {
+            "title": "View of Cologne (detail)",
+            "date": "1531",
+            "technique": "Woodcut 592 \u00d7 3526 mm (size of the entire woodcut)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/w/woensam/cologne2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 44314
+        }
+    ]
+}

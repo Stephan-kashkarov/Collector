@@ -1,0 +1,78 @@
+{
+    "name": "P\u00c9RELLE Gabriel",
+    "life": "(b. 1604 Vernon-sur-Seine d. 1677 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Ch\u00e2teau de Choisy",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/perelle/choisy.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30671
+        },
+        {
+            "title": "Coll\u00e8ge des Quattre Nations",
+            "date": "1660s",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/perelle/college.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30672
+        },
+        {
+            "title": "View and Perspective of the H\u00f4tel de Mars (Les Invalides)",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/perelle/invalide.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 30673
+        },
+        {
+            "title": "View and Perspective of the Louvre",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/p/perelle/louvre.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 30674
+        },
+        {
+            "title": "Ch\u00e2teau de Marly-le-Roi",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/perelle/marly.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30675
+        },
+        {
+            "title": "Porte Saint-Denis",
+            "date": "1675",
+            "technique": "Pen and India ink",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/perelle/portdeni.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 30676
+        },
+        {
+            "title": "View of The Flora in Versailles",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/perelle/versaill.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 30677
+        }
+    ]
+}

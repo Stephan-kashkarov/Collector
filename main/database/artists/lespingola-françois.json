@@ -1,0 +1,58 @@
+{
+    "name": "LESPINGOLA Fran\u00e7ois",
+    "life": "(b. 1644 Joinville d. 1705 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Arrius and Paeta",
+            "date": "1684",
+            "technique": "Marble",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/lespingo/arrius1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 22174
+        },
+        {
+            "title": "Arrius and Paeta",
+            "date": "1684",
+            "technique": "Marble",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/lespingo/arrius2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 22175
+        },
+        {
+            "title": "Three Children Playing with a Swan",
+            "date": "1685-87",
+            "technique": "Bronze",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/lespingo/childre1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 22176
+        },
+        {
+            "title": "Three Children Playing with a Swan",
+            "date": "1685-87",
+            "technique": "Bronze",
+            "location": "Garden of the Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/l/lespingo/childre2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 22177
+        },
+        {
+            "title": "Hercules Delivering the Erymanthean Boar to Eurystheus",
+            "date": "1690s",
+            "technique": "Bronze 42 x 36 x 29 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lespingo/hercules.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 22178
+        }
+    ]
+}

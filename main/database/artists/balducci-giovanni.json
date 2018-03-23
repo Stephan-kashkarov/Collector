@@ -1,0 +1,28 @@
+{
+    "name": "BALDUCCI Giovanni",
+    "life": "(b. ca. 1560 Firenze d. after 1631 Napoli)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1590s",
+            "technique": "Oil on copper 32 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balducc/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3004
+        },
+        {
+            "title": "Diana and Actaeon",
+            "date": "-",
+            "technique": "Oil on copper 38 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/balducc/dianaact.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 3005
+        }
+    ]
+}

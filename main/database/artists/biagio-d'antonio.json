@@ -1,0 +1,98 @@
+{
+    "name": "BIAGIO D'ANTONIO",
+    "life": "(b. 1446 Firenze d. 1515 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Arrest of Christ",
+            "date": "1482",
+            "technique": "Fresco",
+            "location": "Cappella Sistina Vatican",
+            "url": "https://www.wga.hu/html/b/biagio/arrest.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4504
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1482",
+            "technique": "Fresco",
+            "location": "Cappella Sistina Vatican",
+            "url": "https://www.wga.hu/html/b/biagio/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4505
+        },
+        {
+            "title": "Madonna Adoring the Child with an Angel",
+            "date": "c. 1475",
+            "technique": "Tempera on panel 74 x 54 cm",
+            "location": "Museu de Arte S\u00e3o Paulo",
+            "url": "https://www.wga.hu/html/b/biagio/madon_ad.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4506
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "1490s",
+            "technique": "Oil on panel 45 x 38 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/biagio/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4507
+        },
+        {
+            "title": "Portrait of a Boy",
+            "date": "1476-80",
+            "technique": "Oil and tempera on panel 42 x 36 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/biagio/port_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4508
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1470",
+            "technique": "Tempera on wood 54 x 39 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/biagio/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 4509
+        },
+        {
+            "title": "Scenes from the Story of Io",
+            "date": "1480s",
+            "technique": "Tempera on poplar panel 74 x 133 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/biagio/story_io.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 4510
+        },
+        {
+            "title": "The Triumph of Camillus",
+            "date": "1470-75",
+            "technique": "Tempera on panel 60 x 154 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/biagio/triumph.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 4511
+        },
+        {
+            "title": "Virgin and Child Enthroned with Five Saints and Two Angels",
+            "date": "1470-75",
+            "technique": "Tempera on panel 168 x 178 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/b/biagio/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4512
+        }
+    ]
+}

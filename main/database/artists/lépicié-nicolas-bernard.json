@@ -1,0 +1,58 @@
+{
+    "name": "L\u00c9PICI\u00c9 Nicolas-Bernard",
+    "life": "(b. 1735 Paris d. 1784 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "The Calvary Chapel of the Church Saint-Roch",
+            "date": "-",
+            "technique": "Oil on canvas 128 x 97 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Pau",
+            "url": "https://www.wga.hu/html/l/lepicie/nicolas/calvaryc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22156
+        },
+        {
+            "title": "The Courtyard of the Customs House",
+            "date": "1775",
+            "technique": "Oil on canvas 98 x 164 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/l/lepicie/nicolas/courtyar.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 22157
+        },
+        {
+            "title": "Louis-Philippe Duke of Valois on the Cradle",
+            "date": "1774",
+            "technique": "Oil on panel 55 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lepicie/nicolas/cradle.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22158
+        },
+        {
+            "title": "The Young Draughtsman",
+            "date": "1772",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lepicie/nicolas/young_dr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22159
+        },
+        {
+            "title": "Portrait of a Young Lady Sewing",
+            "date": "c. 1771",
+            "technique": "Oil on panel 17 x 13 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lepicie/nicolas/younglad.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22160
+        }
+    ]
+}

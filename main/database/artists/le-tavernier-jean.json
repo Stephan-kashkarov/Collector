@@ -1,0 +1,28 @@
+{
+    "name": "LE TAVERNIER Jean",
+    "life": "(active 1434-1460 in Burgundy)",
+    "school": "French",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Hours of Philip the Good",
+            "date": "1454",
+            "technique": "Manuscript (Ms. 76 F 22)",
+            "location": "Koninklijke Bibliotheek The Hague",
+            "url": "https://www.wga.hu/html/l/le_taver/hourgood.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 21771
+        },
+        {
+            "title": "Miracles de Notre-Dame",
+            "date": "c. 1456",
+            "technique": "Manuscript (Ms. fran\u00e7ais 9198)",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/l/le_taver/miracles.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 21772
+        }
+    ]
+}

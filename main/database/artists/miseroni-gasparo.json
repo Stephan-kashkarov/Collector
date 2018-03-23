@@ -1,0 +1,48 @@
+{
+    "name": "MISERONI Gasparo",
+    "life": "(b. ca. 1518 Milano d. 1573 Milano)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Ten-passed Basin with Head of Medusa",
+            "date": "1560s",
+            "technique": "Chalcedony set in enamelled gold height 12 cm diameter 32 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/miseroni/gasparo/basin.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 28332
+        },
+        {
+            "title": "Bowl in the Shape of a Shell",
+            "date": "1565-70",
+            "technique": "Rock crystal set in enamelled gold 24 x 30 x 19 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/miseroni/gasparo/bowl1.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 28333
+        },
+        {
+            "title": "Lidded Bowl in Prase",
+            "date": "1565-70",
+            "technique": "Prase set in enamelled gold and various gems 19 x 24 x 16 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/miseroni/gasparo/bowl2.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 28334
+        },
+        {
+            "title": "Dragon Bowl",
+            "date": "1565-70",
+            "technique": "Lapis lazuli set in enamelled gold rubies emeralds pearls garnets 17 x 19 x 11 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/m/miseroni/gasparo/bowl3.html",
+            "form": "metalwork",
+            "painting_type": "other",
+            "index": 28335
+        }
+    ]
+}

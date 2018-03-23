@@ -1,0 +1,48 @@
+{
+    "name": "TOLSTOY Fyodor Petrovich",
+    "life": "(b. 1783 St. Petersburg d. 1873 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Uprising in 1812",
+            "date": "1816",
+            "technique": "Wax",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tolstoy/medalli1.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 39860
+        },
+        {
+            "title": "The Battle at Borodino",
+            "date": "1817",
+            "technique": "Wax",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tolstoy/medalli2.html",
+            "form": "sculpture",
+            "painting_type": "historical",
+            "index": 39861
+        },
+        {
+            "title": "Feast in the House of Ulysses",
+            "date": "1818-22",
+            "technique": "Bronze",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tolstoy/ulysses1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39862
+        },
+        {
+            "title": "Ulysses Killing the Suitors of Penelope",
+            "date": "1818-22",
+            "technique": "Bronze",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/t/tolstoy/ulysses2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 39863
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "COURTOIS Jacques",
+    "life": "(b. 1621 Saint Hyppolyte d. 1676 Roma)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Battle of Mongiovino",
+            "date": "-",
+            "technique": "Oil on canvas 138 x 276 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9929
+        },
+        {
+            "title": "Battle between Christians and Moslems",
+            "date": "-",
+            "technique": "Oil on canvas 96 x 152 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/battlecm.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9930
+        },
+        {
+            "title": "The Battle of Podhajce",
+            "date": "-",
+            "technique": "Oil on canvas 95 x 160 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/battlepo.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9931
+        },
+        {
+            "title": "Cavalry Attack",
+            "date": "c. 1660",
+            "technique": "Oil on wood 14 x 20 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/cavalry1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 9932
+        },
+        {
+            "title": "Cavalry Battle between Christians and Turks",
+            "date": "c. 1660",
+            "technique": "Oil on wood 14 x 20 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/cavalry2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 9933
+        },
+        {
+            "title": "Cavalry Battle between Christians and Turks",
+            "date": "1660s",
+            "technique": "Oil on canvas 41 x 78 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/courtois/jacques/cavalry3.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 9934
+        }
+    ]
+}

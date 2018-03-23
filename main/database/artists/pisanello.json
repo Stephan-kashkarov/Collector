@@ -1,0 +1,658 @@
+{
+    "name": "PISANELLO",
+    "life": "(b. 1395 Pisa d. 1455 Roma)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Apparition of the Virgin to Sts Anthony Abbot and George",
+            "date": "1445",
+            "technique": "Panel 47 x 29 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/appariti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31508
+        },
+        {
+            "title": "Portrait of Leonello d\u2019Este",
+            "date": "c. 1444",
+            "technique": "Tempera on wood 26 x 18 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/este.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31509
+        },
+        {
+            "title": "Pellegrini Family Coat-of-Arms",
+            "date": "-",
+            "technique": "Tempera on wood",
+            "location": "Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/pellegri.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31510
+        },
+        {
+            "title": "Portrait of a Princess of the House of Este",
+            "date": "1436-38",
+            "technique": "Tempera on wood 43 x 30 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/princess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31511
+        },
+        {
+            "title": "Portrait of Emperor Sigismund of Luxembourg",
+            "date": "c. 1433",
+            "technique": "Tempera on vellum stuck on wood 64 x 49 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/sigismun.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31512
+        },
+        {
+            "title": "St George and the Princess of Trebizond (right side)",
+            "date": "1436-38",
+            "technique": "Fresco 223 x 620 cm (entire fresco)",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorg.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31513
+        },
+        {
+            "title": "St George and the Princess of Trebizond (right side)",
+            "date": "1436-38",
+            "technique": "Fresco",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorg0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31514
+        },
+        {
+            "title": "St George and the Princess of Trebizond (left side)",
+            "date": "1436-38",
+            "technique": "Fresco",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorg1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31515
+        },
+        {
+            "title": "Saint George and the Princess of Trebizond (detail)",
+            "date": "1436-38",
+            "technique": "Fresco",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorge.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31516
+        },
+        {
+            "title": "St George and the Princess of Trebizond (detail)",
+            "date": "1436-38",
+            "technique": "Fresco",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorgf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31517
+        },
+        {
+            "title": "St George and the Princess of Trebizond (detail)",
+            "date": "1436-38",
+            "technique": "Fresco",
+            "location": "Pellegrini Chapel Sant'Anastasia Verona",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/stgeorgh.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31518
+        },
+        {
+            "title": "Tournament Scene (detail)",
+            "date": "1440s",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/tournam1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31519
+        },
+        {
+            "title": "Tournament Scene (detail)",
+            "date": "1440s",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/tournam2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31520
+        },
+        {
+            "title": "Tournament Scene (detail)",
+            "date": "1440s",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/tournam3.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31521
+        },
+        {
+            "title": "Tournament Scene (detail)",
+            "date": "1440s",
+            "technique": "Fresco",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/tournam4.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31522
+        },
+        {
+            "title": "Tournament Scene (detail)",
+            "date": "1440s",
+            "technique": "Fresco sinopia",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/tournam5.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31523
+        },
+        {
+            "title": "The Virgin and Child with Saints George and Anthony Abbot",
+            "date": "mid 1400s",
+            "technique": "Panel",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31524
+        },
+        {
+            "title": "Vision of St Eustace",
+            "date": "c. 1440",
+            "technique": "Tempera on wood 55 x 65 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/pisanell/1paintin/vision.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31525
+        },
+        {
+            "title": "Alfonso of Aragon",
+            "date": "1449",
+            "technique": "Gilded bronze cast diameter 11 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/aragon.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31526
+        },
+        {
+            "title": "Cecilia Gonzaga",
+            "date": "1447",
+            "technique": "Cast bronze diameter 7 cm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/cecili.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31527
+        },
+        {
+            "title": "Medal of Cecilia Gonzaga (obverse and reverse)",
+            "date": "1447",
+            "technique": "Bronze diameter 87 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/cecilia.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31528
+        },
+        {
+            "title": "Medal of Cecilia Gonzaga (reverse)",
+            "date": "1447",
+            "technique": "Bronze diameter 87 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/cecilia1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31529
+        },
+        {
+            "title": "Vittorino da Feltre",
+            "date": "c. 1446",
+            "technique": "Cast copper alloy diameter 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/feltre.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31530
+        },
+        {
+            "title": "Medal of Gianfrancesco Gonzaga (verso)",
+            "date": "c. 1445",
+            "technique": "Bronze medal",
+            "location": "Palazzo del T\u00e8 Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/gonzaga.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31531
+        },
+        {
+            "title": "Gianfrancesco Gonzaga",
+            "date": "c. 1447",
+            "technique": "Cast bronze diameter 10 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/gonzaga1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31532
+        },
+        {
+            "title": "Ludovico III Gonzaga",
+            "date": "1447-48",
+            "technique": "Bronze diameter 10 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/gonzaga2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31533
+        },
+        {
+            "title": "Leonello d'Este (obverse and reverse)",
+            "date": "c. 1441",
+            "technique": "Cast lead diameter 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/leonel1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31534
+        },
+        {
+            "title": "Leonello d'Este (obverse and reverse)",
+            "date": "c. 1441",
+            "technique": "Cast copper alloy diameter 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/leonel2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31535
+        },
+        {
+            "title": "Leonello d'Este (obverse and reverse)",
+            "date": "c. 1444",
+            "technique": "Cast copper alloy diameter 10 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/leonel3.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31536
+        },
+        {
+            "title": "Medal of Leonello d'Este (obverse and reverse)",
+            "date": "1444",
+            "technique": "Bronze 102 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/leonell1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31537
+        },
+        {
+            "title": "Leonello d'Este",
+            "date": "1444",
+            "technique": "Bronze medal diameter 67 cm",
+            "location": "Palazzo Ducale Mantua",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/leonell2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31538
+        },
+        {
+            "title": "Sigismondo Pandolfo Malatesta",
+            "date": "1445",
+            "technique": "Cast lead diameter 10 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/malates1.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31539
+        },
+        {
+            "title": "Sigismondo Pandolfo Malatesta",
+            "date": "c. 1445",
+            "technique": "Bronze diameter 9 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/malates2.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31540
+        },
+        {
+            "title": "Medal of Emperor John VIII Palaeologus (obverse and reverse)",
+            "date": "c. 1438",
+            "technique": "Copper alloy diameter 10 cm",
+            "location": "M\u00fcnzkabinett Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/palaeol.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31541
+        },
+        {
+            "title": "Medal of Emperor John VIII Palaeologus (obverse and reverse)",
+            "date": "c. 1438",
+            "technique": "Bronze 10 cm",
+            "location": "Museo Nazionale del Bargello Florence",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/palaeolo.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31542
+        },
+        {
+            "title": "Medal of Emperor John VIII Palaeologus (obverse)",
+            "date": "1438",
+            "technique": "Bronze 102 cm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/palaeolx.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31543
+        },
+        {
+            "title": "Niccol\u00f2 Piccinino",
+            "date": "1441-42",
+            "technique": "Cast copper alloy diameter 9 cm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/piccinin.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31544
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1440s",
+            "technique": "Cast bronze diameter 6 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/selfport.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31545
+        },
+        {
+            "title": "Francesco Sforza",
+            "date": "c. 1441",
+            "technique": "Cast bronze diameter 9 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/sforza.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31546
+        },
+        {
+            "title": "Filippo Maria Visconti",
+            "date": "c. 1441",
+            "technique": "Cast bronze diameter 10 cm",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/p/pisanell/2medals/visconti.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 31547
+        },
+        {
+            "title": "The Luxury",
+            "date": "1420s",
+            "technique": "Drawing",
+            "location": "Graphische Sammlung Albertina Vienna",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/01luxury.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 31548
+        },
+        {
+            "title": "Apes (from the artist's sketchbook)",
+            "date": "c. 1430",
+            "technique": "Drawing",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/02apes.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31549
+        },
+        {
+            "title": "Nude Men and St Peter",
+            "date": "c. 1430",
+            "technique": "Pen drawing",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/03nude_men.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31550
+        },
+        {
+            "title": "Emperor Sigismund of Luxembourg",
+            "date": "1433",
+            "technique": "Black chalk and pen on paper 314 x 307 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/04sigism.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31551
+        },
+        {
+            "title": "Emperor Sigismund of Luxembourg",
+            "date": "1433",
+            "technique": "Black chalk and pen on paper 333 x 211 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/05sigism.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31552
+        },
+        {
+            "title": "Stork",
+            "date": "1430s",
+            "technique": "Drawing",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/06stork.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31553
+        },
+        {
+            "title": "Sturgeon and Six Monkeys",
+            "date": "1430s",
+            "technique": "Drawing",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/07sturge.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31554
+        },
+        {
+            "title": "Three Cows",
+            "date": "1430s",
+            "technique": "Silver point pencil and pen 176 x 226 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/08cows.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31555
+        },
+        {
+            "title": "Study of Horse Heads",
+            "date": "1433-38",
+            "technique": "Pen on paper 290 x 190 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/09horse.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31556
+        },
+        {
+            "title": "Horses",
+            "date": "1433-38",
+            "technique": "Pen on paper 200 x 165 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/10horses.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31557
+        },
+        {
+            "title": "Study of the Head of a Horse",
+            "date": "1437-38",
+            "technique": "Pen 276 x 197 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/11horse.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31558
+        },
+        {
+            "title": "Study of a Head",
+            "date": "c. 1436",
+            "technique": "Silverpoint on parchment",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/12head.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31559
+        },
+        {
+            "title": "Hanged Men and Two Portraits",
+            "date": "1430s",
+            "technique": "Metalpoint and pen on paper 266 x 197 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/13hanged.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31560
+        },
+        {
+            "title": "Studies of Emperor John VIII Paleologus and His Entourage (recto)",
+            "date": "1438-39",
+            "technique": "Pen and dark brown ink on paper 200 x 289 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/14paleol.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31561
+        },
+        {
+            "title": "Studies of Emperor John VIII Paleologus and His Entourage (recto)",
+            "date": "1438-39",
+            "technique": "Pen and brown ink on ivory laid paper 189 x 265 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/15paleol.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31562
+        },
+        {
+            "title": "Studies of Emperor John VIII Paleologus and His Entourage (verso)",
+            "date": "1438-39",
+            "technique": "Pen and brown ink on ivory laid paper 265 x 189 mm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/16paleol.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31563
+        },
+        {
+            "title": "Studies of Emperor John VIII Paleologus and His Entourage (verso)",
+            "date": "1438-39",
+            "technique": "Pen and dark brown ink on paper 289 x 200 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/17paleol.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 31564
+        },
+        {
+            "title": "Niccol\u00f2 Piccinino",
+            "date": "1439-42",
+            "technique": "Black chalk on paper 307 x 209 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/18piccin.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31565
+        },
+        {
+            "title": "Borso d'Este",
+            "date": "c. 1440",
+            "technique": "Metalpoint on parchment 130 x 88 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/19borso.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31566
+        },
+        {
+            "title": "Borso d'Este",
+            "date": "c. 1440",
+            "technique": "Metalpoint and ink on parchment 130 x 88 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/20borso.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31567
+        },
+        {
+            "title": "Head of a Man",
+            "date": "c. 1440",
+            "technique": "Black chalk with traces sof a stylus 293 x 206 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/21head.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31568
+        },
+        {
+            "title": "Bust of an Old Man",
+            "date": "1440s",
+            "technique": "Black chalk on paper 290 x 205 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/22head.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31569
+        },
+        {
+            "title": "Head of an Old Man",
+            "date": "1440s",
+            "technique": "Black chalk on paper 263 x 186 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/23head.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31570
+        },
+        {
+            "title": "Alfonso of Aragon",
+            "date": "1448",
+            "technique": "Pen and brown ink 291 x 198 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/24alfons.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31571
+        },
+        {
+            "title": "Filippo Maria Visconti",
+            "date": "1440s",
+            "technique": "Charcoal and chalk on paper 291 x 198 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/pisanell/3graphic/25viscon.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 31572
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "name": "PADOVANINO",
+    "life": "(b. 1588 Padova d. 1649 Venezia)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Esther before Ahasuerus",
+            "date": "-",
+            "technique": "Oil on canvas 213 x 317 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/esther.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30100
+        },
+        {
+            "title": "Liberale Persuades the Emperor to Absolve Two Innocents Condemned to Death",
+            "date": "1638",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria dei Carmini Venice",
+            "url": "https://www.wga.hu/html/p/padovani/liberale.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30101
+        },
+        {
+            "title": "Liberale Persuades the Emperor to Absolve Two Innocents Condemned to Death (detail)",
+            "date": "1638",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria dei Carmini Venice",
+            "url": "https://www.wga.hu/html/p/padovani/liberalx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30102
+        },
+        {
+            "title": "The Madonna with Design of a Shrine",
+            "date": "c. 1630",
+            "technique": "Oil on canvas",
+            "location": "Santa Maria della Salute Venice",
+            "url": "https://www.wga.hu/html/p/padovani/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30103
+        },
+        {
+            "title": "The Penitent Magdalene",
+            "date": "-",
+            "technique": "Oil on canvas 85 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/magdalen.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30104
+        },
+        {
+            "title": "Miracle of St Dominic",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/p/padovani/miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 30105
+        },
+        {
+            "title": "Sleeping Venus with Putti",
+            "date": "-",
+            "technique": "Oil on canvas 120 x 150 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/s_venus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30106
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "-",
+            "technique": "Oil on canvas 96 x 121 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/samson_d.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30107
+        },
+        {
+            "title": "Semiramis Called to Arms",
+            "date": "-",
+            "technique": "Oil on canvas 134 x 112 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/semirami.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30108
+        },
+        {
+            "title": "Venus Blindfolding Cupid",
+            "date": "c. 1625",
+            "technique": "Oil on canvas 118 x 182 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/venus_cu.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30109
+        },
+        {
+            "title": "Venus Blindfolding Cupid (detail)",
+            "date": "c. 1625",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/padovani/venus_cx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30110
+        }
+    ]
+}

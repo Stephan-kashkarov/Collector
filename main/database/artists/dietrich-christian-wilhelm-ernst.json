@@ -1,0 +1,68 @@
+{
+    "name": "DIETRICH Christian Wilhelm Ernst",
+    "life": "(b. 1712 Weimar d. 1774 Dresden)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Holy Family in a Carpenter's Shop",
+            "date": "-",
+            "technique": "Oil on panel 45 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dietrich/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11526
+        },
+        {
+            "title": "Italianate Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 56 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dietrich/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11527
+        },
+        {
+            "title": "Man in Oriental Costume",
+            "date": "-",
+            "technique": "Oil on panel 33 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dietrich/oriental.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 11528
+        },
+        {
+            "title": "Comedic Performance in a Park Setting",
+            "date": "-",
+            "technique": "Oil on canvas 73 x 73 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dietrich/park_set.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 11529
+        },
+        {
+            "title": "The Sacrifice of Isaac",
+            "date": "-",
+            "technique": "Oil on canvas 66 x 54 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/d/dietrich/sacrific.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 11530
+        },
+        {
+            "title": "Hungarian Rat Poison",
+            "date": "1757",
+            "technique": "Engraving",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/d/dietrich/z_poison.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 11531
+        }
+    ]
+}

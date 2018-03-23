@@ -1,0 +1,28 @@
+{
+    "name": "GOTHIC GLASS PAINTER Italian",
+    "life": "(15th century)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Transept Window",
+            "date": "15th century",
+            "technique": "Stained glass window",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/08i_1400.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17672
+        },
+        {
+            "title": "The Creation",
+            "date": "1490s",
+            "technique": "Stained glass window",
+            "location": "Cathedral Milan",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/09i_1400.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17673
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "UNKNOWN CABINETMAKER French",
+    "life": "(active c. 1580 in France)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Armoir",
+            "date": "1580",
+            "technique": "Walnut and oak partly gilt and painted 206 x 150 x 60 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_1armo.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40472
+        },
+        {
+            "title": "Table",
+            "date": "c. 1700",
+            "technique": "Limewood and oak gilt 88 x 109 x 74 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_1tabl.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40473
+        },
+        {
+            "title": "Chest of drawers",
+            "date": "c. 1770",
+            "technique": "Veneered on oak 88 x 120 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_2ches.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40474
+        },
+        {
+            "title": "Armchair",
+            "date": "c. 1800",
+            "technique": "Gilded wood and silk height 92 cm",
+            "location": "Mus\u00e9e du Ch\u00e2teau Malmaison",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_3armc.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40475
+        },
+        {
+            "title": "X-shaped stool",
+            "date": "c. 1800",
+            "technique": "Painted and gilded wood height 56 cm",
+            "location": "Mus\u00e9e du Ch\u00e2teau Malmaison",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_4stoo.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40476
+        },
+        {
+            "title": "Washstand",
+            "date": "c. 1800",
+            "technique": "Mahogany and S\u00e8vres porcelain height 88 cm diameter 42 cm",
+            "location": "Mus\u00e9e du Ch\u00e2teau Malmaison",
+            "url": "https://www.wga.hu/html/zzdeco/3furnitu/2/4f_5wash.html",
+            "form": "furniture",
+            "painting_type": "other",
+            "index": 40477
+        }
+    ]
+}

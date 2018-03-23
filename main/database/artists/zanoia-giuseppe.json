@@ -1,0 +1,28 @@
+{
+    "name": "ZANOIA Giuseppe",
+    "life": "(b. 1752 Genova d. 1817 Omegna)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1806-13",
+            "technique": "Photo",
+            "location": "Cathedral Milan",
+            "url": "https://www.wga.hu/html/z/zanoia/duomo.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44544
+        },
+        {
+            "title": "General view",
+            "date": "1813",
+            "technique": "Photo",
+            "location": "Porta Nuova Milan",
+            "url": "https://www.wga.hu/html/z/zanoia/porta_nu.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44545
+        }
+    ]
+}

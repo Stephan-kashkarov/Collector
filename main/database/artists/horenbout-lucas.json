@@ -1,0 +1,48 @@
+{
+    "name": "HORENBOUT Lucas",
+    "life": "(b. 1490/95 Ghent d. 1544 London)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of Catherine of Aragon",
+            "date": "1525-27",
+            "technique": "Vellum diameter 38 cm",
+            "location": "National Portrait Gallery London",
+            "url": "https://www.wga.hu/html/h/horenbou/lucas/aragon.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20177
+        },
+        {
+            "title": "Henry VIII",
+            "date": "c. 1526",
+            "technique": "Oil on wood 65 x 58 cm",
+            "location": "Art Gallery of South Australia Adelaide",
+            "url": "https://www.wga.hu/html/h/horenbou/lucas/henry_8.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20178
+        },
+        {
+            "title": "Henry VIII King of England",
+            "date": "c. 1526",
+            "technique": "Miniature on vellum mounted on cardboard diameter 56 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/h/horenbou/lucas/henry8.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 20179
+        },
+        {
+            "title": "Henry VIII King of England",
+            "date": "1525-27",
+            "technique": "Watercolour on vellum mounted on card 53 x 48 mm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/h/horenbou/lucas/henry8a.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 20180
+        }
+    ]
+}

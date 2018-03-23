@@ -1,0 +1,38 @@
+{
+    "name": "MERCIER Philip",
+    "life": "(b. ca. 1689 Berlin d. 1760 London)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Elegant Couples Conversing",
+            "date": "-",
+            "technique": "Oil on canvas 22 x 18 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mercier/elegant.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26288
+        },
+        {
+            "title": "The Drawing Lesson",
+            "date": "1738-40",
+            "technique": "Oil on canvas 114 x 94 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mercier/lesson.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26289
+        },
+        {
+            "title": "School for Girls",
+            "date": "1738",
+            "technique": "Oil on canvas 102 x 128 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mercier/school.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 26290
+        }
+    ]
+}

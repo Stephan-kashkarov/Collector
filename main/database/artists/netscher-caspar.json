@@ -1,0 +1,128 @@
+{
+    "name": "NETSCHER Caspar",
+    "life": "(b. 1639 Prague d. 1684 Den Haag)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Two Boys Blowing Bubbles",
+            "date": "c. 1670",
+            "technique": "Oil on panel 31 x 25 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/blowing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29524
+        },
+        {
+            "title": "The Card Party",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 50 x 45 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/cardpart.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29525
+        },
+        {
+            "title": "Young Girl Holding a Letter",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 74 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/holding.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29526
+        },
+        {
+            "title": "Young Girl Holding a Letter (detail)",
+            "date": "c. 1665",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/holding1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29527
+        },
+        {
+            "title": "Interior with a Sleeping Soldier",
+            "date": "c. 1660",
+            "technique": "Oil on canvas 78 x 76 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29528
+        },
+        {
+            "title": "The Lace-Maker",
+            "date": "1662",
+            "technique": "Oil on canvas 33 x 27 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/lacemake.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29529
+        },
+        {
+            "title": "Portrait of Abraham van Lennep",
+            "date": "1672",
+            "technique": "Oil on canvas 55 x 45 cm",
+            "location": "Institut N\u00e9erlandais Paris",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/lennep.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29530
+        },
+        {
+            "title": "Portrait of Mary Stuart II",
+            "date": "1683",
+            "technique": "Oil on canvas 81 x 64 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/marystuar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29531
+        },
+        {
+            "title": "Presentation of the Medallion",
+            "date": "1650s",
+            "technique": "Oil on canvas 62 x 68 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/medallio.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29532
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "1683",
+            "technique": "Oil on canvas on panel 52 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29533
+        },
+        {
+            "title": "The Seduction",
+            "date": "1664",
+            "technique": "Oil on panel 38 x 32 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/seductio.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 29534
+        },
+        {
+            "title": "Portrait of Suzanna Huygens",
+            "date": "1667-69",
+            "technique": "Oil on oak panel 45 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/netscher/caspar/shuygens.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29535
+        }
+    ]
+}

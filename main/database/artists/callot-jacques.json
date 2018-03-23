@@ -1,0 +1,118 @@
+{
+    "name": "CALLOT Jacques",
+    "life": "(b. 1592 Nancy d. 1635 Nancy)",
+    "school": "French",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Two Pantaloons",
+            "date": "1616",
+            "technique": "Etching",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/callot/2pantalo.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 7038
+        },
+        {
+            "title": "The Agony in the Garden",
+            "date": "1625",
+            "technique": "Wash drawing",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/c/callot/agonygar.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 7039
+        },
+        {
+            "title": "Temptation of St Anthony",
+            "date": "1634",
+            "technique": "Black chalk bister pen and wash sanguine and gouache 45 x 67 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/callot/anthony.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 7040
+        },
+        {
+            "title": "The Battle of Avigliana",
+            "date": "after 1631",
+            "technique": "Etching 352 x 521 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/c/callot/aviglian.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 7041
+        },
+        {
+            "title": "Florentine F\u00eate",
+            "date": "1619",
+            "technique": "Etching",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/callot/florenti.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 7042
+        },
+        {
+            "title": "The Holy Family at Table",
+            "date": "1628",
+            "technique": "Etching 190 x 165 mm",
+            "location": "Various collections",
+            "url": "https://www.wga.hu/html/c/callot/holy_fam.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 7043
+        },
+        {
+            "title": "Interlude in the Medici Theater",
+            "date": "c. 1617",
+            "technique": "Etching 273 x 200 mm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/callot/interlud.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 7044
+        },
+        {
+            "title": "Landscape",
+            "date": "-",
+            "technique": "Pen drawing",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/c/callot/landscap.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 7045
+        },
+        {
+            "title": "Scene from the Grandes Mis\u00e8res de la Guerre",
+            "date": "1633",
+            "technique": "Etching",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/callot/misere.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 7046
+        },
+        {
+            "title": "Siege of La Rochelle",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/c/callot/siege.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 7047
+        },
+        {
+            "title": "View of the Seine in Paris",
+            "date": "-",
+            "technique": "Etching 167 x 339 mm",
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "url": "https://www.wga.hu/html/c/callot/viewsein.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 7048
+        }
+    ]
+}

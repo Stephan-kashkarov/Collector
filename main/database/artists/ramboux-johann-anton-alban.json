@@ -1,0 +1,58 @@
+{
+    "name": "RAMBOUX Johann Anton Alban",
+    "life": "(b. 1790 Trier d. 1866 K\u00f6ln)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Eberhard Brothers",
+            "date": "1822",
+            "technique": "Oil on canvas",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/r/ramboux/eberhard.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 33230
+        },
+        {
+            "title": "Rebecca and Eliezer at the Well",
+            "date": "1819",
+            "technique": "Oil on panel 52 x 88 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/r/ramboux/rebecca.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33231
+        },
+        {
+            "title": "Scene after Piero della Francesca",
+            "date": "1840",
+            "technique": "Watercolour 355 x 613 mm",
+            "location": "Museum Kunstpalast D\u00fcsseldorf",
+            "url": "https://www.wga.hu/html/r/ramboux/zarezzo1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 33232
+        },
+        {
+            "title": "Scene after Piero della Francesca",
+            "date": "1840",
+            "technique": "Watercolour 355 x 613 mm",
+            "location": "Museum Kunstpalast D\u00fcsseldorf",
+            "url": "https://www.wga.hu/html/r/ramboux/zarezzo2.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 33233
+        },
+        {
+            "title": "Fresco cycle in Urbino",
+            "date": "1832-42",
+            "technique": "Pen and ink over pencil 295 x 445 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/r/ramboux/zoratory.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 33234
+        }
+    ]
+}

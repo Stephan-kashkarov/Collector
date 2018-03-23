@@ -1,0 +1,28 @@
+{
+    "name": "CHARLET Nicolas-Toussaint",
+    "life": "(b. 1792 Paris d. 1845 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Death of the Cavalryman",
+            "date": "1818",
+            "technique": "Lithograph 328 x 214 mm",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/c/charlet/deathcav.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 8700
+        },
+        {
+            "title": "Soldier and Boys",
+            "date": "c. 1840",
+            "technique": "Oil on canvas 22 x 27 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/charlet/soldier.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 8701
+        }
+    ]
+}

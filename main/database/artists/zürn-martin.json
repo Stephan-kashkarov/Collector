@@ -1,0 +1,58 @@
+{
+    "name": "Z\u00dcRN Martin",
+    "life": "(b. ca. 1585 Waldsee d. ca. 1655 Waldsee)",
+    "school": "German",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Holy Knight St Florian",
+            "date": "1638-39",
+            "technique": "Wood height 286 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/z/zurn/martin/knight1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44800
+        },
+        {
+            "title": "Holy Knight St Sebastian",
+            "date": "1638-39",
+            "technique": "Wood height 289 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/z/zurn/martin/knight2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44801
+        },
+        {
+            "title": "Madonna with Child",
+            "date": "-",
+            "technique": "Polychromed limewood height 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurn/martin/madchil.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44802
+        },
+        {
+            "title": "Madonna with Child (detail)",
+            "date": "-",
+            "technique": "Polychromed limewood",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/z/zurn/martin/madchild.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44803
+        },
+        {
+            "title": "St Sebastian",
+            "date": "c. 1650",
+            "technique": "Limewood",
+            "location": "Liebighaus Frankfurt",
+            "url": "https://www.wga.hu/html/z/zurn/martin/sebastia.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44804
+        }
+    ]
+}

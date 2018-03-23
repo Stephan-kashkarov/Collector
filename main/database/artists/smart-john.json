@@ -1,0 +1,38 @@
+{
+    "name": "SMART John",
+    "life": "(b. 1741 Norfolk d. 1811 London)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "William Henry West Betty",
+            "date": "1806",
+            "technique": "Watercolour on ivory 122 x 103 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/s/smart/betty.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37457
+        },
+        {
+            "title": "A Lady",
+            "date": "1782",
+            "technique": "Watercolour on ivory 51 x 41 cm",
+            "location": "Art Museum Cincinnati",
+            "url": "https://www.wga.hu/html/s/smart/lady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37458
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1779",
+            "technique": "Watercolour and gouache on ivory 49 x 38 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/smart/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 37459
+        }
+    ]
+}

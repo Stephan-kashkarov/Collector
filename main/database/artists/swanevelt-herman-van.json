@@ -1,0 +1,78 @@
+{
+    "name": "SWANEVELT Herman van",
+    "life": "(b. ca. 1600 Woerden d. 1655 Paris)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Huntsman at Rest",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 118 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/swanevel/huntsman.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38399
+        },
+        {
+            "title": "Italian Landscape with Bridge and Castle",
+            "date": "1640s",
+            "technique": "Oil on canvas",
+            "location": "Museum der Bildenden K\u00fcnste Leipzig",
+            "url": "https://www.wga.hu/html/s/swanevel/italian.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38400
+        },
+        {
+            "title": "Italianate Landscape",
+            "date": "1640s",
+            "technique": "Oil on canvas 71 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/swanevel/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38401
+        },
+        {
+            "title": "An Italianate Landscape",
+            "date": "1649",
+            "technique": "Oil on panel 47 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/swanevel/italland.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38402
+        },
+        {
+            "title": "Landscape with Bathing Nymphs",
+            "date": "-",
+            "technique": "Oil on canvas 51 x 68 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/swanevel/landnymp.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38403
+        },
+        {
+            "title": "Landscape with Tall Rocks",
+            "date": "1643",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/s/swanevel/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38404
+        },
+        {
+            "title": "Mountainous River Landscape",
+            "date": "1642",
+            "technique": "Oil on copper diameter 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/swanevel/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38405
+        }
+    ]
+}

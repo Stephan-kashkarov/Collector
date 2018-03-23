@@ -1,0 +1,58 @@
+{
+    "name": "MASTER MATEO",
+    "life": "(active 1161-1217)",
+    "school": "Spanish",
+    "timeframe": "1151-1200",
+    "art": [
+        {
+            "title": "Portico de la Gloria",
+            "date": "1168-88",
+            "technique": "Stone",
+            "location": "Cathedral Santiago de Compostela",
+            "url": "https://www.wga.hu/html/m/master/mateo/p_gloria.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24704
+        },
+        {
+            "title": "Portico de la Gloria (detail)",
+            "date": "1168-88",
+            "technique": "Stone",
+            "location": "Cathedral Santiago de Compostela",
+            "url": "https://www.wga.hu/html/m/master/mateo/p_glorib.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24705
+        },
+        {
+            "title": "Portico de la Gloria",
+            "date": "1168-88",
+            "technique": "Stone",
+            "location": "Cathedral Santiago de Compostela",
+            "url": "https://www.wga.hu/html/m/master/mateo/p_gloric.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24706
+        },
+        {
+            "title": "Portico de la Gloria",
+            "date": "1168-88",
+            "technique": "Stone",
+            "location": "Cathedral Santiago de Compostela",
+            "url": "https://www.wga.hu/html/m/master/mateo/p_glorid.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 24707
+        },
+        {
+            "title": "Portico de la Gloria (detail)",
+            "date": "1168-88",
+            "technique": "Stone",
+            "location": "Cathedral Santiago de Compostela",
+            "url": "https://www.wga.hu/html/m/master/mateo/p_glorie.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 24708
+        }
+    ]
+}

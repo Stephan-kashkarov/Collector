@@ -1,0 +1,38 @@
+{
+    "name": "ZANETTI Anton Maria II",
+    "life": "(b. 1706 Venezia d. 1778 Venezia)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Seated Man",
+            "date": "1760",
+            "technique": "Engraving",
+            "location": "Getty Research Institute Los Angeles",
+            "url": "https://www.wga.hu/html/z/zanetti/seated1.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44536
+        },
+        {
+            "title": "Seated Woman",
+            "date": "1760",
+            "technique": "Engraving",
+            "location": "Getty Research Institute Los Angeles",
+            "url": "https://www.wga.hu/html/z/zanetti/seated2.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 44537
+        },
+        {
+            "title": "Standing Female Nude",
+            "date": "1760",
+            "technique": "Etching 262 x 128 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/z/zanetti/standing.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 44538
+        }
+    ]
+}

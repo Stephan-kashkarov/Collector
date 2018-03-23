@@ -1,0 +1,38 @@
+{
+    "name": "HUPIN Jacques",
+    "life": "(active in mid-17th century)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 72 x 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hupin/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20301
+        },
+        {
+            "title": "Still-Life (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hupin/stil_lix.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20302
+        },
+        {
+            "title": "Still-life with Carpet",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Civici Musei Pavia",
+            "url": "https://www.wga.hu/html/h/hupin/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 20303
+        }
+    ]
+}

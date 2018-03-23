@@ -1,0 +1,68 @@
+{
+    "name": "PIERATTI Domenico",
+    "life": "(b. 1600 Firenze d. 1656 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Youthful St John the Baptist",
+            "date": "1625-30",
+            "technique": "Marble height 71 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/pieratti/baptist1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31042
+        },
+        {
+            "title": "The Youthful St John the Baptist",
+            "date": "1625-30",
+            "technique": "Marble height 71 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/pieratti/baptist2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31043
+        },
+        {
+            "title": "The Youthful St John the Baptist (detail)",
+            "date": "1625-30",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/pieratti/baptist3.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31044
+        },
+        {
+            "title": "The Virtue of Zeal",
+            "date": "1635-36",
+            "technique": "Marble",
+            "location": "Grotto of Moses Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/p/pieratti/virtue1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31045
+        },
+        {
+            "title": "The Virtue of Duty",
+            "date": "1635-36",
+            "technique": "Marble",
+            "location": "Grotto of Moses Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/p/pieratti/virtue2.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31046
+        },
+        {
+            "title": "Font for consecrated water",
+            "date": "-",
+            "technique": "Marble",
+            "location": "San Gaetano Florence",
+            "url": "https://www.wga.hu/html/p/pieratti/waterfon.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 31047
+        }
+    ]
+}

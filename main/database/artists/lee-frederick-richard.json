@@ -1,0 +1,28 @@
+{
+    "name": "LEE Frederick Richard",
+    "life": "(b. 1798 Barnstable 1879 Wellington South Africa)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Lake in a Park",
+            "date": "-",
+            "technique": "Oil on wood 35 x 46 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/l/lee/lakepark.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21811
+        },
+        {
+            "title": "Le Pont du Gard",
+            "date": "1863",
+            "technique": "Oil on canvas 78 x 107 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lee/pontgard.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 21812
+        }
+    ]
+}

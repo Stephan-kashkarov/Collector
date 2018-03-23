@@ -1,0 +1,68 @@
+{
+    "name": "JACOPO del CASENTINO",
+    "life": "(b. ca. 1297 Firenze d. ca. 1349 Pratovecchio)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Teaching of the Ancients",
+            "date": "1342",
+            "technique": "Manuscript (Ms. II.II. 319)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/ancient1.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 20485
+        },
+        {
+            "title": "Teaching of the Ancients",
+            "date": "1342",
+            "technique": "Manuscript (Ms. II.II. 319)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/ancient2.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 20486
+        },
+        {
+            "title": "Teaching of the Ancients",
+            "date": "1342",
+            "technique": "Manuscript (Pal. 600)",
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/ancient3.html",
+            "form": "illumination",
+            "painting_type": "other",
+            "index": 20487
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1340-45",
+            "technique": "Tempera on wood",
+            "location": "Allen Memorial Art Museum Oberlin Ohio",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20488
+        },
+        {
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Tempera on panel 88 x 34 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/madchild.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20489
+        },
+        {
+            "title": "Madonna Enthroned with Angels and Saints",
+            "date": "1320-30",
+            "technique": "Tempera on wood 39 x 42 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/j/jacopo/casentin/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 20490
+        }
+    ]
+}

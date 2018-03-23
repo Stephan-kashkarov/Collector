@@ -1,0 +1,48 @@
+{
+    "name": "CHALGRIN Jean-Fran\u00e7ois-Th\u00e9rese",
+    "life": "(b. 1739 Paris d. 1811 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "New staircase",
+            "date": "1801",
+            "technique": "Photo",
+            "location": "Palais du Luxembourg Paris",
+            "url": "https://www.wga.hu/html/c/chalgrin/palais.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 8597
+        },
+        {
+            "title": "Exterior view",
+            "date": "1774-84",
+            "technique": "Photo",
+            "location": "Saint-Philippe-du-Roule Paris",
+            "url": "https://www.wga.hu/html/c/chalgrin/roule1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 8598
+        },
+        {
+            "title": "Interior view",
+            "date": "1774-84",
+            "technique": "Photo",
+            "location": "Saint-Philippe-du-Roule Paris",
+            "url": "https://www.wga.hu/html/c/chalgrin/roule2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 8599
+        },
+        {
+            "title": "General view",
+            "date": "begun 1806",
+            "technique": "Photo",
+            "location": "Arc Triomphe Paris",
+            "url": "https://www.wga.hu/html/c/chalgrin/triomph1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 8600
+        }
+    ]
+}

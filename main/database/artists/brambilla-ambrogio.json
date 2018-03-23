@@ -1,0 +1,38 @@
+{
+    "name": "BRAMBILLA Ambrogio",
+    "life": "(active 1579-1599 in Rome)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Caricatures of the Gods of Olympus",
+            "date": "1580s",
+            "technique": "Engraving",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/brambill/caricatu.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 5941
+        },
+        {
+            "title": "Carnival",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/b/brambill/carnival.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 5942
+        },
+        {
+            "title": "Lent",
+            "date": "-",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/b/brambill/lent.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 5943
+        }
+    ]
+}

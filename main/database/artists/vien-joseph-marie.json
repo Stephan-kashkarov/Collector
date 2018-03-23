@@ -1,0 +1,88 @@
+{
+    "name": "VIEN Joseph-Marie",
+    "life": "(b. 1716 Montpellier d. 1809 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "La Marchande d'Amours",
+            "date": "1763",
+            "technique": "Oil on canvas 117 x 140 cm",
+            "location": "Mus\u00e9e National du Ch\u00e2teau Fontainebleau",
+            "url": "https://www.wga.hu/html/v/vien/amours.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43152
+        },
+        {
+            "title": "Marcus Aurelius Distributing Bread to the People",
+            "date": "1765",
+            "technique": "Oil on canvas 300 x 301 cm",
+            "location": "Mus\u00e9e de Picardie Amiens",
+            "url": "https://www.wga.hu/html/v/vien/marcus_a.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 43153
+        },
+        {
+            "title": "Venus Showing Mars her Doves Making a Nest in his Helmet",
+            "date": "1768",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vien/mars_ven.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43154
+        },
+        {
+            "title": "Portrait of the Architect Barth\u00e9lemy Michel Hazan on Horseback in Mufti",
+            "date": "1748",
+            "technique": "Oil on canvas 97 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vien/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43155
+        },
+        {
+            "title": "Greek Maidens Adorning a Sleeping Cupid with Flowers",
+            "date": "1773",
+            "technique": "Oil on canvas 335 x 194 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vien/progres1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43156
+        },
+        {
+            "title": "Lover Crowning his Mistress",
+            "date": "1773",
+            "technique": "Oil on canvas 335 x 202 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vien/progres2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43157
+        },
+        {
+            "title": "St Denis Preaching in Gaul",
+            "date": "1767",
+            "technique": "Oil on canvas 660 x 393 cm",
+            "location": "Saint-Roch Paris",
+            "url": "https://www.wga.hu/html/v/vien/st_denis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43158
+        },
+        {
+            "title": "Venus Wounded by Diomedes Is Saved by Iris",
+            "date": "1775",
+            "technique": "Oil on canvas 162 x 208 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vien/venuswou.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43159
+        }
+    ]
+}

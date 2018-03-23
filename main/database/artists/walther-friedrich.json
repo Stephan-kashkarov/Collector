@@ -1,0 +1,28 @@
+{
+    "name": "WALTHER Friedrich",
+    "life": "(c. 1440-c. 1495)",
+    "school": "German",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Sermon of St Albertus Magnus",
+            "date": "1470-90",
+            "technique": "Oil on spruce panel 126 x 70 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/walther/sermon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43737
+        },
+        {
+            "title": "St Wendelin with a Donatrix",
+            "date": "1467",
+            "technique": "Oil on panel 119 x 77 cm",
+            "location": "Bernisches Historisches Museum Bern",
+            "url": "https://www.wga.hu/html/w/walther/wendelin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43738
+        }
+    ]
+}

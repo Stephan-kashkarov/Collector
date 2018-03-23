@@ -1,0 +1,28 @@
+{
+    "name": "SPECCHI Alessandro",
+    "life": "(b. 1668 Roma d. 1729 Roma)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1705",
+            "technique": "Photo",
+            "location": "Palazzo Pichini Rome",
+            "url": "https://www.wga.hu/html/s/specchi/pichini.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 37732
+        },
+        {
+            "title": "Porto di Ripetta",
+            "date": "1705",
+            "technique": "Etching 542 x 789 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/s/specchi/ripetta.html",
+            "form": "architecture",
+            "painting_type": "landscape",
+            "index": 37733
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "SELLAER Vincent",
+    "life": "(active 1538-1544 Mechelen)",
+    "school": "Flemish",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Charity",
+            "date": "1550s",
+            "technique": "Oil on panel 163 x 105 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/s/sellaer/charity1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36878
+        },
+        {
+            "title": "Allegory of Charity",
+            "date": "-",
+            "technique": "Oil on panel 79 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sellaer/charity2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36879
+        },
+        {
+            "title": "The Holy Kinship",
+            "date": "-",
+            "technique": "Oil on panel 95 x 109 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sellaer/holykins.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36880
+        },
+        {
+            "title": "Leda with Swan and Children",
+            "date": "-",
+            "technique": "Oil on panel 43 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sellaer/ledaswan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36881
+        },
+        {
+            "title": "Susanna and Elders",
+            "date": "-",
+            "technique": "Oil on panel 105 x 85 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sellaer/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 36882
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "-",
+            "technique": "Oil on panel 94 x 69 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/sellaer/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36883
+        }
+    ]
+}

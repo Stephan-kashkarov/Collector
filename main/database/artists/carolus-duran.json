@@ -1,0 +1,68 @@
+{
+    "name": "CAROLUS-DURAN",
+    "life": "(b. 1837 Lille d. 1917 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Convalescent or The Casualty",
+            "date": "1860",
+            "technique": "Oil on canvas 99 x 125 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/carolus/casualty.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7731
+        },
+        {
+            "title": "Portrait of Lady Campbell Clarke",
+            "date": "1893",
+            "technique": "Oil on canvas 212 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carolus/ladycamp.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7732
+        },
+        {
+            "title": "The Lady with the Glove",
+            "date": "1869",
+            "technique": "Oil on canvas 228 x 164 cm",
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "url": "https://www.wga.hu/html/c/carolus/ladyglov.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7733
+        },
+        {
+            "title": "Portrait of Hector Hanoteau",
+            "date": "1870",
+            "technique": "Oil on canvas 46 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carolus/porthano.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7734
+        },
+        {
+            "title": "Portrait of Anna Alexandrovna Obolenskaya",
+            "date": "1887",
+            "technique": "Oil on canvas 120 x 78 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carolus/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7735
+        },
+        {
+            "title": "After the Swimming",
+            "date": "1899",
+            "technique": "Oil on canvas 72 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carolus/swimming.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7736
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ROLAND Philippe-Laurent",
+    "life": "(b. 1746 Lille d. 1816 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Sleeping Boy",
+            "date": "c. 1774",
+            "technique": "Terracotta painted white height 57 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/roland1/boysleep.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 34851
+        },
+        {
+            "title": "Old Man Sleeping",
+            "date": "c. 1774",
+            "technique": "Terracotta",
+            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "url": "https://www.wga.hu/html/r/roland1/old_man.html",
+            "form": "sculpture",
+            "painting_type": "genre",
+            "index": 34852
+        },
+        {
+            "title": "Self Portrait",
+            "date": "c. 1785",
+            "technique": "Marble height 53 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/r/roland1/selfport.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 34853
+        }
+    ]
+}

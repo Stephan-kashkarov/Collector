@@ -1,0 +1,98 @@
+{
+    "name": "CRESPI Daniele",
+    "life": "(b. ca. 1597 Busto Arsizio d. 1630 Milano)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Cain Killing Abel",
+            "date": "1618-20",
+            "technique": "Oil on canvas 184 x 126 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/cainabel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10439
+        },
+        {
+            "title": "Painting of the sanctuary",
+            "date": "completed 1629",
+            "technique": "Fresco",
+            "location": "Certosa di Garegnano Milan",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/certosa.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 10440
+        },
+        {
+            "title": "The Entombment",
+            "date": "1620s",
+            "technique": "Oil on canvas 123 x 99 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/entombme.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10441
+        },
+        {
+            "title": "Flagellation of Christ",
+            "date": "1627-28",
+            "technique": "Oil on canvas 122 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/flagella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10442
+        },
+        {
+            "title": "The Head of St John the Baptist",
+            "date": "-",
+            "technique": "Oil on poplar panel 39 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/headjohn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10443
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1624-25",
+            "technique": "Oil on canvas 335 x 220 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/lastsupp.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10444
+        },
+        {
+            "title": "Porrtrait of Antonio Olgiati",
+            "date": "1621-22",
+            "technique": "Oil on panel 46 x 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/olgiati.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10445
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "c. 1626",
+            "technique": "Oil on canvas cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 10446
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "c. 1625",
+            "technique": "Oil on panel 45 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/crespi/daniele/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 10447
+        }
+    ]
+}

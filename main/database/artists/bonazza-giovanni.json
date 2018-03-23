@@ -1,0 +1,38 @@
+{
+    "name": "BONAZZA Giovanni",
+    "life": "(b. 1654 Venezia d. 1736 Padova)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Annunciation",
+            "date": "c. 1700",
+            "technique": "Marble",
+            "location": "Basilica dei Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/b/bonazza/annuncia.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4985
+        },
+        {
+            "title": "Monument to the Valier Family",
+            "date": "1705-08",
+            "technique": "Marble",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/b/bonazza/valier.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4986
+        },
+        {
+            "title": "Virtue Crowning Merit",
+            "date": "1705-08",
+            "technique": "Marble",
+            "location": "Santi Giovanni e Paolo Venice",
+            "url": "https://www.wga.hu/html/b/bonazza/virtue.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4987
+        }
+    ]
+}

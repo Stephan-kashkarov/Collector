@@ -1,0 +1,718 @@
+{
+    "name": "PINTURICCHIO",
+    "life": "(b. ca. 1454 Perugia d. 1513 Siena)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Annunciation",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31402
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31403
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31404
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31405
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31406
+        },
+        {
+            "title": "The Annunciation (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/1annunc4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31407
+        },
+        {
+            "title": "Christ among the Doctors",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/2doctor.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31408
+        },
+        {
+            "title": "Christ among the Doctors (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/2doctor1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31409
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/3adorat.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31410
+        },
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/3adorat0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31411
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/3adorat1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31412
+        },
+        {
+            "title": "The Adoration of the Shepherds (detail)",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/3adorat2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31413
+        },
+        {
+            "title": "Four Enthroned Sibyls",
+            "date": "1501",
+            "technique": "Fresco",
+            "location": "Collegiata di Santa Maria Maggiore Spello",
+            "url": "https://www.wga.hu/html/p/pinturic/baglioni/4vault.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31414
+        },
+        {
+            "title": "Entrance to the Piccolomini Library",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/001siena.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31415
+        },
+        {
+            "title": "The Coronation of Pope Pius III",
+            "date": "1509",
+            "technique": "Fresco",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/002siena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31416
+        },
+        {
+            "title": "View of the Piccolomini Library",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/003siena.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31417
+        },
+        {
+            "title": "View of the Piccolomini Library",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/004siena.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31418
+        },
+        {
+            "title": "View of the Piccolomini Library",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/004sienb.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 31419
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1502-03",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/005siena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31420
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1502-03",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/006siena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31421
+        },
+        {
+            "title": "Ceiling decoration (detail)",
+            "date": "1502-03",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/007siena.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31422
+        },
+        {
+            "title": "No. 1: Enea Piccolomini Leaves for the Council of Basel",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/01basle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31423
+        },
+        {
+            "title": "No. 1: Enea Piccolomini Leaves for the Council of Basel",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/01basle1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31424
+        },
+        {
+            "title": "No. 1: Enea Piccolomini Leaves for the Council of Basel (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/01basle2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31425
+        },
+        {
+            "title": "No. 2: Enea Piccolomini as an Ambassador to the Court of James I of Scotland",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/02james.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31426
+        },
+        {
+            "title": "No. 3: Frederick III Crowning Enea Silvio Piccolomini with a Laurel Wreath",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/03laure.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31427
+        },
+        {
+            "title": "No. 3: Frederick III Crowning Enea Silvio Piccolomini with a Laurel Wreath (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/03laure1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31428
+        },
+        {
+            "title": "No. 4: Homage to Pope Eugenius IV in the Name of Emperor Frederick III",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/04homag.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31429
+        },
+        {
+            "title": "Homage to Pope Eugenius IV in the Name of Emperor Frederick III",
+            "date": "1502-08",
+            "technique": "Pen and brown ink with brown wash 650 x 405 mm",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/04homag1.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 31430
+        },
+        {
+            "title": "No. 5: Enea Silvio Piccolomini Presents Frederick III to Eleonora of Portugal",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/05portu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31431
+        },
+        {
+            "title": "No. 5: Enea Silvio Piccolomini Presents Frederick III to Eleonora of Portugal (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/05portu1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31432
+        },
+        {
+            "title": "No. 5: Enea Silvio Piccolomini Presents Frederick III to Eleonora of Portugal (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/05portu2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31433
+        },
+        {
+            "title": "The Encounter between Frederick III and Eleonora of Portugal",
+            "date": "-",
+            "technique": "Pen and brown ink with brown wash 660 x 533 mm",
+            "location": "The Morgan Library and Museum New York",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/05portu3.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 31434
+        },
+        {
+            "title": "No. 6: Enea Silvio is Elevated to Cardinal",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/06cardi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31435
+        },
+        {
+            "title": "No. 7: The Coronation of Enea Silvio Piccolomini as Pope Pius II",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/07coron.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31436
+        },
+        {
+            "title": "No. 7: The Coronation of Enea Silvio Piccolomini as Pope Pius II (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/07coron1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31437
+        },
+        {
+            "title": "No. 8: Pope Pius II at the Congress of Mantua",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/08mantu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31438
+        },
+        {
+            "title": "No. 8: Pope Pius II at the Congress of Mantua",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/08mantu1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31439
+        },
+        {
+            "title": "No. 9: The Canonization of Catherine of Siena by Pope Pius II",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/09cathe.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31440
+        },
+        {
+            "title": "No. 9: The Canonization of Catherine of Siena by Pope Pius II (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/09cathe1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31441
+        },
+        {
+            "title": "No. 10: Pope Pius II Arrives in Ancona",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/10ancon.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31442
+        },
+        {
+            "title": "No. 10: Pope Pius II Arrives in Ancona (detail)",
+            "date": "1502-08",
+            "technique": "Fresco",
+            "location": "Piccolomini Library Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/siena/10ancon1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31443
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "1492-94",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/0ceiling.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31444
+        },
+        {
+            "title": "The Resurrection",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/1resurr1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31445
+        },
+        {
+            "title": "The Resurrection (centre view)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/1resurr2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31446
+        },
+        {
+            "title": "The Resurrection (lower center view)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/1resurr3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31447
+        },
+        {
+            "title": "The Arithmetic",
+            "date": "1492-94",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/2arithm1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31448
+        },
+        {
+            "title": "The Arithmetic (lower centre view)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/2arithm2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31449
+        },
+        {
+            "title": "The Arithmetic (lower left view)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/2arithm3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31450
+        },
+        {
+            "title": "The Arithmetic (lower right view)",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/2arithm4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31451
+        },
+        {
+            "title": "Music",
+            "date": "1492-94",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/2music.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31452
+        },
+        {
+            "title": "Vault decoration",
+            "date": "1493-95",
+            "technique": "Fresco",
+            "location": "Appartamento Borgia Palazzi Vaticani Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/3saints.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31453
+        },
+        {
+            "title": "Vault decoration",
+            "date": "1493-95",
+            "technique": "Fresco",
+            "location": "Appartamento Borgia Palazzi Vaticani Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/3saints1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31454
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1493-95",
+            "technique": "Fresco",
+            "location": "Appartamento Borgia Palazzi Vaticani Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/4susanna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31455
+        },
+        {
+            "title": "St Catherine's Disputation",
+            "date": "1492-94",
+            "technique": "Fresco with gold leaf",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/5cather.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31456
+        },
+        {
+            "title": "St Catherine's Disputation (detail)",
+            "date": "1492-94",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/5cather1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31457
+        },
+        {
+            "title": "St Catherine's Disputation (detail)",
+            "date": "1492-94",
+            "technique": "Fresco",
+            "location": "Palazzi Pontifici Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/vatican/5cather2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31458
+        },
+        {
+            "title": "Adoration of the Christ Child",
+            "date": "c. 1490",
+            "technique": "Wood",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/adorati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31459
+        },
+        {
+            "title": "Adoration of the Christ Child (detail)",
+            "date": "c. 1490",
+            "technique": "Wood",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/adorati1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31460
+        },
+        {
+            "title": "Vault decoration",
+            "date": "c. 1509",
+            "technique": "Fresco",
+            "location": "Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/adorati2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31461
+        },
+        {
+            "title": "View of the Bufalini Chapel",
+            "date": "1487-89",
+            "technique": "Fresco",
+            "location": "Santa Maria in Aracoeli Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/bufalini.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 31462
+        },
+        {
+            "title": "Death of St Bernardine",
+            "date": "1487-89",
+            "technique": "Fresco",
+            "location": "Cappella Bufalini Santa Maria in Aracoeli Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/burial.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31463
+        },
+        {
+            "title": "The Mystical Marriage of St Catherine",
+            "date": "-",
+            "technique": "Tempera on wood 45 x 34 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/catherin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31464
+        },
+        {
+            "title": "The Crucifixion with Sts Jerome and Christopher",
+            "date": "c. 1471",
+            "technique": "Oil on wood 59 x 40 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31465
+        },
+        {
+            "title": "The Return of Odysseus",
+            "date": "1509",
+            "technique": "Fresco transferred to canvas 124 x 146 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/odysseus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 31466
+        },
+        {
+            "title": "Portrait of a Boy",
+            "date": "1485-1500",
+            "technique": "Oil and tempera on poplar 50 x 36 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/port_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31467
+        },
+        {
+            "title": "Portrait of the Donor",
+            "date": "1504",
+            "technique": "Fresco",
+            "location": "Duomo Siena",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/port_don.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 31468
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1492-94",
+            "technique": "Tempera on panel 42 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/virgchil.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31469
+        },
+        {
+            "title": "The Virgin and Child",
+            "date": "1475-80",
+            "technique": "Panel 575 x 40 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31470
+        },
+        {
+            "title": "The Virgin and Child with Two Angels",
+            "date": "1475-80",
+            "technique": "Panel 128 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/virginch.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31471
+        },
+        {
+            "title": "The Ascended Virgin with Sts Gregory the Great and Benedict",
+            "date": "1512",
+            "technique": "Tempera on wood 282 x 198 cm",
+            "location": "Museo Civico San Gimignano",
+            "url": "https://www.wga.hu/html/p/pinturic/zvarious/virginsts.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31472
+        }
+    ]
+}

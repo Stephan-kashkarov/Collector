@@ -1,0 +1,28 @@
+{
+    "name": "DUBREUIL Toussaint",
+    "life": "(b. ca. 1561 Paris d. 1602 Paris)",
+    "school": "French",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Hyanthe and Clymene Offering a Sacrifice to Venus",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 190 x 140 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dubreuil/hyante.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 12148
+        },
+        {
+            "title": "Hyanthe and Clymene at their Toilette",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 107 x 97 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dubreuil/hyante1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 12149
+        }
+    ]
+}

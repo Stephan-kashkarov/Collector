@@ -1,0 +1,128 @@
+{
+    "name": "MOLA Pier Francesco",
+    "life": "(b. 1612 Coldrerio d. 1666 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Allegory of the Phlegmatic Temperament",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 76 x 114 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/m/mola/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28384
+        },
+        {
+            "title": "Allegory of Geography",
+            "date": "1647-49",
+            "technique": "Oil on canvas 100 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/allegorz.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28385
+        },
+        {
+            "title": "Bacchus Overseeing the Crushing of Grapes by His Satyrs",
+            "date": "1648-49",
+            "technique": "Oil on canvas 195 x 232 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/bacchus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28386
+        },
+        {
+            "title": "Portrait of a Bearded Old Man",
+            "date": "c. 1665",
+            "technique": "Oil on canvas 62 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/bearded.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 28387
+        },
+        {
+            "title": "David with the Head of Goliath",
+            "date": "1660-63",
+            "technique": "Oil on canvas 127 x 147 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/david_go.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28388
+        },
+        {
+            "title": "Jacob Meeting Rachel",
+            "date": "c. 1659",
+            "technique": "Oil on canvas 72 x 98 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/mola/jacob_ra.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28389
+        },
+        {
+            "title": "Oriental Warrior",
+            "date": "1650",
+            "technique": "Oil on canvas 172 x 123 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/mola/oriental.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 28390
+        },
+        {
+            "title": "Young Satyr Drinking through a Reed",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 68 x 53 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/satyr.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28391
+        },
+        {
+            "title": "St Francis Receiving the Stigmata",
+            "date": "1650-55",
+            "technique": "Oil on marble 35 x 26 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/mola/sfrancis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28392
+        },
+        {
+            "title": "St. Jerome",
+            "date": "-",
+            "technique": "Oil on canvas 46 x 67 cm",
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "url": "https://www.wga.hu/html/m/mola/stjerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28393
+        },
+        {
+            "title": "St Peter Freed from Prison",
+            "date": "c. 1630",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/m/mola/stpeter.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28394
+        },
+        {
+            "title": "Tancred Revived by Erminia and Vafrine after the Combat with Argantes",
+            "date": "1650s",
+            "technique": "Oil on canvas 69 x 91 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/m/mola/tancred.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 28395
+        }
+    ]
+}

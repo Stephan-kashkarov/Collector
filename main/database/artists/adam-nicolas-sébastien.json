@@ -1,0 +1,88 @@
+{
+    "name": "ADAM Nicolas-S\u00e9bastien",
+    "life": "(b. 1705 Nancy d. 1778 Paris)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "The Martyrdom of Sainte Victoire",
+            "date": "1747",
+            "technique": "Bronze",
+            "location": "Chapel of Ch\u00e2teau Versailles",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/martyrdo.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 43
+        },
+        {
+            "title": "Monument to Queen Catharina Opalinska",
+            "date": "1749",
+            "technique": "Marble",
+            "location": "Notre-Dame de Bon Secours Nancy",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/opalinsk.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 44
+        },
+        {
+            "title": "Monument to Queen Catharina Opalinska (detail)",
+            "date": "1749 (set up)",
+            "technique": "Marble",
+            "location": "Notre-Dame de Bon Secours Nancy",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/opalinsx.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 45
+        },
+        {
+            "title": "Prometheus",
+            "date": "1737",
+            "technique": "Marble height 115 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/promethe.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 46
+        },
+        {
+            "title": "Prometheus",
+            "date": "1737",
+            "technique": "Marble height 115 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/promethx.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 47
+        },
+        {
+            "title": "Monumental vase on the theme of autumn",
+            "date": "1742-45",
+            "technique": "Marble height 177 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/vase.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 48
+        },
+        {
+            "title": "Monumental vase on the theme of autumn (detail)",
+            "date": "1742-45",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/vase1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 49
+        },
+        {
+            "title": "Monumental vase on the theme of autumn (detail)",
+            "date": "1742-45",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/adam/nicolas/vase2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 50
+        }
+    ]
+}

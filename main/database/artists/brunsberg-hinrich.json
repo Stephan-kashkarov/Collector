@@ -1,0 +1,38 @@
+{
+    "name": "BRUNSBERG Hinrich",
+    "life": "(b. ca. 1350 Braunsberg? d. ca. 1428 Stettin)",
+    "school": "German",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Interior view",
+            "date": "1390s",
+            "technique": "Photo",
+            "location": "Marienkirche Stargard (Poland)",
+            "url": "https://www.wga.hu/html/b/brunsber/stargar1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 6731
+        },
+        {
+            "title": "Interior view",
+            "date": "1390s",
+            "technique": "Photo",
+            "location": "Marienkirche Stargard (Poland)",
+            "url": "https://www.wga.hu/html/b/brunsber/stargar2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 6732
+        },
+        {
+            "title": "Exterior view",
+            "date": "1420s",
+            "technique": "Photo",
+            "location": "Town Hall Tangerm\u00fcnde",
+            "url": "https://www.wga.hu/html/b/brunsber/tangermu.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 6733
+        }
+    ]
+}

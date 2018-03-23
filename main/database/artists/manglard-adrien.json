@@ -1,0 +1,58 @@
+{
+    "name": "MANGLARD Adrien",
+    "life": "(b. 1695 Lyon d. 1760 Roma)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Coastal Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 55 x 120 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/manglard/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23926
+        },
+        {
+            "title": "Mediterranean Port",
+            "date": "-",
+            "technique": "Oil on canvas 75 x 95 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/manglard/med_port.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23927
+        },
+        {
+            "title": "Mediterranean Harbour Scene",
+            "date": "c. 1758",
+            "technique": "Oil on canvas 79 x 134 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/manglard/mharbour.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23928
+        },
+        {
+            "title": "Southern Mediterranean Seascape at Sunset",
+            "date": "-",
+            "technique": "Oil on canvas 68 x 132 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/manglard/seascape.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23929
+        },
+        {
+            "title": "View of a Southern Port",
+            "date": "-",
+            "technique": "Oil on canvas 87 x 117 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/m/manglard/viewport.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 23930
+        }
+    ]
+}

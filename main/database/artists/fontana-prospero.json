@@ -1,0 +1,58 @@
+{
+    "name": "FONTANA Prospero",
+    "life": "(b. 1512 Bologna d. 1597 Bologna)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Adoration of the Shepherds",
+            "date": "-",
+            "technique": "Oil on copper 53 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14010
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "-",
+            "technique": "Oil on copper 53 x 24 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14011
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1565",
+            "technique": "Oil on panel",
+            "location": "Church of Corpus Domini Bologna",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14012
+        },
+        {
+            "title": "Holy Family with the Infant St John the Baptist",
+            "date": "-",
+            "technique": "Oil on panel 16 x 11 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/h_family.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14013
+        },
+        {
+            "title": "Holy Family with the Infant St John the Baptist",
+            "date": "1548-51",
+            "technique": "Oil on panel 79 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/holyfami.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14014
+        }
+    ]
+}

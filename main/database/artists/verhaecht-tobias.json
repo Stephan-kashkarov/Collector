@@ -1,0 +1,58 @@
+{
+    "name": "VERHAECHT Tobias",
+    "life": "(b. 1561 Antwerpen d. 1631 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Mountainous Landscape",
+            "date": "-",
+            "technique": "Oil on oak panel 33 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verhaech/mountlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42501
+        },
+        {
+            "title": "Mountainous River Landscape",
+            "date": "-",
+            "technique": "Oil on panel 72 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/verhaech/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 42502
+        },
+        {
+            "title": "Road between Cliffs",
+            "date": "after 1600",
+            "technique": "Pen brown ink wash 205 x 328 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/verhaech/romanti1.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 42503
+        },
+        {
+            "title": "Landscape with Christ and his Disciples at Emmaus",
+            "date": "after 1600",
+            "technique": "Pen brown ink wash 208 x 344 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/verhaech/romanti2.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 42504
+        },
+        {
+            "title": "Landscape with Couple Setting out Falconing",
+            "date": "after 1600",
+            "technique": "Pen brown ink blue wash 182 x 367 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/verhaech/romanti3.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 42505
+        }
+    ]
+}

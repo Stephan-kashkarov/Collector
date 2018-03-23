@@ -1,0 +1,28 @@
+{
+    "name": "MILLET Francisque",
+    "life": "(b. 1642 Antwerpen d. 1679 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Imaginary Landscape",
+            "date": "1660s",
+            "technique": "Oil on canvas 57 x 665 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/m/millet_f/i_landsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27172
+        },
+        {
+            "title": "Landscape with Christ and His Disciples",
+            "date": "-",
+            "technique": "Oil on canvas 99 x 133 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/m/millet_f/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 27173
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "CARLONE Giovanni Andrea",
+    "life": "(b. 1639 Genova d. 1697 Genova)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Aurora (The Dawn)",
+            "date": "c. 1678",
+            "technique": "Oil on canvas 97.5 x 129 cm",
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "url": "https://www.wga.hu/html/c/carlone/giovandr/aurora.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7691
+        },
+        {
+            "title": "Sacrifice of Iphigenia",
+            "date": "-",
+            "technique": "Oil on canvas 115 x 167 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/carlone/giovandr/iphigeni.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7692
+        },
+        {
+            "title": "Ceiling painting: Allegory on the Life of Man",
+            "date": "1691-92",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/c/carlone/giovandr/rosso.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7693
+        },
+        {
+            "title": "Allegory on the Life of Man (detail)",
+            "date": "1691-92",
+            "technique": "Fresco",
+            "location": "Palazzo Rosso Genoa",
+            "url": "https://www.wga.hu/html/c/carlone/giovandr/rosso1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7694
+        }
+    ]
+}

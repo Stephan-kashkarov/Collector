@@ -1,0 +1,88 @@
+{
+    "name": "DANNECKER Heinrich",
+    "life": "(b. 1758 Stuttgart d. 1841 Stuttgart)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Ariadne on the Panther (front view)",
+            "date": "1812-14",
+            "technique": "Marble height 146 cm",
+            "location": "Liebieghaus Frankfurt",
+            "url": "https://www.wga.hu/html/d/dannecke/ariadne1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10801
+        },
+        {
+            "title": "Ariadne on the Panther (rear view)",
+            "date": "1812-14",
+            "technique": "Marble height 146 cm",
+            "location": "Liebieghaus Frankfurt",
+            "url": "https://www.wga.hu/html/d/dannecke/ariadne2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10802
+        },
+        {
+            "title": "Ariadne on the Panther (front and back views)",
+            "date": "1812-14",
+            "technique": "Marble height 146 cm",
+            "location": "Liebieghaus Frankfurt",
+            "url": "https://www.wga.hu/html/d/dannecke/ariadne3.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10803
+        },
+        {
+            "title": "Ariadne on the Panther",
+            "date": "1803-14",
+            "technique": "Terracotta",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/d/dannecke/ariadne4.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10804
+        },
+        {
+            "title": "Cupid and Psyche",
+            "date": "1787",
+            "technique": "Model 36 x 18 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/d/dannecke/psyche.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 10805
+        },
+        {
+            "title": "Bust of Schiller",
+            "date": "1794",
+            "technique": "Marble 85 x 95 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/d/dannecke/schiller.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10806
+        },
+        {
+            "title": "Bust of Schiller (detail)",
+            "date": "1794",
+            "technique": "Marble",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/d/dannecke/schillex.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10807
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1796",
+            "technique": "Plaster painted bronze height 745 cm",
+            "location": "Staatsgalerie Stuttgart",
+            "url": "https://www.wga.hu/html/d/dannecke/selfport.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 10808
+        }
+    ]
+}

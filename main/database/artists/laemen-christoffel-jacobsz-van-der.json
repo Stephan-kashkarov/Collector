@@ -1,0 +1,28 @@
+{
+    "name": "LAEMEN Christoffel Jacobsz van der",
+    "life": "(b. ca. 1606 Antwerpen d. 1651 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Interior with Figures Playing Cards",
+            "date": "-",
+            "technique": "Oil on oak panel 69 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/laemen/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 21352
+        },
+        {
+            "title": "The Prodigal Son",
+            "date": "c. 1640",
+            "technique": "Oil on panel 57 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/laemen/prodigal.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21353
+        }
+    ]
+}

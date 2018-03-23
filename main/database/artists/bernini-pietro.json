@@ -1,0 +1,98 @@
+{
+    "name": "BERNINI Pietro",
+    "life": "(b. 1562 Sesto Fiorentino d. 1629 Roma)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Assumption",
+            "date": "1607-10",
+            "technique": "Marble",
+            "location": "Santa Maria Maggiore Rome",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/assumpti.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4369
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1612-15",
+            "technique": "Marble height 243 cm",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/baptist.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4370
+        },
+        {
+            "title": "Bust of Antonio Coppola",
+            "date": "1612",
+            "technique": "Marble",
+            "location": "San Giovanni dei Fiorentini Rome",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/coppola.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 4371
+        },
+        {
+            "title": "Autumn in the Guise of Priapus",
+            "date": "1616-17",
+            "technique": "Marble height 228 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/garden1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 4372
+        },
+        {
+            "title": "Autumn in the Guise of Priapus (detail)",
+            "date": "1616-17",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/garden1a.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 4373
+        },
+        {
+            "title": "Spring in the Guise of Flora",
+            "date": "1616-17",
+            "technique": "Marble height 226 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/garden2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 4374
+        },
+        {
+            "title": "Spring in the Guise of Flora (detail)",
+            "date": "1616-17",
+            "technique": "Marble",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/garden2a.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 4375
+        },
+        {
+            "title": "The Charity of St Martin",
+            "date": "c. 1610",
+            "technique": "Marble height 138 cm",
+            "location": "Certosa di San Martino Naples",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/stmartin.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4376
+        },
+        {
+            "title": "St Paul",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Cathedral Naples",
+            "url": "https://www.wga.hu/html/b/bernini/pietro/stpaul.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 4377
+        }
+    ]
+}

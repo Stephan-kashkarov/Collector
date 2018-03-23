@@ -1,0 +1,78 @@
+{
+    "name": "SCAMOZZI Vincenzo",
+    "life": "(b. 1548 Vicenza d. 1616 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Villa Pisani",
+            "date": "1576",
+            "technique": "Photo",
+            "location": "Lonigo",
+            "url": "https://www.wga.hu/html/s/scamozzi/pisani.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36479
+        },
+        {
+            "title": "Procuratie Vecchie",
+            "date": "12th-16th centuries",
+            "technique": "Photo",
+            "location": "Piazza San Marco Venice",
+            "url": "https://www.wga.hu/html/s/scamozzi/procurat.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 36480
+        },
+        {
+            "title": "View of the \"\"scaenae frons\"\"\"1580-83Photo\"Teatro Olimpico Vicenza",
+            "date": "https://www.wga.hu/html/s/scamozzi/teatro.html",
+            "technique": "architecture",
+            "location": "interior",
+            "url": "Italian",
+            "form": "1551-1600",
+            "painting_type": "",
+            "index": 36481
+        },
+        {
+            "title": "Interior",
+            "date": "1588-90",
+            "technique": "Photo",
+            "location": "Teatro Sabbioneta",
+            "url": "https://www.wga.hu/html/s/scamozzi/teatro1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 36482
+        },
+        {
+            "title": "Interior (detail)",
+            "date": "1588-90",
+            "technique": "Photo",
+            "location": "Teatro Sabbioneta",
+            "url": "https://www.wga.hu/html/s/scamozzi/teatro2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 36483
+        },
+        {
+            "title": "Project for the Rialto Bridge Venice",
+            "date": "1588",
+            "technique": "Drawing",
+            "location": "Royal Institute of British Architects London",
+            "url": "https://www.wga.hu/html/s/scamozzi/zprojec1.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 36484
+        },
+        {
+            "title": "Project for a ducal residence",
+            "date": "-",
+            "technique": "Drawing",
+            "location": "Devonshire Collection Chatsworth",
+            "url": "https://www.wga.hu/html/s/scamozzi/zprojec2.html",
+            "form": "architecture",
+            "painting_type": "study",
+            "index": 36485
+        }
+    ]
+}

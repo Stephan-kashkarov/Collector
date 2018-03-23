@@ -1,0 +1,68 @@
+{
+    "name": "HEEREMANS Thomas",
+    "life": "(b. ca. 1640 Haarlem d. 1694 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "River Landscape",
+            "date": "1685",
+            "technique": "Oil on canvas 87 x 110 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/river_la.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19521
+        },
+        {
+            "title": "River Landscape",
+            "date": "1691",
+            "technique": "Oil on canvas 102 x 143 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/riverlan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19522
+        },
+        {
+            "title": "River Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 61 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/riverlax.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19523
+        },
+        {
+            "title": "View of Leiden",
+            "date": "1674",
+            "technique": "Oil on panel 40 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/viewleid.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19524
+        },
+        {
+            "title": "Village Street",
+            "date": "1660s",
+            "technique": "Oil on wood 47 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/village.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19525
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "-",
+            "technique": "Oil on canvas 91 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/heereman/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 19526
+        }
+    ]
+}

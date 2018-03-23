@@ -1,0 +1,98 @@
+{
+    "name": "PREDIS Ambrogio de",
+    "life": "(b. ca. 1455 Milano d. after 1508)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "Girl with Cherries",
+            "date": "1491-95",
+            "technique": "Oil on panel 49 x 38 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/girlcher.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32404
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1500",
+            "technique": "Oil on panel 50 x 37 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32405
+        },
+        {
+            "title": "Portrait of a Woman",
+            "date": "c. 1490",
+            "technique": "Oil on panel 51 x 34 cm",
+            "location": "Pinacoteca Ambrosiana Milan",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32406
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "c. 1500",
+            "technique": "Oil on wood 60 x 45 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/portra_m.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32407
+        },
+        {
+            "title": "Maximilian I",
+            "date": "1502",
+            "technique": "Oil on oak panel 44 x 30 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/portram.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32408
+        },
+        {
+            "title": "Maximilian I",
+            "date": "1507",
+            "technique": "Black chalk 372 x 252 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/portram1.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 32409
+        },
+        {
+            "title": "Studies of Young Women in Profile",
+            "date": "1490s",
+            "technique": "Silverpoint and white heightening on blue prepared paper 137 x 205 mm",
+            "location": "Kunsthalle Hamburg",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/studies.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 32410
+        },
+        {
+            "title": "Marlianus Codex",
+            "date": "1488",
+            "technique": "Manuscript (Cod. Lat. 55.18. IV. 49.3.7)",
+            "location": "Biblioteca Guarnacci Volterra",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/z_codex.html",
+            "form": "illumination",
+            "painting_type": "historical",
+            "index": 32411
+        },
+        {
+            "title": "Latin Grammar Book for Maximilian Sforza",
+            "date": "1496-99",
+            "technique": "Manuscript (Ms. 2167) 275 x 180 mm",
+            "location": "Biblioteca Trivulziana Milan",
+            "url": "https://www.wga.hu/html/p/predis/ambrogio/z_sforza.html",
+            "form": "illumination",
+            "painting_type": "portrait",
+            "index": 32412
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "name": "B\u00d6CKLIN Arnold",
+    "life": "(b. 1827 Basel d. 1901 Firenze)",
+    "school": "Swiss",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Campagna Landscape",
+            "date": "1857-58",
+            "technique": "Oil on canvas 88 x 105 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/campagna.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5879
+        },
+        {
+            "title": "The Deposition",
+            "date": "1871-74",
+            "technique": "Tempera and coloured varnish on panel 160 x 250 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/depositi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 5880
+        },
+        {
+            "title": "The Island of the Dead",
+            "date": "1880",
+            "technique": "Oil on canvas 111 x 155 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/b/bocklin/isle1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5881
+        },
+        {
+            "title": "The Isle of the Dead",
+            "date": "1883",
+            "technique": "Oil on panel 80 x 150 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/isle2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5882
+        },
+        {
+            "title": "Pan in the Reeds",
+            "date": "1858",
+            "technique": "Oil on canvas 200 x 153 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bocklin/panreeds.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 5883
+        },
+        {
+            "title": "Attack by Pirates",
+            "date": "-",
+            "technique": "Colour varnish on mahogany panel 153 x 232 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/b/bocklin/pirates.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5884
+        },
+        {
+            "title": "Roger and Angelica",
+            "date": "1871-74",
+            "technique": "Tempera on panel 44 x 36 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/rogerang.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 5885
+        },
+        {
+            "title": "Self-Portrait with Death as a Fiddler",
+            "date": "1871-74",
+            "technique": "Oil on canvas 75 x 61 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5886
+        },
+        {
+            "title": "Summer",
+            "date": "1881",
+            "technique": "Oil on wood 61 x 50 cm",
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "url": "https://www.wga.hu/html/b/bocklin/summer.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5887
+        },
+        {
+            "title": "The Surf",
+            "date": "1883",
+            "technique": "Oil on panel 121 x 82 cm",
+            "location": "Nationalgalerie Berlin",
+            "url": "https://www.wga.hu/html/b/bocklin/the_surf.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5888
+        },
+        {
+            "title": "Villa by the Sea",
+            "date": "c. 1864",
+            "technique": "Oil on canvas 62 x 74 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/b/bocklin/villasea.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5889
+        }
+    ]
+}

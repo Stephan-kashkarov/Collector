@@ -1,0 +1,418 @@
+{
+    "name": "BORROMINI Francesco",
+    "life": "(b. 1599 Bissone d. 1667 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1653-57",
+            "technique": "Photo",
+            "location": "Sant'Agnese in Agone Rome",
+            "url": "https://www.wga.hu/html/b/borromin/agone1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5120
+        },
+        {
+            "title": "Exterior view",
+            "date": "1653-57",
+            "technique": "Photo",
+            "location": "Sant'Agnese in Agone Rome",
+            "url": "https://www.wga.hu/html/b/borromin/agone2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5121
+        },
+        {
+            "title": "Interior view",
+            "date": "1653-57",
+            "technique": "Photo",
+            "location": "Sant'Agnese in Agone Rome",
+            "url": "https://www.wga.hu/html/b/borromin/agone3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5122
+        },
+        {
+            "title": "Interior view",
+            "date": "1653-57",
+            "technique": "Photo",
+            "location": "Sant'Agnese in Agone Rome",
+            "url": "https://www.wga.hu/html/b/borromin/agone4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5123
+        },
+        {
+            "title": "Interior view",
+            "date": "1653-57",
+            "technique": "Photo",
+            "location": "Sant'Agnese in Agone Rome",
+            "url": "https://www.wga.hu/html/b/borromin/agone5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5124
+        },
+        {
+            "title": "Interior view",
+            "date": "1628-33",
+            "technique": "Photo",
+            "location": "Palazzo Barberini Rome",
+            "url": "https://www.wga.hu/html/b/borromin/barberin.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5125
+        },
+        {
+            "title": "Exterior view",
+            "date": "1646-49",
+            "technique": "Photo",
+            "location": "Palazzo Falconieri Rome",
+            "url": "https://www.wga.hu/html/b/borromin/falcon2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5126
+        },
+        {
+            "title": "Exterior view",
+            "date": "1646-49",
+            "technique": "Photo",
+            "location": "Palazzo Falconieri Rome",
+            "url": "https://www.wga.hu/html/b/borromin/falconi1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5127
+        },
+        {
+            "title": "Exterior view",
+            "date": "1646-49",
+            "technique": "Photo",
+            "location": "Palazzo Falconieri Rome",
+            "url": "https://www.wga.hu/html/b/borromin/falconi3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5128
+        },
+        {
+            "title": "Interior view",
+            "date": "1646-50",
+            "technique": "Photo",
+            "location": "San Giovanni in Laterano Rome",
+            "url": "https://www.wga.hu/html/b/borromin/lateran.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5129
+        },
+        {
+            "title": "Exterior view",
+            "date": "1637-50",
+            "technique": "Photo",
+            "location": "Oratorio dei Filippini Rome",
+            "url": "https://www.wga.hu/html/b/borromin/oratory1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5130
+        },
+        {
+            "title": "Exterior view",
+            "date": "1637-50",
+            "technique": "Photo",
+            "location": "Oratorio dei Filippini Rome",
+            "url": "https://www.wga.hu/html/b/borromin/oratory2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5131
+        },
+        {
+            "title": "Exterior view",
+            "date": "1637-50",
+            "technique": "Photo",
+            "location": "Oratorio dei Filippini Rome",
+            "url": "https://www.wga.hu/html/b/borromin/oratory3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5132
+        },
+        {
+            "title": "Exterior view",
+            "date": "1654-64",
+            "technique": "Photo",
+            "location": "Collegio di Propaganda Fide Rome",
+            "url": "https://www.wga.hu/html/b/borromin/propaga.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5133
+        },
+        {
+            "title": "Interior view",
+            "date": "1654-64",
+            "technique": "Photo",
+            "location": "Re Magi Chapel Collegio di Propaganda Fide Rome",
+            "url": "https://www.wga.hu/html/b/borromin/remagi1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5134
+        },
+        {
+            "title": "Interior view",
+            "date": "1654-64",
+            "technique": "Photo",
+            "location": "Re Magi Chapel Collegio di Propaganda Fide Rome",
+            "url": "https://www.wga.hu/html/b/borromin/remagi2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5135
+        },
+        {
+            "title": "Interior view",
+            "date": "1654-64",
+            "technique": "Photo",
+            "location": "Re Magi Chapel Collegio di Propaganda Fide Rome",
+            "url": "https://www.wga.hu/html/b/borromin/remagi3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5136
+        },
+        {
+            "title": "Exterior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5137
+        },
+        {
+            "title": "Exterior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5138
+        },
+        {
+            "title": "Exterior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl3.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5139
+        },
+        {
+            "title": "Exterior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl4.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5140
+        },
+        {
+            "title": "Interior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5141
+        },
+        {
+            "title": "Interior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl6.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5142
+        },
+        {
+            "title": "Interior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl7.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5143
+        },
+        {
+            "title": "Interior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl8.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5144
+        },
+        {
+            "title": "Interior view",
+            "date": "1638-41",
+            "technique": "Photo",
+            "location": "San Carlo alle Quattro Fontane Rome",
+            "url": "https://www.wga.hu/html/b/borromin/sancarl9.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5145
+        },
+        {
+            "title": "Exterior view",
+            "date": "1653",
+            "technique": "Photo",
+            "location": "Sant'Andrea delle Fratte Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santand1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5146
+        },
+        {
+            "title": "Exterior view",
+            "date": "1653-67",
+            "technique": "Photo",
+            "location": "Sant'Andrea delle Fratte Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santand2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5147
+        },
+        {
+            "title": "Exterior view",
+            "date": "1653-67",
+            "technique": "Photo",
+            "location": "Sant'Andrea delle Fratte Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santand3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5148
+        },
+        {
+            "title": "Exterior view",
+            "date": "1653-67",
+            "technique": "Photo",
+            "location": "Sant'Andrea delle Fratte Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santand4.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5149
+        },
+        {
+            "title": "Courtyard and fa\u00e7ade",
+            "date": "1642-50",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo1.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5150
+        },
+        {
+            "title": "Courtyard and fa\u00e7ade",
+            "date": "1642-50",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5151
+        },
+        {
+            "title": "Exterior view",
+            "date": "1650s",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 5152
+        },
+        {
+            "title": "Interior view",
+            "date": "1650s",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5153
+        },
+        {
+            "title": "Interior view",
+            "date": "1650s",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5154
+        },
+        {
+            "title": "Interior view",
+            "date": "1650s",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo6.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5155
+        },
+        {
+            "title": "Interior view",
+            "date": "1642-50",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo7.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5156
+        },
+        {
+            "title": "Interior view",
+            "date": "1642-50",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo8.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5157
+        },
+        {
+            "title": "Interior view",
+            "date": "1642-50",
+            "technique": "Photo",
+            "location": "Sant'Ivo alla Sapienza Rome",
+            "url": "https://www.wga.hu/html/b/borromin/santivo9.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5158
+        },
+        {
+            "title": "Interior view",
+            "date": "1642-43",
+            "technique": "Photo",
+            "location": "Santa Maria dei Sette Dolori Rome",
+            "url": "https://www.wga.hu/html/b/borromin/settedol.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 5159
+        },
+        {
+            "title": "Interior view",
+            "date": "1630s",
+            "technique": "Photo",
+            "location": "Palazzo Spada Rome",
+            "url": "https://www.wga.hu/html/b/borromin/spada.html",
+            "form": "architecture",
+            "painting_type": "religious",
+            "index": 5160
+        }
+    ]
+}

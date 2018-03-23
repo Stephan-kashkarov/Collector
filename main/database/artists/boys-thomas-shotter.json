@@ -1,0 +1,28 @@
+{
+    "name": "BOYS Thomas Shotter",
+    "life": "(b. 1803 London d. 1874 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Piccadilly Circus",
+            "date": "1842",
+            "technique": "Lithography",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/b/boys/london.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 5874
+        },
+        {
+            "title": "The Tour St. Jacques before Clearance",
+            "date": "-",
+            "technique": "Lithograph",
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "url": "https://www.wga.hu/html/b/boys/paris.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 5875
+        }
+    ]
+}

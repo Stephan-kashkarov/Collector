@@ -1,0 +1,28 @@
+{
+    "name": "BERLINGHIERI Bonaventura",
+    "life": "(active in mid-13th century)",
+    "school": "Italian",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Madonna and Child with Saints and Crucifixion",
+            "date": "1260-70",
+            "technique": "Tempera on wood 103 x 122 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/b/berlingh/mad_cruc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4203
+        },
+        {
+            "title": "St Francis",
+            "date": "1235",
+            "technique": "Tempera on wood",
+            "location": "Church of San Francesco Pescia",
+            "url": "https://www.wga.hu/html/b/berlingh/stfranci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4204
+        }
+    ]
+}

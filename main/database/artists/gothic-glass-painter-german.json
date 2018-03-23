@@ -1,0 +1,108 @@
+{
+    "name": "GOTHIC GLASS PAINTER German",
+    "life": "(active c. 1218)",
+    "school": "German",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Jacob with the Tree of Jesse",
+            "date": "c. 1218",
+            "technique": "Stained glass window",
+            "location": "Cathedral Freiburg",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/10g_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17662
+        },
+        {
+            "title": "The Stigmatization of St Francis",
+            "date": "1235-45",
+            "technique": "Stained glass window",
+            "location": "Barf\u00fcsserkirche Erfurt",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/11g_1200.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17663
+        },
+        {
+            "title": "Saints",
+            "date": "1250s",
+            "technique": "Stained glass window",
+            "location": "Cathedral Naumburg",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/12g_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17664
+        },
+        {
+            "title": "Virgin and Child",
+            "date": "1280s",
+            "technique": "Stained glass window",
+            "location": "Westf\u00e4lisches Landesmuseum Cologne",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/13g_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17665
+        },
+        {
+            "title": "St Gertrude",
+            "date": "1280s",
+            "technique": "Stained glass window",
+            "location": "Westf\u00e4lisches Landesmuseum Cologne",
+            "url": "https://www.wga.hu/html/zgothic/stained/13c/14g_1250.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17666
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1325-30",
+            "technique": "Stained glass window",
+            "location": "Former Abbey Church K\u00f6nigsfelden",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/07g_1300.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17667
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "1325-30",
+            "technique": "Stained glass window",
+            "location": "Former Abbey Church K\u00f6nigsfelden",
+            "url": "https://www.wga.hu/html/zgothic/stained/14c/07g_1301.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17668
+        },
+        {
+            "title": "Charlemagne and King Arthur",
+            "date": "c. 1410",
+            "technique": "Stained glass window",
+            "location": "Town Hall L\u00fcneburg",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/04g_1400.html",
+            "form": "stained-glass",
+            "painting_type": "historical",
+            "index": 17669
+        },
+        {
+            "title": "Annunciation",
+            "date": "c. 1430",
+            "technique": "Stained glass window",
+            "location": "Cathedral Ulm",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/05g_1400.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17670
+        },
+        {
+            "title": "Window with Saints",
+            "date": "1440-47",
+            "technique": "Pot-metal and white glass with vitrous paint 377 x 73 cm (each panel)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/zgothic/stained/15c/05g_1401.html",
+            "form": "stained-glass",
+            "painting_type": "religious",
+            "index": 17671
+        }
+    ]
+}

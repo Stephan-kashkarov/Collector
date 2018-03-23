@@ -1,0 +1,28 @@
+{
+    "name": "CINGANELLI Michelangelo",
+    "life": "(b. ca. 1558 Settignano d. 1635 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Dome decoration",
+            "date": "1623",
+            "technique": "Fresco",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/c/cinganel/casabuo1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 8923
+        },
+        {
+            "title": "The Chapel (Room of the Angels)",
+            "date": "-",
+            "technique": "Fresco and stucco",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/c/cinganel/casabuo2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 8924
+        }
+    ]
+}

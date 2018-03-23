@@ -1,0 +1,438 @@
+{
+    "name": "DOU Gerrit",
+    "life": "(b. 1613 Leiden d. 1675 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Woman Peeling Carrot",
+            "date": "-",
+            "technique": "Oil on wood 572 x 433 cm",
+            "location": "Staatliches Museum Schwerin",
+            "url": "https://www.wga.hu/html/d/dou/1/carrot.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12024
+        },
+        {
+            "title": "The Extraction of Tooth",
+            "date": "1630-35",
+            "technique": "Oil on wood 32 x 26 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/1/exttooth.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12025
+        },
+        {
+            "title": "A Fisherman's Wife",
+            "date": "1653",
+            "technique": "Oil on panel 23 x 17 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/1/fisherwi.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12026
+        },
+        {
+            "title": "The Grocer's Shop",
+            "date": "1647",
+            "technique": "Oil on wood 385 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/1/grocery.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12027
+        },
+        {
+            "title": "A Soldier of the Leiden Civic Guard with an Arms Still-Life",
+            "date": "1630-35",
+            "technique": "Oil on panel 66 x 51 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/d/dou/1/officer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12028
+        },
+        {
+            "title": "A Soldier of the Leiden Civic Guard with an Arms Still-Life (detail)",
+            "date": "1630-35",
+            "technique": "Oil on panel",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/d/dou/1/officer_.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12029
+        },
+        {
+            "title": "Girl with Burning Oil Lamp",
+            "date": "-",
+            "technique": "Oil on panel 22 x 17 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/1/oil_lamp.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12030
+        },
+        {
+            "title": "Old Woman Reading a Bible",
+            "date": "c. 1630",
+            "technique": "Oil on wood 71 x 56 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/1/old_read.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12031
+        },
+        {
+            "title": "Old Woman Reading a Bible (detail)",
+            "date": "c. 1630",
+            "technique": "Oil on wood",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/1/old_reax.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12032
+        },
+        {
+            "title": "Old Woman Praying",
+            "date": "1640s",
+            "technique": "Oil on wood 12 x 9 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/1/old_woma.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12033
+        },
+        {
+            "title": "Portrait of an Old Woman",
+            "date": "1643-45",
+            "technique": "Oil on wood 20 x 16 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/d/dou/1/p_oldwom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12034
+        },
+        {
+            "title": "Portrait of a Scholar",
+            "date": "c. 1635",
+            "technique": "Oil on panel oval 24 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dou/1/p_schola.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12035
+        },
+        {
+            "title": "Painter in his Studio",
+            "date": "1647",
+            "technique": "Oil on oak 43 x 345 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/d/dou/1/painstud.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12036
+        },
+        {
+            "title": "Portrait of a Couple in a Landscape",
+            "date": "-",
+            "technique": "Oil on panel 76 x 63 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/1/portcoup.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12037
+        },
+        {
+            "title": "The Prayer of the Spinner",
+            "date": "-",
+            "technique": "Oil on wood 277 x 283 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/d/dou/1/prayer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12038
+        },
+        {
+            "title": "Reading the Bible",
+            "date": "c. 1645",
+            "technique": "Oil on wood 60 x 46 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/1/reading.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12039
+        },
+        {
+            "title": "Woman Pouring Water into a Jar",
+            "date": "1640s",
+            "technique": "Oil on wood 36 x 27 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/1/woman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12040
+        },
+        {
+            "title": "Astronomer",
+            "date": "after 1665",
+            "technique": "Oil on panel 38 x 28 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/d/dou/2/astrono.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12041
+        },
+        {
+            "title": "Astronomer",
+            "date": "1650-55",
+            "technique": "Oil on panel 27 x 29 cm",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/d/dou/2/astronom.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12042
+        },
+        {
+            "title": "The Dropsical Woman",
+            "date": "1663",
+            "technique": "Oil on wood 86 x 67 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/2/drops_wo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12043
+        },
+        {
+            "title": "The Silver Ewer",
+            "date": "c. 1663",
+            "technique": "Oil on wood 102 x 82 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/2/drops_wp.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 12044
+        },
+        {
+            "title": "The Moneylender",
+            "date": "1664",
+            "technique": "Oil on wood 29 x 23 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/2/moneylen.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12045
+        },
+        {
+            "title": "The Night School",
+            "date": "c. 1660",
+            "technique": "Oil on panel 74 x 64 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/2/nocturn1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12046
+        },
+        {
+            "title": "The Night School (detail)",
+            "date": "c. 1660",
+            "technique": "Oil on panel",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/2/nocturn2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12047
+        },
+        {
+            "title": "An Evening School",
+            "date": "1655-57",
+            "technique": "Oil on wood 25 x 23 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/dou/2/nocturn3.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12048
+        },
+        {
+            "title": "Cardplayers at Candlelight",
+            "date": "c. 1660",
+            "technique": "Oil on wood",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/d/dou/2/nocturn4.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12049
+        },
+        {
+            "title": "Old Woman with a Candle",
+            "date": "1661",
+            "technique": "Oil on oak 31 x 23 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/d/dou/2/oldcandl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12050
+        },
+        {
+            "title": "Old Woman Watering Flowers",
+            "date": "1660-65",
+            "technique": "Oil on wood 283 x 228 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/d/dou/2/oldwoman.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12051
+        },
+        {
+            "title": "Old Woman Unreeling Threads",
+            "date": "1660-65",
+            "technique": "Oil on panel 32 x 23 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/d/dou/2/oldwomax.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12052
+        },
+        {
+            "title": "The Physician",
+            "date": "1653",
+            "technique": "Oil on oak 493 x 37 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/d/dou/2/physicia.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12053
+        },
+        {
+            "title": "The Quacksalver",
+            "date": "1652",
+            "technique": "Oil on panel 112 x 83 cm",
+            "location": "Museum Boijmans Van Beuningen Rotterdam",
+            "url": "https://www.wga.hu/html/d/dou/2/quack.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12054
+        },
+        {
+            "title": "Self-Portrait in a Window",
+            "date": "c. 1657",
+            "technique": "Oil on oak 23 x 17 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/d/dou/2/selfpor.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12055
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1640s",
+            "technique": "Oil on panel 48 x 37 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/d/dou/2/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12056
+        },
+        {
+            "title": "Self-Portrait with a Palette in a Niche",
+            "date": "1660-65",
+            "technique": "Oil on wood 31 x 21 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/2/selfporu.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12057
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "c. 1665",
+            "technique": "Oil on wood 49 x 39 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/d/dou/2/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12058
+        },
+        {
+            "title": "Trumpet-Player in front of a Banquet",
+            "date": "1660-65",
+            "technique": "Oil on wood 38 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/d/dou/2/trumpet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12059
+        },
+        {
+            "title": "Violon Player",
+            "date": "1653",
+            "technique": "Oil on panel 32 x 20 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/d/dou/2/violonpl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12060
+        },
+        {
+            "title": "Young Girl at a Window Ledge",
+            "date": "c. 1672",
+            "technique": "Oil on panel 33 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/dou/2/young_gi.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12061
+        },
+        {
+            "title": "Young Woman at the Window with a Bunch of Grapes",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/d/dou/2/young_gr.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12062
+        },
+        {
+            "title": "Young Woman at the Window with a Bunch of Grapes (detail)",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/d/dou/2/young_gx.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12063
+        },
+        {
+            "title": "Young Lady on a Balcony",
+            "date": "before 1665",
+            "technique": "Oil on oak panel 38 x 30 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/d/dou/2/young_la.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12064
+        },
+        {
+            "title": "The Young Mother",
+            "date": "1655-60",
+            "technique": "Oil on oak 49 x 37 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/d/dou/2/young_mo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12065
+        },
+        {
+            "title": "Young Mother",
+            "date": "1658",
+            "technique": "Oil on panel 74 x 56 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/d/dou/2/youngmot.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 12066
+        }
+    ]
+}

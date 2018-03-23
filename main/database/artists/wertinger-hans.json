@@ -1,0 +1,28 @@
+{
+    "name": "WERTINGER Hans",
+    "life": "(b. ca. 1465 Landshut d. 1533 Landshut)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Crucifixion with Saints and Donor",
+            "date": "-",
+            "technique": "Oil on panel 53 x 82 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/w/wertinge/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43908
+        },
+        {
+            "title": "Princess Maria Jacob\u00e4a",
+            "date": "-",
+            "technique": "Wood 69 x 45 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/w/wertinge/princess.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43909
+        }
+    ]
+}

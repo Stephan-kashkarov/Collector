@@ -1,0 +1,38 @@
+{
+    "name": "CARDUCHO Bartolom\u00e9",
+    "life": "(b. 1554 Firenze d. 1608 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Death of St Francis",
+            "date": "1593",
+            "technique": "Oil on canvas 115 x 153 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/c/carducho/bartolom/death_sf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7640
+        },
+        {
+            "title": "Descent from the Cross",
+            "date": "1595",
+            "technique": "Oil on canvas 263 x 181 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/carducho/bartolom/descent.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7641
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "1600-03",
+            "technique": "Oil on canvas 127 x 105 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/carducho/bartolom/f_egypt.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7642
+        }
+    ]
+}

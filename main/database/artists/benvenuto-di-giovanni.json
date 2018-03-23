@@ -1,0 +1,58 @@
+{
+    "name": "BENVENUTO DI GIOVANNI",
+    "life": "(b. 1436 Siena d. after 1518 Siena)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "The Meeting of Jephthah and his Daughter",
+            "date": "c. 1470",
+            "technique": "Tempera on panel 32 x 82 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/benvenut/meeting.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4092
+        },
+        {
+            "title": "The Meeting of Jephthah and his Daughter (detail)",
+            "date": "c. 1470",
+            "technique": "Tempera on panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/benvenut/meeting1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4093
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "date": "c. 1491",
+            "technique": "Tempera on panel 41 x 47 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/benvenut/predell1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4094
+        },
+        {
+            "title": "Christ in Limbo",
+            "date": "c. 1491",
+            "technique": "Tempera on panel 42 x 47 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/benvenut/predell2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4095
+        },
+        {
+            "title": "The Resurrection",
+            "date": "c. 1491",
+            "technique": "Tempera on panel 42 x 47 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/benvenut/predell3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4096
+        }
+    ]
+}

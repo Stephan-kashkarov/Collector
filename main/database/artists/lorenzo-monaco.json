@@ -1,0 +1,558 @@
+{
+    "name": "LORENZO Monaco",
+    "life": "(b. ca. 1370 Siena (?) d. ca. 1425 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Nativity",
+            "date": "c. 1390",
+            "technique": "Poplar 26 x 61 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/01monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23163
+        },
+        {
+            "title": "Processional Cross",
+            "date": "1392-93",
+            "technique": "Tempera and gold on panel 57 x 28 cm",
+            "location": "Art Institute Chicago",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/02monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23164
+        },
+        {
+            "title": "The Beheading of St Catherine of Alexandria",
+            "date": "1394-95",
+            "technique": "Poplar 42 x 57 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/03monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23165
+        },
+        {
+            "title": "The Last Supper",
+            "date": "1394-95",
+            "technique": "Poplar 47 x 142 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/04monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23166
+        },
+        {
+            "title": "Virgin and Child Enthroned with Sts John the Baptist and John the Evangelist",
+            "date": "1390s",
+            "technique": "Gold foil and oil paint on glass 17 x 18 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/05monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23167
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "date": "1400-05",
+            "technique": "Tempera and gold on panel 24 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/06monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23168
+        },
+        {
+            "title": "Crucifixion with the Virgin and St John the Evangelist",
+            "date": "1400-05",
+            "technique": "Tempera on panel 85 x 37 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/07monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23169
+        },
+        {
+            "title": "St Peter",
+            "date": "c. 1405",
+            "technique": "Oil on poplar panel 53 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/08monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23170
+        },
+        {
+            "title": "Triptych of St Lawrence",
+            "date": "1406",
+            "technique": "Poplar panel gold ground 162 x 150 cm",
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/09monac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23171
+        },
+        {
+            "title": "Christ on the Cross",
+            "date": "1405-07",
+            "technique": "Tempera on wood 57 x 42 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/09monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23172
+        },
+        {
+            "title": "Christ on the Cross (detail)",
+            "date": "1405-07",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/10monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23173
+        },
+        {
+            "title": "Jeremiah",
+            "date": "c. 1407",
+            "technique": "Tempera and gold on panel 21 x 11 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/11monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23174
+        },
+        {
+            "title": "Crucifixion",
+            "date": "1405-10",
+            "technique": "Tempera and gold on panel 50 x 27 cm",
+            "location": "Galleria dell'Accademia Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/12monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23175
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "1405-10",
+            "technique": "Tempera on poplar 24 x 39 cm (with frame)",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/13monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23176
+        },
+        {
+            "title": "The Flight into Egypt (detail)",
+            "date": "1405-10",
+            "technique": "Tempera on poplar",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/14monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23177
+        },
+        {
+            "title": "The Visitation",
+            "date": "1405-10",
+            "technique": "Tempera on wood 21 x 34 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/15monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23178
+        },
+        {
+            "title": "The Nativity",
+            "date": "1405-10",
+            "technique": "Tempera on wood gold ground 22 x 31 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/16monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23179
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "1405-10",
+            "technique": "Tempera on wood 21 x 33 cm",
+            "location": "Courtauld Gallery London",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/17monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23180
+        },
+        {
+            "title": "The Prophet Isaiah",
+            "date": "1405-10",
+            "technique": "Tempera on panel diameter 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/18monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23181
+        },
+        {
+            "title": "Coronation of the Virgin and Adoring Saints",
+            "date": "1407-09",
+            "technique": "Egg tempera on poplar 195 x 105 cm (left) 221 x 115 cm (central) 197 x 102 cm (right)",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/19monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23182
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "date": "1407-09",
+            "technique": "Egg tempera on poplar 221 x 115 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/19monacx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23183
+        },
+        {
+            "title": "Altarpiece",
+            "date": "1408",
+            "technique": "Panel 66 x 12 cm (each)",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/20monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23184
+        },
+        {
+            "title": "Abraham",
+            "date": "1408-10",
+            "technique": "Tempera on panel 66 x 43 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/21monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23185
+        },
+        {
+            "title": "Noah",
+            "date": "1408-10",
+            "technique": "Tempera on panel 66 x 44 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/22monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23186
+        },
+        {
+            "title": "Moses",
+            "date": "1408-10",
+            "technique": "Tempera on panel 63 x 45 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/23monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23187
+        },
+        {
+            "title": "David",
+            "date": "1408-10",
+            "technique": "Tempera on panel 57 x 43 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/1/24monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23188
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1410-15",
+            "technique": "Tempera on panel",
+            "location": "Galleria dell'Accademia Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/31monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23189
+        },
+        {
+            "title": "The Coronation of the Virgin",
+            "date": "1414",
+            "technique": "Tempera on wood 450 x 350 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/32monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23190
+        },
+        {
+            "title": "Nativity",
+            "date": "1414",
+            "technique": "Tempera on wood 32 x 53 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/33monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23191
+        },
+        {
+            "title": "Christ as the Man of Sorrows",
+            "date": "1415-17",
+            "technique": "Tempera on panel 62 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/34monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23192
+        },
+        {
+            "title": "Madonna of Humility",
+            "date": "c. 1418",
+            "technique": "Tempera and gold on panel 112 x 67 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/35monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23193
+        },
+        {
+            "title": "Studies",
+            "date": "1417-20",
+            "technique": "Metalpoint on reddish violet prepared paper 249 x 185 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/36monaco.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 23194
+        },
+        {
+            "title": "Cut-out Crucifix (detail)",
+            "date": "1410s",
+            "technique": "Tempera on wood 146 x 84 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/37monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23195
+        },
+        {
+            "title": "Virgin and Child Enthroned with Six Angels",
+            "date": "1415-20",
+            "technique": "Tempera on wood 147 x 82 cm",
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/38monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23196
+        },
+        {
+            "title": "St Jerome in the Wilderness",
+            "date": "-",
+            "technique": "Tempera on poplar panel 23 x 36 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/39monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23197
+        },
+        {
+            "title": "Diptych: St Jerome",
+            "date": "c. 1420",
+            "technique": "Panel 32 x 18 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/40monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23198
+        },
+        {
+            "title": "Diptych: Madonna of Humility",
+            "date": "c. 1420",
+            "technique": "Panel 228 x 178 cm",
+            "location": "Thorvaldsens Museum Copenhagen",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/41monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23199
+        },
+        {
+            "title": "Madonna of Humility",
+            "date": "1420-22",
+            "technique": "Tempera on panel 116 x 64 cm",
+            "location": "Brooklyn Museum New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/42monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23200
+        },
+        {
+            "title": "Marriage of the Virgin",
+            "date": "1420-24",
+            "technique": "Fresco 210 x 230 cm",
+            "location": "Santa Trinita Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/43monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23201
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1422",
+            "technique": "Tempera on wood 115 x 177 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/44monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23202
+        },
+        {
+            "title": "Adoration of the Magi (detail)",
+            "date": "c. 1422",
+            "technique": "Tempera on wood",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/45monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23203
+        },
+        {
+            "title": "Madonna and Child with Two Angels",
+            "date": "c. 1420",
+            "technique": "Tempera on panel 68 x 36 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/2/46monaco.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 23204
+        },
+        {
+            "title": "Antiphonary (Choir Book 5)",
+            "date": "1394",
+            "technique": "Tempera and gold on parchment",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/48monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23205
+        },
+        {
+            "title": "Antiphonary (Choir Book 5)",
+            "date": "1394",
+            "technique": "Tempera and gold on parchment",
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/49monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23206
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 1 folio 3)",
+            "date": "1396",
+            "technique": "Tempera and gold on parchment 463 x 480 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/50monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23207
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 1 folio 63)",
+            "date": "1396",
+            "technique": "Tempera and gold on parchment 223 x 204 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/51monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23208
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 1 folio 102)",
+            "date": "1396",
+            "technique": "Tempera and gold on parchment 343 x 302 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/52monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23209
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 1 folio 111v)",
+            "date": "1396",
+            "technique": "Tempera and gold on parchment 340 x 378 mm",
+            "location": "Biblioteca Apostolica Vatican",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/53monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23210
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 8 folio 102)",
+            "date": "1395-98",
+            "technique": "Tempera and gold on parchment 215 x 163 mm (initial)",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/54monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23211
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 8 folio 134)",
+            "date": "1395-98",
+            "technique": "Tempera and gold on parchment 344 x 414 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/55monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23212
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 7 folio 124v)",
+            "date": "1406",
+            "technique": "Tempera and gold on parchment 315 x 265 mm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/56monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23213
+        },
+        {
+            "title": "The Temptation of Christ",
+            "date": "c. 1410",
+            "technique": "Ink on parchment 120 x 219 mm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/57monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23214
+        },
+        {
+            "title": "Antiphonary (Cod. Cor. 3 folio 59)",
+            "date": "c. 1410",
+            "technique": "Tempera and gold on parchment mounted on panel 402 x 327 mm",
+            "location": "Bernard H. Breslauer New York",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/58monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23215
+        },
+        {
+            "title": "Gradual (Cod. H 74 folio 43r)",
+            "date": "c. 1410",
+            "technique": "Tempera and gold on parchment 131 x 129 mm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/59monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23216
+        },
+        {
+            "title": "Gradual (Cod. H 74 folio 122v)",
+            "date": "c. 1410",
+            "technique": "Tempera and gold on parchment 168 x 160 mm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/l/lorenzo/monaco/3/60monaco.html",
+            "form": "illumination",
+            "painting_type": "religious",
+            "index": 23217
+        }
+    ]
+}

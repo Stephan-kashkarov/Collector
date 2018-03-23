@@ -1,0 +1,88 @@
+{
+    "name": "NEEFFS Peeter the Younger",
+    "life": "(b. 1620 Antwerpen d. ca. 1675 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Interior of the Antwerp Cathedral",
+            "date": "1660s",
+            "technique": "Oil on canvas 49 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/antwerp.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29460
+        },
+        {
+            "title": "Interior of Antwerp Cathedral",
+            "date": "-",
+            "technique": "Oil on oak 72 x 105 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/antwerp1.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29461
+        },
+        {
+            "title": "Interior of the Onze Lieve Vrouwekerk in Antwerp",
+            "date": "-",
+            "technique": "Oil on copper backed with canvas 51 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/antwerp2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29462
+        },
+        {
+            "title": "Interior of a Gothic Church",
+            "date": "1636",
+            "technique": "Oil on canvas 45 x 59 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/gothic_c.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29463
+        },
+        {
+            "title": "Interior of a Church",
+            "date": "-",
+            "technique": "Oil on panel 39 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/gothic_e.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29464
+        },
+        {
+            "title": "Interior of a Cathedral",
+            "date": "1659",
+            "technique": "Oil on canvas 59 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/int_cath.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29465
+        },
+        {
+            "title": "Interior of a Gothic Church with Figures Attending Mass",
+            "date": "-",
+            "technique": "Oil on oak panel 50 x 65 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/int_goth.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29466
+        },
+        {
+            "title": "Interior of a Gothic Church",
+            "date": "1653",
+            "technique": "Oil on copper 13 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/n/neeffs/peeter_y/interior.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 29467
+        }
+    ]
+}

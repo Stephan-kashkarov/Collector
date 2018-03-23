@@ -1,0 +1,28 @@
+{
+    "name": "TIELIUS Johannes",
+    "life": "(b. ca. 1660 'sHertogenbosch d. 1719 London)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bagpipe Player Making Faces",
+            "date": "c. 1687",
+            "technique": "Oil on panel 25 x 20 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/t/tielius/bagpipe.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38862
+        },
+        {
+            "title": "Hurdy-Gurdy Player with an Old Woman",
+            "date": "1681",
+            "technique": "Oil on panel 35 x 29 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/t/tielius/hurdygur.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 38863
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "INWOOD William",
+    "life": "(b. 1766 London d. 1843 London)",
+    "school": "English",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1819-22",
+            "technique": "Photo",
+            "location": "St. Pancras New Church London",
+            "url": "https://www.wga.hu/html/i/inwood/pancras.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20383
+        },
+        {
+            "title": "Exterior view",
+            "date": "1819-22",
+            "technique": "Photo",
+            "location": "St. Pancras New Church London",
+            "url": "https://www.wga.hu/html/i/inwood/pancras1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 20384
+        }
+    ]
+}

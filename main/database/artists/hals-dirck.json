@@ -1,0 +1,168 @@
+{
+    "name": "HALS Dirck",
+    "life": "(b. 1591 Haarlem d. 1656 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Banquet Scene in a Renaissance Hall",
+            "date": "1628",
+            "technique": "Oil on wood",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/hals/dirk/banquet.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19065
+        },
+        {
+            "title": "A Banquet",
+            "date": "1628",
+            "technique": "Oil on wood 41 x 66",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/h/hals/dirk/banquet1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19066
+        },
+        {
+            "title": "An Elegant Company Playing Music",
+            "date": "1637",
+            "technique": "Oil on panel 56 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/dirk/company.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19067
+        },
+        {
+            "title": "Elegant Company in an Interior",
+            "date": "1639",
+            "technique": "Oil on panel 40 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/dirk/elegant.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 19068
+        },
+        {
+            "title": "A Garden Party",
+            "date": "1627",
+            "technique": "Oil on panel 78 x 137 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/h/hals/dirk/fetecham.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19069
+        },
+        {
+            "title": "Interior with Figures",
+            "date": "-",
+            "technique": "Oil on panel 36 x 48 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/dirk/figures.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 19070
+        },
+        {
+            "title": "Music-Making Company on a Terrace",
+            "date": "c. 1620",
+            "technique": "Oil on panel 53 x 84 cm",
+            "location": "Frans Halsmuseum Haarlem",
+            "url": "https://www.wga.hu/html/h/hals/dirk/garden_p.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19071
+        },
+        {
+            "title": "Merry Company",
+            "date": "-",
+            "technique": "Oil on panel 45 x 675 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/dirk/merr_com.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19072
+        },
+        {
+            "title": "Merry Company at Table",
+            "date": "1627-29",
+            "technique": "Oil on oak 28 x 44 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/h/hals/dirk/merry_co.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19073
+        },
+        {
+            "title": "A Merry Company Making Music",
+            "date": "1623",
+            "technique": "Oil on oak panel 23 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hals/dirk/merrycom.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19074
+        },
+        {
+            "title": "Merry Party in a Tavern",
+            "date": "1628",
+            "technique": "Oil on wood 28 x 36 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hals/dirk/merrypar.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19075
+        },
+        {
+            "title": "Musicians",
+            "date": "1623",
+            "technique": "Oil on wood 43 x 47 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/hals/dirk/musician.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19076
+        },
+        {
+            "title": "Merry Company in a Garden",
+            "date": "1621",
+            "technique": "Oil on oak panel 34 x 61 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hals/dirk/party.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19077
+        },
+        {
+            "title": "Amusing Party in the Open Air (detail)",
+            "date": "1621",
+            "technique": "Oil on canvas",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/h/hals/dirk/party_d.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19078
+        },
+        {
+            "title": "Woman Tearing a Letter",
+            "date": "1631",
+            "technique": "Oil on panel 45 x 55 cm",
+            "location": "Mittelrheinisches Landesmuseum Mainz",
+            "url": "https://www.wga.hu/html/h/hals/dirk/tearing.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19079
+        },
+        {
+            "title": "The Solo",
+            "date": "c. 1633",
+            "technique": "Oil on wood 39 x 30 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/hals/dirk/the_solo.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19080
+        }
+    ]
+}

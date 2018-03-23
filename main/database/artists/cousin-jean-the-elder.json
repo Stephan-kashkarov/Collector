@@ -1,0 +1,58 @@
+{
+    "name": "COUSIN Jean the Elder",
+    "life": "(b. ca. 1495 Soucy d. ca. 1560 Paris)",
+    "school": "French",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Charity",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/charity.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9939
+        },
+        {
+            "title": "Eva Prima Pandora",
+            "date": "c. 1550",
+            "technique": "Wood 97 x 150 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/evaprima.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9940
+        },
+        {
+            "title": "St Mammes and Duke Alexander",
+            "date": "1541",
+            "technique": "Tapestry 440 x 450 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/mammes.html",
+            "form": "tapestry",
+            "painting_type": "religious",
+            "index": 9941
+        },
+        {
+            "title": "The Rape of Europa",
+            "date": "c. 1550",
+            "technique": "Oil on wood 88 x 140 cm",
+            "location": "Mus\u00e9e du Ch\u00e2teau Blois",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/rape_eur.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 9942
+        },
+        {
+            "title": "Vessel",
+            "date": "1549",
+            "technique": "Drawing on vellum with watercolour highlights",
+            "location": "\u00c9cole Nationale Sup\u00e9rieure des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/vessel.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 9943
+        }
+    ]
+}

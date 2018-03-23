@@ -1,0 +1,28 @@
+{
+    "name": "URBINO Carlo",
+    "life": "(b. ca. 1520 Crema d. after 1585 Crema)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Art of Cooking (recto)",
+            "date": "-",
+            "technique": "Brown India ink over charcoal sketch 199 x 146 mm",
+            "location": "\u00c9cole Nationale Sup\u00e9rieur des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/u/urbino/cooking1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 41896
+        },
+        {
+            "title": "The Art of Cooking (verso)",
+            "date": "-",
+            "technique": "Brown India ink over charcoal sketch 199 x 146 mm",
+            "location": "\u00c9cole Nationale Sup\u00e9rieur des Beaux-Arts Paris",
+            "url": "https://www.wga.hu/html/u/urbino/cooking2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 41897
+        }
+    ]
+}

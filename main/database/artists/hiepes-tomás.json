@@ -1,0 +1,48 @@
+{
+    "name": "HIEPES Tom\u00e1s",
+    "life": "(b. ca. 1610 Valencia d. 1674 Valencia)",
+    "school": "Spanish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Still-Life with Fruit and Flowers",
+            "date": "1642",
+            "technique": "Oil on canvas 67 x 96 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hiepes/fruitflo.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19700
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "1643",
+            "technique": "Oil on canvas 115 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hiepes/vase1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19701
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "1646",
+            "technique": "Oil on canvas 115 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hiepes/vase2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19702
+        },
+        {
+            "title": "Garden View with a Dog",
+            "date": "1660s",
+            "technique": "Oil on canvas 109 x 155 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/h/hiepes/view_dog.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19703
+        }
+    ]
+}

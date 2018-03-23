@@ -1,0 +1,28 @@
+{
+    "name": "STOM Antonio",
+    "life": "(b. 1688 Venezia d. 1734 Venezia)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "View of the Piazza San Marco from the Procuratie Vecchie",
+            "date": "1720",
+            "technique": "Oil on panel 106 x 123 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom_a/sanmarco.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38056
+        },
+        {
+            "title": "Capriccio of a Port Scene with a Classical Arch",
+            "date": "1720s",
+            "technique": "Oil on canvas 45 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stom_a/scenearc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 38057
+        }
+    ]
+}

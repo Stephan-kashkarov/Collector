@@ -1,0 +1,28 @@
+{
+    "name": "GRIGOLETTI Michelangelo",
+    "life": "(b. 1801 Rorai Grande d. 1870 Venezia)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Portrait of the Palumbo-Fossati Family",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palumbo-Fossati Collection Venice",
+            "url": "https://www.wga.hu/html/g/grigolet/palumbo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 18511
+        },
+        {
+            "title": "Portrait of the Palumbo-Fossati Family (detail)",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Palumbo-Fossati Collection Venice",
+            "url": "https://www.wga.hu/html/g/grigolet/palumbo1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 18512
+        }
+    ]
+}

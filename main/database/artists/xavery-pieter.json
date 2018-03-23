@@ -1,0 +1,58 @@
+{
+    "name": "XAVERY Pieter",
+    "life": "(b. 1647 Antwerpen d. ca. 1680 Leiden)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Two Laughing Jesters",
+            "date": "1673",
+            "technique": "Terracotta height 45 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/x/xavery/2jesters.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44469
+        },
+        {
+            "title": "Bacchanal",
+            "date": "1671",
+            "technique": "Terracotta 37 x 61 x 23 cm",
+            "location": "Museum Meermanno-Westreenianum The Hague",
+            "url": "https://www.wga.hu/html/x/xavery/bacchan1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44470
+        },
+        {
+            "title": "Faun",
+            "date": "1671",
+            "technique": "Terracotta height 35 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/x/xavery/bacchan2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44471
+        },
+        {
+            "title": "Bacchus",
+            "date": "1671",
+            "technique": "Terracotta height 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/x/xavery/bacchan3.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44472
+        },
+        {
+            "title": "Hurdy-Gurdy Player",
+            "date": "1673",
+            "technique": "Terracotta height 31 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/x/xavery/hurdygur.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 44473
+        }
+    ]
+}

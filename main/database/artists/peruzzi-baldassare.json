@@ -1,0 +1,158 @@
+{
+    "name": "PERUZZI Baldassare",
+    "life": "(b. 1481 Ancaiano d. 1536 Roma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Ceiling decoration (Volta Dorata)",
+            "date": "c. 1519",
+            "technique": "Fresco",
+            "location": "Palazzo della Cancellaria Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/cancella.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 30889
+        },
+        {
+            "title": "View of the garden side",
+            "date": "1505-11",
+            "technique": "Photo",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnes.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30890
+        },
+        {
+            "title": "View of the garden side",
+            "date": "1505-11",
+            "technique": "Photo",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesa.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30891
+        },
+        {
+            "title": "View of the main front",
+            "date": "1505-11",
+            "technique": "Photo",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30892
+        },
+        {
+            "title": "View of the Loggia di Galatea",
+            "date": "1510-11",
+            "technique": "Fresco",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi0.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 30893
+        },
+        {
+            "title": "Ceiling decoration",
+            "date": "c. 1511",
+            "technique": "Fresco",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30894
+        },
+        {
+            "title": "Perseus and Pegasus",
+            "date": "1510-11",
+            "technique": "Fresco",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30895
+        },
+        {
+            "title": "Perspective view of the Sala delle Prospettive",
+            "date": "1515-17",
+            "technique": "Fresco",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi3.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30896
+        },
+        {
+            "title": "Perspective view of the Sala delle Prospettive",
+            "date": "1515-17",
+            "technique": "Frescoes",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30897
+        },
+        {
+            "title": "Perspective view of the Sala delle Prospettive",
+            "date": "1515-17",
+            "technique": "Frescoes",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30898
+        },
+        {
+            "title": "Decoration of the Sala delle Prospettive",
+            "date": "1515-17",
+            "technique": "Frescoes",
+            "location": "Villa Farnesina Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/farnesi6.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30899
+        },
+        {
+            "title": "Tomb of Pope Hadrian VI",
+            "date": "1524-29",
+            "technique": "Marble",
+            "location": "Santa Maria dell'Anima Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/hadrian6.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 30900
+        },
+        {
+            "title": "Apollo and the Muses",
+            "date": "1514-23",
+            "technique": "Oil on wood 35 x 78 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/p/peruzzi/muses.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 30901
+        },
+        {
+            "title": "Wall paintings",
+            "date": "1504-06",
+            "technique": "Fresco",
+            "location": "Sant'Onofrio Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/onofrio.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 30902
+        },
+        {
+            "title": "Exterior view",
+            "date": "1532-36",
+            "technique": "Photo",
+            "location": "Palazzo Massimo alle Colonne Rome",
+            "url": "https://www.wga.hu/html/p/peruzzi/zmassimo.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30903
+        }
+    ]
+}

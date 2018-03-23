@@ -1,0 +1,128 @@
+{
+    "name": "GHISLANDI Giuseppe",
+    "life": "(b. 1655 Bergamo d. 1743 Bergamo)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "c. 1740",
+            "technique": "Oil on canvas 109 x 87 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/g/ghisland/gentlema.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15641
+        },
+        {
+            "title": "Young Painter in His Studio",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 92 x 73 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/g/ghisland/painter.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 15642
+        },
+        {
+            "title": "Portrait of a Boy",
+            "date": "1730s",
+            "technique": "Oil on canvas 67 x 52 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/g/ghisland/port_boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15643
+        },
+        {
+            "title": "Portrait of Francesco Maria Bruntino",
+            "date": "1737",
+            "technique": "Oil on canvas 93 x 81 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/g/ghisland/port_bru.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15644
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1715-20",
+            "technique": "Oil on canvas 112 x 89 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/g/ghisland/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15645
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "c. 1730",
+            "technique": "Oil on canvas127 x 98 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/g/ghisland/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15646
+        },
+        {
+            "title": "Portrait of an Order of St Stephen's Knight",
+            "date": "c. 1725",
+            "technique": "Oil on oval canvas 141 x 103 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/ghisland/portknig.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15647
+        },
+        {
+            "title": "Portrait of a Youth",
+            "date": "c. 1730",
+            "technique": "Oil on canvas 76 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/ghisland/poryouth.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15648
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "1732",
+            "technique": "Oil on canvas 73 x 58 cm",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/g/ghisland/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15649
+        },
+        {
+            "title": "Portrait of Giovanni Secco Suardo and his Servant",
+            "date": "1720s",
+            "technique": "Oil on canvas",
+            "location": "Accademia Carrara Bergamo",
+            "url": "https://www.wga.hu/html/g/ghisland/suardo.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15650
+        },
+        {
+            "title": "Portrait of Count Galeazzo Secco Suardo (1681-1733)",
+            "date": "1710s",
+            "technique": "Oil on canvas 120 x 90 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/g/ghisland/suardo1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15651
+        },
+        {
+            "title": "Portrait of Count Giovanni Battista Vailetti",
+            "date": "c. 1710",
+            "technique": "Oil on canvas 226 x 137 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/g/ghisland/vailetti.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 15652
+        }
+    ]
+}

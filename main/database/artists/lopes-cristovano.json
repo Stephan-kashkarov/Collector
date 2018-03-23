@@ -1,0 +1,28 @@
+{
+    "name": "LOPES Cristovano",
+    "life": "(b. ca. 1516 Lisboa d. 1570 Lisboa)",
+    "school": "Portuguese",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Portrait of Queen Catherine of Austria",
+            "date": "c. 1550",
+            "technique": "Oil on canvas 178 x 84 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/l/lopes/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23012
+        },
+        {
+            "title": "Portrait of Don Joao III",
+            "date": "c. 1545",
+            "technique": "Oil on canvas 177 x 91 cm",
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "url": "https://www.wga.hu/html/l/lopes/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 23013
+        }
+    ]
+}

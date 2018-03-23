@@ -1,0 +1,28 @@
+{
+    "name": "JACOPINO DA TRADATE",
+    "life": "(active 1401-1440 in Milan and Mantua)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Marble",
+            "location": "Castello Sforzesco Milan",
+            "url": "https://www.wga.hu/html/j/jacopino/mad_child.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20470
+        },
+        {
+            "title": "Pope Martin V",
+            "date": "1419-21",
+            "technique": "Marble twice life-size",
+            "location": "Cathedral Milan",
+            "url": "https://www.wga.hu/html/j/jacopino/martin_5.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 20471
+        }
+    ]
+}

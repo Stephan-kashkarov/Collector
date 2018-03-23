@@ -1,0 +1,58 @@
+{
+    "name": "MAGINI Carlo",
+    "life": "(b. 1720 Fano d. 1806 Fano)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Still-Life with Ham",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/magini/stil_ham.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23608
+        },
+        {
+            "title": "Still-Life",
+            "date": "1760s",
+            "technique": "Oil on canvas 55 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/magini/stillif1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23609
+        },
+        {
+            "title": "Still-Life",
+            "date": "1760s",
+            "technique": "Oil on canvas 55 x 84 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/magini/stillif2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23610
+        },
+        {
+            "title": "Still-Life with Eggs Cabbage and Candlestick",
+            "date": "-",
+            "technique": "Oil on canvas 61 x 78 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/magini/stillif3.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23611
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/magini/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 23612
+        }
+    ]
+}

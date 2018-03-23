@@ -1,0 +1,48 @@
+{
+    "name": "ZWIRNER Ernst Friedrich",
+    "life": "(b. 1802 Jakobswalde d. 1861 K\u00f6ln)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1854-62",
+            "technique": "Photo",
+            "location": "Castle Moyland Bedburg-Hau",
+            "url": "https://www.wga.hu/html/z/zwirner/moyland1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44806
+        },
+        {
+            "title": "Exterior view",
+            "date": "1854-62",
+            "technique": "Photo",
+            "location": "Castle Moyland Bedburg-Hau",
+            "url": "https://www.wga.hu/html/z/zwirner/moyland2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44807
+        },
+        {
+            "title": "Exterior view",
+            "date": "1854-62",
+            "technique": "Photo",
+            "location": "Castle Moyland Bedburg-Hau",
+            "url": "https://www.wga.hu/html/z/zwirner/moyland3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44808
+        },
+        {
+            "title": "Exterior view",
+            "date": "1839-43",
+            "technique": "Photo",
+            "location": "St. Apollinaris Remagen",
+            "url": "https://www.wga.hu/html/z/zwirner/remagen.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 44809
+        }
+    ]
+}

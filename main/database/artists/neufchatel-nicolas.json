@@ -1,0 +1,58 @@
+{
+    "name": "NEUFCHATEL Nicolas",
+    "life": "(b. ca. 1527 Hennegau d. 1590 N\u00fcrnberg)",
+    "school": "Flemish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Emperor Maximilian II",
+            "date": "after 1566",
+            "technique": "Oil on panel diameter 20 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/n/neufchat/maximili.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29539
+        },
+        {
+            "title": "Portrait of Johannes Neud\u00f6rfer and his Pupil",
+            "date": "-",
+            "technique": "Oil on canvas 101 x 92 cm",
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "url": "https://www.wga.hu/html/n/neufchat/neudorfe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29540
+        },
+        {
+            "title": "Portrait of a Patrician",
+            "date": "1567",
+            "technique": "Oil on canvas 90 x 69 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/n/neufchat/patrici.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29541
+        },
+        {
+            "title": "Portrait of Hendrik Pilgram",
+            "date": "1561",
+            "technique": "Oil on canvas 1805 x 94 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/n/neufchat/pilgram.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29542
+        },
+        {
+            "title": "Portrait of the Wife of Hendrik Pilgram",
+            "date": "1561",
+            "technique": "Oil on canvas 180 x 94 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/n/neufchat/pilgram1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 29543
+        }
+    ]
+}

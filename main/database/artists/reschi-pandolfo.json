@@ -1,0 +1,28 @@
+{
+    "name": "RESCHI Pandolfo",
+    "life": "(b. ca. 1640 Gdansk d. 1696 Firenze)",
+    "school": "Polish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Diana and Endymion",
+            "date": "-",
+            "technique": "Oil on canvas 53 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/reschi/dianaend.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 34118
+        },
+        {
+            "title": "View of the Palazzo Pitti",
+            "date": "1668-69",
+            "technique": "Oil on canvas 146 x 248 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/r/reschi/pittipal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34119
+        }
+    ]
+}

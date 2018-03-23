@@ -1,0 +1,78 @@
+{
+    "name": "STIELER Karl Joseph",
+    "life": "(b. 1781 Mainz d. 1858 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Amalie von Schintling",
+            "date": "1831",
+            "technique": "Oil on canvas",
+            "location": "Schloss Nymphenburg Munich",
+            "url": "https://www.wga.hu/html/s/stieler/amalie.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38041
+        },
+        {
+            "title": "Portrait of the Family of Joseph Duke of Saxe-Altenburg",
+            "date": "1848",
+            "technique": "Oil on canvas 229 x 277 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/s/stieler/family.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38042
+        },
+        {
+            "title": "Johann Wolfgang von Goethe",
+            "date": "1828",
+            "technique": "Oil on canvas 780 x 638 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/stieler/goethe.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38043
+        },
+        {
+            "title": "King Ludwig I in his Coronation Robes",
+            "date": "1826",
+            "technique": "Oil on canvas 244 x 171 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/s/stieler/ludwig1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38044
+        },
+        {
+            "title": "Nanette Heine n\u00e9e Kaula",
+            "date": "1829",
+            "technique": "Oil on canvas",
+            "location": "Schloss Nymphenburg Munich",
+            "url": "https://www.wga.hu/html/s/stieler/nanette.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38045
+        },
+        {
+            "title": "Portrait of Prince Karl of Bavaria",
+            "date": "c. 1817",
+            "technique": "Oil on canvas 69 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stieler/prince.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38046
+        },
+        {
+            "title": "Portrait of Therese Alexandra Freifrau von Tettenborn",
+            "date": "1815",
+            "technique": "Oil on canvas 67 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/stieler/therese.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 38047
+        }
+    ]
+}

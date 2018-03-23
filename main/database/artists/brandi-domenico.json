@@ -1,0 +1,38 @@
+{
+    "name": "BRANDI Domenico",
+    "life": "(b. 1683 Napoli d. 1736 Napoli)",
+    "school": "Italian",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Southern Landscape",
+            "date": "-",
+            "technique": "Oil on canvas120 x 170 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brandi_d/landsca1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5981
+        },
+        {
+            "title": "Southern Landscape",
+            "date": "-",
+            "technique": "Oil on canvas120 x 170 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/brandi_d/landsca2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 5982
+        },
+        {
+            "title": "Pastoral Scene",
+            "date": "1730",
+            "technique": "Oil on canvas 74 x 101 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/brandi_d/pastoral.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 5983
+        }
+    ]
+}

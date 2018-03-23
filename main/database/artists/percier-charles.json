@@ -1,0 +1,48 @@
+{
+    "name": "PERCIER Charles",
+    "life": "(b. 1764 Paris d. 1838 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "General view",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Arc de Triomphe du Carrousel Paris",
+            "url": "https://www.wga.hu/html/p/percier/carrouse.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30649
+        },
+        {
+            "title": "Bedroom of Napoleon's Wife Josephine",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "url": "https://www.wga.hu/html/p/percier/malmais1.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30650
+        },
+        {
+            "title": "Library",
+            "date": "1803",
+            "technique": "Photo",
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "url": "https://www.wga.hu/html/p/percier/malmais2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 30651
+        },
+        {
+            "title": "General view",
+            "date": "begun 1802",
+            "technique": "Photo",
+            "location": "Rue de Rivoli Paris",
+            "url": "https://www.wga.hu/html/p/percier/rivoli.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 30652
+        }
+    ]
+}

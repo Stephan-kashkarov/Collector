@@ -1,0 +1,78 @@
+{
+    "name": "GHERARDI Cristofano",
+    "life": "(b. 1508 Borgo San Sepolcro d. 1556 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Transfiguration",
+            "date": "1555",
+            "technique": "Fresco",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/g/gherardj/cortona1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15321
+        },
+        {
+            "title": "Conversion of St Paul",
+            "date": "1555",
+            "technique": "Fresco",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/g/gherardj/cortona2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15322
+        },
+        {
+            "title": "Descent to Limbo",
+            "date": "1555",
+            "technique": "Fresco",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/g/gherardj/cortona3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15323
+        },
+        {
+            "title": "Abraham",
+            "date": "1555",
+            "technique": "Fresco",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/g/gherardj/cortona4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15324
+        },
+        {
+            "title": "Isaac",
+            "date": "1555",
+            "technique": "Fresco",
+            "location": "Museo Diocesano Cortona",
+            "url": "https://www.wga.hu/html/g/gherardj/cortona5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 15325
+        },
+        {
+            "title": "Festoon decoration (detail)",
+            "date": "1550s",
+            "technique": "Fresco",
+            "location": "Palazzo Vitelli a Sant'Egidio Citt\u00e0 di Castello",
+            "url": "https://www.wga.hu/html/g/gherardj/festoon1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15326
+        },
+        {
+            "title": "Festoon decoration (detail)",
+            "date": "1550s",
+            "technique": "Fresco",
+            "location": "Palazzo Vitelli a Sant'Egidio Citt\u00e0 di Castello",
+            "url": "https://www.wga.hu/html/g/gherardj/festoon2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 15327
+        }
+    ]
+}

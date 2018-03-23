@@ -1,0 +1,68 @@
+{
+    "name": "BAROIS Fran\u00e7ois",
+    "life": "(b. 1656 Paris d. 1726 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Cleopatra Dying",
+            "date": "1700",
+            "technique": "Marble 48 x 101 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/cleopat1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3222
+        },
+        {
+            "title": "Cleopatra Dying",
+            "date": "1700",
+            "technique": "Marble 48 x 101 x 29 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/cleopat2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3223
+        },
+        {
+            "title": "Pomona",
+            "date": "1706-09",
+            "technique": "Marble height 173 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/pomona.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3224
+        },
+        {
+            "title": "Callipygian Venus",
+            "date": "1683-86",
+            "technique": "Marble height 176 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/venus.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3225
+        },
+        {
+            "title": "Vertumnus",
+            "date": "-",
+            "technique": "Marble height 292 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/vertpom1.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3226
+        },
+        {
+            "title": "Pomona",
+            "date": "-",
+            "technique": "Marble height 292 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/b/barois/vertpom2.html",
+            "form": "sculpture",
+            "painting_type": "mythological",
+            "index": 3227
+        }
+    ]
+}

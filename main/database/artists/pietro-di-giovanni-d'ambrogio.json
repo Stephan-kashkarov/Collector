@@ -1,0 +1,88 @@
+{
+    "name": "PIETRO DI GIOVANNI D'AMBROGIO",
+    "life": "(b. ca. 1410 Siena d. 1449 Siena)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "c. 1445",
+            "technique": "Tempera on wood",
+            "location": "Museo d'Arte Sacra Asciano",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31314
+        },
+        {
+            "title": "Virigin and Child",
+            "date": "1435-40",
+            "technique": "Tempera and tooled gold on poplar panel 98 x 53 cm",
+            "location": "Brooklyn Museum New York",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31315
+        },
+        {
+            "title": "St Augustin",
+            "date": "1435-40",
+            "technique": "Tempera on wood 96 x 37 cm",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31316
+        },
+        {
+            "title": "St Augustin (detail)",
+            "date": "1435-40",
+            "technique": "Tempera on wood",
+            "location": "Lindenau-Museum Altenburg",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_21.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31317
+        },
+        {
+            "title": "Departure of St Augustin",
+            "date": "1435-40",
+            "technique": "Tempera on wood 29 x 35 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_p1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31318
+        },
+        {
+            "title": "Entry of Christ to Jerusalem",
+            "date": "1435-40",
+            "technique": "Tempera on wood 29 x 65 cm",
+            "location": "Pinacoteca Stuard Parma",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_p2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31319
+        },
+        {
+            "title": "Birth of St Nicholas",
+            "date": "1435-40",
+            "technique": "Tempera on wood 43 x 49 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/altar_p3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31320
+        },
+        {
+            "title": "The Virgin Mary",
+            "date": "-",
+            "technique": "Tempera on wood 47 x 30 cm",
+            "location": "Christian Museum Esztergom",
+            "url": "https://www.wga.hu/html/p/pietro/giovanni/virgin.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 31321
+        }
+    ]
+}

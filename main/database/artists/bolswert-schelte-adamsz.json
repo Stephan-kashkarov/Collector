@@ -1,0 +1,38 @@
+{
+    "name": "BOLSWERT Schelte Adamsz.",
+    "life": "(b. ca. 1586 Bolsward d. 1659 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "As the Old Sang So Pipe the Young",
+            "date": "1638",
+            "technique": "Engraving",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/b/bolswert/schelte/astheold.html",
+            "form": "graphics",
+            "painting_type": "genre",
+            "index": 4931
+        },
+        {
+            "title": "Adriaen Brouwer",
+            "date": "1644",
+            "technique": "Engraving",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/b/bolswert/schelte/brouwer.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 4932
+        },
+        {
+            "title": "Landscape with Philemon and Baucis",
+            "date": "-",
+            "technique": "Engraving 484 x 646 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/b/bolswert/schelte/philemon.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 4933
+        }
+    ]
+}

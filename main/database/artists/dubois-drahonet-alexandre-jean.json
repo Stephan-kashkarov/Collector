@@ -1,0 +1,38 @@
+{
+    "name": "DUBOIS-DRAHONET Alexandre-Jean",
+    "life": "(b. 1791 Paris d. 1829 Versailles)",
+    "school": "French",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Female Nude Front View",
+            "date": "1831",
+            "technique": "Oil on canvas 82 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duboisdr/nude1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 12139
+        },
+        {
+            "title": "Female Nude Back View",
+            "date": "1831",
+            "technique": "Oil on canvas 92 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/d/duboisdr/nude2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 12140
+        },
+        {
+            "title": "Portraits of the Princess Marie de Valois",
+            "date": "1828",
+            "technique": "Oil on canvas",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/d/duboisdr/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 12141
+        }
+    ]
+}

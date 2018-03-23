@@ -1,0 +1,88 @@
+{
+    "name": "UTRECHT Adriaen van",
+    "life": "(b. 1599 Antwerpen d. 1652 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Fishmonger's Stall",
+            "date": "-",
+            "technique": "Oil on canvas 215 298 cm",
+            "location": "Museum voor Schone Kunsten Ghent",
+            "url": "https://www.wga.hu/html/u/utrecht/fishmong.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 41905
+        },
+        {
+            "title": "The Pantry",
+            "date": "1642",
+            "technique": "Oil on canvas 221 x 307 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/u/utrecht/pantry.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41906
+        },
+        {
+            "title": "Still-Life",
+            "date": "1620s",
+            "technique": "Oil on canvas 67 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/u/utrecht/stilfrui.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41907
+        },
+        {
+            "title": "Still-Life with Grapes",
+            "date": "1640s",
+            "technique": "Oil on canvas 119 x 99 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/u/utrecht/stilgrap.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41908
+        },
+        {
+            "title": "Still-Life with Hare and Birds on a Ring",
+            "date": "1646-49",
+            "technique": "Oil on canvas 86 x 117 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/u/utrecht/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41909
+        },
+        {
+            "title": "Still-Life",
+            "date": "1641",
+            "technique": "Oil on canvas 76 x 119 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/u/utrecht/stillveg.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41910
+        },
+        {
+            "title": "Vanitas Still-Life with a Bouquet and a Skull",
+            "date": "c. 1642",
+            "technique": "Oil on canvas 67 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/u/utrecht/vanitas.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 41911
+        },
+        {
+            "title": "A Variety of Birds",
+            "date": "-",
+            "technique": "Oil on canvas 117 x 166 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/u/utrecht/varbirds.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 41912
+        }
+    ]
+}

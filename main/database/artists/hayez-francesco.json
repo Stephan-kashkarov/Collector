@@ -1,0 +1,238 @@
+{
+    "name": "HAYEZ Francesco",
+    "life": "(b. 1791 Venezia d. 1882 Milano)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Rinaldo and Armida",
+            "date": "1812-13",
+            "technique": "Oil on canvas",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/h/hayez/1hayez.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19364
+        },
+        {
+            "title": "Self-Portrait in a Group of Friends",
+            "date": "1824-27",
+            "technique": "Oil on canvas 33 x 30 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/h/hayez/21hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19365
+        },
+        {
+            "title": "Self-Portrait in a Group of Friends (detail)",
+            "date": "1824-27",
+            "technique": "Oil on canvas",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/h/hayez/22hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19366
+        },
+        {
+            "title": "Carolina Zucchi",
+            "date": "1825",
+            "technique": "Oil on canvas 60 x 53 cm",
+            "location": "Museo Civico Turin",
+            "url": "https://www.wga.hu/html/h/hayez/23hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19367
+        },
+        {
+            "title": "The Refugees of Parga",
+            "date": "1831",
+            "technique": "Oil on canvas 201 x 290 cm",
+            "location": "Pinacoteca Civica Brescia",
+            "url": "https://www.wga.hu/html/h/hayez/2hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19368
+        },
+        {
+            "title": "Portrait of Alessandro Manzoni",
+            "date": "1841",
+            "technique": "Oil on canvas 118 x 92 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/3hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19369
+        },
+        {
+            "title": "Crusaders Thirsting near Jerusalem",
+            "date": "1836-50",
+            "technique": "Oil on canvas",
+            "location": "Palazzo Reale Turin",
+            "url": "https://www.wga.hu/html/h/hayez/4hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19370
+        },
+        {
+            "title": "The Sicilian Vespers",
+            "date": "1845-46",
+            "technique": "Oil on canvas 255 x 300 cm",
+            "location": "Galleria Nazionale d'Arte Moderna e Contemporanea Rome",
+            "url": "https://www.wga.hu/html/h/hayez/51hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19371
+        },
+        {
+            "title": "Meditation on the History of Italy",
+            "date": "1850",
+            "technique": "Oil on canvas 90 x 70 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/h/hayez/5hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19372
+        },
+        {
+            "title": "Portrait of Signora Matilde Branca",
+            "date": "1851",
+            "technique": "Oil on canvas 120 x 94 cm",
+            "location": "Galleria d'Arte Moderna Milan",
+            "url": "https://www.wga.hu/html/h/hayez/60hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19373
+        },
+        {
+            "title": "The Two Foscari",
+            "date": "c. 1852",
+            "technique": "Oil on canvas 121 x 168 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/h/hayez/61hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19374
+        },
+        {
+            "title": "The Kiss",
+            "date": "1859",
+            "technique": "Oil on canvas 112 x 88 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/6hayez.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 19375
+        },
+        {
+            "title": "Portrait of Gian Giacomo Poldi Pezzoli",
+            "date": "c. 1851",
+            "technique": "Oil on canvas 120 x 94 cm",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/h/hayez/71hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19376
+        },
+        {
+            "title": "Portrait of Gian Giacomo Poldi Pezzoli (detail)",
+            "date": "c. 1851",
+            "technique": "Oil on canvas",
+            "location": "Museo Poldi Pezzoli Milan",
+            "url": "https://www.wga.hu/html/h/hayez/72hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19377
+        },
+        {
+            "title": "Portrait of Teresa Barri Stampa",
+            "date": "1849",
+            "technique": "Oil on canvas 117 x 92 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/73hayez.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19378
+        },
+        {
+            "title": "Flowers",
+            "date": "-",
+            "technique": "Oil on canvas 124 x 95 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/74hayez.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 19379
+        },
+        {
+            "title": "The Last Moments of Doge Marin Faliero",
+            "date": "1867",
+            "technique": "Oil on canvas 238 x 192 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/75hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19380
+        },
+        {
+            "title": "Odalisque",
+            "date": "1867",
+            "technique": "Oil on canvas 82 x 68 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/h/hayez/76hayez.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19381
+        },
+        {
+            "title": "Socrates Discovers Alcibiades in the Women's Quarters",
+            "date": "-",
+            "technique": "Fresco",
+            "location": "Palazzo Papadopoli Santa Marina Venice",
+            "url": "https://www.wga.hu/html/h/hayez/77hayez.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 19382
+        },
+        {
+            "title": "Tethys Immerses Achilles in the Waters of Styx",
+            "date": "1817",
+            "technique": "Detached fresco 240 x 137 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/h/hayez/7hayez.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19383
+        },
+        {
+            "title": "Mercury Gives Paris the Apple of Discord",
+            "date": "1817",
+            "technique": "Detached fresco 220 x 137 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/h/hayez/7hayez1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 19384
+        },
+        {
+            "title": "Wall Decoration (detail)",
+            "date": "1817",
+            "technique": "Tempera on wall",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/h/hayez/8hayez1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19385
+        },
+        {
+            "title": "Wall Decoration (detail)",
+            "date": "1817",
+            "technique": "Tempera on wall",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/h/hayez/8hayez2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19386
+        }
+    ]
+}

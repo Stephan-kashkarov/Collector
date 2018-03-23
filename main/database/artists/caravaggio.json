@@ -1,0 +1,1858 @@
+{
+    "name": "CARAVAGGIO",
+    "life": "(b. 1571 Caravaggio d. 1610 Porto Ercole)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Sick Bacchus",
+            "date": "c. 1593",
+            "technique": "Oil on canvas 67 x 53 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/01bacch.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7453
+        },
+        {
+            "title": "Boy Peeling a Fruit",
+            "date": "c. 1593",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Fondazione di Studi di Storia dell'Arte Roberto Longhi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/01/02peelin.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7454
+        },
+        {
+            "title": "Boy with a Basket of Fruit",
+            "date": "c. 1593",
+            "technique": "Oil on canvas 70 x 67 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/03boy.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7455
+        },
+        {
+            "title": "Boy with a Basket of Fruit",
+            "date": "c. 1593",
+            "technique": "Oil on canvas 70 x 67 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/03boy_fr.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7456
+        },
+        {
+            "title": "Boy with a Basket of Fruit (detail)",
+            "date": "c. 1593",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/03boy_ft.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7457
+        },
+        {
+            "title": "Boy with a Basket of Fruit (detail)",
+            "date": "c. 1593",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/03boy_fv.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7458
+        },
+        {
+            "title": "Boy Bitten by a Lizard",
+            "date": "c. 1594",
+            "technique": "Oil on canvas 66 x 495 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/01/041boy.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7459
+        },
+        {
+            "title": "Boy Bitten by a Lizard (detail)",
+            "date": "c. 1594",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/01/041boy1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7460
+        },
+        {
+            "title": "Boy Bitten by a Lizard",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 66 x 52 cm",
+            "location": "Fondazione di Studi di Storia dell'Arte Roberto Longhi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/01/042boy.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7461
+        },
+        {
+            "title": "St Francis in Ecstasy",
+            "date": "c. 1595",
+            "technique": "Oil on canvas 93 x 128 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/c/caravagg/01/05franc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7462
+        },
+        {
+            "title": "St Francis in Ecstasy (detail)",
+            "date": "c. 1595",
+            "technique": "Oil on canvas",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/c/caravagg/01/05franc1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7463
+        },
+        {
+            "title": "The Musicians",
+            "date": "1595-96",
+            "technique": "Oil on canvas 92 x 1185 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/01/06concer.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7464
+        },
+        {
+            "title": "The Musicians (detail)",
+            "date": "1595-96",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/01/06concx.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7465
+        },
+        {
+            "title": "The Fortune Teller",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 115 x 150 cm",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/01/07fortun.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7466
+        },
+        {
+            "title": "The Cardsharps",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 92 x 129 cm",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/c/caravagg/01/08cardsh.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7467
+        },
+        {
+            "title": "The Cardsharps (detail)",
+            "date": "c. 1596",
+            "technique": "Oil on canvas",
+            "location": "Kimbell Art Museum Fort Worth",
+            "url": "https://www.wga.hu/html/c/caravagg/01/08cardsx.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7468
+        },
+        {
+            "title": "The Lute Player",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 102 x 130 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/01/091lute.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7469
+        },
+        {
+            "title": "The Lute Player (detail)",
+            "date": "c. 1600",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/01/091lute1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7470
+        },
+        {
+            "title": "Lute Player",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 94 x 119 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/caravagg/01/092lute.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7471
+        },
+        {
+            "title": "Lute Player (detail)",
+            "date": "c. 1596",
+            "technique": "Oil on canvas",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/c/caravagg/01/092lute1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7472
+        },
+        {
+            "title": "Bacchus",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 95 x 85 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/01/10bacch.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7473
+        },
+        {
+            "title": "Bacchus (detail)",
+            "date": "c. 1596",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/01/10bacch1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7474
+        },
+        {
+            "title": "Bacchus (detail)",
+            "date": "c. 1596",
+            "technique": "Oil on canvas height of detail: 25 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/01/10bacch2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7475
+        },
+        {
+            "title": "The Fortune Teller",
+            "date": "1596-97",
+            "technique": "Oil on canvas 99 x 131 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/02/11fortu.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7476
+        },
+        {
+            "title": "The Fortune Teller (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas width of detail: 44 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/02/11fortu1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7477
+        },
+        {
+            "title": "The Fortune Teller (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas width of detail: 38 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/02/11fortu2.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7478
+        },
+        {
+            "title": "Mary Magdalene",
+            "date": "1596-97",
+            "technique": "Oil on canvas 123 x 99 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/12magda.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7479
+        },
+        {
+            "title": "Magdalene (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas width of detail: 30 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/12magda1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7480
+        },
+        {
+            "title": "Rest on Flight to Egypt",
+            "date": "1596-97",
+            "technique": "Oil on canvas 1335 x 1665 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/13fligh.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7481
+        },
+        {
+            "title": "Rest on Flight to Egypt (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/13fligh1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7482
+        },
+        {
+            "title": "Rest on Flight to Egypt (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas width of detail 48 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/13fligh2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7483
+        },
+        {
+            "title": "Rest on Flight to Egypt (detail)",
+            "date": "1596-97",
+            "technique": "Oil on canvas width of detail 48 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/02/13fligh3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7484
+        },
+        {
+            "title": "Basket of Fruit",
+            "date": "c. 1597",
+            "technique": "Oil on canvas 31 x 47 cm",
+            "location": "Pinacoteca Ambrosiana Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/02/14basket.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 7485
+        },
+        {
+            "title": "St Catherine of Alexandria",
+            "date": "c. 1598",
+            "technique": "Oil on canvas 173 x 133 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/c/caravagg/02/15cather.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7486
+        },
+        {
+            "title": "Martha and Mary Magdalene",
+            "date": "c. 1598",
+            "technique": "Oil on canvas 98 x 133 cm",
+            "location": "Institute of Arts Detroit",
+            "url": "https://www.wga.hu/html/c/caravagg/02/16martha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7487
+        },
+        {
+            "title": "Judith Beheading Holofernes",
+            "date": "c. 1598",
+            "technique": "Oil on canvas 145 x 195 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/17judit.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7488
+        },
+        {
+            "title": "Judith Beheading Holofernes (detail)",
+            "date": "c. 1598",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/17judit1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7489
+        },
+        {
+            "title": "Judith Beheading Holofernes (detail)",
+            "date": "c. 1598",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/17judit2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7490
+        },
+        {
+            "title": "Judith Beheading Holofernes (detail)",
+            "date": "c. 1598",
+            "technique": "Oil on canvas",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/17judith0.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7491
+        },
+        {
+            "title": "Portrait of a Courtesan",
+            "date": "c. 1598",
+            "technique": "Oil on canvas 66 x 53 cm",
+            "location": "Formerly Kaiser-Friedrich-Museum Berlin",
+            "url": "https://www.wga.hu/html/c/caravagg/03/18phylli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7492
+        },
+        {
+            "title": "Taking of Christ",
+            "date": "c. 1602",
+            "technique": "Oil on canvas 134 x 170 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/c/caravagg/03/191captu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7493
+        },
+        {
+            "title": "Taking of Christ (detail)",
+            "date": "c. 1602",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/c/caravagg/03/192capta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7494
+        },
+        {
+            "title": "Taking of Christ (detail)",
+            "date": "c. 1602",
+            "technique": "Oil on canvas",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/c/caravagg/03/192capti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7495
+        },
+        {
+            "title": "The Taking of Christ",
+            "date": "c. 1598",
+            "technique": "Oil on canvas 133 x 171 cm",
+            "location": "Museum of Western European and Oriental Art Odessa",
+            "url": "https://www.wga.hu/html/c/caravagg/03/192captu.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7496
+        },
+        {
+            "title": "Head of Medusa",
+            "date": "1598-99",
+            "technique": "Oil on canvas mounted on wood diameter 58 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/03/20medusa.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7497
+        },
+        {
+            "title": "Narcissus",
+            "date": "1598-99",
+            "technique": "Oil on canvas 110 x 92 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/21narcis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7498
+        },
+        {
+            "title": "Portrait of Maffeo Barberini",
+            "date": "1599",
+            "technique": "Oil on canvas 124 x 90 cm",
+            "location": "Private collection Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/03/22barber.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7499
+        },
+        {
+            "title": "St John the Baptist (Youth with Ram)",
+            "date": "1602",
+            "technique": "Oil on canvas 129 x 94 cm",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/271y_ram.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7500
+        },
+        {
+            "title": "St John the Baptist (Youth with Ram)",
+            "date": "1602",
+            "technique": "Oil on canvas 129 x 94 cm",
+            "location": "Pinacoteca Capitolina Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/271y_ran.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7501
+        },
+        {
+            "title": "St John the Baptist (Youth with Ram)",
+            "date": "c. 1602",
+            "technique": "Oil on canvas 132 x 97 cm",
+            "location": "Galleria Doria Pamphilj Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/03/272y_ram.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7502
+        },
+        {
+            "title": "Interior view of the chapel",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23cont1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7503
+        },
+        {
+            "title": "Interior view of the chapel",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23cont2.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7504
+        },
+        {
+            "title": "The Calling of Saint Matthew",
+            "date": "1599-1600",
+            "technique": "Oil on canvas 322 x 340 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7505
+        },
+        {
+            "title": "The Calling of Saint Matthew",
+            "date": "1599-1600",
+            "technique": "Oil on canvas 322 x 340 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7506
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 86 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7507
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 92 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7508
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7509
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7510
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 30 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7511
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7512
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta7.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7513
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta8.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7514
+        },
+        {
+            "title": "The Calling of Saint Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/23conta9.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7515
+        },
+        {
+            "title": "The Martyrdom of St Matthew",
+            "date": "1599-1600",
+            "technique": "Oil on canvas 323 x 343 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7516
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7517
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 90 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7518
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 49 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7519
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 49 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7520
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 90 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7521
+        },
+        {
+            "title": "The Martyrdom of St Matthew (detail)",
+            "date": "1599-1600",
+            "technique": "Oil on canvas width of detail: 90 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/24conta5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7522
+        },
+        {
+            "title": "St Matthew and the Angel",
+            "date": "1602",
+            "technique": "Oil on canvas 232 x 183 cm",
+            "location": "Formerly Kaiser-Friedrich-Museum Berlin",
+            "url": "https://www.wga.hu/html/c/caravagg/04/25conta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7523
+        },
+        {
+            "title": "The Inspiration of Saint Matthew",
+            "date": "1602",
+            "technique": "Oil on canvas 296 x 189 cm",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/26conta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7524
+        },
+        {
+            "title": "The Inspiration of Saint Matthew (detail)",
+            "date": "1602",
+            "technique": "Oil on canvas",
+            "location": "Contarelli Chapel San Luigi dei Francesi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/04/26conta1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7525
+        },
+        {
+            "title": "View of the Chapel",
+            "date": "1600-01",
+            "technique": "Oil on canvas 245 x 155 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/27ceras.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7526
+        },
+        {
+            "title": "Interior view of the Chapel",
+            "date": "1600-01",
+            "technique": "Oil on canvas",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/27ceras1.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7527
+        },
+        {
+            "title": "The Crucifixion of Saint Peter",
+            "date": "1600-01",
+            "technique": "Oil on canvas 230 x 175 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/28ceras.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7528
+        },
+        {
+            "title": "The Crucifixion of Saint Peter (detail)",
+            "date": "1600-01",
+            "technique": "Oil on canvas width of detail 51 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/28ceras1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7529
+        },
+        {
+            "title": "The Crucifixion of Saint Peter (detail)",
+            "date": "1600-01",
+            "technique": "Oil on canvas",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/28ceras2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7530
+        },
+        {
+            "title": "The Crucifixion of Saint Peter (detail)",
+            "date": "1600-01",
+            "technique": "Oil on canvas",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/28ceras3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7531
+        },
+        {
+            "title": "The Conversion on the Way to Damascus",
+            "date": "1600-01",
+            "technique": "Oil on canvas 230 x 175 cm",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/29ceras.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7532
+        },
+        {
+            "title": "The Conversion on the Way to Damascus (detail)",
+            "date": "1600-01",
+            "technique": "Oil on canvas",
+            "location": "Cerasi Chapel Santa Maria del Popolo Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/29ceras1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7533
+        },
+        {
+            "title": "The Conversion of St. Paul",
+            "date": "c. 1600",
+            "technique": "Oil on cypress wood 237 x 189 cm",
+            "location": "Odescalchi Balbi Collection Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/05/30conver.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7534
+        },
+        {
+            "title": "David and Goliath",
+            "date": "c. 1600",
+            "technique": "Oil on canvas 110 x 91 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/c/caravagg/06/31david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7535
+        },
+        {
+            "title": "Portrait of the Poet Giambattista Marino",
+            "date": "1600-01",
+            "technique": "Oil on canvas 73 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/c/caravagg/06/32marino.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7536
+        },
+        {
+            "title": "The Sacrifice of Isaac",
+            "date": "1601-02",
+            "technique": "Oil on canvas 104 x 135 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/06/33isaac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7537
+        },
+        {
+            "title": "The Sacrifice of Isaac (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/06/33isaac0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7538
+        },
+        {
+            "title": "The Sacrifice of Isaac (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/06/33isaac1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7539
+        },
+        {
+            "title": "The Sacrifice of Isaac (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/06/33isaac2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7540
+        },
+        {
+            "title": "The Sacrifice of Isaac (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas width of detail: 55 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/06/33isaac3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7541
+        },
+        {
+            "title": "The Incredulity of Saint Thomas",
+            "date": "1601-02",
+            "technique": "Oil on canvas 107 x 146 cm",
+            "location": "Schloss Sanssouci Potsdam",
+            "url": "https://www.wga.hu/html/c/caravagg/06/34thomas.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7542
+        },
+        {
+            "title": "The Incredulity of Saint Thomas (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "Schloss Sanssouci Potsdam",
+            "url": "https://www.wga.hu/html/c/caravagg/06/34thomax.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7543
+        },
+        {
+            "title": "Supper at Emmaus",
+            "date": "1601",
+            "technique": "Oil on canvas 141 x 196 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7544
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7545
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7546
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7547
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7548
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1601-02",
+            "technique": "Oil on canvas",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/06/35emmau5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7549
+        },
+        {
+            "title": "Amor Victorious",
+            "date": "1602-03",
+            "technique": "Oil on canvas 156 x 113 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/caravagg/06/36amor_v.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7550
+        },
+        {
+            "title": "Amor Victorious (detail)",
+            "date": "1602-03",
+            "technique": "Oil on canvas",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/caravagg/06/36amor_x.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7551
+        },
+        {
+            "title": "The Entombment",
+            "date": "1602-03",
+            "technique": "Oil on canvas 300 x 203 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/c/caravagg/07/37depos.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7552
+        },
+        {
+            "title": "The Entombment (detail)",
+            "date": "1602-03",
+            "technique": "Oil on canvas width of detail 118 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/c/caravagg/07/37depos1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7553
+        },
+        {
+            "title": "The Entombment (detail)",
+            "date": "1602-03",
+            "technique": "Oil on canvas width of detail: 30 cm",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/c/caravagg/07/37depos2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7554
+        },
+        {
+            "title": "The Entombment (detail)",
+            "date": "1602-03",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca Vatican",
+            "url": "https://www.wga.hu/html/c/caravagg/07/37depos3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7555
+        },
+        {
+            "title": "The Crowning with Thorns",
+            "date": "c. 1605",
+            "technique": "Oil on canvas 178 x 125 cm",
+            "location": "Banca Popolare di Vicenza Vicenza",
+            "url": "https://www.wga.hu/html/c/caravagg/07/38crowni.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7556
+        },
+        {
+            "title": "Christ in the Garden",
+            "date": "1604-05",
+            "technique": "Oil on canvas 154 x 222 cm",
+            "location": "Formerly Kaiser-Friedrich-Museum Berlin",
+            "url": "https://www.wga.hu/html/c/caravagg/07/39garden.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7557
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1603-04",
+            "technique": "Oil on canvas 94 x 131 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/40baptis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7558
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "c. 1604",
+            "technique": "Oil on canvas 1725 x 1045 cm",
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "url": "https://www.wga.hu/html/c/caravagg/07/41baptis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7559
+        },
+        {
+            "title": "Madonna di Loreto",
+            "date": "1603-05",
+            "technique": "Oil on canvas 260 x 150 cm",
+            "location": "Sant'Agostino Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/42loreto.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7560
+        },
+        {
+            "title": "Interior view of the Cappella Cavaletti",
+            "date": "1603-05",
+            "technique": "Oil on canvas",
+            "location": "Sant'Agostino Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/42loretx.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 7561
+        },
+        {
+            "title": "St Jerome",
+            "date": "1605-06",
+            "technique": "Oil on canvas 118 x 81 cm",
+            "location": "Monastery Montserrat",
+            "url": "https://www.wga.hu/html/c/caravagg/07/43jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7562
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1606",
+            "technique": "Oil on canvas 112 x 157 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/44jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7563
+        },
+        {
+            "title": "St Jerome (detail)",
+            "date": "c. 1606",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/44jeromf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7564
+        },
+        {
+            "title": "St Jerome (detail)",
+            "date": "c. 1606",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/44jeromx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7565
+        },
+        {
+            "title": "St Jerome (detail)",
+            "date": "c. 1606",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/07/44jeromz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7566
+        },
+        {
+            "title": "The Death of the Virgin",
+            "date": "1602-06",
+            "technique": "Oil on canvas 369 x 245 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/07/45death.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7567
+        },
+        {
+            "title": "The Death of the Virgin",
+            "date": "1602-06",
+            "technique": "Oil on canvas 369 x 245 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/07/45death0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7568
+        },
+        {
+            "title": "The Death of the Virgin (detail)",
+            "date": "1602-06",
+            "technique": "Oil on canvas width of detail: 97 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/07/45death1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7569
+        },
+        {
+            "title": "Ecce Homo",
+            "date": "c. 1606",
+            "technique": "Oil on canvas 128 x 103 cm",
+            "location": "Galleria di Palazzo Bianco Genoa",
+            "url": "https://www.wga.hu/html/c/caravagg/08/46ecceho.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7570
+        },
+        {
+            "title": "Ecce Homo",
+            "date": "c. 1606",
+            "technique": "Oil on canvas 128 x 103 cm",
+            "location": "Galleria di Palazzo Bianco Genoa",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47ecceho.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7571
+        },
+        {
+            "title": "Supper at Emmaus",
+            "date": "1606",
+            "technique": "Oil on canvas 141 x 175 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47emmau.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7572
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47emmau0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7573
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas width of detail: 20 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47emmau1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7574
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas width of detail: 20 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47emmau2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7575
+        },
+        {
+            "title": "Supper at Emmaus (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas width of detail: 20 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/c/caravagg/08/47emmau3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7576
+        },
+        {
+            "title": "Madonna dei Palafrenieri",
+            "date": "1606",
+            "technique": "Oil on canvas 292 x 211 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/08/48palaf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7577
+        },
+        {
+            "title": "Madonna dei Palafrenieri (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/08/48palaf1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7578
+        },
+        {
+            "title": "Madonna dei Palafrenieri (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas width of detail: 47 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/08/48palaf2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7579
+        },
+        {
+            "title": "Madonna dei Palafrenieri (detail)",
+            "date": "1606",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/08/48palaf3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7580
+        },
+        {
+            "title": "St Francis in Meditation",
+            "date": "c. 1606",
+            "technique": "Oil on canvas 128 x 97 cm",
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/08/49franci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7581
+        },
+        {
+            "title": "St Francis in Meditation",
+            "date": "c. 1606",
+            "technique": "Oil on canvas 130 x 90 cm",
+            "location": "Museo Civico \"\"Ala Ponzone\"\" Cremona",
+            "url": "https://www.wga.hu/html/c/caravagg/08/50franci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7582
+        },
+        {
+            "title": "David with the Head of Goliath",
+            "date": "1606-07",
+            "technique": "Oil on wood 91 x 116 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/08/52david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7583
+        },
+        {
+            "title": "David with the Head of Goliath (detail)",
+            "date": "1606-07",
+            "technique": "Oil on wood",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/08/52david1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7584
+        },
+        {
+            "title": "David with the Head of Goliath (detail)",
+            "date": "1606-07",
+            "technique": "Oil on wood",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/08/52david2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7585
+        },
+        {
+            "title": "The Seven Acts of Mercy",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 390 x 260 cm",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7586
+        },
+        {
+            "title": "The Seven Acts of Mercy",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 390 x 260 cm",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy0.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7587
+        },
+        {
+            "title": "The Seven Acts of Mercy (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7588
+        },
+        {
+            "title": "The Seven Acts of Mercy (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7589
+        },
+        {
+            "title": "The Seven Acts of Mercy (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7590
+        },
+        {
+            "title": "The Seven Acts of Mercy (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas width of detail: 70 cm",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7591
+        },
+        {
+            "title": "The Seven Acts of Mercy (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Pio Monte della Misericordia Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/53mercy5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7592
+        },
+        {
+            "title": "The Crucifixion of St Andrew",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 203 x 153 cm",
+            "location": "Museum of Art Cleveland",
+            "url": "https://www.wga.hu/html/c/caravagg/09/54andrew.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7593
+        },
+        {
+            "title": "Flagellation",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 286 x 213 cm",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/55flagel.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7594
+        },
+        {
+            "title": "Flagellation (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/09/55flagex.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7595
+        },
+        {
+            "title": "Christ at the Column",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 135 x 175 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "url": "https://www.wga.hu/html/c/caravagg/09/56christ.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7596
+        },
+        {
+            "title": "Christ at the Column (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "url": "https://www.wga.hu/html/c/caravagg/09/56chrisx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7597
+        },
+        {
+            "title": "Salome with the Head of St John the Baptist",
+            "date": "1609-10",
+            "technique": "Oil on canvas 91 x 167 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/c/caravagg/09/57salome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7598
+        },
+        {
+            "title": "Madonna del Rosario",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 365 x 250 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/09/58rosar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7599
+        },
+        {
+            "title": "Madonna del Rosario (detail)",
+            "date": "1607",
+            "technique": "Oil on canvas width of detail: 64 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/09/58rosar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7600
+        },
+        {
+            "title": "Madonna del Rosario (detail)",
+            "date": "1607",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/09/58rosar2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7601
+        },
+        {
+            "title": "St Jerome",
+            "date": "c. 1607",
+            "technique": "Oil on canvas 117 x 157 cm",
+            "location": "Museum of St John La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/59jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7602
+        },
+        {
+            "title": "St Jerome (detail)",
+            "date": "c. 1607",
+            "technique": "Oil on canvas",
+            "location": "Museum of St John La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/59jeromx.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7603
+        },
+        {
+            "title": "Portrait of Alof de Wignacourt with His Page",
+            "date": "c. 1608",
+            "technique": "Oil on canvas 194 x 134 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/c/caravagg/10/60alof.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7604
+        },
+        {
+            "title": "Portrait of a Maltese Knight",
+            "date": "1608",
+            "technique": "Oil on canvas 119 x 96 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/10/61alof.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 7605
+        },
+        {
+            "title": "Beheading of Saint John the Baptist",
+            "date": "1608",
+            "technique": "Oil on canvas 361 x 520 cm",
+            "location": "Saint John's Co-Cathedral La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/62behead.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7606
+        },
+        {
+            "title": "Beheading of Saint John the Baptist (detail)",
+            "date": "1608",
+            "technique": "Oil on canvas",
+            "location": "Saint John's Co-Cathedral La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/62beheaf.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7607
+        },
+        {
+            "title": "Beheading of Saint John the Baptist (detail)",
+            "date": "1608",
+            "technique": "Oil on canvas",
+            "location": "Saint John's Co-Cathedral La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/62beheag.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7608
+        },
+        {
+            "title": "Beheading of Saint John the Baptist (detail)",
+            "date": "1608",
+            "technique": "Oil on canvas",
+            "location": "Saint John's Co-Cathedral La Valletta",
+            "url": "https://www.wga.hu/html/c/caravagg/10/62beheah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7609
+        },
+        {
+            "title": "Sleeping Cupid",
+            "date": "1608",
+            "technique": "Oil on canvas 75 x 105 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/10/63sleepi.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7610
+        },
+        {
+            "title": "Burial of St Lucy",
+            "date": "1608",
+            "technique": "Oil on canvas 408 x 300 cm",
+            "location": "Bellomo Museum Syracuse",
+            "url": "https://www.wga.hu/html/c/caravagg/10/64lucy.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7611
+        },
+        {
+            "title": "Burial of St Lucy (detail)",
+            "date": "1608",
+            "technique": "Oil on canvas",
+            "location": "Bellomo Museum Syracuse",
+            "url": "https://www.wga.hu/html/c/caravagg/10/64lucy1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7612
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1608-09",
+            "technique": "Oil on canvas 380 x 275 cm",
+            "location": "Museo Regionale Messina",
+            "url": "https://www.wga.hu/html/c/caravagg/10/65lazar.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7613
+        },
+        {
+            "title": "The Raising of Lazarus (detail)",
+            "date": "1608-09",
+            "technique": "Oil on canvas",
+            "location": "Museo Regionale Messina",
+            "url": "https://www.wga.hu/html/c/caravagg/10/65lazar1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7614
+        },
+        {
+            "title": "The Annunciation",
+            "date": "1608-09",
+            "technique": "Oil on canvas 285 x 205 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Nancy",
+            "url": "https://www.wga.hu/html/c/caravagg/11/66annunc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7615
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "date": "1609",
+            "technique": "Oil on canvas 314 x 211 cm",
+            "location": "Museo Regionale Messina",
+            "url": "https://www.wga.hu/html/c/caravagg/11/67sheph.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7616
+        },
+        {
+            "title": "Nativity with St Francis and St Lawrence",
+            "date": "1609",
+            "technique": "Oil on canvas 268 x 197 cm",
+            "location": "Formerly in Oratorio di San Lorenzo Palermo",
+            "url": "https://www.wga.hu/html/c/caravagg/11/68nativi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7617
+        },
+        {
+            "title": "Salome with the Head of the Baptist",
+            "date": "c. 1609",
+            "technique": "Oil on canvas 116 x 140 cm",
+            "location": "Palacio Real Madrid",
+            "url": "https://www.wga.hu/html/c/caravagg/11/69salome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7618
+        },
+        {
+            "title": "David with the Head of Goliath",
+            "date": "1609-10",
+            "technique": "Oil on canvas 125 x 101 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/11/70david.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7619
+        },
+        {
+            "title": "David with the Head of Goliath (detail)",
+            "date": "1609-10",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/11/70david1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7620
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1610",
+            "technique": "Oil on canvas 159 x 124 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/11/71baptis.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7621
+        },
+        {
+            "title": "St John the Baptist (detail)",
+            "date": "1610",
+            "technique": "Oil on canvas",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/11/71baptix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7622
+        },
+        {
+            "title": "The Denial of St Peter",
+            "date": "c. 1610",
+            "technique": "Oil on canvas 94 x 125 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/11/72denial.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7623
+        },
+        {
+            "title": "The Denial of St Peter (detail)",
+            "date": "c. 1610",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/11/72deniax.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7624
+        },
+        {
+            "title": "The Denial of St Peter (detail)",
+            "date": "c. 1610",
+            "technique": "Oil on canvas",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/11/72deniay.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7625
+        },
+        {
+            "title": "The Martyrdom of St Ursula",
+            "date": "1610",
+            "technique": "Oil on canvas 154 x 178 cm",
+            "location": "Banca Commerciale Italiana Naples",
+            "url": "https://www.wga.hu/html/c/caravagg/11/73ursula.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7626
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "1597-98",
+            "technique": "Oil on canvas 169 x 112 cm",
+            "location": "Museo-Tesoro Catedralico Toledo",
+            "url": "https://www.wga.hu/html/c/caravagg/12/75stjohn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7627
+        },
+        {
+            "title": "St John the Baptist",
+            "date": "-",
+            "technique": "Oil on canvas 1025 x 83 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/c/caravagg/12/76stjohn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7628
+        },
+        {
+            "title": "The Toothpuller",
+            "date": "1608-10",
+            "technique": "Oil on canvas 140 x 195 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/c/caravagg/12/77tooth.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 7629
+        },
+        {
+            "title": "St John the Baptist at the Well",
+            "date": "1607-08",
+            "technique": "Oil on canvas 73 x 100 cm",
+            "location": "Collezione Bonello Malta",
+            "url": "https://www.wga.hu/html/c/caravagg/12/79stjohn.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7630
+        },
+        {
+            "title": "Sacrifice of Isaac",
+            "date": "1597-99",
+            "technique": "Oil on canvas 116 x 173 cm",
+            "location": "Barbara Piasecka Johnson Collection Lawrenceville",
+            "url": "https://www.wga.hu/html/c/caravagg/12/821isaac.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7631
+        },
+        {
+            "title": "Jupiter Neptune and Pluto",
+            "date": "1597-1600",
+            "technique": "Ceiling painting in oil 300 x 152 cm",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/12/84jupite.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7632
+        },
+        {
+            "title": "Jupiter Neptune and Pluto",
+            "date": "1597-1600",
+            "technique": "Ceiling painting in oil 300 x 152 cm",
+            "location": "Casino dell'Aurora Villa Boncompagni Ludovisi Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/12/84jupitx.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 7633
+        },
+        {
+            "title": "The Crowning with Thorns",
+            "date": "c. 1603",
+            "technique": "Oil on canvas 127 x 166 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/12/87crowni.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7634
+        },
+        {
+            "title": "The Crowning with Thorns (detail)",
+            "date": "c. 1603",
+            "technique": "Oil on canvas",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/c/caravagg/12/87crownj.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7635
+        },
+        {
+            "title": "Still-Life with Flowers and Fruit",
+            "date": "c. 1594",
+            "technique": "Oil on canvas 105 x 184 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/c/caravagg/12/89d_stil.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 7636
+        },
+        {
+            "title": "The Holy Family with the Infant St John the Baptist",
+            "date": "1602-04",
+            "technique": "Oil on canvas 118 x 96 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/c/caravagg/12/90holyfa.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 7637
+        }
+    ]
+}

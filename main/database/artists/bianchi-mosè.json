@@ -1,0 +1,38 @@
+{
+    "name": "BIANCHI Mos\u00e8",
+    "life": "(b. 1840 Monza d. 1904 Monza)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Place de Clichy Paris",
+            "date": "1884",
+            "technique": "Oil on canvas 80 x 100 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bianchi1/bianchi1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4514
+        },
+        {
+            "title": "Street Scene",
+            "date": "-",
+            "technique": "Oil on panel 34 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bianchi1/bianchi2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4515
+        },
+        {
+            "title": "Boats on the Lagoon of Venice",
+            "date": "-",
+            "technique": "Oil on panel 29 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/bianchi1/bianchi3.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 4516
+        }
+    ]
+}

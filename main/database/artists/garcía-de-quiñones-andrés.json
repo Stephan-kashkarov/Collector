@@ -1,0 +1,28 @@
+{
+    "name": "GARC\u00cdA DE QUI\u00d1ONES Andr\u00e9s",
+    "life": "(b. 1709 Santiago de Compostela d. 1784 Santiago de Compostela)",
+    "school": "Spanish",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "c. 1760",
+            "technique": "Photo",
+            "location": "Jesuit college of La Clerecia Salamanca",
+            "url": "https://www.wga.hu/html/g/garcia_q/clerecia.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14811
+        },
+        {
+            "title": "Exterior view",
+            "date": "1755",
+            "technique": "Photo",
+            "location": "Town Hall Salamanca",
+            "url": "https://www.wga.hu/html/g/garcia_q/townhall.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 14812
+        }
+    ]
+}

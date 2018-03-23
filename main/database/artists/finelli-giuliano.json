@@ -1,0 +1,78 @@
+{
+    "name": "FINELLI Giuliano",
+    "life": "(b. 1601 Carrara d. 1653 Rome)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Bust of Michelangelo Buonarroti the Younger",
+            "date": "1630",
+            "technique": "Marble life-size",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/f/finelli/buonarr.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13842
+        },
+        {
+            "title": "Bust of Michelangelo Buonarroti the Younger",
+            "date": "1630",
+            "technique": "Marble life-size",
+            "location": "Casa Buonarroti Florence",
+            "url": "https://www.wga.hu/html/f/finelli/buonarro.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13843
+        },
+        {
+            "title": "Bust of Maria Barberini Duglioli",
+            "date": "1626-27",
+            "technique": "Marble height 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/finelli/duglioli.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13844
+        },
+        {
+            "title": "Bust of Cardinal Giulio Antonio Santorio",
+            "date": "1633-34",
+            "technique": "Marble life-size",
+            "location": "San Giovanni Laterano Rome",
+            "url": "https://www.wga.hu/html/f/finelli/santorio.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13845
+        },
+        {
+            "title": "Bust of Scipione Borghese",
+            "date": "1632",
+            "technique": "Marble height 98 cm (with socle)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/f/finelli/scipion.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13846
+        },
+        {
+            "title": "Bust of Scipione Borghese",
+            "date": "1632",
+            "technique": "Marble height 98 cm (with socle)",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/f/finelli/scipione.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 13847
+        },
+        {
+            "title": "St Peter",
+            "date": "1639-40",
+            "technique": "Marble life-size",
+            "location": "Chapel of Treasury San Gennaro Naples",
+            "url": "https://www.wga.hu/html/f/finelli/st_peter.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 13848
+        }
+    ]
+}

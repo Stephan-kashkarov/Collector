@@ -1,0 +1,28 @@
+{
+    "name": "REINHART Johann Christian",
+    "life": "(b. 1761 Hof d. 1847 Roma)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "The Invention of the Corinthian Capital by Callimachos",
+            "date": "1846",
+            "technique": "Oil on canvas 96 x 135 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/r/reinhart/callimac.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 33373
+        },
+        {
+            "title": "Landscape with Town and Bridge",
+            "date": "1799",
+            "technique": "Engraving 259 x 354 mm",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/r/reinhart/townbrid.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 33374
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "VICTORS Jan",
+    "life": "(b. 1619 Amsterdam d. 1676 East Indies)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Abraham's Parting from the Family of Lot",
+            "date": "1655-65",
+            "technique": "Oil on canvas 147 x 165 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/v/victors/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43136
+        },
+        {
+            "title": "The Banquet of Esther and Ahasuerus",
+            "date": "1640s",
+            "technique": "Oil on canvas 170 x 230 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/v/victors/esther_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43137
+        },
+        {
+            "title": "Esther and Haman before Ahasuerus",
+            "date": "1638-40",
+            "technique": "Oil on canvas 128 x 1695 cm",
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "url": "https://www.wga.hu/html/v/victors/esther_h.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43138
+        },
+        {
+            "title": "Ferryboat",
+            "date": "1660s",
+            "technique": "Oil on canvas 85 x 118 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/victors/ferry_bo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43139
+        },
+        {
+            "title": "Hannah Giving Her Son Samuel to the Priest",
+            "date": "1645",
+            "technique": "Oil on canvas 135 x 133 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/v/victors/hannah.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43140
+        },
+        {
+            "title": "Jacob Being Shown Joseph's Robe",
+            "date": "1651-53",
+            "technique": "Oil on canvas 145 x 179 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/victors/jacob_jo.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43141
+        },
+        {
+            "title": "Market Scene with a Quack at his Stall",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 79 x 99 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/v/victors/market.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43142
+        },
+        {
+            "title": "Peasants' Meal at the Stables",
+            "date": "-",
+            "technique": "Oil on panel 38 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/victors/peasants.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43143
+        },
+        {
+            "title": "Ruth and Naomi",
+            "date": "1653",
+            "technique": "Oil on canvas 109 x 137 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/victors/ruthnaom.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43144
+        },
+        {
+            "title": "Town Folk Coming to the Country",
+            "date": "-",
+            "technique": "Oil on canvas 100 x 156 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/victors/townfolk.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43145
+        },
+        {
+            "title": "Portrait of a Man as a Turkish Prince",
+            "date": "-",
+            "technique": "Oil on canvas 93 x 72 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/victors/turkish.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43146
+        },
+        {
+            "title": "Young Woman at a Window",
+            "date": "1640",
+            "technique": "Oil on canvas 93 cm x 78 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/victors/window.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43147
+        }
+    ]
+}

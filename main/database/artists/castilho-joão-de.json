@@ -1,0 +1,28 @@
+{
+    "name": "CASTILHO Jo\u00e3o de",
+    "life": "(b. ca. 1490 Santander d. 1552)",
+    "school": "Portuguese",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "External view",
+            "date": "1515",
+            "technique": "Photo",
+            "location": "Monastery of the Knights of Christ Tomar",
+            "url": "https://www.wga.hu/html/c/castilho/doorway1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 8177
+        },
+        {
+            "title": "External view",
+            "date": "1515",
+            "technique": "Photo",
+            "location": "Monastery of the Knights of Christ Tomar",
+            "url": "https://www.wga.hu/html/c/castilho/doorway2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 8178
+        }
+    ]
+}

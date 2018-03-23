@@ -1,0 +1,158 @@
+{
+    "name": "LASTMAN Pieter Pietersz.",
+    "life": "(b. 1583 Amsterdam d. 1633 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Abraham's Journey to Canaan",
+            "date": "1614",
+            "technique": "Oil on canvas transferred from wood 72 x 122 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lastman/abraham.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21563
+        },
+        {
+            "title": "The Angel of the Lord Preventing Abraham from Sacrificing his Son Isaac",
+            "date": "1616",
+            "technique": "Oil on wood 36 x 42 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/lastman/abraham1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21564
+        },
+        {
+            "title": "The Angel Stopping Abraham from Sacrificing Isaac",
+            "date": "c. 1612",
+            "technique": "Oil on panel 40 x 31 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lastman/abraham2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21565
+        },
+        {
+            "title": "Annunciation",
+            "date": "1618",
+            "technique": "Oil on panel 56 x 39 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/lastman/annuncia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21566
+        },
+        {
+            "title": "Balaam and the Ass",
+            "date": "1622",
+            "technique": "Oil on panel 41 x 60 cm",
+            "location": "Israel Museum Jerusalem",
+            "url": "https://www.wga.hu/html/l/lastman/balaam.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21567
+        },
+        {
+            "title": "Christ and the Canaanite Woman",
+            "date": "1617",
+            "technique": "Oil on panel 75 x 105 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lastman/christca.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21568
+        },
+        {
+            "title": "Hippocrates and Democritus",
+            "date": "1622",
+            "technique": "Oil on panel 111 x 115 cm",
+            "location": "Mus\u00e9e des Beaux Arts Lille",
+            "url": "https://www.wga.hu/html/l/lastman/hippocra.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21569
+        },
+        {
+            "title": "Juno Discovering Jupiter with Io",
+            "date": "1618",
+            "technique": "Oil on oak 54 x 78 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/l/lastman/juno_jup.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21570
+        },
+        {
+            "title": "The Triumph of Mordecai",
+            "date": "1624",
+            "technique": "Oil on panel",
+            "location": "Museum het Rembrandthuis Amsterdam",
+            "url": "https://www.wga.hu/html/l/lastman/mordecai.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21571
+        },
+        {
+            "title": "Odysseus and Nausicaa",
+            "date": "1619",
+            "technique": "Oil on panel 92 x 117 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/l/lastman/odysseus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21572
+        },
+        {
+            "title": "Orestes and Pylades Disputing at the Altar",
+            "date": "1614",
+            "technique": "Oil on panel 83 x 126 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lastman/orestes.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21573
+        },
+        {
+            "title": "Susanna and the Elders",
+            "date": "1614",
+            "technique": "Oil on oak 42 x 58 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/l/lastman/susanna.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21574
+        },
+        {
+            "title": "The Angel and Tobias with the Fish",
+            "date": "c. 1625",
+            "technique": "Oil on wood 343 x 59 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/lastman/tobias.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21575
+        },
+        {
+            "title": "The Angel and Tobias with the Fish (detail)",
+            "date": "c. 1625",
+            "technique": "Oil on wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/lastman/tobias1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21576
+        },
+        {
+            "title": "The Angel Raphael Takes Leave of Old Tobit and his Son Tobias",
+            "date": "1618",
+            "technique": "Oil on panel 62 x 93 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/l/lastman/tobit.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21577
+        }
+    ]
+}

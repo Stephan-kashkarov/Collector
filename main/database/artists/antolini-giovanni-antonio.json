@@ -1,0 +1,28 @@
+{
+    "name": "ANTOLINI Giovanni Antonio",
+    "life": "(b. 1756 Castel Bolognese d. 1841 Bologna)",
+    "school": "Italian",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Foro Bonaparte Milan",
+            "date": "1806",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/antolini/forobon1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 1087
+        },
+        {
+            "title": "Foro Bonaparte Milan",
+            "date": "1806",
+            "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/antolini/forobon2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 1088
+        }
+    ]
+}

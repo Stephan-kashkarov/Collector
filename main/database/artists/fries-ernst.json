@@ -1,0 +1,28 @@
+{
+    "name": "FRIES Ernst",
+    "life": "(b. 1801 Heidelberg d. 1833 Karlsruhe)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "From the Park of the Villa Chigi in Ariccia",
+            "date": "1824",
+            "technique": "Watercolour on pencil 388 x 535 mm",
+            "location": "Staatliche Kunsthalle Karlsruhe",
+            "url": "https://www.wga.hu/html/f/fries/ariccia.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 14498
+        },
+        {
+            "title": "The Liris Waterfalls near Isola di Sora",
+            "date": "1830",
+            "technique": "Oil on canvas 49 x 65 cm",
+            "location": "Neue Pinakothek Munich",
+            "url": "https://www.wga.hu/html/f/fries/liris.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 14499
+        }
+    ]
+}

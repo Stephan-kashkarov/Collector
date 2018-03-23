@@ -1,0 +1,58 @@
+{
+    "name": "KEIRINCKX Alexander",
+    "life": "(b. 1600 Antwerpen d. 1652 Amsterdam)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Travellers on a Forest Path",
+            "date": "c. 1621",
+            "technique": "Oil on oak panel 43 x 57 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keirinck/forest.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20911
+        },
+        {
+            "title": "Travellers on a Forest Path (detail)",
+            "date": "c. 1621",
+            "technique": "Oil on oak panel",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/k/keirinck/forest1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20912
+        },
+        {
+            "title": "Forest Scene",
+            "date": "-",
+            "technique": "Oil on oak 565 x 875 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/k/keirinck/forestsc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20913
+        },
+        {
+            "title": "Hunters in a Forest",
+            "date": "-",
+            "technique": "Oil on panel 69 x 92 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/k/keirinck/hunters.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20914
+        },
+        {
+            "title": "Woody Landscape",
+            "date": "c. 1634",
+            "technique": "Oil on panel 40 x 61 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/k/keirinck/woody.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 20915
+        }
+    ]
+}

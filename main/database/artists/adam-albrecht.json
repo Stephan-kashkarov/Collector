@@ -1,0 +1,28 @@
+{
+    "name": "ADAM Albrecht",
+    "life": "(b. 1786 N\u00f6rdlingen d. 1862 M\u00fcnchen)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Battle of Moscow on 7 September 1812",
+            "date": "1815-25",
+            "technique": "Oil and gouache on paper 21 x 30 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/adam1/battle.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 36
+        },
+        {
+            "title": "The Return from the Hunt",
+            "date": "1828",
+            "technique": "Oil on canvas 69 x 101 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/adam1/hunt.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 37
+        }
+    ]
+}

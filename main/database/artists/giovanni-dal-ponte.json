@@ -1,0 +1,58 @@
+{
+    "name": "GIOVANNI DAL PONTE",
+    "life": "(b. 1385 Firenze d. ca. 1438 Firenze)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Coronation of the Virgin with Saints",
+            "date": "1400-10",
+            "technique": "Panel",
+            "location": "Galleria dell'Accademia Florence",
+            "url": "https://www.wga.hu/html/g/giovanni/ponte/coronati.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16616
+        },
+        {
+            "title": "God the Father",
+            "date": "1420-25",
+            "technique": "Tempera on panel gold ground 48 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/ponte/godfath1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16617
+        },
+        {
+            "title": "God the Father (detail)",
+            "date": "1420-25",
+            "technique": "Tempera on panel gold ground",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/ponte/godfath2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16618
+        },
+        {
+            "title": "Madonna and Child with Two Angels",
+            "date": "-",
+            "technique": "Tempera on panel gold ground 71 x 39 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/g/giovanni/ponte/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16619
+        },
+        {
+            "title": "Virgin and Child with Angels",
+            "date": "c. 1425",
+            "technique": "Tempera and gold on panel 139 x 86 cm",
+            "location": "Fitzwilliam Museum Cambridge",
+            "url": "https://www.wga.hu/html/g/giovanni/ponte/virgin_c.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16620
+        }
+    ]
+}

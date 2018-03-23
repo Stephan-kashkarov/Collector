@@ -1,0 +1,48 @@
+{
+    "name": "MOIGNIEZ Jules",
+    "life": "(b. 1835 Senlis d. 1894 Saint-Martin-du-Tertre)",
+    "school": "French",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Pheasant",
+            "date": "-",
+            "technique": "Bronze height 51 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moigniez/1pheasan.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 28359
+        },
+        {
+            "title": "Basset Hound",
+            "date": "-",
+            "technique": "Bronze 50 x 83 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moigniez/hound1.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 28360
+        },
+        {
+            "title": "Basset Hound",
+            "date": "-",
+            "technique": "Bronze 50 x 83 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moigniez/hound2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 28361
+        },
+        {
+            "title": "Partridge",
+            "date": "c. 1880",
+            "technique": "Bronze",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/m/moigniez/partridg.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 28362
+        }
+    ]
+}

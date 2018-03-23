@@ -1,0 +1,28 @@
+{
+    "name": "LUINI Aurelio",
+    "life": "(b. ca. 1530 Luino d. 1593 Milano)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Sheet of Studies of Figures and Heads",
+            "date": "-",
+            "technique": "Pen and traces of black pencil on white paper 228 x 150 mm",
+            "location": "Fondazione d'Arco Mantua",
+            "url": "https://www.wga.hu/html/l/luini/son/studies1.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 23435
+        },
+        {
+            "title": "Studies of Trees",
+            "date": "-",
+            "technique": "Pen and brown ink 280 x 188 mm",
+            "location": "Biblioteca Ambrosiana Milan",
+            "url": "https://www.wga.hu/html/l/luini/son/studies2.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 23436
+        }
+    ]
+}

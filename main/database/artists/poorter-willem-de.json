@@ -1,0 +1,58 @@
+{
+    "name": "POORTER Willem de",
+    "life": "(b. 1608 Haarlem - after 1648 ?)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Allegory of Colonial Power",
+            "date": "1638",
+            "technique": "Oil on canvas 71 x 84 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/poorter/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 32050
+        },
+        {
+            "title": "Croesus Shows Solon his Wealth",
+            "date": "-",
+            "technique": "Oil on panel 47 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poorter/croesus.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 32051
+        },
+        {
+            "title": "A Woman Praying",
+            "date": "-",
+            "technique": "Oil on panel 34 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/poorter/praying.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 32052
+        },
+        {
+            "title": "Still-Life with Weapons and Banners",
+            "date": "1636",
+            "technique": "Oil on wood 23 x 18 cm",
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "url": "https://www.wga.hu/html/p/poorter/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 32053
+        },
+        {
+            "title": "Vanitas Allegory",
+            "date": "1630s",
+            "technique": "Oil on oak panel 58 x 47 cm",
+            "location": "Nationalmuseum Stockholm",
+            "url": "https://www.wga.hu/html/p/poorter/vanitas.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 32054
+        }
+    ]
+}

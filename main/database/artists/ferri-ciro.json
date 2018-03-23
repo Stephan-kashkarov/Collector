@@ -1,0 +1,58 @@
+{
+    "name": "FERRI Ciro",
+    "life": "(b. ca. 1634 Roma d. 1689 Roma)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "The Reconciliation of Jacob and Laban",
+            "date": "-",
+            "technique": "Oil on canvas 201 x 168 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferri/jacoblab.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13752
+        },
+        {
+            "title": "Madonna and Child with the Infant St John",
+            "date": "-",
+            "technique": "Oil on canvas 72 x 85 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/ferri/madonna.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13753
+        },
+        {
+            "title": "Ceiling Fresco in the Hall of Saturn",
+            "date": "1663-65",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/f/ferri/pitti.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13754
+        },
+        {
+            "title": "Ceiling painting",
+            "date": "1663",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/f/ferri/pitti1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 13755
+        },
+        {
+            "title": "View of the Hall of Saturn",
+            "date": "1663-65",
+            "technique": "Fresco",
+            "location": "Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/f/ferri/pitti2.html",
+            "form": "painting",
+            "painting_type": "interior",
+            "index": 13756
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "SEMITECOLO Nicoletto",
+    "life": "(active 1353-1370)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
+    "art": [
+        {
+            "title": "Two Christians before the Judges",
+            "date": "1367",
+            "technique": "Tempera on wood 65 x 72 cm",
+            "location": "Sacristy Cathedral Padua",
+            "url": "https://www.wga.hu/html/s/semiteco/2christi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36885
+        },
+        {
+            "title": "St Sebastian Beaten with Sticks",
+            "date": "1367",
+            "technique": "Tempera on wood 65 x 72 cm",
+            "location": "Sacristy Cathedral Padua",
+            "url": "https://www.wga.hu/html/s/semiteco/sebastia.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 36886
+        }
+    ]
+}

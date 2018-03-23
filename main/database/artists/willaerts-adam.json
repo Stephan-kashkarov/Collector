@@ -1,0 +1,78 @@
+{
+    "name": "WILLAERTS Adam",
+    "life": "(b. 1577 Antwerpen d. 1664 Utrecht)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Coastal Landscape with Ships",
+            "date": "1616",
+            "technique": "Oil on canvas",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/w/willaert/adam/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44177
+        },
+        {
+            "title": "Coastal Scene",
+            "date": "-",
+            "technique": "Oil on panel 34 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/adam/coastal1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44178
+        },
+        {
+            "title": "Fortified Coastal Town",
+            "date": "-",
+            "technique": "Oil on oak panel reduced 38 x 55 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/adam/coastal2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44179
+        },
+        {
+            "title": "Marine Landscape",
+            "date": "-",
+            "technique": "Oil on oak panel 46 x 86 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/adam/marine.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44180
+        },
+        {
+            "title": "Miracle on the Beach of Gennesaret",
+            "date": "1640s",
+            "technique": "Oil on panel 65 x 93 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/willaert/adam/miracle.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 44181
+        },
+        {
+            "title": "River Scene with Boats",
+            "date": "1643",
+            "technique": "Oil on wood 46 x 85 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/w/willaert/adam/river_sc.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44182
+        },
+        {
+            "title": "Shipwreck off a Rocky Coast",
+            "date": "1614",
+            "technique": "Oval panel 65 x 87 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/w/willaert/adam/shipwrec.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 44183
+        }
+    ]
+}

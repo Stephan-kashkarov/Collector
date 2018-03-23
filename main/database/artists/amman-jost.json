@@ -1,0 +1,58 @@
+{
+    "name": "AMMAN Jost",
+    "life": "(b. 1539 Z\u00fcrich d. 1591 N\u00fcrnberg)",
+    "school": "Swiss",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "Papermaking (from the Book of Trades)",
+            "date": "1568",
+            "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman1.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 479
+        },
+        {
+            "title": "Casting type in hot metal (from the Book of Trades)",
+            "date": "1568",
+            "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman2.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 480
+        },
+        {
+            "title": "Typesetting and inking (from the Book of Trades)",
+            "date": "1568",
+            "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman3.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 481
+        },
+        {
+            "title": "Cutting a woodblock (from the Book of Trades)",
+            "date": "1568",
+            "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman4.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 482
+        },
+        {
+            "title": "Bookbinding (from the Book of Trades)",
+            "date": "1568",
+            "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman5.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 483
+        }
+    ]
+}

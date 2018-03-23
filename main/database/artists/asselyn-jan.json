@@ -1,0 +1,138 @@
+{
+    "name": "ASSELYN Jan",
+    "life": "(b. ca. 1610 Dieppe d. 1652 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Italian Landscape with the Ruins of a Roman Bridge and Aqueduct",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 82 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/asselyn/aqueduct.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2752
+        },
+        {
+            "title": "Beggars in front of a Roman Limekiln",
+            "date": "1638-40",
+            "technique": "Oil on wood 38 x 33 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/beggars.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 2753
+        },
+        {
+            "title": "The Breach of the Sint Anthonisdijk",
+            "date": "1651",
+            "technique": "Oil on canvas 86 x 108 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/asselyn/breach.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2754
+        },
+        {
+            "title": "Cavalry Engagement",
+            "date": "1635",
+            "technique": "Oil on canvas 66 x 88 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/asselyn/cavalry.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 2755
+        },
+        {
+            "title": "Coastal Scene with Resting Riders",
+            "date": "c. 1652",
+            "technique": "Oil on canvas 71 x 96 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2756
+        },
+        {
+            "title": "Coastal Scene with Resting Riders (detail)",
+            "date": "c. 1652",
+            "technique": "Oil on canvas",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/coastal1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2757
+        },
+        {
+            "title": "Italianate Landscape with a River and an Arched Bridge",
+            "date": "c. 1648",
+            "technique": "Oil on canvas",
+            "location": "Staatsgalerie Schleissheim",
+            "url": "https://www.wga.hu/html/a/asselyn/italiana.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2758
+        },
+        {
+            "title": "Italianate Landscape with Peasants and Animals Fording a River",
+            "date": "1640-45",
+            "technique": "Oil on oak panel 41 x 49 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/asselyn/italianb.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2759
+        },
+        {
+            "title": "Landscape with Ruins and Hunting Party",
+            "date": "c. 1645",
+            "technique": "Oil on canvas 47 x 61 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/landsca1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2760
+        },
+        {
+            "title": "Mountainous Landscape with Traveling Herdsmen",
+            "date": "1647-48",
+            "technique": "Oil on wood 43 x 67 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/landsca2.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2761
+        },
+        {
+            "title": "Italian Landscape with SS. Giovanni e Paolo in Rome",
+            "date": "-",
+            "technique": "Oil on canvas 67 x 80 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/a/asselyn/landscap.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2762
+        },
+        {
+            "title": "River Bank with Herdsmen",
+            "date": "c. 1650",
+            "technique": "Oil on panel 43 x 67 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/a/asselyn/riverban.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 2763
+        },
+        {
+            "title": "The Threatened Swan",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 144 x 171 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/asselyn/thr_swan.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 2764
+        }
+    ]
+}

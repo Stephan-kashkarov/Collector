@@ -1,0 +1,58 @@
+{
+    "name": "WET Jacob Willemsz. de the Elder",
+    "life": "(b. ca. 1610 Haarlem d. 1675 Haarlem)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Calling of St Peter and St Andrew",
+            "date": "-",
+            "technique": "Oil on panel 37 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wet_j/calling.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43937
+        },
+        {
+            "title": "The Meeting of David and Abigail",
+            "date": "-",
+            "technique": "Oil on panel 51 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wet_j/david_ab.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43938
+        },
+        {
+            "title": "The Fiery Furnace",
+            "date": "1650",
+            "technique": "Oil on canvas 111 x 135 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wet_j/furnace.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 43939
+        },
+        {
+            "title": "The Idolatry of Solomon",
+            "date": "-",
+            "technique": "Oil on panel 54 x 74 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wet_j/idolatry.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43940
+        },
+        {
+            "title": "The Triumph of Mordechai",
+            "date": "-",
+            "technique": "Oil on panel 58 x 83 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/w/wet_j/mordecha.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 43941
+        }
+    ]
+}

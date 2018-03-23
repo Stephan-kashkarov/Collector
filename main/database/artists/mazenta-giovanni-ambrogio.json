@@ -1,0 +1,28 @@
+{
+    "name": "MAZENTA Giovanni Ambrogio",
+    "life": "(b. 1565 Milano d. 1635 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1605-23",
+            "technique": "Photo",
+            "location": "Santissimo Salvatore Bologna",
+            "url": "https://www.wga.hu/html/m/mazenta/salvato1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 25306
+        },
+        {
+            "title": "Interior view",
+            "date": "1605-23",
+            "technique": "Photo",
+            "location": "Santissimo Salvatore Bologna",
+            "url": "https://www.wga.hu/html/m/mazenta/salvato2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 25307
+        }
+    ]
+}

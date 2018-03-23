@@ -1,0 +1,58 @@
+{
+    "name": "ES Jacob van",
+    "life": "(b. ca. 1596 Antwerpen d. 1666 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Grape with Walnut",
+            "date": "-",
+            "technique": "Oil on copper 223 x 275 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/e/es/grapewal.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13218
+        },
+        {
+            "title": "Breakfast with Oysters",
+            "date": "1645-50",
+            "technique": "Oil on panel 34 x 45 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/e/es/oysters.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13219
+        },
+        {
+            "title": "Still-Life with Fruit",
+            "date": "-",
+            "technique": "Oil on oak panel 2242 x 348 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/e/es/stil_fru.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13220
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on oak panel 19 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/es/still_li.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13221
+        },
+        {
+            "title": "Still-Life of Grapes Plums and Apples",
+            "date": "-",
+            "technique": "Oil on canvas 37 x 61 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/es/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 13222
+        }
+    ]
+}

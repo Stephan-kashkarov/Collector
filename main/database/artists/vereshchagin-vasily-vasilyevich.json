@@ -1,0 +1,28 @@
+{
+    "name": "VERESHCHAGIN Vasily Vasilyevich",
+    "life": "(b. 1842 Cherepovets d. 1904 Port Arthur)",
+    "school": "Russian",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "The Apotheosis of War",
+            "date": "1871",
+            "technique": "Oil on canvas 127 x 197 cm",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/v/vereshcx/apotheos.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 42499
+        },
+        {
+            "title": "At the city wall. \"\"Let them enter!\"\"\"1871\"Oil on canvas 95 x 161 cm",
+            "date": "State Russian Museum St. Petersburg",
+            "technique": "https://www.wga.hu/html/v/vereshcx/letenter.html",
+            "location": "painting",
+            "url": "historical",
+            "form": "Russian",
+            "painting_type": "1851-1900",
+            "index": 42500
+        }
+    ]
+}

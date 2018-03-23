@@ -1,0 +1,48 @@
+{
+    "name": "BARONZIO Giovanni",
+    "life": "(active ca. 1326 d. ca. 1362 Rimini)",
+    "school": "Italian",
+    "timeframe": "1301-1350",
+    "art": [
+        {
+            "title": "Scenes from the Life of St Colomba: St Colomba Saved by a Bear",
+            "date": "1340s",
+            "technique": "Tempera on wood 53 x 55 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3230
+        },
+        {
+            "title": "St Colomba Saved by a Bear (detail)",
+            "date": "1340s",
+            "technique": "Tempera on wood",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3231
+        },
+        {
+            "title": "Scenes from the Life of St Colomba: Beheading of St Colomba",
+            "date": "1340s",
+            "technique": "Tempera on wood 53 x 55 cm",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3232
+        },
+        {
+            "title": "Centrepiece of a Polyptych",
+            "date": "c. 1345",
+            "technique": "Tempera on panel 58 x 31 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/b/baronzio/polyptyc.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 3233
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "name": "POTTER Paulus",
+    "life": "(b. 1625 Enkhuizen d. 1654 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Cattle and Sheep in a Stormy Landscape",
+            "date": "1647",
+            "technique": "Oil on panel 46 x 38 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/p/potter/paulus/cattle.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32127
+        },
+        {
+            "title": "Driving the Cattle to Pasture in the Morning",
+            "date": "1647",
+            "technique": "Oil on oak 39 x 50 cm",
+            "location": "Residenzgalerie Salzburg",
+            "url": "https://www.wga.hu/html/p/potter/paulus/cattlepa.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32128
+        },
+        {
+            "title": "Cows in a Meadow",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/potter/paulus/cows_med.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32129
+        },
+        {
+            "title": "Cows in a Meadow by a Farm",
+            "date": "1653",
+            "technique": "Oil on canvas 58 x 67 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/potter/paulus/cowsmead.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32130
+        },
+        {
+            "title": "Cows Reflected in the Water",
+            "date": "1648",
+            "technique": "Oil on panel 43 x 61 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/p/potter/paulus/cowwater.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32131
+        },
+        {
+            "title": "Diederik Tulp",
+            "date": "1653",
+            "technique": "Oil on canvas",
+            "location": "Collection Six Amsterdam",
+            "url": "https://www.wga.hu/html/p/potter/paulus/did_tulp.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 32132
+        },
+        {
+            "title": "Figures with Horses by a Stable",
+            "date": "1647",
+            "technique": "Oil on panel 45 x 38 cm",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/p/potter/paulus/figures.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32133
+        },
+        {
+            "title": "Figures with Horses by a Stable (detail)",
+            "date": "1647",
+            "technique": "Oil on panel",
+            "location": "Museum of Art Philadelphia",
+            "url": "https://www.wga.hu/html/p/potter/paulus/figures1.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32134
+        },
+        {
+            "title": "Four Bulls",
+            "date": "-",
+            "technique": "Oil on wood 58 x 68 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/p/potter/paulus/fourbull.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32135
+        },
+        {
+            "title": "Four Bulls",
+            "date": "-",
+            "technique": "Oil on wood 58 x 68 cm",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/p/potter/paulus/fourbulm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32136
+        },
+        {
+            "title": "Four Bulls (detail)",
+            "date": "-",
+            "technique": "Oil on wood",
+            "location": "Galleria Sabauda Turin",
+            "url": "https://www.wga.hu/html/p/potter/paulus/fourbulx.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 32137
+        },
+        {
+            "title": "Horses in a Field",
+            "date": "1649",
+            "technique": "Oil on panel 24 x 30 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/potter/paulus/horses_f.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32138
+        },
+        {
+            "title": "A Husbandman with His Herd",
+            "date": "1648",
+            "technique": "Oil on oak 50 x 75 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/p/potter/paulus/husherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32139
+        },
+        {
+            "title": "A Husbandman with His Herd (detail)",
+            "date": "1648",
+            "technique": "Oil on oak",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/p/potter/paulus/husherd1.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32140
+        },
+        {
+            "title": "Landscape with Two Cows and a Goat",
+            "date": "1652",
+            "technique": "Oil on panel 31 x 35 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/potter/paulus/land2cow.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32141
+        },
+        {
+            "title": "Peasant Family with Animals",
+            "date": "1646",
+            "technique": "Oil on wood 371 x 295 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/p/potter/paulus/peasantf.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32142
+        },
+        {
+            "title": "Punishment of a Hunter",
+            "date": "c. 1647",
+            "technique": "Oil on wood 85 x 120 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/potter/paulus/punish.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 32143
+        },
+        {
+            "title": "Resting Herd",
+            "date": "1652",
+            "technique": "Oil on oak 36 x 47 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/p/potter/paulus/restherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32144
+        },
+        {
+            "title": "Landscape with Shepherdess and Shepherd Playing Flute",
+            "date": "c. 1643",
+            "technique": "Oil on panel 67 x 115 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/potter/paulus/shepherd.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32145
+        },
+        {
+            "title": "Landscape with Shepherdess and Shepherd Playing Flute (detail)",
+            "date": "1642-44",
+            "technique": "Oil on wood",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/p/potter/paulus/shepherx.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32146
+        },
+        {
+            "title": "The Spotted Horse",
+            "date": "1653",
+            "technique": "Oil on wood 30 x 41 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/p/potter/paulus/spotted.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32147
+        },
+        {
+            "title": "The Bull",
+            "date": "1649",
+            "technique": "Oil on oak 23 x 29 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/p/potter/paulus/the_bull.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32148
+        },
+        {
+            "title": "The Farm",
+            "date": "1649",
+            "technique": "Oil on panel 81 x 116 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/potter/paulus/the_farm.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 32149
+        },
+        {
+            "title": "Wolf-Hound",
+            "date": "1650-52",
+            "technique": "Oil on canvas 97 x 132 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/p/potter/paulus/wolfhoun.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32150
+        },
+        {
+            "title": "The Young Bull",
+            "date": "1647",
+            "technique": "Oil on canvas 236 x 339 cm",
+            "location": "Mauritshuis The Hague",
+            "url": "https://www.wga.hu/html/p/potter/paulus/y_bull.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 32151
+        },
+        {
+            "title": "Deer in the Wood",
+            "date": "1647",
+            "technique": "Black chalk 240 x 318 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/p/potter/paulus/z_deerwo.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 32152
+        },
+        {
+            "title": "Horsemen near a Barn",
+            "date": "1646",
+            "technique": "Black and white chalk on buff-coloured paper 170 x 130 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/p/potter/paulus/z_horsem.html",
+            "form": "graphics",
+            "painting_type": "landscape",
+            "index": 32153
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CONTIN Antonio",
+    "life": "(b. 1566 Lugano d. 1616 Venezia)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "The Bridge of Sighs",
+            "date": "c. 1602",
+            "technique": "Photo",
+            "location": "Riva degli Schiavoni Venice",
+            "url": "https://www.wga.hu/html/c/contin/antonio/bridge1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 9408
+        },
+        {
+            "title": "The Bridge of Sighs",
+            "date": "c. 1602",
+            "technique": "Photo",
+            "location": "Riva degli Schiavoni Venice",
+            "url": "https://www.wga.hu/html/c/contin/antonio/bridge2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 9409
+        },
+        {
+            "title": "The Prigioni Nuove",
+            "date": "1614",
+            "technique": "Photo",
+            "location": "Riva degli Schiavoni Venice",
+            "url": "https://www.wga.hu/html/c/contin/antonio/prigioni.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 9410
+        }
+    ]
+}

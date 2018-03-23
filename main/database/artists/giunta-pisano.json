@@ -1,0 +1,38 @@
+{
+    "name": "GIUNTA PISANO",
+    "life": "(active c. 1229-c. 1254 in Pisa)",
+    "school": "Italian",
+    "timeframe": "1201-1250",
+    "art": [
+        {
+            "title": "Double-Sided Processional Cross",
+            "date": "before 1204",
+            "technique": "Panel 59 x 42 cm",
+            "location": "Collezione Vittorio Cini Venice",
+            "url": "https://www.wga.hu/html/g/giunta/crucifi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16852
+        },
+        {
+            "title": "Crucifix",
+            "date": "1240s",
+            "technique": "Tempera on wood 316 x 285 cm",
+            "location": "San Domenico Bologna",
+            "url": "https://www.wga.hu/html/g/giunta/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16853
+        },
+        {
+            "title": "Crucifix",
+            "date": "1240s",
+            "technique": "Tempera on wood",
+            "location": "Santa Maria degli Angeli Assisi",
+            "url": "https://www.wga.hu/html/g/giunta/crucifiz.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 16854
+        }
+    ]
+}

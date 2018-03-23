@@ -1,0 +1,58 @@
+{
+    "name": "P\u00c9REZ Bartolom\u00e9",
+    "life": "(b. 1634 Madrid d. 1693 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Basket of Flowers",
+            "date": "1675-85",
+            "technique": "Oil on canvas 54 x 83 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/perez/basket.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30683
+        },
+        {
+            "title": "Garland of Flowers with St Anthony of Padua",
+            "date": "1689",
+            "technique": "Oil on canvas",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/p/perez/garland.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30684
+        },
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on canvas 60 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perez/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30685
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "c. 1690",
+            "technique": "Oil on panel 55 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perez/vase1.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30686
+        },
+        {
+            "title": "Vase of Flowers",
+            "date": "c. 1690",
+            "technique": "Oil on panel 55 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/p/perez/vase2.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 30687
+        }
+    ]
+}

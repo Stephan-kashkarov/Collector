@@ -1,0 +1,58 @@
+{
+    "name": "LA FOSSE Charles de",
+    "life": "(b. 1636 Paris d. 1716 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Bacchus and Ariadne",
+            "date": "c. 1699",
+            "technique": "Oil on canvas",
+            "location": "Mus\u00e9e des Beaux-Arts Dijon",
+            "url": "https://www.wga.hu/html/l/la_fosse/bacchus.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21272
+        },
+        {
+            "title": "Sunrise with the Chariot of Apollo",
+            "date": "c. 1672",
+            "technique": "Oil on canvas diameter 99 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "url": "https://www.wga.hu/html/l/la_fosse/chariot.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21273
+        },
+        {
+            "title": "Christ Appearing to Mary Magdalene",
+            "date": "1680-85",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/la_fosse/christ_a.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21274
+        },
+        {
+            "title": "Clytie Transformed into a Sunflower",
+            "date": "1688",
+            "technique": "Oil on canvas 131 x 159 cm",
+            "location": "Grand Trianon Versailles",
+            "url": "https://www.wga.hu/html/l/la_fosse/clytie.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 21275
+        },
+        {
+            "title": "The Finding of Moses",
+            "date": "1675-80",
+            "technique": "Oil on canvas 125 x 110 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/l/la_fosse/moses.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21276
+        }
+    ]
+}

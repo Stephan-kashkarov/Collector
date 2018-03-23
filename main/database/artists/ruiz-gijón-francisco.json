@@ -1,0 +1,28 @@
+{
+    "name": "RUIZ GIJ\u00d3N Francisco",
+    "life": "(b. 1653 Utrera d. 1720 Sevilla)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Dying Christ (El Cachorro)",
+            "date": "1682",
+            "technique": "Polychrome wood height 184 cm",
+            "location": "Iglesia del Patrocinio Seville",
+            "url": "https://www.wga.hu/html/r/ruiz/cachorro.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 35749
+        },
+        {
+            "title": "St John of the Cross (San Juan de la Cruz)",
+            "date": "1675",
+            "technique": "Polychromed and gilded wood with sgraffitto decoration 168 x 94 x 74 cm",
+            "location": "National Gallery of Art Washington",
+            "url": "https://www.wga.hu/html/r/ruiz/juancruz.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 35750
+        }
+    ]
+}

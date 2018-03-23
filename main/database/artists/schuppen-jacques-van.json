@@ -1,0 +1,28 @@
+{
+    "name": "SCHUPPEN Jacques van",
+    "life": "(b. 1670 Fontainebleau d. 1751 Wien)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Self-Portrait before the Easel",
+            "date": "1718",
+            "technique": "Oil on canvas 153 x 117 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/s/schuppen/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36743
+        },
+        {
+            "title": "Self-Portrait",
+            "date": "-",
+            "technique": "Oil on canvas 148 x 114 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/s/schuppen/selfporx.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 36744
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "ERRI Bartolomeo degli",
+    "life": "(active 1460-1479 in Modena)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
+    "art": [
+        {
+            "title": "St Vincent Ferrer Preaching before a Pope",
+            "date": "-",
+            "technique": "Tempera on panel 62 x 62 cm",
+            "location": "Ashmolean Museum Oxford",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/altarpi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13214
+        },
+        {
+            "title": "St Thomas Aquinas Aided by Sts Peter and Paul",
+            "date": "-",
+            "technique": "Tempera on wood 43 x 31 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/altarpi2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13215
+        },
+        {
+            "title": "Groupe of Figures Close to a Balustrade",
+            "date": "-",
+            "technique": "Tempera on panel 30 x 23 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/figures.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 13216
+        },
+        {
+            "title": "St Dominic Resuscitating Napoleone Orsini",
+            "date": "1476-74",
+            "technique": "Tempera on canvas transferred from wood 36 x 45 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/predella.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 13217
+        }
+    ]
+}

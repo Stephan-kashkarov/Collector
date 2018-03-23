@@ -1,0 +1,28 @@
+{
+    "name": "RETHEL Alfred",
+    "life": "(b. 1816 Diepenbend d. 1859 D\u00fcsseldorf)",
+    "school": "German",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "Death on the Barricades",
+            "date": "1849",
+            "technique": "Woodcut",
+            "location": "British Library London",
+            "url": "https://www.wga.hu/html/r/rethel/death.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 34127
+        },
+        {
+            "title": "Nemesis",
+            "date": "1837",
+            "technique": "Oil on canvas 95 x 48 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/r/rethel/nemesis.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 34128
+        }
+    ]
+}

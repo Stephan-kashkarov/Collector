@@ -1,0 +1,68 @@
+{
+    "name": "LEVITSKY Dmitry Grigorevich",
+    "life": "(b. 1735 Kiev d. 1822 St. Petersburg)",
+    "school": "Russian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Portrait of the Princesses Davidova and Rzevskaja",
+            "date": "1771-72",
+            "technique": "Oil on canvas 144 x 102 cm",
+            "location": "State Russian Museum St. Petersburg",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22189
+        },
+        {
+            "title": "Portrait of Prokofiy Demidov",
+            "date": "1773",
+            "technique": "Oil on canvas 223 x 166 cm",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22190
+        },
+        {
+            "title": "Portrait of Catherine II",
+            "date": "1782",
+            "technique": "Oil on canvas",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22191
+        },
+        {
+            "title": "Portrait of Catherine II",
+            "date": "1780s",
+            "technique": "Oil on canvas",
+            "location": "State Tretyakov Gallery Moscow",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22192
+        },
+        {
+            "title": "Portrait of Mikhail Krechetnikov",
+            "date": "1770s",
+            "technique": "Oil on canvas 63 x 50 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22193
+        },
+        {
+            "title": "Portrait of Nikolai Novikov",
+            "date": "1790s",
+            "technique": "Oil on canvas 66 x 54 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/l/levitsky/portrai6.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22194
+        }
+    ]
+}

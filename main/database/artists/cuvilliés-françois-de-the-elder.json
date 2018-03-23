@@ -1,0 +1,48 @@
+{
+    "name": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+    "life": "(b. 1695 Soignies Hainaut d. 1768 M\u00fcnchen)",
+    "school": "French",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1734-39",
+            "technique": "Photo",
+            "location": "Schloss Nymphenburg Munich",
+            "url": "https://www.wga.hu/html/c/cuvillie/amalien1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 10584
+        },
+        {
+            "title": "Interior view",
+            "date": "1734-39",
+            "technique": "Photo",
+            "location": "Schloss Nymphenburg Munich",
+            "url": "https://www.wga.hu/html/c/cuvillie/amalien2.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 10585
+        },
+        {
+            "title": "Exterior view",
+            "date": "1724 and 1728-40",
+            "technique": "Photo",
+            "location": "Augustusburg Br\u00fchl",
+            "url": "https://www.wga.hu/html/c/cuvillie/bruhl1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 10586
+        },
+        {
+            "title": "Exterior view",
+            "date": "1729-40",
+            "technique": "Photo",
+            "location": "Falkenlust hunting lodge Br\u00fchl",
+            "url": "https://www.wga.hu/html/c/cuvillie/bruhl2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 10587
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "VLIET Willem van der",
+    "life": "(b. ca. 1584 Delft d. 1642 Delft)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "An Allegory",
+            "date": "1627",
+            "technique": "Oil on canvas 112 x 149 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/v/vliet_w/allegory.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 43472
+        },
+        {
+            "title": "Philosopher and Pupils",
+            "date": "1626",
+            "technique": "Oil on panel 85 x 113 cm",
+            "location": "National Trust for Scotland Brodie Castle",
+            "url": "https://www.wga.hu/html/v/vliet_w/philosop.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 43473
+        },
+        {
+            "title": "Portrait of a Man",
+            "date": "1636",
+            "technique": "Oil on canvas 85 x 69 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/v/vliet_w/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 43474
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "CORT Cornelis",
+    "life": "(b. 1536 Hoorn d. 1578 Roma)",
+    "school": "Netherlandish",
+    "timeframe": "1551-1600",
+    "art": [
+        {
+            "title": "The Trinity in Glory",
+            "date": "1566",
+            "technique": "Engraving 531 x 380 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cort/1titian.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9632
+        },
+        {
+            "title": "Diana and Callisto",
+            "date": "1566",
+            "technique": "Engraving 440 x 369 mm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/c/cort/2titian.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9633
+        },
+        {
+            "title": "Destruction of the Statue of Bel",
+            "date": "1565",
+            "technique": "Engraving 204 x 248 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/c/cort/destruct.html",
+            "form": "graphics",
+            "painting_type": "historical",
+            "index": 9634
+        },
+        {
+            "title": "Madonna del Gatto",
+            "date": "1577",
+            "technique": "Engraving 332 x 240 mm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/c/cort/gatto.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9635
+        },
+        {
+            "title": "Hearing",
+            "date": "1561",
+            "technique": "Engraving",
+            "location": "Rijksprentenkabinet Amsterdam",
+            "url": "https://www.wga.hu/html/c/cort/hearing.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9636
+        },
+        {
+            "title": "Head of Medusa",
+            "date": "-",
+            "technique": "Engraving 334 x 226 mm",
+            "location": "Biblioth\u00e8que Royale de Belgique Brussels",
+            "url": "https://www.wga.hu/html/c/cort/medusa.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 9637
+        },
+        {
+            "title": "Annunciation to the Virgin",
+            "date": "1571",
+            "technique": "Two-part engraving 463 x 327 mm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/c/cort/zuccaro.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 9638
+        }
+    ]
+}

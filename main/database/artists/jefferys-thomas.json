@@ -1,0 +1,28 @@
+{
+    "name": "JEFFERYS Thomas",
+    "life": "(c. 1719-1771)",
+    "school": "English",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Habit of the King of Poland",
+            "date": "1757",
+            "technique": "Engraving",
+            "location": "Smithsonian Institution Libraries Washington",
+            "url": "https://www.wga.hu/html/j/jefferys/habit.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 20629
+        },
+        {
+            "title": "Plan of the Town and Fort of Grenada",
+            "date": "1760",
+            "technique": "Engraving",
+            "location": "John Carter Brown Library Brown University Providence Rhode Island",
+            "url": "https://www.wga.hu/html/j/jefferys/plan.html",
+            "form": "graphics",
+            "painting_type": "other",
+            "index": 20630
+        }
+    ]
+}

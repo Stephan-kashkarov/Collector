@@ -1,0 +1,48 @@
+{
+    "name": "RYCKAERT Maerten",
+    "life": "(b. 1587 Antwerpen d. 1633 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Coastal Landscape of the Rhine Valley",
+            "date": "c. 1610",
+            "technique": "Oil on copper 29 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/maerten/coastal.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35872
+        },
+        {
+            "title": "Pastoral Landscape",
+            "date": "-",
+            "technique": "Oil on oak panel 26 x 37 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/maerten/pastoral.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35873
+        },
+        {
+            "title": "Rocky Pastoral Landscape",
+            "date": "-",
+            "technique": "Oil on copper 20 x 31 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/maerten/rockylan.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35874
+        },
+        {
+            "title": "Landscape with a Torrent",
+            "date": "-",
+            "technique": "Oil on panel 11 x 19 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/maerten/torrent.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 35875
+        }
+    ]
+}

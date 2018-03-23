@@ -1,0 +1,98 @@
+{
+    "name": "KULMBACH Hans S\u00fcss von",
+    "life": "(b. ca. 1480 Kulmbach d. 1522 N\u00fcrnberg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Adoration of the Magi",
+            "date": "1511",
+            "technique": "Linden panel 153 x 110 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/k/kulmbach/adoratio.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21255
+        },
+        {
+            "title": "The Ascension of Christ",
+            "date": "1513",
+            "technique": "Oil on fir panel 60 x 36 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/k/kulmbach/ascensi.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21256
+        },
+        {
+            "title": "The Ascension of Christ (detail)",
+            "date": "1513",
+            "technique": "Oil on fir panel",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/k/kulmbach/ascensi1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21257
+        },
+        {
+            "title": "The Calling of St Peter",
+            "date": "1514-16",
+            "technique": "Oil on wood 130 x 100 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/k/kulmbach/calling.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 21258
+        },
+        {
+            "title": "Girl Making a Garland",
+            "date": "c. 1508",
+            "technique": "Oil on poplar panel 19 x 15 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/k/kulmbach/girlgarl.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 21259
+        },
+        {
+            "title": "Portrait of the Margrave Casimir of Brandenburg",
+            "date": "1511",
+            "technique": "Lime panel 43 x 315 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/k/kulmbach/margrave.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21260
+        },
+        {
+            "title": "Nude Woman with a Mirror",
+            "date": "1500-05",
+            "technique": "Pen and brown ink 171 x 105 mm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/k/kulmbach/nude_wom.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 21261
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "c. 1508",
+            "technique": "Oil on poplar panel 19 x 15 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/k/kulmbach/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 21262
+        },
+        {
+            "title": "Two Pairs of Lovers and an Old Woman",
+            "date": "1504-05",
+            "technique": "Pen and ink on paper 184 x 253 mm",
+            "location": "Staatliche Graphische Sammlung Munich",
+            "url": "https://www.wga.hu/html/k/kulmbach/twopairs.html",
+            "form": "graphics",
+            "painting_type": "study",
+            "index": 21263
+        }
+    ]
+}

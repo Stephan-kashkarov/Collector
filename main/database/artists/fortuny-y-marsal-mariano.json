@@ -1,0 +1,48 @@
+{
+    "name": "FORTUNY Y MARSAL Mariano",
+    "life": "(b. 1838 Reus d. 1874 Roma)",
+    "school": "Spanish",
+    "timeframe": "1851-1900",
+    "art": [
+        {
+            "title": "Fortuny's Garden",
+            "date": "-",
+            "technique": "Oil on canvas 40 x 27 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/f/fortuny/garden.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 14074
+        },
+        {
+            "title": "The Artist's Children in the Japanese Salon",
+            "date": "1874",
+            "technique": "Oil on canvas 44 x 93 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/f/fortuny/japanese.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 14075
+        },
+        {
+            "title": "Nude on the Beach at Portici",
+            "date": "1874",
+            "technique": "Oil on wood 13 x 19 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/f/fortuny/nude.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 14076
+        },
+        {
+            "title": "At the Vicarage",
+            "date": "1870",
+            "technique": "Oil on panel 55 x 92 cm",
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "url": "https://www.wga.hu/html/f/fortuny/vicarage.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 14077
+        }
+    ]
+}

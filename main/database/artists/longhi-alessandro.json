@@ -1,0 +1,88 @@
+{
+    "name": "LONGHI Alessandro",
+    "life": "(b. 1733 Venezia d. 1813 Venezia)",
+    "school": "Italian",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "Painting and Merit",
+            "date": "c. 1761",
+            "technique": "Oil on canvas 130 x 94 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/0piece.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22907
+        },
+        {
+            "title": "Portrait of Jacopo Gradenigo",
+            "date": "1778-81",
+            "technique": "Oil on canvas 233 x 137 cm",
+            "location": "Museo Civico Padua",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/gradenig.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22908
+        },
+        {
+            "title": "Portrait of Carlo Lodoli",
+            "date": "1760s",
+            "technique": "Oil on canvas 201 x 94 cm",
+            "location": "Gallerie dell'Accademia Venice",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/lodoli.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22909
+        },
+        {
+            "title": "Portrait of Dr. Pietro Pellegrini",
+            "date": "-",
+            "technique": "Oil on canvas",
+            "location": "Ateneo Veneto Venice",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/pellegri.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22910
+        },
+        {
+            "title": "Portrait of Giambattista Piazzetta",
+            "date": "c. 1760",
+            "technique": "Oil on canvas",
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/piazzett.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22911
+        },
+        {
+            "title": "Portrait of Gentleman",
+            "date": "-",
+            "technique": "Oil on canvas 65 x 54 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/port_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22912
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "date": "1780s",
+            "technique": "Oil on canvas 206 x 115 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/portgent.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22913
+        },
+        {
+            "title": "Portrait of a Lady",
+            "date": "c. 1770",
+            "technique": "Oil on canvas 100 x 80 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/l/longhi/alessand/portlady.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22914
+        }
+    ]
+}

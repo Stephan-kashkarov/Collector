@@ -1,0 +1,48 @@
+{
+    "name": "HOLBEIN Ambrosius",
+    "life": "(b. 1495 Augsburg d. 1519 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "Death of the Virgin",
+            "date": "1518-19",
+            "technique": "Gum tempera on canvas mounted on wood 66 x 49 cm",
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "url": "https://www.wga.hu/html/h/holbein/ambrosiu/deathvir.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 19811
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "date": "1518",
+            "technique": "Oil on wood 43 x 32 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/h/holbein/ambrosiu/portrait.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 19812
+        },
+        {
+            "title": "Signboard for a Schoolmaster",
+            "date": "1516",
+            "technique": "Pine panel 55.5 x 65.7 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/h/holbein/ambrosiu/signboar.html",
+            "form": "painting",
+            "painting_type": "other",
+            "index": 19813
+        },
+        {
+            "title": "The Island of Utopia",
+            "date": "1518",
+            "technique": "Woodcut 178 x 118 cm",
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "url": "https://www.wga.hu/html/h/holbein/ambrosiu/utopia.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 19814
+        }
+    ]
+}

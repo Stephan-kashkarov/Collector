@@ -1,0 +1,58 @@
+{
+    "name": "DIENTZENHOFER Johann",
+    "life": "(b. 1663 Sankt Margarethen d. 1726 Bamberg)",
+    "school": "German",
+    "timeframe": "1701-1750",
+    "art": [
+        {
+            "title": "Exterior view",
+            "date": "1711-18",
+            "technique": "Photo",
+            "location": "Schloss Weissenstein Pommersfelden",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen1.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11516
+        },
+        {
+            "title": "Exterior view",
+            "date": "1711-18",
+            "technique": "Photo",
+            "location": "Schloss Weissenstein Pommersfelden",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen2.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11517
+        },
+        {
+            "title": "General view",
+            "date": "1711-18",
+            "technique": "Photo",
+            "location": "Schloss Weissenstein Pommersfelden",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen3.html",
+            "form": "architecture",
+            "painting_type": "other",
+            "index": 11518
+        },
+        {
+            "title": "Interior view",
+            "date": "1711-18",
+            "technique": "Photo",
+            "location": "Schloss Weissenstein Pommersfelden",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen4.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 11519
+        },
+        {
+            "title": "Interior view",
+            "date": "1711-18",
+            "technique": "Photo",
+            "location": "Schloss Weissenstein Pommersfelden",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen5.html",
+            "form": "architecture",
+            "painting_type": "interior",
+            "index": 11520
+        }
+    ]
+}

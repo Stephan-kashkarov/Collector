@@ -1,0 +1,28 @@
+{
+    "name": "FRYTOM Frederik van",
+    "life": "(b. ca. 1630 ? d. 1702 Delft)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
+    "art": [
+        {
+            "title": "Dish with a landscape",
+            "date": "c. 1680",
+            "technique": "Faience painted blue in the glaze diameter 19 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/f/frytom/dish.html",
+            "form": "ceramics",
+            "painting_type": "landscape",
+            "index": 14523
+        },
+        {
+            "title": "Two plaques with a landscape",
+            "date": "c. 1690",
+            "technique": "Blue-painted faience 35 x 34 cm (each)",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/f/frytom/plaques.html",
+            "form": "ceramics",
+            "painting_type": "landscape",
+            "index": 14524
+        }
+    ]
+}

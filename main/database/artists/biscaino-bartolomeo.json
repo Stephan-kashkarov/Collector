@@ -1,0 +1,48 @@
+{
+    "name": "BISCAINO Bartolomeo",
+    "life": "(b. 1629 Genova d. 1657 Genova)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "St John the Almoner",
+            "date": "-",
+            "technique": "Oil on canvas 138 x 99 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/biscaino/almoner.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4623
+        },
+        {
+            "title": "Volumnia with Sons before Coriolanus",
+            "date": "-",
+            "technique": "Oil on canvas. 139 x 190 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/b/biscaino/coriolan.html",
+            "form": "painting",
+            "painting_type": "historical",
+            "index": 4624
+        },
+        {
+            "title": "Adoration of the Magi",
+            "date": "c. 1650",
+            "technique": "Oil on canvas 124 \u00d7 173 cm",
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "url": "https://www.wga.hu/html/b/biscaino/magi_ado.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 4625
+        },
+        {
+            "title": "The Mystic Marriage of Saint Catherine",
+            "date": "1650s",
+            "technique": "Red chalk heightened with white 233 x 205 mm",
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "url": "https://www.wga.hu/html/b/biscaino/mysticma.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 4626
+        }
+    ]
+}

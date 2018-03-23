@@ -1,0 +1,38 @@
+{
+    "name": "FRANC\u00c9S Nicol\u00e1s",
+    "life": "(active 1424-1468 in Le\u00f3n)",
+    "school": "Spanish",
+    "timeframe": "1401-1450",
+    "art": [
+        {
+            "title": "Crucifixion",
+            "date": "-",
+            "technique": "Tempera on panel gold and silver ground 69 x 58 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/f/frances/crucifix.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14200
+        },
+        {
+            "title": "St Jerome in his Cell",
+            "date": "1450s",
+            "technique": "Tempera on wood 160 x 80 cm",
+            "location": "National Gallery of Ireland Dublin",
+            "url": "https://www.wga.hu/html/f/frances/jerome.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14201
+        },
+        {
+            "title": "Scenes from the Life of St Francis",
+            "date": "1440s",
+            "technique": "Panel 360 x 186 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/f/frances/s_franci.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 14202
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "VORSTERMAN Lucas",
+    "life": "(b. 1595 Zaltbommel d. 1675 Antwerp)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Brutus",
+            "date": "1638",
+            "technique": "Engraving 292 x 199 mm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/v/vorsterm/brutus.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 43525
+        },
+        {
+            "title": "Holy Family with St John and St Elizabeth",
+            "date": "1620",
+            "technique": "Copperplate engraving 265 x 205 mm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/v/vorsterm/holyfami.html",
+            "form": "graphics",
+            "painting_type": "religious",
+            "index": 43526
+        },
+        {
+            "title": "Portrait of Nicolaas Rockox",
+            "date": "1625",
+            "technique": "Copperplate engraving 290 x 320 mm",
+            "location": "Rockox House Antwerp",
+            "url": "https://www.wga.hu/html/v/vorsterm/rockox.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 43527
+        },
+        {
+            "title": "Triumph of Poverty",
+            "date": "-",
+            "technique": "Pen in brown with gray and brown wash black and red chalks and white highlights 437 x 585 cm",
+            "location": "British Museum London",
+            "url": "https://www.wga.hu/html/v/vorsterm/triumph.html",
+            "form": "graphics",
+            "painting_type": "mythological",
+            "index": 43528
+        }
+    ]
+}

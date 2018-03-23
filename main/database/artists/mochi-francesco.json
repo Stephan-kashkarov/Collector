@@ -1,0 +1,128 @@
+{
+    "name": "MOCHI Francesco",
+    "life": "(b. 1580 Montevarchi d. 1654 Roma)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Angel of Annunciation",
+            "date": "1603-05",
+            "technique": "Marble over life-size",
+            "location": "Museo dell'Opera del Duomo Orvieto",
+            "url": "https://www.wga.hu/html/m/mochi/angel.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28342
+        },
+        {
+            "title": "Virgin Annunciate",
+            "date": "1608-09",
+            "technique": "Marble over life-size",
+            "location": "Museo dell'Opera del Duomo Orvieto",
+            "url": "https://www.wga.hu/html/m/mochi/angel1.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28343
+        },
+        {
+            "title": "Bust of Cardinal Antonio Barberini",
+            "date": "1628-29",
+            "technique": "Marble life-size",
+            "location": "Toledo Museum of Art Toledo Ohio",
+            "url": "https://www.wga.hu/html/m/mochi/barberin.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28344
+        },
+        {
+            "title": "Equestrian Statue of Ranuccio Farnese",
+            "date": "1612",
+            "technique": "Bronze over life-size",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 28345
+        },
+        {
+            "title": "Equestrian Statue of Ranuccio Farnese (detail)",
+            "date": "1612",
+            "technique": "Bronze height 30 cm",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 28346
+        },
+        {
+            "title": "Equestrian Statue of Alessandro Farnese",
+            "date": "1620-25",
+            "technique": "Bronze",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese4.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28347
+        },
+        {
+            "title": "Equestrian Statue of Alessandro Farnese (detail)",
+            "date": "1620-25",
+            "technique": "Bronze",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese5.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 28348
+        },
+        {
+            "title": "Equestrian Statue of Alessandro Farnese",
+            "date": "1620-25",
+            "technique": "Bronze",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese6.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28349
+        },
+        {
+            "title": "Equestrian Statue of Alessandro Farnese (detail)",
+            "date": "1620-25",
+            "technique": "Bronze",
+            "location": "Piazza Cavalli Piacenza",
+            "url": "https://www.wga.hu/html/m/mochi/farnese7.html",
+            "form": "sculpture",
+            "painting_type": "portrait",
+            "index": 28350
+        },
+        {
+            "title": "St Martha",
+            "date": "c. 1609-21",
+            "technique": "Marble height 240 cm",
+            "location": "Sant'Andrea della Valle Rome",
+            "url": "https://www.wga.hu/html/m/mochi/s_martha.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28351
+        },
+        {
+            "title": "The Baptism of Christ",
+            "date": "1634",
+            "technique": "Marble height 315 cm",
+            "location": "Palazzo Braschi Rome",
+            "url": "https://www.wga.hu/html/m/mochi/thebapti.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 28352
+        },
+        {
+            "title": "St Veronica",
+            "date": "1629-32",
+            "technique": "Marble height 500 cm",
+            "location": "Basilica di San Pietro Vatican",
+            "url": "https://www.wga.hu/html/m/mochi/veronica.html",
+            "form": "sculpture",
+            "painting_type": "religious",
+            "index": 28353
+        }
+    ]
+}

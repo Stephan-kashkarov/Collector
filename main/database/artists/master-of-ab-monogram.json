@@ -1,0 +1,68 @@
+{
+    "name": "MASTER of AB Monogram",
+    "life": "(active 1530s in Saxony)",
+    "school": "German",
+    "timeframe": "1501-1550",
+    "art": [
+        {
+            "title": "The Annunciation",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 42 x 39 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/ab/panel1.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24717
+        },
+        {
+            "title": "The Visitation",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 42 x 39 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/ab/panel2.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24718
+        },
+        {
+            "title": "The Birth of Jesus",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 42 x 40 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/ab/panel3.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24719
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 42 x 39 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/ab/panel4.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24720
+        },
+        {
+            "title": "The Circumcision",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 42 x 39 cm",
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "url": "https://www.wga.hu/html/m/master/ab/panel5.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24721
+        },
+        {
+            "title": "The Flight into Egypt",
+            "date": "c. 1530",
+            "technique": "Oil on lime wood panel 44 x 39 cm",
+            "location": "Pushkin Museum Moscow",
+            "url": "https://www.wga.hu/html/m/master/ab/panel6.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 24722
+        }
+    ]
+}

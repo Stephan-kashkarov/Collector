@@ -1,0 +1,238 @@
+{
+    "name": "LIEVENS Jan",
+    "life": "(b. 1607 Leiden d. 1674 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Prince Charles Louis with His Tutor as Alexander Instructed by Aristotle",
+            "date": "1631",
+            "technique": "Oil on canvas 104 x 97 cm",
+            "location": "J. Paul Getty Museum Los Angeles",
+            "url": "https://www.wga.hu/html/l/lievens/1charles.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22341
+        },
+        {
+            "title": "Bust of a Young Girl",
+            "date": "1630-32",
+            "technique": "Oil on panel 62 x 48 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/lievens/1girl.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22342
+        },
+        {
+            "title": "Portrait of Petrus Egidius de Morrion",
+            "date": "1637",
+            "technique": "Oil on wood 835 x 59 cm",
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "url": "https://www.wga.hu/html/l/lievens/2morrion.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22343
+        },
+        {
+            "title": "The Four Elements and Ages of Man: Fire and Childhood",
+            "date": "c. 1668",
+            "technique": "Oil on oak 83 x 58 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/l/lievens/4elemen1.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22344
+        },
+        {
+            "title": "The Four Elements and Ages of Man: Air and Youth",
+            "date": "c. 1668",
+            "technique": "Oil on oak 84 x 60 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/l/lievens/4elemen2.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22345
+        },
+        {
+            "title": "The Four Elements and Ages of Man: Earth and Maturity",
+            "date": "c. 1668",
+            "technique": "Oil on oak 83 x 60 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/l/lievens/4elemen3.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22346
+        },
+        {
+            "title": "The Four Elements and Ages of Man: Water and Old Age",
+            "date": "c. 1668",
+            "technique": "Oil on oak 84 x 59 cm",
+            "location": "Staatliche Museen Kassel",
+            "url": "https://www.wga.hu/html/l/lievens/4elemen4.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22347
+        },
+        {
+            "title": "Portrait of Ephraim Bueno",
+            "date": "1650s",
+            "technique": "Etching 530 x 445 mm",
+            "location": "Joods Historisch Museum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lievens/bueno.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22348
+        },
+        {
+            "title": "Jacob Receiving the Bloody Tunic of Joseph",
+            "date": "-",
+            "technique": "Oil on canvas 57 x 75 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/jacobjos.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22349
+        },
+        {
+            "title": "Portrait of Poet Jan Vos",
+            "date": "-",
+            "technique": "Pen 322 x 253 mm",
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "url": "https://www.wga.hu/html/l/lievens/jan_vos.html",
+            "form": "graphics",
+            "painting_type": "portrait",
+            "index": 22350
+        },
+        {
+            "title": "The Raising of Lazarus",
+            "date": "1630",
+            "technique": "Oil on canvas 103 x 112 cm",
+            "location": "Museum and Art Gallery Brighton",
+            "url": "https://www.wga.hu/html/l/lievens/lazarus.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22351
+        },
+        {
+            "title": "Portrait of an Old Man",
+            "date": "1630-35",
+            "technique": "Oil on canvas 61 x 46 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/old_man.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22352
+        },
+        {
+            "title": "Study of an Old Man",
+            "date": "c. 1630",
+            "technique": "Oil on oak panel 53 x 42 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/old_man1.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22353
+        },
+        {
+            "title": "Bearded Old Man with a Brown Cloak",
+            "date": "c. 1631",
+            "technique": "Oil on canvas 67 x 56 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/old_man2.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22354
+        },
+        {
+            "title": "Head of an Old Man",
+            "date": "1631-32",
+            "technique": "Oil on panel 59 x 43 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/old_man3.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22355
+        },
+        {
+            "title": "A Tronie",
+            "date": "1635-40",
+            "technique": "Oil on panel 63 x 52 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/old_man4.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22356
+        },
+        {
+            "title": "Old Man in Oriental Garb",
+            "date": "1628-30",
+            "technique": "Oil on canvas 135 x 101 cm",
+            "location": "Schloss Sanssouci Berlin",
+            "url": "https://www.wga.hu/html/l/lievens/oriental.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22357
+        },
+        {
+            "title": "Pilate Washing his Hands",
+            "date": "-",
+            "technique": "Panel",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/l/lievens/pilate.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 22358
+        },
+        {
+            "title": "Rembrandt van Rijn with Gorget",
+            "date": "c. 1629",
+            "technique": "Oil on panel 57 x 44 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lievens/rembrand.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22359
+        },
+        {
+            "title": "Samson and Delilah",
+            "date": "1625-26",
+            "technique": "Oil on canvas 129 x 110 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/l/lievens/samsonde.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 22360
+        },
+        {
+            "title": "Study of an Old Man",
+            "date": "c. 1629",
+            "technique": "Oil on oak panel 58 x 47 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/l/lievens/studyold.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22361
+        },
+        {
+            "title": "The Violin Player",
+            "date": "c. 1625",
+            "technique": "Panel",
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "url": "https://www.wga.hu/html/l/lievens/violin_p.html",
+            "form": "painting",
+            "painting_type": "genre",
+            "index": 22362
+        },
+        {
+            "title": "Young Man in a Yellow Robe",
+            "date": "1630-31",
+            "technique": "Oil on canvas 112 x 99 cm",
+            "location": "National Gallery of Scotland Edinburgh",
+            "url": "https://www.wga.hu/html/l/lievens/yellowro.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 22363
+        }
+    ]
+}

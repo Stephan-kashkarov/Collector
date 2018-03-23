@@ -1,0 +1,28 @@
+{
+    "name": "RYCKAERT David II",
+    "life": "(b. 1586 Antwerpen d. 1642 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
+    "art": [
+        {
+            "title": "Still-Life",
+            "date": "-",
+            "technique": "Oil on panel 37 x 50 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/david2/stil_lif.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35864
+        },
+        {
+            "title": "Still-Life",
+            "date": "1615-20",
+            "technique": "Oil on panel 68 x 104 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/r/ryckaert/david2/stillife.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 35865
+        }
+    ]
+}

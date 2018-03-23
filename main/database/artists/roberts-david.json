@@ -1,0 +1,28 @@
+{
+    "name": "ROBERTS David",
+    "life": "(b. 1796 Stockbridge d. 1864 London)",
+    "school": "Scottish",
+    "timeframe": "1801-1850",
+    "art": [
+        {
+            "title": "A View in Cairo",
+            "date": "1840",
+            "technique": "Oil on canvas 91 x 70 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/r/roberts/cairo.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34698
+        },
+        {
+            "title": "The Castle of Alcal\u00e1 de Guadaira",
+            "date": "1830s",
+            "technique": "Oil on canvas 40 x 48 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/r/roberts/castle.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 34699
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "AUGUSTIN Jean-Baptiste-Jacques",
+    "life": "(b. 1759 Saint-Di\u00e9 d. 1832 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
+    "art": [
+        {
+            "title": "A Bacchante",
+            "date": "1799",
+            "technique": "Ivory diameter: 8 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/a/augustin/bacchant.html",
+            "form": "painting",
+            "painting_type": "mythological",
+            "index": 2816
+        },
+        {
+            "title": "Portrait of the Sculptor Callamard",
+            "date": "1801",
+            "technique": "Miniature on ivory 20 x 16 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/augustin/callamar.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2817
+        },
+        {
+            "title": "Portrait of a Young Woman in Lilac Dress",
+            "date": "c. 1785",
+            "technique": "Watercolour and gouache on ivory diameter 72 mm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/augustin/port_wom.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 2818
+        }
+    ]
+}

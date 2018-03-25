@@ -5,8 +5,8 @@
 		"../scss/main.scss"
 	],
 	"sourcesContent": [
-		"$dark: #3B4040;\r\n$mid: #767F7F;\r\n$light: #EDFFFF;\r\n\r\nnav {\r\n\twidth: 100%;\r\n\theight: 20%;\r\n\tbackground-color: $dark;\r\n\ttext-align: center;\r\n\r\n}\r\n\r\n\r\ni {\r\n\tborder: solid black;\r\n\tborder-width: 0 3px 3px 0;\r\n\tdisplay: inline-block;\r\n\tpadding: 3px;\r\n\t.down {\r\n\t\ttransform: rotate(45deg);\r\n\t\t-webkit-transform: rotate(45deg);\r\n\t}\r\n}\r\n"
+		"$dark: #3B4040;\r\n$mid: #767F7F;\r\n$light: #EDFFFF;\r\n// main stuff\r\n*{\r\n\tnav {\r\n\t\twidth: 100%;\r\n\t\theight: 20%;\r\n\t\tbackground-color: $dark;\r\n\t\ttext-align: center;\r\n\r\n\t}\r\n\tmain {\r\n\t\ttop: 20%;\r\n\t\theight: 80%;\r\n\t\twidth: 100%;\r\n\t}\r\n\r\n\tfooter {\r\n\t\ttop: 80;\r\n\t\twidth: 100%;\r\n\t\tbackground-color: $mid;\r\n\t}\r\n\r\n\r\n\t// misc stuff\r\n\ti {\r\n\t\tborder: solid black;\r\n\t\tborder-width: 0 3px 3px 0;\r\n\t\tdisplay: inline-block;\r\n\t\tpadding: 3px;\r\n\t}\r\n\t.down {\r\n\t\ttransform: rotate(45deg);\r\n\t\t-webkit-transform: rotate(45deg);\r\n\t}\r\n}\r\n"
 	],
-	"mappings": ";AAIA,AAAA,GAAG,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,GAAI;EACZ,gBAAgB,EAPV,OAAO;EAQb,UAAU,EAAE,MAAO;CAEnB;;;AAGD,AAAA,CAAC,CAAC;EACD,MAAM,EAAE,WAAY;EACpB,YAAY,EAAE,WAAY;EAC1B,OAAO,EAAE,YAAa;EACtB,OAAO,EAAE,GAAI;CAKb;;;AATD,AAKC,CALA,CAKA,KAAK,CAAC;EACL,SAAS,EAAE,aAAM;EACjB,iBAAiB,EAAE,aAAM;CACzB",
+	"mappings": ";AAIA,AACC,CADA,CACA,GAAG,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,GAAI;EACZ,gBAAgB,EARX,OAAO;EASZ,UAAU,EAAE,MAAO;CAEnB;;;AAPF,AAQC,CARA,CAQA,IAAI,CAAC;EACJ,GAAG,EAAE,GAAI;EACT,MAAM,EAAE,GAAI;EACZ,KAAK,EAAE,IAAK;CACZ;;;AAZF,AAcC,CAdA,CAcA,MAAM,CAAC;EACN,GAAG,EAAE,EAAG;EACR,KAAK,EAAE,IAAK;EACZ,gBAAgB,EApBZ,OAAO;CAqBX;;;AAlBF,AAsBC,CAtBA,CAsBA,CAAC,CAAC;EACD,MAAM,EAAE,WAAY;EACpB,YAAY,EAAE,WAAY;EAC1B,OAAO,EAAE,YAAa;EACtB,OAAO,EAAE,GAAI;CACb;;;AA3BF,AA4BC,CA5BA,CA4BA,KAAK,CAAC;EACL,SAAS,EAAE,aAAM;EACjB,iBAAiB,EAAE,aAAM;CACzB",
 	"names": []
 }

@@ -5,8 +5,8 @@
 		"../scss/main.scss"
 	],
 	"sourcesContent": [
-		"$dark: #3B4040;\r\n$mid: #767F7F;\r\n$light: #EDFFFF;\r\n\r\nnav {\r\n\tbackground-color: $mid;\r\n\theight: 20%;\r\n\twidth: 100%;\r\n\ttext-align: center;\r\n\tpadding: 40px;\r\n\r\n\timg {\r\n\t\tfloat: left;\r\n\t\theight: inherit;\r\n\t\twidth: 10%;\r\n\t\tbackground-color: $mid;\r\n\t}\r\n\r\n\tinput {\r\n\t\tfont-size: 15px;\r\n\t\theight: 20px;\r\n\t}\r\n\r\n\tbutton {\r\n\t\tfont-size: 15px;\r\n\t\theight: 20px;\r\n\t}\r\n}\r\n\r\nmain {\r\n\tbackground-color: $light;\r\n\theight: 80%;\r\n\tpadding: 20px;\r\n}\r\n\r\nfooter {\r\n\tbackground-color: $dark;\r\n\theight: 100px;\r\n}\r\n\r\n.wrapper {\r\n\tmargin-left: 20%;\r\n\tmargin-right: 20%;\r\n\tborder-left: 20%;\r\n\tborder-right: 20%;\r\n}\r\n"
+		"$dark: #3B4040;\r\n$mid: #767F7F;\r\n$light: #EDFFFF;\r\n\r\nnav {\r\n\twidth: 100%;\r\n\theight: 20%;\r\n\tbackground-color: $dark;\r\n\ttext-align: center;\r\n}\r\n"
 	],
-	"mappings": ";AAIA,AAAA,GAAG,CAAC;EACH,gBAAgB,EAJX,OAAO;EAKZ,MAAM,EAAE,GAAI;EACZ,KAAK,EAAE,IAAK;EACZ,UAAU,EAAE,MAAO;EACnB,OAAO,EAAE,IAAK;CAkBd;;;AAvBD,AAOC,GAPE,CAOF,GAAG,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,OAAQ;EAChB,KAAK,EAAE,GAAI;EACX,gBAAgB,EAdZ,OAAO;CAeX;;;AAZF,AAcC,GAdE,CAcF,KAAK,CAAC;EACL,SAAS,EAAE,IAAK;EAChB,MAAM,EAAE,IAAK;CACb;;;AAjBF,AAmBC,GAnBE,CAmBF,MAAM,CAAC;EACN,SAAS,EAAE,IAAK;EAChB,MAAM,EAAE,IAAK;CACb;;;AAGF,AAAA,IAAI,CAAC;EACJ,gBAAgB,EA5BT,OAAO;EA6Bd,MAAM,EAAE,GAAI;EACZ,OAAO,EAAE,IAAK;CACd;;;AAED,AAAA,MAAM,CAAC;EACN,gBAAgB,EApCV,OAAO;EAqCb,MAAM,EAAE,KAAM;CACd;;;AAED,AAAA,QAAQ,CAAC;EACR,WAAW,EAAE,GAAI;EACjB,YAAY,EAAE,GAAI;EAClB,WAAW,EAAE,GAAI;EACjB,YAAY,EAAE,GAAI;CAClB",
+	"mappings": ";AAIA,AAAA,GAAG,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,GAAI;EACZ,gBAAgB,EAPV,OAAO;EAQb,UAAU,EAAE,MAAO;CACnB",
 	"names": []
 }

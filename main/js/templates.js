@@ -81,10 +81,10 @@ const art_profile = ({
 </li>
 `
 const auto_complete = ({
-	title
+	name
 }) =>
 `
 <option>
-	${title}
+	${name}
 <option>
 `

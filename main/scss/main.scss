@@ -4,6 +4,7 @@ $light: #EDFFFF;
 
 *{
 // main stuff
+background-color: $light;
 	nav {
 		width: 100%;
 		height: 20%;
@@ -19,7 +20,13 @@ $light: #EDFFFF;
 			-webkit-border-radius: 20px;
 		}
 		.visually-hidden {
-			display: none !important; 
+			display: none !important;
+		}
+		.awesomplete {
+			background-color: $dark;
+			.awesomplete_list_1 {
+				background-color: $dark
+			}
 		}
 
 	}
@@ -27,16 +34,40 @@ $light: #EDFFFF;
 		top: 20%;
 		height: 80%;
 		width: 100%;
+		.intro {
+			text-align: center;
+			.title {
+				border: 2px solid;
+				font-weight: bold;
+			}
+		}
 	}
 
 	footer {
-		top: 80%;
+		top: 75%;
 		width: 100%;
+		left: 0;
+		right: 0;
 		background-color: $mid;
+		overflow: hidden;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		position: fixed;
+		.left-side {
+			background-color: $light;
+			float: left;
+		}
+		ul {
+			display: none;
+			float: right;
+		}
 	}
 
 
 // misc stuff
+	.center{
+		text-align: center;
+	}
 	.wrapper {
 		padding-left: 20%;
 		padding-right: 20%;

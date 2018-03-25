@@ -24,7 +24,7 @@ background-color: $light;
 		}
 		.awesomplete {
 			background-color: $dark;
-			.awesomplete_list_1 {
+			#awesomplete_list_1 {
 				background-color: $dark
 			}
 		}
@@ -53,13 +53,13 @@ background-color: $light;
 		padding-top: 5%;
 		padding-bottom: 5%;
 		position: fixed;
+		text-align: center;
 		.left-side {
 			background-color: $light;
-			float: left;
+			text-align: center;
 		}
 		ul {
 			display: none;
-			float: right;
 		}
 	}
 
@@ -69,8 +69,8 @@ background-color: $light;
 		text-align: center;
 	}
 	.wrapper {
-		padding-left: 20%;
-		padding-right: 20%;
+		margin-left: 20%;
+		margin-right: 20%;
 	}
 
 	i {

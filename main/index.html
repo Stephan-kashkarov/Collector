@@ -17,10 +17,11 @@
 	<body>
 		<nav>
 			<div class="wrapper">
-				<input class="sorter" id="artist_input" placeholder="Search by Author!"><br>
+				<input class="dropdown-input sorter" list="artist_list" id="artist_input" placeholder="Search by Author!">
+				<button type="button" class="dropdown-btn"><i class="arrow down"></i></button>
 				<button type="button" id="sorter">SORT!</button>
-				<ul id="artist_list" style="display: none;">
-				</ul>
+				<datalist id="artist_list" style="display: none;">
+				</datalist>
 			</div>
 		</nav>
 		<main>

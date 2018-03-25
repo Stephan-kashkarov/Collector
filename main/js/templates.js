@@ -4,7 +4,8 @@ const artist_template = ({
 	life,
 	school,
 	timeframe
-}) => `
+}) =>
+`
 <li class="${name} article">
 	<span>
 		${name}
@@ -17,7 +18,8 @@ const artist_template = ({
 
 const artist_lite_template = ({
 	name
-}) => `
+}) =>
+`
 <li class="${name} article">
 	<a href="" class="artist_lite">
 		${name}
@@ -29,7 +31,8 @@ const art_list_template = ({
 	title,
 	date,
 	index
-}) => `
+}) =>
+`
 <li class="${title} article art">
 	<a class="art">
 		<span class="title art">
@@ -51,7 +54,8 @@ const art_profile = ({
 	painting_type,
 	index,
 	author
-}) => `
+}) =>
+`
 <li class="article">
 	<span>
 		${title}
@@ -75,4 +79,12 @@ const art_profile = ({
 		${author}
 	</a>
 </li>
+`
+const auto_complete = ({
+	title
+}) =>
+`
+<option>
+	${title}
+<option>
 `

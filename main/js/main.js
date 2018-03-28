@@ -10,7 +10,7 @@ $(document).ready(function () {
 				}
 			});
 			console.log(artist_list);
-			artist_list = artist_list.repsonseText;
+			artist_list = artist_list.responseText;
 			console.log(artist_list);
 			artist_list = JSON.parse(artist_list);
 			console.log(artist_list);
@@ -36,10 +36,11 @@ $(document).ready(function () {
 		artist_lite_dict = {}
 	}
 	for (var i = 0; i < artist_list.length; i++) {
-		console.log("generating:", artist_list[i]["name"]);
+		console.log("generating:", artist_list[i.toString()]["name"]);
 		var index = i.toString();
 		var index2 = i.toString();
-		index = new artist_lite(artist_lite[i]);
+		var index3 = i.toString();
+		index = new artist_lite(artist_lite[index3]);
 		index.print()
 		if (regen == true){
 			artist_lite_dict[index2] = index

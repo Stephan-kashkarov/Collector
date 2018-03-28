@@ -114,6 +114,8 @@ function look_for_index(name, dict, val) {
 		if(dict[i][val] == name) {
 			global = dict[i];
 			return dict[i];
+		} else {
+			global = "404";
 		}
 	}
 }

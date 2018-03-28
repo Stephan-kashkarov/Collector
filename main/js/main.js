@@ -37,9 +37,14 @@ $(document).ready(function () {
 
 	$("#sorter").click(function (e) {
 		event.preventDefault();
+		$(".intro").remove();
 		look_for_index($("#artist_input").val(), artist_lite_dict, "name");
 		console.log(global);
-		global.load_artist();
+		if(global != "404"){
+			global.load_artist();
+		} else {
+			$("main").html("<div class='intro'><h2>404</h2><p>The artist you are looking for was not found ;(</p></div>");
+		}
 		$("#artist_input").val("");
 	});
 

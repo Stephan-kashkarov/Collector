@@ -11,11 +11,8 @@ $(document).ready(function () {
 					console.log("Ajax completed. Status:",xhr.status);
 				}
 			});
-			console.log(artist_list);
 			artist_list = artist_list.responseText;
-			console.log(artist_list);
 			artist_list = JSON.parse(artist_list);
-			console.log(artist_list);
 
 			console.log("doing localStorage suff");
 			artist_lite_dict = JSON.stringify(artist_lite_dict);
@@ -45,16 +42,19 @@ $(document).ready(function () {
 	console.log(artist_list.length);
 	var size = Object.size(artist_list);
 	console.log(size);
-	for (var i = 0; i < size; i++) {
-		// console.log("generating:", artist_list[i.toString()]["name"]);
-		var index = i.toString();
-		console.log(artist_list[index]);
-		var index2 = i.toString();
-		var index3 = i.toString();
-		index = new artist_lite(artist_lite[index3]);
-		index.print()
-		if (regen == true){
-			artist_lite_dict[index2] = index
+	for (var i in artist_list) {
+		if (artist_list.hasOwnProperty(i)) {
+			console.log("generating:", artist_list[i][0]);
+			var index = i.toString();
+			console.log(artist_list[index]);
+			console.log(artist_list[i]);
+			var index2 = i.toString();
+			var index3 = i.toString();
+			index = new artist_lite(artist_lite[i]);
+			index.print()
+			if (regen == true){
+				artist_lite_dict[index2] = index
+			}
 		}
 	}
 });

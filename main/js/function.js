@@ -13,9 +13,11 @@ var regen;
 class artist_lite {
 	constructor(obj){
 		this.obj = obj;
-		this.name = obj["name"];
-		this.school = obj["school"];
-		this.timeframe = obj["timeframe"];
+		console.log(obj);
+		this.name = obj[0];
+		this.school = obj[1];
+		this.timeframe = obj[2];
+		this.url = obj[3]
 	}
 
 	load() {

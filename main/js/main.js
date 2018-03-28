@@ -47,7 +47,6 @@ $(document).ready(function () {
 			console.log("generating:", artist_list[i][0]);
 			var index = i.toString();
 			var index2 = i.toString();
-			console.log(artist_list[index]);
 			index = new artist_lite(artist_list[i]);
 			index.print()
 			if (regen == true){

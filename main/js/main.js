@@ -14,7 +14,11 @@ $(document).ready(function () {
 			artist_list = JSON.parse(artist_list);
 			console.log(artist_list);
 			for (var i = 0; i < artist_list.length; i++) {
-
+				console.log("generating:", artist_list[i]["name"]);
+				var index = i.toString();
+				var index2 = i.toString();
+				index = new artist_lite(artist_lite[i]);
+				artist_lite_dict[index2] = index
 			}
 		} else {
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));

@@ -17,14 +17,24 @@ const artist_template = ({
 `;
 
 const artist_lite_template = ({
-	name
+	name,
+	school,
+	timeframe
 }) =>
 `
+<hr>
 <li class="${name} article">
-	<a href="" class="artist_lite">
+	<a class="artist_lite name">
 		${name}
 	</a>
+	<a class="artist_lite school">
+		${school}
+	</a>
+	<a class="artist_lite timeframe">
+		${timeframe}
+	</a>
 </li>
+<hr>
 `;
 
 const art_list_template = ({

@@ -20,6 +20,10 @@ class artist_lite {
 	load() {
 		get_url(this.name, artist_list)
 	}
+
+	print() {
+		$(".main").append([this.obj].map(artist_lite_template).join(','));
+	}
 }
 
 get_url(name, artist_list){

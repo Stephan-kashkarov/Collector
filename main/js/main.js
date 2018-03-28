@@ -10,7 +10,12 @@ $(document).ready(function () {
 				}
 			});
 			console.log(artist_list);
-			
+
+			artist_list = JSON.parse(artist_list);
+			console.log(artist_list);
+			for (var i = 0; i < artist_list.length; i++) {
+
+			}
 		} else {
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
 			artist_full_dict = window.localStorage.getItem(window.localStorage.key(1));

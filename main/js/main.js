@@ -46,11 +46,9 @@ $(document).ready(function () {
 		if (artist_list.hasOwnProperty(i)) {
 			console.log("generating:", artist_list[i][0]);
 			var index = i.toString();
-			console.log(artist_list[index]);
-			console.log(artist_list[i]);
 			var index2 = i.toString();
-			var index3 = i.toString();
-			index = new artist_lite(artist_lite[i]);
+			console.log(artist_list[index]);
+			index = new artist_lite(artist_list[i]);
 			index.print()
 			if (regen == true){
 				artist_lite_dict[index2] = index

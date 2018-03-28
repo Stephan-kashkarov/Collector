@@ -1,6 +1,8 @@
 $(document).ready(function () {
 	if (window.localStorage.key(0) != "artist_list") {
+		console.log("localStorage currupted");
 		if (window.localStorage.length == 0) {
+			console.log("localStorage empty");
 			artist_list = $.ajax({
 				url: "database/artists.json",
 				method: "GET",
@@ -14,6 +16,8 @@ $(document).ready(function () {
 			console.log(artist_list);
 			artist_list = JSON.parse(artist_list);
 			console.log(artist_list);
+
+			console.log("doing localStorage suff");
 			artist_lite_dict = JSON.stringify(artist_lite_dict);
 			artist_list = JSON.stringify(artist_list);
 			window.localStorage.setItem("artist_list", artist_list);
@@ -22,12 +26,14 @@ $(document).ready(function () {
 			artist_lite_dict = JSON.parse(artist_lite_dict);
 
 		} else {
+			console.log("Lists cached in localStorage");
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
 			artist_lite_dict = window.localStorage.getItem(window.localStorage.key(1));
 			artist_list = JSON.parse(artist_list);
 			artist_lite_dict = JSON.parse(artist_lite_dict);
 		}
 	} else {
+		console.log("localStorage was cleared");
 		window.localStorage.clear();
 		location.reload();
 	}
@@ -35,6 +41,8 @@ $(document).ready(function () {
 		regen = true;
 		artist_lite_dict = {}
 	}
+	console.log("starting generation of artists");
+	console.log(artist_list.length);
 	for (var i = 0; i < artist_list.length; i++) {
 		console.log("generating:", artist_list[i.toString()]["name"]);
 		var index = i.toString();

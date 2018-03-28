@@ -43,7 +43,6 @@ class artist_lite {
 function hasClass(elem, className) {
 	return elem.classList.contains(className);
 }
-
 // STACKOVERFLOW OBJECT LENGTH FUNCTION
 Object.size = function(obj) {
 	var size = 0, key;
@@ -52,6 +51,3 @@ Object.size = function(obj) {
 	}
 return size;
 };
-
-// Get the size of an object
-var size = Object.size(myArray);

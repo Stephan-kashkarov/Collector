@@ -43,9 +43,12 @@ $(document).ready(function () {
 	}
 	console.log("starting generation of artists");
 	console.log(artist_list.length);
-	for (var i = 0; i < artist_list.length; i++) {
-		console.log("generating:", artist_list[i.toString()]["name"]);
+	var size = Object.size(artist_list);
+	console.log(size);
+	for (var i = 0; i < size; i++) {
+		// console.log("generating:", artist_list[i.toString()]["name"]);
 		var index = i.toString();
+		console.log(artist_list[index]);
 		var index2 = i.toString();
 		var index3 = i.toString();
 		index = new artist_lite(artist_lite[index3]);

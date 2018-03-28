@@ -8,6 +8,7 @@ var profile;
 var thing;
 var piece;
 var obj;
+var regen;
 
 class artist_lite {
 	constructor(obj){

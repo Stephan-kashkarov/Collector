@@ -172,7 +172,7 @@ for name in parsed_data:
 	filename = name['name'].replace(" ", "-").replace('.', '').lower()
 	filename = filename + ".json"
 	url = "../main/database/artists/" + filename
-	name_dict[name_index] = [name["name"], url[8:]]
+	name_dict[name_index] = [name["name"], name["school"], name["timeframe"], url[8:]]
 	with open(url, "w") as file:
 		json.dump(name, file, indent = 4)
 

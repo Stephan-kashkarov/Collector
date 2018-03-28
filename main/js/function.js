@@ -25,16 +25,16 @@ class artist_lite {
 	print() {
 		$(".main").append([this.obj].map(artist_lite_template).join(','));
 	}
-}
 
-get_url(name, artist_list){
-	for (var i = 0; i < artist_list.length; i++) {
-		console.log("Are", name, "and", artist_list[i]["name"], "the same thing?");
-		if (artist_list[i]["name"] == name) {
-			console.log("Yes! :)");
-			return artist_list[i]["url"];
-		} else {
-			console.log("No! ;(");
+	get_url(name, artist_list){
+		for (var i = 0; i < artist_list.length; i++) {
+			console.log("Are", name, "and", artist_list[i]["name"], "the same thing?");
+			if (artist_list[i]["name"] == name) {
+				console.log("Yes! :)");
+				return artist_list[i]["url"];
+			} else {
+				console.log("No! ;(");
+			}
 		}
 	}
 }

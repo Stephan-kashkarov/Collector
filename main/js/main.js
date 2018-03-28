@@ -2,7 +2,7 @@ $(document).ready(function () {
 	if (window.localStorage.key(0) != "artist_list") {
 		if (window.localStorage.length == 0) {
 			artist_list = $.ajax({
-				url: "database/artist.json",
+				url: "database/artists.json",
 				method: "GET",
 				async: false,
 				done: function(xhr){
@@ -10,7 +10,8 @@ $(document).ready(function () {
 				}
 			});
 			console.log(artist_list);
-
+			artist_list = artist_list.repsonseText;
+			console.log(artist_list);
 			artist_list = JSON.parse(artist_list);
 			console.log(artist_list);
 			artist_lite_dict = JSON.stringify(artist_lite_dict);
@@ -44,4 +45,4 @@ $(document).ready(function () {
 			artist_lite_dict[index2] = index
 		}
 	}
-}
+});

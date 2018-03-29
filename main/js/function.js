@@ -1,7 +1,5 @@
 var artist_list = [];
 var artist_lite_list = [];
-var artist_full_dict = [];
-var art_dict = [];
 var name_list = [];
 var school_list = [];
 var timeframe_list = [];
@@ -22,7 +20,7 @@ class artist_lite {
 	}
 
 	load() {
-		full = $.ajax({
+		var full = $.ajax({
 			url: this.url,
 			async: false,
 			method: "GET"
@@ -42,11 +40,11 @@ class artist_lite {
 class artist {
 	constructor(obj) {
 		this.obj = obj;
-		this.name = obj[name];
-		this.life = obj[life];
-		this.school = obj[school];
-		this.timeframe = obj[timeframe];
-		this.art = obj[art];
+		this.name = obj["name"];
+		this.life = obj["life"];
+		this.school = obj["school"];
+		this.timeframe = obj["timeframe"];
+		this.art = obj["art"];
 	}
 
 	print() {

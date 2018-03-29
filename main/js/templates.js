@@ -23,15 +23,15 @@ const artist_lite_template = ({
 }) =>
 `
 <hr>
-<li class="${name} article">
+<li class="name article">
 	<a class="artist_lite name">
-		${name},
+		${name}
 	</a>
 	<a class="artist_lite school">
-		${school},
+		${school}
 	</a>
 	<a class="artist_lite timeframe">
-		${timeframe},
+		${timeframe}
 	</a>
 </li>
 <hr>

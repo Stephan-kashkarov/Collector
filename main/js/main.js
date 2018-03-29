@@ -102,4 +102,18 @@ $(document).ready(function () {
 			}
 		}
 	});
+
+	$(".article").on("click", function(e){
+		name = $(this).children(".name").text().trim();
+		console.log(name, "was clicked");
+		for (var i in artist_lite_list) {
+			console.log("checking", name, "vs", artist_lite_list[i]["name"]);
+			if (artist_lite_list[i]["name"] == name) {
+				console.log("we found:", name +"'s profile!");
+				artist_lite_list[i].load()
+				artist_lite_list[i].full.print();
+				break
+			}
+		}
+	});
 });

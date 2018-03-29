@@ -9,6 +9,7 @@ var thing;
 var piece;
 var obj;
 var regen;
+var loaded = []
 
 class artist_lite {
 	constructor(obj) {
@@ -17,6 +18,7 @@ class artist_lite {
 		this.school = obj[1];
 		this.timeframe = obj[2];
 		this.url = obj[3];
+		this.full = "";
 	}
 
 	load() {
@@ -40,7 +42,7 @@ class artist_lite {
 class artist {
 	constructor(obj) {
 		this.obj = obj;
-		this.name = obj["name"];
+		this.author = obj["name"];
 		this.life = obj["life"];
 		this.school = obj["school"];
 		this.timeframe = obj["timeframe"];
@@ -58,8 +60,11 @@ class artist {
 	load_art(name) {
 		clear();
 		for (var i in this.art) {
-			if (this.art[i]["name"] == name) {
+			var title = this.art[i]["title"].trim()
+			console.log("is this:", title, "the same as", name + "?");
+			if (title == name) {
 				$(".main").append([this.art[i]].map(art_profile).join(","));
+				break
 			}
 		}
 	}
@@ -68,4 +73,8 @@ class artist {
 function clear() {
 	console.log("clearing main container");
 	$(".main").children().remove()
+}
+
+function find_art_by_name(name) {
+
 }

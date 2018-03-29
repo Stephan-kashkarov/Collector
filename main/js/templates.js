@@ -6,12 +6,12 @@ const artist_template = ({
 	timeframe
 }) =>
 `
-<li class="${name} article">
+<li class="name article">
 	<span>
 		${name}
 	</span>
 	<p>Life: ${life} School: ${school} Time-Frame: ${timeframe}</p>
-	<ul class="art-container ${name}-list">
+	<ul class="art-container">
 	</ul>
 </li>
 `;
@@ -43,7 +43,7 @@ const art_list_template = ({
 	index
 }) =>
 `
-<li class="${title} article art">
+<li class="art">
 	<a class="art">
 		<span class="title art">
 			${title}
@@ -66,7 +66,7 @@ const art_profile = ({
 	author
 }) =>
 `
-<li class="article">
+<li class="art_article">
 	<span>
 		${title}
 	</span>

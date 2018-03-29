@@ -66,6 +66,6 @@ class artist {
 }
 
 function clear() {
-	console.log("clearing");
+	console.log("clearing main container");
 	$(".main").children().remove()
 }

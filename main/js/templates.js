@@ -6,7 +6,7 @@ const artist_template = ({
 	timeframe
 }) =>
 `
-<li class="name article">
+<li class="artist">
 	<span>
 		${name}
 	</span>

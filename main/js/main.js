@@ -1,4 +1,4 @@
-$(document).ready(function{
+$(document).ready(function(){
 	$(".sortby").change(function (e) {
 		new_cat = $(this).val();
 		if(new_cat == "Name") {
@@ -41,6 +41,7 @@ $(document).ready(function{
 	});
 
 	$(document).on("click",".article", function(e){
+		console.log(this);
 		name = $(this).children(".name").text().trim();
 		console.log(name, "was clicked");
 		for (var i in artist_lite_list) {
@@ -57,7 +58,7 @@ $(document).ready(function{
 	});
 
 	$(document).on("click", ".art", function(e){
-		var title = $(this).parent().find("span").text().trim()
+		var title = $(this).find("span").text().trim()
 		console.log("printing:", title);
 		console.log(loaded[0]);
 		loaded[0].full.load_art(title)

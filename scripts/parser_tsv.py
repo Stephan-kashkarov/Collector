@@ -58,6 +58,7 @@ def make_art(art_cache, title, date, technique, location, url, form, painting_ty
 	art_cache["form"] = form
 	art_cache["painting_type"] = painting_type
 	art_cache["index"] = index
+	art_cache["author"] = name
 
 
 art_index = 0

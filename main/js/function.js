@@ -74,7 +74,3 @@ function clear() {
 	console.log("clearing main container");
 	$(".main").children().remove()
 }
-
-function find_art_by_name(name) {
-
-}

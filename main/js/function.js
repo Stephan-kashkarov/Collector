@@ -1,8 +1,10 @@
-artist_list = [];
-artist_lite_dict = [];
-artist_full_dict = [];
-art_dict = [];
-var global;
+var artist_list = [];
+var artist_lite_dict = [];
+var artist_full_dict = [];
+var art_dict = [];
+var name_list = [];
+var school_list = [];
+var timeframe_list = []:
 var artist_profile;
 var profile;
 var thing;
@@ -42,6 +44,10 @@ class artist_lite {
 			}
 		}
 	}
+}
+
+function clear() {
+	$(".main").children().remove()
 }
 
 // STACKOVERFLOW PURE JS SOLUTION

@@ -58,9 +58,11 @@ $(document).ready(function(){
 	});
 
 	$(document).on("click", ".art", function(e){
-		var title = $(this).find("span").text().trim()
-		console.log("printing:", title);
-		console.log(loaded[0]);
+		var title = $(this).find("span").text().trim();
 		loaded[0].full.load_art(title)
 	});
+
+	$(document).on("click", ".back_full", function(e){
+		loaded[0].full.print()
+	})
 });

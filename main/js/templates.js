@@ -1,6 +1,6 @@
 // Template for Artist Profile
 const artist_template = ({
-	name,
+	author,
 	life,
 	school,
 	timeframe
@@ -8,7 +8,7 @@ const artist_template = ({
 `
 <li class="artist">
 	<span>
-		${name}
+		${author}
 	</span>
 	<p>Life: ${life} School: ${school} Time-Frame: ${timeframe}</p>
 	<ul class="art-container">
@@ -62,8 +62,7 @@ const art_profile = ({
 	location,
 	form,
 	painting_type,
-	index,
-	author
+	index
 }) =>
 `
 <li class="art_article">
@@ -84,9 +83,8 @@ const art_profile = ({
 		<br>
 		Index: ${index}
 	</p>
-	<p>BACK!:</p>
 	<a class="back_full">
-		${author}
+		BACK!
 	</a>
 </li>
 `

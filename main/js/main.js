@@ -45,6 +45,10 @@ $(document).ready(function () {
 			console.log("generating:", artist_list[i][0]);
 			var index = i.toString();
 			var index2 = i.toString();
+			$("#name-list").append([artist_list[i][0]].map(auto_complete).join(","));
+			if(school not in list){}
+			$("#school-list").append([artist_list[i][1]].map(auto_complete).join(","));
+			$("#timeframe-list").append([artist_list[i][2]].map(auto_complete).join(","));
 			index = new artist_lite(artist_list[i]);
 			index.print()
 			if (regen == true){

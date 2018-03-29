@@ -4,7 +4,7 @@ var artist_full_dict = [];
 var art_dict = [];
 var name_list = [];
 var school_list = [];
-var timeframe_list = []:
+var timeframe_list = [];
 var artist_profile;
 var profile;
 var thing;
@@ -40,7 +40,7 @@ class artist_lite {
 				console.log("Yes! :)");
 				return artist_list[i]["url"];
 			} else {
-				console.log("No! ;(");
+				console.log("No! :(");
 			}
 		}
 	}

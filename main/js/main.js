@@ -15,12 +15,9 @@ $(document).ready(function () {
 			artist_list = JSON.parse(artist_list);
 
 			console.log("doing localStorage suff");
-			artist_lite_dict = JSON.stringify(artist_lite_dict);
 			artist_list = JSON.stringify(artist_list);
 			window.localStorage.setItem("artist_list", artist_list);
-			window.localStorage.setItem("artist_lite_dict", artist_lite_dict);
 			artist_list = JSON.parse(artist_list);
-			artist_lite_dict = JSON.parse(artist_lite_dict);
 
 		} else {
 			console.log("Lists cached in localStorage");
@@ -59,14 +56,14 @@ $(document).ready(function () {
 				$("#timeframe-list").append([artist_list[i][2]].map(auto_complete).join(","));
 			}
 			name = new artist_lite(artist_list[i]);
-			index.print();
+			name.print();
 			if (regen == true){
 				artist_lite_dict[index2] = index
 			}
 		}
 	}
 	$(".sortby").change(function(e){
-		new_cat = this.text();
+		new_cat = this.val();
 		if (new_cat == "Name"){
 			$(".sorter").attr("list", name-list);
 		} else if (new_cat == "School") {

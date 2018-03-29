@@ -52,6 +52,12 @@ $(document).ready(function () {
 			}
 		}
 	}
+	$(".sortby").change(function(e){
+		new_cat = this.text();
+		if (new_cat == Name){
+			$(".sorter").addClass
+		}
+	})
 
 	$("#sorter").click(function(e){
 		var cat = $(".sortby").val();

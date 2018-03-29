@@ -41,7 +41,24 @@ class artist_lite {
 
 class artist {
 	constructor(obj) {
-		this.obj = obj
+		this.obj = obj;
+		this.name = obj[name];
+		this.life = obj[life];
+		this.school = obj[school];
+		this.timeframe = obj[timeframe];
+		this.art = obj[art];
+	}
+
+	print() {
+		clear();
+		$(".main").append([this].map(artist_template).join(","));
+		for (var i in this.art) {
+			$(".art-container").append([this.art[i]].map(art_list_template).join(","));
+		}
+	}
+
+	load_art() {
+		
 	}
 }
 

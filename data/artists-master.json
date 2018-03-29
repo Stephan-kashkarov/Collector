@@ -13,7 +13,8 @@
                 "url": "https://www.wga.hu/html/a/aachen/allegory.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 1
+                "index": 1,
+                "author": "AACHEN Hans von"
             },
             {
                 "title": "Bacchus Ceres and Cupid",
@@ -23,7 +24,8 @@
                 "url": "https://www.wga.hu/html/a/aachen/bacchus.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 2
+                "index": 2,
+                "author": "AACHEN Hans von"
             },
             {
                 "title": "Joking Couple",
@@ -33,7 +35,8 @@
                 "url": "https://www.wga.hu/html/a/aachen/j_couple.html",
                 "form": "painting",
                 "painting_type": "genre",
-                "index": 3
+                "index": 3,
+                "author": "AACHEN Hans von"
             },
             {
                 "title": "Portrait of Emperor Rudolf II",
@@ -43,7 +46,8 @@
                 "url": "https://www.wga.hu/html/a/aachen/rudolf2.html",
                 "form": "painting",
                 "painting_type": "portrait",
-                "index": 4
+                "index": 4,
+                "author": "AACHEN Hans von"
             },
             {
                 "title": "Self-Portrait with a Glass of Wine",
@@ -53,7 +57,8 @@
                 "url": "https://www.wga.hu/html/a/aachen/selfport.html",
                 "form": "painting",
                 "painting_type": "portrait",
-                "index": 5
+                "index": 5,
+                "author": "AACHEN Hans von"
             }
         ]
     },
@@ -71,7 +76,8 @@
                 "url": "https://www.wga.hu/html/a/aagaard/deerlake.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 6
+                "index": 6,
+                "author": "AAGAARD Carl Frederik"
             },
             {
                 "title": "The Rose Garden",
@@ -81,7 +87,8 @@
                 "url": "https://www.wga.hu/html/a/aagaard/rosegard.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 7
+                "index": 7,
+                "author": "AAGAARD Carl Frederik"
             }
         ]
     },
@@ -99,7 +106,8 @@
                 "url": "https://www.wga.hu/html/a/abadia/michael.html",
                 "form": "painting",
                 "painting_type": "religious",
-                "index": 8
+                "index": 8,
+                "author": "ABADIA Juan de la"
             }
         ]
     },
@@ -117,7 +125,8 @@
                 "url": "https://www.wga.hu/html/a/abaquesn/albarell.html",
                 "form": "ceramics",
                 "painting_type": "other",
-                "index": 9
+                "index": 9,
+                "author": "ABAQUESNE Mass\u00e9ot"
             },
             {
                 "title": "Ceramic Floor",
@@ -127,7 +136,8 @@
                 "url": "https://www.wga.hu/html/a/abaquesn/floor1.html",
                 "form": "ceramics",
                 "painting_type": "other",
-                "index": 10
+                "index": 10,
+                "author": "ABAQUESNE Mass\u00e9ot"
             },
             {
                 "title": "Ceramic Floor",
@@ -137,7 +147,8 @@
                 "url": "https://www.wga.hu/html/a/abaquesn/floor2.html",
                 "form": "ceramics",
                 "painting_type": "other",
-                "index": 11
+                "index": 11,
+                "author": "ABAQUESNE Mass\u00e9ot"
             },
             {
                 "title": "The Flood",
@@ -147,7 +158,8 @@
                 "url": "https://www.wga.hu/html/a/abaquesn/theflood.html",
                 "form": "ceramics",
                 "painting_type": "religious",
-                "index": 12
+                "index": 12,
+                "author": "ABAQUESNE Mass\u00e9ot"
             }
         ]
     },
@@ -165,7 +177,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/chimney1.html",
                 "form": "painting",
                 "painting_type": "other",
-                "index": 13
+                "index": 13,
+                "author": "ABBATE Niccol\u00f2 dell'"
             },
             {
                 "title": "Chimney breast",
@@ -175,7 +188,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/chimney2.html",
                 "form": "sculpture",
                 "painting_type": "other",
-                "index": 14
+                "index": 14,
+                "author": "ABBATE Niccol\u00f2 dell'"
             },
             {
                 "title": "Stag Hunt",
@@ -185,7 +199,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/deerhunt.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 15
+                "index": 15,
+                "author": "ABBATE Niccol\u00f2 dell'"
             },
             {
                 "title": "Orpheus and Eurydice",
@@ -195,7 +210,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/orpheus.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 16
+                "index": 16,
+                "author": "ABBATE Niccol\u00f2 dell'"
             },
             {
                 "title": "The Rape of Proserpine",
@@ -205,7 +221,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/proserpi.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 17
+                "index": 17,
+                "author": "ABBATE Niccol\u00f2 dell'"
             },
             {
                 "title": "The Continence of Scipio",
@@ -215,7 +232,8 @@
                 "url": "https://www.wga.hu/html/a/abbate/scipio.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 18
+                "index": 18,
+                "author": "ABBATE Niccol\u00f2 dell'"
             }
         ]
     },
@@ -233,7 +251,8 @@
                 "url": "https://www.wga.hu/html/a/abbati/abbati1.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 19
+                "index": 19,
+                "author": "ABBATI Giuseppe"
             },
             {
                 "title": "Country Road with Cypresses",
@@ -243,7 +262,8 @@
                 "url": "https://www.wga.hu/html/a/abbati/abbati2.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 20
+                "index": 20,
+                "author": "ABBATI Giuseppe"
             },
             {
                 "title": "Cloister",
@@ -253,7 +273,8 @@
                 "url": "https://www.wga.hu/html/a/abbati/abbati3.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 21
+                "index": 21,
+                "author": "ABBATI Giuseppe"
             },
             {
                 "title": "Portrait of a Woman",
@@ -263,7 +284,8 @@
                 "url": "https://www.wga.hu/html/a/abbati/abbati4.html",
                 "form": "painting",
                 "painting_type": "portrait",
-                "index": 22
+                "index": 22,
+                "author": "ABBATI Giuseppe"
             }
         ]
     },
@@ -281,7 +303,8 @@
                 "url": "https://www.wga.hu/html/a/abbatini/cornaro.html",
                 "form": "painting",
                 "painting_type": "religious",
-                "index": 23
+                "index": 23,
+                "author": "ABBATINI Guido Ubaldo"
             }
         ]
     },
@@ -299,7 +322,8 @@
                 "url": "https://www.wga.hu/html/a/abeele/commemo1.html",
                 "form": "sculpture",
                 "painting_type": "historical",
-                "index": 24
+                "index": 24,
+                "author": "ABEELE Pieter van"
             },
             {
                 "title": "Commemorative Medal for Admiral Maarten Harpertszoon Tromp",
@@ -309,7 +333,8 @@
                 "url": "https://www.wga.hu/html/a/abeele/commemo2.html",
                 "form": "sculpture",
                 "painting_type": "historical",
-                "index": 25
+                "index": 25,
+                "author": "ABEELE Pieter van"
             },
             {
                 "title": "William III Prince of Orange at the Age of Four",
@@ -319,7 +344,8 @@
                 "url": "https://www.wga.hu/html/a/abeele/william3.html",
                 "form": "sculpture",
                 "painting_type": "historical",
-                "index": 26
+                "index": 26,
+                "author": "ABEELE Pieter van"
             }
         ]
     },
@@ -337,7 +363,8 @@
                 "url": "https://www.wga.hu/html/a/abildgaa/andria1.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 27
+                "index": 27,
+                "author": "ABILDGAARD Nicolai"
             },
             {
                 "title": "Simo and his Former Slave Sosia",
@@ -347,7 +374,8 @@
                 "url": "https://www.wga.hu/html/a/abildgaa/andria2.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 28
+                "index": 28,
+                "author": "ABILDGAARD Nicolai"
             },
             {
                 "title": "Culmin's Ghost Appears to his Mother",
@@ -357,7 +385,8 @@
                 "url": "https://www.wga.hu/html/a/abildgaa/culmingh.html",
                 "form": "painting",
                 "painting_type": "other",
-                "index": 29
+                "index": 29,
+                "author": "ABILDGAARD Nicolai"
             },
             {
                 "title": "The Wounded Philoctetes",
@@ -367,7 +396,8 @@
                 "url": "https://www.wga.hu/html/a/abildgaa/philocte.html",
                 "form": "painting",
                 "painting_type": "mythological",
-                "index": 30
+                "index": 30,
+                "author": "ABILDGAARD Nicolai"
             },
             {
                 "title": "Adam and Eve",
@@ -377,7 +407,8 @@
                 "url": "https://www.wga.hu/html/a/abildgaa/z_adamev.html",
                 "form": "graphics",
                 "painting_type": "religious",
-                "index": 31
+                "index": 31,
+                "author": "ABILDGAARD Nicolai"
             }
         ]
     },
@@ -395,7 +426,8 @@
                 "url": "https://www.wga.hu/html/a/abondio/maximili.html",
                 "form": "sculpture",
                 "painting_type": "portrait",
-                "index": 32
+                "index": 32,
+                "author": "ABONDIO Antonio"
             }
         ]
     },
@@ -413,7 +445,8 @@
                 "url": "https://www.wga.hu/html/a/acero/cadiz1.html",
                 "form": "architecture",
                 "painting_type": "other",
-                "index": 33
+                "index": 33,
+                "author": "ACERO Y AREBO Vicente"
             },
             {
                 "title": "Exterior view",
@@ -423,7 +456,8 @@
                 "url": "https://www.wga.hu/html/a/acero/cadiz2.html",
                 "form": "architecture",
                 "painting_type": "other",
-                "index": 34
+                "index": 34,
+                "author": "ACERO Y AREBO Vicente"
             }
         ]
     },
@@ -441,7 +475,8 @@
                 "url": "https://www.wga.hu/html/a/achenbac/firework.html",
                 "form": "painting",
                 "painting_type": "landscape",
-                "index": 35
+                "index": 35,
+                "author": "ACHENBACH Oswald"
             }
         ]
     },
@@ -459,7 +494,8 @@
                 "url": "https://www.wga.hu/html/a/adam1/battle.html",
                 "form": "painting",
                 "painting_type": "historical",
-                "index": 36
+                "index": 36,
+                "author": "ADAM Albrecht"
             },
             {
                 "title": "The Return from the Hunt",
@@ -469,7 +505,8 @@
                 "url": "https://www.wga.hu/html/a/adam1/hunt.html",
                 "form": "painting",
                 "painting_type": "genre",
-                "index": 37
+                "index": 37,
+                "author": "ADAM Albrecht"
             }
         ]
     },
@@ -487,7 +524,8 @@
                 "url": "https://www.wga.hu/html/a/adam/lambert/child_lo.html",
                 "form": "sculpture",
                 "painting_type": "other",
-                "index": 38
+                "index": 38,
+                "author": "ADAM Lambert-Sigisbert"
             },
             {
                 "title": "Neptune and Amphitrite",
@@ -497,7 +535,8 @@
                 "url": "https://www.wga.hu/html/a/adam/lambert/neptune.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 39
+                "index": 39,
+                "author": "ADAM Lambert-Sigisbert"
             },
             {
                 "title": "Neptune Calming the Waves",
@@ -507,7 +546,8 @@
                 "url": "https://www.wga.hu/html/a/adam/lambert/neptune1.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 40
+                "index": 40,
+                "author": "ADAM Lambert-Sigisbert"
             },
             {
                 "title": "Self-portrait",
@@ -517,7 +557,8 @@
                 "url": "https://www.wga.hu/html/a/adam/lambert/selfport.html",
                 "form": "graphics",
                 "painting_type": "portrait",
-                "index": 41
+                "index": 41,
+                "author": "ADAM Lambert-Sigisbert"
             },
             {
                 "title": "Head of 'Water'",
@@ -527,7 +568,8 @@
                 "url": "https://www.wga.hu/html/a/adam/lambert/water.html",
                 "form": "sculpture",
                 "painting_type": "other",
-                "index": 42
+                "index": 42,
+                "author": "ADAM Lambert-Sigisbert"
             }
         ]
     },
@@ -545,7 +587,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/martyrdo.html",
                 "form": "sculpture",
                 "painting_type": "religious",
-                "index": 43
+                "index": 43,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Monument to Queen Catharina Opalinska",
@@ -555,7 +598,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/opalinsk.html",
                 "form": "sculpture",
                 "painting_type": "religious",
-                "index": 44
+                "index": 44,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Monument to Queen Catharina Opalinska (detail)",
@@ -565,7 +609,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/opalinsx.html",
                 "form": "sculpture",
                 "painting_type": "religious",
-                "index": 45
+                "index": 45,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Prometheus",
@@ -575,7 +620,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/promethe.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 46
+                "index": 46,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Prometheus",
@@ -585,7 +631,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/promethx.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 47
+                "index": 47,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Monumental vase on the theme of autumn",
@@ -595,7 +642,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/vase.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 48
+                "index": 48,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Monumental vase on the theme of autumn (detail)",
@@ -605,7 +653,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/vase1.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 49
+                "index": 49,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             },
             {
                 "title": "Monumental vase on the theme of autumn (detail)",
@@ -615,7 +664,8 @@
                 "url": "https://www.wga.hu/html/a/adam/nicolas/vase2.html",
                 "form": "sculpture",
                 "painting_type": "mythological",
-                "index": 50
+                "index": 50,
+                "author": "ADAM Nicolas-S\u00e9bastien"
             }
         ]
     },
@@ -633,7 +683,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/kedlesto.html",
                 "form": "architecture",
                 "painting_type": "other",
-                "index": 51
+                "index": 51,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Library",
@@ -643,7 +694,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/kenwood.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 52
+                "index": 52,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Stairwell",
@@ -653,7 +705,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/portman1.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 53
+                "index": 53,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Cupola of the stairwell",
@@ -663,7 +716,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/portman2.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 54
+                "index": 54,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Music Room",
@@ -673,7 +727,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/portman3.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 55
+                "index": 55,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -683,7 +738,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon1.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 56
+                "index": 56,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -693,7 +749,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon2.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 57
+                "index": 57,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -703,7 +760,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon3.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 58
+                "index": 58,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -713,7 +771,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon4.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 59
+                "index": 59,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -723,7 +782,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon5.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 60
+                "index": 60,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Interior view",
@@ -733,7 +793,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon6.html",
                 "form": "architecture",
                 "painting_type": "interior",
-                "index": 61
+                "index": 61,
+                "author": "ADAM Robert"
             },
             {
                 "title": "Gateway",
@@ -743,7 +804,8 @@
                 "url": "https://www.wga.hu/html/a/adam2/syon7.html",
                 "form": "architecture",
                 "painting_type": "other",
-                "index": 62
+                "index": 62,
+                "author": "ADAM Robert"
             }
         ]
     }

@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/abildgaa/andria1.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 27
+            "index": 27,
+            "author": "ABILDGAARD Nicolai"
         },
         {
             "title": "Simo and his Former Slave Sosia",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/abildgaa/andria2.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 28
+            "index": 28,
+            "author": "ABILDGAARD Nicolai"
         },
         {
             "title": "Culmin's Ghost Appears to his Mother",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/abildgaa/culmingh.html",
             "form": "painting",
             "painting_type": "other",
-            "index": 29
+            "index": 29,
+            "author": "ABILDGAARD Nicolai"
         },
         {
             "title": "The Wounded Philoctetes",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/abildgaa/philocte.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 30
+            "index": 30,
+            "author": "ABILDGAARD Nicolai"
         },
         {
             "title": "Adam and Eve",
@@ -52,7 +56,8 @@
             "url": "https://www.wga.hu/html/a/abildgaa/z_adamev.html",
             "form": "graphics",
             "painting_type": "religious",
-            "index": 31
+            "index": 31,
+            "author": "ABILDGAARD Nicolai"
         }
     ]
 }

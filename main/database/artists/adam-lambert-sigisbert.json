@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/adam/lambert/child_lo.html",
             "form": "sculpture",
             "painting_type": "other",
-            "index": 38
+            "index": 38,
+            "author": "ADAM Lambert-Sigisbert"
         },
         {
             "title": "Neptune and Amphitrite",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/adam/lambert/neptune.html",
             "form": "sculpture",
             "painting_type": "mythological",
-            "index": 39
+            "index": 39,
+            "author": "ADAM Lambert-Sigisbert"
         },
         {
             "title": "Neptune Calming the Waves",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/adam/lambert/neptune1.html",
             "form": "sculpture",
             "painting_type": "mythological",
-            "index": 40
+            "index": 40,
+            "author": "ADAM Lambert-Sigisbert"
         },
         {
             "title": "Self-portrait",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/adam/lambert/selfport.html",
             "form": "graphics",
             "painting_type": "portrait",
-            "index": 41
+            "index": 41,
+            "author": "ADAM Lambert-Sigisbert"
         },
         {
             "title": "Head of 'Water'",
@@ -52,7 +56,8 @@
             "url": "https://www.wga.hu/html/a/adam/lambert/water.html",
             "form": "sculpture",
             "painting_type": "other",
-            "index": 42
+            "index": 42,
+            "author": "ADAM Lambert-Sigisbert"
         }
     ]
 }

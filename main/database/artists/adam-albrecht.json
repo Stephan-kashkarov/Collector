@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/adam1/battle.html",
             "form": "painting",
             "painting_type": "historical",
-            "index": 36
+            "index": 36,
+            "author": "ADAM Albrecht"
         },
         {
             "title": "The Return from the Hunt",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/adam1/hunt.html",
             "form": "painting",
             "painting_type": "genre",
-            "index": 37
+            "index": 37,
+            "author": "ADAM Albrecht"
         }
     ]
 }

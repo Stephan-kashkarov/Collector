@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/abaquesn/albarell.html",
             "form": "ceramics",
             "painting_type": "other",
-            "index": 9
+            "index": 9,
+            "author": "ABAQUESNE Mass\u00e9ot"
         },
         {
             "title": "Ceramic Floor",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/abaquesn/floor1.html",
             "form": "ceramics",
             "painting_type": "other",
-            "index": 10
+            "index": 10,
+            "author": "ABAQUESNE Mass\u00e9ot"
         },
         {
             "title": "Ceramic Floor",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/abaquesn/floor2.html",
             "form": "ceramics",
             "painting_type": "other",
-            "index": 11
+            "index": 11,
+            "author": "ABAQUESNE Mass\u00e9ot"
         },
         {
             "title": "The Flood",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/abaquesn/theflood.html",
             "form": "ceramics",
             "painting_type": "religious",
-            "index": 12
+            "index": 12,
+            "author": "ABAQUESNE Mass\u00e9ot"
         }
     ]
 }

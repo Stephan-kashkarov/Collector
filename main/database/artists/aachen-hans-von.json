@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/aachen/allegory.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 1
+            "index": 1,
+            "author": "AACHEN Hans von"
         },
         {
             "title": "Bacchus Ceres and Cupid",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/aachen/bacchus.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 2
+            "index": 2,
+            "author": "AACHEN Hans von"
         },
         {
             "title": "Joking Couple",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/aachen/j_couple.html",
             "form": "painting",
             "painting_type": "genre",
-            "index": 3
+            "index": 3,
+            "author": "AACHEN Hans von"
         },
         {
             "title": "Portrait of Emperor Rudolf II",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/aachen/rudolf2.html",
             "form": "painting",
             "painting_type": "portrait",
-            "index": 4
+            "index": 4,
+            "author": "AACHEN Hans von"
         },
         {
             "title": "Self-Portrait with a Glass of Wine",
@@ -52,7 +56,8 @@
             "url": "https://www.wga.hu/html/a/aachen/selfport.html",
             "form": "painting",
             "painting_type": "portrait",
-            "index": 5
+            "index": 5,
+            "author": "AACHEN Hans von"
         }
     ]
 }

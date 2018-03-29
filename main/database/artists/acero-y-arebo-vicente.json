@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/acero/cadiz1.html",
             "form": "architecture",
             "painting_type": "other",
-            "index": 33
+            "index": 33,
+            "author": "ACERO Y AREBO Vicente"
         },
         {
             "title": "Exterior view",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/acero/cadiz2.html",
             "form": "architecture",
             "painting_type": "other",
-            "index": 34
+            "index": 34,
+            "author": "ACERO Y AREBO Vicente"
         }
     ]
 }

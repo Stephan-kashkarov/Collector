@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/aagaard/deerlake.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 6
+            "index": 6,
+            "author": "AAGAARD Carl Frederik"
         },
         {
             "title": "The Rose Garden",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/aagaard/rosegard.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 7
+            "index": 7,
+            "author": "AAGAARD Carl Frederik"
         }
     ]
 }

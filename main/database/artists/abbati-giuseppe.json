@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/abbati/abbati1.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 19
+            "index": 19,
+            "author": "ABBATI Giuseppe"
         },
         {
             "title": "Country Road with Cypresses",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/abbati/abbati2.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 20
+            "index": 20,
+            "author": "ABBATI Giuseppe"
         },
         {
             "title": "Cloister",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/abbati/abbati3.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 21
+            "index": 21,
+            "author": "ABBATI Giuseppe"
         },
         {
             "title": "Portrait of a Woman",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/abbati/abbati4.html",
             "form": "painting",
             "painting_type": "portrait",
-            "index": 22
+            "index": 22,
+            "author": "ABBATI Giuseppe"
         }
     ]
 }

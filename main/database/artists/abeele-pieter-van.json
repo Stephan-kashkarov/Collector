@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/abeele/commemo1.html",
             "form": "sculpture",
             "painting_type": "historical",
-            "index": 24
+            "index": 24,
+            "author": "ABEELE Pieter van"
         },
         {
             "title": "Commemorative Medal for Admiral Maarten Harpertszoon Tromp",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/abeele/commemo2.html",
             "form": "sculpture",
             "painting_type": "historical",
-            "index": 25
+            "index": 25,
+            "author": "ABEELE Pieter van"
         },
         {
             "title": "William III Prince of Orange at the Age of Four",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/abeele/william3.html",
             "form": "sculpture",
             "painting_type": "historical",
-            "index": 26
+            "index": 26,
+            "author": "ABEELE Pieter van"
         }
     ]
 }

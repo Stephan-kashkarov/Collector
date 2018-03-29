@@ -12,7 +12,8 @@
             "url": "https://www.wga.hu/html/a/abbate/chimney1.html",
             "form": "painting",
             "painting_type": "other",
-            "index": 13
+            "index": 13,
+            "author": "ABBATE Niccol\u00f2 dell'"
         },
         {
             "title": "Chimney breast",
@@ -22,7 +23,8 @@
             "url": "https://www.wga.hu/html/a/abbate/chimney2.html",
             "form": "sculpture",
             "painting_type": "other",
-            "index": 14
+            "index": 14,
+            "author": "ABBATE Niccol\u00f2 dell'"
         },
         {
             "title": "Stag Hunt",
@@ -32,7 +34,8 @@
             "url": "https://www.wga.hu/html/a/abbate/deerhunt.html",
             "form": "painting",
             "painting_type": "landscape",
-            "index": 15
+            "index": 15,
+            "author": "ABBATE Niccol\u00f2 dell'"
         },
         {
             "title": "Orpheus and Eurydice",
@@ -42,7 +45,8 @@
             "url": "https://www.wga.hu/html/a/abbate/orpheus.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 16
+            "index": 16,
+            "author": "ABBATE Niccol\u00f2 dell'"
         },
         {
             "title": "The Rape of Proserpine",
@@ -52,7 +56,8 @@
             "url": "https://www.wga.hu/html/a/abbate/proserpi.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 17
+            "index": 17,
+            "author": "ABBATE Niccol\u00f2 dell'"
         },
         {
             "title": "The Continence of Scipio",
@@ -62,7 +67,8 @@
             "url": "https://www.wga.hu/html/a/abbate/scipio.html",
             "form": "painting",
             "painting_type": "mythological",
-            "index": 18
+            "index": 18,
+            "author": "ABBATE Niccol\u00f2 dell'"
         }
     ]
 }

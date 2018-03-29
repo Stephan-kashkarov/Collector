@@ -1,5 +1,5 @@
 var artist_list = [];
-var artist_lite_dict = [];
+var artist_lite_list = [];
 var artist_full_dict = [];
 var art_dict = [];
 var name_list = [];
@@ -13,7 +13,7 @@ var obj;
 var regen;
 
 class artist_lite {
-	constructor(obj){
+	constructor(obj) {
 		this.obj = obj;
 		this.name = obj[0];
 		console.log("name:", obj[0]);
@@ -30,12 +30,14 @@ class artist_lite {
 	}
 
 	print() {
+		console.log("printing:", this.name);
 		$(".main").append([this].map(artist_lite_template).join(','));
 	}
 
 }
 
 function clear() {
+	console.log("clearing");
 	$(".main").children().remove()
 }
 
@@ -44,10 +46,11 @@ function hasClass(elem, className) {
 	return elem.classList.contains(className);
 }
 // STACKOVERFLOW OBJECT LENGTH FUNCTION
-Object.size = function(obj) {
-	var size = 0, key;
-	for (key in obj) {
-		if (obj.hasOwnProperty(key)) size++;
+Object.size = function (obj) {
+	var size = 0,
+		key;
+	for(key in obj) {
+		if(obj.hasOwnProperty(key)) size++;
 	}
-return size;
+	return size;
 };

@@ -16,13 +16,9 @@ class artist_lite {
 	constructor(obj) {
 		this.obj = obj;
 		this.name = obj[0];
-		console.log("name:", obj[0]);
 		this.school = obj[1];
-		console.log("school:", obj[1]);
 		this.timeframe = obj[2];
-		console.log("timeframe:", obj[2]);
 		this.url = obj[3];
-		console.log("url:", obj[3]);
 	}
 
 	load() {

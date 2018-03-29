@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	if(window.localStorage.key(0) != "artist_list") {
-		console.log("localStorage currupted");
+		console.log("localStorage c0rrupted");
 		if(window.localStorage.length == 0) {
 			console.log("localStorage empty");
 			artist_list = $.ajax({
@@ -8,7 +8,7 @@ $(document).ready(function () {
 				method: "GET",
 				async: false,
 				done: function (xhr) {
-					console.log("Ajax completed. Status:", xhr.status);
+					console.log("Ajax completed, Status:", xhr.status);
 				}
 			});
 			artist_list = artist_list.responseText;
@@ -38,7 +38,6 @@ $(document).ready(function () {
 	console.log("starting generation of artists");
 	for(var i in artist_list) {
 		if(artist_list.hasOwnProperty(i)) {
-			console.log("generating:", artist_list[i][0]);
 			var name = artist_list[i][0];
 			var school = artist_list[i][1];
 			var timeframe = artist_list[i][2];
@@ -92,8 +91,6 @@ $(document).ready(function () {
 				var search_num = "timeframe";
 			}
 			for(var i in artist_lite_list) {
-				console.log(artist_lite_list[i]);
-				console.log(artist_lite_list[i][search_num]);
 				if(artist_lite_list[i][search_num] == search) {
 					console.log("this matched:", artist_lite_list[i]);
 					artist_lite_list[i].print()

@@ -20,9 +20,23 @@
 	<body>
 		<nav>
 			<input class="dropdown-input sorter" list="artist_list" id="artist_input" placeholder="Search by Author!">
-			<button type="button" class="dropdown-btn"><i class="arrow down"></i></button>
+			<select class="sortby">
+				<option>
+					Name
+				</option>
+				<option>
+					School
+				</option>
+				<option>
+					Timeframe
+				</option>
+			</select>
 			<button type="button" id="sorter">SORT!</button>
-			<datalist id="artist_list" style="display: none;">
+			<datalist id="name-list" style="display: none;">
+			</datalist>
+			<datalist id="school-list" style="display: none;">
+			</datalist>
+			<datalist id="timeframe-list" style="display: none;">
 			</datalist>
 		</nav>
 		<main>

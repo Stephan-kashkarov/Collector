@@ -31,7 +31,7 @@ class artist_lite {
 		$(".main").append([this.obj].map(artist_lite_template).join(','));
 	}
 
-	get_url(name, artist_list){
+	get_url(artist_list){
 		for (var i = 0; i < artist_list.length; i++) {
 			console.log("Are", name, "and", artist_list[i]["name"], "the same thing?");
 			if (artist_list[i]["name"] == name) {

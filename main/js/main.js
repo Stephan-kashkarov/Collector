@@ -39,9 +39,7 @@ $(document).ready(function () {
 		artist_lite_dict = {}
 	}
 	console.log("starting generation of artists");
-	console.log(artist_list.length);
 	var size = Object.size(artist_list);
-	console.log(size);
 	for (var i in artist_list) {
 		if (artist_list.hasOwnProperty(i)) {
 			console.log("generating:", artist_list[i][0]);
@@ -54,4 +52,11 @@ $(document).ready(function () {
 			}
 		}
 	}
+
+	$("#sorter").click(function(e){
+		var cat = $(".sortby").val();
+		if (cat == "Name") {
+
+		}
+	})
 });

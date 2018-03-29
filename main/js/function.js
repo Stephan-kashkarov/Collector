@@ -26,7 +26,14 @@ class artist_lite {
 	}
 
 	load() {
-
+		full = $.ajax({
+			url: this.url,
+			async: false,
+			method: "GET"
+		});
+		full = full.responseText;
+		full = JSON.parse(full)
+		this.full = new artist(full)
 	}
 
 	print() {
@@ -34,6 +41,12 @@ class artist_lite {
 		$(".main").append([this].map(artist_lite_template).join(','));
 	}
 
+}
+
+class artist {
+	constructor(obj) {
+		this.obj = obj
+	}
 }
 
 function clear() {

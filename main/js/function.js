@@ -26,24 +26,13 @@ class artist_lite {
 	}
 
 	load() {
-		get_url(this.name, artist_list)
+
 	}
 
 	print() {
-		$(".main").append([this.obj].map(artist_lite_template).join(','));
+		$(".main").append([this].map(artist_lite_template).join(','));
 	}
 
-	get_url(artist_list){
-		for (var i = 0; i < artist_list.length; i++) {
-			console.log("Are", this.name, "and", artist_list[i]["name"], "the same thing?");
-			if (artist_list[i]["name"] == this.name) {
-				console.log("Yes! :)");
-				return artist_list[i]["url"];
-			} else {
-				console.log("No! :(");
-			}
-		}
-	}
 }
 
 function clear() {

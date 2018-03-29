@@ -63,17 +63,17 @@ $(document).ready(function () {
 		}
 	}
 	$(".sortby").change(function(e){
-		new_cat = this.val();
+		new_cat = $(this).val();
 		if (new_cat == "Name"){
-			$(".sorter").attr("list", name-list);
+			$(".sorter").attr("list", "name-list");
 		} else if (new_cat == "School") {
-			$(".sorter").attr("list", school-list);
+			$(".sorter").attr("list", "school-list");
 		} else {
-			$(".sorter").attr("list", timeframe-list);
+			$(".sorter").attr("list", "timeframe-list");
 		}
 	});
 
-	$("#sorter").click(function(e){
+	$("#sorter").on('click', function(e){
 		clear()
 		var cat = $(".sortby").val();
 		var search = $("#artist_input").val();

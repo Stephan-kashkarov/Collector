@@ -33,8 +33,8 @@ class artist_lite {
 
 	get_url(artist_list){
 		for (var i = 0; i < artist_list.length; i++) {
-			console.log("Are", name, "and", artist_list[i]["name"], "the same thing?");
-			if (artist_list[i]["name"] == name) {
+			console.log("Are", this.name, "and", artist_list[i]["name"], "the same thing?");
+			if (artist_list[i]["name"] == this.name) {
 				console.log("Yes! :)");
 				return artist_list[i]["url"];
 			} else {

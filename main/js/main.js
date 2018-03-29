@@ -36,7 +36,7 @@ $(document).ready(function () {
 	}
 	if (artist_lite_dict.length != artist_list.length){
 		regen = true;
-		artist_lite_dict = {}
+		artist_lite_dict = {};
 	}
 	console.log("starting generation of artists");
 	var size = Object.size(artist_list);
@@ -58,8 +58,8 @@ $(document).ready(function () {
 				timeframe_list.push(timeframe);
 				$("#timeframe-list").append([artist_list[i][2]].map(auto_complete).join(","));
 			}
-			index = new artist_lite(artist_list[i]);
-			index.print()
+			name = new artist_lite(artist_list[i]);
+			index.print();
 			if (regen == true){
 				artist_lite_dict[index2] = index
 			}
@@ -74,17 +74,23 @@ $(document).ready(function () {
 		} else {
 			$(".sorter").attr("list", timeframe-list);
 		}
-	})
+	});
 
 	$("#sorter").click(function(e){
 		clear()
 		var cat = $(".sortby").val();
+		var search = $("#artist_input").val();
 		if (cat == "Name") {
-			search_num = 0
+			var search_num = 0;
 		} else if (cat == "School") {
-			search_num = 1
+			var search_num = 1;
 		} else {
-			search_num = 2
+			var search_num = 2;
 		}
-	})
+		for (var i in artist_list) {
+			if (artist_list[i][search_num] == search) {
+				artist_list[i][0].print()
+			}
+		}
+	});
 });

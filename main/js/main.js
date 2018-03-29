@@ -78,15 +78,25 @@ $(document).ready(function () {
 		clear()
 		var cat = $(".sortby").val();
 		var search = $("#artist_input").val();
-		if(cat == "Name") {
-			var search_num = 0;
-		} else if(cat == "School") {
-			var search_num = 1;
+		console.log("Searching for:", search, "in", cat + "s!");
+		if (cat != "All"){
+			if(cat == "Name") {
+				var search_num = "name";
+			} else if(cat == "School") {
+				var search_num = "school";
+			} else {
+				var search_num = "timeframe";
+			}
+			for(var i in artist_lite_list) {
+				console.log(artist_lite_list[i]);
+				console.log(artist_lite_list[i][search_num]);
+				if(artist_lite_list[i][search_num] == search) {
+					console.log("this matched:", artist_lite_list[i]);
+					artist_lite_list[i].print()
+				}
+			}
 		} else {
-			var search_num = 2;
-		}
-		for(var i in artist_lite_list) {
-			if(artist_lite_list[i][search_num] == search) {
+			for(var i in artist_lite_list) {
 				artist_lite_list[i].print()
 			}
 		}

@@ -36,22 +36,25 @@ $(document).ready(function () {
 		artist_lite_list = [];
 	}
 	console.log("starting generation of artists");
-	var size = Object.size(artist_list);
 	for(var i in artist_list) {
 		if(artist_list.hasOwnProperty(i)) {
 			console.log("generating:", artist_list[i][0]);
 			var name = artist_list[i][0];
 			var school = artist_list[i][1];
 			var timeframe = artist_list[i][2];
+			var obj = {};
 			name_list.push(name);
-			$("#name-list").append([artist_list[i][0]].map(auto_complete).join(","));
+			obj["name"] = artist_list[i][0]
+			$("#name-list").append([obj].map(auto_complete).join(","));
 			if(!school_list.includes(school)) {
+				obj["name"] = artist_list[i][1]
 				school_list.push(school);
-				$("#school-list").append([artist_list[i][1]].map(auto_complete).join(","));
+				$("#school-list").append([obj].map(auto_complete).join(","));
 			}
 			if(!timeframe_list.includes(timeframe)) {
 				timeframe_list.push(timeframe);
-				$("#timeframe-list").append([artist_list[i][2]].map(auto_complete).join(","));
+				obj["name"] = artist_list[i][2]
+				$("#timeframe-list").append([obj].map(auto_complete).join(","));
 			}
 			name = new artist_lite(artist_list[i]);
 			name.print();
@@ -78,6 +81,7 @@ $(document).ready(function () {
 		clear()
 		var cat = $(".sortby").val();
 		var search = $("#artist_input").val();
+		$("#artist_input").val("");
 		console.log("Searching for:", search, "in", cat + "s!");
 		if (cat != "All"){
 			if(cat == "Name") {

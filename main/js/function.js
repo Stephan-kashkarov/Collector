@@ -57,8 +57,13 @@ class artist {
 		}
 	}
 
-	load_art() {
-		
+	load_art(name) {
+		clear();
+		for (var i in this.art) {
+			if (this.art[i]["name"] == name) {
+				$(".main").append([this.art[i]].map(art_profile).join(","));
+			}
+		}
 	}
 }
 

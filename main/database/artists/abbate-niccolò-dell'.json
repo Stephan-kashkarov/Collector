@@ -14,7 +14,7 @@
             "painting_type": "other",
             "index": 13,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/chimney-breast.jpg"
         },
         {
             "title": "Chimney breast",
@@ -26,7 +26,7 @@
             "painting_type": "other",
             "index": 14,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/chimney-breast.jpg"
         },
         {
             "title": "Stag Hunt",
@@ -38,7 +38,7 @@
             "painting_type": "landscape",
             "index": 15,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/stag-hunt.jpg"
         },
         {
             "title": "Orpheus and Eurydice",
@@ -50,7 +50,7 @@
             "painting_type": "mythological",
             "index": 16,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/orpheus-and-eurydice.jpg"
         },
         {
             "title": "The Rape of Proserpine",
@@ -62,7 +62,7 @@
             "painting_type": "mythological",
             "index": 17,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/the-rape-of-proserpine.jpg"
         },
         {
             "title": "The Continence of Scipio",
@@ -74,7 +74,7 @@
             "painting_type": "mythological",
             "index": 18,
             "author": "ABBATE Niccol\u00f2 dell'",
-            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+            "img": "imgs/art/the-continence-of-scipio.jpg"
         }
     ]
 }

@@ -15,7 +15,7 @@
                 "painting_type": "mythological",
                 "index": 1,
                 "author": "AACHEN Hans von",
-                "img": "../main/imgs/art/aachen-hans-von.jpg"
+                "img": "imgs/art/allegory.jpg"
             },
             {
                 "title": "Bacchus Ceres and Cupid",
@@ -27,7 +27,7 @@
                 "painting_type": "mythological",
                 "index": 2,
                 "author": "AACHEN Hans von",
-                "img": "../main/imgs/art/aachen-hans-von.jpg"
+                "img": "imgs/art/bacchus-ceres-and-cupid.jpg"
             },
             {
                 "title": "Joking Couple",
@@ -39,7 +39,7 @@
                 "painting_type": "genre",
                 "index": 3,
                 "author": "AACHEN Hans von",
-                "img": "../main/imgs/art/aachen-hans-von.jpg"
+                "img": "imgs/art/joking-couple.jpg"
             },
             {
                 "title": "Portrait of Emperor Rudolf II",
@@ -51,7 +51,7 @@
                 "painting_type": "portrait",
                 "index": 4,
                 "author": "AACHEN Hans von",
-                "img": "../main/imgs/art/aachen-hans-von.jpg"
+                "img": "imgs/art/portrait-of-emperor-rudolf-ii.jpg"
             },
             {
                 "title": "Self-Portrait with a Glass of Wine",
@@ -63,7 +63,7 @@
                 "painting_type": "portrait",
                 "index": 5,
                 "author": "AACHEN Hans von",
-                "img": "../main/imgs/art/aachen-hans-von.jpg"
+                "img": "imgs/art/self-portrait-with-a-glass-of-wine.jpg"
             }
         ]
     },
@@ -83,7 +83,7 @@
                 "painting_type": "landscape",
                 "index": 6,
                 "author": "AAGAARD Carl Frederik",
-                "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
+                "img": "imgs/art/deer-beside-a-lake.jpg"
             },
             {
                 "title": "The Rose Garden",
@@ -95,7 +95,7 @@
                 "painting_type": "landscape",
                 "index": 7,
                 "author": "AAGAARD Carl Frederik",
-                "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
+                "img": "imgs/art/the-rose-garden.jpg"
             }
         ]
     },
@@ -115,7 +115,7 @@
                 "painting_type": "religious",
                 "index": 8,
                 "author": "ABADIA Juan de la",
-                "img": "../main/imgs/art/abadia-juan-de-la.jpg"
+                "img": "imgs/art/the-archangel-michael.jpg"
             }
         ]
     },
@@ -135,7 +135,7 @@
                 "painting_type": "other",
                 "index": 9,
                 "author": "ABAQUESNE Mass\u00e9ot",
-                "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
+                "img": "imgs/art/albarello.jpg"
             },
             {
                 "title": "Ceramic Floor",
@@ -147,7 +147,7 @@
                 "painting_type": "other",
                 "index": 10,
                 "author": "ABAQUESNE Mass\u00e9ot",
-                "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
+                "img": "imgs/art/ceramic-floor.jpg"
             },
             {
                 "title": "Ceramic Floor",
@@ -159,7 +159,7 @@
                 "painting_type": "other",
                 "index": 11,
                 "author": "ABAQUESNE Mass\u00e9ot",
-                "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
+                "img": "imgs/art/ceramic-floor.jpg"
             },
             {
                 "title": "The Flood",
@@ -171,7 +171,7 @@
                 "painting_type": "religious",
                 "index": 12,
                 "author": "ABAQUESNE Mass\u00e9ot",
-                "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
+                "img": "imgs/art/the-flood.jpg"
             }
         ]
     },
@@ -191,7 +191,7 @@
                 "painting_type": "other",
                 "index": 13,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/chimney-breast.jpg"
             },
             {
                 "title": "Chimney breast",
@@ -203,7 +203,7 @@
                 "painting_type": "other",
                 "index": 14,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/chimney-breast.jpg"
             },
             {
                 "title": "Stag Hunt",
@@ -215,7 +215,7 @@
                 "painting_type": "landscape",
                 "index": 15,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/stag-hunt.jpg"
             },
             {
                 "title": "Orpheus and Eurydice",
@@ -227,7 +227,7 @@
                 "painting_type": "mythological",
                 "index": 16,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/orpheus-and-eurydice.jpg"
             },
             {
                 "title": "The Rape of Proserpine",
@@ -239,7 +239,7 @@
                 "painting_type": "mythological",
                 "index": 17,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/the-rape-of-proserpine.jpg"
             },
             {
                 "title": "The Continence of Scipio",
@@ -251,7 +251,7 @@
                 "painting_type": "mythological",
                 "index": 18,
                 "author": "ABBATE Niccol\u00f2 dell'",
-                "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
+                "img": "imgs/art/the-continence-of-scipio.jpg"
             }
         ]
     },
@@ -271,7 +271,7 @@
                 "painting_type": "landscape",
                 "index": 19,
                 "author": "ABBATI Giuseppe",
-                "img": "../main/imgs/art/abbati-giuseppe.jpg"
+                "img": "imgs/art/landscape-at-castiglioncello.jpg"
             },
             {
                 "title": "Country Road with Cypresses",
@@ -283,7 +283,7 @@
                 "painting_type": "landscape",
                 "index": 20,
                 "author": "ABBATI Giuseppe",
-                "img": "../main/imgs/art/abbati-giuseppe.jpg"
+                "img": "imgs/art/country-road-with-cypresses.jpg"
             },
             {
                 "title": "Cloister",
@@ -295,7 +295,7 @@
                 "painting_type": "landscape",
                 "index": 21,
                 "author": "ABBATI Giuseppe",
-                "img": "../main/imgs/art/abbati-giuseppe.jpg"
+                "img": "imgs/art/cloister.jpg"
             },
             {
                 "title": "Portrait of a Woman",
@@ -307,7 +307,7 @@
                 "painting_type": "portrait",
                 "index": 22,
                 "author": "ABBATI Giuseppe",
-                "img": "../main/imgs/art/abbati-giuseppe.jpg"
+                "img": "imgs/art/portrait-of-a-woman.jpg"
             }
         ]
     },
@@ -327,7 +327,7 @@
                 "painting_type": "religious",
                 "index": 23,
                 "author": "ABBATINI Guido Ubaldo",
-                "img": "../main/imgs/art/abbatini-guido-ubaldo.jpg"
+                "img": "imgs/art/gian-lorenzo-bernini's-cornaro-chapel.jpg"
             }
         ]
     },
@@ -347,7 +347,7 @@
                 "painting_type": "historical",
                 "index": 24,
                 "author": "ABEELE Pieter van",
-                "img": "../main/imgs/art/abeele-pieter-van.jpg"
+                "img": "imgs/art/medal-commemorating-charles-ii-embarkation-at-scheveningen.jpg"
             },
             {
                 "title": "Commemorative Medal for Admiral Maarten Harpertszoon Tromp",
@@ -359,7 +359,7 @@
                 "painting_type": "historical",
                 "index": 25,
                 "author": "ABEELE Pieter van",
-                "img": "../main/imgs/art/abeele-pieter-van.jpg"
+                "img": "imgs/art/commemorative-medal-for-admiral-maarten-harpertszoon-tromp.jpg"
             },
             {
                 "title": "William III Prince of Orange at the Age of Four",
@@ -371,7 +371,7 @@
                 "painting_type": "historical",
                 "index": 26,
                 "author": "ABEELE Pieter van",
-                "img": "../main/imgs/art/abeele-pieter-van.jpg"
+                "img": "imgs/art/william-iii-prince-of-orange-at-the-age-of-four.jpg"
             }
         ]
     },
@@ -391,7 +391,7 @@
                 "painting_type": "mythological",
                 "index": 27,
                 "author": "ABILDGAARD Nicolai",
-                "img": "../main/imgs/art/abildgaard-nicolai.jpg"
+                "img": "imgs/art/the-midwife-taking-leave-of-the-girl-from-andros.jpg"
             },
             {
                 "title": "Simo and his Former Slave Sosia",
@@ -403,7 +403,7 @@
                 "painting_type": "mythological",
                 "index": 28,
                 "author": "ABILDGAARD Nicolai",
-                "img": "../main/imgs/art/abildgaard-nicolai.jpg"
+                "img": "imgs/art/simo-and-his-former-slave-sosia.jpg"
             },
             {
                 "title": "Culmin's Ghost Appears to his Mother",
@@ -415,7 +415,7 @@
                 "painting_type": "other",
                 "index": 29,
                 "author": "ABILDGAARD Nicolai",
-                "img": "../main/imgs/art/abildgaard-nicolai.jpg"
+                "img": "imgs/art/culmin's-ghost-appears-to-his-mother.jpg"
             },
             {
                 "title": "The Wounded Philoctetes",
@@ -427,7 +427,7 @@
                 "painting_type": "mythological",
                 "index": 30,
                 "author": "ABILDGAARD Nicolai",
-                "img": "../main/imgs/art/abildgaard-nicolai.jpg"
+                "img": "imgs/art/the-wounded-philoctetes.jpg"
             },
             {
                 "title": "Adam and Eve",
@@ -439,7 +439,7 @@
                 "painting_type": "religious",
                 "index": 31,
                 "author": "ABILDGAARD Nicolai",
-                "img": "../main/imgs/art/abildgaard-nicolai.jpg"
+                "img": "imgs/art/adam-and-eve.jpg"
             }
         ]
     },
@@ -459,7 +459,7 @@
                 "painting_type": "portrait",
                 "index": 32,
                 "author": "ABONDIO Antonio",
-                "img": "../main/imgs/art/abondio-antonio.jpg"
+                "img": "imgs/art/medallion-portrait-of-emperor-maximilian-ii.jpg"
             }
         ]
     },
@@ -479,7 +479,7 @@
                 "painting_type": "other",
                 "index": 33,
                 "author": "ACERO Y AREBO Vicente",
-                "img": "../main/imgs/art/acero-y-arebo-vicente.jpg"
+                "img": "imgs/art/exterior-view.jpg"
             },
             {
                 "title": "Exterior view",
@@ -491,7 +491,7 @@
                 "painting_type": "other",
                 "index": 34,
                 "author": "ACERO Y AREBO Vicente",
-                "img": "../main/imgs/art/acero-y-arebo-vicente.jpg"
+                "img": "imgs/art/exterior-view.jpg"
             }
         ]
     },
@@ -511,7 +511,7 @@
                 "painting_type": "landscape",
                 "index": 35,
                 "author": "ACHENBACH Oswald",
-                "img": "../main/imgs/art/achenbach-oswald.jpg"
+                "img": "imgs/art/fireworks-in-naples.jpg"
             }
         ]
     },
@@ -531,7 +531,7 @@
                 "painting_type": "historical",
                 "index": 36,
                 "author": "ADAM Albrecht",
-                "img": "../main/imgs/art/adam-albrecht.jpg"
+                "img": "imgs/art/battle-of-moscow-on-7-september-1812.jpg"
             },
             {
                 "title": "The Return from the Hunt",
@@ -543,7 +543,7 @@
                 "painting_type": "genre",
                 "index": 37,
                 "author": "ADAM Albrecht",
-                "img": "../main/imgs/art/adam-albrecht.jpg"
+                "img": "imgs/art/the-return-from-the-hunt.jpg"
             }
         ]
     },
@@ -563,7 +563,7 @@
                 "painting_type": "other",
                 "index": 38,
                 "author": "ADAM Lambert-Sigisbert",
-                "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+                "img": "imgs/art/child-pinched-by-a-lobster.jpg"
             },
             {
                 "title": "Neptune and Amphitrite",
@@ -575,7 +575,7 @@
                 "painting_type": "mythological",
                 "index": 39,
                 "author": "ADAM Lambert-Sigisbert",
-                "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+                "img": "imgs/art/neptune-and-amphitrite.jpg"
             },
             {
                 "title": "Neptune Calming the Waves",
@@ -587,7 +587,7 @@
                 "painting_type": "mythological",
                 "index": 40,
                 "author": "ADAM Lambert-Sigisbert",
-                "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+                "img": "imgs/art/neptune-calming-the-waves.jpg"
             },
             {
                 "title": "Self-portrait",
@@ -599,7 +599,7 @@
                 "painting_type": "portrait",
                 "index": 41,
                 "author": "ADAM Lambert-Sigisbert",
-                "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+                "img": "imgs/art/self-portrait.jpg"
             },
             {
                 "title": "Head of 'Water'",
@@ -611,7 +611,7 @@
                 "painting_type": "other",
                 "index": 42,
                 "author": "ADAM Lambert-Sigisbert",
-                "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+                "img": "imgs/art/head-of-'water'.jpg"
             }
         ]
     },
@@ -631,7 +631,7 @@
                 "painting_type": "religious",
                 "index": 43,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/the-martyrdom-of-sainte-victoire.jpg"
             },
             {
                 "title": "Monument to Queen Catharina Opalinska",
@@ -643,7 +643,7 @@
                 "painting_type": "religious",
                 "index": 44,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/monument-to-queen-catharina-opalinska.jpg"
             },
             {
                 "title": "Monument to Queen Catharina Opalinska (detail)",
@@ -655,7 +655,7 @@
                 "painting_type": "religious",
                 "index": 45,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/monument-to-queen-catharina-opalinska-(detail).jpg"
             },
             {
                 "title": "Prometheus",
@@ -667,7 +667,7 @@
                 "painting_type": "mythological",
                 "index": 46,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/prometheus.jpg"
             },
             {
                 "title": "Prometheus",
@@ -679,7 +679,7 @@
                 "painting_type": "mythological",
                 "index": 47,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/prometheus.jpg"
             },
             {
                 "title": "Monumental vase on the theme of autumn",
@@ -691,7 +691,7 @@
                 "painting_type": "mythological",
                 "index": 48,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/monumental-vase-on-the-theme-of-autumn.jpg"
             },
             {
                 "title": "Monumental vase on the theme of autumn (detail)",
@@ -703,7 +703,7 @@
                 "painting_type": "mythological",
                 "index": 49,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/monumental-vase-on-the-theme-of-autumn-(detail).jpg"
             },
             {
                 "title": "Monumental vase on the theme of autumn (detail)",
@@ -715,7 +715,7 @@
                 "painting_type": "mythological",
                 "index": 50,
                 "author": "ADAM Nicolas-S\u00e9bastien",
-                "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
+                "img": "imgs/art/monumental-vase-on-the-theme-of-autumn-(detail).jpg"
             }
         ]
     },
@@ -735,7 +735,7 @@
                 "painting_type": "other",
                 "index": 51,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/exterior-view.jpg"
             },
             {
                 "title": "Library",
@@ -747,7 +747,7 @@
                 "painting_type": "interior",
                 "index": 52,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/library.jpg"
             },
             {
                 "title": "Stairwell",
@@ -759,7 +759,7 @@
                 "painting_type": "interior",
                 "index": 53,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/stairwell.jpg"
             },
             {
                 "title": "Cupola of the stairwell",
@@ -771,7 +771,7 @@
                 "painting_type": "interior",
                 "index": 54,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/cupola-of-the-stairwell.jpg"
             },
             {
                 "title": "Music Room",
@@ -783,7 +783,7 @@
                 "painting_type": "interior",
                 "index": 55,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/music-room.jpg"
             },
             {
                 "title": "Interior view",
@@ -795,7 +795,7 @@
                 "painting_type": "interior",
                 "index": 56,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Interior view",
@@ -807,7 +807,7 @@
                 "painting_type": "interior",
                 "index": 57,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Interior view",
@@ -819,7 +819,7 @@
                 "painting_type": "interior",
                 "index": 58,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Interior view",
@@ -831,7 +831,7 @@
                 "painting_type": "interior",
                 "index": 59,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Interior view",
@@ -843,7 +843,7 @@
                 "painting_type": "interior",
                 "index": 60,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Interior view",
@@ -855,7 +855,7 @@
                 "painting_type": "interior",
                 "index": 61,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/interior-view.jpg"
             },
             {
                 "title": "Gateway",
@@ -867,7 +867,7 @@
                 "painting_type": "other",
                 "index": 62,
                 "author": "ADAM Robert",
-                "img": "../main/imgs/art/adam-robert.jpg"
+                "img": "imgs/art/gateway.jpg"
             }
         ]
     }

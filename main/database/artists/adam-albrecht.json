@@ -14,7 +14,7 @@
             "painting_type": "historical",
             "index": 36,
             "author": "ADAM Albrecht",
-            "img": "../main/imgs/art/adam-albrecht.jpg"
+            "img": "imgs/art/battle-of-moscow-on-7-september-1812.jpg"
         },
         {
             "title": "The Return from the Hunt",
@@ -26,7 +26,7 @@
             "painting_type": "genre",
             "index": 37,
             "author": "ADAM Albrecht",
-            "img": "../main/imgs/art/adam-albrecht.jpg"
+            "img": "imgs/art/the-return-from-the-hunt.jpg"
         }
     ]
 }

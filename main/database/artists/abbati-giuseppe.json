@@ -14,7 +14,7 @@
             "painting_type": "landscape",
             "index": 19,
             "author": "ABBATI Giuseppe",
-            "img": "../main/imgs/art/abbati-giuseppe.jpg"
+            "img": "imgs/art/landscape-at-castiglioncello.jpg"
         },
         {
             "title": "Country Road with Cypresses",
@@ -26,7 +26,7 @@
             "painting_type": "landscape",
             "index": 20,
             "author": "ABBATI Giuseppe",
-            "img": "../main/imgs/art/abbati-giuseppe.jpg"
+            "img": "imgs/art/country-road-with-cypresses.jpg"
         },
         {
             "title": "Cloister",
@@ -38,7 +38,7 @@
             "painting_type": "landscape",
             "index": 21,
             "author": "ABBATI Giuseppe",
-            "img": "../main/imgs/art/abbati-giuseppe.jpg"
+            "img": "imgs/art/cloister.jpg"
         },
         {
             "title": "Portrait of a Woman",
@@ -50,7 +50,7 @@
             "painting_type": "portrait",
             "index": 22,
             "author": "ABBATI Giuseppe",
-            "img": "../main/imgs/art/abbati-giuseppe.jpg"
+            "img": "imgs/art/portrait-of-a-woman.jpg"
         }
     ]
 }

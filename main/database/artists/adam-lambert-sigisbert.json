@@ -14,7 +14,7 @@
             "painting_type": "other",
             "index": 38,
             "author": "ADAM Lambert-Sigisbert",
-            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+            "img": "imgs/art/child-pinched-by-a-lobster.jpg"
         },
         {
             "title": "Neptune and Amphitrite",
@@ -26,7 +26,7 @@
             "painting_type": "mythological",
             "index": 39,
             "author": "ADAM Lambert-Sigisbert",
-            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+            "img": "imgs/art/neptune-and-amphitrite.jpg"
         },
         {
             "title": "Neptune Calming the Waves",
@@ -38,7 +38,7 @@
             "painting_type": "mythological",
             "index": 40,
             "author": "ADAM Lambert-Sigisbert",
-            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+            "img": "imgs/art/neptune-calming-the-waves.jpg"
         },
         {
             "title": "Self-portrait",
@@ -50,7 +50,7 @@
             "painting_type": "portrait",
             "index": 41,
             "author": "ADAM Lambert-Sigisbert",
-            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+            "img": "imgs/art/self-portrait.jpg"
         },
         {
             "title": "Head of 'Water'",
@@ -62,7 +62,7 @@
             "painting_type": "other",
             "index": 42,
             "author": "ADAM Lambert-Sigisbert",
-            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
+            "img": "imgs/art/head-of-'water'.jpg"
         }
     ]
 }

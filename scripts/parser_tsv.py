@@ -132,7 +132,7 @@ for line in lines:
 				timeframe, pos = next_field(fields, pos)
 
 			fname = title.replace(" ", "-").replace('.', '').lower()
-			print("Scraping", fname +"'s image from", url)
+			print("Scraping", name +"'s image from", url)
 			img = scrape_img(url, fname)
 
 			make_artist(artist_cache, name, dates, school, timeframe)

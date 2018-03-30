@@ -14,7 +14,7 @@
             "painting_type": "other",
             "index": 33,
             "author": "ACERO Y AREBO Vicente",
-            "img": "../main/imgs/art/acero-y-arebo-vicente.jpg"
+            "img": "imgs/art/exterior-view.jpg"
         },
         {
             "title": "Exterior view",
@@ -26,7 +26,7 @@
             "painting_type": "other",
             "index": 34,
             "author": "ACERO Y AREBO Vicente",
-            "img": "../main/imgs/art/acero-y-arebo-vicente.jpg"
+            "img": "imgs/art/exterior-view.jpg"
         }
     ]
 }

@@ -14,7 +14,7 @@
             "painting_type": "landscape",
             "index": 6,
             "author": "AAGAARD Carl Frederik",
-            "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
+            "img": "imgs/art/deer-beside-a-lake.jpg"
         },
         {
             "title": "The Rose Garden",
@@ -26,7 +26,7 @@
             "painting_type": "landscape",
             "index": 7,
             "author": "AAGAARD Carl Frederik",
-            "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
+            "img": "imgs/art/the-rose-garden.jpg"
         }
     ]
 }

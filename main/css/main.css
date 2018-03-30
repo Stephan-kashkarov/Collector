@@ -37,7 +37,13 @@ html main ul, body main ul {
   border-radius: 2%;
 }
 
-/* line 34, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 33, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main img, body main img {
+  width: 30%;
+  height: 30%;
+}
+
+/* line 38, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer, body footer {
   top: 80%;
   background-color: #2E2E2E;
@@ -48,18 +54,18 @@ html footer, body footer {
   text-align: center;
 }
 
-/* line 42, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 46, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .left-side, body footer .left-side {
   background-color: #FFFFFF;
   border-radius: 5%;
 }
 
-/* line 46, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 50, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .right-side, body footer .right-side {
   display: none;
 }
 
-/* line 51, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 55, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html .wrapper, body .wrapper {
   margin: 0 10% 0 10%;
 }

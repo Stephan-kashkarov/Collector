@@ -67,14 +67,15 @@ def make_art(art_cache, title, date, technique, location, url, form, painting_ty
 	art_cache["img"] = img
 
 def scrape_img(url, name):
-	filename = "../main/imgs/art/" + name + ".jpg"
+	filename1 = "../main/imgs/art/" + name + ".jpg"
+	filename2= "imgs/art/" + name + ".jpg"
 	site = urllib.request.urlopen(url).read()
 	xhtml = lxml.html.document_fromstring(site)
-	print("Making:", filename)
+	print("Making:", filename1)
 	img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
 	imgurl = "https://www.wga.hu" + img[0]
 	urllib.request.urlretrieve(imgurl, filename)
-	return filename
+	return filename2
 
 art_index = 0
 with open('../data/artist_lite.csv', newline='\n', encoding='utf-8') as f:

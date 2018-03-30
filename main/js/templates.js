@@ -60,7 +60,8 @@ const art_profile = ({
 	location,
 	form,
 	painting_type,
-	index
+	index,
+	img
 }) =>
 `
 <li class="art_article">
@@ -70,6 +71,7 @@ const art_profile = ({
 	<p class="date">
 		${date}
 	</p>
+	<img src="${img}">
 	<p class="block">
 		Technique: ${technique}
 		<br>

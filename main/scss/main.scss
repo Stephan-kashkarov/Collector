@@ -15,15 +15,30 @@ html, body{
 			background-color: $mid;
 			padding: 2%;
 			margin-bottom: 2%;
-			.intro{
+			border-radius: 5%;
 
-			}
+		}
+		.intro-content {
+			border-radius: 0;
+		}
+		.artist-lite{
+			background-color: $light;
+			padding-top: 2%;
+			padding-bottom: 2%;
+			border-radius: 2%;
+		}
+		ul {
+			border-radius: 2%;
 		}
 	}
 	footer {
+		top: 80%;
 		background-color: $dark;
+		height: 20%;
 		padding-top: 5%;
 		padding-bottom: 5%;
+		vertical-align: middle;
+		text-align: center;
 		.left-side{
 			background-color: $light;
 			border-radius: 5%;

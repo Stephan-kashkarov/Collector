@@ -139,7 +139,7 @@ for line in lines:
 
 			index += 1
 
-			fname = index
+			fname = str(index)
 			print("Scraping", name +"'s image from", url)
 			img = scrape_img(url, fname)
 
@@ -181,7 +181,7 @@ for line in lines:
 
 			index += 1
 
-			fname = title.replace(" ", "-").replace('.', '').lower()
+			fname = str(index)
 			img = scrape_img(url, fname)
 
 			cascade_art(art_list, art_cache)

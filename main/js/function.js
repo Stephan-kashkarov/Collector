@@ -3,13 +3,9 @@ var artist_lite_list = [];
 var name_list = [];
 var school_list = [];
 var timeframe_list = [];
-var artist_profile;
-var profile;
-var thing;
-var piece;
 var obj;
 var regen;
-var loaded = []
+var loaded = [];
 
 class artist_lite {
 	constructor(obj) {

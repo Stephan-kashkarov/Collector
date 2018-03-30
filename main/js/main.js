@@ -41,7 +41,6 @@ $(document).ready(function(){
 	});
 
 	$(document).on("click",".article", function(e){
-		console.log(this);
 		name = $(this).children(".name").text().trim();
 		console.log(name, "was clicked");
 		for (var i in artist_lite_list) {

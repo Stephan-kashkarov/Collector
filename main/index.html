@@ -17,20 +17,22 @@
 
 	<body>
 		<nav>
-			<input class="dropdown-input sorter" list="name-list" id="artist_input" placeholder="Search by Author!">
-			<select class="sortby">
-				<option>All</option>
-				<option>Name</option>
-				<option>School</option>
-				<option>Timeframe</option>
-			</select>
-			<button type="button" id="sorter">SORT!</button>
-			<datalist id="name-list" style="display: none;">
-			</datalist>
-			<datalist id="school-list" style="display: none;">
-			</datalist>
-			<datalist id="timeframe-list" style="display: none;">
-			</datalist>
+			<div class="nav">
+				<input class="dropdown-input sorter" list="name-list" id="artist_input" placeholder="Search!">
+				<select class="sortby">
+					<option>All</option>
+					<option>Name</option>
+					<option>School</option>
+					<option>Timeframe</option>
+				</select>
+				<button type="button" id="sorter">SORT!</button>
+				<datalist id="name-list" style="display: none;">
+				</datalist>
+				<datalist id="school-list" style="display: none;">
+				</datalist>
+				<datalist id="timeframe-list" style="display: none;">
+				</datalist>
+			</div>
 		</nav>
 		<main>
 			<div class="wrapper">

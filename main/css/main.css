@@ -12,28 +12,31 @@ html nav, body nav {
 }
 
 /* line 14, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-html main .wrapper, body main .wrapper {
+html main .content, body main .content {
   background-color: #7F7F7F;
+  padding: 2%;
+  margin-bottom: 2%;
 }
 
-/* line 18, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 23, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer, body footer {
   background-color: #2E2E2E;
-  padding: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
-/* line 21, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 27, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .left-side, body footer .left-side {
   background-color: #FFFFFF;
   border-radius: 5%;
 }
 
-/* line 25, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 31, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .right-side, body footer .right-side {
   display: none;
 }
 
-/* line 30, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 36, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html .wrapper, body .wrapper {
   margin: 0 10% 0 10%;
 }

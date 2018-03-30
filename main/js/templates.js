@@ -22,7 +22,6 @@ const artist_lite_template = ({
 	timeframe
 }) =>
 `
-<hr>
 <li class="name article">
 	<a class="artist_lite name">
 		${name}
@@ -34,7 +33,6 @@ const artist_lite_template = ({
 		${timeframe}
 	</a>
 </li>
-<hr>
 `;
 
 const art_list_template = ({

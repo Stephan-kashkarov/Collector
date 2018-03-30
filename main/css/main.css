@@ -1,110 +1,35 @@
 /* line 5, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* {
-  background-color: #EDFFFF;
+html, body {
+  height: 100%;
 }
 
-/* line 8, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav {
-  width: 100%;
+/* line 7, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html nav, body nav {
+  background-color: #2E2E2E;
   height: 20%;
-  background-color: #3B4040;
+  width: 100%;
   text-align: center;
+}
+
+/* line 16, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html footer, body footer {
+  background-color: #7F7F7F;
   padding: 5%;
 }
 
-/* line 14, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav input {
-  border-radius: 20px;
-  -webkit-border-radius: 20px;
-}
-
-/* line 18, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav button {
-  border-radius: 20px;
-  -webkit-border-radius: 20px;
+/* line 19, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html footer .left-side, body footer .left-side {
+  background-color: #FFFFFF;
 }
 
 /* line 22, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav .visually-hidden {
-  display: none !important;
-}
-
-/* line 25, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav .awesomplete {
-  background-color: #3B4040;
-}
-
-/* line 27, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* nav .awesomplete #awesomplete_list_1 {
-  background-color: #3B4040;
-}
-
-/* line 33, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* main {
-  top: 20%;
-  height: 80%;
-  width: 100%;
-}
-
-/* line 37, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* main .intro {
-  text-align: center;
-}
-
-/* line 39, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* main .intro .title {
-  border: 2px solid;
-  font-weight: bold;
-}
-
-/* line 46, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* footer {
-  top: 75%;
-  width: 100%;
-  left: 0;
-  right: 0;
-  background-color: #767F7F;
-  overflow: hidden;
-  padding-top: 5%;
-  padding-bottom: 5%;
-  position: fixed;
-  text-align: center;
-}
-
-/* line 57, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* footer .left-side {
-  background-color: #EDFFFF;
-  text-align: center;
-}
-
-/* line 61, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* footer ul {
+html footer .right-side, body footer .right-side {
   display: none;
 }
 
-/* line 68, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* .center {
-  text-align: center;
-}
-
-/* line 71, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* .wrapper {
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-/* line 76, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* i {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
-
-/* line 82, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
-* .down {
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
+/* line 27, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html .wrapper, body .wrapper {
+  margin: 0 10% 0 10%;
 }
 
 /*# sourceMappingURL=../css/main.map */

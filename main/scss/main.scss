@@ -1,3 +1,30 @@
-$dark: #3B4040;
-$mid: #767F7F;
-$light: #EDFFFF;
+$dark: #2E2E2E;
+$mid: #7F7F7F;
+$light: #FFFFFF;
+
+html, body{
+	height: 100%;
+	nav {
+		background-color: $dark;
+		height: 20%;
+		width: 100%;
+		text-align: center;
+	}
+	main {
+
+	}
+	footer {
+		background-color: $mid;
+		padding: 5%;
+		.left-side{
+			background-color: $light;
+		}
+		.right-side {
+			display: none;
+		}
+	}
+
+	.wrapper{
+		margin: 0 10% 0 10%
+	}
+}

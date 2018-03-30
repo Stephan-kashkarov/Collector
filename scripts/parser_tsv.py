@@ -1,5 +1,10 @@
 # MODULE IMPORTS
 import json
+import urllib.request
+import requests
+import lxml
+from lxml import etree
+from lxml import html
 
 # VARIABLE DEFINITION
 x = 0
@@ -49,7 +54,7 @@ def make_artist(artist_cache, name, dates, school, timeframe):
 	artist_cache["timeframe"] = timeframe
 
 
-def make_art(art_cache, title, date, technique, location, url, form, painting_type, index):
+def make_art(art_cache, title, date, technique, location, url, form, painting_type, index, img):
 	art_cache["title"] = title
 	art_cache["date"] = date
 	art_cache["technique"] = technique
@@ -59,7 +64,17 @@ def make_art(art_cache, title, date, technique, location, url, form, painting_ty
 	art_cache["painting_type"] = painting_type
 	art_cache["index"] = index
 	art_cache["author"] = name
+	art_cache["img"] = img
 
+def scrape_img(url, name):
+	filename = "../main/imgs/art/" + name + ".jpg"
+	site = urllib.request.urlopen(url).read()
+	xhtml = lxml.html.document_fromstring(site)
+	print("Making:", filename)
+	img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
+	imgurl = "https://www.wga.hu" + img[0]
+	urllib.request.urlretrieve(imgurl, filename)
+	return filename
 
 art_index = 0
 with open('../data/artist_lite.csv', newline='\n', encoding='utf-8') as f:
@@ -115,8 +130,12 @@ for line in lines:
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
 
+			fname = name.replace(" ", "-").replace('.', '').lower()
+			print("Scraping", fname +"'s image from", url)
+			img = scrape_img(url, fname)
+
 			make_artist(artist_cache, name, dates, school, timeframe)
-			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index)
+			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index, img)
 			cascade_art(art_list, art_cache)
 			art_cache = {}
 
@@ -151,8 +170,11 @@ for line in lines:
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
 
+			fname = name.replace(" ", "-").replace('.', '').lower()
+			img = scrape_img(url, fname)
+
 			cascade_art(art_list, art_cache)
-			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index)
+			make_art(art_cache, title, date, technique, location, url, form, painting_type, art_index, img)
 
 			art_cache = {}
 	art_index += 1

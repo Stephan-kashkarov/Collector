@@ -13,7 +13,8 @@
             "form": "painting",
             "painting_type": "historical",
             "index": 36,
-            "author": "ADAM Albrecht"
+            "author": "ADAM Albrecht",
+            "img": "../main/imgs/art/adam-albrecht.jpg"
         },
         {
             "title": "The Return from the Hunt",
@@ -24,7 +25,8 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 37,
-            "author": "ADAM Albrecht"
+            "author": "ADAM Albrecht",
+            "img": "../main/imgs/art/adam-albrecht.jpg"
         }
     ]
 }

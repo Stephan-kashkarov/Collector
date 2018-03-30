@@ -13,7 +13,8 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 6,
-            "author": "AAGAARD Carl Frederik"
+            "author": "AAGAARD Carl Frederik",
+            "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
         },
         {
             "title": "The Rose Garden",
@@ -24,7 +25,8 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 7,
-            "author": "AAGAARD Carl Frederik"
+            "author": "AAGAARD Carl Frederik",
+            "img": "../main/imgs/art/aagaard-carl-frederik.jpg"
         }
     ]
 }

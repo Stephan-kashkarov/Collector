@@ -13,7 +13,8 @@
             "form": "sculpture",
             "painting_type": "historical",
             "index": 24,
-            "author": "ABEELE Pieter van"
+            "author": "ABEELE Pieter van",
+            "img": "../main/imgs/art/abeele-pieter-van.jpg"
         },
         {
             "title": "Commemorative Medal for Admiral Maarten Harpertszoon Tromp",
@@ -24,7 +25,8 @@
             "form": "sculpture",
             "painting_type": "historical",
             "index": 25,
-            "author": "ABEELE Pieter van"
+            "author": "ABEELE Pieter van",
+            "img": "../main/imgs/art/abeele-pieter-van.jpg"
         },
         {
             "title": "William III Prince of Orange at the Age of Four",
@@ -35,7 +37,8 @@
             "form": "sculpture",
             "painting_type": "historical",
             "index": 26,
-            "author": "ABEELE Pieter van"
+            "author": "ABEELE Pieter van",
+            "img": "../main/imgs/art/abeele-pieter-van.jpg"
         }
     ]
 }

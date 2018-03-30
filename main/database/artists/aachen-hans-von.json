@@ -13,7 +13,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 1,
-            "author": "AACHEN Hans von"
+            "author": "AACHEN Hans von",
+            "img": "../main/imgs/art/aachen-hans-von.jpg"
         },
         {
             "title": "Bacchus Ceres and Cupid",
@@ -24,7 +25,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 2,
-            "author": "AACHEN Hans von"
+            "author": "AACHEN Hans von",
+            "img": "../main/imgs/art/aachen-hans-von.jpg"
         },
         {
             "title": "Joking Couple",
@@ -35,7 +37,8 @@
             "form": "painting",
             "painting_type": "genre",
             "index": 3,
-            "author": "AACHEN Hans von"
+            "author": "AACHEN Hans von",
+            "img": "../main/imgs/art/aachen-hans-von.jpg"
         },
         {
             "title": "Portrait of Emperor Rudolf II",
@@ -46,7 +49,8 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 4,
-            "author": "AACHEN Hans von"
+            "author": "AACHEN Hans von",
+            "img": "../main/imgs/art/aachen-hans-von.jpg"
         },
         {
             "title": "Self-Portrait with a Glass of Wine",
@@ -57,7 +61,8 @@
             "form": "painting",
             "painting_type": "portrait",
             "index": 5,
-            "author": "AACHEN Hans von"
+            "author": "AACHEN Hans von",
+            "img": "../main/imgs/art/aachen-hans-von.jpg"
         }
     ]
 }

@@ -13,7 +13,8 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 43,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Monument to Queen Catharina Opalinska",
@@ -24,7 +25,8 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 44,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Monument to Queen Catharina Opalinska (detail)",
@@ -35,7 +37,8 @@
             "form": "sculpture",
             "painting_type": "religious",
             "index": 45,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Prometheus",
@@ -46,7 +49,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 46,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Prometheus",
@@ -57,7 +61,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 47,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Monumental vase on the theme of autumn",
@@ -68,7 +73,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 48,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Monumental vase on the theme of autumn (detail)",
@@ -79,7 +85,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 49,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         },
         {
             "title": "Monumental vase on the theme of autumn (detail)",
@@ -90,7 +97,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 50,
-            "author": "ADAM Nicolas-S\u00e9bastien"
+            "author": "ADAM Nicolas-S\u00e9bastien",
+            "img": "../main/imgs/art/adam-nicolas-s\u00e9bastien.jpg"
         }
     ]
 }

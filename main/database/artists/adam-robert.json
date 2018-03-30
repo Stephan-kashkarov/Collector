@@ -13,7 +13,8 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 51,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Library",
@@ -24,7 +25,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 52,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Stairwell",
@@ -35,7 +37,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 53,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Cupola of the stairwell",
@@ -46,7 +49,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 54,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Music Room",
@@ -57,7 +61,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 55,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -68,7 +73,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 56,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -79,7 +85,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 57,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -90,7 +97,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 58,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -101,7 +109,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 59,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -112,7 +121,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 60,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Interior view",
@@ -123,7 +133,8 @@
             "form": "architecture",
             "painting_type": "interior",
             "index": 61,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         },
         {
             "title": "Gateway",
@@ -134,7 +145,8 @@
             "form": "architecture",
             "painting_type": "other",
             "index": 62,
-            "author": "ADAM Robert"
+            "author": "ADAM Robert",
+            "img": "../main/imgs/art/adam-robert.jpg"
         }
     ]
 }

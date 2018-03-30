@@ -13,7 +13,8 @@
             "form": "ceramics",
             "painting_type": "other",
             "index": 9,
-            "author": "ABAQUESNE Mass\u00e9ot"
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
         },
         {
             "title": "Ceramic Floor",
@@ -24,7 +25,8 @@
             "form": "ceramics",
             "painting_type": "other",
             "index": 10,
-            "author": "ABAQUESNE Mass\u00e9ot"
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
         },
         {
             "title": "Ceramic Floor",
@@ -35,7 +37,8 @@
             "form": "ceramics",
             "painting_type": "other",
             "index": 11,
-            "author": "ABAQUESNE Mass\u00e9ot"
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
         },
         {
             "title": "The Flood",
@@ -46,7 +49,8 @@
             "form": "ceramics",
             "painting_type": "religious",
             "index": 12,
-            "author": "ABAQUESNE Mass\u00e9ot"
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "img": "../main/imgs/art/abaquesne-mass\u00e9ot.jpg"
         }
     ]
 }

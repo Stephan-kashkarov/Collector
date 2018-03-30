@@ -13,7 +13,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 27,
-            "author": "ABILDGAARD Nicolai"
+            "author": "ABILDGAARD Nicolai",
+            "img": "../main/imgs/art/abildgaard-nicolai.jpg"
         },
         {
             "title": "Simo and his Former Slave Sosia",
@@ -24,7 +25,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 28,
-            "author": "ABILDGAARD Nicolai"
+            "author": "ABILDGAARD Nicolai",
+            "img": "../main/imgs/art/abildgaard-nicolai.jpg"
         },
         {
             "title": "Culmin's Ghost Appears to his Mother",
@@ -35,7 +37,8 @@
             "form": "painting",
             "painting_type": "other",
             "index": 29,
-            "author": "ABILDGAARD Nicolai"
+            "author": "ABILDGAARD Nicolai",
+            "img": "../main/imgs/art/abildgaard-nicolai.jpg"
         },
         {
             "title": "The Wounded Philoctetes",
@@ -46,7 +49,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 30,
-            "author": "ABILDGAARD Nicolai"
+            "author": "ABILDGAARD Nicolai",
+            "img": "../main/imgs/art/abildgaard-nicolai.jpg"
         },
         {
             "title": "Adam and Eve",
@@ -57,7 +61,8 @@
             "form": "graphics",
             "painting_type": "religious",
             "index": 31,
-            "author": "ABILDGAARD Nicolai"
+            "author": "ABILDGAARD Nicolai",
+            "img": "../main/imgs/art/abildgaard-nicolai.jpg"
         }
     ]
 }

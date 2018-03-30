@@ -13,7 +13,8 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 38,
-            "author": "ADAM Lambert-Sigisbert"
+            "author": "ADAM Lambert-Sigisbert",
+            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
         },
         {
             "title": "Neptune and Amphitrite",
@@ -24,7 +25,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 39,
-            "author": "ADAM Lambert-Sigisbert"
+            "author": "ADAM Lambert-Sigisbert",
+            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
         },
         {
             "title": "Neptune Calming the Waves",
@@ -35,7 +37,8 @@
             "form": "sculpture",
             "painting_type": "mythological",
             "index": 40,
-            "author": "ADAM Lambert-Sigisbert"
+            "author": "ADAM Lambert-Sigisbert",
+            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
         },
         {
             "title": "Self-portrait",
@@ -46,7 +49,8 @@
             "form": "graphics",
             "painting_type": "portrait",
             "index": 41,
-            "author": "ADAM Lambert-Sigisbert"
+            "author": "ADAM Lambert-Sigisbert",
+            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
         },
         {
             "title": "Head of 'Water'",
@@ -57,7 +61,8 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 42,
-            "author": "ADAM Lambert-Sigisbert"
+            "author": "ADAM Lambert-Sigisbert",
+            "img": "../main/imgs/art/adam-lambert-sigisbert.jpg"
         }
     ]
 }

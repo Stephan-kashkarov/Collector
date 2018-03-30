@@ -13,7 +13,8 @@
             "form": "painting",
             "painting_type": "other",
             "index": 13,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         },
         {
             "title": "Chimney breast",
@@ -24,7 +25,8 @@
             "form": "sculpture",
             "painting_type": "other",
             "index": 14,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         },
         {
             "title": "Stag Hunt",
@@ -35,7 +37,8 @@
             "form": "painting",
             "painting_type": "landscape",
             "index": 15,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         },
         {
             "title": "Orpheus and Eurydice",
@@ -46,7 +49,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 16,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         },
         {
             "title": "The Rape of Proserpine",
@@ -57,7 +61,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 17,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         },
         {
             "title": "The Continence of Scipio",
@@ -68,7 +73,8 @@
             "form": "painting",
             "painting_type": "mythological",
             "index": 18,
-            "author": "ABBATE Niccol\u00f2 dell'"
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "../main/imgs/art/abbate-niccol\u00f2-dell'.jpg"
         }
     ]
 }

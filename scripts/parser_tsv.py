@@ -1,5 +1,6 @@
 # MODULE IMPORTS
 import json
+import os.path
 import urllib.request
 import requests
 import lxml
@@ -69,12 +70,13 @@ def make_art(art_cache, title, date, technique, location, url, form, painting_ty
 def scrape_img(url, name):
 	filename1 = "../main/imgs/art/" + name + ".jpg"
 	filename2= "imgs/art/" + name + ".jpg"
-	site = urllib.request.urlopen(url).read()
-	xhtml = lxml.html.document_fromstring(site)
-	print("Making:", filename1)
-	img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
-	imgurl = "https://www.wga.hu" + img[0]
-	urllib.request.urlretrieve(imgurl, filename1)
+	if os.path.isfile(filename1):
+		site = urllib.request.urlopen(url).read()
+		xhtml = lxml.html.document_fromstring(site)
+		print("Making:", filename1)
+		img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
+		imgurl = "https://www.wga.hu" + img[0]
+		urllib.request.urlretrieve(imgurl, filename1)
 	return filename2
 
 art_index = 0

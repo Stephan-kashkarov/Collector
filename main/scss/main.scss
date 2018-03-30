@@ -11,13 +11,16 @@ html, body{
 		text-align: center;
 	}
 	main {
-
+		.wrapper{
+			background-color: $mid;
+		}
 	}
 	footer {
-		background-color: $mid;
+		background-color: $dark;
 		padding: 5%;
 		.left-side{
 			background-color: $light;
+			border-radius: 5%;
 		}
 		.right-side {
 			display: none;

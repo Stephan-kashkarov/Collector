@@ -9,6 +9,7 @@ from lxml import html
 
 # VARIABLE DEFINITION
 x = 0
+index = 0
 parsed_data = []
 artist_cache = {}
 art_cache = {}
@@ -71,6 +72,9 @@ def scrape_img(url, name):
 	filename1 = "../main/imgs/art/" + name + ".jpg"
 	filename2= "imgs/art/" + name + ".jpg"
 	if os.path.isfile(filename1):
+		print("filename exists")
+	else:
+		print("file dosnet exist")
 		site = urllib.request.urlopen(url).read()
 		xhtml = lxml.html.document_fromstring(site)
 		print("Making:", filename1)
@@ -133,7 +137,9 @@ for line in lines:
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
 
-			fname = title.replace(" ", "-").replace('.', '').lower()
+			index += 1
+
+			fname = index
 			print("Scraping", name +"'s image from", url)
 			img = scrape_img(url, fname)
 
@@ -172,6 +178,8 @@ for line in lines:
 				school, pos = next_field(fields, pos)
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
+
+			index += 1
 
 			fname = title.replace(" ", "-").replace('.', '').lower()
 			img = scrape_img(url, fname)

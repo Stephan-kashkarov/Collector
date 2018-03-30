@@ -131,7 +131,7 @@ for line in lines:
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
 
-			fname = name.replace(" ", "-").replace('.', '').lower()
+			fname = title.replace(" ", "-").replace('.', '').lower()
 			print("Scraping", fname +"'s image from", url)
 			img = scrape_img(url, fname)
 
@@ -171,7 +171,7 @@ for line in lines:
 			if (pos < num_fields):
 				timeframe, pos = next_field(fields, pos)
 
-			fname = name.replace(" ", "-").replace('.', '').lower()
+			fname = title.replace(" ", "-").replace('.', '').lower()
 			img = scrape_img(url, fname)
 
 			cascade_art(art_list, art_cache)

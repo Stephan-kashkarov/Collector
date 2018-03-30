@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
 	$(".sortby").change(function (e) {
 		new_cat = $(this).val();
 		if(new_cat == "Name") {
@@ -19,7 +19,7 @@ $(document).ready(function(){
 		var search = $("#artist_input").val();
 		$("#artist_input").val("");
 		console.log("Searching for:", search, "in", cat + "s!");
-		if (cat != "All"){
+		if(cat != "All") {
 			if(cat == "Name") {
 				var search_num = "name";
 			} else if(cat == "School") {
@@ -40,14 +40,14 @@ $(document).ready(function(){
 		}
 	});
 
-	$(document).on("click",".article", function(e){
+	$(document).on("click", ".article", function (e) {
 		name = $(this).children(".name").text().trim();
 		console.log(name, "was clicked");
-		for (var i in artist_lite_list) {
+		for(var i in artist_lite_list) {
 			console.log("checking", name, "vs", artist_lite_list[i]["name"]);
-			if (artist_lite_list[i]["name"] == name) {
+			if(artist_lite_list[i]["name"] == name) {
 				loaded = []
-				console.log("we found:", name +"'s profile!");
+				console.log("we found:", name + "'s profile!");
 				artist_lite_list[i].load();
 				artist_lite_list[i].full.print();
 				loaded.push(artist_lite_list[i])
@@ -56,12 +56,12 @@ $(document).ready(function(){
 		}
 	});
 
-	$(document).on("click", ".art", function(e){
+	$(document).on("click", ".art", function (e) {
 		var title = $(this).find("span").text().trim();
 		loaded[0].full.load_art(title)
 	});
 
-	$(document).on("click", ".back_full", function(e){
+	$(document).on("click", ".back_full", function (e) {
 		loaded[0].full.print()
 	})
 });

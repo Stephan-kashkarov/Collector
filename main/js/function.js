@@ -48,17 +48,17 @@ class artist {
 	print() {
 		clear();
 		$(".main").append([this].map(artist_template).join(","));
-		for (var i in this.art) {
+		for(var i in this.art) {
 			$(".art-container").append([this.art[i]].map(art_list_template).join(","));
 		}
 	}
 
 	load_art(name) {
 		clear();
-		for (var i in this.art) {
+		for(var i in this.art) {
 			var title = this.art[i]["title"].trim()
 			console.log("is this:", title, "the same as", name + "?");
-			if (title == name) {
+			if(title == name) {
 				$(".main").append([this.art[i]].map(art_profile).join(","));
 				break
 			}

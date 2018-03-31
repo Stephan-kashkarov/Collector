@@ -18,7 +18,7 @@ html nav .nav, body nav .nav {
   transform: translateY(calc(50% - 21px));
 }
 
-/* line 21, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 22, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html main .content, body main .content {
   background-color: #7F7F7F;
   padding: 2%;
@@ -26,13 +26,13 @@ html main .content, body main .content {
   border-radius: 5%;
 }
 
-/* line 28, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 29, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html main .intro-content, body main .intro-content {
   border-radius: 0;
   background-color: #7F7F7F;
 }
 
-/* line 32, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 33, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html main .artist-lite, body main .artist-lite {
   background-color: #7F7F7F;
   padding-top: 2%;
@@ -40,18 +40,47 @@ html main .artist-lite, body main .artist-lite {
   border-bottom: 5px solid black;
 }
 
-/* line 38, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 39, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html main ul, body main ul {
   border-radius: 2%;
 }
 
-/* line 41, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 42, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html main img, body main img {
   width: 30%;
   height: 30%;
 }
 
-/* line 47, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 46, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main .artist, body main .artist {
+  text-align: center;
+}
+
+/* line 48, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main .artist .art-title, body main .artist .art-title {
+  border-bottom: dotted 2px #2E2E2E;
+}
+
+/* line 51, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main .artist .author-title, body main .artist .author-title {
+  font-size: 20px;
+  margin-top: 30px !important;
+  border-bottom: solid 2px #2E2E2E;
+}
+
+/* line 57, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main .artist .art-container, body main .artist .art-container {
+  border: 2px solid black;
+  background-color: #FFFFFF;
+}
+
+/* line 60, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+html main .artist .art-container .art-contained, body main .artist .art-container .art-contained {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+/* line 68, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer, body footer {
   top: 80%;
   background-color: #2E2E2E;
@@ -62,18 +91,20 @@ html footer, body footer {
   text-align: center;
 }
 
-/* line 55, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 76, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .left-side, body footer .left-side {
+  height: 15%;
   background-color: #7F7F7F;
   border-radius: 2%;
+  line-height: 200%;
 }
 
-/* line 59, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 82, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html footer .right-side, body footer .right-side {
   display: none;
 }
 
-/* line 64, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
+/* line 87, C:/Users/steph/Documents/GitHub/Collector/main/scss/main.scss */
 html .wrapper, body .wrapper {
   margin: 0 10% 0 10%;
 }

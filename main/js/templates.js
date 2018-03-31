@@ -7,7 +7,7 @@ const artist_template = ({
 }) =>
 `
 <li class="artist">
-	<span>
+	<span class="author-title">
 		${author}
 	</span>
 	<p>Life: ${life} School: ${school} Time-Frame: ${timeframe}</p>
@@ -41,9 +41,9 @@ const art_list_template = ({
 	index
 }) =>
 `
-<li class="art">
+<li class="art-contained">
 	<a class="art">
-		<span class="title art">
+		<span class="art-title">
 			${title}
 		</span>
 		<p>

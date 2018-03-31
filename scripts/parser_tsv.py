@@ -82,6 +82,8 @@ def scrape_img(url, name):
 			img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
 			imgurl = "https://www.wga.hu" + img[0]
 			urllib.request.urlretrieve(imgurl, filename1)
+		except:
+			pass
 	return filename2
 
 art_index = 0

@@ -75,12 +75,15 @@ def scrape_img(url, name):
 		print("filename exists")
 	else:
 		print("file dosnet exist")
-		site = urllib.request.urlopen(url).read()
-		xhtml = lxml.html.document_fromstring(site)
-		print("Making:", filename1)
-		img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
-		imgurl = "https://www.wga.hu" + img[0]
-		urllib.request.urlretrieve(imgurl, filename1)
+		try:
+			site = urllib.request.urlopen(url).read()
+			xhtml = lxml.html.document_fromstring(site)
+			print("Making:", filename1)
+			img = xhtml.xpath("//body//table[@cellpadding=5]//a/@href")
+			imgurl = "https://www.wga.hu" + img[0]
+			urllib.request.urlretrieve(imgurl, filename1)
+		except:
+			pass
 	return filename2
 
 art_index = 0

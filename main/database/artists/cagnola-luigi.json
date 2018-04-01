@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6978,
+            "location": "Villa La Rotonda Inverigo",
+            "img": "imgs/art/6978.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cagnola/rotonda.html",
+            "title": "Exterior view",
+            "author": "CAGNOLA Luigi",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1814-33"
+        },
+        {
+            "index": 6979,
+            "location": "Villa La Rotonda Inverigo",
+            "img": "imgs/art/6979.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cagnola/rotonda1.html",
+            "title": "Exterior view",
+            "author": "CAGNOLA Luigi",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1814-33"
+        },
+        {
+            "index": 6980,
+            "location": "Piazza Sempione Milan",
+            "img": "imgs/art/6980.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cagnola/sempione.html",
+            "title": "Arco di Sempione",
+            "author": "CAGNOLA Luigi",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1806"
+        },
+        {
+            "index": 6981,
+            "location": "Porta Ticinese Milan",
+            "img": "imgs/art/6981.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cagnola/ticines1.html",
+            "title": "General view",
+            "author": "CAGNOLA Luigi",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1801-14"
+        },
+        {
+            "index": 6982,
+            "location": "Porta Ticinese Milan",
+            "img": "imgs/art/6982.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cagnola/ticines2.html",
+            "title": "General view",
+            "author": "CAGNOLA Luigi",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1801-14"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1762 Milano d. 1833 Inverigo)",
+    "name": "CAGNOLA Luigi",
+    "school": "Italian"
+}

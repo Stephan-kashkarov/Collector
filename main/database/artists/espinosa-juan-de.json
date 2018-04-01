@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13236,
+            "location": "Private collection",
+            "img": "imgs/art/13236.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosa/stillif1.html",
+            "title": "Still-Life with Flowers with a Garland of Fruit and Flowers",
+            "author": "ESPINOSA Juan de",
+            "technique": "Oil on canvas 80 x 61 cm",
+            "painting_type": "still-life",
+            "date": "c. 1645"
+        },
+        {
+            "index": 13237,
+            "location": "Private collection",
+            "img": "imgs/art/13237.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosa/stillif2.html",
+            "title": "Still-Life with a Shell Fountain Fruit and Flowers",
+            "author": "ESPINOSA Juan de",
+            "technique": "Oil on canvas 80 x 61 cm",
+            "painting_type": "still-life",
+            "date": "c. 1645"
+        },
+        {
+            "index": 13238,
+            "location": "Private collection",
+            "img": "imgs/art/13238.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosa/stillif3.html",
+            "title": "Still-Life with Shell Fountain and Flowers",
+            "author": "ESPINOSA Juan de",
+            "technique": "Oil on canvas 65 x 48 cm",
+            "painting_type": "still-life",
+            "date": "c. 1645"
+        },
+        {
+            "index": 13239,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/13239.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosa/stillif4.html",
+            "title": "Still-Life with Grapes Flowers and Shells",
+            "author": "ESPINOSA Juan de",
+            "technique": "Oil on canvas 83 x 62 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(documented 1628-1659 in Madrid)",
+    "name": "ESPINOSA Juan de",
+    "school": "Spanish"
+}

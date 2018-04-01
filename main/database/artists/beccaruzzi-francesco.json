@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3621,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3621.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beccaruz/ballplay.html",
+            "title": "A Ballplayer and His Page",
+            "author": "BECCARUZZI Francesco",
+            "technique": "Oil on canvas 103 x 117 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3622,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/3622.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beccaruz/portr_man.html",
+            "title": "Portrait of a Man",
+            "author": "BECCARUZZI Francesco",
+            "technique": "Oil on canvas 108 x 92 cm",
+            "painting_type": "portrait",
+            "date": "c. 1550"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1492 Conegliano d. before 1563 Treviso)",
+    "name": "BECCARUZZI Francesco",
+    "school": "Italian"
+}

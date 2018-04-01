@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 14403,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14403.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/franque/allegory.html",
+            "title": "Allegory of the State of France before the Return from Egypt",
+            "author": "FRANQUE Jean-Pierre",
+            "technique": "Oil on canvas 261 x 326 cm",
+            "painting_type": "mythological",
+            "date": "1810"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1774 Le Buis d. 1860 Paris)",
+    "name": "FRANQUE Jean-Pierre",
+    "school": "French"
+}

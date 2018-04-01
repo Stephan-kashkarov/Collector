@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9422,
+            "location": "Private collection",
+            "img": "imgs/art/9422.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cooper_t/bingley.html",
+            "title": "Bingley Gate Canterbury",
+            "author": "COOPER Thomas Sidney",
+            "technique": "Oil on canvas 46 x 61 cm",
+            "painting_type": "landscape",
+            "date": "1834"
+        },
+        {
+            "index": 9423,
+            "location": "Private collection",
+            "img": "imgs/art/9423.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cooper_t/sheep.html",
+            "title": "Mountain Sheep",
+            "author": "COOPER Thomas Sidney",
+            "technique": "Oil on panel 35 x 46 cm",
+            "painting_type": "landscape",
+            "date": "1845"
+        },
+        {
+            "index": 9424,
+            "location": "Private collection",
+            "img": "imgs/art/9424.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cooper_t/summer.html",
+            "title": "Summer Evening",
+            "author": "COOPER Thomas Sidney",
+            "technique": "Oil on canvas 72 x 92 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1803 Canterbury d. 1902 Vernon Holme)",
+    "name": "COOPER Thomas Sidney",
+    "school": "English"
+}

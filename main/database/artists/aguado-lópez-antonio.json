@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 170,
+            "location": "Puerta de Toledo Madrid",
+            "img": "imgs/art/170.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/aguado/puerta.html",
+            "title": "General view",
+            "author": "AGUADO L\u00d3PEZ Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1816-17"
+        },
+        {
+            "index": 171,
+            "location": "Teatro Real Madrid",
+            "img": "imgs/art/171.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/aguado/teatro.html",
+            "title": "Exterior view",
+            "author": "AGUADO L\u00d3PEZ Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1818-50"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1764 Sang\u00fcesa d. 1831 Sang\u00fcesa)",
+    "name": "AGUADO L\u00d3PEZ Antonio",
+    "school": "Spanish"
+}

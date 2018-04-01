@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6121,
+            "location": "Landscape garden Stowe",
+            "img": "imgs/art/6121.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bridgema/bridge.html",
+            "title": "The Palladian Bridge",
+            "author": "BRIDGEMAN Charles",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "c. 1730"
+        },
+        {
+            "index": 6122,
+            "location": "Landscape garden Stowe",
+            "img": "imgs/art/6122.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bridgema/bridge1.html",
+            "title": "Lakeside view",
+            "author": "BRIDGEMAN Charles",
+            "technique": "Photo",
+            "painting_type": "landscape",
+            "date": "c. 1730"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1690 d. 1738 Kensington)",
+    "name": "BRIDGEMAN Charles",
+    "school": "English"
+}

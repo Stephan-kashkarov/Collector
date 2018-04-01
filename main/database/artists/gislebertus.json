@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 16742,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16742.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/1portal.html",
+            "title": "Main portal",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16743,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16743.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/1portal1.html",
+            "title": "Pilgrims",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1120-30"
+        },
+        {
+            "index": 16744,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16744.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/2lastj.html",
+            "title": "Last Judgment",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16745,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16745.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/2lastj0.html",
+            "title": "Tympanum of the main portal",
+            "author": "GISLEBERTUS",
+            "technique": "Stone width 640 cm",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16746,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16746.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/2lastj1.html",
+            "title": "Last Judgment (detail)",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16747,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16747.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/2lastj2.html",
+            "title": "Last Judgment (detail)",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16748,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16748.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/2lastj3.html",
+            "title": "Tympanum of the main portal (detail)",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1130-45"
+        },
+        {
+            "index": 16749,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16749.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/3capital.html",
+            "title": "Dream of the Magi",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1120-30"
+        },
+        {
+            "index": 16750,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16750.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/4capital.html",
+            "title": "The Flight into Egypt",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1120s"
+        },
+        {
+            "index": 16751,
+            "location": "Cathedral of Saint-Lazare Autun",
+            "img": "imgs/art/16751.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/5capital.html",
+            "title": "Suicide of Judas",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1120s"
+        },
+        {
+            "index": 16752,
+            "location": "Mus\u00e9e Rolin Autun",
+            "img": "imgs/art/16752.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gisleber/5eve.html",
+            "title": "Eve",
+            "author": "GISLEBERTUS",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "c. 1130"
+        }
+    ],
+    "timeframe": "1101-1150",
+    "life": "(active 1100-1150)",
+    "name": "GISLEBERTUS",
+    "school": "French"
+}

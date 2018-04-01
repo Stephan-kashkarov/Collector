@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10699,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/10699.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daffinge/miniatur.html",
+            "title": "Miniature of Elise Wolf",
+            "author": "DAFFINGER Moritz Michael",
+            "technique": "Watercolour on ivory 10 x 8 cm",
+            "painting_type": "portrait",
+            "date": "c. 1830"
+        },
+        {
+            "index": 10700,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/10700.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daffinge/portrait.html",
+            "title": "Portrait of the Archduchess Maria Theresia",
+            "author": "DAFFINGER Moritz Michael",
+            "technique": "Oil on canvas 77 x 63 cm",
+            "painting_type": "portrait",
+            "date": "c. 1819"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1790 Wien d. 1849 Wien)",
+    "name": "DAFFINGER Moritz Michael",
+    "school": "Austrian"
+}

@@ -1,32 +1,32 @@
 {
-    "name": "ACERO Y AREBO Vicente",
-    "life": "(b. ca. 1677 Cab\u00e1rceno d. 1739 Sevilla)",
-    "school": "Spanish",
-    "timeframe": "1701-1750",
     "art": [
         {
-            "title": "Exterior view",
-            "date": "1722-1838",
-            "technique": "Photo",
-            "location": "Cathedral C\u00e1diz",
-            "url": "https://www.wga.hu/html/a/acero/cadiz1.html",
-            "form": "architecture",
-            "painting_type": "other",
             "index": 33,
+            "location": "Cathedral C\u00e1diz",
+            "img": "imgs/art/33.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/acero/cadiz1.html",
+            "title": "Exterior view",
             "author": "ACERO Y AREBO Vicente",
-            "img": "imgs/art/exterior-view.jpg"
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1722-1838"
         },
         {
-            "title": "Exterior view",
-            "date": "1722-1838",
-            "technique": "Photo",
-            "location": "Cathedral C\u00e1diz",
-            "url": "https://www.wga.hu/html/a/acero/cadiz2.html",
-            "form": "architecture",
-            "painting_type": "other",
             "index": 34,
+            "location": "Cathedral C\u00e1diz",
+            "img": "imgs/art/34.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/acero/cadiz2.html",
+            "title": "Exterior view",
             "author": "ACERO Y AREBO Vicente",
-            "img": "imgs/art/exterior-view.jpg"
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1722-1838"
         }
-    ]
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. ca. 1677 Cab\u00e1rceno d. 1739 Sevilla)",
+    "name": "ACERO Y AREBO Vicente",
+    "school": "Spanish"
 }

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 14783,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/14783.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gambello/vittore/hercule1.html",
+            "title": "Seated Hercules Shooting at the Stymphalian Birds",
+            "author": "GAMBELLO Vittore",
+            "technique": "Bronze height 25 cm",
+            "painting_type": "mythological",
+            "date": "1515-20"
+        },
+        {
+            "index": 14784,
+            "location": "Museum of Art Cleveland",
+            "img": "imgs/art/14784.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gambello/vittore/hercule2.html",
+            "title": "Hercules and the Nemean Lion",
+            "author": "GAMBELLO Vittore",
+            "technique": "Bronze height 10 cm",
+            "painting_type": "mythological",
+            "date": "c. 1500"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1455 Venezia d. 1537 Venezia)",
+    "name": "GAMBELLO Vittore",
+    "school": "Italian"
+}

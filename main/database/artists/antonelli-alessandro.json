@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 1089,
+            "location": "San Gaudenzio Novara",
+            "img": "imgs/art/1089.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonel/gaudenz1.html",
+            "title": "Exterior view",
+            "author": "ANTONELLI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1841"
+        },
+        {
+            "index": 1090,
+            "location": "San Gaudenzio Novara",
+            "img": "imgs/art/1090.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonel/gaudenz2.html",
+            "title": "Interior view",
+            "author": "ANTONELLI Alessandro",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1841"
+        },
+        {
+            "index": 1091,
+            "location": "Mole Antonelliana Turin",
+            "img": "imgs/art/1091.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonel/moleant1.html",
+            "title": "General view",
+            "author": "ANTONELLI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1863-89"
+        },
+        {
+            "index": 1092,
+            "location": "Mole Antonelliana Turin",
+            "img": "imgs/art/1092.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonel/moleant2.html",
+            "title": "Exterior view",
+            "author": "ANTONELLI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1863-89"
+        },
+        {
+            "index": 1093,
+            "location": "Mole Antonelliana Turin",
+            "img": "imgs/art/1093.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonel/moleant3.html",
+            "title": "Exterior view",
+            "author": "ANTONELLI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1863-89"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1798 Ghemme d. 1788 Maggiora)",
+    "name": "ANTONELLI Alessandro",
+    "school": "Italian"
+}

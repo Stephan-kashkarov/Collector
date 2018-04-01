@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10545,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/10545.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cropsey/greenwoo.html",
+            "title": "Greenwood Lake",
+            "author": "CROPSEY Jasper Francis",
+            "technique": "Oil on canvas 97 x 173 cm",
+            "painting_type": "landscape",
+            "date": "1870"
+        },
+        {
+            "index": 10546,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/10546.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cropsey/schataco.html",
+            "title": "Schatacook Mountain Housatonic Valley Connecticut",
+            "author": "CROPSEY Jasper Francis",
+            "technique": "Oil on canvas 78 x 118 cm",
+            "painting_type": "landscape",
+            "date": "1845"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1823 Rossville d. 1900 Hastings-on-Hudson)",
+    "name": "CROPSEY Jasper Francis",
+    "school": "American"
+}

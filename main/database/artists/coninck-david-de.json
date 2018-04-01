@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9354,
+            "location": "Private collection",
+            "img": "imgs/art/9354.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coninck/peacock.html",
+            "title": "Peacock Turkey Rabbits and Cockerel in a Landscape",
+            "author": "CONINCK David de",
+            "technique": "Oil on canvas 133 x 94 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 9355,
+            "location": "Private collection",
+            "img": "imgs/art/9355.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coninck/roosters.html",
+            "title": "Roosters and a Rabbit in a Landscape",
+            "author": "CONINCK David de",
+            "technique": "Oil on copper oval 9 c 11 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1644 Antwerpen d. ca. 1701 Bruxelles)",
+    "name": "CONINCK David de",
+    "school": "Flemish"
+}

@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 9316,
+            "location": "Cathedral Tours",
+            "img": "imgs/art/9316.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/children.html",
+            "title": "Tomb of the Children of Charles VIII",
+            "author": "COLOMBE Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1506"
+        },
+        {
+            "index": 9317,
+            "location": "Benedictine Abbey of Saint-Pierre Solesmes",
+            "img": "imgs/art/9317.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/entombme.html",
+            "title": "Entombment",
+            "author": "COLOMBE Michel",
+            "technique": "Stone with touches of paint",
+            "painting_type": "religious",
+            "date": "1494-98"
+        },
+        {
+            "index": 9318,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9318.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/stgeorge.html",
+            "title": "St George and the Dragon",
+            "author": "COLOMBE Michel",
+            "technique": "Marble 128 x 182 cm",
+            "painting_type": "religious",
+            "date": "1508"
+        },
+        {
+            "index": 9319,
+            "location": "Cathedral Nantes",
+            "img": "imgs/art/9319.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/tomb.html",
+            "title": "Tomb of Francis II of Brittany and his Wife Marguerite de Foix",
+            "author": "COLOMBE Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1502-07"
+        },
+        {
+            "index": 9320,
+            "location": "Cathedral Nantes",
+            "img": "imgs/art/9320.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/tomb1.html",
+            "title": "Tomb of Francis II of Brittany and his Wife Marguerite de Foix",
+            "author": "COLOMBE Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1502-07"
+        },
+        {
+            "index": 9321,
+            "location": "Cathedral Nantes",
+            "img": "imgs/art/9321.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/colombe/michel/tomb2.html",
+            "title": "Tomb of Francis II of Brittany and his Wife Marguerite de Foix (detail)",
+            "author": "COLOMBE Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1502-07"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1430 d. 1512 Tours)",
+    "name": "COLOMBE Michel",
+    "school": "French"
+}

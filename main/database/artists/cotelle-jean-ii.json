@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 9818,
+            "location": "Galerie du Grand Trianon Versailles",
+            "img": "imgs/art/9818.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotelle/colonnad.html",
+            "title": "View of the Colonnade at Versailles",
+            "author": "COTELLE Jean II",
+            "technique": "Oil on canvas 200 x 139 cm",
+            "painting_type": "landscape",
+            "date": "1688-90"
+        },
+        {
+            "index": 9819,
+            "location": "Galerie du Grand Trianon Versailles",
+            "img": "imgs/art/9819.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotelle/grove1.html",
+            "title": "View of the Three-Fountain Grove",
+            "author": "COTELLE Jean II",
+            "technique": "Oil on canvas 201 x 139 cm",
+            "painting_type": "landscape",
+            "date": "1688-90"
+        },
+        {
+            "index": 9820,
+            "location": "Galerie du Grand Trianon Versailles",
+            "img": "imgs/art/9820.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotelle/grove2.html",
+            "title": "View of the Three-Fountain Grove",
+            "author": "COTELLE Jean II",
+            "technique": "Oil on canvas 200 x 140 cm",
+            "painting_type": "landscape",
+            "date": "1688-90"
+        },
+        {
+            "index": 9821,
+            "location": "Galerie du Grand Trianon Versailles",
+            "img": "imgs/art/9821.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotelle/grove3.html",
+            "title": "View of the Arch of Triumph Grove",
+            "author": "COTELLE Jean II",
+            "technique": "Oil on canvas 200 x 140 cm",
+            "painting_type": "landscape",
+            "date": "1688-90"
+        },
+        {
+            "index": 9822,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/9822.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotelle/maze.html",
+            "title": "Entrance to the Maze",
+            "author": "COTELLE Jean II",
+            "technique": "Oil on canvas 200 x 140 cm",
+            "painting_type": "landscape",
+            "date": "1688-90"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1642 Paris d. 1708 Villiers-sur-Marne)",
+    "name": "COTELLE Jean II",
+    "school": "French"
+}

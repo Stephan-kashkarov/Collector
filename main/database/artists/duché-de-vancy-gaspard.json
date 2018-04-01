@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 12332,
+            "location": "British Museum London",
+            "img": "imgs/art/12332.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duche/lituya.html",
+            "title": "Costumes of the inhabitants of Port des Francais in Lituya Bay",
+            "author": "DUCH\u00c9 DE VANCY Gaspard",
+            "technique": "Drawing",
+            "painting_type": "other",
+            "date": "1786"
+        },
+        {
+            "index": 12333,
+            "location": "-",
+            "img": "imgs/art/12333.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duche/manila.html",
+            "title": "The costumes of the inhabitants of Manila",
+            "author": "DUCH\u00c9 DE VANCY Gaspard",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1787"
+        },
+        {
+            "index": 12334,
+            "location": "Biblioth\u00e8que Municipale Poitiers",
+            "img": "imgs/art/12334.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duche/poitiers.html",
+            "title": "The Entrance to Blossac Park in Poitiers",
+            "author": "DUCH\u00c9 DE VANCY Gaspard",
+            "technique": "Watercolour 360 x 560 mm",
+            "painting_type": "landscape",
+            "date": "c. 178c"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(1756-1788)",
+    "name": "DUCH\u00c9 DE VANCY Gaspard",
+    "school": "French"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8942,
+            "location": "Groeninge Museum Bruges",
+            "img": "imgs/art/8942.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claeisse/antoon/banquet.html",
+            "title": "Banquet",
+            "author": "CLAEISSENS Antoon",
+            "technique": "Oil on oak panel 130 x 155 cm",
+            "painting_type": "mythological",
+            "date": "1574"
+        },
+        {
+            "index": 8943,
+            "location": "Groeninge Museum Bruges",
+            "img": "imgs/art/8943.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claeisse/antoon/mars_ign.html",
+            "title": "Mars Vanquishing Ignorance",
+            "author": "CLAEISSENS Antoon",
+            "technique": "Oil on canvas 1975 x 279 cm",
+            "painting_type": "mythological",
+            "date": "1605"
+        },
+        {
+            "index": 8944,
+            "location": "Private collection",
+            "img": "imgs/art/8944.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claeisse/antoon/solomon.html",
+            "title": "The Judgment of Solomon",
+            "author": "CLAEISSENS Antoon",
+            "technique": "Oil on panel 100 x 128 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 8945,
+            "location": "Private collection",
+            "img": "imgs/art/8945.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claeisse/antoon/virgin_c.html",
+            "title": "Virgin and Child with St Anne",
+            "author": "CLAEISSENS Antoon",
+            "technique": "Oil on panel 122 x 94 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1538 Brugge d. 1613 Brugge)",
+    "name": "CLAEISSENS Antoon",
+    "school": "Flemish"
+}

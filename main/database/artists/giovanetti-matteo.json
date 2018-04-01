@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 16527,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/16527.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanet/annuncia.html",
+            "title": "Annunciation",
+            "author": "GIOVANETTI Matteo",
+            "technique": "Transferred from wood to canvas 41 x 22 cm (each)",
+            "painting_type": "religious",
+            "date": "c. 1345"
+        },
+        {
+            "index": 16528,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/16528.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanet/saints.html",
+            "title": "St Hermagoras and a Donor; St Fortunatus",
+            "author": "GIOVANETTI Matteo",
+            "technique": "Panel 55 x 18 cm (each)",
+            "painting_type": "religious",
+            "date": "c. 1345"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(b. ca. 1300 Viterbo d. ca. 1368 Roma)",
+    "name": "GIOVANETTI Matteo",
+    "school": "Italian"
+}

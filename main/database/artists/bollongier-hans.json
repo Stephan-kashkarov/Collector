@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4926,
+            "location": "Frans Halsmuseum Haarlem",
+            "img": "imgs/art/4926.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollongi/flower_p.html",
+            "title": "Flower Piece",
+            "author": "BOLLONGIER Hans",
+            "technique": "Oil on panel 27 x 205 cm",
+            "painting_type": "still-life",
+            "date": "1644"
+        },
+        {
+            "index": 4927,
+            "location": "Private collection",
+            "img": "imgs/art/4927.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollongi/flower_v.html",
+            "title": "Flowers in a Vase",
+            "author": "BOLLONGIER Hans",
+            "technique": "Oil on oak panel 33 x 26 cm",
+            "painting_type": "still-life",
+            "date": "c. 1660"
+        },
+        {
+            "index": 4928,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4928.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollongi/stillife.html",
+            "title": "Still-Life with Flowers",
+            "author": "BOLLONGIER Hans",
+            "technique": "Oil on panel 68 x 55 cm",
+            "painting_type": "still-life",
+            "date": "1639"
+        },
+        {
+            "index": 4929,
+            "location": "Private collection",
+            "img": "imgs/art/4929.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollongi/tulips.html",
+            "title": "Tulips and Other Flowers in a Glass Vase",
+            "author": "BOLLONGIER Hans",
+            "technique": "Oil on panel 46 x 28 cm",
+            "painting_type": "still-life",
+            "date": "c. 1640"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1600 Haarlem d. ca. 1675 Haarlem)",
+    "name": "BOLLONGIER Hans",
+    "school": "Dutch"
+}

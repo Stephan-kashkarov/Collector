@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13607,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/13607.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/feddes/franeker.html",
+            "title": "Franeker University",
+            "author": "FEDDES Pieter",
+            "technique": "Copperplate etching",
+            "painting_type": "study",
+            "date": "1611-23"
+        },
+        {
+            "index": 13608,
+            "location": "Museum Kunstpalast D\u00fcsseldorf",
+            "img": "imgs/art/13608.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/feddes/kitchen.html",
+            "title": "Kitchen Scene",
+            "author": "FEDDES Pieter",
+            "technique": "Drawing 234 x 290 mm",
+            "painting_type": "still-life",
+            "date": "1619"
+        },
+        {
+            "index": 13609,
+            "location": "Private collection",
+            "img": "imgs/art/13609.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/feddes/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "FEDDES Pieter",
+            "technique": "Oil on panel 105 x 79 cm",
+            "painting_type": "portrait",
+            "date": "1615"
+        },
+        {
+            "index": 13610,
+            "location": "Private collection",
+            "img": "imgs/art/13610.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/feddes/pygmalio.html",
+            "title": "Pygmalion",
+            "author": "FEDDES Pieter",
+            "technique": "Engraving",
+            "painting_type": "study",
+            "date": "1615"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1585 Harlingen d. ca. 1634 Harlingen)",
+    "name": "FEDDES Pieter",
+    "school": "Dutch"
+}

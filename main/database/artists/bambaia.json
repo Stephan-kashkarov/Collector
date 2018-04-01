@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 3098,
+            "location": "Victoria and Albert Museum London",
+            "img": "imgs/art/3098.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/charity.html",
+            "title": "Charity",
+            "author": "BAMBAIA",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 3099,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/3099.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/effigy.html",
+            "title": "Effigy of Gaston de Foix",
+            "author": "BAMBAIA",
+            "technique": "Marble 216 x 84 cm",
+            "painting_type": "other",
+            "date": "1515-22"
+        },
+        {
+            "index": 3100,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/3100.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/effigy1.html",
+            "title": "Effigy of Gaston de Foix",
+            "author": "BAMBAIA",
+            "technique": "Marble 216 x 84 cm",
+            "painting_type": "religious",
+            "date": "1515-22"
+        },
+        {
+            "index": 3101,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/3101.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/effigy2.html",
+            "title": "Effigy of Gaston de Foix (detail)",
+            "author": "BAMBAIA",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1515-22"
+        },
+        {
+            "index": 3102,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/3102.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/effigy3.html",
+            "title": "The Capture of Brescia",
+            "author": "BAMBAIA",
+            "technique": "Marble 96 x 119 cm",
+            "painting_type": "historical",
+            "date": "c. 1517"
+        },
+        {
+            "index": 3103,
+            "location": "Kimbell Art Museum Fort Worth",
+            "img": "imgs/art/3103.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/fortitud.html",
+            "title": "Fortitude",
+            "author": "BAMBAIA",
+            "technique": "Marble height 61 cm",
+            "painting_type": "mythological",
+            "date": "1520-25"
+        },
+        {
+            "index": 3104,
+            "location": "Pinacoteca Vatican",
+            "img": "imgs/art/3104.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/madonna.html",
+            "title": "Madonna and Child with Angels",
+            "author": "BAMBAIA",
+            "technique": "Marble 37 x 19 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3105,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/3105.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/saint.html",
+            "title": "Figure of a Saint",
+            "author": "BAMBAIA",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1515-21"
+        },
+        {
+            "index": 3106,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/3106.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bambaia/scatheri.html",
+            "title": "St Catherine of Alexandria",
+            "author": "BAMBAIA",
+            "technique": "Marble height 60 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1483 Busto Arsizio d. 1548 Milano)",
+    "name": "BAMBAIA",
+    "school": "Italian"
+}

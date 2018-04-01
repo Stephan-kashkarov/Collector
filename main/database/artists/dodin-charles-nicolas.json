@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11571,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11571.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/d/dodin/plaques.html",
+            "title": "Seven Plaques Mounted on a Pedestal Table",
+            "author": "DODIN Charles-Nicolas",
+            "technique": "Soft-paste porcelain",
+            "painting_type": "other",
+            "date": "1774"
+        },
+        {
+            "index": 11572,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11572.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/d/dodin/potpourr.html",
+            "title": "Pair of Potpourri Holders",
+            "author": "DODIN Charles-Nicolas",
+            "technique": "Soft-paste porcelain 23 x 15 x 9 cm",
+            "painting_type": "other",
+            "date": "1761"
+        },
+        {
+            "index": 11573,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11573.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/d/dodin/ship_pot.html",
+            "title": "Ship Potpourri with Pink Ground and Chinese Decor",
+            "author": "DODIN Charles-Nicolas",
+            "technique": "Soft-paste porcelain 39 x 36 cm",
+            "painting_type": "other",
+            "date": "c. 1760"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1734 Versailles d. 1803 S\u00e8vres)",
+    "name": "DODIN Charles-Nicolas",
+    "school": "French"
+}

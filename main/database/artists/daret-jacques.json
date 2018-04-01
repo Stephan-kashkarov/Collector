@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 10824,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/10824.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daret/stvaast1.html",
+            "title": "Altarpiece of the Virgin",
+            "author": "DARET Jacques",
+            "technique": "Oil on wood 57 x 52 cm",
+            "painting_type": "religious",
+            "date": "1433-35"
+        },
+        {
+            "index": 10825,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/10825.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daret/stvaast2.html",
+            "title": "Visitation",
+            "author": "DARET Jacques",
+            "technique": "Oil on oak panel 57 x 52 cm",
+            "painting_type": "religious",
+            "date": "1434-35"
+        },
+        {
+            "index": 10826,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/10826.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daret/stvaast3.html",
+            "title": "Adoration of the Child",
+            "author": "DARET Jacques",
+            "technique": "Oil on panel 60 x 53 cm",
+            "painting_type": "religious",
+            "date": "1434-35"
+        },
+        {
+            "index": 10827,
+            "location": "Mus\u00e9e du Petit Palais Paris",
+            "img": "imgs/art/10827.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daret/stvaast4.html",
+            "title": "Altarpiece of the Virgin",
+            "author": "DARET Jacques",
+            "technique": "Oil on wood 575 x 52 cm",
+            "painting_type": "religious",
+            "date": "1433-35"
+        },
+        {
+            "index": 10828,
+            "location": "Mus\u00e9e du Petit Palais Paris",
+            "img": "imgs/art/10828.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/daret/stvaast5.html",
+            "title": "Altarpiece of the Virgin (detail)",
+            "author": "DARET Jacques",
+            "technique": "Oil on wood",
+            "painting_type": "religious",
+            "date": "1433-35"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1404 Tournai d. 1470)",
+    "name": "DARET Jacques",
+    "school": "Flemish"
+}

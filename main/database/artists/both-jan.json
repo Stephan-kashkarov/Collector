@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 5415,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5415.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/italian.html",
+            "title": "Italian Landscape with Draughtsman",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas 187 x 240 cm",
+            "painting_type": "landscape",
+            "date": "c. 1650"
+        },
+        {
+            "index": 5416,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5416.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/italian1.html",
+            "title": "Italian Landscape with Draughtsman (detail)",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "c. 1650"
+        },
+        {
+            "index": 5417,
+            "location": "Private collection",
+            "img": "imgs/art/5417.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/italianl.html",
+            "title": "Italianate Rocky Landscape",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas 93 x 114 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5418,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/5418.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/italianr.html",
+            "title": "Italian Landscape with Ruined Tower",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas 76 x 98 cm",
+            "painting_type": "landscape",
+            "date": "c. 1640"
+        },
+        {
+            "index": 5419,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5419.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/italland.html",
+            "title": "Italian Landscape with Roman Warriors",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas 154 x 174 cm",
+            "painting_type": "landscape",
+            "date": "c. 1650"
+        },
+        {
+            "index": 5420,
+            "location": "Private collection",
+            "img": "imgs/art/5420.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/landruin.html",
+            "title": "Southern Landscape with a Ruin",
+            "author": "BOTH Jan",
+            "technique": "Oil on panel 39 x 49 cm",
+            "painting_type": "landscape",
+            "date": "1640s"
+        },
+        {
+            "index": 5421,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/5421.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/landscap.html",
+            "title": "Landscape with a Peasant Woman on a Mule",
+            "author": "BOTH Jan",
+            "technique": "Oil on canvas 156 x 212 cm",
+            "painting_type": "landscape",
+            "date": "1645-50"
+        },
+        {
+            "index": 5422,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/5422.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/ruins.html",
+            "title": "Ruins at the Sea",
+            "author": "BOTH Jan",
+            "technique": "Oil on wood 546 x 453 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5423,
+            "location": "Private collection",
+            "img": "imgs/art/5423.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/jan/susanna.html",
+            "title": "Susanna and the Elders",
+            "author": "BOTH Jan",
+            "technique": "Oil on panel 56 x 40 cm",
+            "painting_type": "historical",
+            "date": "before 1642"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1618 Utrecht d. 1652 Utrecht)",
+    "name": "BOTH Jan",
+    "school": "Dutch"
+}

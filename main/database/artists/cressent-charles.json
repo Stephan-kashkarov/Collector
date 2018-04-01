@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 10485,
+            "location": "Nelson-Atkins Museum of Art Kansas City",
+            "img": "imgs/art/10485.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/c/cressent/commode.html",
+            "title": "Commode",
+            "author": "CRESSENT Charles",
+            "technique": "Oak pine tulip amaranth satinwood kingwood marble and copper alloy with mercury gilding 91 x 161 x 63 cm",
+            "painting_type": "other",
+            "date": "1745-49"
+        },
+        {
+            "index": 10486,
+            "location": "Private collection",
+            "img": "imgs/art/10486.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/c/cressent/commodx.html",
+            "title": "Commode",
+            "author": "CRESSENT Charles",
+            "technique": "Gilt-bronze tulipwood and amaranth 89 x 133 x 62 cm",
+            "painting_type": "other",
+            "date": "c. 1730"
+        },
+        {
+            "index": 10487,
+            "location": "Residenzmuseum Munich",
+            "img": "imgs/art/10487.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/c/cressent/table.html",
+            "title": "Writing Table",
+            "author": "CRESSENT Charles",
+            "technique": "Wood",
+            "painting_type": "other",
+            "date": "1730-35"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1685 Amiens d. 1768 Paris)",
+    "name": "CRESSENT Charles",
+    "school": "French"
+}

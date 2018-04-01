@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 10448,
+            "location": "Cathedral Milan",
+            "img": "imgs/art/10448.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/borromeo.html",
+            "title": "St Carlo Borromeo Erecting Crosses a the Gates of Milan (detail)",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1602"
+        },
+        {
+            "index": 10449,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/10449.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/carlobor.html",
+            "title": "St Carlo Borromeo Adoring Christ",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on canvas 209 x 156 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10450,
+            "location": "Museo Civico Novara",
+            "img": "imgs/art/10450.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/entombme.html",
+            "title": "Entombment of Christ",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10451,
+            "location": "San Vittore Varese",
+            "img": "imgs/art/10451.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/gregory.html",
+            "title": "St Gregory Delivers the Soul of a Monk",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1617"
+        },
+        {
+            "index": 10452,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/10452.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/shepherd.html",
+            "title": "Adoration of the Shepherds",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10453,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/10453.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/study.html",
+            "title": "Religious Figures Praying at the Foot of a Tree",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Oil on paper 36 x 54 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10454,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/10454.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/crespi/giovanni/study1.html",
+            "title": "St Carlo Borromeo",
+            "author": "CRESPI Giovanni Battista",
+            "technique": "Pen brush and brown ink white heightening over black chalk on brown paper 462 x 269 mm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1575 Cerano d. 1632 Milano)",
+    "name": "CRESPI Giovanni Battista",
+    "school": "Italian"
+}

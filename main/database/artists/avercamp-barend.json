@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 2826,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/2826.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/avercamp/barend/enjoying.html",
+            "title": "Enjoying the Ice",
+            "author": "AVERCAMP Barend",
+            "technique": "Oil on panel 40 x 54 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 2827,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/2827.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/avercamp/barend/landscap.html",
+            "title": "Landscape with Frozen River",
+            "author": "AVERCAMP Barend",
+            "technique": "Oil on oak 19 x 31 cm",
+            "painting_type": "landscape",
+            "date": "c. 1655"
+        },
+        {
+            "index": 2828,
+            "location": "Private collection",
+            "img": "imgs/art/2828.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/avercamp/barend/winterla.html",
+            "title": "Winter Landscape",
+            "author": "AVERCAMP Barend",
+            "technique": "Oil on beveled panel with added strip across the top 31 x 43 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1612 Kampen d. 1679 Kampen)",
+    "name": "AVERCAMP Barend",
+    "school": "Dutch"
+}

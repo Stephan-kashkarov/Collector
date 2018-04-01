@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 13649,
+            "location": "Private collection",
+            "img": "imgs/art/13649.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/classic1.html",
+            "title": "Classical Landscape",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on copper 22 x 18 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13650,
+            "location": "Private collection",
+            "img": "imgs/art/13650.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/classic2.html",
+            "title": "Classical Landscape",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on copper 22 x 18 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13651,
+            "location": "Private collection",
+            "img": "imgs/art/13651.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/italiana.html",
+            "title": "Italianate Landscape with Figures by Classical Ruins",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on copper 32 x 39 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13652,
+            "location": "Private collection",
+            "img": "imgs/art/13652.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/rest.html",
+            "title": "Rest",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on panel 17 x 24 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13653,
+            "location": "Private collection",
+            "img": "imgs/art/13653.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/village1.html",
+            "title": "Italianate Village Landscape",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on copper 34 x 42 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13654,
+            "location": "Private collection",
+            "img": "imgs/art/13654.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferg/village2.html",
+            "title": "Italianate Village Landscape",
+            "author": "FERG Franz de Paula",
+            "technique": "Oil on copper 34 x 42 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1689 Wien d. 1740 London)",
+    "name": "FERG Franz de Paula",
+    "school": "Austrian"
+}

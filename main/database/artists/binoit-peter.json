@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4614,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4614.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/binoit/flowers.html",
+            "title": "Flowers in a Vase",
+            "author": "BINOIT Peter",
+            "technique": "Oil on copper 38 x 29 cm",
+            "painting_type": "still-life",
+            "date": "1613"
+        },
+        {
+            "index": 4615,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4615.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/binoit/stiliris.html",
+            "title": "Still-Life with Iris",
+            "author": "BINOIT Peter",
+            "technique": "oil on copper 24 x 19 cm",
+            "painting_type": "still-life",
+            "date": "1623"
+        },
+        {
+            "index": 4616,
+            "location": "Private collection",
+            "img": "imgs/art/4616.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/binoit/stillif.html",
+            "title": "Still-Life",
+            "author": "BINOIT Peter",
+            "technique": "Oil on copper 28 x 21 cm",
+            "painting_type": "still-life",
+            "date": "1610s"
+        },
+        {
+            "index": 4617,
+            "location": "Private collection",
+            "img": "imgs/art/4617.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/binoit/stillif1.html",
+            "title": "Still-Life (detail)",
+            "author": "BINOIT Peter",
+            "technique": "Oil on copper",
+            "painting_type": "still-life",
+            "date": "1610s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 K\u00f6ln d. 1632 Hanau)",
+    "name": "BINOIT Peter",
+    "school": "German"
+}

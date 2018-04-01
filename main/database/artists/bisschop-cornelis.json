@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4641,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4641.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bisschop/cornelis/cavalier.html",
+            "title": "A Young Woman and a Cavalier",
+            "author": "BISSCHOP Cornelis",
+            "technique": "Oil on canvas 98 x 88 cm",
+            "painting_type": "genre",
+            "date": "1661-63"
+        },
+        {
+            "index": 4642,
+            "location": "Private collection",
+            "img": "imgs/art/4642.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bisschop/cornelis/kitchen.html",
+            "title": "Kitchen Interior",
+            "author": "BISSCHOP Cornelis",
+            "technique": "Oil on canvas 72 x 97 cm",
+            "painting_type": "interior",
+            "date": "1664"
+        },
+        {
+            "index": 4643,
+            "location": "Dordrechts Museum Dordrecht",
+            "img": "imgs/art/4643.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bisschop/cornelis/selfport.html",
+            "title": "Self-Portrait",
+            "author": "BISSCHOP Cornelis",
+            "technique": "Oil on canvas 117 x 99 cm",
+            "painting_type": "portrait",
+            "date": "1668"
+        },
+        {
+            "index": 4644,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4644.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bisschop/cornelis/womanapl.html",
+            "title": "Woman Peeling Apple",
+            "author": "BISSCHOP Cornelis",
+            "technique": "Oil on panel 70 x 57 cm",
+            "painting_type": "genre",
+            "date": "1667"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1630 Dordrecht d. 1674 Dordrecht)",
+    "name": "BISSCHOP Cornelis",
+    "school": "Dutch"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13214,
+            "location": "Ashmolean Museum Oxford",
+            "img": "imgs/art/13214.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/altarpi1.html",
+            "title": "St Vincent Ferrer Preaching before a Pope",
+            "author": "ERRI Bartolomeo degli",
+            "technique": "Tempera on panel 62 x 62 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13215,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13215.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/altarpi2.html",
+            "title": "St Thomas Aquinas Aided by Sts Peter and Paul",
+            "author": "ERRI Bartolomeo degli",
+            "technique": "Tempera on wood 43 x 31 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13216,
+            "location": "Private collection",
+            "img": "imgs/art/13216.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/figures.html",
+            "title": "Groupe of Figures Close to a Balustrade",
+            "author": "ERRI Bartolomeo degli",
+            "technique": "Tempera on panel 30 x 23 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 13217,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13217.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/erri/bartolom/predella.html",
+            "title": "St Dominic Resuscitating Napoleone Orsini",
+            "author": "ERRI Bartolomeo degli",
+            "technique": "Tempera on canvas transferred from wood 36 x 45 cm",
+            "painting_type": "religious",
+            "date": "1476-74"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1460-1479 in Modena)",
+    "name": "ERRI Bartolomeo degli",
+    "school": "Italian"
+}

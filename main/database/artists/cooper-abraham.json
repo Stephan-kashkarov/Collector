@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9420,
+            "location": "Private collection",
+            "img": "imgs/art/9420.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cooper/horse1.html",
+            "title": "Portrait of Daniel Haigh",
+            "author": "COOPER Abraham",
+            "technique": "Oil on canvas 86 x 112 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9421,
+            "location": "Private collection",
+            "img": "imgs/art/9421.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cooper/horse2.html",
+            "title": "Portrait of a Favourite Bay",
+            "author": "COOPER Abraham",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "painting_type": "other",
+            "date": "c. 1810"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1787 London d. 1868 London)",
+    "name": "COOPER Abraham",
+    "school": "English"
+}

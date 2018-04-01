@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 12152,
+            "location": "Private collection",
+            "img": "imgs/art/12152.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/crossing.html",
+            "title": "Crossing of Bidassoa (16 April 1823)",
+            "author": "DUBUFE Claude-Marie",
+            "technique": "Oil on canvas 77 x 106 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 12153,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/12153.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/family.html",
+            "title": "The Dubufe Family",
+            "author": "DUBUFE Claude-Marie",
+            "technique": "Oil on canvas 64 \u00d7 84 cm",
+            "painting_type": "portrait",
+            "date": "1820"
+        },
+        {
+            "index": 12154,
+            "location": "Norton Simon Museum of Art Pasadena",
+            "img": "imgs/art/12154.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/memorie1.html",
+            "title": "Memories",
+            "author": "DUBUFE Claude-Marie",
+            "technique": "Oil on canvas oval 92 x 119 cm",
+            "painting_type": "genre",
+            "date": "1826-27"
+        },
+        {
+            "index": 12155,
+            "location": "Norton Simon Museum of Art Pasadena",
+            "img": "imgs/art/12155.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/memorie2.html",
+            "title": "Regrets",
+            "author": "DUBUFE Claude-Marie",
+            "technique": "Oil on canvas oval 92 x 119 cm",
+            "painting_type": "genre",
+            "date": "1826-27"
+        },
+        {
+            "index": 12156,
+            "location": "National Gallery London",
+            "img": "imgs/art/12156.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubufe/claude/surprise.html",
+            "title": "The Surprise",
+            "author": "DUBUFE Claude-Marie",
+            "technique": "Oil on canvas 65 x 54 cm",
+            "painting_type": "genre",
+            "date": "before 1827"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1790 Paris d. 1864 Paris)",
+    "name": "DUBUFE Claude-Marie",
+    "school": "French"
+}

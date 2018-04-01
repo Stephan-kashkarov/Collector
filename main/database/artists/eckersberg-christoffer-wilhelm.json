@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 13070,
+            "location": "painting",
+            "img": "imgs/art/13070.jpg",
+            "form": "Danish",
+            "url": "landscape",
+            "title": "The Russian Ship of the Line \"\"Asow\"\" and a Frigate at Anchor near Elsinore\"1828\"Oil on canvas 63 x 51 cm",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "https://www.wga.hu/html/e/eckersbe/asow.html",
+            "painting_type": "1801-1850",
+            "date": "Statens Museum for Kunst Copenhagen"
+        },
+        {
+            "index": 13071,
+            "location": "Private collection",
+            "img": "imgs/art/13071.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/brigsail.html",
+            "title": "A Brig under Sail in Fair Weather",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 47 x 69 cm",
+            "painting_type": "landscape",
+            "date": "1844-45"
+        },
+        {
+            "index": 13072,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13072.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/colosseu.html",
+            "title": "A View through Three Arches of the Third Storey of the Colosseum",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 32 x 50 cm",
+            "painting_type": "landscape",
+            "date": "1815"
+        },
+        {
+            "index": 13073,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13073.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/daughter.html",
+            "title": "Mendel Levin Nathanson's Elder Daughters Bella and Hanna",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 125 x 86 cm",
+            "painting_type": "portrait",
+            "date": "1820"
+        },
+        {
+            "index": 13074,
+            "location": "Hirschsprung Collection Copenhagen",
+            "img": "imgs/art/13074.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/morningt.html",
+            "title": "Morning Toilette",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 32 x 25 cm",
+            "painting_type": "genre",
+            "date": "c. 1837"
+        },
+        {
+            "index": 13075,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/13075.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/nude_mod.html",
+            "title": "Seated Nude Model",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 45 x 33 cm",
+            "painting_type": "other",
+            "date": "1839"
+        },
+        {
+            "index": 13076,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/13076.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/slorenzo.html",
+            "title": "The Cloisters San Lorenzo fuori le mura",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 58 x 79 cm",
+            "painting_type": "landscape",
+            "date": "1824"
+        },
+        {
+            "index": 13077,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13077.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eckersbe/viasacra.html",
+            "title": "A Section of the Via Sacra Rome",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Oil on canvas 31 x 44 cm",
+            "painting_type": "landscape",
+            "date": "1814-15"
+        },
+        {
+            "index": 13078,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13078.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/eckersbe/window.html",
+            "title": "At a Window in the Artist's Studio",
+            "author": "ECKERSBERG Christoffer Wilhelm",
+            "technique": "Pen grey ink and brown wash over pencil framed in light blue watercolour 274 x 231 mm",
+            "painting_type": "genre",
+            "date": "1852"
+        }
+    ],
+    "timeframe": "",
+    "life": "(b. 1783 Blakrog d. 1853 K\u00f8benhavn)",
+    "name": "ECKERSBERG Christoffer Wilhelm",
+    "school": ""
+}

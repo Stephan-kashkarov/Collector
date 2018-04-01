@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 1116,
+            "location": "Santa Maria sopra Minerva Rome",
+            "img": "imgs/art/1116.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/annunci.html",
+            "title": "Annunciation",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1485"
+        },
+        {
+            "index": 1117,
+            "location": "Santa Maria sopra Minerva Rome",
+            "img": "imgs/art/1117.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/annunci1.html",
+            "title": "Annunciation (detail)",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1485"
+        },
+        {
+            "index": 1118,
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "img": "imgs/art/1118.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/mad_ador.html",
+            "title": "Madonna Adoring the Child",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Wood gold ground 63 x 50 cm",
+            "painting_type": "religious",
+            "date": "c. 1480"
+        },
+        {
+            "index": 1119,
+            "location": "Private collection",
+            "img": "imgs/art/1119.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/madchild.html",
+            "title": "Madonna and Child",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Tempera on panel gold ground 103 x 63 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1120,
+            "location": "Private collection",
+            "img": "imgs/art/1120.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/madonn_c.html",
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Tempera on panel gold ground 43 x 36 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1121,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/1121.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/madonna.html",
+            "title": "Madonna Enthroned with the Infant Christ and Saints",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Oil on panel 166 x 165 cm",
+            "painting_type": "religious",
+            "date": "1487"
+        },
+        {
+            "index": 1122,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/1122.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/nativity.html",
+            "title": "Nativity with Sts Lawrence and Andrew",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Tempera on panel 142 x 176 cm",
+            "painting_type": "religious",
+            "date": "1480-85"
+        },
+        {
+            "index": 1123,
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "img": "imgs/art/1123.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/navicell.html",
+            "title": "The Navicella",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Wood transferred to canvas 190 x 179 cm",
+            "painting_type": "religious",
+            "date": "c. 1485"
+        },
+        {
+            "index": 1124,
+            "location": "Private collection",
+            "img": "imgs/art/1124.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoniaz/portrait.html",
+            "title": "Profile Portrait of Cardinal Philippe de L\u00e9vis",
+            "author": "ANTONIAZZO ROMANO",
+            "technique": "Tempera on panel 48 x 42 cm",
+            "painting_type": "portrait",
+            "date": "1475"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(c. 1430-1508/12)",
+    "name": "ANTONIAZZO ROMANO",
+    "school": "Italian"
+}

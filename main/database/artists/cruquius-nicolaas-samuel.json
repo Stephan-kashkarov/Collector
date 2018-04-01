@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10573,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/10573.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cruquius/delfland.html",
+            "title": "Map of Delfland",
+            "author": "CRUQUIUS Nicolaas Samuel",
+            "technique": "Etching coloured and heightened with gold 543 x 657 mm",
+            "painting_type": "other",
+            "date": "1750"
+        },
+        {
+            "index": 10574,
+            "location": "Gemeentearchief Delft",
+            "img": "imgs/art/10574.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cruquius/gardens.html",
+            "title": "Gardens on the Nieuwe Laan",
+            "author": "CRUQUIUS Nicolaas Samuel",
+            "technique": "Watercolour on parchment 238 x 414 mm",
+            "painting_type": "landscape",
+            "date": "1701"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1678 Vlieland d. 1754 Spaarndam)",
+    "name": "CRUQUIUS Nicolaas Samuel",
+    "school": "Dutch"
+}

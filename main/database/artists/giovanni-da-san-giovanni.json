@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 16587,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16587.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/1pitti.html",
+            "title": "View of the Sala Terreno",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1635-42"
+        },
+        {
+            "index": 16588,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16588.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/2pitti.html",
+            "title": "View of the Sala Terreno",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1635"
+        },
+        {
+            "index": 16589,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16589.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/3pitti.html",
+            "title": "View of the east wall",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1638-42"
+        },
+        {
+            "index": 16590,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16590.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/4pitti.html",
+            "title": "Fame Showing the Wandering Philosophers to Tuscany and Munificence",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1635"
+        },
+        {
+            "index": 16591,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16591.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/5pitti.html",
+            "title": "Ceiling decoration",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1637"
+        },
+        {
+            "index": 16592,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16592.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/6pitti.html",
+            "title": "Ceiling decoration (detail)",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1637"
+        },
+        {
+            "index": 16593,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16593.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/7pitti.html",
+            "title": "Ceiling centre",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1637"
+        },
+        {
+            "index": 16594,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/16594.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/8pitti.html",
+            "title": "Ceiling decoration (detail)",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1635-36"
+        },
+        {
+            "index": 16595,
+            "location": "Santi Quattro Coronati Rome",
+            "img": "imgs/art/16595.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/9quattro.html",
+            "title": "View of the apse and choir",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1622-24"
+        },
+        {
+            "index": 16596,
+            "location": "Museo Bardini Florence",
+            "img": "imgs/art/16596.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/aurora.html",
+            "title": "Aurora and Tithonus",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Detached fresco 360 x 160 cm",
+            "painting_type": "mythological",
+            "date": "1634-35"
+        },
+        {
+            "index": 16597,
+            "location": "Museo Bardini Florence",
+            "img": "imgs/art/16597.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/aurora1.html",
+            "title": "Aurora and Tithonus (detail)",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Detached fresco",
+            "painting_type": "mythological",
+            "date": "1634-35"
+        },
+        {
+            "index": 16598,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/16598.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/sangiova/venus_cu.html",
+            "title": "Venus Combing Cupid's Hair",
+            "author": "GIOVANNI DA SAN GIOVANNI",
+            "technique": "Oil on canvas 229 x 173 cm",
+            "painting_type": "mythological",
+            "date": "c. 1630"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1592 San Giovanni Valdarno d. 1636 Firenze)",
+    "name": "GIOVANNI DA SAN GIOVANNI",
+    "school": "Italian"
+}

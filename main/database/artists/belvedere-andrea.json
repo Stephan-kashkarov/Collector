@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4005,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/4005.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belveder/flowduck.html",
+            "title": "Flowers and Ducks",
+            "author": "BELVEDERE Andrea",
+            "technique": "Oil on canvas 126 x 155 cm",
+            "painting_type": "still-life",
+            "date": "before 1674"
+        },
+        {
+            "index": 4006,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/4006.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belveder/flowers.html",
+            "title": "Flowers",
+            "author": "BELVEDERE Andrea",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "c. 1680"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1652 Napoli d. 1732 Napoli)",
+    "name": "BELVEDERE Andrea",
+    "school": "Italian"
+}

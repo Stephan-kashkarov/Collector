@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4724,
+            "location": "Private collection",
+            "img": "imgs/art/4724.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/blieck/interio1.html",
+            "title": "Interior of a Church",
+            "author": "BLIECK Daniel de",
+            "technique": "Oil on panel 80 x 66 cm",
+            "painting_type": "interior",
+            "date": "1670"
+        },
+        {
+            "index": 4725,
+            "location": "Private collection",
+            "img": "imgs/art/4725.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/blieck/interio2.html",
+            "title": "Church Interior",
+            "author": "BLIECK Daniel de",
+            "technique": "Oil on panel 51 x 59 cm",
+            "painting_type": "interior",
+            "date": "1656"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1610 Middelburg d. 1673 Middelburg)",
+    "name": "BLIECK Daniel de",
+    "school": "Dutch"
+}

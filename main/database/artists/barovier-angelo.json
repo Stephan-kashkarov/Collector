@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 3234,
+            "location": "Museo Civico Medievale Bologna",
+            "img": "imgs/art/3234.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/barovier/chalice.html",
+            "title": "Chalice",
+            "author": "BAROVIER Angelo",
+            "technique": "Glassware",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 3235,
+            "location": "Museo del Vetro Murano",
+            "img": "imgs/art/3235.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/barovier/m_cup1.html",
+            "title": "Marriage Cup",
+            "author": "BAROVIER Angelo",
+            "technique": "Glassware",
+            "painting_type": "other",
+            "date": "c. 1470"
+        },
+        {
+            "index": 3236,
+            "location": "Museo del Vetro Murano",
+            "img": "imgs/art/3236.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/barovier/m_cup2.html",
+            "title": "Marriage Cup",
+            "author": "BAROVIER Angelo",
+            "technique": "Glassware",
+            "painting_type": "other",
+            "date": "c. 1470"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. ca. 1400 Murano d. 1460 Murano)",
+    "name": "BAROVIER Angelo",
+    "school": "Italian"
+}

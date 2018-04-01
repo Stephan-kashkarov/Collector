@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14212,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/14212.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances3/rossau1.html",
+            "title": "Birth of Adonis",
+            "author": "FRANCESCHINI Marcantonio",
+            "technique": "Oil on canvas 481 x 254 cm",
+            "painting_type": "mythological",
+            "date": "1692"
+        },
+        {
+            "index": 14213,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/14213.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances3/rossau2.html",
+            "title": "Aurora Abducting Cephalus",
+            "author": "FRANCESCHINI Marcantonio",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1706-08"
+        },
+        {
+            "index": 14214,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/14214.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances3/sibyl.html",
+            "title": "Sibyl",
+            "author": "FRANCESCHINI Marcantonio",
+            "technique": "Oil on canvas 55 x 44 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 14215,
+            "location": "Private collection",
+            "img": "imgs/art/14215.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances3/stursula.html",
+            "title": "St Ursula",
+            "author": "FRANCESCHINI Marcantonio",
+            "technique": "Oil on canvas 60 x 47 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1648 Bologna d. 1729 Bologna)",
+    "name": "FRANCESCHINI Marcantonio",
+    "school": "Italian"
+}

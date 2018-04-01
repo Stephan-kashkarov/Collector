@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 3277,
+            "location": "Pinacoteca Nazionale Siena",
+            "img": "imgs/art/3277.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/adoratio.html",
+            "title": "The Adoration of the Magi",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel 195 x 163 cm",
+            "painting_type": "religious",
+            "date": "1385-88"
+        },
+        {
+            "index": 3278,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/3278.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/annuncia.html",
+            "title": "Annunciation",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel 70 x 32 cm",
+            "painting_type": "religious",
+            "date": "c. 1383"
+        },
+        {
+            "index": 3279,
+            "location": "Museo Civico e Diocesano d'Arte Sacra Montalcino",
+            "img": "imgs/art/3279.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/coronat.html",
+            "title": "The Coronation of the Virgin",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel 332 x 279 cm",
+            "painting_type": "religious",
+            "date": "1388"
+        },
+        {
+            "index": 3280,
+            "location": "Museo Civico e Diocesano d'Arte Sacra Montalcino",
+            "img": "imgs/art/3280.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/coronat1.html",
+            "title": "The Coronation of the Virgin (detail)",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "1388"
+        },
+        {
+            "index": 3281,
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "img": "imgs/art/3281.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/evangeli.html",
+            "title": "St John the Evangelist",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on wood gold ground",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3282,
+            "location": "Collegiata Santa Maria Assunta San Gimignano",
+            "img": "imgs/art/3282.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/gimignan.html",
+            "title": "Scenes from the Old Testament",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1367"
+        },
+        {
+            "index": 3283,
+            "location": "Pinacoteca Vatican",
+            "img": "imgs/art/3283.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/panel1.html",
+            "title": "Nativity and Adoration of the Shepherds",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera and gold on wood 50 x 35 cm",
+            "painting_type": "religious",
+            "date": "c. 1383"
+        },
+        {
+            "index": 3284,
+            "location": "Pinacoteca Vatican",
+            "img": "imgs/art/3284.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/panel2.html",
+            "title": "The Annunciation to Joachim",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera and gold on wood 25 x 37 cm",
+            "painting_type": "religious",
+            "date": "c. 1383"
+        },
+        {
+            "index": 3285,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/3285.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/presenta.html",
+            "title": "The Presentation in the Temple",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on poplar panel gold ground 190 x 125 cm",
+            "painting_type": "religious",
+            "date": "1375-1400"
+        },
+        {
+            "index": 3286,
+            "location": "Private collection",
+            "img": "imgs/art/3286.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/stabbot.html",
+            "title": "St Anthony Abbot",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel gold ground 39 x 33 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3287,
+            "location": "Private collection",
+            "img": "imgs/art/3287.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolo/stlawren.html",
+            "title": "St Lawrence",
+            "author": "BARTOLO DI FREDI",
+            "technique": "Tempera on panel gold ground 47 x 20 cm",
+            "painting_type": "religious",
+            "date": "1388"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(b. ca. 1330 Siena d. ca. 1410 Siena)",
+    "name": "BARTOLO DI FREDI",
+    "school": "Italian"
+}

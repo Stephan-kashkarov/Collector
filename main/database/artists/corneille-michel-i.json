@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9497,
+            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "img": "imgs/art/9497.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneilm/esaujaco.html",
+            "title": "Esau and Jacob",
+            "author": "CORNEILLE Michel I",
+            "technique": "Oil on canvas 115 x 126 cm",
+            "painting_type": "religious",
+            "date": "1630"
+        },
+        {
+            "index": 9498,
+            "location": "Private collection",
+            "img": "imgs/art/9498.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneilm/marriage.html",
+            "title": "Marriage of the Virgin",
+            "author": "CORNEILLE Michel I",
+            "technique": "Oil on canvas 239 x 382 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1601 Orl\u00e9ans d. 1664 Paris)",
+    "name": "CORNEILLE Michel I",
+    "school": "French"
+}

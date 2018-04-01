@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 9939,
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "img": "imgs/art/9939.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/charity.html",
+            "title": "Charity",
+            "author": "COUSIN Jean the Elder",
+            "technique": "Oil on wood",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 9940,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9940.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/evaprima.html",
+            "title": "Eva Prima Pandora",
+            "author": "COUSIN Jean the Elder",
+            "technique": "Wood 97 x 150 cm",
+            "painting_type": "mythological",
+            "date": "c. 1550"
+        },
+        {
+            "index": 9941,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9941.jpg",
+            "form": "tapestry",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/mammes.html",
+            "title": "St Mammes and Duke Alexander",
+            "author": "COUSIN Jean the Elder",
+            "technique": "Tapestry 440 x 450 cm",
+            "painting_type": "religious",
+            "date": "1541"
+        },
+        {
+            "index": 9942,
+            "location": "Mus\u00e9e du Ch\u00e2teau Blois",
+            "img": "imgs/art/9942.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/rape_eur.html",
+            "title": "The Rape of Europa",
+            "author": "COUSIN Jean the Elder",
+            "technique": "Oil on wood 88 x 140 cm",
+            "painting_type": "mythological",
+            "date": "c. 1550"
+        },
+        {
+            "index": 9943,
+            "location": "\u00c9cole Nationale Sup\u00e9rieure des Beaux-Arts Paris",
+            "img": "imgs/art/9943.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cousin/jean_e/vessel.html",
+            "title": "Vessel",
+            "author": "COUSIN Jean the Elder",
+            "technique": "Drawing on vellum with watercolour highlights",
+            "painting_type": "other",
+            "date": "1549"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1495 Soucy d. ca. 1560 Paris)",
+    "name": "COUSIN Jean the Elder",
+    "school": "French"
+}

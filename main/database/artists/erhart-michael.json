@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 13204,
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "img": "imgs/art/13204.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar.html",
+            "title": "Altarpiece",
+            "author": "ERHART Michael",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1493-94"
+        },
+        {
+            "index": 13205,
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "img": "imgs/art/13205.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar0.html",
+            "title": "Altarpiece",
+            "author": "ERHART Michael",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1493-94"
+        },
+        {
+            "index": 13206,
+            "location": "Benedictine Abbey Church Blaubeuren",
+            "img": "imgs/art/13206.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/altar1.html",
+            "title": "Altarpiece (central section)",
+            "author": "ERHART Michael",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1493-94"
+        },
+        {
+            "index": 13207,
+            "location": "Cathedral Ulm",
+            "img": "imgs/art/13207.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/libyan_s.html",
+            "title": "The Libyan Sibyl",
+            "author": "ERHART Michael",
+            "technique": "Oak",
+            "painting_type": "mythological",
+            "date": "1469-74"
+        },
+        {
+            "index": 13208,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/13208.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/ravensb.html",
+            "title": "Ravensburg Madonna of Mercy",
+            "author": "ERHART Michael",
+            "technique": "Painted limewood height 135 cm",
+            "painting_type": "religious",
+            "date": "1480s"
+        },
+        {
+            "index": 13209,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/13209.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/erhart/michael/ravensbu.html",
+            "title": "Ravensburg Madonna of Mercy",
+            "author": "ERHART Michael",
+            "technique": "Painted limewood height 135 cm",
+            "painting_type": "religious",
+            "date": "1480s"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1469-1522 in Ulm)",
+    "name": "ERHART Michael",
+    "school": "German"
+}

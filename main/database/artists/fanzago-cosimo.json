@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 13540,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13540.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa.html",
+            "title": "View of the Cloisters",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1623-30"
+        },
+        {
+            "index": 13541,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13541.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa1.html",
+            "title": "View of the Cloisters",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1623-30"
+        },
+        {
+            "index": 13542,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13542.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa2.html",
+            "title": "View of the Cloisters",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1623-30"
+        },
+        {
+            "index": 13543,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13543.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa3.html",
+            "title": "St Bruno",
+            "author": "FANZAGO Cosimo",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1623-30"
+        },
+        {
+            "index": 13544,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13544.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa4.html",
+            "title": "Decoration of the Cloisters (detail)",
+            "author": "FANZAGO Cosimo",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1623-30"
+        },
+        {
+            "index": 13545,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13545.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa5.html",
+            "title": "Inlaid marble floor",
+            "author": "FANZAGO Cosimo",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1623-30"
+        },
+        {
+            "index": 13546,
+            "location": "Certosa di San Martino Naples",
+            "img": "imgs/art/13546.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fanzago/certosa6.html",
+            "title": "View of the Lay Brothers' Choir",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1640-42"
+        },
+        {
+            "index": 13547,
+            "location": "Cappella Sant'Ignazio Ges\u00f9 Nuovo Naples",
+            "img": "imgs/art/13547.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fanzago/gesunuov.html",
+            "title": "Jeremiah",
+            "author": "FANZAGO Cosimo",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1646"
+        },
+        {
+            "index": 13548,
+            "location": "San Giuseppe dei Vecchi Naples",
+            "img": "imgs/art/13548.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/giuseppe.html",
+            "title": "Interior view",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1669"
+        },
+        {
+            "index": 13549,
+            "location": "Santa Maria Egiziaca a Pizzofalcone Naples",
+            "img": "imgs/art/13549.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/pizzofal.html",
+            "title": "Exterior view",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1651-1717"
+        },
+        {
+            "index": 13550,
+            "location": "Santa Maria Egiziaca a Pizzofalcone Naples",
+            "img": "imgs/art/13550.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fanzago/pizzofax.html",
+            "title": "Interior view",
+            "author": "FANZAGO Cosimo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1651-1717"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1591 Bergamo d. 1678 Napoli)",
+    "name": "FANZAGO Cosimo",
+    "school": "Italian"
+}

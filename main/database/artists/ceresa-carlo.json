@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 8409,
+            "location": "Private collection",
+            "img": "imgs/art/8409.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/gent_wig.html",
+            "title": "Portrait of a Gentleman with a Wig",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas 197 x 115 cm",
+            "painting_type": "portrait",
+            "date": "1665-70"
+        },
+        {
+            "index": 8410,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/8410.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/ladyhand.html",
+            "title": "Lady with a Handkerchief",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "c. 1640"
+        },
+        {
+            "index": 8411,
+            "location": "Accademia Carrara Bergamo",
+            "img": "imgs/art/8411.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/p_friar.html",
+            "title": "Portrait of a Friar",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas 142 x 127 cm",
+            "painting_type": "portrait",
+            "date": "1650-53"
+        },
+        {
+            "index": 8412,
+            "location": "Fondazione di Studi di Storia dell'Arte Roberto Longhi Florence",
+            "img": "imgs/art/8412.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/portgent.html",
+            "title": "Portrait of an Old Gentleman",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas 99 x 82 cm",
+            "painting_type": "portrait",
+            "date": "1638-39"
+        },
+        {
+            "index": 8413,
+            "location": "Chiesa San Giorgio Martire Nese",
+            "img": "imgs/art/8413.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/vision.html",
+            "title": "The Vision of St Felix of Cantalice",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas 250 x 200 cm",
+            "painting_type": "religious",
+            "date": "1644"
+        },
+        {
+            "index": 8414,
+            "location": "Private collection",
+            "img": "imgs/art/8414.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ceresa/vision_e.html",
+            "title": "The Vision of St Eustace",
+            "author": "CERESA Carlo",
+            "technique": "Oil on canvas 244 x 198 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1609 San Giovanni Bianco nr Bergamo d. 1670 Bergamo)",
+    "name": "CERESA Carlo",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9398,
+            "location": "Private collection",
+            "img": "imgs/art/9398.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte_m/stillif1.html",
+            "title": "Still-Life",
+            "author": "CONTE Meiffren",
+            "technique": "Oil on canvas 92 x 144 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 9399,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9399.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte_m/stillif2.html",
+            "title": "Still-Life",
+            "author": "CONTE Meiffren",
+            "technique": "Oil on canvas 102 x 129 cm",
+            "painting_type": "still-life",
+            "date": "1675-1700"
+        },
+        {
+            "index": 9400,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/9400.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte_m/stillif3.html",
+            "title": "Still-Life with Silver Torch",
+            "author": "CONTE Meiffren",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1631 Marseille d. 1705 Marseille)",
+    "name": "CONTE Meiffren",
+    "school": "French"
+}

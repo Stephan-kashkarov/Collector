@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3004,
+            "location": "Private collection",
+            "img": "imgs/art/3004.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/balducc/adoratio.html",
+            "title": "Adoration of the Shepherds",
+            "author": "BALDUCCI Giovanni",
+            "technique": "Oil on copper 32 x 24 cm",
+            "painting_type": "religious",
+            "date": "1590s"
+        },
+        {
+            "index": 3005,
+            "location": "Private collection",
+            "img": "imgs/art/3005.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/balducc/dianaact.html",
+            "title": "Diana and Actaeon",
+            "author": "BALDUCCI Giovanni",
+            "technique": "Oil on copper 38 x 32 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1560 Firenze d. after 1631 Napoli)",
+    "name": "BALDUCCI Giovanni",
+    "school": "Italian"
+}

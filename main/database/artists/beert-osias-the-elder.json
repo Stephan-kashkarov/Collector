@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 3656,
+            "location": "Rockox House Antwerp",
+            "img": "imgs/art/3656.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/bouquet.html",
+            "title": "Bouquet in a Niche",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on panel 74 x 52 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 3657,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3657.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/cherries.html",
+            "title": "Still-Life with Cherries and Strawberries in China Bowls",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on copper 50 x 66 cm",
+            "painting_type": "still-life",
+            "date": "1608"
+        },
+        {
+            "index": 3658,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3658.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/cherriet.html",
+            "title": "Still-Life with Cherries and Strawberries in China Bowls (detail)",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on panel",
+            "painting_type": "still-life",
+            "date": "1608"
+        },
+        {
+            "index": 3659,
+            "location": "Staatsgalerie Stuttgart",
+            "img": "imgs/art/3659.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/oysters.html",
+            "title": "Still-Life with Oysters and Pastries",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on copper 466 x 66 cm",
+            "painting_type": "still-life",
+            "date": "1610"
+        },
+        {
+            "index": 3660,
+            "location": "Private collection",
+            "img": "imgs/art/3660.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/stilfrui.html",
+            "title": "Still-Life of Fruit",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on oak panel 51 x 69 cm",
+            "painting_type": "still-life",
+            "date": "1610s"
+        },
+        {
+            "index": 3661,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/3661.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/stillife.html",
+            "title": "Still-Life",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on panel 43 x 54 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 3662,
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "img": "imgs/art/3662.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beert/elder/still-li.html",
+            "title": "Still-life",
+            "author": "BEERT Osias the Elder",
+            "technique": "Oil on oak 515 x 855 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1580 Antwerpen d. 1624 Antwerpen)",
+    "name": "BEERT Osias the Elder",
+    "school": "Flemish"
+}

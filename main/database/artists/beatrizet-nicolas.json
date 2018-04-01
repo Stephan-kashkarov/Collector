@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3564,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/3564.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/beatrize/archers.html",
+            "title": "The Archers",
+            "author": "BEATRIZET Nicolas",
+            "technique": "Engraving 242 x 354 mm",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 3565,
+            "location": "-",
+            "img": "imgs/art/3565.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/beatrize/pasquino.html",
+            "title": "Pasquino",
+            "author": "BEATRIZET Nicolas",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "c. 1550"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1507 Thionville d. 1565 Roma)",
+    "name": "BEATRIZET Nicolas",
+    "school": "French"
+}

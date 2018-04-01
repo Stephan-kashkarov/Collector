@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 5762,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5762.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bourdell/beethov.html",
+            "title": "Large Tragic Mask of Beethoven",
+            "author": "BOURDELLE \u00c9mile-Antoine",
+            "technique": "Bronze height 77 cm",
+            "painting_type": "portrait",
+            "date": "1901"
+        },
+        {
+            "index": 5763,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/5763.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bourdell/beethove.html",
+            "title": "Ludwig van Beethoven",
+            "author": "BOURDELLE \u00c9mile-Antoine",
+            "technique": "Bronze 68 x 34 x 35 cm (with plinth)",
+            "painting_type": "portrait",
+            "date": "Mar-02"
+        },
+        {
+            "index": 5764,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/5764.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bourdell/hercules.html",
+            "title": "Hercules the Archer",
+            "author": "BOURDELLE \u00c9mile-Antoine",
+            "technique": "Bronze 248 x 247 x 123 cm",
+            "painting_type": "mythological",
+            "date": "1909"
+        },
+        {
+            "index": 5765,
+            "location": "Mus\u00e9e Bourdelle Paris",
+            "img": "imgs/art/5765.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bourdell/night.html",
+            "title": "Night",
+            "author": "BOURDELLE \u00c9mile-Antoine",
+            "technique": "Bronze height 61 cm",
+            "painting_type": "mythological",
+            "date": "1904"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1861 Montauban d. 1929 Le V\u00e9sinet)",
+    "name": "BOURDELLE \u00c9mile-Antoine",
+    "school": "French"
+}

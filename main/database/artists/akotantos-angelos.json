@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 180,
+            "location": "Byzantine and Christian Museum Athens",
+            "img": "imgs/art/180.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/akotanto/cardioti.html",
+            "title": "The Virgin Cardiotissa",
+            "author": "AKOTANTOS Angelos",
+            "technique": "Tempera and leaf on panel 121 x 965 cm",
+            "painting_type": "religious",
+            "date": "1400-50"
+        },
+        {
+            "index": 181,
+            "location": "Vatopediou Monastery Mount Athos",
+            "img": "imgs/art/181.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/akotanto/congrega.html",
+            "title": "The Congregation of the Archangels",
+            "author": "AKOTANTOS Angelos",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(died before 1457)",
+    "name": "AKOTANTOS Angelos",
+    "school": "Greek"
+}

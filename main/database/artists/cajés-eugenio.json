@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 7014,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/7014.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cajes/eugenio/adorat1.html",
+            "title": "The Adoration of the Magi",
+            "author": "CAJ\u00c9S Eugenio",
+            "technique": "Oil on canvas 183 x 1865 cm",
+            "painting_type": "religious",
+            "date": "1620s"
+        },
+        {
+            "index": 7015,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/7015.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cajes/eugenio/adorat2.html",
+            "title": "The Adoration of the Magi (detail)",
+            "author": "CAJ\u00c9S Eugenio",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1620s"
+        },
+        {
+            "index": 7016,
+            "location": "Private collection",
+            "img": "imgs/art/7016.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cajes/eugenio/crucmale.html",
+            "title": "The Crucifixion of a Male Saint",
+            "author": "CAJ\u00c9S Eugenio",
+            "technique": "Oil on canvas 169 x 126 cm",
+            "painting_type": "religious",
+            "date": "1627"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1575 Madrid d. 1634 Madrid)",
+    "name": "CAJ\u00c9S Eugenio",
+    "school": "Spanish"
+}

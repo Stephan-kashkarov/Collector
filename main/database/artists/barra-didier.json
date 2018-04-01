@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3237,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3237.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barra/landbuil.html",
+            "title": "Landscape with Buildings",
+            "author": "BARRA Didier",
+            "technique": "Oil on canvas 78 x 103 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3238,
+            "location": "Private collection",
+            "img": "imgs/art/3238.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barra/salomon.html",
+            "title": "The Judgment of Salomon",
+            "author": "BARRA Didier",
+            "technique": "Oil on canvas 38 X 49 cm",
+            "painting_type": "historical",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1590 Metz d. 1644 Napoli)",
+    "name": "BARRA Didier",
+    "school": "French"
+}

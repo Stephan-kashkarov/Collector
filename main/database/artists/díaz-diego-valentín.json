@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11506,
+            "location": "Museo Diocesano y Catedralicio Valladolid",
+            "img": "imgs/art/11506.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/diaz/flowers1.html",
+            "title": "Vase of Flowers",
+            "author": "D\u00cdAZ Diego Valent\u00edn",
+            "technique": "Oil on canvas 47 x 40 cm",
+            "painting_type": "still-life",
+            "date": "c. 1650"
+        },
+        {
+            "index": 11507,
+            "location": "Museo Diocesano y Catedralicio Valladolid",
+            "img": "imgs/art/11507.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/diaz/flowers2.html",
+            "title": "Vase of Flowers",
+            "author": "D\u00cdAZ Diego Valent\u00edn",
+            "technique": "Oil on canvas 48 x 39 cm",
+            "painting_type": "still-life",
+            "date": "c. 1650"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1586 Valladolid d. 1680 Valladolid)",
+    "name": "D\u00cdAZ Diego Valent\u00edn",
+    "school": "Spanish"
+}

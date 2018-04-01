@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3241,
+            "location": "Private collection",
+            "img": "imgs/art/3241.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/barre/son/hawking.html",
+            "title": "Mary of Burgundy Hawking",
+            "author": "BARRE Jean-August",
+            "technique": "Bronze 36 x 34 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3242,
+            "location": "Private collection",
+            "img": "imgs/art/3242.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/barre/son/maria_ta.html",
+            "title": "Maria Taglioni in La Sylphide",
+            "author": "BARRE Jean-August",
+            "technique": "Bronze height 45 cm",
+            "painting_type": "other",
+            "date": "1837"
+        },
+        {
+            "index": 3243,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/3243.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/barre/son/maryburg.html",
+            "title": "Mary of Burgundy",
+            "author": "BARRE Jean-August",
+            "technique": "Bronze height 46 cm",
+            "painting_type": "portrait",
+            "date": "before 1844"
+        },
+        {
+            "index": 3244,
+            "location": "Private collection",
+            "img": "imgs/art/3244.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/barre/son/mmeboche.html",
+            "title": "Bust of Mrs. Bouchet",
+            "author": "BARRE Jean-August",
+            "technique": "Marble height 74 cm",
+            "painting_type": "portrait",
+            "date": "1859"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1811 Paris d. 1896 Paris)",
+    "name": "BARRE Jean-August",
+    "school": "French"
+}

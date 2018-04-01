@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8817,
+            "location": "Galleria Nazionale d'Arte Moderna e Contemporanea Rome",
+            "img": "imgs/art/8817.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ciardi/harvest.html",
+            "title": "Harvest",
+            "author": "CIARDI Guglielmo",
+            "technique": "Oil on canvas 132 x 275 cm",
+            "painting_type": "landscape",
+            "date": "1883"
+        },
+        {
+            "index": 8818,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/8818.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ciardi/morning.html",
+            "title": "May Morning",
+            "author": "CIARDI Guglielmo",
+            "technique": "Oil on canvas 57 x 78 cm",
+            "painting_type": "landscape",
+            "date": "1869"
+        },
+        {
+            "index": 8819,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/8819.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ciardi/summer.html",
+            "title": "Summer",
+            "author": "CIARDI Guglielmo",
+            "technique": "Oil on canvas 55 x 89 cm",
+            "painting_type": "landscape",
+            "date": "c. 1879"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1842 Venezia d. 1917 Venezia)",
+    "name": "CIARDI Guglielmo",
+    "school": "Italian"
+}

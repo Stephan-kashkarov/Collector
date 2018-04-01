@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6770,
+            "location": "Sint-Jacobskerk Leuven",
+            "img": "imgs/art/6770.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bruyne/tabernac.html",
+            "title": "Tabernacle",
+            "author": "BRUYNE Gabriel van den",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1537-38"
+        },
+        {
+            "index": 6771,
+            "location": "Sint-Jacobskerk Leuven",
+            "img": "imgs/art/6771.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bruyne/tabernax.html",
+            "title": "Tabernacle (detail)",
+            "author": "BRUYNE Gabriel van den",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1536-38"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1500 Leuven d. 1561 Leuven)",
+    "name": "BRUYNE Gabriel van den",
+    "school": "Flemish"
+}

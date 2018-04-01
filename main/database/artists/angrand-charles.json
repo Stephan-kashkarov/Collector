@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1008,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/1008.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/angrand/couple.html",
+            "title": "Couple in the Street",
+            "author": "ANGRAND Charles",
+            "technique": "Oil on canvas on card 39 x 33 cm",
+            "painting_type": "genre",
+            "date": "1887"
+        },
+        {
+            "index": 1009,
+            "location": "Private collection",
+            "img": "imgs/art/1009.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/angrand/railway.html",
+            "title": "The Western Railway Leaving Paris",
+            "author": "ANGRAND Charles",
+            "technique": "Oil on canvas 75 x 92 cm",
+            "painting_type": "landscape",
+            "date": "1886"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1854 Criquetot-sur-Ouville d. 1926 Rouen)",
+    "name": "ANGRAND Charles",
+    "school": "French"
+}

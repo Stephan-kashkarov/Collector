@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6092,
+            "location": "Mikhailovsky Castle St. Petersburg",
+            "img": "imgs/art/6092.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/brenna/mikhail1.html",
+            "title": "Aerial view",
+            "author": "BRENNA Vincenzo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1797-1801"
+        },
+        {
+            "index": 6093,
+            "location": "Mikhailovsky Castle St. Petersburg",
+            "img": "imgs/art/6093.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/brenna/mikhail2.html",
+            "title": "Exterior view",
+            "author": "BRENNA Vincenzo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1797-1801"
+        },
+        {
+            "index": 6094,
+            "location": "Ostankino Palace Moscow",
+            "img": "imgs/art/6094.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/brenna/ostanki1.html",
+            "title": "Exterior view",
+            "author": "BRENNA Vincenzo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1792-98"
+        },
+        {
+            "index": 6095,
+            "location": "Ostankino Palace Moscow",
+            "img": "imgs/art/6095.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/brenna/ostanki2.html",
+            "title": "Interior view",
+            "author": "BRENNA Vincenzo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1792-98"
+        },
+        {
+            "index": 6096,
+            "location": "Palace Pavlovsk",
+            "img": "imgs/art/6096.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/brenna/pavlovsk.html",
+            "title": "Interior view",
+            "author": "BRENNA Vincenzo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1782-86"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1745 Firenze d. 1820 Dresden)",
+    "name": "BRENNA Vincenzo",
+    "school": "Italian"
+}

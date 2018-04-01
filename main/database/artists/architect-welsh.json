@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2472,
+            "location": "Cathedral St Davids Pembrokeshire",
+            "img": "imgs/art/2472.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/4/35w_1151.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Welsh",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "1190-98"
+        },
+        {
+            "index": 2473,
+            "location": "Harlech Gwynedd",
+            "img": "imgs/art/2473.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/4/9other1.html",
+            "title": "Castle",
+            "author": "ARCHITECT Welsh",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1282-89"
+        }
+    ],
+    "timeframe": "1101-1150",
+    "life": "(active 1190-1198 in Wales)",
+    "name": "ARCHITECT Welsh",
+    "school": "Other"
+}

@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 5064,
+            "location": "Private collection",
+            "img": "imgs/art/5064.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/annuncia.html",
+            "title": "The Annunciation",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 198 x 152 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 5065,
+            "location": "Muzeum Narodowe Poznan",
+            "img": "imgs/art/5065.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/ariadne.html",
+            "title": "Ariadne",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 149 x 106 cm",
+            "painting_type": "mythological",
+            "date": "1630-35"
+        },
+        {
+            "index": 5066,
+            "location": "Muzeum Narodowe Poznan",
+            "img": "imgs/art/5066.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/bacchus.html",
+            "title": "Bacchus",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 149 x 106 cm",
+            "painting_type": "mythological",
+            "date": "1630-35"
+        },
+        {
+            "index": 5067,
+            "location": "Private collection",
+            "img": "imgs/art/5067.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/bathing.html",
+            "title": "Seated Nude Bathing by a Stove",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 69 x 55 cm",
+            "painting_type": "genre",
+            "date": "1640s"
+        },
+        {
+            "index": 5068,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5068.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/cydippe.html",
+            "title": "Cydippe with Acontius's Apple",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 151 x 114 cm",
+            "painting_type": "mythological",
+            "date": "c. 1640"
+        },
+        {
+            "index": 5069,
+            "location": "painting",
+            "img": "imgs/art/5069.jpg",
+            "form": "Dutch",
+            "url": "mythological",
+            "title": "The Disillusioned Medea (\"\"The Enchantress\"\")\"c. 1640\"Oil on canvas 156 x 112 cm",
+            "author": "BOR Paulus",
+            "technique": "https://www.wga.hu/html/b/bor/cydippe2.html",
+            "painting_type": "1601-1650",
+            "date": "Metropolitan Museum of Art New York"
+        },
+        {
+            "index": 5070,
+            "location": "Centraal Museum Utrecht",
+            "img": "imgs/art/5070.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bor/doctors.html",
+            "title": "Jesus among the Doctors",
+            "author": "BOR Paulus",
+            "technique": "Oil on canvas 115 x 97 cm",
+            "painting_type": "religious",
+            "date": "1630-35"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1605 Amersfoort d. 1669 Amersfoort)",
+    "name": "BOR Paulus",
+    "school": "Dutch"
+}

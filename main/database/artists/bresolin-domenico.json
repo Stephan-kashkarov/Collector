@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 6102,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/6102.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bresolin/ruined_h.html",
+            "title": "Ruined House",
+            "author": "BRESOLIN Domenico",
+            "technique": "Oil on paper on canvas 36 x 53 cm",
+            "painting_type": "landscape",
+            "date": "before 1859"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. ca. 1815 Padova d. ca. 1899 Venezia)",
+    "name": "BRESOLIN Domenico",
+    "school": "Italian"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3728,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3728.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellegam/annuncia.html",
+            "title": "Annunciation",
+            "author": "BELLEGAMBE Jean",
+            "technique": "Oil on canvas tansferred from wood 109 x 80 cm (central) 103 x 33 cm (side)",
+            "painting_type": "religious",
+            "date": "1516-17"
+        },
+        {
+            "index": 3729,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3729.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellegam/cellier.html",
+            "title": "The Le Cellier Triptych",
+            "author": "BELLEGAMBE Jean",
+            "technique": "Tempera and oil on wood 102 x 61 cm",
+            "painting_type": "religious",
+            "date": "1508-09"
+        },
+        {
+            "index": 3730,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3730.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellegam/lastjudg.html",
+            "title": "The Last Judgment",
+            "author": "BELLEGAMBE Jean",
+            "technique": "Oil on oak panel 222 x 178 (central) 222 x 82 cm (each wing)",
+            "painting_type": "religious",
+            "date": "c. 1525"
+        },
+        {
+            "index": 3731,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3731.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellegam/lastjudx.html",
+            "title": "The Last Judgment (left wing detail)",
+            "author": "BELLEGAMBE Jean",
+            "technique": "Oil on oak panel",
+            "painting_type": "religious",
+            "date": "c. 1525"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1470 Douai  d. ca. 1535 Douai)",
+    "name": "BELLEGAMBE Jean",
+    "school": "Flemish"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11514,
+            "location": "Pilgrimage church Kappel",
+            "img": "imgs/art/11514.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/georg/kappel1.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Georg",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1685-89"
+        },
+        {
+            "index": 11515,
+            "location": "Pilgrimage church Kappel",
+            "img": "imgs/art/11515.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/georg/kappel2.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Georg",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1685-89"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1643 Oberulpoint d. 1689 Waldsassen)",
+    "name": "DIENTZENHOFER Georg",
+    "school": "German"
+}

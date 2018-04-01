@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 1077,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/1077.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/annuncia.html",
+            "title": "Annunciation",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 203 x 153 cm",
+            "painting_type": "religious",
+            "date": "1665-75"
+        },
+        {
+            "index": 1078,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/1078.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/assumpti.html",
+            "title": "Assumption of Mary Magdalene",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 205 x 163 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1079,
+            "location": "Private collection",
+            "img": "imgs/art/1079.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/deathmag.html",
+            "title": "The Death of the Magdalene",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 51 x 34 cm",
+            "painting_type": "religious",
+            "date": "c. 1667"
+        },
+        {
+            "index": 1080,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/1080.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/holy_fam.html",
+            "title": "Holy Family",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 40 x 60 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1081,
+            "location": "Museo L\u00e1zaro Galdiano Madrid",
+            "img": "imgs/art/1081.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/immacula.html",
+            "title": "Immaculate Conception",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1660s"
+        },
+        {
+            "index": 1082,
+            "location": "Museo de Bellas Artes Bilbao",
+            "img": "imgs/art/1082.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/immaculb.html",
+            "title": "Immaculate Conception",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 201 x 1495 cm",
+            "painting_type": "religious",
+            "date": "c. 1665"
+        },
+        {
+            "index": 1083,
+            "location": "Private collection",
+            "img": "imgs/art/1083.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/infants.html",
+            "title": "The Infant St John the Baptist and the Christ Child",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 56 x 83 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1084,
+            "location": "Museo Cerralbo Madrid",
+            "img": "imgs/art/1084.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/martyrdo.html",
+            "title": "Martyrdom of St. Sebastian",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 1085,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/1085.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/p_seller.html",
+            "title": "The Picture Merchant",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 201 x 125 cm",
+            "painting_type": "genre",
+            "date": "c. 1670"
+        },
+        {
+            "index": 1086,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/1086.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antoline/jose/st_rose.html",
+            "title": "St Rose of Lima before the Madonna",
+            "author": "ANTOLINEZ Jos\u00e9",
+            "technique": "Oil on canvas 206 x 1585 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1635 Madrid d. 1675 Madrid)",
+    "name": "ANTOLINEZ Jos\u00e9",
+    "school": "Spanish"
+}

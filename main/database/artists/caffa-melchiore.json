@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 6948,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6948.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caffa/alexand7.html",
+            "title": "Bust of Alexander VII",
+            "author": "CAFFA Melchiore",
+            "technique": "Bronze height 99 cm",
+            "painting_type": "portrait",
+            "date": "1667"
+        },
+        {
+            "index": 6949,
+            "location": "Santa Catarina da Siena a Magnapoli Rome",
+            "img": "imgs/art/6949.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caffa/s_cather.html",
+            "title": "Ecstasy of St Catherine",
+            "author": "CAFFA Melchiore",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1667"
+        },
+        {
+            "index": 6950,
+            "location": "Sant'Agostino Rome",
+            "img": "imgs/art/6950.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caffa/s_thomas.html",
+            "title": "St Thomas of Villanova",
+            "author": "CAFFA Melchiore",
+            "technique": "Marble over life-size",
+            "painting_type": "religious",
+            "date": "begun 1663"
+        },
+        {
+            "index": 6951,
+            "location": "Sa\u00f5 Domengo Lima",
+            "img": "imgs/art/6951.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caffa/st_rose.html",
+            "title": "St Rose of Lima",
+            "author": "CAFFA Melchiore",
+            "technique": "Marble life-size",
+            "painting_type": "religious",
+            "date": "1665"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1635 Vittoriosa d. 1667 Roma)",
+    "name": "CAFFA Melchiore",
+    "school": "Italian"
+}

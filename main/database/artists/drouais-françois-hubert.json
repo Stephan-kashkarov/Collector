@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 12114,
+            "location": "Private collection",
+            "img": "imgs/art/12114.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drouais/francois/children.html",
+            "title": "The Children of the Duc de Bouillon",
+            "author": "DROUAIS Fran\u00e7ois-Hubert",
+            "technique": "Oil on canvas 86 x 130 cm",
+            "painting_type": "genre",
+            "date": "1756"
+        },
+        {
+            "index": 12115,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/12115.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drouais/francois/du_barry.html",
+            "title": "Jeanne B\u00e9cu Comtesse du Barry",
+            "author": "DROUAIS Fran\u00e7ois-Hubert",
+            "technique": "Oil on canvas 71 x 59 cm",
+            "painting_type": "portrait",
+            "date": "1770-74"
+        },
+        {
+            "index": 12116,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/12116.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drouais/francois/family.html",
+            "title": "Family Portrait",
+            "author": "DROUAIS Fran\u00e7ois-Hubert",
+            "technique": "Oil on canvas 244 x 195 cm",
+            "painting_type": "portrait",
+            "date": "1756"
+        },
+        {
+            "index": 12117,
+            "location": "National Gallery London",
+            "img": "imgs/art/12117.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drouais/francois/mme_pomp.html",
+            "title": "Madame de Pompadour",
+            "author": "DROUAIS Fran\u00e7ois-Hubert",
+            "technique": "Oil on canvas 217 x 157 cm",
+            "painting_type": "portrait",
+            "date": "1763-64"
+        },
+        {
+            "index": 12118,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/12118.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drouais/francois/wife_art.html",
+            "title": "Madame Drouais Wife of the Artist",
+            "author": "DROUAIS Fran\u00e7ois-Hubert",
+            "technique": "Oil on canvas 83 x 62 cm",
+            "painting_type": "portrait",
+            "date": "c. 1758"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1727 Paris d. 1775 Paris)",
+    "name": "DROUAIS Fran\u00e7ois-Hubert",
+    "school": "French"
+}

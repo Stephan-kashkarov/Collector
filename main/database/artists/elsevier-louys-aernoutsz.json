@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 13133,
+            "location": "Museu Nacional de Arte Antiga Lisbon",
+            "img": "imgs/art/13133.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/elsevier/oudekerk.html",
+            "title": "Interior of the Oude Kerk Delft Seen through a Stone Archway",
+            "author": "ELSEVIER Louys Aernoutsz",
+            "technique": "Oil on canvas pasted on panel 55 x 45 cm",
+            "painting_type": "interior",
+            "date": "1653"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1618 Leiden d. 1675 Delft)",
+    "name": "ELSEVIER Louys Aernoutsz",
+    "school": "Dutch"
+}

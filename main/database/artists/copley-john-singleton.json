@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 9436,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/9436.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/boylston.html",
+            "title": "Portrait of Rebecca Boylston",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 128 x 102 cm",
+            "painting_type": "portrait",
+            "date": "1767"
+        },
+        {
+            "index": 9437,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/9437.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/c_family.html",
+            "title": "The Copley Family",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 1844 x 2297 cm",
+            "painting_type": "portrait",
+            "date": "c. 1776"
+        },
+        {
+            "index": 9438,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/9438.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/henshaw.html",
+            "title": "Mrs Joshua Henshaw II (Catherine Hill)",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 77 x 56 cm",
+            "painting_type": "portrait",
+            "date": "c. 1772"
+        },
+        {
+            "index": 9439,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/9439.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/revere.html",
+            "title": "Paul Revere",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 875 x 715 cm",
+            "painting_type": "portrait",
+            "date": "1768-70"
+        },
+        {
+            "index": 9440,
+            "location": "National Portrait Gallery Smithsonian Institution Washington",
+            "img": "imgs/art/9440.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/selfport.html",
+            "title": "Self-Portrait",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1784"
+        },
+        {
+            "index": 9441,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/9441.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/watson.html",
+            "title": "Brook Watson and the Shark",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 182 x 230 cm",
+            "painting_type": "historical",
+            "date": "1778"
+        },
+        {
+            "index": 9442,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9442.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/copley/winthrop.html",
+            "title": "Mrs John Winthrop",
+            "author": "COPLEY John Singleton",
+            "technique": "Oil on canvas 902 x 73 cm",
+            "painting_type": "portrait",
+            "date": "1773"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1738 Boston d. 1815 London)",
+    "name": "COPLEY John Singleton",
+    "school": "English"
+}

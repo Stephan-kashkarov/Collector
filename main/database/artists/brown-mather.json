@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 6308,
+            "location": "Private collection",
+            "img": "imgs/art/6308.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/chauncey.html",
+            "title": "Portrait of Nathaniel Chauncey",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas 89 x 69 cm",
+            "painting_type": "portrait",
+            "date": "c. 1786"
+        },
+        {
+            "index": 6309,
+            "location": "National Portrait Gallery London",
+            "img": "imgs/art/6309.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/howard.html",
+            "title": "John Howard",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas feigned oval 76 x 63 cm",
+            "painting_type": "portrait",
+            "date": "1789"
+        },
+        {
+            "index": 6310,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/6310.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/miller.html",
+            "title": "Captain George Miller Bligh",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1812"
+        },
+        {
+            "index": 6311,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/6311.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/murray.html",
+            "title": "William Vans Murray",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "painting_type": "portrait",
+            "date": "1787"
+        },
+        {
+            "index": 6312,
+            "location": "Private collection",
+            "img": "imgs/art/6312.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/popham.html",
+            "title": "Portrait of William Leyborne Popham",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas 125 x 102 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 6313,
+            "location": "Private collection",
+            "img": "imgs/art/6313.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/popham1.html",
+            "title": "Portrait of William Leyborne Popham (detail)",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 6314,
+            "location": "Private collection",
+            "img": "imgs/art/6314.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brown_ma/williams.html",
+            "title": "Portrait of John Williams",
+            "author": "BROWN Mather",
+            "technique": "Oil on canvas 43 x 34 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1761 Boston d. 1831 London)",
+    "name": "BROWN Mather",
+    "school": "American"
+}

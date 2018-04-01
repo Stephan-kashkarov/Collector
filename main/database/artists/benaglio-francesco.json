@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4022,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/4022.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benaglio/madchild.html",
+            "title": "Virgin and Child",
+            "author": "BENAGLIO Francesco",
+            "technique": "Oil on panel 38 x 30 cm",
+            "painting_type": "religious",
+            "date": "1480s"
+        },
+        {
+            "index": 4023,
+            "location": "Private collection",
+            "img": "imgs/art/4023.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benaglio/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "BENAGLIO Francesco",
+            "technique": "Tempera on panel 78 x 55 cm",
+            "painting_type": "religious",
+            "date": "c. 1465"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1430 Verona d. ca. 1492 Verona)",
+    "name": "BENAGLIO Francesco",
+    "school": "Italian"
+}

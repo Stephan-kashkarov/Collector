@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5073,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/5073.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bordon/satyr.html",
+            "title": "Scene with Satyr and Sleeping Nymph",
+            "author": "BORDONE Benedetto",
+            "technique": "Woodcut 290 x 215 mm",
+            "painting_type": "mythological",
+            "date": "1499"
+        },
+        {
+            "index": 5074,
+            "location": "British Library London",
+            "img": "imgs/art/5074.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bordon/worldmap.html",
+            "title": "World Map",
+            "author": "BORDONE Benedetto",
+            "technique": "Woodcut 325 x 165 mm",
+            "painting_type": "other",
+            "date": "1528"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1460 Padova d. 1539 Venezia)",
+    "name": "BORDONE Benedetto",
+    "school": "Italian"
+}

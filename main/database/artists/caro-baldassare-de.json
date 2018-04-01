@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7729,
+            "location": "Pinacoteca d'Errico Matera",
+            "img": "imgs/art/7729.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caro/stillif1.html",
+            "title": "Still-Life with Turkey Fruit and Flying Pigeon",
+            "author": "CARO Baldassare de",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 7730,
+            "location": "Private collection",
+            "img": "imgs/art/7730.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caro/stillif2.html",
+            "title": "Still-Life",
+            "author": "CARO Baldassare de",
+            "technique": "Oil on canvas 65 x 78 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1689 Napoli d. 1750 Napoli)",
+    "name": "CARO Baldassare de",
+    "school": "Italian"
+}

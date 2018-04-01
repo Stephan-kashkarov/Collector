@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13517,
+            "location": "Ponte Sant'Angelo Rome",
+            "img": "imgs/art/13517.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fancelli/angel.html",
+            "title": "Angel with the Sudarium",
+            "author": "FANCELLI Cosimo",
+            "technique": "Marble over life-size",
+            "painting_type": "religious",
+            "date": "1668-69"
+        },
+        {
+            "index": 13518,
+            "location": "Ponte Sant'Angelo Rome",
+            "img": "imgs/art/13518.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fancelli/angel1.html",
+            "title": "Angel with the Sudarium",
+            "author": "FANCELLI Cosimo",
+            "technique": "Marble over life-size",
+            "painting_type": "religious",
+            "date": "1668-69"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1620 Roma d. 1688 Roma)",
+    "name": "FANCELLI Cosimo",
+    "school": "Italian"
+}

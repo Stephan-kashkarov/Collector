@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 11604,
+            "location": "Private collection",
+            "img": "imgs/art/11604.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/langmat1.html",
+            "title": "View of Piazza San Marco with the Basilica Venice",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas 76 x 128 cm",
+            "painting_type": "landscape",
+            "date": "c. 1744"
+        },
+        {
+            "index": 11605,
+            "location": "Private collection",
+            "img": "imgs/art/11605.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/langmat2.html",
+            "title": "View from the Giudecca Venice",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas 76 x 128 cm",
+            "painting_type": "landscape",
+            "date": "c. 1744"
+        },
+        {
+            "index": 11606,
+            "location": "Private collection",
+            "img": "imgs/art/11606.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/venice1.html",
+            "title": "View of Piazza San Marco Venice Looking North",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas  67 x 97 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11607,
+            "location": "Private collection",
+            "img": "imgs/art/11607.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/venice2.html",
+            "title": "View of the Grand Canal Venice",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas 65 x 101 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11608,
+            "location": "Private collection",
+            "img": "imgs/art/11608.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/venice3.html",
+            "title": "View of the Grand Canal Venice",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas 65 x 101 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11609,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/11609.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenici/viewrome.html",
+            "title": "View of Piazza del Pantheon in Rome",
+            "author": "DOMENICHINI Apollonio",
+            "technique": "Oil on canvas 71 x 118 cm",
+            "painting_type": "landscape",
+            "date": "c. 1750"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1715 Venezia d. ca. 1770 Venezia)",
+    "name": "DOMENICHINI Apollonio",
+    "school": "Italian"
+}

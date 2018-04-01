@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 7076,
+            "location": "Museo dell'Accademia Ligustica di Belle Arti Genoa",
+            "img": "imgs/art/7076.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/christ_c.html",
+            "title": "Virgin with the Christ Child in Swaddling Clothes",
+            "author": "CAMBIASO Luca",
+            "technique": "Oil on canvas 67 x 56 cm",
+            "painting_type": "religious",
+            "date": "1575-80"
+        },
+        {
+            "index": 7077,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7077.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cambiaso/flight.html",
+            "title": "Flight of Aeneas Anchises and Ascanius from Troy",
+            "author": "CAMBIASO Luca",
+            "technique": "Pen and brush and brown wash 404 x 281 mm",
+            "painting_type": "mythological",
+            "date": "1555-60"
+        },
+        {
+            "index": 7078,
+            "location": "Salone Palazzo Grimaldi della Meridiana Genoa",
+            "img": "imgs/art/7078.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/grimaldi.html",
+            "title": "Odysseus Slays the Suitors in His Palace",
+            "author": "CAMBIASO Luca",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1565-66"
+        },
+        {
+            "index": 7079,
+            "location": "Loggia di Diana Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/7079.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/loggia.html",
+            "title": "Diana and Satyr",
+            "author": "CAMBIASO Luca",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 7080,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7080.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/venusado.html",
+            "title": "Venus and Adonis",
+            "author": "CAMBIASO Luca",
+            "technique": "Oil on canvas 130 x 94 cm",
+            "painting_type": "mythological",
+            "date": "1565-69"
+        },
+        {
+            "index": 7081,
+            "location": "Musei di Strada Nuova Palazzo Bianco Genoa",
+            "img": "imgs/art/7081.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/virgin.html",
+            "title": "Virgin and Child with St Mary Magdalene",
+            "author": "CAMBIASO Luca",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7082,
+            "location": "Private collection",
+            "img": "imgs/art/7082.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "CAMBIASO Luca",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1550s"
+        },
+        {
+            "index": 7083,
+            "location": "Private collection",
+            "img": "imgs/art/7083.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cambiaso/virginch.html",
+            "title": "Virgin and Child with the Young St John the Baptist",
+            "author": "CAMBIASO Luca",
+            "technique": "Oil on wood panel 91 x 80 cm",
+            "painting_type": "religious",
+            "date": "1550-55"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1527 Genova d. 1585 Madrid)",
+    "name": "CAMBIASO Luca",
+    "school": "Italian"
+}

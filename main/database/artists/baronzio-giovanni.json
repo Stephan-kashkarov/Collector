@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3230,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/3230.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba1.html",
+            "title": "Scenes from the Life of St Colomba: St Colomba Saved by a Bear",
+            "author": "BARONZIO Giovanni",
+            "technique": "Tempera on wood 53 x 55 cm",
+            "painting_type": "religious",
+            "date": "1340s"
+        },
+        {
+            "index": 3231,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/3231.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba2.html",
+            "title": "St Colomba Saved by a Bear (detail)",
+            "author": "BARONZIO Giovanni",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1340s"
+        },
+        {
+            "index": 3232,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/3232.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baronzio/colomba3.html",
+            "title": "Scenes from the Life of St Colomba: Beheading of St Colomba",
+            "author": "BARONZIO Giovanni",
+            "technique": "Tempera on wood 53 x 55 cm",
+            "painting_type": "religious",
+            "date": "1340s"
+        },
+        {
+            "index": 3233,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/3233.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baronzio/polyptyc.html",
+            "title": "Centrepiece of a Polyptych",
+            "author": "BARONZIO Giovanni",
+            "technique": "Tempera on panel 58 x 31 cm",
+            "painting_type": "religious",
+            "date": "c. 1345"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active ca. 1326 d. ca. 1362 Rimini)",
+    "name": "BARONZIO Giovanni",
+    "school": "Italian"
+}

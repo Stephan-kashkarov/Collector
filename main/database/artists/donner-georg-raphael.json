@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 11918,
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "img": "imgs/art/11918.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/angel.html",
+            "title": "Adoring Angel",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead height 200 cm",
+            "painting_type": "religious",
+            "date": "1733-35"
+        },
+        {
+            "index": 11919,
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "img": "imgs/art/11919.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/apostle.html",
+            "title": "Apostle",
+            "author": "DONNER Georg Raphael",
+            "technique": "Oak-wood stained height 60 cm (without socle)",
+            "painting_type": "religious",
+            "date": "1736"
+        },
+        {
+            "index": 11920,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/11920.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/danube.html",
+            "title": "Danube Well",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead-tin alloy height 337 cm",
+            "painting_type": "mythological",
+            "date": "1737-39"
+        },
+        {
+            "index": 11921,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/11921.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/danube1.html",
+            "title": "Danube Well (detail)",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead",
+            "painting_type": "religious",
+            "date": "1737-39"
+        },
+        {
+            "index": 11922,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/11922.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/danube2.html",
+            "title": "Danube Well (detail)",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead-tin alloy height 337 cm",
+            "painting_type": "mythological",
+            "date": "1737-39"
+        },
+        {
+            "index": 11923,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/11923.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/danube3.html",
+            "title": "Danube Well (detail)",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead-tin alloy height 337 cm",
+            "painting_type": "mythological",
+            "date": "1737-39"
+        },
+        {
+            "index": 11924,
+            "location": "Cathedral Gurk",
+            "img": "imgs/art/11924.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead height 220 cm width 280 cm",
+            "painting_type": "religious",
+            "date": "1740-41"
+        },
+        {
+            "index": 11925,
+            "location": "Cathedral Bratislava",
+            "img": "imgs/art/11925.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/s_martin.html",
+            "title": "Saint Martin",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead height 275 cm",
+            "painting_type": "religious",
+            "date": "1733-35"
+        },
+        {
+            "index": 11926,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/11926.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/donner/venus.html",
+            "title": "Venus in Vulcan's Workshop",
+            "author": "DONNER Georg Raphael",
+            "technique": "Lead 63 x 93 cm",
+            "painting_type": "mythological",
+            "date": "1730s"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1693 Esslingen d. 1741 Vienna)",
+    "name": "DONNER Georg Raphael",
+    "school": "Austrian"
+}

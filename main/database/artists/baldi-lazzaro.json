@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2988,
+            "location": "Private collection",
+            "img": "imgs/art/2988.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baldi/baptism.html",
+            "title": "The Baptism of the Crowds",
+            "author": "BALDI Lazzaro",
+            "technique": "Oil on canvas 83 x 133 cm",
+            "painting_type": "religious",
+            "date": "c. 1675"
+        },
+        {
+            "index": 2989,
+            "location": "Private collection",
+            "img": "imgs/art/2989.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baldi/potiphar.html",
+            "title": "Joseph and Potiphar's Wife",
+            "author": "BALDI Lazzaro",
+            "technique": "Oil on canvas 61 x 74 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1622 Pistoia d. 1703 Roma)",
+    "name": "BALDI Lazzaro",
+    "school": "Italian"
+}

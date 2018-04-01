@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 10534,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/10534.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crivelli/vittore/madonn.html",
+            "title": "Madonna and Child",
+            "author": "CRIVELLI Vittore",
+            "technique": "Tempera on panel 68 x 52 cm",
+            "painting_type": "religious",
+            "date": "c. 1482"
+        },
+        {
+            "index": 10535,
+            "location": "Pushkin Museum Moscow",
+            "img": "imgs/art/10535.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crivelli/vittore/madonna.html",
+            "title": "Madonna with the Child",
+            "author": "CRIVELLI Vittore",
+            "technique": "Tempera on wood 113 x 190 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10536,
+            "location": "Private collection",
+            "img": "imgs/art/10536.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crivelli/vittore/stjerome.html",
+            "title": "St Jerome in the Desert",
+            "author": "CRIVELLI Vittore",
+            "technique": "Oil on panel 49 x 34 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1440 Venezia d. 1501/2 Venezia)",
+    "name": "CRIVELLI Vittore",
+    "school": "Italian"
+}

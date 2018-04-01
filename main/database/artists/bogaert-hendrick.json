@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4846,
+            "location": "Private collectioin",
+            "img": "imgs/art/4846.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bogaer/peasants.html",
+            "title": "Peasants outside an Inn",
+            "author": "BOGAERT Hendrick",
+            "technique": "Oil on panel 46 x 62 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4847,
+            "location": "Private collection",
+            "img": "imgs/art/4847.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bogaer/stillife.html",
+            "title": "Still-Life",
+            "author": "BOGAERT Hendrick",
+            "technique": "Oil on panel 37 x 35 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1626 Amsterdam d. after 1674 Amsterdam)",
+    "name": "BOGAERT Hendrick",
+    "school": "Dutch"
+}

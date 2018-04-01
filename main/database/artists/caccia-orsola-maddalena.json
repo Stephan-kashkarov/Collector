@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6939,
+            "location": "Pinacoteca Malaspina Pavia",
+            "img": "imgs/art/6939.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/orsola/birth_v.html",
+            "title": "Birth of the Virgin",
+            "author": "CACCIA Orsola Maddalena",
+            "technique": "Oil on canvas 164 x 111 cm",
+            "painting_type": "religious",
+            "date": "c. 1635"
+        },
+        {
+            "index": 6940,
+            "location": "Private collection",
+            "img": "imgs/art/6940.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/orsola/stillife.html",
+            "title": "Still-Life",
+            "author": "CACCIA Orsola Maddalena",
+            "technique": "Oil on canvas 37 x 99 cm",
+            "painting_type": "still-life",
+            "date": "c. 1650"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1596 Moncalvo d. 1676 Moncalvo)",
+    "name": "CACCIA Orsola Maddalena",
+    "school": "Italian"
+}

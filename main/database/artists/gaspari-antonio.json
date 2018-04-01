@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 14875,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/14875.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/barbaro.html",
+            "title": "Palazzo Barbaro: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "c. 1694"
+        },
+        {
+            "index": 14876,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/14876.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/colonne.html",
+            "title": "Palazzo Michiel delle Colonne: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1690s"
+        },
+        {
+            "index": 14877,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/14877.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/pesaro1.html",
+            "title": "Ca' Pesaro: Fa\u00e7ade on the Rio delle Due Torri",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1659-1710"
+        },
+        {
+            "index": 14878,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/14878.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/pesaro2.html",
+            "title": "Ca' Pesaro: Fa\u00e7ade on the Rio delle Due Torri",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1659-1710"
+        },
+        {
+            "index": 14879,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/14879.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/tron.html",
+            "title": "Ca' Tron: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1720s"
+        },
+        {
+            "index": 14880,
+            "location": "San Stin Venice",
+            "img": "imgs/art/14880.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/zane.html",
+            "title": "Palazzetto Zane: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1695-97"
+        },
+        {
+            "index": 14881,
+            "location": "Fondamenta del Soccorso Venice",
+            "img": "imgs/art/14881.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/zenobio.html",
+            "title": "Ca' Zenobio: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1690s"
+        },
+        {
+            "index": 14882,
+            "location": "Fondamenta del Soccorso Venice",
+            "img": "imgs/art/14882.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gaspari/zenobio1.html",
+            "title": "Ca' Zenobio: Fa\u00e7ade",
+            "author": "GASPARI Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1690s"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1660 Veneto d. after 1730 Castelguglielmo)",
+    "name": "GASPARI Antonio",
+    "school": "Italian"
+}

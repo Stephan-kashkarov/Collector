@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 3379,
+            "location": "Private collection",
+            "img": "imgs/art/3379.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/agliard1.html",
+            "title": "Agliardi Triptych (left)",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 115 x 163 cm",
+            "painting_type": "still-life",
+            "date": "1665-70"
+        },
+        {
+            "index": 3380,
+            "location": "Private collection",
+            "img": "imgs/art/3380.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/agliard2.html",
+            "title": "Agliardi Triptych (central)",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 115 x 163 cm",
+            "painting_type": "still-life",
+            "date": "1665-70"
+        },
+        {
+            "index": 3381,
+            "location": "Private collection",
+            "img": "imgs/art/3381.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/agliard3.html",
+            "title": "Agliardi Triptych (right)",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 115 x 163 cm",
+            "painting_type": "still-life",
+            "date": "1665-70"
+        },
+        {
+            "index": 3382,
+            "location": "Private collection",
+            "img": "imgs/art/3382.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/boybread.html",
+            "title": "Boy with a Basket of Bread",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 53 x 72 cm",
+            "painting_type": "still-life",
+            "date": "1655-65"
+        },
+        {
+            "index": 3383,
+            "location": "Private collection",
+            "img": "imgs/art/3383.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/kitchen.html",
+            "title": "Kitchen Still-Life",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 73 x 97 cm",
+            "painting_type": "still-life",
+            "date": "1654-56"
+        },
+        {
+            "index": 3384,
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "img": "imgs/art/3384.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/mus_inst.html",
+            "title": "Musical Instruments",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 985 x 147 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 3385,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/3385.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stillif.html",
+            "title": "Still-Life with Musical Instruments",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 97 x 147 cm",
+            "painting_type": "still-life",
+            "date": "c. 1650"
+        },
+        {
+            "index": 3386,
+            "location": "Accademia Carrara Bergamo",
+            "img": "imgs/art/3386.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stillife.html",
+            "title": "Still-life with Musical Instruments",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 115 x 160 cm",
+            "painting_type": "still-life",
+            "date": "c. 1650"
+        },
+        {
+            "index": 3387,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/3387.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stillins.html",
+            "title": "Still-life with Instruments",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 108 x 153 cm",
+            "painting_type": "still-life",
+            "date": "1667-77"
+        },
+        {
+            "index": 3388,
+            "location": "Accademia Carrara Bergamo",
+            "img": "imgs/art/3388.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stillmus.html",
+            "title": "Still-Life with Musical Instruments and a Small Classical Statue",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 86 x 115 cm",
+            "painting_type": "still-life",
+            "date": "c. 1660"
+        },
+        {
+            "index": 3389,
+            "location": "Private collection",
+            "img": "imgs/art/3389.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stilmus1.html",
+            "title": "Still-Life with Musical Instruments",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 98 x 145 cm",
+            "painting_type": "still-life",
+            "date": "1660s"
+        },
+        {
+            "index": 3390,
+            "location": "Private collection",
+            "img": "imgs/art/3390.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bascheni/stilmus2.html",
+            "title": "Still-Life with Musical Instruments in an Interior",
+            "author": "BASCHENIS Evaristo",
+            "technique": "Oil on canvas 116 x 147 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1617 Bergamo d. 1677 Bergamo)",
+    "name": "BASCHENIS Evaristo",
+    "school": "Italian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2631,
+            "location": "Diocesan Museum Valladolid",
+            "img": "imgs/art/2631.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/a/arfe/juan/1vallado.html",
+            "title": "Monstrance",
+            "author": "ARFE Juan de",
+            "technique": "Silver height 200 cm",
+            "painting_type": "religious",
+            "date": "1578-90"
+        },
+        {
+            "index": 2632,
+            "location": "Cathedral Museum \u00c1vila",
+            "img": "imgs/art/2632.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/a/arfe/juan/2avila.html",
+            "title": "Monstrance",
+            "author": "ARFE Juan de",
+            "technique": "Silver",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1535 Le\u00f3n d. 1603 Madrid)",
+    "name": "ARFE Juan de",
+    "school": "Spanish"
+}

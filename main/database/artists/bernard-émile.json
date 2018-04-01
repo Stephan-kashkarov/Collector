@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 4215,
+            "location": "Private collection",
+            "img": "imgs/art/4215.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernarde/breton1.html",
+            "title": "Breton Women in a Meadow",
+            "author": "BERNARD \u00c9mile",
+            "technique": "Oil on canvas 74 x 92 cm",
+            "painting_type": "other",
+            "date": "1888"
+        },
+        {
+            "index": 4216,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/4216.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernarde/breton2.html",
+            "title": "The Harvest (Breton Landscape)",
+            "author": "BERNARD \u00c9mile",
+            "technique": "Oil on canvas 57 x 45 cm",
+            "painting_type": "other",
+            "date": "1888"
+        },
+        {
+            "index": 4217,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/4217.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernarde/madelein.html",
+            "title": "Madeleine in the Forest of Love",
+            "author": "BERNARD \u00c9mile",
+            "technique": "Oil on canvas 137 x 164 cm",
+            "painting_type": "mythological",
+            "date": "1888"
+        },
+        {
+            "index": 4218,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/4218.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernarde/parasols.html",
+            "title": "Breton Women with Parasols",
+            "author": "BERNARD \u00c9mile",
+            "technique": "Oil on canvas 81 x 105 cm",
+            "painting_type": "other",
+            "date": "1892"
+        },
+        {
+            "index": 4219,
+            "location": "\u00d6ffentliche Kunstsammlung Basel",
+            "img": "imgs/art/4219.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernarde/peretang.html",
+            "title": "Portrait of P\u00e8re Tanguy",
+            "author": "BERNARD \u00c9mile",
+            "technique": "Oil on canvas 36 x 31 cm",
+            "painting_type": "portrait",
+            "date": "1887"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1868 Lille d. 1941 Paris)",
+    "name": "BERNARD \u00c9mile",
+    "school": "French"
+}

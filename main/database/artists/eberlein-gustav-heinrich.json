@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13064,
+            "location": "Villa Borghese Rome",
+            "img": "imgs/art/13064.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/eberleix/goethe.html",
+            "title": "Goethe Monument",
+            "author": "EBERLEIN Gustav Heinrich",
+            "technique": "Marble",
+            "painting_type": "portrait",
+            "date": "1904"
+        },
+        {
+            "index": 13065,
+            "location": "Kaiser-Wilhelm-Museum Krefeld",
+            "img": "imgs/art/13065.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/eberleix/kaiser.html",
+            "title": "Kaiser Wilhelm I",
+            "author": "EBERLEIN Gustav Heinrich",
+            "technique": "Stone life-size",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 13066,
+            "location": "Private collection",
+            "img": "imgs/art/13066.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/eberleix/venus.html",
+            "title": "Venus Reprimanding Cupid",
+            "author": "EBERLEIN Gustav Heinrich",
+            "technique": "White marble height 127 cm",
+            "painting_type": "mythological",
+            "date": "1893"
+        },
+        {
+            "index": 13067,
+            "location": "Private collection",
+            "img": "imgs/art/13067.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/e/eberleix/venus1.html",
+            "title": "Venus Reprimanding Cupid (detail)",
+            "author": "EBERLEIN Gustav Heinrich",
+            "technique": "White marble",
+            "painting_type": "mythological",
+            "date": "1893"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1847 Spiekershausen d. 1926 Berlin)",
+    "name": "EBERLEIN Gustav Heinrich",
+    "school": "German"
+}

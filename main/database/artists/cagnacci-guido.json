@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6973,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/6973.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cagnacci/death_c.html",
+            "title": "The Death of Cleopatra",
+            "author": "CAGNACCI Guido",
+            "technique": "Oil on canvas 120 x 158 cm",
+            "painting_type": "mythological",
+            "date": "c. 1660"
+        },
+        {
+            "index": 6974,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/6974.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cagnacci/death_c1.html",
+            "title": "The Death of Cleopatra",
+            "author": "CAGNACCI Guido",
+            "technique": "Oil on canvas 140 x 1595 cm",
+            "painting_type": "mythological",
+            "date": "1658"
+        },
+        {
+            "index": 6975,
+            "location": "Pinacoteca Civica Forli",
+            "img": "imgs/art/6975.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cagnacci/flowers.html",
+            "title": "Flowers in a Flask",
+            "author": "CAGNACCI Guido",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "c. 1645"
+        },
+        {
+            "index": 6976,
+            "location": "Norton Simon Museum of Art Pasadena",
+            "img": "imgs/art/6976.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cagnacci/martha.html",
+            "title": "Martha Rebuking Mary for her Vanity",
+            "author": "CAGNACCI Guido",
+            "technique": "Oil on canvas 229 x 266 cm",
+            "painting_type": "religious",
+            "date": "after 1660"
+        },
+        {
+            "index": 6977,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/6977.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cagnacci/susanna.html",
+            "title": "Susanna and the Elders",
+            "author": "CAGNACCI Guido",
+            "technique": "Oil on canvas 1445 x 173 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1601 Sant'Arcangelo di Romagna d. 1682 Wien)",
+    "name": "CAGNACCI Guido",
+    "school": "Italian"
+}

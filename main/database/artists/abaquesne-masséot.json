@@ -1,56 +1,56 @@
 {
-    "name": "ABAQUESNE Mass\u00e9ot",
-    "life": "(b. ca 1500 Cherbourg d. 1564 Sotteville-l\u00e8s-Rouen)",
-    "school": "French",
-    "timeframe": "1501-1550",
     "art": [
         {
-            "title": "Albarello",
-            "date": "c. 1545",
-            "technique": "Maiolica",
-            "location": "Mus\u00e9e des Beaux-Arts Rouen",
-            "url": "https://www.wga.hu/html/a/abaquesn/albarell.html",
-            "form": "ceramics",
-            "painting_type": "other",
             "index": 9,
+            "location": "Mus\u00e9e des Beaux-Arts Rouen",
+            "img": "imgs/art/9.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/a/abaquesn/albarell.html",
+            "title": "Albarello",
             "author": "ABAQUESNE Mass\u00e9ot",
-            "img": "imgs/art/albarello.jpg"
+            "technique": "Maiolica",
+            "painting_type": "other",
+            "date": "c. 1545"
         },
         {
-            "title": "Ceramic Floor",
-            "date": "1542",
-            "technique": "Ceramics",
-            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
-            "url": "https://www.wga.hu/html/a/abaquesn/floor1.html",
-            "form": "ceramics",
-            "painting_type": "other",
             "index": 10,
-            "author": "ABAQUESNE Mass\u00e9ot",
-            "img": "imgs/art/ceramic-floor.jpg"
-        },
-        {
-            "title": "Ceramic Floor",
-            "date": "1557",
-            "technique": "Ceramics",
-            "location": "Mus\u00e9e du Louvre Paris",
-            "url": "https://www.wga.hu/html/a/abaquesn/floor2.html",
-            "form": "ceramics",
-            "painting_type": "other",
-            "index": 11,
-            "author": "ABAQUESNE Mass\u00e9ot",
-            "img": "imgs/art/ceramic-floor.jpg"
-        },
-        {
-            "title": "The Flood",
-            "date": "-",
-            "technique": "Ceramic mural composition",
             "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
-            "url": "https://www.wga.hu/html/a/abaquesn/theflood.html",
+            "img": "imgs/art/10.jpg",
             "form": "ceramics",
-            "painting_type": "religious",
-            "index": 12,
+            "url": "https://www.wga.hu/html/a/abaquesn/floor1.html",
+            "title": "Ceramic Floor",
             "author": "ABAQUESNE Mass\u00e9ot",
-            "img": "imgs/art/the-flood.jpg"
+            "technique": "Ceramics",
+            "painting_type": "other",
+            "date": "1542"
+        },
+        {
+            "index": 11,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/a/abaquesn/floor2.html",
+            "title": "Ceramic Floor",
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "technique": "Ceramics",
+            "painting_type": "other",
+            "date": "1557"
+        },
+        {
+            "index": 12,
+            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
+            "img": "imgs/art/12.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/a/abaquesn/theflood.html",
+            "title": "The Flood",
+            "author": "ABAQUESNE Mass\u00e9ot",
+            "technique": "Ceramic mural composition",
+            "painting_type": "religious",
+            "date": "-"
         }
-    ]
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca 1500 Cherbourg d. 1564 Sotteville-l\u00e8s-Rouen)",
+    "name": "ABAQUESNE Mass\u00e9ot",
+    "school": "French"
 }

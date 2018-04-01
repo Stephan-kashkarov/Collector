@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 16580,
+            "location": "National Gallery London",
+            "img": "imgs/art/16580.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/oriolo/leonello.html",
+            "title": "Leonello d'Este",
+            "author": "GIOVANNI DA ORIOLO",
+            "technique": "Egg tempera on wood 58 x 40 cm",
+            "painting_type": "portrait",
+            "date": "c. 1447"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. Oriolo nr Faenza active 1439 d. ca. 1474 Faenza)",
+    "name": "GIOVANNI DA ORIOLO",
+    "school": "Italian"
+}

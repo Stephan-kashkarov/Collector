@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14405,
+            "location": "Private collection",
+            "img": "imgs/art/14405.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fratin/ape_bask.html",
+            "title": "Ape with Basket",
+            "author": "FRATIN Christophe",
+            "technique": "Bronze sand cast 20 x 15 cm",
+            "painting_type": "still-life",
+            "date": "1840s"
+        },
+        {
+            "index": 14406,
+            "location": "Private collection",
+            "img": "imgs/art/14406.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fratin/bull_cow.html",
+            "title": "Bull and Cow",
+            "author": "FRATIN Christophe",
+            "technique": "Sand cast bronze 24 x 34 cm",
+            "painting_type": "other",
+            "date": "c. 1840"
+        },
+        {
+            "index": 14407,
+            "location": "Private collection",
+            "img": "imgs/art/14407.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fratin/horse.html",
+            "title": "Aimable",
+            "author": "FRATIN Christophe",
+            "technique": "Bronze 28 x 40 x 17 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 14408,
+            "location": "Private collection",
+            "img": "imgs/art/14408.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fratin/horses.html",
+            "title": "Two Horses Scene from a Stud Farm",
+            "author": "FRATIN Christophe",
+            "technique": "Bronze 35 x 39 cm",
+            "painting_type": "other",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1801 Metz d. 1864 Le Raincy)",
+    "name": "FRATIN Christophe",
+    "school": "French"
+}

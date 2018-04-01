@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 1137,
+            "location": "San Petronio Bologna",
+            "img": "imgs/art/1137.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni1.html",
+            "title": "Interior view",
+            "author": "ANTONIO DI VINCENZO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1390"
+        },
+        {
+            "index": 1138,
+            "location": "San Petronio Bologna",
+            "img": "imgs/art/1138.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni2.html",
+            "title": "Interior view",
+            "author": "ANTONIO DI VINCENZO",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1390"
+        },
+        {
+            "index": 1139,
+            "location": "San Petronio Bologna",
+            "img": "imgs/art/1139.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni3.html",
+            "title": "Interior view",
+            "author": "ANTONIO DI VINCENZO",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1390"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(b. ca. 1350 Bologna d. ca. 1402 Bologna)",
+    "name": "ANTONIO DI VINCENZO",
+    "school": "Italian"
+}

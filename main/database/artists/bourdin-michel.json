@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5772,
+            "location": "Basilica of Notre-Dame Cl\u00e9ry-Saint-Andr\u00e9 (Loiret)",
+            "img": "imgs/art/5772.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bourdin/tonb1.html",
+            "title": "Tomb of Louis XI",
+            "author": "BOURDIN Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "'622"
+        },
+        {
+            "index": 5773,
+            "location": "Basilica of Notre-Dame Cl\u00e9ry-Saint-Andr\u00e9 (Loiret)",
+            "img": "imgs/art/5773.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bourdin/tonb2.html",
+            "title": "Tomb of Louis XI",
+            "author": "BOURDIN Michel",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "'622"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1585 Orl\u00e9ans d. 1645 Paris)",
+    "name": "BOURDIN Michel",
+    "school": "French"
+}

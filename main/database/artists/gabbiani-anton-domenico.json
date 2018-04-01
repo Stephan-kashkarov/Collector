@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 14606,
+            "location": "Palazzo Medici Riccardi Florence",
+            "img": "imgs/art/14606.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/1medici1.html",
+            "title": "Allegory of the Fine Arts under the Protection of Wisdom and Nature",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1691-92"
+        },
+        {
+            "index": 14607,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/14607.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gabbiani/1medici2.html",
+            "title": "Fall of Icarus",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Red and white crayon 430 x 365 mm",
+            "painting_type": "mythological",
+            "date": "1691-92"
+        },
+        {
+            "index": 14608,
+            "location": "Villa Medici Poggio a Caiano",
+            "img": "imgs/art/14608.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/2caiano.html",
+            "title": "Ceiling decoration",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1698"
+        },
+        {
+            "index": 14609,
+            "location": "Galleria dell'Accademia Florence",
+            "img": "imgs/art/14609.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/3musici.html",
+            "title": "Portrait of Three Musicians of the Medici Court",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Oil on canvas 141 x 208 cm",
+            "painting_type": "portrait",
+            "date": "c. 1687"
+        },
+        {
+            "index": 14610,
+            "location": "Galleria dell'Accademia Florence",
+            "img": "imgs/art/14610.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/3musici1.html",
+            "title": "Portrait of Three Musicians of the Medici Court (detail)",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "c. 1687"
+        },
+        {
+            "index": 14611,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14611.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/4servant.html",
+            "title": "Portrait of Four Servants of the Medici Court",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Oil on canvas 205 x 140 cm",
+            "painting_type": "portrait",
+            "date": "c. 1684"
+        },
+        {
+            "index": 14612,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14612.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gabbiani/portrait.html",
+            "title": "Portrait of Anna Maria Luisa de' Medici as a Young Woman",
+            "author": "GABBIANI Anton Domenico",
+            "technique": "Oil on canvas 96 x 87 cm",
+            "painting_type": "portrait",
+            "date": "c. 1685"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1652 Firenze d. 1726 Firenze)",
+    "name": "GABBIANI Anton Domenico",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5793,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/5793.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boursse/dutchint.html",
+            "title": "Dutch Interior with Woman Sewing",
+            "author": "BOURSSE Esaias",
+            "technique": "Oil on canvas 52 x 59 cm",
+            "painting_type": "interior",
+            "date": "c. 1660"
+        },
+        {
+            "index": 5794,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5794.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boursse/interior.html",
+            "title": "Interior with a Woman at a Spinning Wheel",
+            "author": "BOURSSE Esaias",
+            "technique": "Oil on canvas 60 x 49 cm",
+            "painting_type": "genre",
+            "date": "1661"
+        },
+        {
+            "index": 5795,
+            "location": "Private collection",
+            "img": "imgs/art/5795.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boursse/oldwoman.html",
+            "title": "Interior with an Old Woman at a Spinning Wheel",
+            "author": "BOURSSE Esaias",
+            "technique": "Oil on canvas 47 x 51 cm",
+            "painting_type": "genre",
+            "date": "1667"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1631 Amsterdam d. 1672 at sea)",
+    "name": "BOURSSE Esaias",
+    "school": "Dutch"
+}

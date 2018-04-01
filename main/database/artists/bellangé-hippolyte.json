@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3709,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/3709.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellang/battlesc.html",
+            "title": "Battle Scene",
+            "author": "BELLANG\u00c9 Hippolyte",
+            "technique": "Oil on canvas 38 x 48 cm",
+            "painting_type": "other",
+            "date": "c. 1825"
+        },
+        {
+            "index": 3710,
+            "location": "Private collection",
+            "img": "imgs/art/3710.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellang/napoleon.html",
+            "title": "Napoleon in Wagram",
+            "author": "BELLANG\u00c9 Hippolyte",
+            "technique": "Oil on canvas 57 x 73 cm",
+            "painting_type": "historical",
+            "date": "1841"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1800 Paris d. 1866 Paris)",
+    "name": "BELLANG\u00c9 Hippolyte",
+    "school": "French"
+}

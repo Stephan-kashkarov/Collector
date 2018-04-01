@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3705,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/3705.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belin/flowers.html",
+            "title": "Flowers in a Gold Vase Bust of Louis XIV Horn of Plenty and Armour",
+            "author": "BELIN DE FONTENAY Jean-Baptiste",
+            "technique": "Oil on canvas 190 x 162 cm",
+            "painting_type": "still-life",
+            "date": "1687"
+        },
+        {
+            "index": 3706,
+            "location": "Private collection",
+            "img": "imgs/art/3706.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belin/stillife.html",
+            "title": "Still-Life of Flowers",
+            "author": "BELIN DE FONTENAY Jean-Baptiste",
+            "technique": "Oil on canvas 65 x 50 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1653 Caen d. 1715 Paris)",
+    "name": "BELIN DE FONTENAY Jean-Baptiste",
+    "school": "French"
+}

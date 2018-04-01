@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 994,
+            "location": "Private collection",
+            "img": "imgs/art/994.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/angellis/company.html",
+            "title": "Musical Company in an Elegant Interior",
+            "author": "ANGELLIS Pieter",
+            "technique": "Oil on canvas 58 x 49 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 995,
+            "location": "Mus\u00e9e des Beaux-Arts Rennes",
+            "img": "imgs/art/995.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/angellis/scene.html",
+            "title": "Scene in a Court of Inn",
+            "author": "ANGELLIS Pieter",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1704"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1685 Dunkerque d. 1734 Rennes)",
+    "name": "ANGELLIS Pieter",
+    "school": "Flemish"
+}

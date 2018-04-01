@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 1031,
+            "location": "Wadsworth Atheneum Hartford",
+            "img": "imgs/art/1031.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anquetin/clichy.html",
+            "title": "Avenue de Clichy - Five O'Clock in the Evening",
+            "author": "ANQUETIN. Louis",
+            "technique": "Oil on canvas 69 x 54 cm",
+            "painting_type": "landscape",
+            "date": "1887"
+        },
+        {
+            "index": 1032,
+            "location": "Tate Gallery London",
+            "img": "imgs/art/1032.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anquetin/reading.html",
+            "title": "Girl Reading a Newspaper",
+            "author": "ANQUETIN. Louis",
+            "technique": "Pastel on paper on card 54 x 44 cm",
+            "painting_type": "genre",
+            "date": "1890"
+        },
+        {
+            "index": 1033,
+            "location": "Private collection",
+            "img": "imgs/art/1033.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anquetin/theatre.html",
+            "title": "The Theatre Foyer",
+            "author": "ANQUETIN. Louis",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1892"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1861 \u00c9tr\u00e9pagny nr Gisors d. 1932 Paris)",
+    "name": "ANQUETIN. Louis",
+    "school": "French"
+}

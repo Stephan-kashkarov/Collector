@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13972,
+            "location": "Arc de Triomphe du Carrousel Paris",
+            "img": "imgs/art/13972.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontaine/carrouse.html",
+            "title": "General view",
+            "author": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1803"
+        },
+        {
+            "index": 13973,
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "img": "imgs/art/13973.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontaine/malmais1.html",
+            "title": "Bedroom of Napoleon's Wife Josephine",
+            "author": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1803"
+        },
+        {
+            "index": 13974,
+            "location": "Ch\u00e2teau Malmaison near Paris",
+            "img": "imgs/art/13974.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontaine/malmais2.html",
+            "title": "Library",
+            "author": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1803"
+        },
+        {
+            "index": 13975,
+            "location": "Rue de Rivoli Paris",
+            "img": "imgs/art/13975.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontaine/rivoli.html",
+            "title": "General view",
+            "author": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1802"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1762 Cergy d. 1853 Paris)",
+    "name": "FONTAINE Pierre-Fran\u00e7ois-L\u00e9onard",
+    "school": "French"
+}

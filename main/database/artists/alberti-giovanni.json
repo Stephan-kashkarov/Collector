@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 227,
+            "location": "Palazzo Pontifici Vatican",
+            "img": "imgs/art/227.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alberti1/giovanni/ceiling.html",
+            "title": "Ceiling decoration",
+            "author": "ALBERTI Giovanni",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1596-1602"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1558 Borgo San Sepolcro d. 1601 Roma)",
+    "name": "ALBERTI Giovanni",
+    "school": "Italian"
+}

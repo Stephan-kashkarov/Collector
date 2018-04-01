@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2633,
+            "location": "State Tretyakov Gallery Moscow",
+            "img": "imgs/art/2633.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/argunov/peasant.html",
+            "title": "Portrait of an Unknown Peasant",
+            "author": "ARGUNOV Ivan Petrovich",
+            "technique": "Oil on canvas 67 x 54 cm",
+            "painting_type": "portrait",
+            "date": "1784"
+        },
+        {
+            "index": 2634,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/2634.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/argunov/port_wom.html",
+            "title": "Portrait of a Woman in a Blue Dress",
+            "author": "ARGUNOV Ivan Petrovich",
+            "technique": "Oil on canvas 60 x 45 cm",
+            "painting_type": "portrait",
+            "date": "1760"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1729 St. Petersburg d. 1802 Moscow)",
+    "name": "ARGUNOV Ivan Petrovich",
+    "school": "Russian"
+}

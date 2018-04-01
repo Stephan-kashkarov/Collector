@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13130,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/13130.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/elsasser/wedding1.html",
+            "title": "Kolowrat Wedding",
+            "author": "ELS\u00c4SSER Sigmund",
+            "technique": "Copperplate etching with watercolour on paper",
+            "painting_type": "historical",
+            "date": "1580"
+        },
+        {
+            "index": 13131,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/13131.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/elsasser/wedding2.html",
+            "title": "Wedding Festival Book of Archduke Ferdinand II: Neptune",
+            "author": "ELS\u00c4SSER Sigmund",
+            "technique": "Copperplate etching with watercolour on paper 430 x 535 mm",
+            "painting_type": "historical",
+            "date": "1582"
+        },
+        {
+            "index": 13132,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/13132.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/elsasser/wedding3.html",
+            "title": "Wedding Festival Book of Archduke Ferdinand II: Mercury and Carriage",
+            "author": "ELS\u00c4SSER Sigmund",
+            "technique": "Copperplate etching with watercolour on paper 430 x 545 mm",
+            "painting_type": "historical",
+            "date": "1582"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(d. ca. 1587)",
+    "name": "ELS\u00c4SSER Sigmund",
+    "school": "Austrian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1034,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/1034.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ansaldo/allegory.html",
+            "title": "Allegory of the Crowning of Ferdinando II de' Medici",
+            "author": "ANSALDO Giovanni Andrea",
+            "technique": "Oil on canvas 106 x 97 cm",
+            "painting_type": "mythological",
+            "date": "1629"
+        },
+        {
+            "index": 1035,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/1035.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ansaldo/egypt.html",
+            "title": "The Flight into Egypt",
+            "author": "ANSALDO Giovanni Andrea",
+            "technique": "Oil on canvas 170 x 127 cm",
+            "painting_type": "religious",
+            "date": "1620s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1584 Voltri d. 1638 Genova)",
+    "name": "ANSALDO Giovanni Andrea",
+    "school": "Italian"
+}

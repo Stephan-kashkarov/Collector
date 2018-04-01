@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 9149,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/9149.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/clouet/jean/dauphin.html",
+            "title": "The Dauphin Fran\u00e7ois Son of Fran\u00e7ois I",
+            "author": "CLOUET Jean",
+            "technique": "Oil on panel 16 x 13 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9150,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9150.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/clouet/jean/francbap.html",
+            "title": "Portrait of Fran\u00e7ois I as St John the Baptist",
+            "author": "CLOUET Jean",
+            "technique": "Oil on wood 96 x 79 cm",
+            "painting_type": "portrait",
+            "date": "1518"
+        },
+        {
+            "index": 9151,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9151.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/clouet/jean/francois.html",
+            "title": "Portrait of Fran\u00e7ois I King of France",
+            "author": "CLOUET Jean",
+            "technique": "Wood 96 x 74 cm",
+            "painting_type": "portrait",
+            "date": "1525-30"
+        },
+        {
+            "index": 9152,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9152.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/clouet/jean/g_bude.html",
+            "title": "Guillaume Bud\u00e9",
+            "author": "CLOUET Jean",
+            "technique": "Oil on wood 397 x 343 cm",
+            "painting_type": "portrait",
+            "date": "c. 1536"
+        },
+        {
+            "index": 9153,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/9153.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/clouet/jean/guise.html",
+            "title": "Portrait of Claude of Lorraine Duke of Guise",
+            "author": "CLOUET Jean",
+            "technique": "Oil on wood 26 x 26 cm",
+            "painting_type": "portrait",
+            "date": "1528-30"
+        },
+        {
+            "index": 9154,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9154.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/clouet/jean/polisy.html",
+            "title": "Portrait of Jean de Dinteville Seigneur de Polisy",
+            "author": "CLOUET Jean",
+            "technique": "Chalk 251 x 19 cm",
+            "painting_type": "portrait",
+            "date": "c. 1533"
+        },
+        {
+            "index": 9155,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9155.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/clouet/jean/portrai1.html",
+            "title": "Portrait of an Unknown Man",
+            "author": "CLOUET Jean",
+            "technique": "Chalk drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9156,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9156.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/clouet/jean/portrai2.html",
+            "title": "Madame de Lautrec",
+            "author": "CLOUET Jean",
+            "technique": "Chalk drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9157,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9157.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/clouet/jean/portrai3.html",
+            "title": "Man with a Petrarch",
+            "author": "CLOUET Jean",
+            "technique": "Chalk drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9158,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9158.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/clouet/jean/portrai4.html",
+            "title": "Jean de la Barre",
+            "author": "CLOUET Jean",
+            "technique": "Black and red chalk 284 x 200 mm",
+            "painting_type": "portrait",
+            "date": "c. 1520"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1485/90 Bruxelles d. 1541 Paris)",
+    "name": "CLOUET Jean",
+    "school": "French"
+}

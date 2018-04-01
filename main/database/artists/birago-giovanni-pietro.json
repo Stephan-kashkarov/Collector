@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4618,
+            "location": "British Library London",
+            "img": "imgs/art/4618.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/birago/1sforza.html",
+            "title": "Sforza Hours",
+            "author": "BIRAGO Giovanni Pietro",
+            "technique": "Manuscript (Add. Mss. 34294 45722 62997) 131 x 93 mm",
+            "painting_type": "religious",
+            "date": "c. 1490 1517-21"
+        },
+        {
+            "index": 4619,
+            "location": "British Library London",
+            "img": "imgs/art/4619.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/birago/2sforza.html",
+            "title": "Sforza Hours",
+            "author": "BIRAGO Giovanni Pietro",
+            "technique": "Manuscript (Add. Mss. 34294 45722 62997) 131 x 93 mm",
+            "painting_type": "religious",
+            "date": "c. 1490 1517-21"
+        },
+        {
+            "index": 4620,
+            "location": "Biblioteca Trivulziana Milan",
+            "img": "imgs/art/4620.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/birago/3latin.html",
+            "title": "Latin Grammar Book for Maximilian Sforza",
+            "author": "BIRAGO Giovanni Pietro",
+            "technique": "Manuscript (Ms. 2167) 275 x 180 mm",
+            "painting_type": "other",
+            "date": "1496-99"
+        },
+        {
+            "index": 4621,
+            "location": "Biblioteca Trivulziana Milan",
+            "img": "imgs/art/4621.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/birago/4latin.html",
+            "title": "Latin Grammar Book for Maximilian Sforza",
+            "author": "BIRAGO Giovanni Pietro",
+            "technique": "Manuscript (Ms. 2167) 275 x 180 mm",
+            "painting_type": "other",
+            "date": "1496-99"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1471-1513 in Milan)",
+    "name": "BIRAGO Giovanni Pietro",
+    "school": "Italian"
+}

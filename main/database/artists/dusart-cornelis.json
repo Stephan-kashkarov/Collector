@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 12450,
+            "location": "Private collection",
+            "img": "imgs/art/12450.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dusart/fishmong.html",
+            "title": "The Fishmonger",
+            "author": "DUSART Cornelis",
+            "technique": "Oil on canvas 48 x 40 cm",
+            "painting_type": "genre",
+            "date": "1680s"
+        },
+        {
+            "index": 12451,
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "img": "imgs/art/12451.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dusart/raisedgl.html",
+            "title": "Young Man with a Raised Glass",
+            "author": "DUSART Cornelis",
+            "technique": "Chalk on blue-gray paper 246 x 146 mm",
+            "painting_type": "genre",
+            "date": "1680s"
+        },
+        {
+            "index": 12452,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/12452.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dusart/s_tavern.html",
+            "title": "Tavern Scene",
+            "author": "DUSART Cornelis",
+            "technique": "Oil on canvas 683 x 57 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12453,
+            "location": "Private collection",
+            "img": "imgs/art/12453.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dusart/skittle.html",
+            "title": "Peasants Playing Skittles before an Inn",
+            "author": "DUSART Cornelis",
+            "technique": "Oil on canvas 36 x 44 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12454,
+            "location": "Private collection",
+            "img": "imgs/art/12454.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dusart/skittle1.html",
+            "title": "Peasants Playing Skittles before an Inn (detail)",
+            "author": "DUSART Cornelis",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12455,
+            "location": "Frans Halsmuseum Haarlem",
+            "img": "imgs/art/12455.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dusart/villagef.html",
+            "title": "Village Feast",
+            "author": "DUSART Cornelis",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1684"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1660 Haarlem d. 1704 Haarlem)",
+    "name": "DUSART Cornelis",
+    "school": "Dutch"
+}

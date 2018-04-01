@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 7895,
+            "location": "Christ Church Picture Gallery Oxford",
+            "img": "imgs/art/7895.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/anchises.html",
+            "title": "Anchises",
+            "author": "CARRACCI Agostino",
+            "technique": "Pen and ink over red chalk 370 x 235 mm",
+            "painting_type": "mythological",
+            "date": "1590s"
+        },
+        {
+            "index": 7896,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/7896.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/hairy.html",
+            "title": "Hairy Harry Mad Peter and Tiny Amon",
+            "author": "CARRACCI Agostino",
+            "technique": "Oil on canvas 101 x 133 cm",
+            "painting_type": "genre",
+            "date": "1598-1600"
+        },
+        {
+            "index": 7897,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/7897.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/hairy1.html",
+            "title": "Hairy Harry Mad Peter and Tiny Amon (detail)",
+            "author": "CARRACCI Agostino",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1598-1600"
+        },
+        {
+            "index": 7898,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/7898.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/headfaun.html",
+            "title": "Head of a Faun in a Concave (roundel)",
+            "author": "CARRACCI Agostino",
+            "technique": "Pen and brown ink on laid paper 181 x 187 mm",
+            "painting_type": "mythological",
+            "date": "c. 1595"
+        },
+        {
+            "index": 7899,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/7899.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/landscap.html",
+            "title": "Landscape with Bathers",
+            "author": "CARRACCI Agostino",
+            "technique": "Oil on canvas 40 x 49 cm",
+            "painting_type": "landscape",
+            "date": "1597-99"
+        },
+        {
+            "index": 7900,
+            "location": "Private collection",
+            "img": "imgs/art/7900.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/magdalen.html",
+            "title": "The Penitent Magdalen",
+            "author": "CARRACCI Agostino",
+            "technique": "Oil on copper 38 x 29 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7901,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/7901.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/pala_giu.html",
+            "title": "The Holy Family with Sts Anthony Abbot Catherine and the Infant St John",
+            "author": "CARRACCI Agostino",
+            "technique": "Copper engraving 488 x 316 mm",
+            "painting_type": "religious",
+            "date": "1582"
+        },
+        {
+            "index": 7902,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/7902.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/port_wom.html",
+            "title": "Portrait of a Woman",
+            "author": "CARRACCI Agostino",
+            "technique": "Red chalk over traces of black chalk 347 x 248 mm",
+            "painting_type": "portrait",
+            "date": "1597-99"
+        },
+        {
+            "index": 7903,
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "img": "imgs/art/7903.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/thregrac.html",
+            "title": "The Three Graces",
+            "author": "CARRACCI Agostino",
+            "technique": "Engraving",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 7904,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/7904.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/carracci/agostino/tiziano.html",
+            "title": "Titian",
+            "author": "CARRACCI Agostino",
+            "technique": "Copperplate engraving 327 x 236 mm",
+            "painting_type": "portrait",
+            "date": "1587"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1557 Bologna d. 1602 Bologna)",
+    "name": "CARRACCI Agostino",
+    "school": "Italian"
+}

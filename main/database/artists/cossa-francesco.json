@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 9732,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9732.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/1march/1march_1.html",
+            "title": "Triumph of Minerva (detail of the right side)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9733,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9733.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_0.html",
+            "title": "Allegory of April: Triumph of Venus (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9734,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9734.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_01.html",
+            "title": "Allegory of April: Triumph of Venus (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9735,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9735.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_02.html",
+            "title": "Allegory of April: Triumph of Venus (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9736,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9736.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_5.html",
+            "title": "Allegory of April: Triumph of Venus (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1470"
+        },
+        {
+            "index": 9737,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9737.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_6.html",
+            "title": "Allegory of April (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9738,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9738.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_7.html",
+            "title": "Allegory of April (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 9739,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/9739.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cossa/schifano/2april/2april_8.html",
+            "title": "Allegory of April (detail)",
+            "author": "COSSA Francesco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1435 Ferrara d. ca. 1477 Bologna)",
+    "name": "COSSA Francesco",
+    "school": "Italian"
+}

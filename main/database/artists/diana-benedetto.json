@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11495,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/11495.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/diana/miracl8.html",
+            "title": "Miracle of the Relic of the Holy Cross",
+            "author": "DIANA Benedetto",
+            "technique": "Tempera on canvas 365 x 147 cm",
+            "painting_type": "religious",
+            "date": "1505-10"
+        },
+        {
+            "index": 11496,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/11496.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/diana/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "DIANA Benedetto",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11497,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/11497.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/diana/virgin_c.html",
+            "title": "Virgin and Child Enthroned with Saints",
+            "author": "DIANA Benedetto",
+            "technique": "Panel 200 x 230 cm",
+            "painting_type": "religious",
+            "date": "c. 1515"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1460 Venezia d. 1525 Venezia)",
+    "name": "DIANA Benedetto",
+    "school": "Italian"
+}

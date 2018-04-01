@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7103,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/7103.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/campagno/antique.html",
+            "title": "Mountainous Landscape with Antique Ruins",
+            "author": "CAMPAGNOLA Domenico",
+            "technique": "Drawing",
+            "painting_type": "landscape",
+            "date": "1531-33"
+        },
+        {
+            "index": 7104,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7104.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/campagno/innocent.html",
+            "title": "Massacre of the Innocents",
+            "author": "CAMPAGNOLA Domenico",
+            "technique": "Woodcut printed from 2 blocks 512 x 321 mm",
+            "painting_type": "religious",
+            "date": "1517"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1500 Venezia d. 1564 Padova)",
+    "name": "CAMPAGNOLA Domenico",
+    "school": "Italian"
+}

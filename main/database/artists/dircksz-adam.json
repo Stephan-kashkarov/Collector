@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11550,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11550.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dircksz/pray_nut.html",
+            "title": "Prayer-nut",
+            "author": "DIRCKSZ Adam",
+            "technique": "Boxwood diameter 46 cm",
+            "painting_type": "other",
+            "date": "c. 1500"
+        },
+        {
+            "index": 11551,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/11551.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dircksz/triptych.html",
+            "title": "Triptych with the Passion of Christ",
+            "author": "DIRCKSZ Adam",
+            "technique": "Wood 14 x 12 cm",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active around 1500 in southern Netherlands)",
+    "name": "DIRCKSZ Adam",
+    "school": "Flemish"
+}

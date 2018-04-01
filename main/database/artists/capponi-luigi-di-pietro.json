@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7434,
+            "location": "Musei Vaticani Vatican",
+            "img": "imgs/art/7434.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/capponi/2angels.html",
+            "title": "Two Angels",
+            "author": "CAPPONI Luigi di Pietro",
+            "technique": "Marble 116 x 42 cm (each)",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        },
+        {
+            "index": 7435,
+            "location": "San Gregorio Magno Rome",
+            "img": "imgs/art/7435.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/capponi/bonsi.html",
+            "title": "Monument ot Antonio and Michele Bonsi (detail)",
+            "author": "CAPPONI Luigi di Pietro",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1485-1500 in Rome)",
+    "name": "CAPPONI Luigi di Pietro",
+    "school": "Italian"
+}

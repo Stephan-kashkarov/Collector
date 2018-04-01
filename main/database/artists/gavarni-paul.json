@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15086,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/15086.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gavarni/caricatu.html",
+            "title": "What a Dreadful Salon",
+            "author": "GAVARNI Paul",
+            "technique": "Lithograph",
+            "painting_type": "other",
+            "date": "1839"
+        },
+        {
+            "index": 15087,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/15087.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gavarni/goncourt.html",
+            "title": "Portrait of Edmond and Jules de Goncourt",
+            "author": "GAVARNI Paul",
+            "technique": "Drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 15088,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/15088.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gavarni/selfport.html",
+            "title": "Self-Portrait",
+            "author": "GAVARNI Paul",
+            "technique": "Drawing",
+            "painting_type": "portrait",
+            "date": "1842"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. ca. 1804 Paris d. 1866 Paris)",
+    "name": "GAVARNI Paul",
+    "school": "French"
+}

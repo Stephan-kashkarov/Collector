@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13121,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13121.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eliaerts/bouquet.html",
+            "title": "Bouquet of Flowers in a Sculpted Vase",
+            "author": "ELIAERTS Jan Frans",
+            "technique": "Oil on canvas 90 x 71 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 13122,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13122.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eliaerts/bouquet1.html",
+            "title": "Bouquet of Flowers in a Sculpted Vase (detail)",
+            "author": "ELIAERTS Jan Frans",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1761 Deurne d. 1848 Antwerpen)",
+    "name": "ELIAERTS Jan Frans",
+    "school": "Belgian"
+}

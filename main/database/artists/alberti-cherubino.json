@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 223,
+            "location": "British Museum London",
+            "img": "imgs/art/223.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/fame.html",
+            "title": "Fame",
+            "author": "ALBERTI Cherubino",
+            "technique": "Engraving. 320 x 170 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 224,
+            "location": "British Museum London",
+            "img": "imgs/art/224.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/sistine.html",
+            "title": "Part of the Sistine Chapel Ceiling",
+            "author": "ALBERTI Cherubino",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1577"
+        },
+        {
+            "index": 225,
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "img": "imgs/art/225.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/virgin_c.html",
+            "title": "Madonna and Child in Glory with Angels",
+            "author": "ALBERTI Cherubino",
+            "technique": "Engraving. 280 x 190 mm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 226,
+            "location": "Sala Clementina Vatican Palace Rome",
+            "img": "imgs/art/226.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alberti1/cherubin/virtues.html",
+            "title": "The Cardinal Virtues",
+            "author": "ALBERTI Cherubino",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1553 Borgo San Sepolcro d. 1615 Roma)",
+    "name": "ALBERTI Cherubino",
+    "school": "Italian"
+}

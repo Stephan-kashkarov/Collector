@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3179,
+            "location": "Benedictine Abbey Farfa Latium",
+            "img": "imgs/art/3179.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barendsz/lastjudg.html",
+            "title": "The Last Judgment",
+            "author": "BARENDSZ. Dirck",
+            "technique": "Oil on plaster",
+            "painting_type": "religious",
+            "date": "1561"
+        },
+        {
+            "index": 3180,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/3180.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barendsz/lastsupp.html",
+            "title": "The Last Supper",
+            "author": "BARENDSZ. Dirck",
+            "technique": "Grisaille in oil on paper 25 20 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1534 Amsterdam d. 1592 Amsterdam)",
+    "name": "BARENDSZ. Dirck",
+    "school": "Dutch"
+}

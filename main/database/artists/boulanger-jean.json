@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5740,
+            "location": "Palazzo Ducale Sassuolo",
+            "img": "imgs/art/5740.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boulang/sassuol1.html",
+            "title": "Galleria di Bacco",
+            "author": "BOULANGER Jean",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1650-52"
+        },
+        {
+            "index": 5741,
+            "location": "Palazzo Ducale Sassuolo",
+            "img": "imgs/art/5741.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boulang/sassuol2.html",
+            "title": "The Meeting of Cleopatra and Mark Antony",
+            "author": "BOULANGER Jean",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "after 1638"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1606 Troyes d. 1660 Modena)",
+    "name": "BOULANGER Jean",
+    "school": "French"
+}

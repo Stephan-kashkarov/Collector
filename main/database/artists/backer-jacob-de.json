@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 2910,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/2910.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backerde/allegory.html",
+            "title": "Allegory of the Three Ages of Man",
+            "author": "BACKER Jacob de",
+            "technique": "Oil on panel 100 x 123 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 2911,
+            "location": "Private collection",
+            "img": "imgs/art/2911.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backerde/findmose.html",
+            "title": "The Finding of Moses",
+            "author": "BACKER Jacob de",
+            "technique": "Oil on panel 96 x 162 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 2912,
+            "location": "Groeninge Museum Bruges",
+            "img": "imgs/art/2912.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backerde/gar_eden.html",
+            "title": "Garden of Eden",
+            "author": "BACKER Jacob de",
+            "technique": "Oil on oak panel 775 x 1075 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 2913,
+            "location": "O.-L. Vrouwekathedraal Antwerp",
+            "img": "imgs/art/2913.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backerde/lastjudg.html",
+            "title": "The Last Judgment",
+            "author": "BACKER Jacob de",
+            "technique": "Oil on panel 140 x 105 cm (centre panel) 140 x 52 cm (wings)",
+            "painting_type": "religious",
+            "date": "c. 1580"
+        },
+        {
+            "index": 2914,
+            "location": "Private collection",
+            "img": "imgs/art/2914.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backerde/nativity.html",
+            "title": "The Nativity",
+            "author": "BACKER Jacob de",
+            "technique": "Oil on panel 108 x 91 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1555/60 Antwerpen d. 1585/90 Antwerpen)",
+    "name": "BACKER Jacob de",
+    "school": "Flemish"
+}

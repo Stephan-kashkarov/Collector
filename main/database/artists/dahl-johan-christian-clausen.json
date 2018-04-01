@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 10704,
+            "location": "Neue Pinakothek Munich",
+            "img": "imgs/art/10704.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/aftersto.html",
+            "title": "Morning after a Stormy Night",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 75 x 105 cm",
+            "painting_type": "landscape",
+            "date": "1819"
+        },
+        {
+            "index": 10705,
+            "location": "Kunsthalle Hamburg",
+            "img": "imgs/art/10705.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/belfries.html",
+            "title": "Two Belfries at Sunset Copenhagen",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 11 x 15 cm",
+            "painting_type": "landscape",
+            "date": "c. 1825"
+        },
+        {
+            "index": 10706,
+            "location": "Nationalgalerie Berlin",
+            "img": "imgs/art/10706.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/cloud_st.html",
+            "title": "Cloud Study Thunder Clouds over the Palace Tower at Dresden",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on paper mounted on board 21 x 22 cm",
+            "painting_type": "landscape",
+            "date": "c. 1825"
+        },
+        {
+            "index": 10707,
+            "location": "Nationalgalerie Berlin",
+            "img": "imgs/art/10707.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/cloud_sx.html",
+            "title": "Cloud Study with Horizon",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on board 25 x 28 cm",
+            "painting_type": "landscape",
+            "date": "1832"
+        },
+        {
+            "index": 10708,
+            "location": "Private collection",
+            "img": "imgs/art/10708.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/dyrehave.html",
+            "title": "Dyrehaven near Copenhagen",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 92 x 72 cm",
+            "painting_type": "landscape",
+            "date": "1853"
+        },
+        {
+            "index": 10709,
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "img": "imgs/art/10709.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/fullmoon.html",
+            "title": "View of Dresden at Full Moon",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 78 x 130 cm",
+            "painting_type": "landscape",
+            "date": "1839"
+        },
+        {
+            "index": 10710,
+            "location": "Private collection",
+            "img": "imgs/art/10710.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/mountain.html",
+            "title": "Mountain Landscape with a Castle",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 177 x 246 cm",
+            "painting_type": "landscape",
+            "date": "1816"
+        },
+        {
+            "index": 10711,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/10711.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/vesuviu.html",
+            "title": "Eruption of the Volcano Vesuvius",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 98 x 138 cm",
+            "painting_type": "landscape",
+            "date": "1821"
+        },
+        {
+            "index": 10712,
+            "location": "Nasjonalgalleriet Oslo",
+            "img": "imgs/art/10712.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/vesuvius.html",
+            "title": "Eruption of the Vesuvius",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 93 x 138 cm",
+            "painting_type": "landscape",
+            "date": "c. 1823"
+        },
+        {
+            "index": 10713,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/10713.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dahl/winterla.html",
+            "title": "Winter Landscape near Vordingborg Denmark",
+            "author": "DAHL Johan Christian Clausen",
+            "technique": "Oil on canvas 173 x 206 cm",
+            "painting_type": "landscape",
+            "date": "1829"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1788 Bergen d. 1857 Dresden)",
+    "name": "DAHL Johan Christian Clausen",
+    "school": "Norwegian"
+}

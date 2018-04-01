@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 2452,
+            "location": "Cathedral Lund",
+            "img": "imgs/art/2452.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/01s_1100.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Swedish",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "1110-45"
+        },
+        {
+            "index": 2453,
+            "location": "Cathedral Lund",
+            "img": "imgs/art/2453.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/01s_1101.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Swedish",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "1110-45"
+        },
+        {
+            "index": 2454,
+            "location": "Cathedral Lund",
+            "img": "imgs/art/2454.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/01s_1102.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Swedish",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1110-45"
+        }
+    ],
+    "timeframe": "1101-1150",
+    "life": "(active 1110-1145 in Lund)",
+    "name": "ARCHITECT Swedish",
+    "school": "Swedish"
+}

@@ -75,7 +75,6 @@ $(document).ready(function () {
 				$("#timeframe-list").append([obj].map(auto_complete).join(","));
 			}
 			name = new artist_lite(artist_list[i]);
-			name.print();
 			if(regen == true) {
 				artist_lite_list.push(name)
 			}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 4645,
+            "location": "Historisch Museum Amsterdam",
+            "img": "imgs/art/4645.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bisschox/delft1.html",
+            "title": "The Schiedam Gate at Delft",
+            "author": "BISSCHOP Jan de",
+            "technique": "Graphite pen and brush and brown ink 95 x 159 mm",
+            "painting_type": "landscape",
+            "date": "1655-60"
+        },
+        {
+            "index": 4646,
+            "location": "Historisch Museum Amsterdam",
+            "img": "imgs/art/4646.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bisschox/delft2.html",
+            "title": "The Oostpoort (East Gate) at Delft",
+            "author": "BISSCHOP Jan de",
+            "technique": "Graphite brush and brown ink 98 x 158 mm",
+            "painting_type": "landscape",
+            "date": "1655-60"
+        },
+        {
+            "index": 4647,
+            "location": "-",
+            "img": "imgs/art/4647.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bisschox/medvenus.html",
+            "title": "The Medici Venus",
+            "author": "BISSCHOP Jan de",
+            "technique": "Etching",
+            "painting_type": "mythological",
+            "date": "1669"
+        },
+        {
+            "index": 4648,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4648.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bisschox/rijswij1.html",
+            "title": "The Huis ter Nieuburch at Rijswijck Seen from the Southwest",
+            "author": "BISSCHOP Jan de",
+            "technique": "Pen and brown ink and wash 98 x 152 mm",
+            "painting_type": "landscape",
+            "date": "1665-70"
+        },
+        {
+            "index": 4649,
+            "location": "Private collection",
+            "img": "imgs/art/4649.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bisschox/rijswij2.html",
+            "title": "The Huis ter Nieuburch at Rijswijck Seen from the South-Southwest",
+            "author": "BISSCHOP Jan de",
+            "technique": "Pen and brown ink and wash 99 x 155 mm",
+            "painting_type": "landscape",
+            "date": "1665-70"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1628 Amsterdam d. 1671 Den Haag)",
+    "name": "BISSCHOP Jan de",
+    "school": "Dutch"
+}

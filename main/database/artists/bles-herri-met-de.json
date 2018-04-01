@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 4713,
+            "location": "University Art Museum Princeton",
+            "img": "imgs/art/4713.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/calvary.html",
+            "title": "Road to Calvary",
+            "author": "BLES Herri met de",
+            "technique": "Oil on panel 82 x 114 cm",
+            "painting_type": "religious",
+            "date": "c. 1535"
+        },
+        {
+            "index": 4714,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/4714.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/christ_c.html",
+            "title": "Christ Carrying the Cross",
+            "author": "BLES Herri met de",
+            "technique": "Oil tempera on wood 57 x 72 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4715,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/4715.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/copper_m.html",
+            "title": "The Copper Mine",
+            "author": "BLES Herri met de",
+            "technique": "Oil on wood 83 x 114 cm",
+            "painting_type": "landscape",
+            "date": "c. 1540"
+        },
+        {
+            "index": 4716,
+            "location": "Private collection",
+            "img": "imgs/art/4716.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/elijah.html",
+            "title": "Elijah Ascending to Heaven in the Fiery Chariot",
+            "author": "BLES Herri met de",
+            "technique": "Oil on panel 18 x 29 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4717,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4717.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/flight_e.html",
+            "title": "Landscape with the Flight into Egypt",
+            "author": "BLES Herri met de",
+            "technique": "Oil on wood 33 x 60 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4718,
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "img": "imgs/art/4718.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/landemma.html",
+            "title": "Landscape with Christ and the Men of Emmaus",
+            "author": "BLES Herri met de",
+            "technique": "Oil on wood 341 x 505 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4719,
+            "location": "Private collection",
+            "img": "imgs/art/4719.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/landsca.html",
+            "title": "Landscape with the Repudiation of Hagar and Ishmael",
+            "author": "BLES Herri met de",
+            "technique": "Oil on panel 20 x 33 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4720,
+            "location": "Bonnefantenmuseum Maastricht",
+            "img": "imgs/art/4720.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/landscap.html",
+            "title": "Landscape with the Banishment of Hagar",
+            "author": "BLES Herri met de",
+            "technique": "Oil on wood 23 x 35 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4721,
+            "location": "Private collection",
+            "img": "imgs/art/4721.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/moonlit.html",
+            "title": "Fantastical Moonlit Landscape",
+            "author": "BLES Herri met de",
+            "technique": "Oil on oak panel 22 x 34 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4722,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4722.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bles/paradise.html",
+            "title": "The Paradise",
+            "author": "BLES Herri met de",
+            "technique": "Oil on panel diameter 47 cm",
+            "painting_type": "landscape",
+            "date": "1540s"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1510 Bouvignes (Dinant) d. after 1550)",
+    "name": "BLES Herri met de",
+    "school": "Flemish"
+}

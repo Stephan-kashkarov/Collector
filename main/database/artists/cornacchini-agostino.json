@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9485,
+            "location": "Basilica di San Pietro Vatican",
+            "img": "imgs/art/9485.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cornacch/equestri.html",
+            "title": "Equestrian statue of Charlemagne",
+            "author": "CORNACCHINI Agostino",
+            "technique": "Bronze",
+            "painting_type": "other",
+            "date": "1725"
+        },
+        {
+            "index": 9486,
+            "location": "Duomo Orvieto",
+            "img": "imgs/art/9486.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cornacch/guardian.html",
+            "title": "The Guardian Angel",
+            "author": "CORNACCHINI Agostino",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1729"
+        },
+        {
+            "index": 9487,
+            "location": "San Giovanni in Laterano Rome",
+            "img": "imgs/art/9487.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cornacch/hope.html",
+            "title": "Hope",
+            "author": "CORNACCHINI Agostino",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1725-26"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1683 Pescia d. 1754 Roma)",
+    "name": "CORNACCHINI Agostino",
+    "school": "Italian"
+}

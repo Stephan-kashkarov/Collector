@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 10720,
+            "location": "Private collection",
+            "img": "imgs/art/10720.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalens/dirck1/harbour.html",
+            "title": "Netherlandish Harbour with Fishing Boats",
+            "author": "DALENS Dirck I",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 10721,
+            "location": "Private collection",
+            "img": "imgs/art/10721.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalens/dirck1/landsca1.html",
+            "title": "Landscape with Diana Discovering Callisto's Pregnancy",
+            "author": "DALENS Dirck I",
+            "technique": "Oil on panel 60 x 90 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 10722,
+            "location": "Private collection",
+            "img": "imgs/art/10722.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalens/dirck1/landsca2.html",
+            "title": "Landscape with Latona",
+            "author": "DALENS Dirck I",
+            "technique": "Oil on panel 58 x 69 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1600 Dordrecht d. 1676 Zierikzee)",
+    "name": "DALENS Dirck I",
+    "school": "Dutch"
+}

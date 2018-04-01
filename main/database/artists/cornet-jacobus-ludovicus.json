@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 9542,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/9542.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cornet/humbert.html",
+            "title": "David Pierre Giottino Humbert de Superville",
+            "author": "CORNET Jacobus Ludovicus",
+            "technique": "Oil on panel 20 x 16 cm",
+            "painting_type": "portrait",
+            "date": "1840s"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1815 Leiden d. 1882 Leiden)",
+    "name": "CORNET Jacobus Ludovicus",
+    "school": "Dutch"
+}

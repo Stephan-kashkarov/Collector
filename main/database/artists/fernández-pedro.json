@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13679,
+            "location": "Museo de Arte Gerona",
+            "img": "imgs/art/13679.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/pedro/christ_s.html",
+            "title": "Christ Suffering",
+            "author": "FERN\u00c1NDEZ Pedro",
+            "technique": "Oil on panel 77 x 66 cm",
+            "painting_type": "religious",
+            "date": "1510s"
+        },
+        {
+            "index": 13680,
+            "location": "Cathedral Gerona",
+            "img": "imgs/art/13680.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/pedro/retable.html",
+            "title": "Retable of St Helen",
+            "author": "FERN\u00c1NDEZ Pedro",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1521"
+        },
+        {
+            "index": 13681,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13681.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/pedro/stigmati.html",
+            "title": "Stigmatisation of St Francis",
+            "author": "FERN\u00c1NDEZ Pedro",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13682,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/13682.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/pedro/vision.html",
+            "title": "Vision of the Blessed Amedeo Menez de Sylva",
+            "author": "FERN\u00c1NDEZ Pedro",
+            "technique": "Oil on panel 277 x 320 cm",
+            "painting_type": "religious",
+            "date": "c. 1514"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1480 Murcia d. after 1521)",
+    "name": "FERN\u00c1NDEZ Pedro",
+    "school": "Spanish"
+}

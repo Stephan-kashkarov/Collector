@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 3677,
+            "location": "Cathedral Modena",
+            "img": "imgs/art/3677.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/begarell/adoratio.html",
+            "title": "The Adoration of the Shepherds",
+            "author": "BEGARELLI Antonio",
+            "technique": "Terracotta",
+            "painting_type": "religious",
+            "date": "1526-27"
+        },
+        {
+            "index": 3678,
+            "location": "San Francesco Modena",
+            "img": "imgs/art/3678.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/begarell/depositi.html",
+            "title": "Deposition",
+            "author": "BEGARELLI Antonio",
+            "technique": "Terracotta",
+            "painting_type": "religious",
+            "date": "1530-31"
+        },
+        {
+            "index": 3679,
+            "location": "Galleria Estense Modena",
+            "img": "imgs/art/3679.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/begarell/madonna.html",
+            "title": "Madonna del Latte (Madonna of the Milk)",
+            "author": "BEGARELLI Antonio",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1535"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1499 Modena d. 1565 Modena)",
+    "name": "BEGARELLI Antonio",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 6926,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/6926.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabezale/assumpti.html",
+            "title": "Assumption of the Virgin",
+            "author": "CABEZALERO Juan Mart\u00edn",
+            "technique": "Oil on canvas 237 x 169 cm",
+            "painting_type": "religious",
+            "date": "1665-70"
+        },
+        {
+            "index": 6927,
+            "location": "Private collection",
+            "img": "imgs/art/6927.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabezale/assumptx.html",
+            "title": "Assumption of the Virgin",
+            "author": "CABEZALERO Juan Mart\u00edn",
+            "technique": "Oil on canvas 208 x 169 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6928,
+            "location": "Private collection",
+            "img": "imgs/art/6928.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabezale/eccehomo.html",
+            "title": "Ecce Homo",
+            "author": "CABEZALERO Juan Mart\u00edn",
+            "technique": "Oil on canvas 103 x 83 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1633 Almad\u00e9n d. 1673 Madrid)",
+    "name": "CABEZALERO Juan Mart\u00edn",
+    "school": "Spanish"
+}

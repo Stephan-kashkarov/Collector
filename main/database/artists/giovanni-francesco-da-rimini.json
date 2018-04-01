@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 16684,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/16684.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/francesc/lifevirg.html",
+            "title": "The Angel Appearing to Joachim; The Birth of the Virgin",
+            "author": "GIOVANNI FRANCESCO DA RIMINI",
+            "technique": "Tempera on wood 59 x 30 cm (each)",
+            "painting_type": "religious",
+            "date": "1440s"
+        },
+        {
+            "index": 16685,
+            "location": "Private collection",
+            "img": "imgs/art/16685.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/francesc/philpaul.html",
+            "title": "St Philip; St Paul",
+            "author": "GIOVANNI FRANCESCO DA RIMINI",
+            "technique": "Egg tempera on panel 94 x 31 cm; 95 x 33 cm",
+            "painting_type": "religious",
+            "date": "c. 1460"
+        },
+        {
+            "index": 16686,
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "img": "imgs/art/16686.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/francesc/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "GIOVANNI FRANCESCO DA RIMINI",
+            "technique": "Tempera on wood 89 x 72 cm",
+            "painting_type": "religious",
+            "date": "c. 1465"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1420 Rimini d. ca. 1470 Bologna)",
+    "name": "GIOVANNI FRANCESCO DA RIMINI",
+    "school": "Italian"
+}

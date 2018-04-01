@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4033,
+            "location": "Private collection",
+            "img": "imgs/art/4033.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benedet/still_li.html",
+            "title": "Still-Life",
+            "author": "BENEDETTI Andries",
+            "technique": "Oil on canvas 81 x 114 cm",
+            "painting_type": "still-life",
+            "date": "1640s"
+        },
+        {
+            "index": 4034,
+            "location": "Galleria Cesare Lampronti Rome",
+            "img": "imgs/art/4034.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benedet/stillife.html",
+            "title": "Still-Life",
+            "author": "BENEDETTI Andries",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "1646"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1615 Parma(?) d. after 1649 Alkmaar or Italy)",
+    "name": "BENEDETTI Andries",
+    "school": "Italian"
+}

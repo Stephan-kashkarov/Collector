@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13252,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13252.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/evenepoe/sunday.html",
+            "title": "Sunday in the Bois de Boulogne",
+            "author": "EVENEPOEL Henri",
+            "technique": "Oil on canvas 59 x 90 cm",
+            "painting_type": "landscape",
+            "date": "1891"
+        },
+        {
+            "index": 13253,
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "img": "imgs/art/13253.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/evenepoe/veterans.html",
+            "title": "Veterans' Festival",
+            "author": "EVENEPOEL Henri",
+            "technique": "Oil on canvas 80 x 120 cm",
+            "painting_type": "genre",
+            "date": "1898"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1872 Nice. d. 1899 Paris)",
+    "name": "EVENEPOEL Henri",
+    "school": "Belgian"
+}

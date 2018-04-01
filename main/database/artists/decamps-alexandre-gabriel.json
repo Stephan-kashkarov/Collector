@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 11082,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11082.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/defeat.html",
+            "title": "The Defeat of the Cimbri",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 130 x 195 cm",
+            "painting_type": "historical",
+            "date": "1833"
+        },
+        {
+            "index": 11083,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11083.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/monkey.html",
+            "title": "The Monkey Painter",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 32 x 40 cm",
+            "painting_type": "genre",
+            "date": "1833"
+        },
+        {
+            "index": 11084,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11084.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/mosque.html",
+            "title": "Before a Mosque in Cairo",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on panel 41 x 31 cm",
+            "painting_type": "landscape",
+            "date": "c. 1868"
+        },
+        {
+            "index": 11085,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11085.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/selfport.html",
+            "title": "Self-Portrait",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 33 x 25 cm",
+            "painting_type": "portrait",
+            "date": "1830-32"
+        },
+        {
+            "index": 11086,
+            "location": "Wallace Collection London",
+            "img": "imgs/art/11086.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/t_patrol.html",
+            "title": "The Turkish Patrol",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 115 x 179 cm",
+            "painting_type": "historical",
+            "date": "1831"
+        },
+        {
+            "index": 11087,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11087.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/thecarava.html",
+            "title": "The Caravan",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 60 x 100 cm",
+            "painting_type": "landscape",
+            "date": "c. 1854"
+        },
+        {
+            "index": 11088,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11088.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/turkishb.html",
+            "title": "Turkish Boys Let out of School",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 66 x 189 cm",
+            "painting_type": "other",
+            "date": "c. 1841"
+        },
+        {
+            "index": 11089,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/11089.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decamps/turkishm.html",
+            "title": "Turkish Merchant Smoking in His Shop",
+            "author": "DECAMPS Alexandre Gabriel",
+            "technique": "Oil on canvas 36 x 28 cm",
+            "painting_type": "genre",
+            "date": "1844"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1803 Paris d. 1860 Fontainebleau)",
+    "name": "DECAMPS Alexandre Gabriel",
+    "school": "French"
+}

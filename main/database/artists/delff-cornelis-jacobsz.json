@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11391,
+            "location": "Institute of Arts Minneapolis",
+            "img": "imgs/art/11391.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delff/cornelis/kitchen.html",
+            "title": "Kitchen Still-Life",
+            "author": "DELFF Cornelis Jacobsz",
+            "technique": "Oil on panel 70 x 102 cm",
+            "painting_type": "still-life",
+            "date": "1608-10"
+        },
+        {
+            "index": 11392,
+            "location": "Ashmolean Museum Oxford",
+            "img": "imgs/art/11392.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delff/cornelis/stillife.html",
+            "title": "Still-Life of Kitchen Utensils",
+            "author": "DELFF Cornelis Jacobsz",
+            "technique": "Oil on panel 66 x 100 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1570 Gouda d. 1643 Delft)",
+    "name": "DELFF Cornelis Jacobsz",
+    "school": "Dutch"
+}

@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 6821,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/6821.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/buland/master.html",
+            "title": "The Master",
+            "author": "BULAND Jean-Eug\u00e8ne",
+            "technique": "Oil on canvas 102 x 82 cm",
+            "painting_type": "genre",
+            "date": "1888"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1852 Paris d. 1926 Charly-sur-Marne)",
+    "name": "BULAND Jean-Eug\u00e8ne",
+    "school": "French"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5094,
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "img": "imgs/art/5094.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borghese/saints1.html",
+            "title": "Sts Barbara and Lucy",
+            "author": "BORGHESE DI PIERO BORGHESE",
+            "technique": "Tempera on wood gold ground 140 x 52 cm",
+            "painting_type": "religious",
+            "date": "c. 1435"
+        },
+        {
+            "index": 5095,
+            "location": "Mus\u00e9e du Petit Palais Avignon",
+            "img": "imgs/art/5095.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borghese/saints2.html",
+            "title": "Sts John the Evangelist and Stephen",
+            "author": "BORGHESE DI PIERO BORGHESE",
+            "technique": "Tempera on wood gold ground 140 x 52 cm",
+            "painting_type": "religious",
+            "date": "c. 1435"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. 1397 Lucca d. ca. 1463)",
+    "name": "BORGHESE DI PIERO BORGHESE",
+    "school": "Italian"
+}

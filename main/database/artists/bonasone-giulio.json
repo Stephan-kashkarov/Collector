@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4976,
+            "location": "Private collection",
+            "img": "imgs/art/4976.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bonasone/birthbap.html",
+            "title": "The Birth of St John the Baptist",
+            "author": "BONASONE Giulio",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4977,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/4977.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bonasone/jupiter.html",
+            "title": "Jupiter Suckled by the Goat Amalthea",
+            "author": "BONASONE Giulio",
+            "technique": "Engraving",
+            "painting_type": "mythological",
+            "date": "after 1531"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1510 Bologna d. after 1576 Bologna)",
+    "name": "BONASONE Giulio",
+    "school": "Italian"
+}

@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 11935,
+            "location": "St Joseph Chapel Balf",
+            "img": "imgs/art/11935.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/balf.html",
+            "title": "Christ Healing the Sick",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1779"
+        },
+        {
+            "index": 11936,
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "img": "imgs/art/11936.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/iii_bela.html",
+            "title": "B\u00e9la III Founding the Cistercian Monastery at Szentgotth\u00e1rd in 1183",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Oil on canvas 344 x 227 cm",
+            "painting_type": "historical",
+            "date": "1795-96"
+        },
+        {
+            "index": 11937,
+            "location": "Historical Picture Gallery Hungarian National Museum Budapest",
+            "img": "imgs/art/11937.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/niczky.html",
+            "title": "Portrait of Count Gy\u00f6rgy Niczky",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Oil on canvas 158 x 92 cm",
+            "painting_type": "portrait",
+            "date": "1790"
+        },
+        {
+            "index": 11938,
+            "location": "Cathedral Szombathely",
+            "img": "imgs/art/11938.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/s_marton.html",
+            "title": "St Martin in Glory",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11939,
+            "location": "Cistertian Parish Church Szentgotth\u00e1rd",
+            "img": "imgs/art/11939.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/sgotthar.html",
+            "title": "The Battle at Szentgotth\u00e1rd",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1784"
+        },
+        {
+            "index": 11940,
+            "location": "St George Church Sopron",
+            "img": "imgs/art/11940.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dorffmei/istvan/sopron.html",
+            "title": "The Mother of Good Advice",
+            "author": "DORFFMEISTER Istv\u00e1n",
+            "technique": "Oil on canvas 167 x 102 cm",
+            "painting_type": "religious",
+            "date": "1781"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1741 Wien d. 1797 Sopron)",
+    "name": "DORFFMEISTER Istv\u00e1n",
+    "school": "Hungarian"
+}

@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 13888,
+            "location": "Ickworth Suffolk",
+            "img": "imgs/art/13888.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/flaxman/athamas.html",
+            "title": "The Fury of Athamas",
+            "author": "FLAXMAN John",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1790-94"
+        },
+        {
+            "index": 13889,
+            "location": "Cathedral Chichester",
+            "img": "imgs/art/13889.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/flaxman/cromwell.html",
+            "title": "Monument to Agnes Cromwell",
+            "author": "FLAXMAN John",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1797-1800"
+        },
+        {
+            "index": 13890,
+            "location": "St. Paul's Cathedral London",
+            "img": "imgs/art/13890.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/flaxman/nelson.html",
+            "title": "Monument to Vice-Admiral Horatio Nelson",
+            "author": "FLAXMAN John",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1808-18"
+        },
+        {
+            "index": 13891,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13891.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/flaxman/z_dante.html",
+            "title": "Inferno",
+            "author": "FLAXMAN John",
+            "technique": "Engraving 160 x 270 mm",
+            "painting_type": "other",
+            "date": "1793"
+        },
+        {
+            "index": 13892,
+            "location": "Royal Academy of Arts London",
+            "img": "imgs/art/13892.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/flaxman/z_homer1.html",
+            "title": "Odysseus in the Underworld",
+            "author": "FLAXMAN John",
+            "technique": "Pen 229 x 298 mm",
+            "painting_type": "mythological",
+            "date": "1792"
+        },
+        {
+            "index": 13893,
+            "location": "Royal Academy of Arts London",
+            "img": "imgs/art/13893.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/flaxman/z_homer2.html",
+            "title": "The Fight for the Body of Patroclus",
+            "author": "FLAXMAN John",
+            "technique": "Engraving 152 x 266 mm",
+            "painting_type": "mythological",
+            "date": "1793"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1755 York d. 1826 London)",
+    "name": "FLAXMAN John",
+    "school": "English"
+}

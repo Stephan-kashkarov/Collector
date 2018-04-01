@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 9392,
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "img": "imgs/art/9392.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/1decolla.html",
+            "title": "View of the oratory",
+            "author": "CONTE Jacopino del",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1536-53"
+        },
+        {
+            "index": 9393,
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "img": "imgs/art/9393.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/2decolla.html",
+            "title": "Frescoes on the entrance wall",
+            "author": "CONTE Jacopino del",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1538-41"
+        },
+        {
+            "index": 9394,
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "img": "imgs/art/9394.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/3decolla.html",
+            "title": "Frescoes on the entrance wall",
+            "author": "CONTE Jacopino del",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1538-41"
+        },
+        {
+            "index": 9395,
+            "location": "Oratorio di San Giovanni Decollato Rome",
+            "img": "imgs/art/9395.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/4decolla.html",
+            "title": "The Annunciation to Zachariah",
+            "author": "CONTE Jacopino del",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1536-38"
+        },
+        {
+            "index": 9396,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9396.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/michelan.html",
+            "title": "Portrait of Michelangelo",
+            "author": "CONTE Jacopino del",
+            "technique": "Oil on panel 88 x 64 cm",
+            "painting_type": "portrait",
+            "date": "c. 1540"
+        },
+        {
+            "index": 9397,
+            "location": "Fitzwilliam Museum Cambridge",
+            "img": "imgs/art/9397.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/conte/virgin_c.html",
+            "title": "Virgin and Child with St Elizabeth and the Infant Baptist",
+            "author": "CONTE Jacopino del",
+            "technique": "Oil on panel 100 x 77 cm",
+            "painting_type": "religious",
+            "date": "c. 1550"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1515 Firenze d. 1598 Roma)",
+    "name": "CONTE Jacopino del",
+    "school": "Italian"
+}

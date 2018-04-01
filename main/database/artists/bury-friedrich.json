@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 6878,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/6878.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bury/countess.html",
+            "title": "Countess Luise von Voss",
+            "author": "BURY Friedrich",
+            "technique": "Oil on canvas 76 x 56 cm",
+            "painting_type": "portrait",
+            "date": "1810"
+        },
+        {
+            "index": 6879,
+            "location": "Kunstsammlungen Weimar",
+            "img": "imgs/art/6879.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bury/goethe1.html",
+            "title": "Johann Wolfgang von Goethe",
+            "author": "BURY Friedrich",
+            "technique": "Chalk drawing 955 x 534 mm",
+            "painting_type": "portrait",
+            "date": "1800"
+        },
+        {
+            "index": 6880,
+            "location": "Goethe Museum D\u00fcsseldorf",
+            "img": "imgs/art/6880.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bury/goethe2.html",
+            "title": "Johann Wolfgang von Goethe with His Italian Friends",
+            "author": "BURY Friedrich",
+            "technique": "Drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 6881,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/6881.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bury/scharnho.html",
+            "title": "Scharnhorst",
+            "author": "BURY Friedrich",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "c. 1810"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1761 Hanau d. 1823 Aachen)",
+    "name": "BURY Friedrich",
+    "school": "German"
+}

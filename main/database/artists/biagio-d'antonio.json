@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 4504,
+            "location": "Cappella Sistina Vatican",
+            "img": "imgs/art/4504.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/arrest.html",
+            "title": "Arrest of Christ",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1482"
+        },
+        {
+            "index": 4505,
+            "location": "Cappella Sistina Vatican",
+            "img": "imgs/art/4505.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/crucifix.html",
+            "title": "Crucifixion",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1482"
+        },
+        {
+            "index": 4506,
+            "location": "Museu de Arte S\u00e3o Paulo",
+            "img": "imgs/art/4506.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/madon_ad.html",
+            "title": "Madonna Adoring the Child with an Angel",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Tempera on panel 74 x 54 cm",
+            "painting_type": "religious",
+            "date": "c. 1475"
+        },
+        {
+            "index": 4507,
+            "location": "Private collection",
+            "img": "imgs/art/4507.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/madonna.html",
+            "title": "Madonna and Child",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Oil on panel 45 x 38 cm",
+            "painting_type": "religious",
+            "date": "1490s"
+        },
+        {
+            "index": 4508,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4508.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/port_boy.html",
+            "title": "Portrait of a Boy",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Oil and tempera on panel 42 x 36 cm",
+            "painting_type": "portrait",
+            "date": "1476-80"
+        },
+        {
+            "index": 4509,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4509.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/portrait.html",
+            "title": "Portrait of a Young Man",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Tempera on wood 54 x 39 cm",
+            "painting_type": "portrait",
+            "date": "c. 1470"
+        },
+        {
+            "index": 4510,
+            "location": "Private collection",
+            "img": "imgs/art/4510.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/story_io.html",
+            "title": "Scenes from the Story of Io",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Tempera on poplar panel 74 x 133 cm",
+            "painting_type": "mythological",
+            "date": "1480s"
+        },
+        {
+            "index": 4511,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4511.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/triumph.html",
+            "title": "The Triumph of Camillus",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Tempera on panel 60 x 154 cm",
+            "painting_type": "historical",
+            "date": "1470-75"
+        },
+        {
+            "index": 4512,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4512.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/biagio/virgin_c.html",
+            "title": "Virgin and Child Enthroned with Five Saints and Two Angels",
+            "author": "BIAGIO D'ANTONIO",
+            "technique": "Tempera on panel 168 x 178 cm",
+            "painting_type": "religious",
+            "date": "1470-75"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1446 Firenze d. 1515 Firenze)",
+    "name": "BIAGIO D'ANTONIO",
+    "school": "Italian"
+}

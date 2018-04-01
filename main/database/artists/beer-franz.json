@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3632,
+            "location": "Abbey Rheinau",
+            "img": "imgs/art/3632.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/beer_f/franz/rheinau1.html",
+            "title": "General view",
+            "author": "BEER Franz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1710-44"
+        },
+        {
+            "index": 3633,
+            "location": "Abbey Rheinau",
+            "img": "imgs/art/3633.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/beer_f/franz/rheinau2.html",
+            "title": "Exterior view",
+            "author": "BEER Franz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1704-11"
+        },
+        {
+            "index": 3634,
+            "location": "Former Cistercian Abbey Church Sankt Urban",
+            "img": "imgs/art/3634.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/beer_f/franz/urban1.html",
+            "title": "Exterior view",
+            "author": "BEER Franz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1711-36"
+        },
+        {
+            "index": 3635,
+            "location": "Former Cistercian Abbey Church Sankt Urban",
+            "img": "imgs/art/3635.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/beer_f/franz/urban2.html",
+            "title": "Exterior view",
+            "author": "BEER Franz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1711-36"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1660 Au im Bregenzerwald d. 1726 Bezau)",
+    "name": "BEER Franz",
+    "school": "Austrian"
+}

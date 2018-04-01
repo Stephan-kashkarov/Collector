@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13447,
+            "location": "Private collection",
+            "img": "imgs/art/13447.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabris/naples.html",
+            "title": "Naples a View of Mergellina",
+            "author": "FABRIS Pietro",
+            "technique": "Oil on canvas 104 x 157 cm",
+            "painting_type": "landscape",
+            "date": "1777"
+        },
+        {
+            "index": 13448,
+            "location": "Private collection",
+            "img": "imgs/art/13448.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabris/paestum.html",
+            "title": "View of Paestum",
+            "author": "FABRIS Pietro",
+            "technique": "Oil on canvas 77 x 130 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13449,
+            "location": "Private collection",
+            "img": "imgs/art/13449.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabris/posilipp.html",
+            "title": "Posillipo a View of the Coast towards Vesuvius",
+            "author": "FABRIS Pietro",
+            "technique": "Oil on canvas 47 x 71 cm",
+            "painting_type": "landscape",
+            "date": "1773"
+        },
+        {
+            "index": 13450,
+            "location": "Private collection",
+            "img": "imgs/art/13450.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabris/pozzuoli.html",
+            "title": "Pozzuoli a View of the Bay",
+            "author": "FABRIS Pietro",
+            "technique": "Oil on canvas 47 x 71 cm",
+            "painting_type": "landscape",
+            "date": "1773"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(active 1756-1779 in Naples)",
+    "name": "FABRIS Pietro",
+    "school": "Italian"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 7121,
+            "location": "San Sigismondo Cremona",
+            "img": "imgs/art/7121.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/campi/giulio/ascensio.html",
+            "title": "The Ascension of Christ",
+            "author": "CAMPI Giulio",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1549"
+        },
+        {
+            "index": 7122,
+            "location": "Museo Civico Turin",
+            "img": "imgs/art/7122.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/campi/giulio/chesspla.html",
+            "title": "The Chess Players",
+            "author": "CAMPI Giulio",
+            "technique": "Oil on canvas 90 x 127 cm",
+            "painting_type": "genre",
+            "date": "1530s"
+        },
+        {
+            "index": 7123,
+            "location": "Museo Civico Piacenza",
+            "img": "imgs/art/7123.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/campi/giulio/farnese.html",
+            "title": "Portrait of Ottavio Farnese",
+            "author": "CAMPI Giulio",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "c. 1551"
+        },
+        {
+            "index": 7124,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/7124.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/campi/giulio/port_fat.html",
+            "title": "Portrait of Father Galeazzo Campi",
+            "author": "CAMPI Giulio",
+            "technique": "Oil on canvas 78 x 61 cm",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 7125,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7125.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/campi/giulio/port_man.html",
+            "title": "Portrait of a Man",
+            "author": "CAMPI Giulio",
+            "technique": "Oil on canvas 1055 x 83 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1502 Cremona d. 1572 Cremona)",
+    "name": "CAMPI Giulio",
+    "school": "Italian"
+}

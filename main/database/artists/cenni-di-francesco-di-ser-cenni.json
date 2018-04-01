@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 8404,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/8404.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/cenni/antipho1.html",
+            "title": "Antiphonary (Folio 27v)",
+            "author": "CENNI di Francesco di Ser Cenni",
+            "technique": "Tempera and gold on parchment 608 x 418 mm (page size)",
+            "painting_type": "religious",
+            "date": "1370s"
+        },
+        {
+            "index": 8405,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/8405.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/cenni/antipho2.html",
+            "title": "Antiphonary (Folio 35v)",
+            "author": "CENNI di Francesco di Ser Cenni",
+            "technique": "Tempera and gold on parchment 608 x 418 mm (page size)",
+            "painting_type": "religious",
+            "date": "1370s"
+        },
+        {
+            "index": 8406,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/8406.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cenni/catherin.html",
+            "title": "St Catherine Enthroned with Two Saints and Two Donors",
+            "author": "CENNI di Francesco di Ser Cenni",
+            "technique": "Tempera on panel 54 x 43 cm",
+            "painting_type": "religious",
+            "date": "c. 1380"
+        },
+        {
+            "index": 8407,
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "img": "imgs/art/8407.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cenni/humility.html",
+            "title": "The Virgin of Humility",
+            "author": "CENNI di Francesco di Ser Cenni",
+            "technique": "Tempera on panel 77 x 51 cm",
+            "painting_type": "religious",
+            "date": "1375-80"
+        },
+        {
+            "index": 8408,
+            "location": "Private collection",
+            "img": "imgs/art/8408.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cenni/madchild.html",
+            "title": "Madonna and Child",
+            "author": "CENNI di Francesco di Ser Cenni",
+            "technique": "Oil on wood 74 x 39 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(active 1369-1415 in Florence)",
+    "name": "CENNI di Francesco di Ser Cenni",
+    "school": "Italian"
+}

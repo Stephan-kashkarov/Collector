@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4080,
+            "location": "Museum of Art Rhode Island School of Design Providence",
+            "img": "imgs/art/4080.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benson_f/blackhat.html",
+            "title": "The Black Hat",
+            "author": "BENSON Frank Weston",
+            "technique": "Oil on canvas 102 x 81 cm",
+            "painting_type": "portrait",
+            "date": "1904"
+        },
+        {
+            "index": 4081,
+            "location": "Museum of Art Indianapolis",
+            "img": "imgs/art/4081.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benson_f/sunlight.html",
+            "title": "Sunlight",
+            "author": "BENSON Frank Weston",
+            "technique": "Oil on canvas 82 x 51 cm",
+            "painting_type": "landscape",
+            "date": "1909"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1862 Salem d. 1951 Salem)",
+    "name": "BENSON Frank Weston",
+    "school": "American"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13519,
+            "location": "Palazzo Ducale Mantua",
+            "img": "imgs/art/13519.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fancellj/fireplac.html",
+            "title": "Fireplace with Portraits of Ludovico II and Federico Gonzaga",
+            "author": "FANCELLI Luca",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 13520,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/13520.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fancellj/pitti.html",
+            "title": "Fa\u00e7ade",
+            "author": "FANCELLI Luca",
+            "technique": "-",
+            "painting_type": "other",
+            "date": "c. 1457"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1430 Settignano d. after 1494)",
+    "name": "FANCELLI Luca",
+    "school": "Italian"
+}

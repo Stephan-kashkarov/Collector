@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15830,
+            "location": "Oratorio di San Giovanni Battista Cascina",
+            "img": "imgs/art/15830.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giolfino/bartolom/madonna.html",
+            "title": "Madonna and Child with Saints",
+            "author": "GIOLFINO Bartolomeo",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15831,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/15831.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giolfino/bartolom/polyptyc.html",
+            "title": "Polyptych",
+            "author": "GIOLFINO Bartolomeo",
+            "technique": "Carved gilded and painted wood",
+            "painting_type": "religious",
+            "date": "1470"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1410 Verona d. ca. 1486 Verona)",
+    "name": "GIOLFINO Bartolomeo",
+    "school": "Italian"
+}

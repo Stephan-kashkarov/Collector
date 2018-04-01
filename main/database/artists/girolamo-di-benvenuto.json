@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 16735,
+            "location": "Societ\u00e0 di Esecutori di Pie Disposizioni Siena",
+            "img": "imgs/art/16735.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/girolamo/benvenut/gregory.html",
+            "title": "Gregory XI Returns to Rome from Avignon",
+            "author": "GIROLAMO DI BENVENUTO",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 16736,
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "img": "imgs/art/16736.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/girolamo/benvenut/hercules.html",
+            "title": "Hercules at the Crossroad",
+            "author": "GIROLAMO DI BENVENUTO",
+            "technique": "Panel diameter 57 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 16737,
+            "location": "Private collection",
+            "img": "imgs/art/16737.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/girolamo/benvenut/madchild.html",
+            "title": "Madonna and Child with Sts John the Baptist and Catherine",
+            "author": "GIROLAMO DI BENVENUTO",
+            "technique": "Tempera on panel gold ground 82 x 64 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 16738,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/16738.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/girolamo/benvenut/portrait.html",
+            "title": "Portrait of a Young Woman",
+            "author": "GIROLAMO DI BENVENUTO",
+            "technique": "Oil on panel 58 x 43 cm",
+            "painting_type": "portrait",
+            "date": "c. 1508"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1470 Siena d. 1524 Siena)",
+    "name": "GIROLAMO DI BENVENUTO",
+    "school": "Italian"
+}

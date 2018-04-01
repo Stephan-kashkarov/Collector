@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 2733,
+            "location": "Private collection",
+            "img": "imgs/art/2733.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/asch/citywall.html",
+            "title": "The Delft City Wall with the Houttuinen",
+            "author": "ASCH Pieter Jansz. van",
+            "technique": "Oil on canvas 53 x 76 cm",
+            "painting_type": "landscape",
+            "date": "c. 1650"
+        },
+        {
+            "index": 2734,
+            "location": "Fogg Art Museum Harvard University Cambridge",
+            "img": "imgs/art/2734.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/asch/landscap.html",
+            "title": "Landscape",
+            "author": "ASCH Pieter Jansz. van",
+            "technique": "Black chalk on vellum 110 x 155 m",
+            "painting_type": "landscape",
+            "date": "1635-41"
+        },
+        {
+            "index": 2735,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/2735.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/asch/river_la.html",
+            "title": "River Landscape",
+            "author": "ASCH Pieter Jansz. van",
+            "technique": "Oil on panel 27 x 40 cm",
+            "painting_type": "landscape",
+            "date": "c. 1640"
+        },
+        {
+            "index": 2736,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/2736.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/asch/selfport.html",
+            "title": "Self-portrait",
+            "author": "ASCH Pieter Jansz. van",
+            "technique": "Oil on panel 52 x 44 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1603 Delft d. 1678 Delft)",
+    "name": "ASCH Pieter Jansz. van",
+    "school": "Dutch"
+}

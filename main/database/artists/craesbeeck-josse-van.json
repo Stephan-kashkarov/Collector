@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 10056,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/10056.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/drunkard.html",
+            "title": "Drunkard",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on canvas 51 x 37 cm",
+            "painting_type": "genre",
+            "date": "1640s"
+        },
+        {
+            "index": 10057,
+            "location": "Private collection",
+            "img": "imgs/art/10057.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/drunken.html",
+            "title": "Drunken Singers Seated around a Table in a Tavern",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on panel 28 x 20 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10058,
+            "location": "Private collection",
+            "img": "imgs/art/10058.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/grimacin.html",
+            "title": "Peasant Grimacing",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on panel 15 x 11 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10059,
+            "location": "Private collection",
+            "img": "imgs/art/10059.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/guardroo.html",
+            "title": "Guardroom Interior",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on canvas 39 x 51 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10060,
+            "location": "Private collection",
+            "img": "imgs/art/10060.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/interior.html",
+            "title": "Interior of an Inn",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on panel 37 x 47 cm",
+            "painting_type": "interior",
+            "date": "1636-37"
+        },
+        {
+            "index": 10061,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/10061.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/luteconc.html",
+            "title": "The Lute Concert",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on panel 30 x 23 cm",
+            "painting_type": "genre",
+            "date": "c. 1650"
+        },
+        {
+            "index": 10062,
+            "location": "Private collection",
+            "img": "imgs/art/10062.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/officer.html",
+            "title": "Officer Reading a Letter",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on canvas laid down on panel 69 x 83 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10063,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/10063.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/craesbee/peasants.html",
+            "title": "Peasants in front of a Village Inn",
+            "author": "CRAESBEECK Josse van",
+            "technique": "Oil on wood 76 x 60 cm",
+            "painting_type": "genre",
+            "date": "1640s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1605 Neerlinter d. ca. 1661 Bruxelles)",
+    "name": "CRAESBEECK Josse van",
+    "school": "Flemish"
+}

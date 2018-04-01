@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 686,
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "img": "imgs/art/686.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronati.html",
+            "title": "Coronation of the Virgin",
+            "author": "ANDREA DI BARTOLO",
+            "technique": "Panel 106 x 74 cm",
+            "painting_type": "religious",
+            "date": "1405-07"
+        },
+        {
+            "index": 687,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/687.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronatj.html",
+            "title": "Coronation of the Virgin",
+            "author": "ANDREA DI BARTOLO",
+            "technique": "Oil on panel 160 x 65 cm (centre) 142 x 36 cm (each side panel)",
+            "painting_type": "religious",
+            "date": "1410s"
+        },
+        {
+            "index": 688,
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "img": "imgs/art/688.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/road_cal.html",
+            "title": "Christ on the Road to Calvary",
+            "author": "ANDREA DI BARTOLO",
+            "technique": "Tempera on wood 55 x 49 cm",
+            "painting_type": "religious",
+            "date": "1415-20"
+        },
+        {
+            "index": 689,
+            "location": "Private collection",
+            "img": "imgs/art/689.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/st_paul.html",
+            "title": "St Paul",
+            "author": "ANDREA DI BARTOLO",
+            "technique": "Oil on panel 29 x 20 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. 1360/70 Siena d. 1428 Siena)",
+    "name": "ANDREA DI BARTOLO",
+    "school": "Italian"
+}

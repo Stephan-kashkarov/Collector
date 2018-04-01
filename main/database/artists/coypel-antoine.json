@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 10003,
+            "location": "Private collection",
+            "img": "imgs/art/10003.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/allegory.html",
+            "title": "Allegory of Music",
+            "author": "COYPEL Antoine",
+            "technique": "Oil on canvas 98 x 152 cm",
+            "painting_type": "mythological",
+            "date": "1681-84"
+        },
+        {
+            "index": 10004,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/10004.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/democrit.html",
+            "title": "Democritus",
+            "author": "COYPEL Antoine",
+            "technique": "Oil on canvas 69 x 57 cm",
+            "painting_type": "historical",
+            "date": "1692"
+        },
+        {
+            "index": 10005,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/10005.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/eliezer.html",
+            "title": "Eliezer and Rebecca",
+            "author": "COYPEL Antoine",
+            "technique": "Oil on canvas 125 x 106 cm",
+            "painting_type": "religious",
+            "date": "1701"
+        },
+        {
+            "index": 10006,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/10006.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/esther.html",
+            "title": "The Swooning of Esther",
+            "author": "COYPEL Antoine",
+            "technique": "Oil on canvas 105 x 137 cm",
+            "painting_type": "religious",
+            "date": "c. 1704"
+        },
+        {
+            "index": 10007,
+            "location": "Mus\u00e9e des Beaux-Arts Angers",
+            "img": "imgs/art/10007.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/sketch.html",
+            "title": "Assembly of Gods",
+            "author": "COYPEL Antoine",
+            "technique": "Oil on canvas 95 x 195 cm",
+            "painting_type": "mythological",
+            "date": "1703-05"
+        },
+        {
+            "index": 10008,
+            "location": "Chapel of the Ch\u00e2teau Versailles",
+            "img": "imgs/art/10008.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/vault1.html",
+            "title": "Vault decoration",
+            "author": "COYPEL Antoine",
+            "technique": "Fresco",
+            "painting_type": "other",
+            "date": "1709"
+        },
+        {
+            "index": 10009,
+            "location": "Chapel of the Ch\u00e2teau Versailles",
+            "img": "imgs/art/10009.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coypel/antoine/vault2.html",
+            "title": "Vault decoration",
+            "author": "COYPEL Antoine",
+            "technique": "Fresco",
+            "painting_type": "other",
+            "date": "1709"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1661 Paris d. 1722 Paris)",
+    "name": "COYPEL Antoine",
+    "school": "French"
+}

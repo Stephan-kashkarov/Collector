@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9463,
+            "location": "Galleria Borghese Rome",
+            "img": "imgs/art/9463.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordier/gypsy.html",
+            "title": "Gypsy Girl (Zingarella)",
+            "author": "CORDIER Nicolas",
+            "technique": "White and gray marble bronze height 140 cm",
+            "painting_type": "other",
+            "date": "1607-12"
+        },
+        {
+            "index": 9464,
+            "location": "Santa Maria sopra Minerva Rome",
+            "img": "imgs/art/9464.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordier/sebastia.html",
+            "title": "St Sebastian",
+            "author": "CORDIER Nicolas",
+            "technique": "Marble height 199 cm",
+            "painting_type": "religious",
+            "date": "1604"
+        },
+        {
+            "index": 9465,
+            "location": "San Sebastiano fuori le Mura Rome",
+            "img": "imgs/art/9465.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordier/st_peter.html",
+            "title": "Bust of St Peter",
+            "author": "CORDIER Nicolas",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1608"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1565 Saint-Mihiel d. 1612 Roma)",
+    "name": "CORDIER Nicolas",
+    "school": "French"
+}

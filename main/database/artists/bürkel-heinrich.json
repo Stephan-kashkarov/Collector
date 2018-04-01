@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6914,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/6914.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/burkel/graveyar.html",
+            "title": "Graveyard of St. Peter's in Winter",
+            "author": "B\u00dcRKEL Heinrich",
+            "technique": "Oil on canvas 43 x 44 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6915,
+            "location": "Neue Pinakothek Munich",
+            "img": "imgs/art/6915.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/burkel/rainshow.html",
+            "title": "Rain Shower in Patenkirchen",
+            "author": "B\u00dcRKEL Heinrich",
+            "technique": "Oil on canvas 45 x 61 cm",
+            "painting_type": "landscape",
+            "date": "1838"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1802 Pirmasens d. 1869 M\u00fcnchen)",
+    "name": "B\u00dcRKEL Heinrich",
+    "school": "German"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 14754,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/14754.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/galle/philip/alchemis.html",
+            "title": "The Alchemist",
+            "author": "GALLE Philip",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "c. 1558"
+        },
+        {
+            "index": 14755,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/14755.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/galle/philip/angel_ap.html",
+            "title": "An Angel Appears to St Philip",
+            "author": "GALLE Philip",
+            "technique": "Engraving 213 x 275 mm",
+            "painting_type": "religious",
+            "date": "1575"
+        },
+        {
+            "index": 14756,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/14756.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/galle/philip/lot_rich.html",
+            "title": "The Unhappy Lot of the Rich",
+            "author": "GALLE Philip",
+            "technique": "Engraving 172 x 232 mm",
+            "painting_type": "mythological",
+            "date": "1563"
+        },
+        {
+            "index": 14757,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/14757.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/galle/philip/titlpage.html",
+            "title": "Title page",
+            "author": "GALLE Philip",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1569"
+        },
+        {
+            "index": 14758,
+            "location": "Rijksprentenkabinet Amsterdam",
+            "img": "imgs/art/14758.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/galle/philip/workshop.html",
+            "title": "A Painter's Workshop",
+            "author": "GALLE Philip",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "c. 1595"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1537 Haarlem d. 1612 Antwerpen)",
+    "name": "GALLE Philip",
+    "school": "Flemish"
+}

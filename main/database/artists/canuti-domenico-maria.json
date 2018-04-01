@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 7407,
+            "location": "San Michele in Bosco Bologna",
+            "img": "imgs/art/7407.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canuti/bosco.html",
+            "title": "St Michael Flinging the Rebellious Angels into the Abyss",
+            "author": "CANUTI Domenico Maria",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1659"
+        },
+        {
+            "index": 7408,
+            "location": "San Michele in Bosco Bologna",
+            "img": "imgs/art/7408.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canuti/bosco1.html",
+            "title": "View of the library",
+            "author": "CANUTI Domenico Maria",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1677-80"
+        },
+        {
+            "index": 7409,
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "img": "imgs/art/7409.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canuti/pepoli.html",
+            "title": "Wall and ceiling decoration",
+            "author": "CANUTI Domenico Maria",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1669-71"
+        },
+        {
+            "index": 7410,
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "img": "imgs/art/7410.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canuti/pepoli1.html",
+            "title": "Apotheosis of Hercules",
+            "author": "CANUTI Domenico Maria",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1669-71"
+        },
+        {
+            "index": 7411,
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "img": "imgs/art/7411.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canuti/pepoli2.html",
+            "title": "Taddeo Pepoli Installed as Apostolic Vicar by Pope Benedict XII",
+            "author": "CANUTI Domenico Maria",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1655"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1625 Bologna d. 1684 Bologna)",
+    "name": "CANUTI Domenico Maria",
+    "school": "Italian"
+}

@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 15430,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/15430.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/couple.html",
+            "title": "Portrait of a Young Man Portrait of a Young Woman",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera on wood 45 x 34 cm (each panel)",
+            "painting_type": "portrait",
+            "date": "c. 1500"
+        },
+        {
+            "index": 15431,
+            "location": "Biblioteca Apostolica Vatican",
+            "img": "imgs/art/15431.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/latina1.html",
+            "title": "St Jerome",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "c. 1475"
+        },
+        {
+            "index": 15432,
+            "location": "Biblioteca Apostolica Vatican",
+            "img": "imgs/art/15432.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/latina2.html",
+            "title": "Aristotle and Diogenes",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1475"
+        },
+        {
+            "index": 15433,
+            "location": "Private collection",
+            "img": "imgs/art/15433.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/pieta.html",
+            "title": "Christ Supported by the Virgin Sts John the Evangelist and Joseph of Arimathea",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera on poplar panel 95 x 81 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15434,
+            "location": "Institute of Arts Detroit",
+            "img": "imgs/art/15434.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/portrait.html",
+            "title": "Portrait of a Young Man",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera on wood 32 x 21 cm",
+            "painting_type": "portrait",
+            "date": "c. 1490"
+        },
+        {
+            "index": 15435,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/15435.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/selvaggi.html",
+            "title": "Portrait of Selvaggia Sassetti",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera on panel 57 x 44 cm",
+            "painting_type": "portrait",
+            "date": "c. 1490"
+        },
+        {
+            "index": 15436,
+            "location": "Mus\u00e9e National de la Renaissance \u00c9couen",
+            "img": "imgs/art/15436.jpg",
+            "form": "mosaic",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Mosaic",
+            "painting_type": "religious",
+            "date": "1498"
+        },
+        {
+            "index": 15437,
+            "location": "Fitzwilliam Museum Cambridge",
+            "img": "imgs/art/15437.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/virgin_e.html",
+            "title": "Virgin and Child Enthroned between St Ursula and St Catherine",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera on panel 65 x 42 cm",
+            "painting_type": "religious",
+            "date": "1480s"
+        },
+        {
+            "index": 15438,
+            "location": "Private collection",
+            "img": "imgs/art/15438.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/virgin_f.html",
+            "title": "Virgin and Child",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Tempera oil and gold on panel rounded top 81 x 52 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15439,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/15439.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/ghirland/davide/z_2boys.html",
+            "title": "Bust Portraits of Two Boys (recto)",
+            "author": "GHIRLANDAIO Davide",
+            "technique": "Metalpoint white highlighting on ochre yellow prepared paper 218 x 280 mm",
+            "painting_type": "portrait",
+            "date": "c. 1490"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1452 Firenze d. 1525 Firenze)",
+    "name": "GHIRLANDAIO Davide",
+    "school": "Italian"
+}

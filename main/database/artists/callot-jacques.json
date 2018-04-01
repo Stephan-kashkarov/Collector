@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 7038,
+            "location": "British Museum London",
+            "img": "imgs/art/7038.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/2pantalo.html",
+            "title": "The Two Pantaloons",
+            "author": "CALLOT Jacques",
+            "technique": "Etching",
+            "painting_type": "other",
+            "date": "1616"
+        },
+        {
+            "index": 7039,
+            "location": "Devonshire Collection Chatsworth",
+            "img": "imgs/art/7039.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/agonygar.html",
+            "title": "The Agony in the Garden",
+            "author": "CALLOT Jacques",
+            "technique": "Wash drawing",
+            "painting_type": "religious",
+            "date": "1625"
+        },
+        {
+            "index": 7040,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7040.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/anthony.html",
+            "title": "Temptation of St Anthony",
+            "author": "CALLOT Jacques",
+            "technique": "Black chalk bister pen and wash sanguine and gouache 45 x 67 cm",
+            "painting_type": "religious",
+            "date": "1634"
+        },
+        {
+            "index": 7041,
+            "location": "Various collections",
+            "img": "imgs/art/7041.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/aviglian.html",
+            "title": "The Battle of Avigliana",
+            "author": "CALLOT Jacques",
+            "technique": "Etching 352 x 521 mm",
+            "painting_type": "historical",
+            "date": "after 1631"
+        },
+        {
+            "index": 7042,
+            "location": "British Museum London",
+            "img": "imgs/art/7042.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/florenti.html",
+            "title": "Florentine F\u00eate",
+            "author": "CALLOT Jacques",
+            "technique": "Etching",
+            "painting_type": "genre",
+            "date": "1619"
+        },
+        {
+            "index": 7043,
+            "location": "Various collections",
+            "img": "imgs/art/7043.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/holy_fam.html",
+            "title": "The Holy Family at Table",
+            "author": "CALLOT Jacques",
+            "technique": "Etching 190 x 165 mm",
+            "painting_type": "religious",
+            "date": "1628"
+        },
+        {
+            "index": 7044,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/7044.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/interlud.html",
+            "title": "Interlude in the Medici Theater",
+            "author": "CALLOT Jacques",
+            "technique": "Etching 273 x 200 mm",
+            "painting_type": "historical",
+            "date": "c. 1617"
+        },
+        {
+            "index": 7045,
+            "location": "Devonshire Collection Chatsworth",
+            "img": "imgs/art/7045.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/landscap.html",
+            "title": "Landscape",
+            "author": "CALLOT Jacques",
+            "technique": "Pen drawing",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 7046,
+            "location": "British Museum London",
+            "img": "imgs/art/7046.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/misere.html",
+            "title": "Scene from the Grandes Mis\u00e8res de la Guerre",
+            "author": "CALLOT Jacques",
+            "technique": "Etching",
+            "painting_type": "other",
+            "date": "1633"
+        },
+        {
+            "index": 7047,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/7047.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/siege.html",
+            "title": "Siege of La Rochelle",
+            "author": "CALLOT Jacques",
+            "technique": "Engraving",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 7048,
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "img": "imgs/art/7048.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/callot/viewsein.html",
+            "title": "View of the Seine in Paris",
+            "author": "CALLOT Jacques",
+            "technique": "Etching 167 x 339 mm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1592 Nancy d. 1635 Nancy)",
+    "name": "CALLOT Jacques",
+    "school": "French"
+}

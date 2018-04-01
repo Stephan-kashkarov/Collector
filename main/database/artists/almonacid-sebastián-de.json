@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 359,
+            "location": "Cathedral Sig\u00fcenza",
+            "img": "imgs/art/359.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/almonaci/vazquez.html",
+            "title": "Tomb of Martin V\u00e1zquez",
+            "author": "ALMONACID Sebasti\u00e1n de",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1490s"
+        },
+        {
+            "index": 360,
+            "location": "Cathedral Sig\u00fcenza",
+            "img": "imgs/art/360.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/almonaci/vazquez1.html",
+            "title": "Tomb of Martin V\u00e1zquez (detail)",
+            "author": "ALMONACID Sebasti\u00e1n de",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1490s"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1460 Torrijos d. 1526 ?)",
+    "name": "ALMONACID Sebasti\u00e1n de",
+    "school": "Spanish"
+}

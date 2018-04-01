@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13079,
+            "location": "Atheneumin Taidemuseo Helsinki",
+            "img": "imgs/art/13079.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/edelfelt/luxembou.html",
+            "title": "In the Luxembourg Gardens",
+            "author": "EDELFELT Albert",
+            "technique": "Oil on canvas 144 x 188 cm",
+            "painting_type": "landscape",
+            "date": "1887"
+        },
+        {
+            "index": 13080,
+            "location": "Atheneumin Taidemuseo Helsinki",
+            "img": "imgs/art/13080.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/edelfelt/parisnow.html",
+            "title": "Paris in the Snow",
+            "author": "EDELFELT Albert",
+            "technique": "Oil on panel 46 x 37 cm",
+            "painting_type": "landscape",
+            "date": "1887"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1854 Kiala Estate d. 1905 Haikko)",
+    "name": "EDELFELT Albert",
+    "school": "Finnish"
+}

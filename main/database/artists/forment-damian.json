@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 14068,
+            "location": "Cathedral Huesca",
+            "img": "imgs/art/14068.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/forment/huesca.html",
+            "title": "Retable of the High Altar (detail)",
+            "author": "FORMENT Damian",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1520-34"
+        },
+        {
+            "index": 14069,
+            "location": "Santo Domingo de la Calzada Saragossa",
+            "img": "imgs/art/14069.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/forment/main_alt.html",
+            "title": "Main Altar (detail)",
+            "author": "FORMENT Damian",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1540"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1480 Valencia d. 1540 Logrono)",
+    "name": "FORMENT Damian",
+    "school": "Spanish"
+}

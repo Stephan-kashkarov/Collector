@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15318,
+            "location": "Santa Maria in Trivio Rome",
+            "img": "imgs/art/15318.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardi/1vault.html",
+            "title": "Nave vault",
+            "author": "GHERARDI Antonio",
+            "technique": "Oil on canvas and fresco",
+            "painting_type": "religious",
+            "date": "1669-70"
+        },
+        {
+            "index": 15319,
+            "location": "Private collection",
+            "img": "imgs/art/15319.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardi/battlesc.html",
+            "title": "Battle Scene",
+            "author": "GHERARDI Antonio",
+            "technique": "Oil on canvas 52 x 68 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 15320,
+            "location": "San Carlo ai Catinari Rome",
+            "img": "imgs/art/15320.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gherardi/stucco.html",
+            "title": "Stuccowork",
+            "author": "GHERARDI Antonio",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "1692-1700"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1638 Rieti d. 1702 Roma)",
+    "name": "GHERARDI Antonio",
+    "school": "Italian"
+}

@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 3304,
+            "location": "Fine Arts Museums of San Francisco San Francisco",
+            "img": "imgs/art/3304.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/adoratio.html",
+            "title": "The Adoration of the Magi",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Oil on panel diameter: 972 cm",
+            "painting_type": "religious",
+            "date": "c. 1490"
+        },
+        {
+            "index": 3305,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3305.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell1.html",
+            "title": "Predella: Martyrdom of St John",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3306,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3306.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell2.html",
+            "title": "Predella: Annunciation",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3307,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3307.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell3.html",
+            "title": "Predella: Marriage of Mary",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3308,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3308.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell4.html",
+            "title": "Predella: Deposition",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3309,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3309.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell5.html",
+            "title": "Predella: Presentation at the Temple",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3310,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3310.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell6.html",
+            "title": "Predella: Baptism of Christ",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3311,
+            "location": "Spedale degli Innocenti Florence",
+            "img": "imgs/art/3311.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/predell7.html",
+            "title": "Predella: Consecration of the Church of the Innocents",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1488"
+        },
+        {
+            "index": 3312,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/3312.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/scenes.html",
+            "title": "Scenes from the Life of St John the Baptist",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on poplar panel 74 x 150 cm",
+            "painting_type": "religious",
+            "date": "1490-95"
+        },
+        {
+            "index": 3313,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/3313.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/thetis.html",
+            "title": "Procession of Thetis",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Wood 42 x 150 cm",
+            "painting_type": "mythological",
+            "date": "1490s"
+        },
+        {
+            "index": 3314,
+            "location": "Private collection",
+            "img": "imgs/art/3314.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bartolom/giovanni/tondo.html",
+            "title": "Madonna and Infant St John the Baptist Adoring the Christ Child with Two Angels",
+            "author": "BARTOLOMEO DI GIOVANNI",
+            "technique": "Tempera on panel diameter 72 cm",
+            "painting_type": "religious",
+            "date": "1500-10"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1480-1510 in Florence)",
+    "name": "BARTOLOMEO DI GIOVANNI",
+    "school": "Italian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8747,
+            "location": "Queluz Gardens Lisbon",
+            "img": "imgs/art/8747.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cheere/john/cainabel.html",
+            "title": "Cain and Abel",
+            "author": "CHEERE John",
+            "technique": "Lead",
+            "painting_type": "religious",
+            "date": "1755"
+        },
+        {
+            "index": 8748,
+            "location": "Private collection",
+            "img": "imgs/art/8748.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cheere/john/locke.html",
+            "title": "John Locke",
+            "author": "CHEERE John",
+            "technique": "Lead height 50 cm",
+            "painting_type": "portrait",
+            "date": "c. 1749"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1709 London d. 1787 London)",
+    "name": "CHEERE John",
+    "school": "English"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7069,
+            "location": "National Gallery of Slovenia Ljubljana",
+            "img": "imgs/art/7069.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calza/battle.html",
+            "title": "Battle with Turks",
+            "author": "CALZA Antonio",
+            "technique": "Oil on canvas 67 x 70 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 7070,
+            "location": "Private collection",
+            "img": "imgs/art/7070.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calza/cavalry.html",
+            "title": "Cavalry Charge",
+            "author": "CALZA Antonio",
+            "technique": "Oil on canvas 74 x 100 cm",
+            "painting_type": "historical",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1653 Verona d. 1725 Cerona)",
+    "name": "CALZA Antonio",
+    "school": "Italian"
+}

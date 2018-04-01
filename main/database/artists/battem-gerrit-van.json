@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3526,
+            "location": "Private collection",
+            "img": "imgs/art/3526.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/battem/domestic.html",
+            "title": "Domestic Scene",
+            "author": "BATTEM Gerrit van",
+            "technique": "Oil on panel 33 x 29 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 3527,
+            "location": "Private collection",
+            "img": "imgs/art/3527.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/battem/landscap.html",
+            "title": "Mountainous Landscape",
+            "author": "BATTEM Gerrit van",
+            "technique": "Oil on canvas 67 x 82 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1636 Rotterdam d. 1684 Rotterdam)",
+    "name": "BATTEM Gerrit van",
+    "school": "Dutch"
+}

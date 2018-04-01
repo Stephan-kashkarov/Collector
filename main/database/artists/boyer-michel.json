@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5870,
+            "location": "Private collection",
+            "img": "imgs/art/5870.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boyer/stillife.html",
+            "title": "Still-Life",
+            "author": "BOYER Michel",
+            "technique": "Oil on canvas 83 x 117 cm",
+            "painting_type": "still-life",
+            "date": "1690s"
+        },
+        {
+            "index": 5871,
+            "location": "Private collection",
+            "img": "imgs/art/5871.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boyer/themusic.html",
+            "title": "The Music",
+            "author": "BOYER Michel",
+            "technique": "Oil on canvas 72 x 92 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1668 Le Puy d. 1724 Paris)",
+    "name": "BOYER Michel",
+    "school": "French"
+}

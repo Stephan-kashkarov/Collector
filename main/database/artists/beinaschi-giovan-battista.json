@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3698,
+            "location": "Private collection",
+            "img": "imgs/art/3698.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beinasch/holyfami.html",
+            "title": "Holy Family with Sts Anne and Joachim",
+            "author": "BEINASCHI Giovan Battista",
+            "technique": "Oil on canvas 128 x 169 cm",
+            "painting_type": "religious",
+            "date": "1670s"
+        },
+        {
+            "index": 3699,
+            "location": "Private collection",
+            "img": "imgs/art/3699.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beinasch/st_paul.html",
+            "title": "Saint Paul",
+            "author": "BEINASCHI Giovan Battista",
+            "technique": "Oil on canvas 125 x 100 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1636 Fossano nr Turin d. 1688 Napoli)",
+    "name": "BEINASCHI Giovan Battista",
+    "school": "Italian"
+}

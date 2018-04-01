@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 6016,
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "img": "imgs/art/6016.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bray/joseph/joseph.html",
+            "title": "Joseph Receiving His Father and Brothers in Egypt",
+            "author": "BRAY Joseph de",
+            "technique": "Chalk 236 x 172 mm",
+            "painting_type": "religious",
+            "date": "1655"
+        },
+        {
+            "index": 6017,
+            "location": "Suermondt-Ludwig Museum Aachen",
+            "img": "imgs/art/6017.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bray/joseph/praise.html",
+            "title": "Still-Life in Praise of the Pickled Herring",
+            "author": "BRAY Joseph de",
+            "technique": "Oil on panel 67 x 49 cm",
+            "painting_type": "still-life",
+            "date": "1657"
+        },
+        {
+            "index": 6018,
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "img": "imgs/art/6018.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bray/joseph/praise_h.html",
+            "title": "Still-Life in Praise of the Pickled Herring",
+            "author": "BRAY Joseph de",
+            "technique": "Oil on oak 57 x 485 cm",
+            "painting_type": "still-life",
+            "date": "1656"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1628/34 Haarlem d. 1664 Haarlem)",
+    "name": "BRAY Joseph de",
+    "school": "Dutch"
+}

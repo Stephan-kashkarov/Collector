@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14129,
+            "location": "Mus\u00e9e Antoine-Lecuyer St Quentin",
+            "img": "imgs/art/14129.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fragonar/son/denoncid.html",
+            "title": "Vivant Denon Replacing El Cid's Remains in their Tombs",
+            "author": "FRAGONARD Alexandre-\u00c9variste",
+            "technique": "Oil on canvas 40 x 35 cm",
+            "painting_type": "historical",
+            "date": "c. 1811"
+        },
+        {
+            "index": 14130,
+            "location": "Private collection",
+            "img": "imgs/art/14130.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fragonar/son/don_juan.html",
+            "title": "Don Juan and the Statute of the Commander",
+            "author": "FRAGONARD Alexandre-\u00c9variste",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 14131,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14131.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fragonar/son/immured.html",
+            "title": "The Immured",
+            "author": "FRAGONARD Alexandre-\u00c9variste",
+            "technique": "Watercolour over a black pencil sketch 490 x 360 mm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 14132,
+            "location": "Private collection",
+            "img": "imgs/art/14132.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fragonar/son/mazarin.html",
+            "title": "Cardinal Mazarin at the Deathbed of Eustache Le Sueur",
+            "author": "FRAGONARD Alexandre-\u00c9variste",
+            "technique": "Oil on canvas 38 x 47 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1780 Grasse d. 1850 Paris)",
+    "name": "FRAGONARD Alexandre-\u00c9variste",
+    "school": "French"
+}

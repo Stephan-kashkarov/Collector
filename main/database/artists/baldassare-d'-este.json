@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 2985,
+            "location": "Palazzo Schifanoia Ferrara",
+            "img": "imgs/art/2985.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baldassa/4june_1.html",
+            "title": "Horseman (detail)",
+            "author": "BALDASSARE D' ESTE",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1476-84"
+        },
+        {
+            "index": 2986,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/2986.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baldassa/borso.html",
+            "title": "Borso d'Este",
+            "author": "BALDASSARE D' ESTE",
+            "technique": "Tempera on canvas mounted on panel 48 x 36 cm",
+            "painting_type": "portrait",
+            "date": "1470-71"
+        },
+        {
+            "index": 2987,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/2987.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baldassa/manportr.html",
+            "title": "Portrait of a Young Man",
+            "author": "BALDASSARE D' ESTE",
+            "technique": "Panel 51 x 37 cm",
+            "painting_type": "portrait",
+            "date": "c. 1475"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1432 Reggio Emilia d. 1506 Ferrara)",
+    "name": "BALDASSARE D' ESTE",
+    "school": "Italian"
+}

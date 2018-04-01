@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11534,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/11534.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck_a/isaac.html",
+            "title": "Isaac Blessing Jacob",
+            "author": "DIJCK Abraham van",
+            "technique": "Oil on canvas 125 x 108 cm",
+            "painting_type": "religious",
+            "date": "1650-80"
+        },
+        {
+            "index": 11535,
+            "location": "Private collection",
+            "img": "imgs/art/11535.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck_a/presenta.html",
+            "title": "Presentation in the Temple",
+            "author": "DIJCK Abraham van",
+            "technique": "Oil on canvas 119 x 107 cm",
+            "painting_type": "religious",
+            "date": "1655"
+        },
+        {
+            "index": 11536,
+            "location": "Private collection",
+            "img": "imgs/art/11536.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck_a/prophet.html",
+            "title": "The Prophet Elisha Refuses to Accept Gifts from Naaman",
+            "author": "DIJCK Abraham van",
+            "technique": "Oil on canvas 97 x 127 cm",
+            "painting_type": "religious",
+            "date": "c. 1655"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1635 Amsterdam d. 1680 Dordrecht)",
+    "name": "DIJCK Abraham van",
+    "school": "Dutch"
+}

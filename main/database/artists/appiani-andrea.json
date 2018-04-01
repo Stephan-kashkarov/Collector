@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 1145,
+            "location": "Private collection",
+            "img": "imgs/art/1145.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/apollo_d.html",
+            "title": "Apollo and Daphne",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on canvas 54 x 42 cm",
+            "painting_type": "mythological",
+            "date": "1794-95"
+        },
+        {
+            "index": 1146,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/1146.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/desaix.html",
+            "title": "General Desaix",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on canvas 115 x 88 cm",
+            "painting_type": "portrait",
+            "date": "1800-01"
+        },
+        {
+            "index": 1147,
+            "location": "Mus\u00e9e Napol\u00e9onien Ile d'Aix",
+            "img": "imgs/art/1147.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/napoleon.html",
+            "title": "Portrait of Napoleon First King of Italy",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on canvas 98 x 74 cm",
+            "painting_type": "portrait",
+            "date": "c. 1805"
+        },
+        {
+            "index": 1148,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/1148.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/olympus.html",
+            "title": "The Olympus",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on canvas 45 x 136 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 1149,
+            "location": "Pushkin Museum Moscow",
+            "img": "imgs/art/1149.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/peace.html",
+            "title": "Allegory on the Peace of Pressburg",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on wood 38 x 46 cm",
+            "painting_type": "mythological",
+            "date": "1808"
+        },
+        {
+            "index": 1150,
+            "location": "Pinacoteca Civica Brescia",
+            "img": "imgs/art/1150.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/appiani/toiljuno.html",
+            "title": "The Toilet of Juno",
+            "author": "APPIANI Andrea",
+            "technique": "Oil on canvas 100 x 142 cm",
+            "painting_type": "mythological",
+            "date": "c. 1811"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1754 Milano d. 1817 Milano)",
+    "name": "APPIANI Andrea",
+    "school": "Italian"
+}

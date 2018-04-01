@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 7146,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/7146.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canal/antoninu.html",
+            "title": "Temple of Antoninus and Faustina in Rome",
+            "author": "CANAL Bernardo",
+            "technique": "Oil on canvas 148 x 199 cm",
+            "painting_type": "landscape",
+            "date": "1720-21"
+        },
+        {
+            "index": 7147,
+            "location": "Private collection",
+            "img": "imgs/art/7147.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canal/carita.html",
+            "title": "The Grand Canal with the Church of La Carit\u00e0",
+            "author": "CANAL Bernardo",
+            "technique": "Oil on canvas 70 x 120 cm",
+            "painting_type": "landscape",
+            "date": "1734-37"
+        },
+        {
+            "index": 7148,
+            "location": "Private collection",
+            "img": "imgs/art/7148.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canal/rialto.html",
+            "title": "The Grand Canal with the Fabbriche Nuove at Rialto",
+            "author": "CANAL Bernardo",
+            "technique": "Oil on canvas 70 x 120 cm",
+            "painting_type": "landscape",
+            "date": "1734-37"
+        },
+        {
+            "index": 7149,
+            "location": "Private collection",
+            "img": "imgs/art/7149.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canal/viewrome.html",
+            "title": "View of Rome",
+            "author": "CANAL Bernardo",
+            "technique": "Oil on canvas 73 x 112 cm",
+            "painting_type": "landscape",
+            "date": "1720s"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1664 Venezia d. 1744 Venezia)",
+    "name": "CANAL Bernardo",
+    "school": "Italian"
+}

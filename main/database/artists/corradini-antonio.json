@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 9579,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/9579.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/hatchcov.html",
+            "title": "Hatchcover",
+            "author": "CORRADINI Antonio",
+            "technique": "Gilded wood 119 x 83 cm",
+            "painting_type": "other",
+            "date": "1722-28"
+        },
+        {
+            "index": 9580,
+            "location": "Santa Maria della Piet\u00e0 dei Sangro Naples",
+            "img": "imgs/art/9580.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/modestz.html",
+            "title": "Modesty",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble height 195 cm",
+            "painting_type": "mythological",
+            "date": "1749-52"
+        },
+        {
+            "index": 9581,
+            "location": "Santa Maria della Piet\u00e0 dei Sangro Naples",
+            "img": "imgs/art/9581.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/modesty.html",
+            "title": "Modesty",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble height 195 cm",
+            "painting_type": "mythological",
+            "date": "1749-52"
+        },
+        {
+            "index": 9582,
+            "location": "Grosser Garden Dresden",
+            "img": "imgs/art/9582.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/nessus.html",
+            "title": "Nessus and Deianira",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble height 255 cm",
+            "painting_type": "mythological",
+            "date": "1718-23"
+        },
+        {
+            "index": 9583,
+            "location": "San Mois\u00e8 Venice",
+            "img": "imgs/art/9583.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1723-24"
+        },
+        {
+            "index": 9584,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/9584.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/puritas.html",
+            "title": "Bust of a Veiled Woman (Puritas)",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1717-25"
+        },
+        {
+            "index": 9585,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/9585.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/puritas1.html",
+            "title": "Bust of a Veiled Woman (Puritas)",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1717-25"
+        },
+        {
+            "index": 9586,
+            "location": "Santa Maria del Carmelo Venice",
+            "img": "imgs/art/9586.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/corradin/virginit.html",
+            "title": "Virginity",
+            "author": "CORRADINI Antonio",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1722-23"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1668 Padova d. 1752 Napoli)",
+    "name": "CORRADINI Antonio",
+    "school": "Italian"
+}

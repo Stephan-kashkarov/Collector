@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6896,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/6896.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/butinone/flight_e.html",
+            "title": "The Flight into Egypt",
+            "author": "BUTINONE Bernardino Jacopi",
+            "technique": "Tempera on poplar panel 25 x 22 cm",
+            "painting_type": "religious",
+            "date": "c. 1485"
+        },
+        {
+            "index": 6897,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/6897.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/butinone/madonna.html",
+            "title": "Madonna and Child",
+            "author": "BUTINONE Bernardino Jacopi",
+            "technique": "Tempera on panel 33 x 28 cm",
+            "painting_type": "religious",
+            "date": "c. 1490"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1436 Treviglio d. ca. 1507)",
+    "name": "BUTINONE Bernardino Jacopi",
+    "school": "Italian"
+}

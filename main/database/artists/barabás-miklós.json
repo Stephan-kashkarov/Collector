@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 3143,
+            "location": "Dob\u00f3 Istv\u00e1n V\u00e1rm\u00fazeum Eger",
+            "img": "imgs/art/3143.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/buttler.html",
+            "title": "Portrait of J\u00e1nos Buttler",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 250 x 153 cm",
+            "painting_type": "portrait",
+            "date": "1836"
+        },
+        {
+            "index": 3144,
+            "location": "Historical Picture Gallery Hungarian National Museum Budapest",
+            "img": "imgs/art/3144.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/emperor.html",
+            "title": "Portrait of Emperor Franz Joseph I",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 268 x 1785 cm",
+            "painting_type": "portrait",
+            "date": "1853"
+        },
+        {
+            "index": 3145,
+            "location": "Hungarian National Museum Budapest",
+            "img": "imgs/art/3145.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/eotvos_j.html",
+            "title": "Portrait of J\u00f3zsef E\u00f6tv\u00f6s",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 655 x 525 cm",
+            "painting_type": "portrait",
+            "date": "1845"
+        },
+        {
+            "index": 3146,
+            "location": "Historical Picture Gallery Hungarian National Museum Budapest",
+            "img": "imgs/art/3146.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/liszt_f.html",
+            "title": "Portrait of Franz Liszt",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 132 x 102 cm",
+            "painting_type": "portrait",
+            "date": "1847"
+        },
+        {
+            "index": 3147,
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "img": "imgs/art/3147.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/pidgeon.html",
+            "title": "Pigeon-post",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 106 x 84 cm",
+            "painting_type": "genre",
+            "date": "1843"
+        },
+        {
+            "index": 3148,
+            "location": "Magyar Nemzeti Gal\u00e9ria Budapest",
+            "img": "imgs/art/3148.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/rumanian.html",
+            "title": "Rumanian Family Going to the Fair",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas 138 x 109 cm",
+            "painting_type": "genre",
+            "date": "1843/44"
+        },
+        {
+            "index": 3149,
+            "location": "Historical Picture Gallery Hungarian National Museum Budapest",
+            "img": "imgs/art/3149.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barabas/szecheny.html",
+            "title": "Count Istv\u00e1n Sz\u00e9chenyi",
+            "author": "BARAB\u00c1S Mikl\u00f3s",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1848"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1810 K\u00e9zdim\u00e1rkosfalva d. 1898 Budapest)",
+    "name": "BARAB\u00c1S Mikl\u00f3s",
+    "school": "Hungarian"
+}

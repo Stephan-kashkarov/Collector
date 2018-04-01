@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13747,
+            "location": "Sant'Agnese in Agone Rome",
+            "img": "imgs/art/13747.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/ferrata/st_agnes.html",
+            "title": "St Agnes on the Pyre",
+            "author": "FERRATA Ercole",
+            "technique": "Marble over life-size",
+            "painting_type": "religious",
+            "date": "1660-64"
+        },
+        {
+            "index": 13748,
+            "location": "Sant'Agnese in Agone Rome",
+            "img": "imgs/art/13748.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/ferrata/stoning.html",
+            "title": "Stoning of St Emerenziana",
+            "author": "FERRATA Ercole",
+            "technique": "Marble height 310 cm",
+            "painting_type": "religious",
+            "date": "1660"
+        },
+        {
+            "index": 13749,
+            "location": "Sant'Agnese in Agone Rome",
+            "img": "imgs/art/13749.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/ferrata/stoning1.html",
+            "title": "Stoning of St Emerenziana",
+            "author": "FERRATA Ercole",
+            "technique": "Marble height 310 cm",
+            "painting_type": "religious",
+            "date": "1660"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1610 Como d. 1686 Roma)",
+    "name": "FERRATA Ercole",
+    "school": "Italian"
+}

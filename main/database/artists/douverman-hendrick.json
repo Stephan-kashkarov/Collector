@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 12073,
+            "location": "Church of St Nicholas Kalkar",
+            "img": "imgs/art/12073.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/douverma/predella.html",
+            "title": "Tree of Jesse",
+            "author": "DOUVERMAN Hendrick",
+            "technique": "Oak",
+            "painting_type": "religious",
+            "date": "1522"
+        },
+        {
+            "index": 12074,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/12074.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/douverma/stursula.html",
+            "title": "St Ursula",
+            "author": "DOUVERMAN Hendrick",
+            "technique": "Oak height 93 cm",
+            "painting_type": "religious",
+            "date": "c. 1520"
+        },
+        {
+            "index": 12075,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/12075.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/douverma/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "DOUVERMAN Hendrick",
+            "technique": "Oak height 120 cm",
+            "painting_type": "religious",
+            "date": "c. 1510"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1490 d. ca. 1543 Kalkar)",
+    "name": "DOUVERMAN Hendrick",
+    "school": "Netherlandish"
+}

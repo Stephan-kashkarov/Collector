@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2824,
+            "location": "Corcoran Gallery of Art Washington",
+            "img": "imgs/art/2824.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/a/avelli/plate.html",
+            "title": "Plate with the Sinking of the Fleet of Seleucus",
+            "author": "AVELLI Francesco Xanto",
+            "technique": "Tin-glazed earthenware diameter 265 cm",
+            "painting_type": "mythological",
+            "date": "1532"
+        },
+        {
+            "index": 2825,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/2825.jpg",
+            "form": "ceramics",
+            "url": "https://www.wga.hu/html/a/avelli/plate1.html",
+            "title": "Plate",
+            "author": "AVELLI Francesco Xanto",
+            "technique": "Maiolica diameter 44 cm",
+            "painting_type": "mythological",
+            "date": "1537"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1487 Rovigo d. ca. 1542 Urbino)",
+    "name": "AVELLI Francesco Xanto",
+    "school": "Italian"
+}

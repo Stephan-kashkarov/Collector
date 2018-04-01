@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 15328,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15328.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna1.html",
+            "title": "View of the Grande Galleria",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1665-85"
+        },
+        {
+            "index": 15329,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15329.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna2.html",
+            "title": "Oval ceiling panel",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15330,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15330.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna3.html",
+            "title": "Oval ceiling panel",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15331,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15331.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna4.html",
+            "title": "Narrative scene",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15332,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15332.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna5.html",
+            "title": "Narrative scene",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15333,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15333.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna6.html",
+            "title": "Narrative scene",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15334,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15334.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna7.html",
+            "title": "Vault decoration",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15335,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/15335.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/colonna8.html",
+            "title": "Vault decoration",
+            "author": "GHERARDI Filippo",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1675-82"
+        },
+        {
+            "index": 15336,
+            "location": "Private collection",
+            "img": "imgs/art/15336.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/esther_a.html",
+            "title": "Esther and Ahasuerus",
+            "author": "GHERARDI Filippo",
+            "technique": "Oil on canvas 283 x 511 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15337,
+            "location": "Convent of San Giorgio Maggiore Venice",
+            "img": "imgs/art/15337.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardk/wisdom.html",
+            "title": "The Triumph of Wisdom",
+            "author": "GHERARDI Filippo",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1671"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1643 Lucca d. 1704 Lucca)",
+    "name": "GHERARDI Filippo",
+    "school": "Italian"
+}

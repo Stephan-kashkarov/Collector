@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6112,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6112.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/breu/younger/joseph.html",
+            "title": "Joseph Interpreting the Dreams of Pharaoh",
+            "author": "BREU J\u00f6rg the Younger",
+            "technique": "Distemper on linen 172 x 145 cm",
+            "painting_type": "religious",
+            "date": "1537-47"
+        },
+        {
+            "index": 6113,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6113.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/breu/younger/joseph_d.html",
+            "title": "Joseph Interpreting the Dreams of Pharaoh (detail)",
+            "author": "BREU J\u00f6rg the Younger",
+            "technique": "Distemper on linen",
+            "painting_type": "religious",
+            "date": "1537-47"
+        },
+        {
+            "index": 6114,
+            "location": "Eton College Library Windsor",
+            "img": "imgs/art/6114.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/breu/younger/lucretia.html",
+            "title": "The Story of Lucretia",
+            "author": "BREU J\u00f6rg the Younger",
+            "technique": "Manuscript (Ms. 92) 493 x 345 mm",
+            "painting_type": "mythological",
+            "date": "1541"
+        },
+        {
+            "index": 6115,
+            "location": "Kupferstichkabinett Dresden",
+            "img": "imgs/art/6115.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/breu/younger/prodigal.html",
+            "title": "The Prodigal Son",
+            "author": "BREU J\u00f6rg the Younger",
+            "technique": "Hand-coloured woodcut from nine woodblocks 790 x 749 mm",
+            "painting_type": "religious",
+            "date": "1534-47"
+        },
+        {
+            "index": 6116,
+            "location": "Kupferstichkabinett Gotha",
+            "img": "imgs/art/6116.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/breu/younger/therichma.html",
+            "title": "The Rich Man and Lazarus",
+            "author": "BREU J\u00f6rg the Younger",
+            "technique": "Woodcut from eight woodblocks 678 x 982 mm",
+            "painting_type": "religious",
+            "date": "1534-47"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1510 Augsburg d. 1547 Augsburg)",
+    "name": "BREU J\u00f6rg the Younger",
+    "school": "German"
+}

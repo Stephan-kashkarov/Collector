@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 2811,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/2811.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/audran/claude3/arabesqu.html",
+            "title": "Arabesque",
+            "author": "AUDRAN Claude III",
+            "technique": "Drawing",
+            "painting_type": "other",
+            "date": "c. 1704"
+        },
+        {
+            "index": 2812,
+            "location": "Mus\u00e9e des Arts d\u00e9coratifs Paris",
+            "img": "imgs/art/2812.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/audran/claude3/decorati.html",
+            "title": "Ceiling decoration",
+            "author": "AUDRAN Claude III",
+            "technique": "Watercolour 450 x 370 mm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 2813,
+            "location": "Mobilier National Paris",
+            "img": "imgs/art/2813.jpg",
+            "form": "tapestry",
+            "url": "https://www.wga.hu/html/a/audran/claude3/jupiter.html",
+            "title": "The Gods: Jupiter",
+            "author": "AUDRAN Claude III",
+            "technique": "Tapestry",
+            "painting_type": "mythological",
+            "date": "1700s"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1658 Lyon d. 1734 Paris)",
+    "name": "AUDRAN Claude III",
+    "school": "French"
+}

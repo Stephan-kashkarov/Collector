@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10723,
+            "location": "Private collection",
+            "img": "imgs/art/10723.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalens/dirck2/river_la.html",
+            "title": "River Landscape",
+            "author": "DALENS Dirck II",
+            "technique": "Oil on canvas 31 x 31 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 10724,
+            "location": "Private collection",
+            "img": "imgs/art/10724.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalens/dirck2/wooded.html",
+            "title": "Wooded Landscape",
+            "author": "DALENS Dirck II",
+            "technique": "Oil on canvas 97 x 178 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1659 Amsterdam d. 1688 Amsterdam)",
+    "name": "DALENS Dirck II",
+    "school": "Dutch"
+}

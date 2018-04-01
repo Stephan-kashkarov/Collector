@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 354,
+            "location": "Museum of Art Philadelphia",
+            "img": "imgs/art/354.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/almatade/almatad1.html",
+            "title": "Reading from Homer",
+            "author": "ALMA-TADEMA Lawrence",
+            "technique": "Oil on canvas 91 x 183 cm",
+            "painting_type": "mythological",
+            "date": "1885"
+        },
+        {
+            "index": 355,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/355.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/almatade/almatad2.html",
+            "title": "Tibullus at Delias House",
+            "author": "ALMA-TADEMA Lawrence",
+            "technique": "Oil on panel 44 x 65 cm",
+            "painting_type": "historical",
+            "date": "1866"
+        },
+        {
+            "index": 356,
+            "location": "Yale University Art Gallery New Haven",
+            "img": "imgs/art/356.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/almatade/almatad3.html",
+            "title": "Roman Art Lover",
+            "author": "ALMA-TADEMA Lawrence",
+            "technique": "Oil on panel 56 x 85 cm",
+            "painting_type": "genre",
+            "date": "1868"
+        },
+        {
+            "index": 357,
+            "location": "Sterling and Francine Clark Art Institute Williamstown",
+            "img": "imgs/art/357.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/almatade/almatad4.html",
+            "title": "Women of Amphissa",
+            "author": "ALMA-TADEMA Lawrence",
+            "technique": "Oil on canvas 122 x 183 cm",
+            "painting_type": "historical",
+            "date": "1887"
+        },
+        {
+            "index": 358,
+            "location": "Private collection",
+            "img": "imgs/art/358.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/almatade/almatad5.html",
+            "title": "On the Steps of the Capitol",
+            "author": "ALMA-TADEMA Lawrence",
+            "technique": "Watercolour 191 x 400 mm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1836 Dronrijp d. 1912 Wiesbaden)",
+    "name": "ALMA-TADEMA Lawrence",
+    "school": "English"
+}

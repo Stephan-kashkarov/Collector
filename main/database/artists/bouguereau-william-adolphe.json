@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 5733,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/5733.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouguere/bathers.html",
+            "title": "Bathers",
+            "author": "BOUGUEREAU William-Adolphe",
+            "technique": "Oil on canvas 201 x 129 cm",
+            "painting_type": "other",
+            "date": "1884"
+        },
+        {
+            "index": 5734,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/5734.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouguere/birthven.html",
+            "title": "The Birth of Venus",
+            "author": "BOUGUEREAU William-Adolphe",
+            "technique": "Oil on canvas 300 x 215 cm",
+            "painting_type": "mythological",
+            "date": "1879"
+        },
+        {
+            "index": 5735,
+            "location": "Private collection",
+            "img": "imgs/art/5735.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouguere/girlchil.html",
+            "title": "Girl with a Child",
+            "author": "BOUGUEREAU William-Adolphe",
+            "technique": "Oil on canvas 59 x 48 cm",
+            "painting_type": "portrait",
+            "date": "1877"
+        },
+        {
+            "index": 5736,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5736.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouguere/tobias.html",
+            "title": "Tobias Saying Farewell to his Father",
+            "author": "BOUGUEREAU William-Adolphe",
+            "technique": "Oil on canvas 153 x 119 cm",
+            "painting_type": "religious",
+            "date": "1860"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1825 La Rochelle d. 1905 La Rochelle)",
+    "name": "BOUGUEREAU William-Adolphe",
+    "school": "French"
+}

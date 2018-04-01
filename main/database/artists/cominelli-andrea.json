@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 9335,
+            "location": "Church of San Clemente Isola di San Clemente",
+            "img": "imgs/art/9335.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cominell/clemente.html",
+            "title": "San Clemente: Fa\u00e7ade",
+            "author": "COMINELLI Andrea",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1652"
+        },
+        {
+            "index": 9336,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/9336.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cominell/labia1.html",
+            "title": "Palazzo Labia: Fa\u00e7ade",
+            "author": "COMINELLI Andrea",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1680s"
+        },
+        {
+            "index": 9337,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/9337.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cominell/labia2.html",
+            "title": "Palazzo Labia: Exterior view",
+            "author": "COMINELLI Andrea",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1680s"
+        },
+        {
+            "index": 9338,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/9338.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cominell/labia3.html",
+            "title": "Palazzo Labia: Exterior view",
+            "author": "COMINELLI Andrea",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1680s"
+        },
+        {
+            "index": 9339,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/9339.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cominell/labia4.html",
+            "title": "Palazzo Labia: Fa\u00e7ade",
+            "author": "COMINELLI Andrea",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1680s"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(active 1643-1688)",
+    "name": "COMINELLI Andrea",
+    "school": "Italian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3494,
+            "location": "Private collection",
+            "img": "imgs/art/3494.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bastien/haymakin.html",
+            "title": "Haymaking",
+            "author": "BASTIEN-LEPAGE Jules",
+            "technique": "Oil on canvas 180 x 195 cm",
+            "painting_type": "genre",
+            "date": "1877"
+        },
+        {
+            "index": 3495,
+            "location": "Private collection",
+            "img": "imgs/art/3495.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bastien/portrait.html",
+            "title": "Portrait of Mme Waskiewicz",
+            "author": "BASTIEN-LEPAGE Jules",
+            "technique": "Oil on canvas 31 x 34 cm",
+            "painting_type": "portrait",
+            "date": "1881"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1848 Damvillers Meuse d. 1884 Paris)",
+    "name": "BASTIEN-LEPAGE Jules",
+    "school": "French"
+}

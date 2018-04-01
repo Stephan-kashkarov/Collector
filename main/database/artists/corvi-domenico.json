@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9726,
+            "location": "Wadsworth Atheneum Hartford",
+            "img": "imgs/art/9726.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corvi/calasanz.html",
+            "title": "St Joseph Calasanz Resuscitating a Child",
+            "author": "CORVI Domenico",
+            "technique": "Oil on canvas 222 x 176 cm",
+            "painting_type": "religious",
+            "date": "1767"
+        },
+        {
+            "index": 9727,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/9727.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corvi/mad_chil.html",
+            "title": "Virgin and Child",
+            "author": "CORVI Domenico",
+            "technique": "Oil on canvas 60 x 49 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9728,
+            "location": "Private collection",
+            "img": "imgs/art/9728.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corvi/madchild.html",
+            "title": "Madonna and Child Attended by Saints and Bishops",
+            "author": "CORVI Domenico",
+            "technique": "Oil on canvas 75 x 62 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1721 Viterbo d. 1803 Roma)",
+    "name": "CORVI Domenico",
+    "school": "Italian"
+}

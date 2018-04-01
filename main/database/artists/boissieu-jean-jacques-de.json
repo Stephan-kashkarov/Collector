@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4878,
+            "location": "J. Paul Getty Museum Los Angeles",
+            "img": "imgs/art/4878.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/boissieu/landscap.html",
+            "title": "Landscape with Ch\u00e2teau Gaillard",
+            "author": "BOISSIEU Jean-Jacques de",
+            "technique": "Pen with black and gray ink and brush and gray wash heightened with gouache and watercolour 313 x 445 mm",
+            "painting_type": "landscape",
+            "date": "1796"
+        },
+        {
+            "index": 4879,
+            "location": "Private collection",
+            "img": "imgs/art/4879.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/boissieu/orleans.html",
+            "title": "View of Orl\u00e9ans from a Garden on the Banks of the Loire",
+            "author": "BOISSIEU Jean-Jacques de",
+            "technique": "Gouache on paper laid down on board 381 x 540 mm",
+            "painting_type": "landscape",
+            "date": "1807"
+        },
+        {
+            "index": 4880,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/4880.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/boissieu/selfport.html",
+            "title": "Self-Portrait",
+            "author": "BOISSIEU Jean-Jacques de",
+            "technique": "Engraving",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1736 Lyon d. 1810 Lyon)",
+    "name": "BOISSIEU Jean-Jacques de",
+    "school": "French"
+}

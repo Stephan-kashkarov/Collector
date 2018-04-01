@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 15727,
+            "location": "Private collection",
+            "img": "imgs/art/15727.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/eccehomo.html",
+            "title": "Ecce Homo",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on panel 62 x 50 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15728,
+            "location": "Staatliche Museen Kassel",
+            "img": "imgs/art/15728.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/leda.html",
+            "title": "Leda and her Children",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on wood 128 x 106 cm",
+            "painting_type": "mythological",
+            "date": "c. 1520"
+        },
+        {
+            "index": 15729,
+            "location": "Staatliche Museen Kassel",
+            "img": "imgs/art/15729.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/leda1.html",
+            "title": "Leda and her Children (detail)",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on wood",
+            "painting_type": "mythological",
+            "date": "c. 1520"
+        },
+        {
+            "index": 15730,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/15730.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/madonn_c.html",
+            "title": "Madonna with Child",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on canvas 58 x 49 cm",
+            "painting_type": "religious",
+            "date": "1520s"
+        },
+        {
+            "index": 15731,
+            "location": "Private collection",
+            "img": "imgs/art/15731.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/madonn_d.html",
+            "title": "Madonna and Child with St Elizabeth and the Infant St John the Baptist",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on panel 65 x 54 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15732,
+            "location": "Private collection",
+            "img": "imgs/art/15732.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/madonn_e.html",
+            "title": "Madonna and Child",
+            "author": "GIAMPIETRINO",
+            "technique": "Tempera on panel 66 x 51 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15733,
+            "location": "Private collection",
+            "img": "imgs/art/15733.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/madonn_s.html",
+            "title": "Madonna Suckling the Infant Christ",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on poplar panel 65 x 48 cm",
+            "painting_type": "religious",
+            "date": "1520s"
+        },
+        {
+            "index": 15734,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/15734.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/madonna.html",
+            "title": "Madonna and Child with Sts Jerome and Michael",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on panel 61 x 74 cm",
+            "painting_type": "religious",
+            "date": "1530s"
+        },
+        {
+            "index": 15735,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/15735.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giampiet/magdalen.html",
+            "title": "Repentant Mary Magdalene",
+            "author": "GIAMPIETRINO",
+            "technique": "Oil on panel 49 x 39 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(active 1520-40 in Milan)",
+    "name": "GIAMPIETRINO",
+    "school": "Italian"
+}

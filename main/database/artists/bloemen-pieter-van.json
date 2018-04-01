@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 4781,
+            "location": "Private collection",
+            "img": "imgs/art/4781.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/atforge.html",
+            "title": "At the Forge",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 47 x 55 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4782,
+            "location": "Private collection",
+            "img": "imgs/art/4782.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/battlesc.html",
+            "title": "Battle Scene",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 4783,
+            "location": "Private collection",
+            "img": "imgs/art/4783.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/drovers.html",
+            "title": "Drovers with Cattle and Goats Fording a Stream",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 72 x 91 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4784,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4784.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/open_air.html",
+            "title": "Open-Air Manege",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 53 x 65 cm",
+            "painting_type": "genre",
+            "date": "1712"
+        },
+        {
+            "index": 4785,
+            "location": "Private collection",
+            "img": "imgs/art/4785.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/peasants.html",
+            "title": "Peasant Couple amongst their Cattle and Sheep",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 48 x 59 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4786,
+            "location": "Private collection",
+            "img": "imgs/art/4786.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/riderest.html",
+            "title": "Riders Resting at a Military Encampment",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 61 x 85 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4787,
+            "location": "Private collection",
+            "img": "imgs/art/4787.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/pieter/riding_s.html",
+            "title": "A Riding-School",
+            "author": "BLOEMEN Pieter van",
+            "technique": "Oil on canvas 57 x 82 cm",
+            "painting_type": "genre",
+            "date": "c. 1700"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1657 Antwerpen d. ca. 1720 Antwerpen)",
+    "name": "BLOEMEN Pieter van",
+    "school": "Flemish"
+}

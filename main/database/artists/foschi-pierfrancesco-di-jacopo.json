@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14081,
+            "location": "Private collection",
+            "img": "imgs/art/14081.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi/judith.html",
+            "title": "Judith and Holofernes",
+            "author": "FOSCHI Pierfrancesco di Jacopo",
+            "technique": "Oil on panel 104 x 81 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 14082,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/14082.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi/port_lad.html",
+            "title": "Portrait of a Lady",
+            "author": "FOSCHI Pierfrancesco di Jacopo",
+            "technique": "Oil on panel 101 x 79 cm",
+            "painting_type": "portrait",
+            "date": "1530-35"
+        },
+        {
+            "index": 14083,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/14083.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi/port_man.html",
+            "title": "Portrait of a Man",
+            "author": "FOSCHI Pierfrancesco di Jacopo",
+            "technique": "Oil on wood 65 x 50 cm",
+            "painting_type": "portrait",
+            "date": "1530s"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1502 Firenze d. 1567 Firenze)",
+    "name": "FOSCHI Pierfrancesco di Jacopo",
+    "school": "Italian"
+}

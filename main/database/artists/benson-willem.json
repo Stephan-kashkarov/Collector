@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4082,
+            "location": "Royal Collection Windsor",
+            "img": "imgs/art/4082.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benson/son/nativity.html",
+            "title": "The Nativity",
+            "author": "BENSON Willem",
+            "technique": "Oil on panel 36 x 29 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4083,
+            "location": "Private collection",
+            "img": "imgs/art/4083.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benson/son/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "BENSON Willem",
+            "technique": "Oil on oak panel shaped top 95 x 64 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1521 Brugge d. 1574. Middelburg)",
+    "name": "BENSON Willem",
+    "school": "Flemish"
+}

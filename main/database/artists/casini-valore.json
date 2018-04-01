@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8095,
+            "location": "Museo Storico della Caccia e del Territorio Cerreto Guidi",
+            "img": "imgs/art/8095.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/casini/portrai1.html",
+            "title": "Portrait of Leo X",
+            "author": "CASINI Valore",
+            "technique": "Oil on canvas 230 x 168 cm",
+            "painting_type": "portrait",
+            "date": "1628"
+        },
+        {
+            "index": 8096,
+            "location": "Museo Storico della Caccia e del Territorio Cerreto Guidi",
+            "img": "imgs/art/8096.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/casini/portrai2.html",
+            "title": "Portrait of Clement VII",
+            "author": "CASINI Valore",
+            "technique": "Oil on canvas 230 x 168 cm",
+            "painting_type": "portrait",
+            "date": "1628"
+        },
+        {
+            "index": 8097,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/8097.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/casini/portrai3.html",
+            "title": "Portrait of Christine of Lorraine",
+            "author": "CASINI Valore",
+            "technique": "Oil on canvas 199 x 115 cm",
+            "painting_type": "portrait",
+            "date": "c. 1620"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1590 Firenze d. 1660 Firenze)",
+    "name": "CASINI Valore",
+    "school": "Italian"
+}

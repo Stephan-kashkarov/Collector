@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 4553,
+            "location": "Private collection",
+            "img": "imgs/art/4553.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/augustan.html",
+            "title": "The Augustan Bridge",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on canvas 101 x 138 cm",
+            "painting_type": "landscape",
+            "date": "1790"
+        },
+        {
+            "index": 4554,
+            "location": "Private collection",
+            "img": "imgs/art/4554.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/gorge.html",
+            "title": "View of the Cascade of the Gorge near Allevard",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on paper 36 x 48 cm",
+            "painting_type": "landscape",
+            "date": "1803"
+        },
+        {
+            "index": 4555,
+            "location": "Private collection",
+            "img": "imgs/art/4555.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/italland.html",
+            "title": "Italianate Landscape",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on canvas 25 x 33 cm",
+            "painting_type": "landscape",
+            "date": "1785-90"
+        },
+        {
+            "index": 4556,
+            "location": "Private collection",
+            "img": "imgs/art/4556.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/landscap.html",
+            "title": "Landscape with Figures Crossing a River",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on canvas 50 x 66 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4557,
+            "location": "Private collection",
+            "img": "imgs/art/4557.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/stillife.html",
+            "title": "Still-Life",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on canvas 71 x 55 cm",
+            "painting_type": "still-life",
+            "date": "1810"
+        },
+        {
+            "index": 4558,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/4558.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/viewsora.html",
+            "title": "View of the Isle of Sora",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on canvas 113 x 144 cm",
+            "painting_type": "landscape",
+            "date": "1793"
+        },
+        {
+            "index": 4559,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4559.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bidauld/viewtivo.html",
+            "title": "View of the Waterfalls at Tivoli",
+            "author": "BIDAULD Jean-Joseph-Xavier",
+            "technique": "Oil on paper on canvas 51 x 38 cm",
+            "painting_type": "landscape",
+            "date": "1788"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1758 Carpentras d. 1846 Montmorency)",
+    "name": "BIDAULD Jean-Joseph-Xavier",
+    "school": "French"
+}

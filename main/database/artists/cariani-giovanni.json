@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 7647,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/7647.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/2_y_men.html",
+            "title": "Portrait of Two Young Men",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 45 x 63 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 7648,
+            "location": "Pinacoteca Ambrosiana Milan",
+            "img": "imgs/art/7648.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/calvary.html",
+            "title": "The Way to Calvary",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 63 x 87 cm",
+            "painting_type": "religious",
+            "date": "c. 1519"
+        },
+        {
+            "index": 7649,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/7649.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/reclinin.html",
+            "title": "Reclining Woman in a Landscape",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 74 x 94 cm",
+            "painting_type": "landscape",
+            "date": "1520-24"
+        },
+        {
+            "index": 7650,
+            "location": "Pinacoteca Tosio Martinengo Brescia",
+            "img": "imgs/art/7650.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/roadcalv.html",
+            "title": "Road to Calvary with Veronica's Veil",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 100 x 195 cm",
+            "painting_type": "religious",
+            "date": "1523-25"
+        },
+        {
+            "index": 7651,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/7651.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/sacr_con.html",
+            "title": "Sacred Conversation",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 168 x 164 cm",
+            "painting_type": "religious",
+            "date": "1524-30"
+        },
+        {
+            "index": 7652,
+            "location": "Mus\u00e9e des Beaux-Arts Marseille",
+            "img": "imgs/art/7652.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/sebastia.html",
+            "title": "St Sebastian between St Roch and St Margaret",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7653,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7653.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/seductio.html",
+            "title": "Seduction",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 85 x 96 cm",
+            "painting_type": "other",
+            "date": "1515-16"
+        },
+        {
+            "index": 7654,
+            "location": "Private collection",
+            "img": "imgs/art/7654.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/setterit.html",
+            "title": "Sette Ritratti Albani (Seven Albani Portraits)",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 117 x 117 cm",
+            "painting_type": "portrait",
+            "date": "1519"
+        },
+        {
+            "index": 7655,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/7655.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cariani/virgin_e.html",
+            "title": "Virgin Enthroned with Angels and Saints",
+            "author": "CARIANI Giovanni",
+            "technique": "Oil on canvas 270 x 211 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 San Giovanni Bianco d. ca. 1547 Venezia)",
+    "name": "CARIANI Giovanni",
+    "school": "Italian"
+}

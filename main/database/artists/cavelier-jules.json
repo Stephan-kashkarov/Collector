@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8287,
+            "location": "Ch\u00e2teau Dampierre",
+            "img": "imgs/art/8287.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cavelier/asleep.html",
+            "title": "Penelope Asleep",
+            "author": "CAVELIER Jules",
+            "technique": "Marble height 127 cm",
+            "painting_type": "mythological",
+            "date": "1849"
+        },
+        {
+            "index": 8288,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/8288.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cavelier/gracchi1.html",
+            "title": "Cornelia Mother of the Gracchi",
+            "author": "CAVELIER Jules",
+            "technique": "Marble height 171 cm",
+            "painting_type": "historical",
+            "date": "1861"
+        },
+        {
+            "index": 8289,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/8289.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cavelier/gracchi2.html",
+            "title": "Cornelia Mother of the Gracchi",
+            "author": "CAVELIER Jules",
+            "technique": "Marble height 171 cm",
+            "painting_type": "historical",
+            "date": "1861"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1814 Paris d. 1894 Paris)",
+    "name": "CAVELIER Jules",
+    "school": "French"
+}

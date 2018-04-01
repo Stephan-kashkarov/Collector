@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14078,
+            "location": "Bowes Museum Barnard Castle",
+            "img": "imgs/art/14078.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi_f/snowy.html",
+            "title": "Snowy Landscape",
+            "author": "FOSCHI Francesco",
+            "technique": "Oil on canvas 55 x 69 cm",
+            "painting_type": "landscape",
+            "date": "c. 1770"
+        },
+        {
+            "index": 14079,
+            "location": "Private collection",
+            "img": "imgs/art/14079.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi_f/winter.html",
+            "title": "Winter Landscape",
+            "author": "FOSCHI Francesco",
+            "technique": "Oil on canvas 48 x 75 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 14080,
+            "location": "Private collection",
+            "img": "imgs/art/14080.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/foschi_f/winter1.html",
+            "title": "Winter Landscape (detail)",
+            "author": "FOSCHI Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1710 Ancona d. 1780 Roma)",
+    "name": "FOSCHI Francesco",
+    "school": "Italian"
+}

@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 257,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/257.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal1.html",
+            "title": "Red Hartebeest and Blackbuck",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Watercolour",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 258,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/258.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal2.html",
+            "title": "Red Hartebeest",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Woodcut",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 259,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/259.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal3.html",
+            "title": "Red-flanked Duiker",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Woodcut",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 260,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/260.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal4.html",
+            "title": "Blackbuck",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Woodcut",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 261,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/261.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal5.html",
+            "title": "Red Hartebeest and Mountain Coati",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Watercolour",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 262,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/262.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/animal6.html",
+            "title": "Mountain Coati",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Woodcut",
+            "painting_type": "study",
+            "date": "-"
+        },
+        {
+            "index": 263,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/263.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/bird1.html",
+            "title": "Blue-Headed Quail-Dove",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Woodcut",
+            "painting_type": "study",
+            "date": "1600"
+        },
+        {
+            "index": 264,
+            "location": "Biblioteca University of Bologna Bologna",
+            "img": "imgs/art/264.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aldrovan/specimen.html",
+            "title": "Specimens of Nature",
+            "author": "ALDROVANDI Ulisse",
+            "technique": "Watercolour 465 x 360 mm",
+            "painting_type": "study",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1522 Bologna d. 1605 Bologna)",
+    "name": "ALDROVANDI Ulisse",
+    "school": "Italian"
+}

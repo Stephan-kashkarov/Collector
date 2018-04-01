@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 6942,
+            "location": "Santo Spirito Florence",
+            "img": "imgs/art/6942.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/caccini/interior.html",
+            "title": "View of the interior",
+            "author": "CACCINI Giovanni Battista",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "c. 1606"
+        },
+        {
+            "index": 6943,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6943.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caccini/tempera1.html",
+            "title": "Temperance",
+            "author": "CACCINI Giovanni Battista",
+            "technique": "Marble height 177 cm",
+            "painting_type": "religious",
+            "date": "1583-84"
+        },
+        {
+            "index": 6944,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6944.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/caccini/tempera2.html",
+            "title": "Temperance (detail)",
+            "author": "CACCINI Giovanni Battista",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1583-84"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1556 Roma d. 1613 Firenze)",
+    "name": "CACCINI Giovanni Battista",
+    "school": "Italian"
+}

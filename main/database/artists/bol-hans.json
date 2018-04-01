@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 4906,
+            "location": "Rockox House Antwerp",
+            "img": "imgs/art/4906.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/feast.html",
+            "title": "Village Feast (Annual Fair)",
+            "author": "BOL Hans",
+            "technique": "Oil on panel 555 x 776 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4907,
+            "location": "Rockox House Antwerp",
+            "img": "imgs/art/4907.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/feast1.html",
+            "title": "Village Feast (detail)",
+            "author": "BOL Hans",
+            "technique": "Oil on panel",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4908,
+            "location": "Museum Mayer van den Bergh Antwerp",
+            "img": "imgs/art/4908.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bol_h/icarus.html",
+            "title": "Landscape with the Fall of Icarus",
+            "author": "BOL Hans",
+            "technique": "Watercolour on paper 133 x 206 mm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4909,
+            "location": "Private collection",
+            "img": "imgs/art/4909.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/jacob.html",
+            "title": "Mountainous Landscape with the Return of Jacob from Canaan",
+            "author": "BOL Hans",
+            "technique": "Oil on panel 16 x 24 cm",
+            "painting_type": "landscape",
+            "date": "1593"
+        },
+        {
+            "index": 4910,
+            "location": "Private collection",
+            "img": "imgs/art/4910.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/jacob1.html",
+            "title": "Mountainous Landscape with the Return of Jacob from Canaan (detail)",
+            "author": "BOL Hans",
+            "technique": "Oil on panel",
+            "painting_type": "landscape",
+            "date": "1593"
+        },
+        {
+            "index": 4911,
+            "location": "Private collection",
+            "img": "imgs/art/4911.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/panorami.html",
+            "title": "Panoramic Landscape",
+            "author": "BOL Hans",
+            "technique": "Oil on panel diameter 22 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4912,
+            "location": "Private collection",
+            "img": "imgs/art/4912.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bol_h/triptych.html",
+            "title": "Triptych",
+            "author": "BOL Hans",
+            "technique": "Vellum 28 x 22; 35 x 24; 28 x 22 cm",
+            "painting_type": "religious",
+            "date": "1593"
+        },
+        {
+            "index": 4913,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4913.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands1.html",
+            "title": "Landscape with the Figures of Judah and Tamar",
+            "author": "BOL Hans",
+            "technique": "Pen brown ink lilac wash 112 x 188 mm",
+            "painting_type": "landscape",
+            "date": "1573"
+        },
+        {
+            "index": 4914,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4914.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands2.html",
+            "title": "Landscape with Christ and The Disciples on The Way to Emmaus",
+            "author": "BOL Hans",
+            "technique": "Pen brown ink lilac wash 112 x 188 mm",
+            "painting_type": "landscape",
+            "date": "1573"
+        },
+        {
+            "index": 4915,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4915.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bol_h/z_lands3.html",
+            "title": "Landscape with Huntsmen",
+            "author": "BOL Hans",
+            "technique": "Pen brown ink wash on whute grounded paper 127 x 194 mm",
+            "painting_type": "landscape",
+            "date": "1580s"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1534 Mechelen d. 1593 Amsterdam)",
+    "name": "BOL Hans",
+    "school": "Flemish"
+}

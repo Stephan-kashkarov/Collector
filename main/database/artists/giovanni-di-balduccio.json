@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 16629,
+            "location": "Santa Maria del Prato San Casciano Val di Pesa",
+            "img": "imgs/art/16629.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/balducci/annuncia.html",
+            "title": "Annunciation",
+            "author": "GIOVANNI DI BALDUCCIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "before 1334"
+        },
+        {
+            "index": 16630,
+            "location": "S. Eustorgio Milan",
+            "img": "imgs/art/16630.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/balducci/st_pete.html",
+            "title": "Shrine of St Peter Martyr",
+            "author": "GIOVANNI DI BALDUCCIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1335-39"
+        },
+        {
+            "index": 16631,
+            "location": "S. Eustorgio Milan",
+            "img": "imgs/art/16631.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/balducci/st_peter.html",
+            "title": "Shrine of St Peter Martyr",
+            "author": "GIOVANNI DI BALDUCCIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1335-39"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active 1315-1349)",
+    "name": "GIOVANNI DI BALDUCCIO",
+    "school": "Italian"
+}

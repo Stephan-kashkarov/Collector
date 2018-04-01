@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13555,
+            "location": "Private collection",
+            "img": "imgs/art/13555.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/farinati/mystic.html",
+            "title": "The Mystic Marriage of St Catherine",
+            "author": "FARINATI Paolo",
+            "technique": "Oil on slate 30 x 23 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13556,
+            "location": "Private collection",
+            "img": "imgs/art/13556.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/farinati/mystic1.html",
+            "title": "The Mystic Marriage of St Catherine",
+            "author": "FARINATI Paolo",
+            "technique": "Oil on slate 30 x 23 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13557,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/13557.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/farinati/portrait.html",
+            "title": "Portrait of a Man",
+            "author": "FARINATI Paolo",
+            "technique": "Oil on canvas 67 x 54 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1524 Verona d. 1606 Verona)",
+    "name": "FARINATI Paolo",
+    "school": "Italian"
+}

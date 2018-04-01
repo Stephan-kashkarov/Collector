@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 8763,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/8763.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chodowie/lyingin1.html",
+            "title": "The Lying-in Room (1)",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Oil on pine 30 x 24 cm",
+            "painting_type": "genre",
+            "date": "1759"
+        },
+        {
+            "index": 8764,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/8764.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chodowie/lyingin2.html",
+            "title": "The Lying-in Room (2)",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Oil on pine 30 x 24 cm",
+            "painting_type": "genre",
+            "date": "1759"
+        },
+        {
+            "index": 8765,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/8765.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chodowie/players.html",
+            "title": "Cardplayers at a Large Table",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Etching 114 x 117 mm",
+            "painting_type": "genre",
+            "date": "c. 1786"
+        },
+        {
+            "index": 8766,
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "img": "imgs/art/8766.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chodowie/quixote.html",
+            "title": "Illustration for Don Quixote",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Etching 168 x 108 mm",
+            "painting_type": "other",
+            "date": "1766"
+        },
+        {
+            "index": 8767,
+            "location": "Los Angeles County Museum of Art Los Angeles",
+            "img": "imgs/art/8767.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chodowie/sausage.html",
+            "title": "The Boy with the Sausage Spit",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Etching 121 x 152 mm",
+            "painting_type": "genre",
+            "date": "1764"
+        },
+        {
+            "index": 8768,
+            "location": "Private collection",
+            "img": "imgs/art/8768.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chodowie/selfport.html",
+            "title": "Self-Portrait with Family at the Table",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Etching 180 x 230 mm",
+            "painting_type": "portrait",
+            "date": "1771"
+        },
+        {
+            "index": 8769,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/8769.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chodowie/wayside.html",
+            "title": "Man Resting by the Wayside",
+            "author": "CHODOWIECKI Daniel Nikolaus",
+            "technique": "Drawing 120 x 70 mm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1726 Danzig d. 1801 Berlin)",
+    "name": "CHODOWIECKI Daniel Nikolaus",
+    "school": "Polish"
+}

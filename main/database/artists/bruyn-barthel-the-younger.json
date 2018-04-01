@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6763,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6763.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruyn/younger/p_woman1.html",
+            "title": "Portrait of a Woman",
+            "author": "BRUYN Barthel the Younger",
+            "technique": "Oil on oak panel 45 x 36 cm",
+            "painting_type": "portrait",
+            "date": "1557"
+        },
+        {
+            "index": 6764,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/6764.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruyn/younger/p_woman2.html",
+            "title": "Woman with Prayerbook",
+            "author": "BRUYN Barthel the Younger",
+            "technique": "Oil on panel 45 x 33 cm",
+            "painting_type": "portrait",
+            "date": "1560s"
+        },
+        {
+            "index": 6765,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/6765.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruyn/younger/p_woman3.html",
+            "title": "Portrait of a Young Woman with a Pink",
+            "author": "BRUYN Barthel the Younger",
+            "technique": "Oil on panel 44 x 36 cm",
+            "painting_type": "portrait",
+            "date": "1660s"
+        },
+        {
+            "index": 6766,
+            "location": "Museum of Art Philadelphia",
+            "img": "imgs/art/6766.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruyn/younger/p_woman4.html",
+            "title": "Portrait of a Woman",
+            "author": "BRUYN Barthel the Younger",
+            "technique": "Oil on panel transferred to canvas 45 x 36 cm",
+            "painting_type": "portrait",
+            "date": "c. 1561"
+        },
+        {
+            "index": 6767,
+            "location": "Rheinisches Landesmuseum Bonn",
+            "img": "imgs/art/6767.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruyn/younger/port_man.html",
+            "title": "Peter Ulner",
+            "author": "BRUYN Barthel the Younger",
+            "technique": "Oil on oak panel 52 x 38 cm",
+            "painting_type": "portrait",
+            "date": "1560"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1530 Cologne d. ca. 1608 Cologne)",
+    "name": "BRUYN Barthel the Younger",
+    "school": "German"
+}

@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 13688,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13688.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/adormagi.html",
+            "title": "Adoration of the Magi",
+            "author": "FERRARI Defendente",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13689,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13689.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/assumpti.html",
+            "title": "The Assumption of the Virgin",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel 162 x 68 cm",
+            "painting_type": "religious",
+            "date": "1500"
+        },
+        {
+            "index": 13690,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13690.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/crucifix.html",
+            "title": "Crucifixion",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13691,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/13691.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/madonna.html",
+            "title": "Madonna and Child",
+            "author": "FERRARI Defendente",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1509-35"
+        },
+        {
+            "index": 13692,
+            "location": "Museo Civico d'Arte Antica Turin",
+            "img": "imgs/art/13692.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/nativity.html",
+            "title": "Nativity in Nocturnal Light",
+            "author": "FERRARI Defendente",
+            "technique": "Mixed technique on panel 37 x 27 cm",
+            "painting_type": "religious",
+            "date": "1510"
+        },
+        {
+            "index": 13693,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13693.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/polyptyc.html",
+            "title": "Polyptych",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13694,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13694.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/polyptyx.html",
+            "title": "Polyptych (detail)",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13695,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13695.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/triptych.html",
+            "title": "Triptych",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13696,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/13696.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari/defenden/triptycx.html",
+            "title": "Triptych (detail)",
+            "author": "FERRARI Defendente",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 Chivasso d. after 1540)",
+    "name": "FERRARI Defendente",
+    "school": "Italian"
+}

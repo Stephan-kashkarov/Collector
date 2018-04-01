@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 10064,
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "img": "imgs/art/10064.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cranach/hans/1prince.html",
+            "title": "Portrait of a Prince",
+            "author": "CRANACH Hans",
+            "technique": "Oil and tempera on wood laid on walnut 37 x 29 cm",
+            "painting_type": "portrait",
+            "date": "1529"
+        },
+        {
+            "index": 10065,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/10065.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cranach/hans/2portrai.html",
+            "title": "Portrait of a Bearded Young Man",
+            "author": "CRANACH Hans",
+            "technique": "Oil and tempera on beechwood 51 x 35 cm",
+            "painting_type": "portrait",
+            "date": "1534"
+        },
+        {
+            "index": 10066,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/10066.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cranach/hans/3omphale.html",
+            "title": "Hercules with Omphale",
+            "author": "CRANACH Hans",
+            "technique": "Panel 56 x 84 cm",
+            "painting_type": "mythological",
+            "date": "1537"
+        },
+        {
+            "index": 10067,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10067.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch1.html",
+            "title": "Travel sketchbook",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10068,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10068.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch2.html",
+            "title": "Travel sketchbook (folio 1r)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10069,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10069.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch3.html",
+            "title": "Travel sketchbook (folio 5r)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10070,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10070.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch4.html",
+            "title": "Travel sketchbook (folio 7r)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10071,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10071.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch5.html",
+            "title": "Travel sketchbook (folio 7v)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10072,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10072.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch6.html",
+            "title": "Travel sketchbook (folio 2v)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        },
+        {
+            "index": 10073,
+            "location": "Nieders\u00e4chsisches Landesmuseum Hannover",
+            "img": "imgs/art/10073.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cranach/hans/sketch7.html",
+            "title": "Travel sketchbook (folio 38v)",
+            "author": "CRANACH Hans",
+            "technique": "Paper 203 x 160 mm",
+            "painting_type": "study",
+            "date": "1536-37"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1513 Wittenberg d. 1537 Bologna)",
+    "name": "CRANACH Hans",
+    "school": "German"
+}

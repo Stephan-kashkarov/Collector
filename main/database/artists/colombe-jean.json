@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9314,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9314.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/colombe/jean/tresrich.html",
+            "title": "Les tr\u00e8s riches heures du Duc de Berry: Novembre (November)",
+            "author": "COLOMBE Jean",
+            "technique": "Manuscript (Ms. 65) 294 x 210 mm",
+            "painting_type": "other",
+            "date": "1412-16"
+        },
+        {
+            "index": 9315,
+            "location": "Deutsche Staatsbibliothek Berlin",
+            "img": "imgs/art/9315.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/colombe/jean/troyhist.html",
+            "title": "History of Troy",
+            "author": "COLOMBE Jean",
+            "technique": "Manuscript",
+            "painting_type": "historical",
+            "date": "c. 1490"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1430 d. ca. 1496 Bourges)",
+    "name": "COLOMBE Jean",
+    "school": "French"
+}

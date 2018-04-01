@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 13104,
+            "location": "Private collection",
+            "img": "imgs/art/13104.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/coastal.html",
+            "title": "Mediterranean Coastal Scene",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on oak panel 25 x 34 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13105,
+            "location": "Private collection",
+            "img": "imgs/art/13105.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/estuary.html",
+            "title": "An Estuary Scene",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on canvas 114 x 164 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 13106,
+            "location": "Private collection",
+            "img": "imgs/art/13106.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/lepanto.html",
+            "title": "Battle of Lepanto",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on copper. 41 x 57 cm",
+            "painting_type": "historical",
+            "date": "c. 1629"
+        },
+        {
+            "index": 13107,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/13107.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/seabattl.html",
+            "title": "Sea Battle",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on canvas 134 x 166 cm",
+            "painting_type": "historical",
+            "date": "1627-29"
+        },
+        {
+            "index": 13108,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/13108.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/ships_pe.html",
+            "title": "Ships in Peril",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on canvas 170 x 315 cm",
+            "painting_type": "landscape",
+            "date": "1623"
+        },
+        {
+            "index": 13109,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/13109.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/eertvelt/twoships.html",
+            "title": "Two Ships at Anchor",
+            "author": "EERTVELT Andries van",
+            "technique": "Oil on canvas 64 x 98 cm",
+            "painting_type": "landscape",
+            "date": "1640s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1590 Antwerpen d. 1652 Antwerpen)",
+    "name": "EERTVELT Andries van",
+    "school": "Flemish"
+}

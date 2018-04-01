@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5117,
+            "location": "Private collection",
+            "img": "imgs/art/5117.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borras/adoratio.html",
+            "title": "The Adoration of the Magi",
+            "author": "BORR\u00c1S Fray Nicol\u00e1s",
+            "technique": "Oil on panel 49 x 46 cm",
+            "painting_type": "religious",
+            "date": "1570s"
+        },
+        {
+            "index": 5118,
+            "location": "Private collection",
+            "img": "imgs/art/5118.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borras/lastsupp.html",
+            "title": "The Last Supper",
+            "author": "BORR\u00c1S Fray Nicol\u00e1s",
+            "technique": "Oil on panel 49 x 46 cm",
+            "painting_type": "religious",
+            "date": "1570s"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1530 Cocentaina d. 1610 Gand\u00eda)",
+    "name": "BORR\u00c1S Fray Nicol\u00e1s",
+    "school": "Spanish"
+}

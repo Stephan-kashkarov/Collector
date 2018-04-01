@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 711,
+            "location": "Private collection",
+            "img": "imgs/art/711.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andriess/arcadia1.html",
+            "title": "Arcadian Landscape",
+            "author": "ANDRIESSEN Jurriaan",
+            "technique": "Oil on canvas 196 x 113 cm",
+            "painting_type": "landscape",
+            "date": "1780s"
+        },
+        {
+            "index": 712,
+            "location": "Private collection",
+            "img": "imgs/art/712.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andriess/arcadia2.html",
+            "title": "Arcadian Landscape",
+            "author": "ANDRIESSEN Jurriaan",
+            "technique": "Oil on canvas 194 x 89 cm",
+            "painting_type": "landscape",
+            "date": "1780s"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1742 Amsterdam d. 1819 Amsterdam)",
+    "name": "ANDRIESSEN Jurriaan",
+    "school": "Dutch"
+}

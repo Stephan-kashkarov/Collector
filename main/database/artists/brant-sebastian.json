@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5985,
+            "location": "-",
+            "img": "imgs/art/5985.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/brant/1ship.html",
+            "title": "Title Page of Ship of Fools",
+            "author": "BRANT Sebastian",
+            "technique": "Woodcut",
+            "painting_type": "other",
+            "date": "1549"
+        },
+        {
+            "index": 5986,
+            "location": "-",
+            "img": "imgs/art/5986.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/brant/2book.html",
+            "title": "The Book Fool",
+            "author": "BRANT Sebastian",
+            "technique": "Woodcut",
+            "painting_type": "other",
+            "date": "1494"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1457 Strassburg d. 1521 Strassburg)",
+    "name": "BRANT Sebastian",
+    "school": "German"
+}

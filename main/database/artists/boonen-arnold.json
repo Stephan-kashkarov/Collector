@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 5059,
+            "location": "Private collection",
+            "img": "imgs/art/5059.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boonen/boysmoke.html",
+            "title": "A Boy Seated at a Table Smoking",
+            "author": "BOONEN Arnold",
+            "technique": "Oil on canvas 33 x 27 cm",
+            "painting_type": "genre",
+            "date": "1690s"
+        },
+        {
+            "index": 5060,
+            "location": "Private collection",
+            "img": "imgs/art/5060.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boonen/portrai1.html",
+            "title": "Portrait of Susanna Catharina van der Spelt-Pels and her Daughter",
+            "author": "BOONEN Arnold",
+            "technique": "Oil on canvas 65 x 53 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 5061,
+            "location": "Private collection",
+            "img": "imgs/art/5061.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boonen/portrai2.html",
+            "title": "Portrait of Anna Lucretia Ortt",
+            "author": "BOONEN Arnold",
+            "technique": "Oil on canvas 95 x 80 cm",
+            "painting_type": "portrait",
+            "date": "1723"
+        },
+        {
+            "index": 5062,
+            "location": "Private collection",
+            "img": "imgs/art/5062.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boonen/portrai3.html",
+            "title": "Portrait of Elisabeth Jacoba Bors van Waveren-Ortt and her Daughter",
+            "author": "BOONEN Arnold",
+            "technique": "Oil on canvas 96 x 80 cm",
+            "painting_type": "portrait",
+            "date": "1723"
+        },
+        {
+            "index": 5063,
+            "location": "Private collection",
+            "img": "imgs/art/5063.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boonen/youngman.html",
+            "title": "A Young Man Seated at a Table",
+            "author": "BOONEN Arnold",
+            "technique": "Oil on canvas 42 x 34 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1669 Dordrecht d. 1729 Amsterdam)",
+    "name": "BOONEN Arnold",
+    "school": "Dutch"
+}

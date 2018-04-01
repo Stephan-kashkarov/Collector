@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14074,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14074.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fortuny/garden.html",
+            "title": "Fortuny's Garden",
+            "author": "FORTUNY Y MARSAL Mariano",
+            "technique": "Oil on canvas 40 x 27 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 14075,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14075.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fortuny/japanese.html",
+            "title": "The Artist's Children in the Japanese Salon",
+            "author": "FORTUNY Y MARSAL Mariano",
+            "technique": "Oil on canvas 44 x 93 cm",
+            "painting_type": "genre",
+            "date": "1874"
+        },
+        {
+            "index": 14076,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14076.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fortuny/nude.html",
+            "title": "Nude on the Beach at Portici",
+            "author": "FORTUNY Y MARSAL Mariano",
+            "technique": "Oil on wood 13 x 19 cm",
+            "painting_type": "other",
+            "date": "1874"
+        },
+        {
+            "index": 14077,
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "img": "imgs/art/14077.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fortuny/vicarage.html",
+            "title": "At the Vicarage",
+            "author": "FORTUNY Y MARSAL Mariano",
+            "technique": "Oil on panel 55 x 92 cm",
+            "painting_type": "genre",
+            "date": "1870"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1838 Reus d. 1874 Roma)",
+    "name": "FORTUNY Y MARSAL Mariano",
+    "school": "Spanish"
+}

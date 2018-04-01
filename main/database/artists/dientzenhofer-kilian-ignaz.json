@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11521,
+            "location": "Villa Amerika Prague",
+            "img": "imgs/art/11521.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/kilian/amerika.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Kilian Ignaz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1712-20"
+        },
+        {
+            "index": 11522,
+            "location": "Our Lady of Loreto Prague",
+            "img": "imgs/art/11522.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/kilian/loreto.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Kilian Ignaz",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1721"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1689 Praha d. 1751 Praha)",
+    "name": "DIENTZENHOFER Kilian Ignaz",
+    "school": "German"
+}

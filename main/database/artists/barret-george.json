@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 3250,
+            "location": "Private collection",
+            "img": "imgs/art/3250.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barret/landsca1.html",
+            "title": "Landscape with a Watermill",
+            "author": "BARRET George",
+            "technique": "Oil on canvas 50 x 59 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3251,
+            "location": "Private collection",
+            "img": "imgs/art/3251.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barret/landsca2.html",
+            "title": "Landscape with an Approaching Shower",
+            "author": "BARRET George",
+            "technique": "Oil on canvas 58 x 63 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3252,
+            "location": "Private collection",
+            "img": "imgs/art/3252.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barret/landsca3.html",
+            "title": "Wooded Landscape",
+            "author": "BARRET George",
+            "technique": "Oil on canvas 102 x 128 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. ca. 1728 Dublin d. 1784 London)",
+    "name": "BARRET George",
+    "school": "Irish"
+}

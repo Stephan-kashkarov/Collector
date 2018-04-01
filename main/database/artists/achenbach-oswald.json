@@ -1,20 +1,20 @@
 {
-    "name": "ACHENBACH Oswald",
-    "life": "(b. 1827 D\u00fcsseldorf d. 1905 D\u00fcsseldorf)",
-    "school": "German",
-    "timeframe": "1851-1900",
     "art": [
         {
-            "title": "Fireworks in Naples",
-            "date": "1875",
-            "technique": "Oil on canvas 66 x 102 cm",
-            "location": "The Hermitage St. Petersburg",
-            "url": "https://www.wga.hu/html/a/achenbac/firework.html",
-            "form": "painting",
-            "painting_type": "landscape",
             "index": 35,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/35.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/achenbac/firework.html",
+            "title": "Fireworks in Naples",
             "author": "ACHENBACH Oswald",
-            "img": "imgs/art/fireworks-in-naples.jpg"
+            "technique": "Oil on canvas 66 x 102 cm",
+            "painting_type": "landscape",
+            "date": "1875"
         }
-    ]
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1827 D\u00fcsseldorf d. 1905 D\u00fcsseldorf)",
+    "name": "ACHENBACH Oswald",
+    "school": "German"
 }

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13731,
+            "location": "Private collection",
+            "img": "imgs/art/13731.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari1/lorenzo/adam_eve.html",
+            "title": "Adam and Eve with the Infants Cain and Abel",
+            "author": "FERRARI Lorenzo de'",
+            "technique": "Oil on canvas 92 x 95 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13732,
+            "location": "Palazzo Carrega Cataldi Genoa",
+            "img": "imgs/art/13732.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferrari1/lorenzo/carrega.html",
+            "title": "Episodes from the Aeneas Legend",
+            "author": "FERRARI Lorenzo de'",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1740-44"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1680 Genova d. 1744 Genova)",
+    "name": "FERRARI Lorenzo de'",
+    "school": "Italian"
+}

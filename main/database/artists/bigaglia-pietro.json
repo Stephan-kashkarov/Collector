@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4561,
+            "location": "Museo del Vetro Murano",
+            "img": "imgs/art/4561.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/bigaglia/bottles.html",
+            "title": "Bottles and vases",
+            "author": "BIGAGLIA Pietro",
+            "technique": "Glassware",
+            "painting_type": "other",
+            "date": "c. 1845"
+        },
+        {
+            "index": 4562,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/4562.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/bigaglia/paperwe1.html",
+            "title": "Paperweight",
+            "author": "BIGAGLIA Pietro",
+            "technique": "Glass diameter 54 mm",
+            "painting_type": "other",
+            "date": "1847"
+        },
+        {
+            "index": 4563,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/4563.jpg",
+            "form": "glassware",
+            "url": "https://www.wga.hu/html/b/bigaglia/paperwe2.html",
+            "title": "Paperweight",
+            "author": "BIGAGLIA Pietro",
+            "technique": "Glass diameter 81 mm",
+            "painting_type": "other",
+            "date": "1847"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1786 Murano d. 1876 Venezia)",
+    "name": "BIGAGLIA Pietro",
+    "school": "Italian"
+}

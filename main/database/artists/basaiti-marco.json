@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 3368,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/3368.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/barbarig.html",
+            "title": "Portrait of Doge Agostino Barbarigo",
+            "author": "BASAITI Marco",
+            "technique": "Oil on panel. 745 x 56 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3369,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/3369.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/callsons.html",
+            "title": "Call of the Sons of Zebedee",
+            "author": "BASAITI Marco",
+            "technique": "Panel 386 x 268 cm",
+            "painting_type": "religious",
+            "date": "1510"
+        },
+        {
+            "index": 3370,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/3370.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/callsonx.html",
+            "title": "Call of the Sons of Zebedee (detail)",
+            "author": "BASAITI Marco",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "1510"
+        },
+        {
+            "index": 3371,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3371.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/lamentat.html",
+            "title": "Lamentation",
+            "author": "BASAITI Marco",
+            "technique": "Oil on canvas 122 x 154 cm",
+            "painting_type": "religious",
+            "date": "1527"
+        },
+        {
+            "index": 3372,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/3372.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/madchild.html",
+            "title": "Madonna and Child with a Donor",
+            "author": "BASAITI Marco",
+            "technique": "Tempera on panel 74 x 57 cm",
+            "painting_type": "religious",
+            "date": "1501-02"
+        },
+        {
+            "index": 3373,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/3373.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/madonna.html",
+            "title": "Madonna with Child",
+            "author": "BASAITI Marco",
+            "technique": "Oil on panel 64 x 51 cm",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        },
+        {
+            "index": 3374,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/3374.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/man_cap.html",
+            "title": "Portrait of a Man in a Cap",
+            "author": "BASAITI Marco",
+            "technique": "Tempera on panel 19 x 13 cm",
+            "painting_type": "portrait",
+            "date": "1500-10"
+        },
+        {
+            "index": 3375,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/3375.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/praying.html",
+            "title": "Christ Praying in the Garden",
+            "author": "BASAITI Marco",
+            "technique": "Panel 371 x 224 cm",
+            "painting_type": "religious",
+            "date": "1510 or 1516"
+        },
+        {
+            "index": 3376,
+            "location": "Accademia Carrara Bergamo",
+            "img": "imgs/art/3376.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/resurrec.html",
+            "title": "Resurrection of Christ",
+            "author": "BASAITI Marco",
+            "technique": "Oil on canvas 140 x 100 cm",
+            "painting_type": "religious",
+            "date": "1520"
+        },
+        {
+            "index": 3377,
+            "location": "Santa Maria della Salute Venice",
+            "img": "imgs/art/3377.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/sebastia.html",
+            "title": "St Sebastian",
+            "author": "BASAITI Marco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3378,
+            "location": "San Pietro di Castello Venice",
+            "img": "imgs/art/3378.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/basaiti/st_peter.html",
+            "title": "St Peter Enthroned and Four Saints",
+            "author": "BASAITI Marco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(active 1496-1530 in Venice)",
+    "name": "BASAITI Marco",
+    "school": "Italian"
+}

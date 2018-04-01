@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 13935,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13935.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/banquet.html",
+            "title": "Banquet of the Gods",
+            "author": "FLORIS Frans",
+            "technique": "Oil on panel 150 x 198 cm",
+            "painting_type": "mythological",
+            "date": "1550"
+        },
+        {
+            "index": 13936,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/13936.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/head_wom.html",
+            "title": "Head of a Woman",
+            "author": "FLORIS Frans",
+            "technique": "Oil on wood 45 x 32 cm",
+            "painting_type": "portrait",
+            "date": "1554-60"
+        },
+        {
+            "index": 13937,
+            "location": "Staatliche Museen Kassel",
+            "img": "imgs/art/13937.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/judparis.html",
+            "title": "The Judgment of Paris",
+            "author": "FLORIS Frans",
+            "technique": "Oil on oak 120 x 160 cm",
+            "painting_type": "mythological",
+            "date": "c. 1548"
+        },
+        {
+            "index": 13938,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/13938.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/jugparis.html",
+            "title": "The Judgment of Paris",
+            "author": "FLORIS Frans",
+            "technique": "Oil on panel 135 x 188 cm",
+            "painting_type": "mythological",
+            "date": "1550s"
+        },
+        {
+            "index": 13939,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/13939.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/lastjudg.html",
+            "title": "Last Judgment",
+            "author": "FLORIS Frans",
+            "technique": "Oil on canvas 164 x 221 cm",
+            "painting_type": "religious",
+            "date": "1565"
+        },
+        {
+            "index": 13940,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/13940.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/lastjudx.html",
+            "title": "Study Head of a Bearded Man",
+            "author": "FLORIS Frans",
+            "technique": "Oil on panel 47 x 34 cm",
+            "painting_type": "study",
+            "date": "c. 1565"
+        },
+        {
+            "index": 13941,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13941.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/rebellio.html",
+            "title": "The Fall of the Rebellious Angels",
+            "author": "FLORIS Frans",
+            "technique": "Oil on panel 308 x 220 cm",
+            "painting_type": "religious",
+            "date": "1554"
+        },
+        {
+            "index": 13942,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/13942.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/rebellix.html",
+            "title": "The Fall of the Rebellious Angels (detail)",
+            "author": "FLORIS Frans",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1554"
+        },
+        {
+            "index": 13943,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/13943.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/sacrific.html",
+            "title": "The Sacrifice of Jesus Christ Son of God Gathering and Protecting Mankind",
+            "author": "FLORIS Frans",
+            "technique": "Oil on wood 165 x 230 cm",
+            "painting_type": "religious",
+            "date": "1562"
+        },
+        {
+            "index": 13944,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/13944.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/floris/frans/venusvul.html",
+            "title": "Venus at Vulcan's Forge",
+            "author": "FLORIS Frans",
+            "technique": "Oil on oak 150 x 198 cm",
+            "painting_type": "mythological",
+            "date": "1560-64"
+        },
+        {
+            "index": 13945,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13945.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/floris/frans/zallegor.html",
+            "title": "The Allegory of Touch",
+            "author": "FLORIS Frans",
+            "technique": "Brush grey-brown ink heightened with white on blue paper 204 x 268 mm",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 13946,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13946.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/floris/frans/zapollo.html",
+            "title": "Apollo and the Muses",
+            "author": "FLORIS Frans",
+            "technique": "Pen and brown ink on brown paper 202 x 312 mm",
+            "painting_type": "mythological",
+            "date": "c. 1545"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1516 Antwerpen d. 1570 Antwerpen)",
+    "name": "FLORIS Frans",
+    "school": "Flemish"
+}

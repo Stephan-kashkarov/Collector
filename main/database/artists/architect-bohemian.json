@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 1180,
+            "location": "Monastery Osek",
+            "img": "imgs/art/1180.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/04b_1101.html",
+            "title": "Chapter house",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "c. 1100"
+        },
+        {
+            "index": 1181,
+            "location": "St. George's Basilica Prague",
+            "img": "imgs/art/1181.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/05b_1151.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "12th century"
+        },
+        {
+            "index": 1182,
+            "location": "St. George's Basilica Prague",
+            "img": "imgs/art/1182.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/12c/6/05b_1152.html",
+            "title": "General view",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "religious",
+            "date": "12th century"
+        },
+        {
+            "index": 1183,
+            "location": "Old-New Synagogue Prague",
+            "img": "imgs/art/1183.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/03b_1251.html",
+            "title": "Interior view",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1270"
+        },
+        {
+            "index": 1184,
+            "location": "Old-New Synagogue Prague",
+            "img": "imgs/art/1184.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/13c/6/03b_1252.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1270"
+        },
+        {
+            "index": 1185,
+            "location": "Prague",
+            "img": "imgs/art/1185.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/11b_1351.html",
+            "title": "Karlstein Castle",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1347-53"
+        },
+        {
+            "index": 1186,
+            "location": "Prague",
+            "img": "imgs/art/1186.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/11b_1352.html",
+            "title": "Karlstein Castle",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1347-53"
+        },
+        {
+            "index": 1187,
+            "location": "Prague",
+            "img": "imgs/art/1187.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/14c/6/11b_1353.html",
+            "title": "Karlstein Castle",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1347-53"
+        },
+        {
+            "index": 1188,
+            "location": "Old Town Hall Prague",
+            "img": "imgs/art/1188.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/15c/6/00b_1401.html",
+            "title": "Old Town Hall: Clock",
+            "author": "ARCHITECT Bohemian",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "c. 1410"
+        }
+    ],
+    "timeframe": "1101-1150",
+    "life": "(active c. 1100 in Bohemia)",
+    "name": "ARCHITECT Bohemian",
+    "school": "Bohemian"
+}

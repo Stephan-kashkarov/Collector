@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 15758,
+            "location": "St. Martin-in-the-Fields London",
+            "img": "imgs/art/15758.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/martin1.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1721-26"
+        },
+        {
+            "index": 15759,
+            "location": "St. Martin-in-the-Fields London",
+            "img": "imgs/art/15759.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/martin2.html",
+            "title": "Interior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1721-26"
+        },
+        {
+            "index": 15760,
+            "location": "Radcliffe Camera Oxford",
+            "img": "imgs/art/15760.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/radclif1.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1737-49"
+        },
+        {
+            "index": 15761,
+            "location": "Radcliffe Camera Oxford",
+            "img": "imgs/art/15761.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/radclif2.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1737-49"
+        },
+        {
+            "index": 15762,
+            "location": "Radcliffe Camera Oxford",
+            "img": "imgs/art/15762.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/radclif3.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1737-49"
+        },
+        {
+            "index": 15763,
+            "location": "St. Mary-le-Strand London",
+            "img": "imgs/art/15763.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/strand1.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1714-17"
+        },
+        {
+            "index": 15764,
+            "location": "St. Mary-le-Strand London",
+            "img": "imgs/art/15764.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/strand2.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1714-17"
+        },
+        {
+            "index": 15765,
+            "location": "St. Mary-le-Strand London",
+            "img": "imgs/art/15765.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/strand3.html",
+            "title": "Exterior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1714-17"
+        },
+        {
+            "index": 15766,
+            "location": "St. Mary-le-Strand London",
+            "img": "imgs/art/15766.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/strand4.html",
+            "title": "Interior view",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1714-17"
+        },
+        {
+            "index": 15767,
+            "location": "Stowe Buckinghamshire",
+            "img": "imgs/art/15767.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gibbs/temple.html",
+            "title": "Temple of Liberty",
+            "author": "GIBBS James",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1741"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1682 Aberdeen d. 1754 London)",
+    "name": "GIBBS James",
+    "school": "Scottish"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 133,
+            "location": "Private collection",
+            "img": "imgs/art/133.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/agasse/dogstudy.html",
+            "title": "Study of Dogs",
+            "author": "AGASSE Jacques-Laurent",
+            "technique": "Oil on canvas 29 x 40 cm",
+            "painting_type": "other",
+            "date": "c. 1803"
+        },
+        {
+            "index": 134,
+            "location": "Private collection",
+            "img": "imgs/art/134.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/agasse/gentlema.html",
+            "title": "A Gentleman with Horses by a Stream",
+            "author": "AGASSE Jacques-Laurent",
+            "technique": "Oil on panel 20 x 28 cm",
+            "painting_type": "other",
+            "date": "1790s"
+        },
+        {
+            "index": 135,
+            "location": "Private collection",
+            "img": "imgs/art/135.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/agasse/horse.html",
+            "title": "Portrait of a Horse",
+            "author": "AGASSE Jacques-Laurent",
+            "technique": "Oil on paper laid down on board 36 x 44 cm",
+            "painting_type": "other",
+            "date": "1794-95"
+        },
+        {
+            "index": 136,
+            "location": "Museum Oskar Reinhart Winthertur",
+            "img": "imgs/art/136.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/agasse/playgrou.html",
+            "title": "The Playground",
+            "author": "AGASSE Jacques-Laurent",
+            "technique": "Oil on canvas 54 x 45 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 137,
+            "location": "Private collection",
+            "img": "imgs/art/137.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/agasse/terriers.html",
+            "title": "Two Terriers by a Mossy Bank",
+            "author": "AGASSE Jacques-Laurent",
+            "technique": "Oil on canvas 49 x 77 cm",
+            "painting_type": "other",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1767 Geneve d. 1849 London)",
+    "name": "AGASSE Jacques-Laurent",
+    "school": "Swiss"
+}

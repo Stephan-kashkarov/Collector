@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 320,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/320.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/allegrai/christop/venus_ba.html",
+            "title": "Venus at Bath",
+            "author": "ALLEGRAIN Christophe-Gabriel",
+            "technique": "Marble height 174 cm",
+            "painting_type": "mythological",
+            "date": "c. 1767"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1710 Paris d. 1795 Paris)",
+    "name": "ALLEGRAIN Christophe-Gabriel",
+    "school": "French"
+}

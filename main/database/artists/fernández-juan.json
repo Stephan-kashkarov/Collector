@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13677,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/13677.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/juan/flowers1.html",
+            "title": "Vase of Flowers",
+            "author": "FERN\u00c1NDEZ Juan",
+            "technique": "Oil on canvas 44 x 34 cm",
+            "painting_type": "still-life",
+            "date": "1635-36"
+        },
+        {
+            "index": 13678,
+            "location": "Private collection",
+            "img": "imgs/art/13678.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fernande/juan/flowers2.html",
+            "title": "Vase of Flowers",
+            "author": "FERN\u00c1NDEZ Juan",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "1636"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(d. 1657)",
+    "name": "FERN\u00c1NDEZ Juan",
+    "school": "Spanish"
+}

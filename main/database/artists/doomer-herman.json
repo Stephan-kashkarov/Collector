@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11927,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11927.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/d/doomer/cabinet.html",
+            "title": "Cabinet table",
+            "author": "DOOMER Herman",
+            "technique": "Oak veneered with ebony and rosewood 176 x 130 x 58 cm",
+            "painting_type": "other",
+            "date": "1635-50"
+        },
+        {
+            "index": 11928,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11928.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/d/doomer/cupboar1.html",
+            "title": "Cupboard",
+            "author": "DOOMER Herman",
+            "technique": "Oak veneered with ebony kingwood and rosewood inlaid with mother-of-pearl and ivory 218 x 196 x 84 cm",
+            "painting_type": "other",
+            "date": "1640s"
+        },
+        {
+            "index": 11929,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11929.jpg",
+            "form": "furniture",
+            "url": "https://www.wga.hu/html/d/doomer/cupboar2.html",
+            "title": "Cupboard (interior)",
+            "author": "DOOMER Herman",
+            "technique": "Oak veneered with ebony kingwood and rosewood inlaid with mother-of-pearl and ivory 218 x 196 x 84 cm",
+            "painting_type": "other",
+            "date": "1640s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1595 Anrath d. 1650 Amsterdam)",
+    "name": "DOOMER Herman",
+    "school": "Dutch"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4199,
+            "location": "Santa Maria della Vita Bologna",
+            "img": "imgs/art/4199.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bergonzo/bologna1.html",
+            "title": "Interior view",
+            "author": "BERGONZONI Giovanni Battista",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1687"
+        },
+        {
+            "index": 4200,
+            "location": "Santa Maria della Vita Bologna",
+            "img": "imgs/art/4200.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bergonzo/bologna2.html",
+            "title": "Interior view",
+            "author": "BERGONZONI Giovanni Battista",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1687"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(ca. 1628-1692)",
+    "name": "BERGONZONI Giovanni Battista",
+    "school": "Italian"
+}

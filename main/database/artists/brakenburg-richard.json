@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 5904,
+            "location": "Private collection",
+            "img": "imgs/art/5904.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brakenbu/family.html",
+            "title": "Family Having Breakfast",
+            "author": "BRAKENBURG Richard",
+            "technique": "Oil on panel 26 x 21 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 5905,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/5905.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brakenbu/mayqueen.html",
+            "title": "May Queen Festival",
+            "author": "BRAKENBURG Richard",
+            "technique": "Oil on canvas 41 x 48 cm",
+            "painting_type": "genre",
+            "date": "1700"
+        },
+        {
+            "index": 5906,
+            "location": "Amstelkring Museum Amsterdam",
+            "img": "imgs/art/5906.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brakenbu/nicholas.html",
+            "title": "St Nicholas Eve",
+            "author": "BRAKENBURG Richard",
+            "technique": "Oil on canvas 49 x 65 cm",
+            "painting_type": "genre",
+            "date": "1685"
+        },
+        {
+            "index": 5907,
+            "location": "Private collection",
+            "img": "imgs/art/5907.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brakenbu/tavern1.html",
+            "title": "Tavern Interior",
+            "author": "BRAKENBURG Richard",
+            "technique": "Oil on panel 36 x 52 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 5908,
+            "location": "Private collection",
+            "img": "imgs/art/5908.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brakenbu/tavern2.html",
+            "title": "Tavern Interior",
+            "author": "BRAKENBURG Richard",
+            "technique": "Oil on canvas 70 x 86 cm",
+            "painting_type": "genre",
+            "date": "1679"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1650 Haarlem d. 1702 Haarlem)",
+    "name": "BRAKENBURG Richard",
+    "school": "Dutch"
+}

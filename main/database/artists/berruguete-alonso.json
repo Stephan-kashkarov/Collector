@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 4378,
+            "location": "National Museum of Religious Carvings Valladolid",
+            "img": "imgs/art/4378.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/c_sebast.html",
+            "title": "St Sebastian",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Polychrome wood",
+            "painting_type": "religious",
+            "date": "1526-32"
+        },
+        {
+            "index": 4379,
+            "location": "National Museum of Religious Carvings Valladolid",
+            "img": "imgs/art/4379.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/christop.html",
+            "title": "St Christopher",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Polychrome wood",
+            "painting_type": "religious",
+            "date": "1526-32"
+        },
+        {
+            "index": 4380,
+            "location": "National Museum of Religious Carvings Valladolid",
+            "img": "imgs/art/4380.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/cisaac.html",
+            "title": "The Sacrifice of Isaac",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Polychrome wood",
+            "painting_type": "religious",
+            "date": "1526-32"
+        },
+        {
+            "index": 4381,
+            "location": "National Museum of Religious Carvings Valladolid",
+            "img": "imgs/art/4381.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/cmagi.html",
+            "title": "Adoration of the Magi",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Polychrome wood",
+            "painting_type": "religious",
+            "date": "1526-32"
+        },
+        {
+            "index": 4382,
+            "location": "National Museum of Religious Carvings Valladolid",
+            "img": "imgs/art/4382.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/cmagi1.html",
+            "title": "Adoration of the Magi (another view)",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Polychrome wood",
+            "painting_type": "religious",
+            "date": "1526-32"
+        },
+        {
+            "index": 4383,
+            "location": "Cathedral Toledo",
+            "img": "imgs/art/4383.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/stall1.html",
+            "title": "Choir-stall (detail)",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1539-43"
+        },
+        {
+            "index": 4384,
+            "location": "Cathedral Toledo",
+            "img": "imgs/art/4384.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/stall2.html",
+            "title": "Eve",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "1539-43"
+        },
+        {
+            "index": 4385,
+            "location": "Cathedral Toledo",
+            "img": "imgs/art/4385.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/stall3.html",
+            "title": "Choir-stall (detail)",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Wood carving",
+            "painting_type": "religious",
+            "date": "1539-43"
+        },
+        {
+            "index": 4386,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/4386.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/z_salome.html",
+            "title": "Salome",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Oil on wood 88 x 71 cm",
+            "painting_type": "religious",
+            "date": "1512-16"
+        },
+        {
+            "index": 4387,
+            "location": "Palazzo Vecchio Florence",
+            "img": "imgs/art/4387.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berrugue/alonso/zmadonna.html",
+            "title": "Madonna and Child with the Young St John",
+            "author": "BERRUGUETE Alonso",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1510-15"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1488 Paredes de Nava d. 1561 Valladolid)",
+    "name": "BERRUGUETE Alonso",
+    "school": "Spanish"
+}

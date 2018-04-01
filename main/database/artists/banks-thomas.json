@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3139,
+            "location": "St. Paul's Cathedral London",
+            "img": "imgs/art/3139.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/banks/burgess.html",
+            "title": "Monument to Captain Richard Rundle Burges",
+            "author": "BANKS Thomas",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1802"
+        },
+        {
+            "index": 3140,
+            "location": "Victoria and Albert Museum London",
+            "img": "imgs/art/3140.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/banks/thetis.html",
+            "title": "Thetis Rising from the Sea",
+            "author": "BANKS Thomas",
+            "technique": "Marble height 914 cm",
+            "painting_type": "mythological",
+            "date": "1778"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1735 London d. 1805 London)",
+    "name": "BANKS Thomas",
+    "school": "English"
+}

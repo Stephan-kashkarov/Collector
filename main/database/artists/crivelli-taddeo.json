@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10532,
+            "location": "Biblioteca Estense Modena",
+            "img": "imgs/art/10532.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/crivellt/borsobib.html",
+            "title": "Bible of Borso d'Este",
+            "author": "CRIVELLI Taddeo",
+            "technique": "Manuscript (Ms. VG 12 lat. 422-23) 375 x 265 mm",
+            "painting_type": "religious",
+            "date": "1455-61"
+        },
+        {
+            "index": 10533,
+            "location": "J. Paul Getty Museum Los Angeles",
+            "img": "imgs/art/10533.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/c/crivellt/magdalen.html",
+            "title": "St Mary Magdalene Penitent",
+            "author": "CRIVELLI Taddeo",
+            "technique": "Manuscript (Ms Ludwig IX 13)",
+            "painting_type": "religious",
+            "date": "c. 1469"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1451 d. ca. 1479 Bologna)",
+    "name": "CRIVELLI Taddeo",
+    "school": "Italian"
+}

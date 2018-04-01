@@ -1,68 +1,68 @@
 {
-    "name": "ABILDGAARD Nicolai",
-    "life": "(b. 1743 K\u00f8benhavn d. 1809 Frederiksdal)",
-    "school": "Danish",
-    "timeframe": "1751-1800",
     "art": [
         {
-            "title": "The Midwife Taking Leave of the Girl from Andros",
-            "date": "1801",
-            "technique": "Oil on canvas 158 x 129 cm",
-            "location": "Statens Museum for Kunst Copenhagen",
-            "url": "https://www.wga.hu/html/a/abildgaa/andria1.html",
-            "form": "painting",
-            "painting_type": "mythological",
             "index": 27,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/27.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/abildgaa/andria1.html",
+            "title": "The Midwife Taking Leave of the Girl from Andros",
             "author": "ABILDGAARD Nicolai",
-            "img": "imgs/art/the-midwife-taking-leave-of-the-girl-from-andros.jpg"
+            "technique": "Oil on canvas 158 x 129 cm",
+            "painting_type": "mythological",
+            "date": "1801"
         },
         {
-            "title": "Simo and his Former Slave Sosia",
-            "date": "1803",
-            "technique": "Oil on canvas 158 x 142 cm",
-            "location": "Statens Museum for Kunst Copenhagen",
-            "url": "https://www.wga.hu/html/a/abildgaa/andria2.html",
-            "form": "painting",
-            "painting_type": "mythological",
             "index": 28,
-            "author": "ABILDGAARD Nicolai",
-            "img": "imgs/art/simo-and-his-former-slave-sosia.jpg"
-        },
-        {
-            "title": "Culmin's Ghost Appears to his Mother",
-            "date": "c. 1794",
-            "technique": "Oil on canvas 62 x 78 cm",
-            "location": "Nationalmuseum Stockholm",
-            "url": "https://www.wga.hu/html/a/abildgaa/culmingh.html",
-            "form": "painting",
-            "painting_type": "other",
-            "index": 29,
-            "author": "ABILDGAARD Nicolai",
-            "img": "imgs/art/culmin's-ghost-appears-to-his-mother.jpg"
-        },
-        {
-            "title": "The Wounded Philoctetes",
-            "date": "1775",
-            "technique": "Oil on canvas 123 x 178 cm",
             "location": "Statens Museum for Kunst Copenhagen",
-            "url": "https://www.wga.hu/html/a/abildgaa/philocte.html",
+            "img": "imgs/art/28.jpg",
             "form": "painting",
-            "painting_type": "mythological",
-            "index": 30,
+            "url": "https://www.wga.hu/html/a/abildgaa/andria2.html",
+            "title": "Simo and his Former Slave Sosia",
             "author": "ABILDGAARD Nicolai",
-            "img": "imgs/art/the-wounded-philoctetes.jpg"
+            "technique": "Oil on canvas 158 x 142 cm",
+            "painting_type": "mythological",
+            "date": "1803"
         },
         {
-            "title": "Adam and Eve",
-            "date": "1780",
-            "technique": "Engraving",
+            "index": 29,
             "location": "Nationalmuseum Stockholm",
-            "url": "https://www.wga.hu/html/a/abildgaa/z_adamev.html",
-            "form": "graphics",
-            "painting_type": "religious",
-            "index": 31,
+            "img": "imgs/art/29.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/abildgaa/culmingh.html",
+            "title": "Culmin's Ghost Appears to his Mother",
             "author": "ABILDGAARD Nicolai",
-            "img": "imgs/art/adam-and-eve.jpg"
+            "technique": "Oil on canvas 62 x 78 cm",
+            "painting_type": "other",
+            "date": "c. 1794"
+        },
+        {
+            "index": 30,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/30.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/abildgaa/philocte.html",
+            "title": "The Wounded Philoctetes",
+            "author": "ABILDGAARD Nicolai",
+            "technique": "Oil on canvas 123 x 178 cm",
+            "painting_type": "mythological",
+            "date": "1775"
+        },
+        {
+            "index": 31,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/31.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/abildgaa/z_adamev.html",
+            "title": "Adam and Eve",
+            "author": "ABILDGAARD Nicolai",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1780"
         }
-    ]
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1743 K\u00f8benhavn d. 1809 Frederiksdal)",
+    "name": "ABILDGAARD Nicolai",
+    "school": "Danish"
 }

@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 3631,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/3631.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beeckman/batavia.html",
+            "title": "The Castle of Batavia Seen from Kali Besar West",
+            "author": "BEECKMAN Andries",
+            "technique": "Oil on canvas 108 x 152 cm",
+            "painting_type": "landscape",
+            "date": "c. 1656"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(active 1651-57 Dutch East Indies)",
+    "name": "BEECKMAN Andries",
+    "school": "Dutch"
+}

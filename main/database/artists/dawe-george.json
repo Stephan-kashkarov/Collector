@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 11056,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11056.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/golitsyn.html",
+            "title": "Portrait of Dmitry V. Golitsyn",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 70 x 63 cm",
+            "painting_type": "portrait",
+            "date": "c. 1825"
+        },
+        {
+            "index": 11057,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11057.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/granduke.html",
+            "title": "Portrait of Grand Duke Nikolai Pavlovich",
+            "author": "DAWE George",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "after 1821"
+        },
+        {
+            "index": 11058,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11058.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/kutuzova.html",
+            "title": "Portrait of Alexander P. Kutuzov",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 70 x 63 cm",
+            "painting_type": "portrait",
+            "date": "c. 1825"
+        },
+        {
+            "index": 11059,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11059.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/kutuzovm.html",
+            "title": "Portrait of Mikhail Kutuzov",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 361 x 258 cm",
+            "painting_type": "portrait",
+            "date": "1829"
+        },
+        {
+            "index": 11060,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11060.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/shishkov.html",
+            "title": "Portrait of Alexander Shishkov",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 103 x 78 cm",
+            "painting_type": "portrait",
+            "date": "c. 1826"
+        },
+        {
+            "index": 11061,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11061.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/volkonsk.html",
+            "title": "Portrait of Pyotr M. Volkonsky",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 70 x 63 cm",
+            "painting_type": "portrait",
+            "date": "c. 1825"
+        },
+        {
+            "index": 11062,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11062.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dawe/wellingt.html",
+            "title": "Portrait of Duke of Wellington",
+            "author": "DAWE George",
+            "technique": "Oil on canvas 317 x 185 cm",
+            "painting_type": "portrait",
+            "date": "1829"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1781 London d. 1829 London)",
+    "name": "DAWE George",
+    "school": "English"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15388,
+            "location": "Private collection",
+            "img": "imgs/art/15388.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghezzi/pierleon/girlshep.html",
+            "title": "Portrait of a Young Girl as a Shepherdess",
+            "author": "GHEZZI Pier Leone",
+            "technique": "Oil on canvas 62 x 49 cm",
+            "painting_type": "portrait",
+            "date": "1720s"
+        },
+        {
+            "index": 15389,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/15389.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghezzi/pierleon/selfport.html",
+            "title": "Self-Portrait",
+            "author": "GHEZZI Pier Leone",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 15390,
+            "location": "British Library London",
+            "img": "imgs/art/15390.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/ghezzi/pierleon/vivaldi.html",
+            "title": "Caricature of Composer Antonio Vivaldi",
+            "author": "GHEZZI Pier Leone",
+            "technique": "Ink drawing",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1674 Roma d. 1755 Roma)",
+    "name": "GHEZZI Pier Leone",
+    "school": "Italian"
+}

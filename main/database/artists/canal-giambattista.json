@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7150,
+            "location": "Palazzo Belloni Battagia Venice",
+            "img": "imgs/art/7150.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canalgia/homeric.html",
+            "title": "Scenes from the Homeric World",
+            "author": "CANAL Giambattista",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "c. 1810"
+        },
+        {
+            "index": 7151,
+            "location": "Palazzo Belloni Battagia Venice",
+            "img": "imgs/art/7151.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/canalgia/homeric1.html",
+            "title": "Scenes from the Homeric World (detail)",
+            "author": "CANAL Giambattista",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "c. 1810"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1745 Venezia d. 1825 Venezia)",
+    "name": "CANAL Giambattista",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13174,
+            "location": "Lutheran Cathedral Helsinki",
+            "img": "imgs/art/13174.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/engel/cathedra.html",
+            "title": "Exterior view",
+            "author": "ENGEL Carl Ludwig",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1826"
+        },
+        {
+            "index": 13175,
+            "location": "University Helsinki",
+            "img": "imgs/art/13175.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/engel/univers1.html",
+            "title": "Exterior view",
+            "author": "ENGEL Carl Ludwig",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1829"
+        },
+        {
+            "index": 13176,
+            "location": "University Library Helsinki",
+            "img": "imgs/art/13176.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/engel/univers2.html",
+            "title": "Exterior view",
+            "author": "ENGEL Carl Ludwig",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1829"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1778 Berlin d. 1840 Helsinki)",
+    "name": "ENGEL Carl Ludwig",
+    "school": "German"
+}

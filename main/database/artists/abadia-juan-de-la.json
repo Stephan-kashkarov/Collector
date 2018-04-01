@@ -1,20 +1,20 @@
 {
-    "name": "ABADIA Juan de la",
-    "life": "(active 1470-1490 in Huesca)",
-    "school": "Spanish",
-    "timeframe": "1451-1500",
     "art": [
         {
-            "title": "The Archangel Michael",
-            "date": "c. 1490",
-            "technique": "Wood 127 x 78 cm",
-            "location": "Museu Nacional d'Art de Catalunya Barcelona",
-            "url": "https://www.wga.hu/html/a/abadia/michael.html",
-            "form": "painting",
-            "painting_type": "religious",
             "index": 8,
+            "location": "Museu Nacional d'Art de Catalunya Barcelona",
+            "img": "imgs/art/8.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/abadia/michael.html",
+            "title": "The Archangel Michael",
             "author": "ABADIA Juan de la",
-            "img": "imgs/art/the-archangel-michael.jpg"
+            "technique": "Wood 127 x 78 cm",
+            "painting_type": "religious",
+            "date": "c. 1490"
         }
-    ]
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1470-1490 in Huesca)",
+    "name": "ABADIA Juan de la",
+    "school": "Spanish"
 }

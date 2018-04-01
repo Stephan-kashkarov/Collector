@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8753,
+            "location": "Palazzo Barberini Rome",
+            "img": "imgs/art/8753.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chiari/barberin.html",
+            "title": "Aurora and Apollo on the Chariot of the Sun",
+            "author": "CHIARI Giuseppe Bartolomeo",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1693"
+        },
+        {
+            "index": 8754,
+            "location": "Palazzo Colonna Rome",
+            "img": "imgs/art/8754.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chiari/colonna.html",
+            "title": "Apotheosis of Marcantonio Colonna",
+            "author": "CHIARI Giuseppe Bartolomeo",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1698-1700"
+        },
+        {
+            "index": 8755,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/8755.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chiari/susanna.html",
+            "title": "Susanna and the Elders",
+            "author": "CHIARI Giuseppe Bartolomeo",
+            "technique": "Oil on canvas 67 x 82 cm",
+            "painting_type": "religious",
+            "date": "1700-27"
+        },
+        {
+            "index": 8756,
+            "location": "Private collection",
+            "img": "imgs/art/8756.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/chiari/toiletba.html",
+            "title": "The Toilet of Bathsheba",
+            "author": "CHIARI Giuseppe Bartolomeo",
+            "technique": "Oil on canvas oval 138 x 98 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1654 Roma d. 1727 Roma)",
+    "name": "CHIARI Giuseppe Bartolomeo",
+    "school": "Italian"
+}

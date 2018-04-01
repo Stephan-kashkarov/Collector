@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 14535,
+            "location": "Private collection",
+            "img": "imgs/art/14535.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/allegory.html",
+            "title": "Allegory of Peace",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 84 x 70 cm",
+            "painting_type": "mythological",
+            "date": "1640-45"
+        },
+        {
+            "index": 14536,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/14536.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/b_rachel.html",
+            "title": "The Birth of Rachel",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 189 x 232 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14537,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14537.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/hylasnym.html",
+            "title": "Hylas and the Nymphs",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 230 x 261 cm",
+            "painting_type": "mythological",
+            "date": "c. 1635"
+        },
+        {
+            "index": 14538,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/14538.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/judith.html",
+            "title": "Judith and Holofernes",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 116 x 151 cm",
+            "painting_type": "religious",
+            "date": "1636"
+        },
+        {
+            "index": 14539,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14539.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/lot_daug.html",
+            "title": "Lot and his Daughters",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 123 x 120 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 14540,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/14540.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/pitti1.html",
+            "title": "General view of the Sala Terreno",
+            "author": "FURINI Francesco",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1635-42"
+        },
+        {
+            "index": 14541,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/14541.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/pitti2.html",
+            "title": "View of the north wall",
+            "author": "FURINI Francesco",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1638-42"
+        },
+        {
+            "index": 14542,
+            "location": "Private collection",
+            "img": "imgs/art/14542.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/samsonde.html",
+            "title": "Samson and Delilah",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 112 x 141 cm",
+            "painting_type": "mythological",
+            "date": "c. 1645"
+        },
+        {
+            "index": 14543,
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "img": "imgs/art/14543.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/st_john.html",
+            "title": "St John the Evangelist",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1630s"
+        },
+        {
+            "index": 14544,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14544.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/threegrac.html",
+            "title": "The Three Graces",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 226 x 176 cm",
+            "painting_type": "mythological",
+            "date": "c. 1633"
+        },
+        {
+            "index": 14545,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/14545.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/venus.html",
+            "title": "Venus Mourning the Death of Adonis",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas 233 x 190 cm",
+            "painting_type": "mythological",
+            "date": "1626-28"
+        },
+        {
+            "index": 14546,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/14546.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/furini/venus1.html",
+            "title": "Venus Mourning the Death of Adonis (detail)",
+            "author": "FURINI Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1626-28"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1603 Firenze d. 1646 Firenze)",
+    "name": "FURINI Francesco",
+    "school": "Italian"
+}

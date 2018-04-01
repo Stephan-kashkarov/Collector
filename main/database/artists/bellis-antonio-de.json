@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3950,
+            "location": "Private collection",
+            "img": "imgs/art/3950.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellis/catherin.html",
+            "title": "St Catherine of Alexandria",
+            "author": "BELLIS Antonio de",
+            "technique": "Oil on canvas 104 x 78 cm",
+            "painting_type": "religious",
+            "date": "1640s"
+        },
+        {
+            "index": 3951,
+            "location": "Private collection",
+            "img": "imgs/art/3951.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellis/mocking.html",
+            "title": "Mocking of Christ",
+            "author": "BELLIS Antonio de",
+            "technique": "Oil on canvas 129 x 97 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1616 d. ca. 1656 Napoli)",
+    "name": "BELLIS Antonio de",
+    "school": "Italian"
+}

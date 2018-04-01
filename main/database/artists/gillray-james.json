@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 15811,
+            "location": "Private collection",
+            "img": "imgs/art/15811.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/dublures.html",
+            "title": "Dublures of Characters",
+            "author": "GILLRAY James",
+            "technique": "Etching and engraving 235 x 327 mm",
+            "painting_type": "other",
+            "date": "1798"
+        },
+        {
+            "index": 15812,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/15812.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/longlive.html",
+            "title": "Long Live the Constitution One and In(di)visible",
+            "author": "GILLRAY James",
+            "technique": "Etching 270 x 170 mm",
+            "painting_type": "other",
+            "date": "1800"
+        },
+        {
+            "index": 15813,
+            "location": "British Museum London",
+            "img": "imgs/art/15813.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/pudding.html",
+            "title": "The Plum-Pudding in Danger",
+            "author": "GILLRAY James",
+            "technique": "Coloured engraving 240 x 340 mm",
+            "painting_type": "other",
+            "date": "1805"
+        },
+        {
+            "index": 15814,
+            "location": "New College Oxford University Oxford",
+            "img": "imgs/art/15814.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/sindeath.html",
+            "title": "Sin Death and the Devil",
+            "author": "GILLRAY James",
+            "technique": "Etching 319 x 399 mm",
+            "painting_type": "other",
+            "date": "1792"
+        },
+        {
+            "index": 15815,
+            "location": "New College Oxford University Oxford",
+            "img": "imgs/art/15815.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/vengeanc.html",
+            "title": "The Blood of the Murdered Crying for Vengeance",
+            "author": "GILLRAY James",
+            "technique": "Etching",
+            "painting_type": "other",
+            "date": "1793"
+        },
+        {
+            "index": 15816,
+            "location": "British Museum London",
+            "img": "imgs/art/15816.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillray/zenith.html",
+            "title": "The Zenith of French Glory",
+            "author": "GILLRAY James",
+            "technique": "Coloured engraving",
+            "painting_type": "other",
+            "date": "1793"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1756 London d. 1815 London)",
+    "name": "GILLRAY James",
+    "school": "English"
+}

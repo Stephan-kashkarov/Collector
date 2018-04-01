@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13250,
+            "location": "Private collection",
+            "img": "imgs/art/13250.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/etty/birth_ve.html",
+            "title": "Birth of Venus",
+            "author": "ETTY William",
+            "technique": "Oil on millboard laid on panel 74 x 53 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 13251,
+            "location": "Private collection",
+            "img": "imgs/art/13251.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/etty/nudebath.html",
+            "title": "Nude Bather by a Stream",
+            "author": "ETTY William",
+            "technique": "Oil on millboard 80 x 57 cm",
+            "painting_type": "other",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1787 York d. 1849 York)",
+    "name": "ETTY William",
+    "school": "English"
+}

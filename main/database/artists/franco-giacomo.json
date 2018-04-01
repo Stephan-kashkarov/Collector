@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14394,
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "img": "imgs/art/14394.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/franco/giacomo/arsenal.html",
+            "title": "Entrance to the Arsenal Venice",
+            "author": "FRANCO Giacomo",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 14395,
+            "location": "Athenaeum Boston",
+            "img": "imgs/art/14395.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/franco/giacomo/illustr1.html",
+            "title": "Illustration",
+            "author": "FRANCO Giacomo",
+            "technique": "Engraving 286 x 206 mm",
+            "painting_type": "other",
+            "date": "1591-1609"
+        },
+        {
+            "index": 14396,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/14396.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/franco/giacomo/illustr2.html",
+            "title": "Illustration",
+            "author": "FRANCO Giacomo",
+            "technique": "Engraving 280 x 210 mm",
+            "painting_type": "other",
+            "date": "1591-1609"
+        },
+        {
+            "index": 14397,
+            "location": "Biblioteca Nazionale Marciana Venice",
+            "img": "imgs/art/14397.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/franco/giacomo/illustr3.html",
+            "title": "Illustration",
+            "author": "FRANCO Giacomo",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1600-10"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1550 Venezia d. 1620 Venezia)",
+    "name": "FRANCO Giacomo",
+    "school": "Italian"
+}

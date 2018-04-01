@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 16856,
+            "location": "Abbey Church Saint-Denis",
+            "img": "imgs/art/16856.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/louis12.html",
+            "title": "Monument of Louis XII and Anne of Bretagne",
+            "author": "GIUSTI Giovanni",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1515-31"
+        },
+        {
+            "index": 16857,
+            "location": "Abbey Church Saint-Denis",
+            "img": "imgs/art/16857.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/louis12d.html",
+            "title": "Monument of Louis XII and Anne of Bretagne (detail)",
+            "author": "GIUSTI Giovanni",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1515-31"
+        },
+        {
+            "index": 16858,
+            "location": "Cath\u00e9drale Saint-Samson Dol-de-Bretagne",
+            "img": "imgs/art/16858.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/thomas1.html",
+            "title": "Monument to Thomas James",
+            "author": "GIUSTI Giovanni",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1507"
+        },
+        {
+            "index": 16859,
+            "location": "Cath\u00e9drale Saint-Samson Dol-de-Bretagne",
+            "img": "imgs/art/16859.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giusti/giovanni/thomas2.html",
+            "title": "Monument to Thomas James",
+            "author": "GIUSTI Giovanni",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1507"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1485 San Martino d. 1549 Tours)",
+    "name": "GIUSTI Giovanni",
+    "school": "Italian"
+}

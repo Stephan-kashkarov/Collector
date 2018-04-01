@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14732,
+            "location": "San Giovanni dei Fiorentini Rome",
+            "img": "imgs/art/14732.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/galilei/fiorenti.html",
+            "title": "Exterior view",
+            "author": "GALILEI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1734"
+        },
+        {
+            "index": 14733,
+            "location": "San Giovanni in Laterano Rome",
+            "img": "imgs/art/14733.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/galilei/lateran1.html",
+            "title": "Exterior view",
+            "author": "GALILEI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1733-35"
+        },
+        {
+            "index": 14734,
+            "location": "San Giovanni in Laterano Rome",
+            "img": "imgs/art/14734.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/galilei/lateran2.html",
+            "title": "Exterior view",
+            "author": "GALILEI Alessandro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1733-35"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1691 Firenze d. 1737 Roma)",
+    "name": "GALILEI Alessandro",
+    "school": "Italian"
+}

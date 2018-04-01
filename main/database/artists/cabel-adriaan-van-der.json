@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6924,
+            "location": "Private collection",
+            "img": "imgs/art/6924.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabel/riverlan.html",
+            "title": "River Landscape",
+            "author": "CABEL Adriaan van der",
+            "technique": "Oil on panel 55 x 83 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6925,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/6925.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cabel/selfport.html",
+            "title": "Self-Portrait with cap",
+            "author": "CABEL Adriaan van der",
+            "technique": "Black crayon 188 x 169 mm",
+            "painting_type": "portrait",
+            "date": "1664"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1630 Rijswijk d. 1705 Lyon)",
+    "name": "CABEL Adriaan van der",
+    "school": "Dutch"
+}

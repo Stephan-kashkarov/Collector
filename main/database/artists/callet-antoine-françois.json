@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7035,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/7035.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/callet/louis_16.html",
+            "title": "Portrait of Louis XVI",
+            "author": "CALLET Antoine-Fran\u00e7ois",
+            "technique": "Oil on canvas 278 x 196 cm",
+            "painting_type": "portrait",
+            "date": "1778"
+        },
+        {
+            "index": 7036,
+            "location": "Private collection",
+            "img": "imgs/art/7036.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/callet/louis16.html",
+            "title": "Portrait of King Louis XVI in Full Coronation Regalia",
+            "author": "CALLET Antoine-Fran\u00e7ois",
+            "technique": "Oil on canvas 164 x 132 cm",
+            "painting_type": "portrait",
+            "date": "1780"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1741 Paris d. 1823 Paris)",
+    "name": "CALLET Antoine-Fran\u00e7ois",
+    "school": "French"
+}

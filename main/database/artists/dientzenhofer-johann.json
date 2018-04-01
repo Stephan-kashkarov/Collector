@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 11516,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/11516.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen1.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Johann",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1711-18"
+        },
+        {
+            "index": 11517,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/11517.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen2.html",
+            "title": "Exterior view",
+            "author": "DIENTZENHOFER Johann",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1711-18"
+        },
+        {
+            "index": 11518,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/11518.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen3.html",
+            "title": "General view",
+            "author": "DIENTZENHOFER Johann",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1711-18"
+        },
+        {
+            "index": 11519,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/11519.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen4.html",
+            "title": "Interior view",
+            "author": "DIENTZENHOFER Johann",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1711-18"
+        },
+        {
+            "index": 11520,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/11520.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/dientzen/johann/weissen5.html",
+            "title": "Interior view",
+            "author": "DIENTZENHOFER Johann",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1711-18"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1663 Sankt Margarethen d. 1726 Bamberg)",
+    "name": "DIENTZENHOFER Johann",
+    "school": "German"
+}

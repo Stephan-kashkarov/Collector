@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1128,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/1128.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/fabriano/coronati.html",
+            "title": "Coronation of the Virgin",
+            "author": "ANTONIO DA FABRIANO",
+            "technique": "Tempera on wood 89 x 64 cm",
+            "painting_type": "religious",
+            "date": "1452"
+        },
+        {
+            "index": 1129,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/1129.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/fabriano/s_jerome.html",
+            "title": "St Jerome in His Study",
+            "author": "ANTONIO DA FABRIANO",
+            "technique": "Tempera on wood 88 x 52 cm",
+            "painting_type": "religious",
+            "date": "1451"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1447-1489)",
+    "name": "ANTONIO DA FABRIANO",
+    "school": "Italian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4607,
+            "location": "Sant'Alessandro in Zebedia Milan",
+            "img": "imgs/art/4607.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/binago/zebedia1.html",
+            "title": "Exterior view",
+            "author": "BINAGO Lorenzo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1601"
+        },
+        {
+            "index": 4608,
+            "location": "Sant'Alessandro in Zebedia Milan",
+            "img": "imgs/art/4608.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/binago/zebedia2.html",
+            "title": "Interior view",
+            "author": "BINAGO Lorenzo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1601"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1554 Milano d. 1629 Milano)",
+    "name": "BINAGO Lorenzo",
+    "school": "Italian"
+}

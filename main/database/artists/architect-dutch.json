@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 1220,
+            "location": "Marekerk Leiden",
+            "img": "imgs/art/1220.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/17c/6/03d_1601.html",
+            "title": "Interior view",
+            "author": "ARCHITECT Dutch",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "begun 1639"
+        },
+        {
+            "index": 1221,
+            "location": "Kneuterdijk Palace The Hague",
+            "img": "imgs/art/1221.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/kneuterd.html",
+            "title": "Interior view",
+            "author": "ARCHITECT Dutch",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1840"
+        },
+        {
+            "index": 1222,
+            "location": "Pavilion Scheveningen",
+            "img": "imgs/art/1222.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/zzzarchi/18c/6/scheveni.html",
+            "title": "Exterior view",
+            "author": "ARCHITECT Dutch",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1826"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(active after 1639 in Leiden)",
+    "name": "ARCHITECT Dutch",
+    "school": "Dutch"
+}

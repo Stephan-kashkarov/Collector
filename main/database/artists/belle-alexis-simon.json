@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 3720,
+            "location": "Private collection",
+            "img": "imgs/art/3720.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belle/alexis/gentlema.html",
+            "title": "Portrait of a Gentleman",
+            "author": "BELLE Alexis-Simon",
+            "technique": "Oil on canvas 100 x 81 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3721,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/3721.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belle/alexis/leczinsk.html",
+            "title": "Queen Marie Leczinska of France with Dauphin Louis",
+            "author": "BELLE Alexis-Simon",
+            "technique": "Oil on canvas 170 x 139 cm",
+            "painting_type": "portrait",
+            "date": "c. 1730"
+        },
+        {
+            "index": 3722,
+            "location": "Private collection",
+            "img": "imgs/art/3722.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belle/alexis/louis_14.html",
+            "title": "Portrait of Louis XV",
+            "author": "BELLE Alexis-Simon",
+            "technique": "Oil on canvas 116 x 89 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3723,
+            "location": "Royal Collection London",
+            "img": "imgs/art/3723.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belle/alexis/prince.html",
+            "title": "Prince James Francis Edward Stuart and Princess Louisa Maria Theresa",
+            "author": "BELLE Alexis-Simon",
+            "technique": "Oil on canvas 189 x 132 cm",
+            "painting_type": "portrait",
+            "date": "1699"
+        },
+        {
+            "index": 3724,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/3724.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/belle/alexis/sisters.html",
+            "title": "Catherine and Eug\u00e8ne de B\u00e9thisy",
+            "author": "BELLE Alexis-Simon",
+            "technique": "Oil on canvas 144 x 133 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1674 Paris d. 1734 Paris)",
+    "name": "BELLE Alexis-Simon",
+    "school": "French"
+}

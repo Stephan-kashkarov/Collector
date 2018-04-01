@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6866,
+            "location": "Biblioteca Statale Lucca",
+            "img": "imgs/art/6866.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/burlamac/gradual1.html",
+            "title": "Temporal Gradual (detail)",
+            "author": "BURLAMACCHI Eufrasia",
+            "technique": "Illumination on parchment 593 x 432 mm (entire folio)",
+            "painting_type": "religious",
+            "date": "1720-40"
+        },
+        {
+            "index": 6867,
+            "location": "Biblioteca Statale Lucca",
+            "img": "imgs/art/6867.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/burlamac/gradual2.html",
+            "title": "Temporal Gradual (detail)",
+            "author": "BURLAMACCHI Eufrasia",
+            "technique": "Illumination on parchment 593 x 432 mm (entire folio)",
+            "painting_type": "religious",
+            "date": "1720-40"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1482 Lucca d. 1548 Lucca)",
+    "name": "BURLAMACCHI Eufrasia",
+    "school": "Italian"
+}

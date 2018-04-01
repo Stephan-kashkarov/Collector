@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 15832,
+            "location": "Sant'Anastasia Verona",
+            "img": "imgs/art/15832.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar1.html",
+            "title": "Miniscalchi Altar",
+            "author": "GIOLFINO Niccol\u00f2",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15833,
+            "location": "Sant'Anastasia Verona",
+            "img": "imgs/art/15833.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar2.html",
+            "title": "Miniscalchi Altar",
+            "author": "GIOLFINO Niccol\u00f2",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15834,
+            "location": "Sant'Anastasia Verona",
+            "img": "imgs/art/15834.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/altar3.html",
+            "title": "Miniscalchi Altar",
+            "author": "GIOLFINO Niccol\u00f2",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15835,
+            "location": "Allen Memorial Art Museum Oberlin Ohio",
+            "img": "imgs/art/15835.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giolfino/niccolo/lucretia.html",
+            "title": "Lucretia",
+            "author": "GIOLFINO Niccol\u00f2",
+            "technique": "Oil on panel 41 x 33 cm",
+            "painting_type": "mythological",
+            "date": "1515-18"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1476 Verona d. 1555 Verona)",
+    "name": "GIOLFINO Niccol\u00f2",
+    "school": "Italian"
+}

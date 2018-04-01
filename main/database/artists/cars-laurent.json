@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8073,
+            "location": "Museo Civico Vicenza",
+            "img": "imgs/art/8073.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cars/dancers.html",
+            "title": "Danzatori dell'opera",
+            "author": "CARS Laurent",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 8074,
+            "location": "British Museum London",
+            "img": "imgs/art/8074.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cars/escorte.html",
+            "title": "'Escorte d'\u00e9quipages'",
+            "author": "CARS Laurent",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 8075,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/8075.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cars/malade.html",
+            "title": "La Malade imaginaire",
+            "author": "CARS Laurent",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "1734"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1699 Lyon d. 1771 Paris)",
+    "name": "CARS Laurent",
+    "school": "French"
+}

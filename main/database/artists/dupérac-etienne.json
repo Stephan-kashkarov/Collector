@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 12396,
+            "location": "British Museum London",
+            "img": "imgs/art/12396.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duperac/1campid2.html",
+            "title": "Design for the Capitoline Hill",
+            "author": "DUP\u00c9RAC Etienne",
+            "technique": "Engraving",
+            "painting_type": "study",
+            "date": "1568"
+        },
+        {
+            "index": 12397,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/12397.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duperac/3spietr1.html",
+            "title": "Project for St Peter's in Rome",
+            "author": "DUP\u00c9RAC Etienne",
+            "technique": "Engraving 339 x 458 mm",
+            "painting_type": "other",
+            "date": "1547"
+        },
+        {
+            "index": 12398,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/12398.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duperac/3spietr2.html",
+            "title": "Project for St Peter's in Rome",
+            "author": "DUP\u00c9RAC Etienne",
+            "technique": "Engraving 331 x 464 mm",
+            "painting_type": "other",
+            "date": "1547"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1525 Bordeaux d. 1601 Paris)",
+    "name": "DUP\u00c9RAC Etienne",
+    "school": "French"
+}

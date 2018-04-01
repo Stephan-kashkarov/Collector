@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4201,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/4201.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berjon/flowers.html",
+            "title": "Still-Life with a Basket of Flowers",
+            "author": "BERJON Antoine",
+            "technique": "Oil on canvas 66 x 50 cm",
+            "painting_type": "still-life",
+            "date": "1814"
+        },
+        {
+            "index": 4202,
+            "location": "Private collection",
+            "img": "imgs/art/4202.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berjon/stillife.html",
+            "title": "Still-Life",
+            "author": "BERJON Antoine",
+            "technique": "Oil on canvas 46 x 56 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1754 Lyon d. 1843 Lyon)",
+    "name": "BERJON Antoine",
+    "school": "French"
+}

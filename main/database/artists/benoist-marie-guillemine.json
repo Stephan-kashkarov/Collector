@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 4061,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/4061.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benoist/negress.html",
+            "title": "Portrait of a Negress",
+            "author": "BENOIST Marie-Guillemine",
+            "technique": "Oil on canvas 81 x 65 cm",
+            "painting_type": "portrait",
+            "date": "1800"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1768 Paris d. 1826 Paris)",
+    "name": "BENOIST Marie-Guillemine",
+    "school": "French"
+}

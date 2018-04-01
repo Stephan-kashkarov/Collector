@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 691,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/691.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/ascensio.html",
+            "title": "Ascension of Christ",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood 68 x 28 cm",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 692,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/692.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/ascensix.html",
+            "title": "Ascension of Christ (detail)",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 693,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/693.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/s_franci.html",
+            "title": "St Francis of Assisi",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood100 x 46 cm",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 694,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/694.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/s_franci1.html",
+            "title": "St Francis of Assisi (detail)",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 695,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/695.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/s_james.html",
+            "title": "St James the Greater",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood 101 x 51 cm",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 696,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/696.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/s_james1.html",
+            "title": "St James the Greater (detail)",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1355-60"
+        },
+        {
+            "index": 697,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/697.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/vanni/st_peter.html",
+            "title": "St Peter",
+            "author": "ANDREA di Vanni d'Andrea",
+            "technique": "Tempera on panel 156 x 42 cm",
+            "painting_type": "religious",
+            "date": "1390s"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(b. ca. 1332 Siena d. 1414 Siena)",
+    "name": "ANDREA di Vanni d'Andrea",
+    "school": "Italian"
+}

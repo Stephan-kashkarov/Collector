@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 3686,
+            "location": "Private collection",
+            "img": "imgs/art/3686.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ludwig_x.html",
+            "title": "Portrait of Ludwig X Duke of Bavaria",
+            "author": "BEHAM Barthel",
+            "technique": "Oil on limewood panel 40 x 33 cm",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 3687,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/3687.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ludwig10.html",
+            "title": "Portrait of Duke Ludwig X of Bavaria",
+            "author": "BEHAM Barthel",
+            "technique": "Oil on panel 69 x 59 cm",
+            "painting_type": "portrait",
+            "date": "1531"
+        },
+        {
+            "index": 3688,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/3688.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/ottheinr.html",
+            "title": "Portrait of Ottheinrich Prince of Pfalz",
+            "author": "BEHAM Barthel",
+            "technique": "Wood 43 x 32 cm",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 3689,
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "img": "imgs/art/3689.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/port_man.html",
+            "title": "Portrait of a Man",
+            "author": "BEHAM Barthel",
+            "technique": "Oil on lime panel 62 x 46 cm",
+            "painting_type": "portrait",
+            "date": "1525-30"
+        },
+        {
+            "index": 3690,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3690.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/porteck1.html",
+            "title": "Chancellor Leonhard van Eck",
+            "author": "BEHAM Barthel",
+            "technique": "Oil on spruce panel 56 x 38 cm",
+            "painting_type": "portrait",
+            "date": "1527"
+        },
+        {
+            "index": 3691,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3691.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/beham/barthel/porteck2.html",
+            "title": "Chancellor Leonhard van Eck",
+            "author": "BEHAM Barthel",
+            "technique": "Engraving 111 x 83 mm",
+            "painting_type": "portrait",
+            "date": "1527"
+        },
+        {
+            "index": 3692,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/3692.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beham/barthel/portrait.html",
+            "title": "Portrait of a Man",
+            "author": "BEHAM Barthel",
+            "technique": "Oil on panel 85 x 66 cm",
+            "painting_type": "portrait",
+            "date": "1529"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1502 N\u00fcrnberg d. 1540 Italy)",
+    "name": "BEHAM Barthel",
+    "school": "German"
+}

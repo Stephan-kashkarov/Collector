@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6044,
+            "location": "Prentenkabinet Universiteit Leiden",
+            "img": "imgs/art/6044.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/breen/innscene.html",
+            "title": "Inn Scene with Prostitutes",
+            "author": "BREEN Gillis van",
+            "technique": "Engraving 133 x 194 mm",
+            "painting_type": "genre",
+            "date": "1597"
+        },
+        {
+            "index": 6045,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/6045.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/breen/p_seller.html",
+            "title": "Poultry Seller",
+            "author": "BREEN Gillis van",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(active 1595-1622 in Haarlem)",
+    "name": "BREEN Gillis van",
+    "school": "Dutch"
+}

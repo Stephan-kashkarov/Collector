@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 313,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/313.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alincbro/scenes.html",
+            "title": "Scenes from the Life of Christ",
+            "author": "ALINCBROT Louis",
+            "technique": "Oil on panel 78 x 67 cm",
+            "painting_type": "religious",
+            "date": "1440s"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. 1400/10 Bruges d. 1460 Valencia)",
+    "name": "ALINCBROT Louis",
+    "school": "Flemish"
+}

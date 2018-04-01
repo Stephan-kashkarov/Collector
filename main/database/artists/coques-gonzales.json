@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9448,
+            "location": "Private collection",
+            "img": "imgs/art/9448.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coques/equestri.html",
+            "title": "Equestrian Portrait of a Couple",
+            "author": "COQUES Gonzales",
+            "technique": "Oil on copper 43 x 39 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9449,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/9449.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coques/family.html",
+            "title": "Family Portrait",
+            "author": "COQUES Gonzales",
+            "technique": "Oil on panel 655 x 895 cm",
+            "painting_type": "portrait",
+            "date": "1650s"
+        },
+        {
+            "index": 9450,
+            "location": "Private collection",
+            "img": "imgs/art/9450.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coques/youngman.html",
+            "title": "Portrait of a Young Man",
+            "author": "COQUES Gonzales",
+            "technique": "Oil on copper oval 15 x 11 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1614 Antwerpen d. 1684 Antwerpen)",
+    "name": "COQUES Gonzales",
+    "school": "Flemish"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8806,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/8806.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/church/autumn.html",
+            "title": "Autumn",
+            "author": "CHURCH Frederic Edwin",
+            "technique": "Oil on canvas 39 x 61 cm",
+            "painting_type": "landscape",
+            "date": "1875"
+        },
+        {
+            "index": 8807,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/8807.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/church/heatande.html",
+            "title": "The Heart of the Andes",
+            "author": "CHURCH Frederic Edwin",
+            "technique": "Oil on canvas 169 x 303 cm",
+            "painting_type": "landscape",
+            "date": "1859"
+        },
+        {
+            "index": 8808,
+            "location": "Corcoran Gallery of Art Washington",
+            "img": "imgs/art/8808.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/church/niagara.html",
+            "title": "Niagara Falls",
+            "author": "CHURCH Frederic Edwin",
+            "technique": "Oil n canvas 108 x 230 cm",
+            "painting_type": "landscape",
+            "date": "1857"
+        },
+        {
+            "index": 8809,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/8809.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/church/wilderne.html",
+            "title": "Cross in the Wilderness",
+            "author": "CHURCH Frederic Edwin",
+            "technique": "Oil on canvas 41 x 62 cm",
+            "painting_type": "landscape",
+            "date": "1857"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1826 Hartford d. 1900 New York)",
+    "name": "CHURCH Frederic Edwin",
+    "school": "American"
+}

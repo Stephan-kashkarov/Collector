@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8735,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/8735.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chastill/lisieux.html",
+            "title": "The Chapel of Notre-Dame de Lisieux",
+            "author": "CHASTILLON Claude",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1615"
+        },
+        {
+            "index": 8736,
+            "location": "British Museum London",
+            "img": "imgs/art/8736.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/chastill/place_fr.html",
+            "title": "Project of the Place de France in Paris",
+            "author": "CHASTILLON Claude",
+            "technique": "Engraving",
+            "painting_type": "study",
+            "date": "1609"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1560 Ch\u00e2lons-sur-Marne d. 1616 Paris)",
+    "name": "CHASTILLON Claude",
+    "school": "French"
+}

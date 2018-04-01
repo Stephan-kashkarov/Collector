@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10582,
+            "location": "Private collection",
+            "img": "imgs/art/10582.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/curradi/annuncia.html",
+            "title": "Annunciation",
+            "author": "CURRADI Francesco",
+            "technique": "Oil on canvas 170 x 135 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10583,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/10583.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/curradi/narcissu.html",
+            "title": "Narcissus",
+            "author": "CURRADI Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1570 Firenze d. 1661 Firenze)",
+    "name": "CURRADI Francesco",
+    "school": "Italian"
+}

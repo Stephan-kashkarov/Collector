@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 4165,
+            "location": "Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4165.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav1.html",
+            "title": "General view of the Salone",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4166,
+            "location": "Salone Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4166.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav2.html",
+            "title": "View of the vault",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4167,
+            "location": "Salone Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4167.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav3.html",
+            "title": "Perspective view of the longitudinal wall",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4168,
+            "location": "Salone Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4168.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav4.html",
+            "title": "View of a longitunal wall",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4169,
+            "location": "Salone Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4169.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav5.html",
+            "title": "Odysseus in the Stone-Throwing Contest at the Phaeacian Court",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4170,
+            "location": "Salone Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4170.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav6.html",
+            "title": "Odysseus Slays the Suitors in His Palace at Ithaca",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4171,
+            "location": "Loggia di Apollo Villa Pallavicino delle Peschiere Genoa",
+            "img": "imgs/art/4171.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/1pallav7.html",
+            "title": "Apollo and Cupid",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1560"
+        },
+        {
+            "index": 4172,
+            "location": "San Matteo Genoa",
+            "img": "imgs/art/4172.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/2matteo1.html",
+            "title": "The Calling of Saint Matthew",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4173,
+            "location": "San Matteo Genoa",
+            "img": "imgs/art/4173.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/2matteo2.html",
+            "title": "Vault fresco",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4174,
+            "location": "Palazzo Carrega-Cataldi Genoa",
+            "img": "imgs/art/4174.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/3carrega.html",
+            "title": "Vault fresco",
+            "author": "BERGAMASCO Il",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4175,
+            "location": "Private collection",
+            "img": "imgs/art/4175.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergamas/4virgin.html",
+            "title": "The Virgin Appearing to Sts Catherine and Apollonia",
+            "author": "BERGAMASCO Il",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1509 Bergamo d. ca. 1569 Madrid)",
+    "name": "BERGAMASCO Il",
+    "school": "Italian"
+}

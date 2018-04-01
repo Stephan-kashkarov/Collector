@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11989,
+            "location": "Accademia di Belle Arti Naples",
+            "img": "imgs/art/11989.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/d_orsi/proximus.html",
+            "title": "Proximus tuus",
+            "author": "D'ORSI Achille",
+            "technique": "Bronze",
+            "painting_type": "genre",
+            "date": "1880"
+        },
+        {
+            "index": 11990,
+            "location": "Private collection",
+            "img": "imgs/art/11990.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/d_orsi/proximux.html",
+            "title": "Proximus Tuus",
+            "author": "D'ORSI Achille",
+            "technique": "Bronze dark brown patina 35 x 44 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1845 Napoli d. 1929 Napoli)",
+    "name": "D'ORSI Achille",
+    "school": "Italian"
+}

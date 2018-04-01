@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 717,
+            "location": "Private collection",
+            "img": "imgs/art/717.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/landsca1.html",
+            "title": "An Extensive Landscape",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "landscape",
+            "date": "1751-55"
+        },
+        {
+            "index": 718,
+            "location": "Private collection",
+            "img": "imgs/art/718.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/landsca2.html",
+            "title": "An Extensive Landscape",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "landscape",
+            "date": "1751-55"
+        },
+        {
+            "index": 719,
+            "location": "Private collection",
+            "img": "imgs/art/719.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/landsca3.html",
+            "title": "Italianate Coastal Landscape",
+            "author": "ANESI Paolo",
+            "technique": "Oil on copper 21 x 30 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 720,
+            "location": "Private collection",
+            "img": "imgs/art/720.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/rome.html",
+            "title": "Tiber Bridge in Rome",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 721,
+            "location": "Private collection",
+            "img": "imgs/art/721.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/rome1.html",
+            "title": "View of the Roman Campagna",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas 18 x 23 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 722,
+            "location": "Private collection",
+            "img": "imgs/art/722.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/scene.html",
+            "title": "Harbour Scene",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas 37 x 47 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 723,
+            "location": "Private collection",
+            "img": "imgs/art/723.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anesi/tivoli.html",
+            "title": "View of Tivoli and the Roman Campagna",
+            "author": "ANESI Paolo",
+            "technique": "Oil on canvas 18 x 23 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1697 Roma d. 1773 Roma)",
+    "name": "ANESI Paolo",
+    "school": "Italian"
+}

@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 9058,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9058.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/bitten1.html",
+            "title": "Woman Bitten by a Snake (Femme piqu\u00e9e par un serpent)",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble 56 x 180 x 70 cm",
+            "painting_type": "genre",
+            "date": "1847"
+        },
+        {
+            "index": 9059,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9059.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/bitten2.html",
+            "title": "Woman Bitten by a Snake (Femme piqu\u00e9e par un serpent)",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble 56 x 180 x 70 cm",
+            "painting_type": "genre",
+            "date": "1847"
+        },
+        {
+            "index": 9060,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9060.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/bitten3.html",
+            "title": "Woman Bitten by a Snake",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble 56 x 180 cm",
+            "painting_type": "genre",
+            "date": "1847"
+        },
+        {
+            "index": 9061,
+            "location": "Private collection",
+            "img": "imgs/art/9061.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/bitten4.html",
+            "title": "Woman Bitten by a Snake",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Bronze 21 x 60 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 9062,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9062.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/bustsaba.html",
+            "title": "Madame Sabatier",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble",
+            "painting_type": "portrait",
+            "date": "1847"
+        },
+        {
+            "index": 9063,
+            "location": "\u00c9glise de la Madeleine Besan\u00e7on",
+            "img": "imgs/art/9063.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/entombme.html",
+            "title": "Entombment",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9064,
+            "location": "Saint-Sulpice Paris",
+            "img": "imgs/art/9064.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/grief.html",
+            "title": "Angel of Grief",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1850"
+        },
+        {
+            "index": 9065,
+            "location": "Mus\u00e9e de Picardie Amiens",
+            "img": "imgs/art/9065.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/ledaswan.html",
+            "title": "Leda and the Swan",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1864"
+        },
+        {
+            "index": 9066,
+            "location": "Private collection",
+            "img": "imgs/art/9066.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/romanbul.html",
+            "title": "Roman Bull",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "Bronze 55 x 64 cm",
+            "painting_type": "other",
+            "date": "1857"
+        },
+        {
+            "index": 9067,
+            "location": "Private collection",
+            "img": "imgs/art/9067.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/clesinge/zingara.html",
+            "title": "Zingara Neapolitan Dancer",
+            "author": "CL\u00c9SINGER Auguste",
+            "technique": "White marble height 118 cm",
+            "painting_type": "other",
+            "date": "c. 1860"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1814 Besan\u00e7on d. 1883 Paris)",
+    "name": "CL\u00c9SINGER Auguste",
+    "school": "French"
+}

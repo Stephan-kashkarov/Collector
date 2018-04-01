@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 432,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/432.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/altomont/bartolom/4seasons.html",
+            "title": "The Four Seasons Paying Homage to Chronos",
+            "author": "ALTOMONTE Bartolomeo",
+            "technique": "Oil on canvas 75 x 95 cm",
+            "painting_type": "mythological",
+            "date": "c. 1737"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1694. Warszawa d. 1783 Markt St Florian)",
+    "name": "ALTOMONTE Bartolomeo",
+    "school": "Austrian"
+}

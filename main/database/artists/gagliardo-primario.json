@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14691,
+            "location": "Santa Chiara Naples",
+            "img": "imgs/art/14691.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gagliard/chiara1.html",
+            "title": "Exterior view",
+            "author": "GAGLIARDO Primario",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1310-28"
+        },
+        {
+            "index": 14692,
+            "location": "Santa Chiara Naples",
+            "img": "imgs/art/14692.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gagliard/chiara2.html",
+            "title": "Exterior view",
+            "author": "GAGLIARDO Primario",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1310-28"
+        },
+        {
+            "index": 14693,
+            "location": "Santa Chiara Naples",
+            "img": "imgs/art/14693.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gagliard/chiara3.html",
+            "title": "Interior view",
+            "author": "GAGLIARDO Primario",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1310-28"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(died 1348 Naples)",
+    "name": "GAGLIARDO Primario",
+    "school": "Italian"
+}

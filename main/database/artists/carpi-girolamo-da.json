@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7879,
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "img": "imgs/art/7879.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carpi/ganymede.html",
+            "title": "The Rape of Ganymede",
+            "author": "CARPI Girolamo da",
+            "technique": "Oil on canvas 81 x 145 cm",
+            "painting_type": "mythological",
+            "date": "1543-44"
+        },
+        {
+            "index": 7880,
+            "location": "Galleria Borghese Rome",
+            "img": "imgs/art/7880.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carpi/landscap.html",
+            "title": "Landscape with Magicians",
+            "author": "CARPI Girolamo da",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "c. 1525"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1501 Ferrara d. 1556 Ferrara)",
+    "name": "CARPI Girolamo da",
+    "school": "Italian"
+}

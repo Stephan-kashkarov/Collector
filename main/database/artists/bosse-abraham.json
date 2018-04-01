@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 5400,
+            "location": "Mus\u00e9e des Beaux-Arts Tours",
+            "img": "imgs/art/5400.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosse/mus_sox.html",
+            "title": "The Five Senses: Hearing",
+            "author": "BOSSE Abraham",
+            "technique": "Oil on canvas 104 x 137 cm",
+            "painting_type": "mythological",
+            "date": "c. 1635"
+        },
+        {
+            "index": 5401,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5401.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/musi_soc.html",
+            "title": "Musical Society",
+            "author": "BOSSE Abraham",
+            "technique": "Copper engraving",
+            "painting_type": "genre",
+            "date": "c. 1635"
+        },
+        {
+            "index": 5402,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5402.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/rogersho.html",
+            "title": "Roger Showing a Gallery of Paintings to Several Cardinals",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "historical",
+            "date": "1656"
+        },
+        {
+            "index": 5403,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5403.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/treatis1.html",
+            "title": "Treatise on Engraving and Etching",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1645"
+        },
+        {
+            "index": 5404,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5404.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/treatis2.html",
+            "title": "Treatise on Engraving and Etching",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1645"
+        },
+        {
+            "index": 5405,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5405.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/treatis3.html",
+            "title": "Treatise on Engraving and Etching",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1645"
+        },
+        {
+            "index": 5406,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5406.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/treatis4.html",
+            "title": "Treatise on Engraving and Etching",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1645"
+        },
+        {
+            "index": 5407,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5407.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/treatis5.html",
+            "title": "Treatise on Engraving and Etching",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1645"
+        },
+        {
+            "index": 5408,
+            "location": "British Museum London",
+            "img": "imgs/art/5408.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/wisevirg.html",
+            "title": "The Wise Virgins",
+            "author": "BOSSE Abraham",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "c. 1635"
+        },
+        {
+            "index": 5409,
+            "location": "Museum het Rembrandthuis Amsterdam",
+            "img": "imgs/art/5409.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bosse/workshop.html",
+            "title": "A Printer's Workshop",
+            "author": "BOSSE Abraham",
+            "technique": "Etching 261 x 362 mm",
+            "painting_type": "interior",
+            "date": "c. 1642"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1602 Paris d. 1676 Paris)",
+    "name": "BOSSE Abraham",
+    "school": "French"
+}

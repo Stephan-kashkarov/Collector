@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5424,
+            "location": "Private collection",
+            "img": "imgs/art/5424.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bottalla/bacchus.html",
+            "title": "Bacchus Temperance and Cupid",
+            "author": "BOTTALLA Giovanni Maria",
+            "technique": "Oil on canvas 117 x 161 cm",
+            "painting_type": "mythological",
+            "date": "1640-42"
+        },
+        {
+            "index": 5425,
+            "location": "Private collection",
+            "img": "imgs/art/5425.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bottalla/bacchus1.html",
+            "title": "Bacchus Temperance and Cupid (detail)",
+            "author": "BOTTALLA Giovanni Maria",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1640-42"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1613 Savona d. 1644 Milano)",
+    "name": "BOTTALLA Giovanni Maria",
+    "school": "Italian"
+}

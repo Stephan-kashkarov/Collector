@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9832,
+            "location": "Yale Center for British Art New Haven",
+            "img": "imgs/art/9832.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cotman/john/drainage.html",
+            "title": "Drainage Mills in the Fens Croyland Lincolnshire",
+            "author": "COTMAN John Sell",
+            "technique": "Oil on canvas 55 x 92 cm",
+            "painting_type": "landscape",
+            "date": "c. 1835"
+        },
+        {
+            "index": 9833,
+            "location": "British Museum London",
+            "img": "imgs/art/9833.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cotman/john/greta.html",
+            "title": "Greta Bridge",
+            "author": "COTMAN John Sell",
+            "technique": "Watercolour 230 x 330 mm",
+            "painting_type": "landscape",
+            "date": "c. 1805"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1782 Norwich d. 1842 London)",
+    "name": "COTMAN John Sell",
+    "school": "English"
+}

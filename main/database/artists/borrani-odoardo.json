@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 5113,
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "img": "imgs/art/5113.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borrani/mugnone.html",
+            "title": "Sand Diggers on the Mugnone",
+            "author": "BORRANI Odoardo",
+            "technique": "Oil on canvas141 x 112 cm",
+            "painting_type": "genre",
+            "date": "1880"
+        },
+        {
+            "index": 5114,
+            "location": "Galleria Nazionale d'Arte Moderna e Contemporanea Rome",
+            "img": "imgs/art/5114.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borrani/mugnone1.html",
+            "title": "The Mugnone",
+            "author": "BORRANI Odoardo",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5115,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/5115.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borrani/studio.html",
+            "title": "The Studio",
+            "author": "BORRANI Odoardo",
+            "technique": "Oil on panel 20 x 11 cm",
+            "painting_type": "interior",
+            "date": "1850-74"
+        },
+        {
+            "index": 5116,
+            "location": "Private collection",
+            "img": "imgs/art/5116.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borrani/tuscanvi.html",
+            "title": "Tuscan Village",
+            "author": "BORRANI Odoardo",
+            "technique": "Oil on canvas 60 x 90 cm",
+            "painting_type": "landscape",
+            "date": "1895"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1833 Pisa d. 1905 Firenze)",
+    "name": "BORRANI Odoardo",
+    "school": "Italian"
+}

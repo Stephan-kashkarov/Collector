@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 4036,
+            "location": "Private collection",
+            "img": "imgs/art/4036.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benefial/adorati.html",
+            "title": "Adoration of the Shepherds",
+            "author": "BENEFIAL Marco",
+            "technique": "Oil on canvas 62 x 50 cm",
+            "painting_type": "religious",
+            "date": "1734"
+        },
+        {
+            "index": 4037,
+            "location": "Private collection",
+            "img": "imgs/art/4037.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benefial/adorati1.html",
+            "title": "Adoration of the Shepherds (detail)",
+            "author": "BENEFIAL Marco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1734"
+        },
+        {
+            "index": 4038,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/4038.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benefial/margaret.html",
+            "title": "St. Margaret of Cortona Finds the Corpse of her Lover",
+            "author": "BENEFIAL Marco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 4039,
+            "location": "J. Paul Getty Museum Los Angeles",
+            "img": "imgs/art/4039.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benefial/selfport.html",
+            "title": "Self-Portrait",
+            "author": "BENEFIAL Marco",
+            "technique": "Red chalk on paper 354 x 230 mm",
+            "painting_type": "portrait",
+            "date": "1731"
+        },
+        {
+            "index": 4040,
+            "location": "Sant'Andrea Vetralla",
+            "img": "imgs/art/4040.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/benefial/transfig.html",
+            "title": "Transfiguration",
+            "author": "BENEFIAL Marco",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "c. 1730"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1684 Roma d. 1764 Roma)",
+    "name": "BENEFIAL Marco",
+    "school": "Italian"
+}

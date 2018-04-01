@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 12083,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/12083.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/drevet/villars.html",
+            "title": "Portrait of Louis Hector Duc de Villars Marshal of France",
+            "author": "DREVET Pierre",
+            "technique": "Engraving 525 x 360 mm",
+            "painting_type": "portrait",
+            "date": "c. 1718"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1663 Loire d. 1738 Paris)",
+    "name": "DREVET Pierre",
+    "school": "French"
+}

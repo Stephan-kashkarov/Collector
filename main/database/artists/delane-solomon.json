@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11361,
+            "location": "Private collection",
+            "img": "imgs/art/11361.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delane/dawn.html",
+            "title": "A View near Tivoli at Dawn",
+            "author": "DELANE Solomon",
+            "technique": "Oil on canvas 71 x 91 cm",
+            "painting_type": "landscape",
+            "date": "1777"
+        },
+        {
+            "index": 11362,
+            "location": "Private collection",
+            "img": "imgs/art/11362.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delane/lakenemi.html",
+            "title": "View of Lake Nemi Italy",
+            "author": "DELANE Solomon",
+            "technique": "Oil on canvas 78 x 102 cm",
+            "painting_type": "landscape",
+            "date": "1770s"
+        },
+        {
+            "index": 11363,
+            "location": "Private collection",
+            "img": "imgs/art/11363.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delane/landscap.html",
+            "title": "Landscape with the Flight into Egypt",
+            "author": "DELANE Solomon",
+            "technique": "Oil on copper 48 x 61 cm",
+            "painting_type": "landscape",
+            "date": "c. 1772"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. ca. 1727 Dublin d. 1812 Dublin)",
+    "name": "DELANE Solomon",
+    "school": "Irish"
+}

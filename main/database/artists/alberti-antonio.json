@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 222,
+            "location": "Oratory of San Giovanni Battista Urbino",
+            "img": "imgs/art/222.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/albert/oratory.html",
+            "title": "St John fresco cycle",
+            "author": "ALBERTI Antonio",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "c. 1416"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. ca. 1390 Ferrara d. ca. 1442 Urbino)",
+    "name": "ALBERTI Antonio",
+    "school": "Italian"
+}

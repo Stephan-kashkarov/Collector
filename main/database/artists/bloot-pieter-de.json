@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 4795,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/4795.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/1christ.html",
+            "title": "Christ in the House of Mary and Martha",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 47 x 66 cm",
+            "painting_type": "religious",
+            "date": "1637"
+        },
+        {
+            "index": 4796,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/4796.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/1christ1.html",
+            "title": "Christ in the House of Mary and Martha (detail)",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1637"
+        },
+        {
+            "index": 4797,
+            "location": "Private collection",
+            "img": "imgs/art/4797.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/barn_int.html",
+            "title": "Barn Interior",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 33 x 44 cm",
+            "painting_type": "interior",
+            "date": "-"
+        },
+        {
+            "index": 4798,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/4798.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/landfarm.html",
+            "title": "Landscape with Farm",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 39 x 642 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4799,
+            "location": "Private collection",
+            "img": "imgs/art/4799.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/mariaker.html",
+            "title": "The Mariakerk in Utrecht",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 34 x 47 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4800,
+            "location": "Private collection",
+            "img": "imgs/art/4800.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/peasants.html",
+            "title": "Peasants at an Inn",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 26 x 25 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4801,
+            "location": "Private collection",
+            "img": "imgs/art/4801.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloot/tav_inte.html",
+            "title": "Tavern Interior",
+            "author": "BLOOT Pieter de",
+            "technique": "Oil on panel 48 x 66 cm",
+            "painting_type": "interior",
+            "date": "1630s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1601 Rotterdam d. 1658 Rotterdam)",
+    "name": "BLOOT Pieter de",
+    "school": "Dutch"
+}

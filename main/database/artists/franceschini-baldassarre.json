@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 14204,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14204.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/arlotto.html",
+            "title": "One of Father Arlotto's Tricks",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas 107 x 150 cm",
+            "painting_type": "genre",
+            "date": "1630s"
+        },
+        {
+            "index": 14205,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14205.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/arlotto1.html",
+            "title": "One of Father Arlotto's Tricks (detail)",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1630s"
+        },
+        {
+            "index": 14206,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/14206.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/arlotto2.html",
+            "title": "One of Father Arlotto's Tricks (detail)",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1630s"
+        },
+        {
+            "index": 14207,
+            "location": "Private collection",
+            "img": "imgs/art/14207.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/bacchus.html",
+            "title": "Bacchus with Attendant Putti",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas 144 x 231 cm",
+            "painting_type": "mythological",
+            "date": "c. 1670"
+        },
+        {
+            "index": 14208,
+            "location": "Provincia di Firenze Florence",
+            "img": "imgs/art/14208.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/cosimo3.html",
+            "title": "Portrait of Grand Duke Cosimo III de' Medici",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas 196 x 122 cm",
+            "painting_type": "portrait",
+            "date": "1677"
+        },
+        {
+            "index": 14209,
+            "location": "Villa Medicea La Petraia Florence",
+            "img": "imgs/art/14209.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/medici.html",
+            "title": "History of the Medici",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1636"
+        },
+        {
+            "index": 14210,
+            "location": "Private collection",
+            "img": "imgs/art/14210.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/portrait.html",
+            "title": "Portrait of a Gentleman",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Oil on canvas 44 x 37 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 14211,
+            "location": "Museo Bardini Florence",
+            "img": "imgs/art/14211.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frances2/venus.html",
+            "title": "Venus and Cupid",
+            "author": "FRANCESCHINI Baldassarre",
+            "technique": "Fresco on reeds 80 x 67 cm",
+            "painting_type": "mythological",
+            "date": "c. 1641"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1611 Volterra d. 1690 Firenze)",
+    "name": "FRANCESCHINI Baldassarre",
+    "school": "Italian"
+}

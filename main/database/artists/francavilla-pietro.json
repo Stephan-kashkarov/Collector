@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 14192,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14192.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/david.html",
+            "title": "David",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble height 179 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14193,
+            "location": "Cathedral Square Arezzo",
+            "img": "imgs/art/14193.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/ferdinan.html",
+            "title": "Ferdinando I de' Medici",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble",
+            "painting_type": "portrait",
+            "date": "1795"
+        },
+        {
+            "index": 14194,
+            "location": "Palazzo Bianco Genoa",
+            "img": "imgs/art/14194.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/janus.html",
+            "title": "Janus",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 14195,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14195.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/orpheus1.html",
+            "title": "Orpheus Charming the Animals",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble height 250 cm",
+            "painting_type": "mythological",
+            "date": "1598"
+        },
+        {
+            "index": 14196,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14196.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/orpheus2.html",
+            "title": "Orpheus Charming the Animals",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble height 250 cm",
+            "painting_type": "mythological",
+            "date": "1598"
+        },
+        {
+            "index": 14197,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14197.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/orpheus3.html",
+            "title": "Orpheus Charming the Animals (detail)",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1598"
+        },
+        {
+            "index": 14198,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14198.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/orpheus4.html",
+            "title": "Orpheus Charming the Animals (detail)",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1598"
+        },
+        {
+            "index": 14199,
+            "location": "Ponte Santa Trinit\u00e0 Florence",
+            "img": "imgs/art/14199.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/francavi/winter.html",
+            "title": "Winter",
+            "author": "FRANCAVILLA Pietro",
+            "technique": "Marble over life-size",
+            "painting_type": "mythological",
+            "date": "1590s"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1548 Cambrai d. 1615 Paris)",
+    "name": "FRANCAVILLA Pietro",
+    "school": "Flemish"
+}

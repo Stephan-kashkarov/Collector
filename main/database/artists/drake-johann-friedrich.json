@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12080,
+            "location": "Tiergarten Park Berlin",
+            "img": "imgs/art/12080.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/drake/frederic.html",
+            "title": "Monument to King Frederick William III of Prussia",
+            "author": "DRAKE Johann Friedrich",
+            "technique": "Carrara marble height 278 cm",
+            "painting_type": "portrait",
+            "date": "1849"
+        },
+        {
+            "index": 12081,
+            "location": "Tiergarten Park Berlin",
+            "img": "imgs/art/12081.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/drake/frederix.html",
+            "title": "Monument to King Frederick William III of Prussia (detail)",
+            "author": "DRAKE Johann Friedrich",
+            "technique": "Carrara marble",
+            "painting_type": "portrait",
+            "date": "1849"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1805 Bad Pyrmont 1882 Berlin)",
+    "name": "DRAKE Johann Friedrich",
+    "school": "German"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 713,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/713.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/androuet/charleva.html",
+            "title": "Ch\u00e2teau Charleval",
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "c. 1570"
+        },
+        {
+            "index": 714,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/714.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/androuet/ecouen.html",
+            "title": "Entrance to the Ch\u00e2teau \u00c9couen",
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1555-60"
+        },
+        {
+            "index": 715,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/715.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/androuet/townhous.html",
+            "title": "Design for a Town House",
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1559"
+        },
+        {
+            "index": 716,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/716.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/androuet/verneuil.html",
+            "title": "Ch\u00e2teau Verneuil",
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "c. 1560"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1515 ? d. 1584 Annecy)",
+    "name": "ANDROUET DU CERCEAU Jacques the Elder",
+    "school": "French"
+}

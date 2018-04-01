@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6038,
+            "location": "Private collection",
+            "img": "imgs/art/6038.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bredael/jan/hunters.html",
+            "title": "Hunters Resting beside a Fountain",
+            "author": "BREDAEL Jan Frans van",
+            "technique": "Oil on panel 37 x 41 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6039,
+            "location": "Private collection",
+            "img": "imgs/art/6039.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bredael/jan/landscap.html",
+            "title": "Landscape",
+            "author": "BREDAEL Jan Frans van",
+            "technique": "Oil on copper 115 x 15 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1686 Antwerpen d. 1750 Antwerpen)",
+    "name": "BREDAEL Jan Frans van",
+    "school": "Flemish"
+}

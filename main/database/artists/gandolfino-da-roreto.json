@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 14800,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/14800.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gandolf/polyptyc.html",
+            "title": "Assumption of the Virgin with Saints",
+            "author": "GANDOLFINO DA RORETO",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "1493"
+        },
+        {
+            "index": 14801,
+            "location": "Cathedral Asti",
+            "img": "imgs/art/14801.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gandolf/virgin_g.html",
+            "title": "Genealogy of the Virgin",
+            "author": "GANDOLFINO DA RORETO",
+            "technique": "Tempera on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1493-1510 in Piedmont)",
+    "name": "GANDOLFINO DA RORETO",
+    "school": "Italian"
+}

@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 12108,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/12108.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drost/b_sibyl.html",
+            "title": "The Sibyl",
+            "author": "DROST Willem",
+            "technique": "Oil on canvas 98 x 78 cm",
+            "painting_type": "mythological",
+            "date": "c. 1654"
+        },
+        {
+            "index": 12109,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/12109.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drost/bathsheb.html",
+            "title": "Bathsheba",
+            "author": "DROST Willem",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1654"
+        },
+        {
+            "index": 12110,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/12110.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drost/port_man.html",
+            "title": "Portrait of a Man",
+            "author": "DROST Willem",
+            "technique": "Oil on canvas 87 x 72 cm",
+            "painting_type": "portrait",
+            "date": "1653"
+        },
+        {
+            "index": 12111,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/12111.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drost/port_wom.html",
+            "title": "Portrait of a Woman",
+            "author": "DROST Willem",
+            "technique": "Oil on canvas 82 x 65 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 12112,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/12112.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/drost/selfport.html",
+            "title": "Self-Portrait",
+            "author": "DROST Willem",
+            "technique": "Etching 64 x 52 mm",
+            "painting_type": "portrait",
+            "date": "1652"
+        },
+        {
+            "index": 12113,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/12113.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/drost/visionda.html",
+            "title": "The Vision of Daniel",
+            "author": "DROST Willem",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1650"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1633 Amsterdam d. 1659 Venezia)",
+    "name": "DROST Willem",
+    "school": "Dutch"
+}

@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 13431,
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "img": "imgs/art/13431.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/1holzha1.html",
+            "title": "Gilbrecht and Anna von Holzhausen",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on panel",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 13432,
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "img": "imgs/art/13432.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/1holzha2.html",
+            "title": "Gilbrecht von Holzhausen the Younger",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on panel 59 x 44 cm",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 13433,
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "img": "imgs/art/13433.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/1holzha3.html",
+            "title": "Portrait of Anna von Holzhausen n\u00e9e Ratzeburg",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on panel",
+            "painting_type": "portrait",
+            "date": "1535"
+        },
+        {
+            "index": 13434,
+            "location": "St\u00e4delsches Kunstinstitut Frankfurt",
+            "img": "imgs/art/13434.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/2holzhau.html",
+            "title": "Portrait of Justinian von Holzhausen and his Wife",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on panel",
+            "painting_type": "portrait",
+            "date": "1536"
+        },
+        {
+            "index": 13435,
+            "location": "Mus\u00e9es Royaux des Beaux-Arts Brussels",
+            "img": "imgs/art/13435.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/3mohren1.html",
+            "title": "Heinrich von Rhein zum Mohren",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on panel 54 x 37 cm",
+            "painting_type": "portrait",
+            "date": "1526-29"
+        },
+        {
+            "index": 13436,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13436.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/3mohren2.html",
+            "title": "Heinrich von Rhein zum Mohren",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil on oak panel 54 x 38 cm",
+            "painting_type": "portrait",
+            "date": "1530-50"
+        },
+        {
+            "index": 13437,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13437.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/faber/4signet.html",
+            "title": "Portrait of a Man with a Moor's Head on His Signet Ring",
+            "author": "FABER VON CREUZNACH Conrad",
+            "technique": "Oil gold and white metal on linden panel 53 x 35 cm",
+            "painting_type": "portrait",
+            "date": "c. 1535"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1500 Kreuznach d. ca. 1553 Frankfurt)",
+    "name": "FABER VON CREUZNACH Conrad",
+    "school": "German"
+}

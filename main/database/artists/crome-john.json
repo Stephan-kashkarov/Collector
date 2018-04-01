@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10540,
+            "location": "Private collection",
+            "img": "imgs/art/10540.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crome/land_oak.html",
+            "title": "Wooded Landscape with an Oak",
+            "author": "CROME John",
+            "technique": "Oil on panel 24 x 18 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 10541,
+            "location": "Yale Center for British Art New Haven",
+            "img": "imgs/art/10541.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crome/wensum.html",
+            "title": "Boys Bathing on the River Wensum Norwich",
+            "author": "CROME John",
+            "technique": "Oil on panel 48 x 36 cm",
+            "painting_type": "landscape",
+            "date": "1817"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1768 Norwich d. 1821 Norwich)",
+    "name": "CROME John",
+    "school": "English"
+}

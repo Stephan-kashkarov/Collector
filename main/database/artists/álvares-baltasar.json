@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 435,
+            "location": "Nossa Senhora dos Grilos Porto",
+            "img": "imgs/art/435.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/alvares/porto1.html",
+            "title": "Exterior view",
+            "author": "\u00c1LVARES Baltasar",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1622"
+        },
+        {
+            "index": 436,
+            "location": "Nossa Senhora dos Grilos Porto",
+            "img": "imgs/art/436.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/alvares/porto2.html",
+            "title": "Exterior view",
+            "author": "\u00c1LVARES Baltasar",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1622"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(active 1570 died 1624)",
+    "name": "\u00c1LVARES Baltasar",
+    "school": "Portuguese"
+}

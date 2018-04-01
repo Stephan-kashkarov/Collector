@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 11462,
+            "location": "Private collection",
+            "img": "imgs/art/11462.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/dog_cat.html",
+            "title": "A Dog and a Cat Fighting in a Kitchen Interior",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 100 x 130 cm",
+            "painting_type": "interior",
+            "date": "1710"
+        },
+        {
+            "index": 11463,
+            "location": "Private collection",
+            "img": "imgs/art/11463.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/dogsking.html",
+            "title": "Bonne Nonne and Ponne Dogs of King Louis XIV",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on paper laid on cradled panel 34 x 40 cm",
+            "painting_type": "other",
+            "date": "c. 1702"
+        },
+        {
+            "index": 11464,
+            "location": "Private collection",
+            "img": "imgs/art/11464.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/landscap.html",
+            "title": "Fruits Flowers and Vegetables in a Landscape",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 93 x 119 cm",
+            "painting_type": "still-life",
+            "date": "1720"
+        },
+        {
+            "index": 11465,
+            "location": "Private collection",
+            "img": "imgs/art/11465.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/pantry.html",
+            "title": "Pantry with Artichokes Cauliflowers and a Basket of Mushrooms",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 121 x 155 cm",
+            "painting_type": "still-life",
+            "date": "1724"
+        },
+        {
+            "index": 11466,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11466.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/selfport.html",
+            "title": "Self-Portrait as a Huntsman",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 197 x 163 cm",
+            "painting_type": "portrait",
+            "date": "1699"
+        },
+        {
+            "index": 11467,
+            "location": "Private collection",
+            "img": "imgs/art/11467.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/staghunt.html",
+            "title": "The Stag Hunt",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 61 x 126 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 11468,
+            "location": "Private collection",
+            "img": "imgs/art/11468.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/stil_lif.html",
+            "title": "Still-Life",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 89 x 119 cm",
+            "painting_type": "still-life",
+            "date": "1725"
+        },
+        {
+            "index": 11469,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11469.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/stilewer.html",
+            "title": "Still-Life with Ewer",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 84 x 138 cm",
+            "painting_type": "still-life",
+            "date": "1734"
+        },
+        {
+            "index": 11470,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11470.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/stillife.html",
+            "title": "Still-Life with Dead Hare and Fruit",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 115 x 99 cm",
+            "painting_type": "still-life",
+            "date": "1711"
+        },
+        {
+            "index": 11471,
+            "location": "Private collection",
+            "img": "imgs/art/11471.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/stillifg.html",
+            "title": "Still-Life of Game",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 89 x 113 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 11472,
+            "location": "Private collection",
+            "img": "imgs/art/11472.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/stllif.html",
+            "title": "Still-Life of a Kitchen Table",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 121 x 95 cm",
+            "painting_type": "still-life",
+            "date": "1734"
+        },
+        {
+            "index": 11473,
+            "location": "Private collection",
+            "img": "imgs/art/11473.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/desporte/trophy.html",
+            "title": "Dog Guarding a Hunting Trophy",
+            "author": "DESPORTES Alexandre-Fran\u00e7ois",
+            "technique": "Oil on canvas 121 x 155 cm",
+            "painting_type": "still-life",
+            "date": "1724"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1661 Champigneulles d. 1743 Paris)",
+    "name": "DESPORTES Alexandre-Fran\u00e7ois",
+    "school": "French"
+}

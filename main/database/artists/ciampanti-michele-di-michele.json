@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8814,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/8814.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ciampant/adorati.html",
+            "title": "Adoration of the Magi",
+            "author": "CIAMPANTI Michele di Michele",
+            "technique": "Tempera on wood 54 x 39 cm",
+            "painting_type": "religious",
+            "date": "1470"
+        },
+        {
+            "index": 8815,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/8815.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/ciampant/adorati1.html",
+            "title": "Adoration of the Magi (detail)",
+            "author": "CIAMPANTI Michele di Michele",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1470"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1470-1510 in Lucca)",
+    "name": "CIAMPANTI Michele di Michele",
+    "school": "Italian"
+}

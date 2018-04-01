@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 9254,
+            "location": "Private collection",
+            "img": "imgs/art/9254.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coignet/bearded.html",
+            "title": "Bearded Vulture Devouring his Prey",
+            "author": "COIGNET Jules",
+            "technique": "Oil on canvas 98 x 130 cm",
+            "painting_type": "genre",
+            "date": "1837"
+        },
+        {
+            "index": 9255,
+            "location": "Private collection",
+            "img": "imgs/art/9255.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coignet/bearded1.html",
+            "title": "Bearded Vulture Devouring his Prey (detail)",
+            "author": "COIGNET Jules",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1837"
+        },
+        {
+            "index": 9256,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/9256.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coignet/bozen.html",
+            "title": "View of Bozen with a Painter",
+            "author": "COIGNET Jules",
+            "technique": "Oil on paper on canvas 31 x 39 cm",
+            "painting_type": "landscape",
+            "date": "1837"
+        },
+        {
+            "index": 9257,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/9257.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/coignet/tivoli.html",
+            "title": "Buildings at Tivoli",
+            "author": "COIGNET Jules",
+            "technique": "Crayon lithograph on wove paper 587 x 422 mm",
+            "painting_type": "landscape",
+            "date": "1828"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1798 Paris d. 1860 Paris)",
+    "name": "COIGNET Jules",
+    "school": "French"
+}

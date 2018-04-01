@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 6059,
+            "location": "Cappella Sistina Vatican",
+            "img": "imgs/art/6059.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/4cantori.html",
+            "title": "Cantoria",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1480s"
+        },
+        {
+            "index": 6060,
+            "location": "Cappella Sistina Vatican",
+            "img": "imgs/art/6060.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/4gateway.html",
+            "title": "Gateway",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1480s"
+        },
+        {
+            "index": 6061,
+            "location": "San Gregorio Magno Rome",
+            "img": "imgs/art/6061.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/appariti.html",
+            "title": "The Apparition of St Michael to St Gregory",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1469"
+        },
+        {
+            "index": 6062,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/6062.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/bust1.html",
+            "title": "Cardinal Raffaele Sansoni Riario",
+            "author": "BREGNO Andrea",
+            "technique": "Terracotta formerly painted height 52 cm",
+            "painting_type": "portrait",
+            "date": "c. 1478"
+        },
+        {
+            "index": 6063,
+            "location": "Isabella Stewart Gardner Museum Boston",
+            "img": "imgs/art/6063.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/bust2.html",
+            "title": "Cardinal Raffaele Sansoni Riario",
+            "author": "BREGNO Andrea",
+            "technique": "Marble formerly partially gilded height 57 cm",
+            "painting_type": "portrait",
+            "date": "c. 1478"
+        },
+        {
+            "index": 6064,
+            "location": "San Pietro in Vincoli Rome",
+            "img": "imgs/art/6064.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/cusa.html",
+            "title": "Monument of Cardinal Nicola de Cusa",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6065,
+            "location": "Duomo Siena",
+            "img": "imgs/art/6065.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/piccolom.html",
+            "title": "Piccolomini Altar",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1503"
+        },
+        {
+            "index": 6066,
+            "location": "Santa Maria del Popolo Rome",
+            "img": "imgs/art/6066.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/rovere.html",
+            "title": "Tomb of Cardinals Cristoforo and Domenico della Rovere",
+            "author": "BREGNO Andrea",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "c. 1479"
+        },
+        {
+            "index": 6067,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/6067.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/standrew.html",
+            "title": "St Andrew",
+            "author": "BREGNO Andrea",
+            "technique": "Marble 120 x 81 cm",
+            "painting_type": "religious",
+            "date": "1491"
+        },
+        {
+            "index": 6068,
+            "location": "Santi Apostoli Rome",
+            "img": "imgs/art/6068.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bregno/andrea/tombriar.html",
+            "title": "Tomb of Cardinal Pietro Riario",
+            "author": "BREGNO Andrea",
+            "technique": "Marble 650 x 341 cm",
+            "painting_type": "religious",
+            "date": "1474-77"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1418 Osteno d. 1503 Roma)",
+    "name": "BREGNO Andrea",
+    "school": "Italian"
+}

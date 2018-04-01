@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15736,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/15736.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giani/ceiling.html",
+            "title": "Ceiling decoration",
+            "author": "GIANI Felice",
+            "technique": "Fresco",
+            "painting_type": "other",
+            "date": "1813"
+        },
+        {
+            "index": 15737,
+            "location": "Palazzo Milzetti Faenza",
+            "img": "imgs/art/15737.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giani/poseidon.html",
+            "title": "The Marriage of Poseidon and Amphitrite",
+            "author": "GIANI Felice",
+            "technique": "Tempera mural",
+            "painting_type": "mythological",
+            "date": "1802-05"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1758 San Sebastiano Curone d. 1823 Roma)",
+    "name": "GIANI Felice",
+    "school": "Italian"
+}

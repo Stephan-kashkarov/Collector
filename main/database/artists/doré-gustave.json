@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 11931,
+            "location": "Various collections",
+            "img": "imgs/art/11931.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dore/bible.html",
+            "title": "Illustration to the Bible",
+            "author": "DOR\u00c9 Gustave",
+            "technique": "Woodcut",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11932,
+            "location": "Various collections",
+            "img": "imgs/art/11932.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dore/dante.html",
+            "title": "Illustration to Dante's Divine Comedy",
+            "author": "DOR\u00c9 Gustave",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "c. 1855"
+        },
+        {
+            "index": 11933,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/11933.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dore/illustra.html",
+            "title": "Illustration for Charles Perrault's 'Bluebeard'",
+            "author": "DOR\u00c9 Gustave",
+            "technique": "Pencil pen and Indian ink brush and grey wash and white on primed panel 240 x 195 mm",
+            "painting_type": "other",
+            "date": "before 1862"
+        },
+        {
+            "index": 11934,
+            "location": "Private collection",
+            "img": "imgs/art/11934.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dore/painting.html",
+            "title": "Gorge",
+            "author": "DOR\u00c9 Gustave",
+            "technique": "Oil on copper 109 x 170 cm",
+            "painting_type": "landscape",
+            "date": "1878"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1832 Strasbourg d. 1883 Paris)",
+    "name": "DOR\u00c9 Gustave",
+    "school": "French"
+}

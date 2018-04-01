@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4923,
+            "location": "Private collection",
+            "img": "imgs/art/4923.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollandt/albert.html",
+            "title": "Portrait of Albert Frederick Duke of Prussia",
+            "author": "BOLLANDT Heinrich",
+            "technique": "Oil on panel 55 x 47 cm",
+            "painting_type": "portrait",
+            "date": "c. 1600"
+        },
+        {
+            "index": 4924,
+            "location": "Jagdschloss Grunewald Berlin",
+            "img": "imgs/art/4924.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollandt/erdmann.html",
+            "title": "Erdmann August Crown Prince of Brandenburg-Bayreuth",
+            "author": "BOLLANDT Heinrich",
+            "technique": "Oil on panel 62 x 54 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 4925,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/4925.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bollandt/venusamo.html",
+            "title": "Venus and Amor",
+            "author": "BOLLANDT Heinrich",
+            "technique": "Wood 196 x 89 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1577 Bayreuth d. ca. 1651 Bayreuth)",
+    "name": "BOLLANDT Heinrich",
+    "school": "German"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 4978,
+            "location": "Private collection",
+            "img": "imgs/art/4978.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonavia/a_storm.html",
+            "title": "A Storm off a Rocky Coast",
+            "author": "BONAVIA Carlo",
+            "technique": "Oil on canvas 81 x 145 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4979,
+            "location": "Private collection",
+            "img": "imgs/art/4979.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonavia/arcadia1.html",
+            "title": "Arcadian River Landscape",
+            "author": "BONAVIA Carlo",
+            "technique": "Oil on canvas 65 x 52 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4980,
+            "location": "Private collection",
+            "img": "imgs/art/4980.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonavia/arcadia2.html",
+            "title": "Arcadian River Landscape",
+            "author": "BONAVIA Carlo",
+            "technique": "Oil on canvas 65 x 52 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 4981,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4981.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonavia/baia_bay.html",
+            "title": "Baia Bay",
+            "author": "BONAVIA Carlo",
+            "technique": "Oil on canvas 83 x 151 cm",
+            "painting_type": "landscape",
+            "date": "1758"
+        },
+        {
+            "index": 4982,
+            "location": "Private collection",
+            "img": "imgs/art/4982.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonavia/moonlit.html",
+            "title": "View of a Moonlit Mediterranean Harbour",
+            "author": "BONAVIA Carlo",
+            "technique": "Oil on canvas 99 x 163 cm",
+            "painting_type": "landscape",
+            "date": "1781"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(active 1751-1788 in Naples)",
+    "name": "BONAVIA Carlo",
+    "school": "Italian"
+}

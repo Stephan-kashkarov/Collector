@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 707,
+            "location": "Muzeul National de Arta Bucharest",
+            "img": "imgs/art/707.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andreesc/forest.html",
+            "title": "Edge of the Forest",
+            "author": "ANDREESCU Ion",
+            "technique": "Oil on canvas 61 x 51 cm",
+            "painting_type": "landscape",
+            "date": "c. 1880"
+        },
+        {
+            "index": 708,
+            "location": "Muzeul K.H. Zambaccian Bucharest",
+            "img": "imgs/art/708.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andreesc/winter.html",
+            "title": "Winter at Barbizon",
+            "author": "ANDREESCU Ion",
+            "technique": "Oil on canvas 54 x 65 cm",
+            "painting_type": "landscape",
+            "date": "1881"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1850 Bucure\u00bati d. 1882 Bucure\u00bati)",
+    "name": "ANDREESCU Ion",
+    "school": "Other"
+}

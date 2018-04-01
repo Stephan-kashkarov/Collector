@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4185,
+            "location": "Private collection",
+            "img": "imgs/art/4185.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berghe/flowers.html",
+            "title": "Flowers in a Porcelain Vase",
+            "author": "BERGHE Christoffel van den",
+            "technique": "Oil on copper 31 x 21 cm",
+            "painting_type": "still-life",
+            "date": "1616-17"
+        },
+        {
+            "index": 4186,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4186.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berghe/winterla.html",
+            "title": "Winter Landscape",
+            "author": "BERGHE Christoffel van den",
+            "technique": "Oil on wood 27 x 45 cm",
+            "painting_type": "landscape",
+            "date": "1615-20"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 Antwerpen d. after 1642 Middelburg)",
+    "name": "BERGHE Christoffel van den",
+    "school": "Flemish"
+}

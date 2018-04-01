@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5874,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5874.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/boys/london.html",
+            "title": "Piccadilly Circus",
+            "author": "BOYS Thomas Shotter",
+            "technique": "Lithography",
+            "painting_type": "landscape",
+            "date": "1842"
+        },
+        {
+            "index": 5875,
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "img": "imgs/art/5875.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/boys/paris.html",
+            "title": "The Tour St. Jacques before Clearance",
+            "author": "BOYS Thomas Shotter",
+            "technique": "Lithograph",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1803 London d. 1874 London)",
+    "name": "BOYS Thomas Shotter",
+    "school": "English"
+}

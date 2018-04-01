@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13989,
+            "location": "Kunstbibliothek Berlin",
+            "img": "imgs/art/13989.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fontanag/design1.html",
+            "title": "Design for a Festival Entry (detail)",
+            "author": "FONTANA Giovanni Battista",
+            "technique": "Pen and brown ink brown and gray wash traces of red chalk 290 x 2665 mm",
+            "painting_type": "study",
+            "date": "c. 1572"
+        },
+        {
+            "index": 13990,
+            "location": "Kunstbibliothek Berlin",
+            "img": "imgs/art/13990.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fontanag/design2.html",
+            "title": "Design for a Festival Entry (detail)",
+            "author": "FONTANA Giovanni Battista",
+            "technique": "Pen and brown ink brown and gray wash traces of red chalk 290 x 2665 mm",
+            "painting_type": "study",
+            "date": "c. 1572"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1524 Ala d. 1587 Innsbruck)",
+    "name": "FONTANA Giovanni Battista",
+    "school": "Italian"
+}

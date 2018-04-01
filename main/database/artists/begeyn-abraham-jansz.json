@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3682,
+            "location": "Private collection",
+            "img": "imgs/art/3682.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/begeyn/flowers.html",
+            "title": "Flowers in a Stone Vase",
+            "author": "BEGEYN Abraham Jansz.",
+            "technique": "Oil on canvas 78 x 64 cm",
+            "painting_type": "still-life",
+            "date": "1670"
+        },
+        {
+            "index": 3683,
+            "location": "painting",
+            "img": "imgs/art/3683.jpg",
+            "form": "Dutch",
+            "url": "still-life",
+            "title": "A \"\"Forest Floor\"\" Still-Life\"-\"Oil on canvas 41 x 36 cm",
+            "author": "BEGEYN Abraham Jansz.",
+            "technique": "https://www.wga.hu/html/b/begeyn/forestfl.html",
+            "painting_type": "1651-1700",
+            "date": "Private collection"
+        },
+        {
+            "index": 3684,
+            "location": "Private collection",
+            "img": "imgs/art/3684.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/begeyn/italland.html",
+            "title": "Italianate Landscape",
+            "author": "BEGEYN Abraham Jansz.",
+            "technique": "Oil on panel 32 x 25 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3685,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3685.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/begeyn/seashore.html",
+            "title": "Seashore",
+            "author": "BEGEYN Abraham Jansz.",
+            "technique": "Oil on canvas 90 x 119 cm",
+            "painting_type": "landscape",
+            "date": "1662"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1637 Leiden d. 1697 Berlin)",
+    "name": "BEGEYN Abraham Jansz.",
+    "school": "Dutch"
+}

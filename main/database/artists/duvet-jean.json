@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12459,
+            "location": "British Museum London",
+            "img": "imgs/art/12459.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duvet/apocalyp.html",
+            "title": "Illustration to the Apocalypse",
+            "author": "DUVET Jean",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1550s"
+        },
+        {
+            "index": 12460,
+            "location": "British Museum London",
+            "img": "imgs/art/12460.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/duvet/moses.html",
+            "title": "Moses and the Patriarchs",
+            "author": "DUVET Jean",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1540s"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 Dijon d. after 1561 Langres)",
+    "name": "DUVET Jean",
+    "school": "French"
+}

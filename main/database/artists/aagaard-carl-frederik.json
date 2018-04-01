@@ -1,32 +1,32 @@
 {
-    "name": "AAGAARD Carl Frederik",
-    "life": "(b. 1833 Odense d. 1895 K\u00f8benhavn)",
-    "school": "Danish",
-    "timeframe": "1851-1900",
     "art": [
         {
-            "title": "Deer beside a Lake",
-            "date": "1888",
-            "technique": "Oil on canvas 53 x 82 cm",
-            "location": "Private collection",
-            "url": "https://www.wga.hu/html/a/aagaard/deerlake.html",
-            "form": "painting",
-            "painting_type": "landscape",
             "index": 6,
+            "location": "Private collection",
+            "img": "imgs/art/6.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/aagaard/deerlake.html",
+            "title": "Deer beside a Lake",
             "author": "AAGAARD Carl Frederik",
-            "img": "imgs/art/deer-beside-a-lake.jpg"
+            "technique": "Oil on canvas 53 x 82 cm",
+            "painting_type": "landscape",
+            "date": "1888"
         },
         {
-            "title": "The Rose Garden",
-            "date": "1877",
-            "technique": "Oil on canvas 98 x 80 cm",
-            "location": "Private collection",
-            "url": "https://www.wga.hu/html/a/aagaard/rosegard.html",
-            "form": "painting",
-            "painting_type": "landscape",
             "index": 7,
+            "location": "Private collection",
+            "img": "imgs/art/7.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/aagaard/rosegard.html",
+            "title": "The Rose Garden",
             "author": "AAGAARD Carl Frederik",
-            "img": "imgs/art/the-rose-garden.jpg"
+            "technique": "Oil on canvas 98 x 80 cm",
+            "painting_type": "landscape",
+            "date": "1877"
         }
-    ]
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1833 Odense d. 1895 K\u00f8benhavn)",
+    "name": "AAGAARD Carl Frederik",
+    "school": "Danish"
 }

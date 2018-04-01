@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 254,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/254.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/albotto/campo.html",
+            "title": "View of Campo Santi Giovanni e Paolo",
+            "author": "ALBOTTO Francesco",
+            "technique": "Oil on canvas 61 x 97 cm",
+            "painting_type": "landscape",
+            "date": "c. 1745"
+        },
+        {
+            "index": 255,
+            "location": "Private collection",
+            "img": "imgs/art/255.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/albotto/giuseppe.html",
+            "title": "San Giuseppe di Castello",
+            "author": "ALBOTTO Francesco",
+            "technique": "Oil on canvas 595 x 97 cm",
+            "painting_type": "landscape",
+            "date": "c. 1745"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1721 Venezia d. 1757 Venezia)",
+    "name": "ALBOTTO Francesco",
+    "school": "Italian"
+}

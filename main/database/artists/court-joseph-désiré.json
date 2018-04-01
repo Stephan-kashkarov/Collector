@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 9920,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/9920.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/court/christi8.html",
+            "title": "Christian VIII and Caroline Amalie in Coronation Robes",
+            "author": "COURT Joseph-D\u00e9sir\u00e9",
+            "technique": "Oil on canvas 294 x 359 cm",
+            "painting_type": "portrait",
+            "date": "1841"
+        },
+        {
+            "index": 9921,
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "img": "imgs/art/9921.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/court/womanlyi.html",
+            "title": "Half-length Woman Lying on a Couch",
+            "author": "COURT Joseph-D\u00e9sir\u00e9",
+            "technique": "Oil on canvas 81 x 66 cm",
+            "painting_type": "portrait",
+            "date": "1829"
+        },
+        {
+            "index": 9922,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/9922.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/court/yekateri.html",
+            "title": "Portrait of Yekaterina Scherbatova",
+            "author": "COURT Joseph-D\u00e9sir\u00e9",
+            "technique": "Oil on canvas 165 x 123 cm",
+            "painting_type": "portrait",
+            "date": "c. 1840"
+        },
+        {
+            "index": 9923,
+            "location": "Mus\u00e9e des Beaux-Arts et de la Dentelle d'Alen\u00e7on Alen\u00e7on",
+            "img": "imgs/art/9923.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/court/young_g.html",
+            "title": "Young Girl at the Scamander River",
+            "author": "COURT Joseph-D\u00e9sir\u00e9",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1824"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1797 Rouen d. 1865 Paris)",
+    "name": "COURT Joseph-D\u00e9sir\u00e9",
+    "school": "French"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 10431,
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "img": "imgs/art/10431.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crayer/alexande.html",
+            "title": "Alexander and Diogenes",
+            "author": "CRAYER Gaspard de",
+            "technique": "Oil on canvas 196 x 278 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 10432,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/10432.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crayer/cardinal.html",
+            "title": "The Cardinal Infante",
+            "author": "CRAYER Gaspard de",
+            "technique": "Oil on canvas 219 x 125 cm",
+            "painting_type": "portrait",
+            "date": "1639"
+        },
+        {
+            "index": 10433,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/10433.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crayer/headmoor.html",
+            "title": "Head Study of a Young Moor",
+            "author": "CRAYER Gaspard de",
+            "technique": "Oil on canvas 395 x 327 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 10434,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/10434.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crayer/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "CRAYER Gaspard de",
+            "technique": "Oil on canvas 83 x 65 cm",
+            "painting_type": "portrait",
+            "date": "1620s"
+        },
+        {
+            "index": 10435,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/10435.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crayer/strosali.html",
+            "title": "The Coronation of St Rosalie",
+            "author": "CRAYER Gaspard de",
+            "technique": "Oil on canvas 322 x 364 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1584 Antwerpen d. 1669 Ghent)",
+    "name": "CRAYER Gaspard de",
+    "school": "Flemish"
+}

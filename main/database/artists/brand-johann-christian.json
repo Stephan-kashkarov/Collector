@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5978,
+            "location": "Private collection",
+            "img": "imgs/art/5978.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brand/johann/landsca1.html",
+            "title": "Southern Landscape",
+            "author": "BRAND Johann Christian",
+            "technique": "Oil on panel 19 x 16 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5979,
+            "location": "Private collection",
+            "img": "imgs/art/5979.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brand/johann/landsca2.html",
+            "title": "Southern Landscape",
+            "author": "BRAND Johann Christian",
+            "technique": "Oil on panel 19 x 16 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5980,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/5980.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brand/johann/parable.html",
+            "title": "Parable of the Workers in the Vineyard",
+            "author": "BRAND Johann Christian",
+            "technique": "Oil on canvas 51 x 74 cm",
+            "painting_type": "religious",
+            "date": "1769"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1722 Wien d. 1795 Wien)",
+    "name": "BRAND Johann Christian",
+    "school": "Austrian"
+}

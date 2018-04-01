@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 6833,
+            "location": "Boboli Gardens Florence",
+            "img": "imgs/art/6833.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/buontale/grotto.html",
+            "title": "The Grotta Grande",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Rock",
+            "painting_type": "other",
+            "date": "1583-93"
+        },
+        {
+            "index": 6834,
+            "location": "Boboli Gardens Florence",
+            "img": "imgs/art/6834.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/buontale/grotto1.html",
+            "title": "The Grotta Grande",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Rock",
+            "painting_type": "other",
+            "date": "1583-93"
+        },
+        {
+            "index": 6835,
+            "location": "Boboli Gardens Florence",
+            "img": "imgs/art/6835.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buontale/grotto2.html",
+            "title": "The Grotta Grande",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Rock",
+            "painting_type": "other",
+            "date": "1583-93"
+        },
+        {
+            "index": 6836,
+            "location": "Boboli Gardens Florence",
+            "img": "imgs/art/6836.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buontale/grotto3.html",
+            "title": "Exterior View of the Grotto",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "-",
+            "painting_type": "other",
+            "date": "1583-85"
+        },
+        {
+            "index": 6837,
+            "location": "Boboli Gardens Florence",
+            "img": "imgs/art/6837.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buontale/grotto4.html",
+            "title": "Exterior View of the Grotto",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "-",
+            "painting_type": "other",
+            "date": "1583-85"
+        },
+        {
+            "index": 6838,
+            "location": "Artimino Prato",
+            "img": "imgs/art/6838.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buontale/medicea.html",
+            "title": "Villa Medicea",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1596"
+        },
+        {
+            "index": 6839,
+            "location": "Santo Stefano a Ponte Florence",
+            "img": "imgs/art/6839.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/buontale/stairway.html",
+            "title": "Stairway",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1574"
+        },
+        {
+            "index": 6840,
+            "location": "Santa Trinita Florence",
+            "img": "imgs/art/6840.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buontale/trinita.html",
+            "title": "Fa\u00e7ade",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Stone",
+            "painting_type": "other",
+            "date": "1593-94"
+        },
+        {
+            "index": 6841,
+            "location": "Museo degli Argenti Palazzo Pitti Florence",
+            "img": "imgs/art/6841.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/b/buontale/vase.html",
+            "title": "Vase",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Lapis lazuli gold enamel and gilt copper height 41 cm",
+            "painting_type": "other",
+            "date": "1583"
+        },
+        {
+            "index": 6842,
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "img": "imgs/art/6842.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/buontale/zillumi1.html",
+            "title": "Sketches for costumes",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Manuscript (Ms. Pal. C. B. 3. 53 vol. II)",
+            "painting_type": "study",
+            "date": "1589"
+        },
+        {
+            "index": 6843,
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "img": "imgs/art/6843.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/buontale/zillumi2.html",
+            "title": "Sketches for costumes",
+            "author": "BUONTALENTI Bernardo",
+            "technique": "Manuscript (Ms. Pal. C. B. 3. 53 vol. II)",
+            "painting_type": "study",
+            "date": "1589"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1531 Firenze d. 1608 Firenze)",
+    "name": "BUONTALENTI Bernardo",
+    "school": "Italian"
+}

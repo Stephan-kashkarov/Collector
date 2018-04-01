@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12133,
+            "location": "Private collection",
+            "img": "imgs/art/12133.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubbels/river_la.html",
+            "title": "River Landscape with a Vessel Saluting",
+            "author": "DUBBELS Hendrik Jakobsz.",
+            "technique": "Oil on oak panel 37 x 55 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 12134,
+            "location": "Private collection",
+            "img": "imgs/art/12134.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubbels/vessels.html",
+            "title": "Small Dutch Vessels in a Calm",
+            "author": "DUBBELS Hendrik Jakobsz.",
+            "technique": "Oil on canvas 52 x 66 cm",
+            "painting_type": "landscape",
+            "date": "after 1670"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1621 Amsterdam d. 1707 Amsterdam)",
+    "name": "DUBBELS Hendrik Jakobsz.",
+    "school": "Dutch"
+}

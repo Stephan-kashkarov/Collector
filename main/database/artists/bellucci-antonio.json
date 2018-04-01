@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 3999,
+            "location": "Staatliche Museen Kassel",
+            "img": "imgs/art/3999.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/antiochu.html",
+            "title": "Antiochus and Stratonice",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas 253 x 301 cm",
+            "painting_type": "mythological",
+            "date": "c. 1700"
+        },
+        {
+            "index": 4000,
+            "location": "Staatliche Museen Kassel",
+            "img": "imgs/art/4000.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/antiochx.html",
+            "title": "Antiochus and Stratonice (detail)",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "c. 1700"
+        },
+        {
+            "index": 4001,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4001.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/danae.html",
+            "title": "Dana\u00eb",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas 149 x 159 cm",
+            "painting_type": "mythological",
+            "date": "1700-05"
+        },
+        {
+            "index": 4002,
+            "location": "Ca' Rezzonico Venice",
+            "img": "imgs/art/4002.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/omphale.html",
+            "title": "Hercules in the Palace of Omphale",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas 320 x 300 cm",
+            "painting_type": "mythological",
+            "date": "c. 1698"
+        },
+        {
+            "index": 4003,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/4003.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/procurat.html",
+            "title": "Portrait of a Procurator",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1685-90"
+        },
+        {
+            "index": 4004,
+            "location": "Private collection",
+            "img": "imgs/art/4004.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellucci/samson_d.html",
+            "title": "Samson and Delilah",
+            "author": "BELLUCCI Antonio",
+            "technique": "Oil on canvas 115 x 149 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1654 Pieve di Soligo d. 1726 Pieve di Soligo)",
+    "name": "BELLUCCI Antonio",
+    "school": "Italian"
+}

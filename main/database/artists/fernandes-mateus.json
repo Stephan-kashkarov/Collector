@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13658,
+            "location": "Monastery of Santa Maria de Vit\u00f3ria Batalha",
+            "img": "imgs/art/13658.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fernan/portal1.html",
+            "title": "View of the portal",
+            "author": "FERNANDES Mateus",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1509"
+        },
+        {
+            "index": 13659,
+            "location": "Monastery of Santa Maria de Vit\u00f3ria Batalha",
+            "img": "imgs/art/13659.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fernan/portal2.html",
+            "title": "View of the portal",
+            "author": "FERNANDES Mateus",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1509"
+        },
+        {
+            "index": 13660,
+            "location": "Monastery of Santa Maria de Vit\u00f3ria Batalha",
+            "img": "imgs/art/13660.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fernan/portal3.html",
+            "title": "View of the portal",
+            "author": "FERNANDES Mateus",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1509"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(d. 1515 Batalha)",
+    "name": "FERNANDES Mateus",
+    "school": "Portuguese"
+}

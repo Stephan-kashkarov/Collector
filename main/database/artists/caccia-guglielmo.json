@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6934,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/6934.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/guglielm/abraham.html",
+            "title": "Abraham and the Three Angels",
+            "author": "CACCIA Guglielmo",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6935,
+            "location": "Sant'Alessandro Milan",
+            "img": "imgs/art/6935.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/guglielm/adorati.html",
+            "title": "Adoration of the Magi",
+            "author": "CACCIA Guglielmo",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1610s"
+        },
+        {
+            "index": 6936,
+            "location": "Sant'Alessandro Milan",
+            "img": "imgs/art/6936.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/guglielm/adorati1.html",
+            "title": "Adoration of the Magi (detail)",
+            "author": "CACCIA Guglielmo",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1610s"
+        },
+        {
+            "index": 6937,
+            "location": "Sant'Andrea Alba",
+            "img": "imgs/art/6937.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caccia/guglielm/annuncia.html",
+            "title": "Annunciation",
+            "author": "CACCIA Guglielmo",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6938,
+            "location": "Private collection",
+            "img": "imgs/art/6938.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/caccia/guglielm/z_putti.html",
+            "title": "Flying Putti",
+            "author": "CACCIA Guglielmo",
+            "technique": "Black chalk pen and brown ink on blue-green paper 244 x 300 mm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1568 Montabone d. 1625 Moncalvo)",
+    "name": "CACCIA Guglielmo",
+    "school": "Italian"
+}

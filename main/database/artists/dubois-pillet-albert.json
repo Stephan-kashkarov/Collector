@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 12142,
+            "location": "Private collection",
+            "img": "imgs/art/12142.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duboispi/chalands.html",
+            "title": "Chalands sur la Seine",
+            "author": "DUBOIS-PILLET Albert",
+            "technique": "Oil on canvas 46 x 33 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 12143,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/12143.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duboispi/marne.html",
+            "title": "The Marne at Dawn",
+            "author": "DUBOIS-PILLET Albert",
+            "technique": "Oil on canvas 32 x 46 cm",
+            "painting_type": "landscape",
+            "date": "1888"
+        },
+        {
+            "index": 12144,
+            "location": "Private collection",
+            "img": "imgs/art/12144.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duboispi/roses.html",
+            "title": "A Bouquet of Roses in a Vase",
+            "author": "DUBOIS-PILLET Albert",
+            "technique": "Oil on canvas 41 x 33 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1846 Saint-L\u00f4 d. 1890 Paris)",
+    "name": "DUBOIS-PILLET Albert",
+    "school": "French"
+}

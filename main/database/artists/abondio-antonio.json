@@ -1,20 +1,20 @@
 {
-    "name": "ABONDIO Antonio",
-    "life": "(b. 1538 Riva del Garda d. 1591 Wien)",
-    "school": "Italian",
-    "timeframe": "1551-1600",
     "art": [
         {
-            "title": "Medallion Portrait of Emperor Maximilian II",
-            "date": "c. 1575",
-            "technique": "Wax on obsidian",
-            "location": "Kunsthistorisches Museum Vienna",
-            "url": "https://www.wga.hu/html/a/abondio/maximili.html",
-            "form": "sculpture",
-            "painting_type": "portrait",
             "index": 32,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/32.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/abondio/maximili.html",
+            "title": "Medallion Portrait of Emperor Maximilian II",
             "author": "ABONDIO Antonio",
-            "img": "imgs/art/medallion-portrait-of-emperor-maximilian-ii.jpg"
+            "technique": "Wax on obsidian",
+            "painting_type": "portrait",
+            "date": "c. 1575"
         }
-    ]
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1538 Riva del Garda d. 1591 Wien)",
+    "name": "ABONDIO Antonio",
+    "school": "Italian"
 }

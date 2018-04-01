@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8295,
+            "location": "Wallace Collection London",
+            "img": "imgs/art/8295.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cayot/cupid_ps.html",
+            "title": "Cupid and Psyche",
+            "author": "CAYOT Claude-Augustin",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1706"
+        },
+        {
+            "index": 8296,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/8296.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cayot/deatdido.html",
+            "title": "The Death of Dido",
+            "author": "CAYOT Claude-Augustin",
+            "technique": "Marble height 86 cm",
+            "painting_type": "mythological",
+            "date": "1711"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1677 Paris d. 1722 Paris)",
+    "name": "CAYOT Claude-Augustin",
+    "school": "French"
+}

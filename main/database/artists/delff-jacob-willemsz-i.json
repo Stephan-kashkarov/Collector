@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11393,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11393.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delff/jacob1/a_family.html",
+            "title": "Portrait of the Artist and His Family",
+            "author": "DELFF Jacob Willemsz I",
+            "technique": "Oil on panel 84 x 109 cm",
+            "painting_type": "portrait",
+            "date": "c. 1590"
+        },
+        {
+            "index": 11394,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11394.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delff/jacob1/youngboy.html",
+            "title": "Portrait of a Young Boy",
+            "author": "DELFF Jacob Willemsz I",
+            "technique": "Oil on panel 62 x 48 cm",
+            "painting_type": "portrait",
+            "date": "1581"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1550 Gouda d. 1601 Delft)",
+    "name": "DELFF Jacob Willemsz I",
+    "school": "Dutch"
+}

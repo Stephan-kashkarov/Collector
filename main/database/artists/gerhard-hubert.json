@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 15257,
+            "location": "Residenzmuseum Munich",
+            "img": "imgs/art/15257.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/bavaria.html",
+            "title": "The Allegory of Bavaria",
+            "author": "GERHARD Hubert",
+            "technique": "Cast bronze height 231 cm",
+            "painting_type": "mythological",
+            "date": "c. 1590"
+        },
+        {
+            "index": 15258,
+            "location": "Residenzmuseum Munich",
+            "img": "imgs/art/15258.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/bavaria2.html",
+            "title": "The Allegory of Bavaria",
+            "author": "GERHARD Hubert",
+            "technique": "Cast bronze height 231 cm",
+            "painting_type": "mythological",
+            "date": "c. 1590"
+        },
+        {
+            "index": 15259,
+            "location": "Augsburg",
+            "img": "imgs/art/15259.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/fountain.html",
+            "title": "Augustus Fountain (detail)",
+            "author": "GERHARD Hubert",
+            "technique": "Bronze",
+            "painting_type": "other",
+            "date": "1589-94"
+        },
+        {
+            "index": 15260,
+            "location": "Michaelskirche Munich",
+            "img": "imgs/art/15260.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/michael.html",
+            "title": "St Michael Slaying the Devil",
+            "author": "GERHARD Hubert",
+            "technique": "Bronze larger than life-size",
+            "painting_type": "religious",
+            "date": "1588"
+        },
+        {
+            "index": 15261,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/15261.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/tarquini.html",
+            "title": "Tarquinius and Lucretia",
+            "author": "GERHARD Hubert",
+            "technique": "Bronze 50 x 38 x 39 cm",
+            "painting_type": "mythological",
+            "date": "1605-10"
+        },
+        {
+            "index": 15262,
+            "location": "Bayerisches Nationalmuseum Munich",
+            "img": "imgs/art/15262.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerhard/venus_ma.html",
+            "title": "Venus and Mars with Cupid",
+            "author": "GERHARD Hubert",
+            "technique": "Bronze height 210 cm",
+            "painting_type": "mythological",
+            "date": "1584-94"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1550 s'Hertogenbosch d. 1620 M\u00fcnchen)",
+    "name": "GERHARD Hubert",
+    "school": "German"
+}

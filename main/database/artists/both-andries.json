@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5413,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/5413.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/both/andries/hunting.html",
+            "title": "Hunting by Candlelight",
+            "author": "BOTH Andries",
+            "technique": "Oil on canvas 345 x 27 cm",
+            "painting_type": "genre",
+            "date": "1630"
+        },
+        {
+            "index": 5414,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5414.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/both/andries/poorpain.html",
+            "title": "The Poor Painter in His Studio",
+            "author": "BOTH Andries",
+            "technique": "Engraving 330 x 247 mm",
+            "painting_type": "genre",
+            "date": "c. 1635"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1612 Utrecht d. 1641 Venice)",
+    "name": "BOTH Andries",
+    "school": "Dutch"
+}

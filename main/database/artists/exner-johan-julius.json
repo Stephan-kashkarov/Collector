@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13283,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13283.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/exner/amager.html",
+            "title": "Woman from Amager",
+            "author": "EXNER Johan Julius",
+            "technique": "Oil on canvas 112 x 84 cm",
+            "painting_type": "portrait",
+            "date": "1852"
+        },
+        {
+            "index": 13284,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13284.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/exner/grandfat.html",
+            "title": "Visiting Grandfather",
+            "author": "EXNER Johan Julius",
+            "technique": "Oil on canvas 74 x 97 cm",
+            "painting_type": "genre",
+            "date": "1853"
+        },
+        {
+            "index": 13285,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/13285.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/exner/plaster.html",
+            "title": "The Plaster Cast Collection in the Royal Academy of Fine Arts",
+            "author": "EXNER Johan Julius",
+            "technique": "Oil on canvas 74 x 64 cm",
+            "painting_type": "other",
+            "date": "1843"
+        },
+        {
+            "index": 13286,
+            "location": "Private collection",
+            "img": "imgs/art/13286.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/exner/self-port.html",
+            "title": "Self-Portrait",
+            "author": "EXNER Johan Julius",
+            "technique": "Oil on canvas 67 x 60 cm",
+            "painting_type": "portrait",
+            "date": "1910"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1825 K\u00f8benhavn d. 1910 K\u00f8benhavn)",
+    "name": "EXNER Johan Julius",
+    "school": "Danish"
+}

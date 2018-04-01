@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12145,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/12145.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubordie/portwom1.html",
+            "title": "Portrait of a Woman",
+            "author": "DUBORDIEU Pieter",
+            "technique": "Oil on panel 71 x 61 cm",
+            "painting_type": "portrait",
+            "date": "1637"
+        },
+        {
+            "index": 12146,
+            "location": "Private collection",
+            "img": "imgs/art/12146.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dubordie/portwom2.html",
+            "title": "Portrait of a Young Woman",
+            "author": "DUBORDIEU Pieter",
+            "technique": "Oil on panel 70 x 54 cm",
+            "painting_type": "portrait",
+            "date": "1636-38"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1609 l'\u00cele-Bouchard d. 1678 Amsterdam)",
+    "name": "DUBORDIEU Pieter",
+    "school": "Dutch"
+}

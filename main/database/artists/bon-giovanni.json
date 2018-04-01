@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4969,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/4969.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bon/giovanni/barbaro1.html",
+            "title": "Palazzo Barbaro: Fa\u00e7ade",
+            "author": "BON Giovanni",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1425"
+        },
+        {
+            "index": 4970,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/4970.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bon/giovanni/barbaro2.html",
+            "title": "Palazzo Barbaro: Fa\u00e7ade",
+            "author": "BON Giovanni",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1425"
+        },
+        {
+            "index": 4971,
+            "location": "Palazzo Ducale Venice",
+            "img": "imgs/art/4971.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bon/giovanni/p_carta.html",
+            "title": "Porta della Carta",
+            "author": "BON Giovanni",
+            "technique": "Istrian stone marble gilding and paint",
+            "painting_type": "other",
+            "date": "1438-42"
+        },
+        {
+            "index": 4972,
+            "location": "Palazzo Ducale Venice",
+            "img": "imgs/art/4972.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bon/giovanni/the_fall.html",
+            "title": "The Fall of Adam and Eve",
+            "author": "BON Giovanni",
+            "technique": "Istrian stone life-size",
+            "painting_type": "religious",
+            "date": "1400-10"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. ca. 1355 Bergamo d. ca. 1443 Venezia)",
+    "name": "BON Giovanni",
+    "school": "Italian"
+}

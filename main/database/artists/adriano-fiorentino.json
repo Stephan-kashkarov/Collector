@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 84,
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "img": "imgs/art/84.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/frederic.html",
+            "title": "Elector Frederick III of Saxony Called Frederick the Wise",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Brass height 62 cm",
+            "painting_type": "portrait",
+            "date": "1498"
+        },
+        {
+            "index": 85,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/85.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/medal.html",
+            "title": "Medal of Ferdinand II",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Bronze diameter 8 cm",
+            "painting_type": "portrait",
+            "date": "c. 1494"
+        },
+        {
+            "index": 86,
+            "location": "Museo di Sant'Agostino Genoa",
+            "img": "imgs/art/86.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/pontano1.html",
+            "title": "Giovanni Gioviano Pontano",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Bronze height 50 cm",
+            "painting_type": "portrait",
+            "date": "1488-94"
+        },
+        {
+            "index": 87,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/87.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/pontano2.html",
+            "title": "Giovanni Gioviano Pontano",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Marble 51 x 33 cm",
+            "painting_type": "portrait",
+            "date": "1488-94"
+        },
+        {
+            "index": 88,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/88.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/pontano3.html",
+            "title": "Giovanni Gioviano Pontano",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Cast copper alloy diameter 9 cm",
+            "painting_type": "portrait",
+            "date": "c. 1488"
+        },
+        {
+            "index": 89,
+            "location": "Museum of Art Philadelphia",
+            "img": "imgs/art/89.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/adriano/venus.html",
+            "title": "Venus",
+            "author": "ADRIANO FIORENTINO",
+            "technique": "Bronze height 42 cm (with base)",
+            "painting_type": "mythological",
+            "date": "1490s"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1455 Firenze d. 1499 Firenze)",
+    "name": "ADRIANO FIORENTINO",
+    "school": "Italian"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2974,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/2974.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/bailly_j/1/elements.html",
+            "title": "Water (from the Elements)",
+            "author": "BAILLY Jacques I",
+            "technique": "Illumination",
+            "painting_type": "mythological",
+            "date": "1664-68"
+        },
+        {
+            "index": 2975,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/2975.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/b/bailly_j/1/seasons.html",
+            "title": "Autumn (from the Seasons)",
+            "author": "BAILLY Jacques I",
+            "technique": "Illumination",
+            "painting_type": "mythological",
+            "date": "1664-68"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1634 Gra\u00e7ay d. 1679 Paris)",
+    "name": "BAILLY Jacques I",
+    "school": "French"
+}

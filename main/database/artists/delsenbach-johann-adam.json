@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11417,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/11417.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/delsenba/pavilion.html",
+            "title": "View of a Garden Pavilion",
+            "author": "DELSENBACH Johann Adam",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1721"
+        },
+        {
+            "index": 11418,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/11418.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/delsenba/rossau.html",
+            "title": "Liechtenstein Belvedere at Rossau",
+            "author": "DELSENBACH Johann Adam",
+            "technique": "Engraving",
+            "painting_type": "other",
+            "date": "1721"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1687 N\u00fcrnberg d. 1765 N\u00fcrnberg)",
+    "name": "DELSENBACH Johann Adam",
+    "school": "German"
+}

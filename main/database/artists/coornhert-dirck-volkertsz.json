@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9425,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/9425.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/coornher/crucifix.html",
+            "title": "The Crucifixion of Christ",
+            "author": "COORNHERT Dirck Volkertsz.",
+            "technique": "Etching 250 x 197 mm",
+            "painting_type": "religious",
+            "date": "1548"
+        },
+        {
+            "index": 9426,
+            "location": "Fitzwilliam Museum Cambridge",
+            "img": "imgs/art/9426.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/coornher/democrit.html",
+            "title": "Democritus and Heraclitus",
+            "author": "COORNHERT Dirck Volkertsz.",
+            "technique": "Engraving",
+            "painting_type": "historical",
+            "date": "1557"
+        },
+        {
+            "index": 9427,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/9427.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/coornher/prodigal.html",
+            "title": "Return of the Prodigal Son",
+            "author": "COORNHERT Dirck Volkertsz.",
+            "technique": "Woodcut 245 x 185 mm",
+            "painting_type": "religious",
+            "date": "c. 1547"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1522 Amsterdam d. 1590 Gouda)",
+    "name": "COORNHERT Dirck Volkertsz.",
+    "school": "Dutch"
+}

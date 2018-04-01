@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1134,
+            "location": "San Francesco della Vigna Venice",
+            "img": "imgs/art/1134.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/negropon/madchil.html",
+            "title": "Madonna and Child Enthroned",
+            "author": "ANTONIO DA NEGROPONTE",
+            "technique": "Egg tempera on panel 300 x 235 cm",
+            "painting_type": "religious",
+            "date": "c. 1455"
+        },
+        {
+            "index": 1135,
+            "location": "San Francesco della Vigna Venice",
+            "img": "imgs/art/1135.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/negropon/madchild.html",
+            "title": "Madonna and Child Enthroned",
+            "author": "ANTONIO DA NEGROPONTE",
+            "technique": "Egg tempera on panel 300 x 235 cm",
+            "painting_type": "religious",
+            "date": "c. 1455"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active second half of the 15th century)",
+    "name": "ANTONIO DA NEGROPONTE",
+    "school": "Italian"
+}

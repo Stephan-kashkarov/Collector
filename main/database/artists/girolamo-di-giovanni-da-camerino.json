@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 16739,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/16739.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/girolamo/camerino/p_child.html",
+            "title": "Portrait of a Child",
+            "author": "GIROLAMO DI GIOVANNI DA CAMERINO",
+            "technique": "Tempera on poplar 39 x 26 cm",
+            "painting_type": "portrait",
+            "date": "1465-70"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1449-1473)",
+    "name": "GIROLAMO DI GIOVANNI DA CAMERINO",
+    "school": "Italian"
+}

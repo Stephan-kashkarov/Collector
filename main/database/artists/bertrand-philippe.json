@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4438,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4438.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertrand/lucretia.html",
+            "title": "Lucretia",
+            "author": "BERTRAND Philippe",
+            "technique": "Marble 70 x 110 x 53 cm",
+            "painting_type": "mythological",
+            "date": "c. 1704"
+        },
+        {
+            "index": 4439,
+            "location": "Mus\u00e9e du Ch\u00e2teau Fontainebleau",
+            "img": "imgs/art/4439.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertrand/rape_hel.html",
+            "title": "The Rape of Helen",
+            "author": "BERTRAND Philippe",
+            "technique": "Bronze",
+            "painting_type": "mythological",
+            "date": "1701"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1663 Paris d. 1724 Paris)",
+    "name": "BERTRAND Philippe",
+    "school": "French"
+}

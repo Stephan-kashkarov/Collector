@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5757,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5757.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boullogn/bon/jephta.html",
+            "title": "Jephtha's Daughter",
+            "author": "BOULLOGNE Bon",
+            "technique": "Oil on canvas 154 x 218 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 5758,
+            "location": "Mus\u00e9e Ingres Montauban",
+            "img": "imgs/art/5758.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boullogn/bon/nicolas.html",
+            "title": "St Nicholas Resuscitates the Children",
+            "author": "BOULLOGNE Bon",
+            "technique": "Oil on canvas 63 x 39 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1649 Paris d. 1717 Paris)",
+    "name": "BOULLOGNE Bon",
+    "school": "French"
+}

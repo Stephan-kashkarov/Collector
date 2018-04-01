@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 16614,
+            "location": "Santa Maria del Pieve Arezzo",
+            "img": "imgs/art/16614.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/agostino/hexagona.html",
+            "title": "Hexagonal font (detail)",
+            "author": "GIOVANNI D'AGOSTINO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1332-33"
+        },
+        {
+            "index": 16615,
+            "location": "San Bernardino Siena",
+            "img": "imgs/art/16615.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/agostino/madonna.html",
+            "title": "Madonna with two Angels",
+            "author": "GIOVANNI D'AGOSTINO",
+            "technique": "Polychrome marble height 53 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(b. 1311 Siena d. ca. 1348 Siena)",
+    "name": "GIOVANNI D'AGOSTINO",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13977,
+            "location": "Piazza di San Marcello Rome",
+            "img": "imgs/art/13977.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontanac/marcell1.html",
+            "title": "San Marcello al Corso: Fa\u00e7ade",
+            "author": "FONTANA Carlo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1682-86"
+        },
+        {
+            "index": 13978,
+            "location": "Piazza di San Marcello Rome",
+            "img": "imgs/art/13978.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontanac/marcell2.html",
+            "title": "San Marcello al Corso: Fa\u00e7ade",
+            "author": "FONTANA Carlo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1682-86"
+        },
+        {
+            "index": 13979,
+            "location": "Piazza di Montecitorio Rome",
+            "img": "imgs/art/13979.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/fontanac/montecit.html",
+            "title": "Palazzo Montecitorio: Fa\u00e7ade",
+            "author": "FONTANA Carlo",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1682-86"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1634 Brusata d. 1714 Roma)",
+    "name": "FONTANA Carlo",
+    "school": "Italian"
+}

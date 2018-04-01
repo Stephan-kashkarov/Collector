@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 10778,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/10778.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/danhause/offering.html",
+            "title": "The Widow's Offering",
+            "author": "DANHAUSER Josef Franz",
+            "technique": "Oil on canvas 97 x 127 cm",
+            "painting_type": "genre",
+            "date": "c. 1838"
+        },
+        {
+            "index": 10779,
+            "location": "Akademie der bildenden K\u00fcnste Vienna",
+            "img": "imgs/art/10779.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/danhause/portrait.html",
+            "title": "Portrait of the Piano-Manufcturer Konrad Graf",
+            "author": "DANHAUSER Josef Franz",
+            "technique": "Oil on wood 82 x 63 cm",
+            "painting_type": "portrait",
+            "date": "1840"
+        },
+        {
+            "index": 10780,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/10780.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/danhause/scholars.html",
+            "title": "The Scholars' Room",
+            "author": "DANHAUSER Josef Franz",
+            "technique": "Oil on canvas 40 x 52 cm",
+            "painting_type": "genre",
+            "date": "c. 1842"
+        },
+        {
+            "index": 10781,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/10781.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/danhause/siesta.html",
+            "title": "Siesta (The Sleepers)",
+            "author": "DANHAUSER Josef Franz",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "1831"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1805 Wien d. 1845 Wien)",
+    "name": "DANHAUSER Josef Franz",
+    "school": "Austrian"
+}

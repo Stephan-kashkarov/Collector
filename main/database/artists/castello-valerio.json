@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 8147,
+            "location": "Palazzo Balbi Senarega Genoa",
+            "img": "imgs/art/8147.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/balbi1.html",
+            "title": "Ceiling painting",
+            "author": "CASTELLO Valerio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1657-58"
+        },
+        {
+            "index": 8148,
+            "location": "Palazzo Balbi Senarega Genoa",
+            "img": "imgs/art/8148.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/balbi2.html",
+            "title": "View of the former loggia",
+            "author": "CASTELLO Valerio",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1657"
+        },
+        {
+            "index": 8149,
+            "location": "Palazzo Balbi Senarega Genoa",
+            "img": "imgs/art/8149.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/balbi3.html",
+            "title": "Ceiling vault",
+            "author": "CASTELLO Valerio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1657"
+        },
+        {
+            "index": 8150,
+            "location": "Private collection",
+            "img": "imgs/art/8150.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/compote.html",
+            "title": "The Virgin of the Compote-dish",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1650s"
+        },
+        {
+            "index": 8151,
+            "location": "Private collection",
+            "img": "imgs/art/8151.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/holy_fam.html",
+            "title": "Holy Family with an Angel",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 745 x 625 c",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 8152,
+            "location": "Private collection",
+            "img": "imgs/art/8152.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/innocent.html",
+            "title": "Massacre of the Innocents",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 122 x 172 cm",
+            "painting_type": "religious",
+            "date": "1650s"
+        },
+        {
+            "index": 8153,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/8153.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/miracle.html",
+            "title": "The Miracle of the Roses",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 48 x 38 cm",
+            "painting_type": "religious",
+            "date": "1651-52"
+        },
+        {
+            "index": 8154,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/8154.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/moses.html",
+            "title": "Moses Striking the Rock",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 197 x 261 cm",
+            "painting_type": "religious",
+            "date": "1653-55"
+        },
+        {
+            "index": 8155,
+            "location": "Private collection",
+            "img": "imgs/art/8155.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/noah.html",
+            "title": "The Sacrifice of Noah",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 80 x 55 cm",
+            "painting_type": "religious",
+            "date": "1650-55"
+        },
+        {
+            "index": 8156,
+            "location": "Private collection",
+            "img": "imgs/art/8156.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/noah1.html",
+            "title": "The Sacrifice of Noah (detail)",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1650-55"
+        },
+        {
+            "index": 8157,
+            "location": "Palazzo Reale Genoa",
+            "img": "imgs/art/8157.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/reale.html",
+            "title": "Triumph of the Balbi",
+            "author": "CASTELLO Valerio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "c. 1655"
+        },
+        {
+            "index": 8158,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/8158.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/castello/valerio/rebecca.html",
+            "title": "Rebecca at the Well",
+            "author": "CASTELLO Valerio",
+            "technique": "Oil on canvas 80 x 56 cm",
+            "painting_type": "religious",
+            "date": "1644-46"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1624 Genova d. 1659 Genova)",
+    "name": "CASTELLO Valerio",
+    "school": "Italian"
+}

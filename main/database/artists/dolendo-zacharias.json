@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11602,
+            "location": "Private collection",
+            "img": "imgs/art/11602.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dolendo/faithful.html",
+            "title": "The Faithful Wives of Weinsberg",
+            "author": "DOLENDO Zacharias",
+            "technique": "Copper engraving",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 11603,
+            "location": "British Museum London",
+            "img": "imgs/art/11603.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dolendo/rape_eur.html",
+            "title": "The Rape of Europa",
+            "author": "DOLENDO Zacharias",
+            "technique": "Engraving diameter 172 mm",
+            "painting_type": "mythological",
+            "date": "1592"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1561 Leiden d. ca. 1602 Leiden)",
+    "name": "DOLENDO Zacharias",
+    "school": "Netherlandish"
+}

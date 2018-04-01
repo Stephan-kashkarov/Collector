@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 13752,
+            "location": "Private collection",
+            "img": "imgs/art/13752.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferri/jacoblab.html",
+            "title": "The Reconciliation of Jacob and Laban",
+            "author": "FERRI Ciro",
+            "technique": "Oil on canvas 201 x 168 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13753,
+            "location": "Private collection",
+            "img": "imgs/art/13753.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferri/madonna.html",
+            "title": "Madonna and Child with the Infant St John",
+            "author": "FERRI Ciro",
+            "technique": "Oil on canvas 72 x 85 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13754,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/13754.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferri/pitti.html",
+            "title": "Ceiling Fresco in the Hall of Saturn",
+            "author": "FERRI Ciro",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1663-65"
+        },
+        {
+            "index": 13755,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/13755.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferri/pitti1.html",
+            "title": "Ceiling painting",
+            "author": "FERRI Ciro",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1663"
+        },
+        {
+            "index": 13756,
+            "location": "Palazzo Pitti Florence",
+            "img": "imgs/art/13756.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/ferri/pitti2.html",
+            "title": "View of the Hall of Saturn",
+            "author": "FERRI Ciro",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1663-65"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1634 Roma d. 1689 Roma)",
+    "name": "FERRI Ciro",
+    "school": "Italian"
+}

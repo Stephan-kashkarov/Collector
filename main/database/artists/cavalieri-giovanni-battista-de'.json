@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8221,
+            "location": "Private collection",
+            "img": "imgs/art/8221.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cavalier/beheadin.html",
+            "title": "Beheading of St John the Baptist",
+            "author": "CAVALIERI Giovanni Battista de'",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1578"
+        },
+        {
+            "index": 8222,
+            "location": "Cicognara Library Biblioteca Apostolica Vatican",
+            "img": "imgs/art/8222.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cavalier/ecclesia.html",
+            "title": "Ecclesiae militantis triumphi",
+            "author": "CAVALIERI Giovanni Battista de'",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1585"
+        },
+        {
+            "index": 8223,
+            "location": "Victoria and Albert Museum London",
+            "img": "imgs/art/8223.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cavalier/martyrdo.html",
+            "title": "Martyrdom of St. Peter",
+            "author": "CAVALIERI Giovanni Battista de'",
+            "technique": "Print",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1525 Trento d. 1601 Roma)",
+    "name": "CAVALIERI Giovanni Battista de'",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5730,
+            "location": "Private collection",
+            "img": "imgs/art/5730.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bough/borderto.html",
+            "title": "A Border Tower",
+            "author": "BOUGH Samuel",
+            "technique": "Watercolour 250 x 422 mm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5731,
+            "location": "Art Gallery and Museums Aberdeen",
+            "img": "imgs/art/5731.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bough/castle.html",
+            "title": "Castle Ruins on a Cliff Edge",
+            "author": "BOUGH Samuel",
+            "technique": "Oil on board 25 x 35 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5732,
+            "location": "Hunterian Art Gallery University of Glasgow Glasgow",
+            "img": "imgs/art/5732.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bough/sunnyday.html",
+            "title": "A Sunny Day in Iona",
+            "author": "BOUGH Samuel",
+            "technique": "Oil on canvas 83 x 144 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1822 Carlisle d. 1878 Edinburgh)",
+    "name": "BOUGH Samuel",
+    "school": "English"
+}

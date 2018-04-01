@@ -34,7 +34,7 @@ $(document).ready(function () {
 				}
 			}
 		} else {
-			for(var i in artist_lite_list) {
+			for(var i = 0; i < 17; i++) {
 				artist_lite_list[i].print()
 			}
 		}
@@ -69,17 +69,11 @@ $(document).ready(function () {
 		$("nav").animate({
 			"height": "20%"
 		})
-		$("main").animate({
-			"padding-top": "60%"
-		})
 	})
 
 	$("#artist_input").blur(function (e) {
 		$("nav").animate({
 			"height": "25px"
-		})
-		$("main").animate({
-			"padding-top": "10%"
 		})
 	});
 });

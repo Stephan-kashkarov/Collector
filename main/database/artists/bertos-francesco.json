@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 4426,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/4426.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/contine1.html",
+            "title": "Allegorical Groups Representing the Four Continents: Africa",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 64 cm",
+            "painting_type": "mythological",
+            "date": "1710-25"
+        },
+        {
+            "index": 4427,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/4427.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/contine2.html",
+            "title": "Allegorical Groups Representing the Four Continents: Europe",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 63 cm",
+            "painting_type": "mythological",
+            "date": "1710-25"
+        },
+        {
+            "index": 4428,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/4428.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/contine3.html",
+            "title": "Allegorical Groups Representing the Four Continents: Asia",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 63 cm",
+            "painting_type": "mythological",
+            "date": "1710-25"
+        },
+        {
+            "index": 4429,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/4429.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/contine4.html",
+            "title": "Allegorical Groups Representing the Four Continents: America",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 68 cm",
+            "painting_type": "mythological",
+            "date": "1710-25"
+        },
+        {
+            "index": 4430,
+            "location": "J. Paul Getty Museum Los Angeles",
+            "img": "imgs/art/4430.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/group1.html",
+            "title": "Group of Eleven Figures (Allegory of Autumn)",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 80 cm",
+            "painting_type": "mythological",
+            "date": "c. 1725"
+        },
+        {
+            "index": 4431,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/4431.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/group2.html",
+            "title": "An Allegory of Triumph",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 90 cm",
+            "painting_type": "mythological",
+            "date": "1700-10"
+        },
+        {
+            "index": 4432,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4432.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/group3.html",
+            "title": "Vessel with three putti",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze 38 x 24 x 17 cm",
+            "painting_type": "other",
+            "date": "1720s"
+        },
+        {
+            "index": 4433,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/4433.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/group4.html",
+            "title": "Humility and Faith",
+            "author": "BERTOS Francesco",
+            "technique": "Marble height 86 cm",
+            "painting_type": "religious",
+            "date": "c. 1700"
+        },
+        {
+            "index": 4434,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4434.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/saints1.html",
+            "title": "St Francis Xavier and St Ignatius Loyola",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze height 63 cm (each)",
+            "painting_type": "religious",
+            "date": "1720-25"
+        },
+        {
+            "index": 4435,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4435.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/saints2.html",
+            "title": "St Ignatius Loyola (detail)",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1720-25"
+        },
+        {
+            "index": 4436,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4436.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/saints3.html",
+            "title": "St Francis Xavier (detail)",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1720-25"
+        },
+        {
+            "index": 4437,
+            "location": "Art Institute Chicago",
+            "img": "imgs/art/4437.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertos/z_relief.html",
+            "title": "Massacre of the Innocents",
+            "author": "BERTOS Francesco",
+            "technique": "Bronze 85 x 107 cm",
+            "painting_type": "religious",
+            "date": "1700-25"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(active 1693-1733)",
+    "name": "BERTOS Francesco",
+    "school": "Italian"
+}

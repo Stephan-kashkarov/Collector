@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 11090,
+            "location": "Gemeente Musea Delft",
+            "img": "imgs/art/11090.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/1plan.html",
+            "title": "Map and Profile of Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Etching and engraving 110 x 126 cm",
+            "painting_type": "other",
+            "date": "1729 (original version 1678)"
+        },
+        {
+            "index": 11091,
+            "location": "Gemeente Musea Delft",
+            "img": "imgs/art/11091.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/2plan.html",
+            "title": "Profile of Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Etching and engraving 25 x 126 cm",
+            "painting_type": "other",
+            "date": "1729 (original version 1678)"
+        },
+        {
+            "index": 11092,
+            "location": "Gemeente Musea Delft",
+            "img": "imgs/art/11092.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/3plan.html",
+            "title": "Nine Images of Public Buildings of Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Etching and engraving 56 x 83 cm",
+            "painting_type": "other",
+            "date": "1729 (original version 1678)"
+        },
+        {
+            "index": 11093,
+            "location": "Private collection",
+            "img": "imgs/art/11093.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr1.html",
+            "title": "View of the Stadhuis (Town Hall) of Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "landscape",
+            "date": "1667-80"
+        },
+        {
+            "index": 11094,
+            "location": "Private collection",
+            "img": "imgs/art/11094.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr2.html",
+            "title": "View of the Oude Gasthuis (Old Hospital) of Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "landscape",
+            "date": "1667-80"
+        },
+        {
+            "index": 11095,
+            "location": "Private collection",
+            "img": "imgs/art/11095.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr3.html",
+            "title": "Gemeenlandshuis on the Oude Delft in Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "landscape",
+            "date": "1667-80"
+        },
+        {
+            "index": 11096,
+            "location": "Private collection",
+            "img": "imgs/art/11096.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr4.html",
+            "title": "The Stadhuis of Delfshaven",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "landscape",
+            "date": "1667-80"
+        },
+        {
+            "index": 11097,
+            "location": "Private collection",
+            "img": "imgs/art/11097.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr5.html",
+            "title": "The Convent of St Agatha and Prinsenhof in Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "landscape",
+            "date": "1667-80"
+        },
+        {
+            "index": 11098,
+            "location": "Private collection",
+            "img": "imgs/art/11098.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr6.html",
+            "title": "Exterior of the Nieuwe Kerk in Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 330 x 267 mm",
+            "painting_type": "landscape",
+            "date": "1667"
+        },
+        {
+            "index": 11099,
+            "location": "Private collection",
+            "img": "imgs/art/11099.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr7.html",
+            "title": "Exterior of the Oude Kerk in Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 330 x 267 mm",
+            "painting_type": "landscape",
+            "date": "1667"
+        },
+        {
+            "index": 11100,
+            "location": "Private collection",
+            "img": "imgs/art/11100.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr8.html",
+            "title": "The Tomb of William the Silent in the Nieuwe Kerk Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Engraving 180 x 271 mm",
+            "painting_type": "interior",
+            "date": "1667-80"
+        },
+        {
+            "index": 11101,
+            "location": "Private collection",
+            "img": "imgs/art/11101.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/decker/beschr9.html",
+            "title": "Sint Jorispoort (St George's Gate) in Delft",
+            "author": "DECKER Coenraet",
+            "technique": "Etching and engraving 175 x 270 mm",
+            "painting_type": "landscape",
+            "date": "1867-80"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1651 Amsterdam d. 1685 Amsterdam)",
+    "name": "DECKER Coenraet",
+    "school": "Dutch"
+}

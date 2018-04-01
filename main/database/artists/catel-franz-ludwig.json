@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8192,
+            "location": "Neue Pinakothek Munich",
+            "img": "imgs/art/8192.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catel/ariccia.html",
+            "title": "View of Ariccia with the Sea in the Background",
+            "author": "CATEL Franz Ludwig",
+            "technique": "Oil on canvas 100 x 139 cm",
+            "painting_type": "landscape",
+            "date": "1821-25"
+        },
+        {
+            "index": 8193,
+            "location": "Private collection",
+            "img": "imgs/art/8193.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catel/garden.html",
+            "title": "Garden of the Villa Doria Pamphili in Rome",
+            "author": "CATEL Franz Ludwig",
+            "technique": "Oil on canvas 44 x 66 cm",
+            "painting_type": "landscape",
+            "date": "1837-38"
+        },
+        {
+            "index": 8194,
+            "location": "Thorvaldsens Museum Copenhagen",
+            "img": "imgs/art/8194.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catel/nightpie.html",
+            "title": "Night Piece from the Closing Scene of 'Ren\u00e9' by Chateaubriand",
+            "author": "CATEL Franz Ludwig",
+            "technique": "Oil on canvas 63 x 74 cm",
+            "painting_type": "landscape",
+            "date": "c. 1820"
+        },
+        {
+            "index": 8195,
+            "location": "Neue Pinakothek Munich",
+            "img": "imgs/art/8195.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catel/tavern.html",
+            "title": "Crown Prince Ludwig in the Spanish Wine Tavern in Rome",
+            "author": "CATEL Franz Ludwig",
+            "technique": "Oil on canvas 63 x 76 cm",
+            "painting_type": "genre",
+            "date": "1824"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1778 Berlin d. 1856 Roma)",
+    "name": "CATEL Franz Ludwig",
+    "school": "German"
+}

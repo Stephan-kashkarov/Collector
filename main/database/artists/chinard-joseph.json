@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8759,
+            "location": "Private collection",
+            "img": "imgs/art/8759.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/chinard/jeanne.html",
+            "title": "Jeanne de l'Orme de l'Isle",
+            "author": "CHINARD Joseph",
+            "technique": "Terracotta height 66 cm",
+            "painting_type": "portrait",
+            "date": "1802"
+        },
+        {
+            "index": 8760,
+            "location": "Mus\u00e9e du Ch\u00e2teau Malmaison",
+            "img": "imgs/art/8760.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/chinard/josephin.html",
+            "title": "Bust of Empress Josephine",
+            "author": "CHINARD Joseph",
+            "technique": "Marble height 67 cm",
+            "painting_type": "portrait",
+            "date": "1805-06"
+        },
+        {
+            "index": 8761,
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "img": "imgs/art/8761.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/chinard/recamier.html",
+            "title": "Madame R\u00e9camier",
+            "author": "CHINARD Joseph",
+            "technique": "Marble",
+            "painting_type": "portrait",
+            "date": "1802"
+        },
+        {
+            "index": 8762,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/8762.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/chinard/republic.html",
+            "title": "The Republic",
+            "author": "CHINARD Joseph",
+            "technique": "Terracotta height 35 cm",
+            "painting_type": "historical",
+            "date": "1794"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1756 Lyon d. 1813 Lyon)",
+    "name": "CHINARD Joseph",
+    "school": "French"
+}

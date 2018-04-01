@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 5623,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/5623.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/coronati.html",
+            "title": "Coronation of the Virgin",
+            "author": "BOTTICINI Francesco",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 5624,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/5624.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/deschi.html",
+            "title": "Madonna with Child St John the Baptist and Angels",
+            "author": "BOTTICINI Francesco",
+            "technique": "Oil on wood diameter 123 cm",
+            "painting_type": "religious",
+            "date": "c. 1490"
+        },
+        {
+            "index": 5625,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/5625.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/tobias.html",
+            "title": "The Three Archangels with Tobias",
+            "author": "BOTTICINI Francesco",
+            "technique": "Tempera on wood 135 x 154 cm",
+            "painting_type": "religious",
+            "date": "c. 1470"
+        },
+        {
+            "index": 5626,
+            "location": "Private collection",
+            "img": "imgs/art/5626.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/tondo.html",
+            "title": "Madonna and Child with the Infant St John the Baptist in a Landscape",
+            "author": "BOTTICINI Francesco",
+            "technique": "Oil on poplar panel diameter 71 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 5627,
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "img": "imgs/art/5627.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/virgin.html",
+            "title": "Virgin and Child",
+            "author": "BOTTICINI Francesco",
+            "technique": "Panel 88 x 57 cm",
+            "painting_type": "religious",
+            "date": "c. 1475"
+        },
+        {
+            "index": 5628,
+            "location": "Private collection",
+            "img": "imgs/art/5628.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/virgin_1.html",
+            "title": "Madonna and Two Angels Adoring the Christ Child",
+            "author": "BOTTICINI Francesco",
+            "technique": "Oil on panel arched top 117 x 72 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 5629,
+            "location": "National Gallery of Scotland Edinburgh",
+            "img": "imgs/art/5629.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/botticin/francesc/virgin_c.html",
+            "title": "Virgin and Child Enthroned",
+            "author": "BOTTICINI Francesco",
+            "technique": "Panel 149 x 170 cm",
+            "painting_type": "religious",
+            "date": "c. 1495"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b.1446 Firenze d. 1497 Firenze)",
+    "name": "BOTTICINI Francesco",
+    "school": "Italian"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 14010,
+            "location": "Private collection",
+            "img": "imgs/art/14010.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati1.html",
+            "title": "The Adoration of the Shepherds",
+            "author": "FONTANA Prospero",
+            "technique": "Oil on copper 53 x 24 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14011,
+            "location": "Private collection",
+            "img": "imgs/art/14011.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati2.html",
+            "title": "The Adoration of the Magi",
+            "author": "FONTANA Prospero",
+            "technique": "Oil on copper 53 x 24 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14012,
+            "location": "Church of Corpus Domini Bologna",
+            "img": "imgs/art/14012.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/adorati3.html",
+            "title": "Adoration of the Magi",
+            "author": "FONTANA Prospero",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "c. 1565"
+        },
+        {
+            "index": 14013,
+            "location": "Private collection",
+            "img": "imgs/art/14013.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/h_family.html",
+            "title": "Holy Family with the Infant St John the Baptist",
+            "author": "FONTANA Prospero",
+            "technique": "Oil on panel 16 x 11 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14014,
+            "location": "Private collection",
+            "img": "imgs/art/14014.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fontana/prospero/holyfami.html",
+            "title": "Holy Family with the Infant St John the Baptist",
+            "author": "FONTANA Prospero",
+            "technique": "Oil on panel 79 x 65 cm",
+            "painting_type": "religious",
+            "date": "1548-51"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1512 Bologna d. 1597 Bologna)",
+    "name": "FONTANA Prospero",
+    "school": "Italian"
+}

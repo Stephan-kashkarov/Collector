@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 111,
+            "location": "Koninklijk Museum voor Schone Kunsten Antwerp",
+            "img": "imgs/art/111.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/aenvanck/fruit.html",
+            "title": "Fruit",
+            "author": "AENVANCK Theodoor",
+            "technique": "Oil on panel 63 x 80 cm",
+            "painting_type": "still-life",
+            "date": "1653"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1633 Antwerpen d. 1690 Antwerpen)",
+    "name": "AENVANCK Theodoor",
+    "school": "Flemish"
+}

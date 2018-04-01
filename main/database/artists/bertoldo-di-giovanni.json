@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 4416,
+            "location": "Museo Nazionale del Bargello Florence",
+            "img": "imgs/art/4416.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/arion.html",
+            "title": "Arion",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze height 445 cm",
+            "painting_type": "mythological",
+            "date": "1470-90"
+        },
+        {
+            "index": 4417,
+            "location": "Museo Nazionale del Bargello Florence",
+            "img": "imgs/art/4417.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/battle.html",
+            "title": "Battle (with Hercules)",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze 45 x 99 cm",
+            "painting_type": "mythological",
+            "date": "after 1478"
+        },
+        {
+            "index": 4418,
+            "location": "Museo Nazionale del Bargello Florence",
+            "img": "imgs/art/4418.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/battle1.html",
+            "title": "Battle (detail)",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze",
+            "painting_type": "mythological",
+            "date": "after 1478"
+        },
+        {
+            "index": 4419,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/4419.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/bearer.html",
+            "title": "Shield Bearer",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze with remains of gilding height 23 cm",
+            "painting_type": "other",
+            "date": "c. 1473"
+        },
+        {
+            "index": 4420,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/4420.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/bellerop.html",
+            "title": "Bellerophon and Pegasus",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze height 325 cm",
+            "painting_type": "mythological",
+            "date": "before 1486"
+        },
+        {
+            "index": 4421,
+            "location": "Victoria and Albert Museum London",
+            "img": "imgs/art/4421.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/hercules.html",
+            "title": "Hercules with the Apple of the Hesperides",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze height 49 cm",
+            "painting_type": "mythological",
+            "date": "1470-75"
+        },
+        {
+            "index": 4422,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4422.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/medal1.html",
+            "title": "Filippo de' Medici (obverse)",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze diameter 6 cm",
+            "painting_type": "portrait",
+            "date": "1468-69"
+        },
+        {
+            "index": 4423,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4423.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/medal2.html",
+            "title": "The Last Judgment (reverse)",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze diameter 6 cm",
+            "painting_type": "religious",
+            "date": "1468-69"
+        },
+        {
+            "index": 4424,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4424.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/medal3.html",
+            "title": "Frederick III Holy Roman Emperor",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Copper alloy diameter 6 cm",
+            "painting_type": "portrait",
+            "date": "1469"
+        },
+        {
+            "index": 4425,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/4425.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bertoldo/pazzimed.html",
+            "title": "Pazzi Cospiracy Medal obverse: Lorenzo reverse: Giuliano de' Medici",
+            "author": "BERTOLDO DI GIOVANNI",
+            "technique": "Bronze diameter: 64 cm",
+            "painting_type": "portrait",
+            "date": "1478"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1420 d. 1491 Poggio a Caiano)",
+    "name": "BERTOLDO DI GIOVANNI",
+    "school": "Italian"
+}

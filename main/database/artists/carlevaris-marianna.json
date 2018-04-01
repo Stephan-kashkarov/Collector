@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 7678,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/7678.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi1.html",
+            "title": "Portrait of Gerolamo Maria Balbi",
+            "author": "CARLEVARIS Marianna",
+            "technique": "Pastel on paper",
+            "painting_type": "portrait",
+            "date": "1740-42"
+        },
+        {
+            "index": 7679,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/7679.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi2.html",
+            "title": "Portrait of Cornelia Foscolo Balbi",
+            "author": "CARLEVARIS Marianna",
+            "technique": "Pastel on paper",
+            "painting_type": "portrait",
+            "date": "1740-42"
+        },
+        {
+            "index": 7680,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/7680.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi3.html",
+            "title": "Portrait of Marco Balbi",
+            "author": "CARLEVARIS Marianna",
+            "technique": "Pastel on paper",
+            "painting_type": "portrait",
+            "date": "1740-42"
+        },
+        {
+            "index": 7681,
+            "location": "Museo del Settecento Veneziano Ca' Rezzonico Venice",
+            "img": "imgs/art/7681.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carlevax/balbi4.html",
+            "title": "Portrait of Caterina Balbi",
+            "author": "CARLEVARIS Marianna",
+            "technique": "Pastel on paper",
+            "painting_type": "portrait",
+            "date": "1740-42"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1703 Venezia d. ca. 1750 Venezia)",
+    "name": "CARLEVARIS Marianna",
+    "school": "Italian"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8933,
+            "location": "Galleria Nazionale d'Arte AnticaTrieste",
+            "img": "imgs/art/8933.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cittadin/fruitswe.html",
+            "title": "Still-Life with Fruit and Sweets",
+            "author": "CITTADINI Pier Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "1650s"
+        },
+        {
+            "index": 8934,
+            "location": "Pinacoteca Nazionale Bologna",
+            "img": "imgs/art/8934.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cittadin/garland.html",
+            "title": "Garland of Flowers",
+            "author": "CITTADINI Pier Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 8935,
+            "location": "Retiro di San Pellegrino Bologna",
+            "img": "imgs/art/8935.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cittadin/laidtabl.html",
+            "title": "Laid Table",
+            "author": "CITTADINI Pier Francesco",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 8936,
+            "location": "Private collection",
+            "img": "imgs/art/8936.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cittadin/ulysses.html",
+            "title": "Ulysses Foiling the Wiles of Circe",
+            "author": "CITTADINI Pier Francesco",
+            "technique": "Oil on board 149 x 226 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1616 Milano d. 1681 Bologna)",
+    "name": "CITTADINI Pier Francesco",
+    "school": "Italian"
+}

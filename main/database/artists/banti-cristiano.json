@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3141,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/3141.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/banti/3women.html",
+            "title": "Three Peasant Women",
+            "author": "BANTI Cristiano",
+            "technique": "Oil on canvas 73 x 34 cm",
+            "painting_type": "genre",
+            "date": "1881"
+        },
+        {
+            "index": 3142,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/3142.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/banti/sewing.html",
+            "title": "Woman Sewing on the Terrace",
+            "author": "BANTI Cristiano",
+            "technique": "Oil on canvas 31 x 15 cm",
+            "painting_type": "genre",
+            "date": "1882"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1824 Santa Croce sull'Arno d. 1904 Montemurlo)",
+    "name": "BANTI Cristiano",
+    "school": "Italian"
+}

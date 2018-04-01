@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14849,
+            "location": "Private collection",
+            "img": "imgs/art/14849.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/garzi/alpheus.html",
+            "title": "Alpheus and Arethusa",
+            "author": "GARZI Luigi",
+            "technique": "Oil on canvas 121 x 172 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 14850,
+            "location": "Private collection",
+            "img": "imgs/art/14850.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/garzi/autumn.html",
+            "title": "Allegory of Autumn",
+            "author": "GARZI Luigi",
+            "technique": "Oil on canvas 95 x 134 cm",
+            "painting_type": "mythological",
+            "date": "1680s"
+        },
+        {
+            "index": 14851,
+            "location": "Private collection",
+            "img": "imgs/art/14851.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/garzi/holyfami.html",
+            "title": "Holy Family with Angels in a Landscape",
+            "author": "GARZI Luigi",
+            "technique": "Oil on canvas 50 x 76 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1638 Pistoia d. 1721 Roma)",
+    "name": "GARZI Luigi",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5742,
+            "location": "Private collection",
+            "img": "imgs/art/5742.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouliar/selfpor1.html",
+            "title": "Self-Portrait",
+            "author": "BOULIAR Marie Genevi\u00e8ve",
+            "technique": "Oil on canvas 56 x 46 cm",
+            "painting_type": "portrait",
+            "date": "c. 1792"
+        },
+        {
+            "index": 5743,
+            "location": "Norton Simon Museum of Art Pasadena",
+            "img": "imgs/art/5743.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouliar/selfpor2.html",
+            "title": "Self-Portrait",
+            "author": "BOULIAR Marie Genevi\u00e8ve",
+            "technique": "Oil on canvas 56 x 46 cm",
+            "painting_type": "portrait",
+            "date": "1792"
+        },
+        {
+            "index": 5744,
+            "location": "Mus\u00e9e des Beaux-Arts Arras",
+            "img": "imgs/art/5744.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bouliar/selfpor3.html",
+            "title": "Self-Portrait as Aspasia",
+            "author": "BOULIAR Marie Genevi\u00e8ve",
+            "technique": "Oil on canvas 123 x 127 cm",
+            "painting_type": "portrait",
+            "date": "1794"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1763 Paris d. 1825 Bois-d'Arcy)",
+    "name": "BOULIAR Marie Genevi\u00e8ve",
+    "school": "French"
+}

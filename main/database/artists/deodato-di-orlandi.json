@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11438,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/11438.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/deodato/virgin.html",
+            "title": "Virgin and Child Enthroned between Two Archangels",
+            "author": "DEODATO DI ORLANDI",
+            "technique": "Tempera on wood 31 x 21 cm",
+            "painting_type": "religious",
+            "date": "1290s"
+        },
+        {
+            "index": 11439,
+            "location": "Lindenau-Museum Altenburg",
+            "img": "imgs/art/11439.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/deodato/virgin1.html",
+            "title": "Virgin and Child Enthroned between Two Archangels (detail)",
+            "author": "DEODATO DI ORLANDI",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1290s"
+        }
+    ],
+    "timeframe": "1251-1300",
+    "life": "(documented 1284-1315 in Lucca)",
+    "name": "DEODATO DI ORLANDI",
+    "school": "Italian"
+}

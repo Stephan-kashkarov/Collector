@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 6916,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/6916.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/byss/1weisse1.html",
+            "title": "Ceiling fresco",
+            "author": "BYSS Johann Rudolf",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1713"
+        },
+        {
+            "index": 6917,
+            "location": "Schloss Weissenstein Pommersfelden",
+            "img": "imgs/art/6917.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/byss/1weisse2.html",
+            "title": "Ceiling fresco",
+            "author": "BYSS Johann Rudolf",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1713"
+        },
+        {
+            "index": 6918,
+            "location": "Private collection",
+            "img": "imgs/art/6918.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/byss/flowers.html",
+            "title": "Flowers in a Vase in a Stone Niche",
+            "author": "BYSS Johann Rudolf",
+            "technique": "Oil on copper 18 x 13 cm",
+            "painting_type": "still-life",
+            "date": "1693"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1660 Solothurn d. 1738 W\u00fcrzburg)",
+    "name": "BYSS Johann Rudolf",
+    "school": "Swiss"
+}

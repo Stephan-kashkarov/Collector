@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3239,
+            "location": "Private collection",
+            "img": "imgs/art/3239.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barraud/a_gray.html",
+            "title": "A Grey in a Stable",
+            "author": "BARRAUD William",
+            "technique": "Oil on canvas 64 x 76 cm",
+            "painting_type": "other",
+            "date": "1840"
+        },
+        {
+            "index": 3240,
+            "location": "Private collection",
+            "img": "imgs/art/3240.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/barraud/spaniels.html",
+            "title": "Portrait of Lord Methuen's Spaniels Gipsy and Fairy",
+            "author": "BARRAUD William",
+            "technique": "Oil on canvas 66 x 92 cm",
+            "painting_type": "portrait",
+            "date": "1846"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1810 Lambeth d. 1850 Kensington)",
+    "name": "BARRAUD William",
+    "school": "English"
+}

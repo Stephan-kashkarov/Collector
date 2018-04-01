@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15294,
+            "location": "Museu Calouste Gulbenkian Lisbon",
+            "img": "imgs/art/15294.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/g/germain/terrine.html",
+            "title": "Terrine and salver",
+            "author": "GERMAIN Fran\u00e7ois-Thomas",
+            "technique": "Silver gilt 36 x 59 cm",
+            "painting_type": "other",
+            "date": "1758-59"
+        },
+        {
+            "index": 15295,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/15295.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/g/germain/winebuck.html",
+            "title": "Wine bucket",
+            "author": "GERMAIN Fran\u00e7ois-Thomas",
+            "technique": "Silver 22 x 21 cm",
+            "painting_type": "other",
+            "date": "1727-28"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1726 Paris d. 1791 Paris)",
+    "name": "GERMAIN Fran\u00e7ois-Thomas",
+    "school": "French"
+}

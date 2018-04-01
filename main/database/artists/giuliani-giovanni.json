@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 16755,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/16755.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/base.html",
+            "title": "Wooden base for a tabletop",
+            "author": "GIULIANI Giovanni",
+            "technique": "Carved limewood 81 x 81 x 86 cm",
+            "painting_type": "other",
+            "date": "1711"
+        },
+        {
+            "index": 16756,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/16756.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/cleopatr.html",
+            "title": "Cleopatra",
+            "author": "GIULIANI Giovanni",
+            "technique": "Sandstone height 200 cm",
+            "painting_type": "mythological",
+            "date": "1707"
+        },
+        {
+            "index": 16757,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/16757.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/faun.html",
+            "title": "Dancing Faun",
+            "author": "GIULIANI Giovanni",
+            "technique": "Sandstone height 195 cm",
+            "painting_type": "mythological",
+            "date": "1707"
+        },
+        {
+            "index": 16758,
+            "location": "Private collection",
+            "img": "imgs/art/16758.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/figure.html",
+            "title": "Allegoric figure",
+            "author": "GIULIANI Giovanni",
+            "technique": "Wood",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 16759,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/16759.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/hercules.html",
+            "title": "Hercules Enthroned",
+            "author": "GIULIANI Giovanni",
+            "technique": "Bronzed plaster",
+            "painting_type": "mythological",
+            "date": "c. 1709"
+        },
+        {
+            "index": 16760,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/16760.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giuliani/zcartouc.html",
+            "title": "Cartouche from a frame",
+            "author": "GIULIANI Giovanni",
+            "technique": "Gilded wood",
+            "painting_type": "other",
+            "date": "1706"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1663 Venezia d. 1744 Heiligenkreuz)",
+    "name": "GIULIANI Giovanni",
+    "school": "Italian"
+}

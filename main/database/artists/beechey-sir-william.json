@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 3624,
+            "location": "Private collection",
+            "img": "imgs/art/3624.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/children.html",
+            "title": "Two Children with a Spaniel",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "painting_type": "portrait",
+            "date": "c. 1790"
+        },
+        {
+            "index": 3625,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3625.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/george4.html",
+            "title": "George IV when Prince of Wales",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 143 x 113 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3626,
+            "location": "Private collection",
+            "img": "imgs/art/3626.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/nolleken.html",
+            "title": "Portrait of Joseph Nollekens",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 74 x 63 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3627,
+            "location": "Private collection",
+            "img": "imgs/art/3627.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/pigot.html",
+            "title": "Portrait of Lady Mary Anne Pigot",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 127 x 102 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3628,
+            "location": "Private collection",
+            "img": "imgs/art/3628.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/port_boy.html",
+            "title": "Portrait of a Boy",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 76 x 64 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 3629,
+            "location": "Private collection",
+            "img": "imgs/art/3629.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/simeon.html",
+            "title": "Portrait of Mrs Simeon",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 241 x 149 cm",
+            "painting_type": "portrait",
+            "date": "1797-99"
+        },
+        {
+            "index": 3630,
+            "location": "Private collection",
+            "img": "imgs/art/3630.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beechey/stirling.html",
+            "title": "Portrait of Margaret Stirling of Ardoch (d. 1849)",
+            "author": "BEECHEY Sir William",
+            "technique": "Oil on canvas 77 x 64 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1753 Burford d. 1839 London)",
+    "name": "BEECHEY Sir William",
+    "school": "English"
+}

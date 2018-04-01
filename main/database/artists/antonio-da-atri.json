@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1125,
+            "location": "Duomo Atri",
+            "img": "imgs/art/1125.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/atri/atri_tri.html",
+            "title": "Trinity with Three Faces",
+            "author": "ANTONIO DA ATRI",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "c.1400"
+        },
+        {
+            "index": 1126,
+            "location": "Private collection",
+            "img": "imgs/art/1126.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/atri/noli_me.html",
+            "title": "Noli me tangere.",
+            "author": "ANTONIO DA ATRI",
+            "technique": "Tempera on panel gold ground 28 x 40 cm",
+            "painting_type": "religious",
+            "date": "1410s"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(b. ca. 1350 Atri d. 1433 Atri)",
+    "name": "ANTONIO DA ATRI",
+    "school": "Italian"
+}

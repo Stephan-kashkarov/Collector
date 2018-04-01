@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 4161,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/4161.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berentz/flowers1.html",
+            "title": "Flowers Fruit with a Woman Picking Grapes",
+            "author": "BERENTZ Christian",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "1689"
+        },
+        {
+            "index": 4162,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4162.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berentz/flowers2.html",
+            "title": "Flowers and Fruit",
+            "author": "BERENTZ Christian",
+            "technique": "Oil on canvas 179 \u00d7 219 cm",
+            "painting_type": "still-life",
+            "date": "1689"
+        },
+        {
+            "index": 4163,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/4163.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berentz/stillif1.html",
+            "title": "Still-Life",
+            "author": "BERENTZ Christian",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 4164,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/4164.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/berentz/stillif2.html",
+            "title": "Still-Life with Crystal Glasses and Sponge-Cakes",
+            "author": "BERENTZ Christian",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1658 Hamburg d. 1722 Roma)",
+    "name": "BERENTZ Christian",
+    "school": "German"
+}

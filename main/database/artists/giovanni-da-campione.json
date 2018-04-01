@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 16541,
+            "location": "Santa Maria Antica Verona",
+            "img": "imgs/art/16541.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/campione/cangrand.html",
+            "title": "Tomb of Cangrande della Scala (detail)",
+            "author": "GIOVANNI DA CAMPIONE",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1333"
+        },
+        {
+            "index": 16542,
+            "location": "Basilica di Santa Maria Maggiore Bergamo",
+            "img": "imgs/art/16542.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/campione/portal1.html",
+            "title": "North portal with red lions",
+            "author": "GIOVANNI DA CAMPIONE",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1351"
+        },
+        {
+            "index": 16543,
+            "location": "Basilica di Santa Maria Maggiore Bergamo",
+            "img": "imgs/art/16543.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/campione/portal1a.html",
+            "title": "North portal with red lions (detail)",
+            "author": "GIOVANNI DA CAMPIONE",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1351"
+        },
+        {
+            "index": 16544,
+            "location": "Basilica di Santa Maria Maggiore Bergamo",
+            "img": "imgs/art/16544.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/campione/portal2.html",
+            "title": "South portal with white lions",
+            "author": "GIOVANNI DA CAMPIONE",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1360"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(b. ca. 1320 Campione d. ca. 1375 Campione)",
+    "name": "GIOVANNI DA CAMPIONE",
+    "school": "Italian"
+}

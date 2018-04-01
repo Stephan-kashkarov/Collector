@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2772,
+            "location": "Private collection",
+            "img": "imgs/art/2772.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/assteyn/stillife.html",
+            "title": "Still-Life",
+            "author": "ASSTEYN Bartholomeus",
+            "technique": "Oil on panel 56 x 41 cm",
+            "painting_type": "still-life",
+            "date": "1635"
+        },
+        {
+            "index": 2773,
+            "location": "Private collection",
+            "img": "imgs/art/2773.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/assteyn/still-li.html",
+            "title": "Still-Life",
+            "author": "ASSTEYN Bartholomeus",
+            "technique": "Oil on panel 51 x 77 cm",
+            "painting_type": "still-life",
+            "date": "1637"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1607 Dordrecht d. after 1667 Dordrecht)",
+    "name": "ASSTEYN Bartholomeus",
+    "school": "Dutch"
+}

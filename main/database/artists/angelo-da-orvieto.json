@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 996,
+            "location": "Palazzo dei Priori Citt\u00e0 di Castello",
+            "img": "imgs/art/996.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/cittadi1.html",
+            "title": "Exterior view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1322"
+        },
+        {
+            "index": 997,
+            "location": "Palazzo dei Priori Citt\u00e0 di Castello",
+            "img": "imgs/art/997.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/cittadi2.html",
+            "title": "Interior view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1322"
+        },
+        {
+            "index": 998,
+            "location": "Palazzo dei Consoli Gubbio",
+            "img": "imgs/art/998.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/gubbio1.html",
+            "title": "Exterior view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1332-49"
+        },
+        {
+            "index": 999,
+            "location": "Palazzo dei Consoli Gubbio",
+            "img": "imgs/art/999.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/gubbio2.html",
+            "title": "Exterior view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1332-46"
+        },
+        {
+            "index": 1000,
+            "location": "Palazzo dei Consoli Gubbio",
+            "img": "imgs/art/1000.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/gubbio3.html",
+            "title": "General view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1332-49"
+        },
+        {
+            "index": 1001,
+            "location": "Piazza della Signoria Gubbio",
+            "img": "imgs/art/1001.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/gubbio4.html",
+            "title": "General view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1332-46"
+        },
+        {
+            "index": 1002,
+            "location": "Piazza della Signoria Gubbio",
+            "img": "imgs/art/1002.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/a/angelo_o/gubbio5.html",
+            "title": "General view",
+            "author": "ANGELO DA ORVIETO",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1332-46"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active 1317-1352)",
+    "name": "ANGELO DA ORVIETO",
+    "school": "Italian"
+}

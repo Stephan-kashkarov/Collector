@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5357,
+            "location": "Piazza Grande Montepulciano",
+            "img": "imgs/art/5357.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/boscoli/tarugi1.html",
+            "title": "Palazzo Nobili Tarugi: Fa\u00e7ade",
+            "author": "BOSCOLI Tommaso di Pietro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1550s"
+        },
+        {
+            "index": 5358,
+            "location": "Piazza Grande Montepulciano",
+            "img": "imgs/art/5358.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/boscoli/tarugi2.html",
+            "title": "Palazzo Nobili Tarugi: Fa\u00e7ade",
+            "author": "BOSCOLI Tommaso di Pietro",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1550s"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1503 Fiesole d. 1574 Montepulciano)",
+    "name": "BOSCOLI Tommaso di Pietro",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4778,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4778.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/norbert/genre_sc.html",
+            "title": "Genre Scene",
+            "author": "BLOEMEN Norbert van",
+            "technique": "Oil on canvas 88 x 101 cm",
+            "painting_type": "genre",
+            "date": "1700s"
+        },
+        {
+            "index": 4779,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4779.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/norbert/peasant1.html",
+            "title": "Peasants Playing Cards",
+            "author": "BLOEMEN Norbert van",
+            "technique": "Oil on canvas 56 x 67 cm",
+            "painting_type": "genre",
+            "date": "1700s"
+        },
+        {
+            "index": 4780,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/4780.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bloemen/norbert/peasant2.html",
+            "title": "Peasant Family Sitting at a Table",
+            "author": "BLOEMEN Norbert van",
+            "technique": "Oil on canvas 66 x 80 cm",
+            "painting_type": "genre",
+            "date": "1700s"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1670 Antwerpen d. ca. 1746 Amsterdam)",
+    "name": "BLOEMEN Norbert van",
+    "school": "Flemish"
+}

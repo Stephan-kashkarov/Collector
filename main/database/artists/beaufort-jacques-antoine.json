@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 3567,
+            "location": "Mus\u00e9e Municipal Frederic Blandin Nevers",
+            "img": "imgs/art/3567.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beaufort/brutus.html",
+            "title": "The Oath of Brutus",
+            "author": "BEAUFORT Jacques-Antoine",
+            "technique": "Oil on canvas 129 x 167 cm",
+            "painting_type": "historical",
+            "date": "1771"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1721 Paris d. 1784 Reuil)",
+    "name": "BEAUFORT Jacques-Antoine",
+    "school": "French"
+}

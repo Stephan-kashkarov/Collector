@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4826,
+            "location": "Private collection",
+            "img": "imgs/art/4826.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bocchi/arrival.html",
+            "title": "Arrival of the Wife",
+            "author": "BOCCHI Faustino",
+            "technique": "Oil on canvas",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4827,
+            "location": "Private collection",
+            "img": "imgs/art/4827.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bocchi/dwarfs.html",
+            "title": "Glorious Entry of an Army of Dwarfs Carrying Loot",
+            "author": "BOCCHI Faustino",
+            "technique": "Oil on canvas 74 x 97 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 4828,
+            "location": "Museo Civico Padua",
+            "img": "imgs/art/4828.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bocchi/dwarfsav.html",
+            "title": "Dwarf Saves Companions from the Attack by a Shrimp",
+            "author": "BOCCHI Faustino",
+            "technique": "Oil on canvas",
+            "painting_type": "other",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1659 Brescia d. 1742 Brescia)",
+    "name": "BOCCHI Faustino",
+    "school": "Italian"
+}

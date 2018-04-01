@@ -1,20 +1,20 @@
 {
-    "name": "ABBATINI Guido Ubaldo",
-    "life": "(b. ca. 1602 Citt\u00e0 di Castello d. 1656 Roma)",
-    "school": "Italian",
-    "timeframe": "1601-1650",
     "art": [
         {
-            "title": "Gian Lorenzo Bernini's Cornaro Chapel",
-            "date": "c. 1650",
-            "technique": "Oil on canvas 168 x 120 cm",
-            "location": "Staatliches Museum Schwerin",
-            "url": "https://www.wga.hu/html/a/abbatini/cornaro.html",
-            "form": "painting",
-            "painting_type": "religious",
             "index": 23,
+            "location": "Staatliches Museum Schwerin",
+            "img": "imgs/art/23.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/abbatini/cornaro.html",
+            "title": "Gian Lorenzo Bernini's Cornaro Chapel",
             "author": "ABBATINI Guido Ubaldo",
-            "img": "imgs/art/gian-lorenzo-bernini's-cornaro-chapel.jpg"
+            "technique": "Oil on canvas 168 x 120 cm",
+            "painting_type": "religious",
+            "date": "c. 1650"
         }
-    ]
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1602 Citt\u00e0 di Castello d. 1656 Roma)",
+    "name": "ABBATINI Guido Ubaldo",
+    "school": "Italian"
 }

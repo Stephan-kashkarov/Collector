@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5711,
+            "location": "Private collection",
+            "img": "imgs/art/5711.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boudewij/extensi1.html",
+            "title": "Extensive River Landscape",
+            "author": "BOUDEWIJNS Adriaen Frans",
+            "technique": "Oil on canvas 51 x 63 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5712,
+            "location": "Private collection",
+            "img": "imgs/art/5712.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boudewij/extensi2.html",
+            "title": "Extensive Mountainous Landscape",
+            "author": "BOUDEWIJNS Adriaen Frans",
+            "technique": "Oil on canvas 51 x 63 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5713,
+            "location": "Private collection",
+            "img": "imgs/art/5713.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boudewij/landscap.html",
+            "title": "Landscape with Travellers",
+            "author": "BOUDEWIJNS Adriaen Frans",
+            "technique": "Oil on canvas 133 x 204 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1644 Bruxelles d. 1711 Bruxelles)",
+    "name": "BOUDEWIJNS Adriaen Frans",
+    "school": "Flemish"
+}

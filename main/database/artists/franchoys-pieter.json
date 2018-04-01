@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14310,
+            "location": "Private collection",
+            "img": "imgs/art/14310.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/franchoy/port_man.html",
+            "title": "Portrait of a Man",
+            "author": "FRANCHOYS Pieter",
+            "technique": "Oil on canvas on panel 66 x 50 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 14311,
+            "location": "Private collection",
+            "img": "imgs/art/14311.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/franchoy/portyoun.html",
+            "title": "Portrait of a Young Man",
+            "author": "FRANCHOYS Pieter",
+            "technique": "Oil on canvas 77 x 59 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 14312,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14312.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/franchoy/selfport.html",
+            "title": "Self-Portrait",
+            "author": "FRANCHOYS Pieter",
+            "technique": "Oil on canvas 73 x 51 cm",
+            "painting_type": "portrait",
+            "date": "1637-40"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1606 Mechelen d. 1654 Mechelen)",
+    "name": "FRANCHOYS Pieter",
+    "school": "Flemish"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 7049,
+            "location": "Private collection",
+            "img": "imgs/art/7049.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calraet/horsecow.html",
+            "title": "A Horse and Cows in a Landscape",
+            "author": "CALRAET Abraham van",
+            "technique": "Oil on panel 28 x 40 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 7050,
+            "location": "Private collection",
+            "img": "imgs/art/7050.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calraet/horserid.html",
+            "title": "Young Artist Painting a Horse and Rider",
+            "author": "CALRAET Abraham van",
+            "technique": "Oil on panel 23 x 31 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 7051,
+            "location": "Mauritshuis The Hague",
+            "img": "imgs/art/7051.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calraet/stillife.html",
+            "title": "Still-life with Peaches and Grapes",
+            "author": "CALRAET Abraham van",
+            "technique": "Oil on canvas 89 x 73 cm",
+            "painting_type": "still-life",
+            "date": "c. 1680"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1642 Dordrecht d. 1722 Dordrecht)",
+    "name": "CALRAET Abraham van",
+    "school": "Dutch"
+}

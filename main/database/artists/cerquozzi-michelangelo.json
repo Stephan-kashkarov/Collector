@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8421,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/8421.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cerquozz/figures.html",
+            "title": "Figures in a Tree-lined Avenue",
+            "author": "CERQUOZZI Michelangelo",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "landscape",
+            "date": "1640s"
+        },
+        {
+            "index": 8422,
+            "location": "Private collection",
+            "img": "imgs/art/8422.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cerquozz/playing.html",
+            "title": "Soldiers Playing Dice",
+            "author": "CERQUOZZI Michelangelo",
+            "technique": "Oil on canvas 51 x 41 cm",
+            "painting_type": "genre",
+            "date": "1630s"
+        },
+        {
+            "index": 8423,
+            "location": "Private collection",
+            "img": "imgs/art/8423.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cerquozz/street_s.html",
+            "title": "Street Scene in Rome",
+            "author": "CERQUOZZI Michelangelo",
+            "technique": "Oil on canvas 58 x 69 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1602 Roma d. 1660 Roma)",
+    "name": "CERQUOZZI Michelangelo",
+    "school": "Italian"
+}

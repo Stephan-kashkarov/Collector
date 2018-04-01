@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 4223,
+            "location": "Pinacoteca Vatican",
+            "img": "imgs/art/4223.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernardi/madonna.html",
+            "title": "Madonna and Child with Sts Severino and Dominic",
+            "author": "BERNARDINO DI MARIOTTO DELLO STAGNO",
+            "technique": "Tempera on canvas transferred from wood 50 x 34 cm",
+            "painting_type": "religious",
+            "date": "1512"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1478 Perugia d. 1566 Perugia)",
+    "name": "BERNARDINO DI MARIOTTO DELLO STAGNO",
+    "school": "Italian"
+}

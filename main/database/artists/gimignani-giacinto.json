@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15828,
+            "location": "Private collection",
+            "img": "imgs/art/15828.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gimignan/angeldev.html",
+            "title": "An Angel and a Devil Fighting for the Soul of a Child",
+            "author": "GIMIGNANI Giacinto",
+            "technique": "Oil on canvas 67 x 50 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15829,
+            "location": "Private collection",
+            "img": "imgs/art/15829.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gimignan/venusapp.html",
+            "title": "Venus Appearing to Aeneas and Achates",
+            "author": "GIMIGNANI Giacinto",
+            "technique": "Oil on canvas 122 x 170 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1606 Pistoia d. 1681 Roma)",
+    "name": "GIMIGNANI Giacinto",
+    "school": "Italian"
+}

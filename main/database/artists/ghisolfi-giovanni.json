@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15653,
+            "location": "Private collection",
+            "img": "imgs/art/15653.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghisolfi/alexande.html",
+            "title": "Alexander the Great and Thalestris",
+            "author": "GHISOLFI Giovanni",
+            "technique": "Oil on canvas 92 x 130 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 15654,
+            "location": "Private collection",
+            "img": "imgs/art/15654.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/ghisolfi/med_port.html",
+            "title": "Capriccio of a Mediterranean Port",
+            "author": "GHISOLFI Giovanni",
+            "technique": "Oil on canvas 200 x 115 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1623 Milano d. 1683 Milano)",
+    "name": "GHISOLFI Giovanni",
+    "school": "Italian"
+}

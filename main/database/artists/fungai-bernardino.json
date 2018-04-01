@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14531,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14531.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fungai/scipio.html",
+            "title": "The Magnanimity of Scipio Africanus",
+            "author": "FUNGAI Bernardino",
+            "technique": "Oil and tempera on panel 62 x 166 cm",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 14532,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14532.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fungai/scipio1.html",
+            "title": "The Magnanimity of Scipio Africanus (detail)",
+            "author": "FUNGAI Bernardino",
+            "technique": "Oil and tempera on panel",
+            "painting_type": "historical",
+            "date": "-"
+        },
+        {
+            "index": 14533,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14533.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fungai/scipio2.html",
+            "title": "The Magnanimity of Scipio Africanus (detail)",
+            "author": "FUNGAI Bernardino",
+            "technique": "Oil and tempera on panel",
+            "painting_type": "historical",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1460 Siena d. 1516 Siena)",
+    "name": "FUNGAI Bernardino",
+    "school": "Italian"
+}

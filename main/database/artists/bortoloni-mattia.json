@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 5176,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5176.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar01.html",
+            "title": "View of a room on the first floor",
+            "author": "BORTOLONI Mattia",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1717-18"
+        },
+        {
+            "index": 5177,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5177.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar02.html",
+            "title": "The Flood",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5178,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5178.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar03.html",
+            "title": "Gathering of the Harvest",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5179,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5179.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar04.html",
+            "title": "Judgment of Solomon",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1717-18"
+        },
+        {
+            "index": 5180,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5180.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar05.html",
+            "title": "Transport of the Ark",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5181,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5181.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar06.html",
+            "title": "Esau Selling his Birthright to Jacob",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5182,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5182.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar07.html",
+            "title": "Jacob Tricking Isaac and Receiving his Blessing",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5183,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5183.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar08.html",
+            "title": "The Sacrifice of Isaac",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5184,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5184.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar09.html",
+            "title": "Hagar in the Desert",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5185,
+            "location": "Villa Cornaro Piombino Dese",
+            "img": "imgs/art/5185.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/cornar10.html",
+            "title": "Construction of the Tower of Babel",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1717-18"
+        },
+        {
+            "index": 5186,
+            "location": "Regina Montis Regalis Vicoforte",
+            "img": "imgs/art/5186.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bortolin/vicafort.html",
+            "title": "Cupola vault",
+            "author": "BORTOLONI Mattia",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1745-48"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1696 Canda d. 1750 Milano)",
+    "name": "BORTOLONI Mattia",
+    "school": "Italian"
+}

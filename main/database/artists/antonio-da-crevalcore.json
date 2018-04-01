@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 1127,
+            "location": "Museo Correr Venice",
+            "img": "imgs/art/1127.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antonio/crevalco/portrait.html",
+            "title": "Portrait of a Man",
+            "author": "ANTONIO DA CREVALCORE",
+            "technique": "Tempera on wood 51 x 43 cm",
+            "painting_type": "portrait",
+            "date": "1475-80"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1440 Crevalcore d. ca. 1525 Bologna)",
+    "name": "ANTONIO DA CREVALCORE",
+    "school": "Italian"
+}

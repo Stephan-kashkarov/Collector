@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 14384,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/14384.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/francken/hierony3/carrying.html",
+            "title": "Carrying the Cross",
+            "author": "FRANCKEN Hieronymus III",
+            "technique": "Oil on canvas 37 x 70 cm",
+            "painting_type": "religious",
+            "date": "1650s"
+        },
+        {
+            "index": 14385,
+            "location": "Private collection",
+            "img": "imgs/art/14385.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/francken/hierony3/jephta.html",
+            "title": "The Victorious General Jephta Meeting His Daughter",
+            "author": "FRANCKEN Hieronymus III",
+            "technique": "Oil on copper 27 x 38 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1611 Antwerpen d. after 1661)",
+    "name": "FRANCKEN Hieronymus III",
+    "school": "Flemish"
+}

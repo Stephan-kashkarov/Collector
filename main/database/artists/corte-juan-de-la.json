@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 9645,
+            "location": "Private collection",
+            "img": "imgs/art/9645.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corte_j/achilles.html",
+            "title": "Achilles Confronting Hector outside Troy",
+            "author": "CORTE Juan de la",
+            "technique": "Oil on canvas 196 x 309 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 9646,
+            "location": "Private collection",
+            "img": "imgs/art/9646.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corte_j/battle_s.html",
+            "title": "Battle Scene with a Roman Army Besieging a Large City",
+            "author": "CORTE Juan de la",
+            "technique": "Oil on canvas 162 x 196 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 9647,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/9647.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corte_j/battle_t.html",
+            "title": "Battle",
+            "author": "CORTE Juan de la",
+            "technique": "Oil on canvas 67 x 88 cm",
+            "painting_type": "historical",
+            "date": "1643"
+        },
+        {
+            "index": 9648,
+            "location": "Private collection",
+            "img": "imgs/art/9648.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corte_j/lot_daug.html",
+            "title": "Lot and His Daughters",
+            "author": "CORTE Juan de la",
+            "technique": "Oil on canvas 133 x 194 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 Flanders d. 1662 Madrid)",
+    "name": "CORTE Juan de la",
+    "school": "Spanish"
+}

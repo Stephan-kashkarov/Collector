@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8208,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/8208.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cats/autumn.html",
+            "title": "Autumn Landscape with Rainbow",
+            "author": "CATS Jacob",
+            "technique": "Watercolour and pen 334 x 415 mm",
+            "painting_type": "landscape",
+            "date": "1779"
+        },
+        {
+            "index": 8209,
+            "location": "Private collection",
+            "img": "imgs/art/8209.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cats/threepig.html",
+            "title": "A Swineherd with Three Pigs on a Track",
+            "author": "CATS Jacob",
+            "technique": "Black chalk pen and grey and brown ink grey wash 162 x 213 mm",
+            "painting_type": "landscape",
+            "date": "1772"
+        },
+        {
+            "index": 8210,
+            "location": "Private collection",
+            "img": "imgs/art/8210.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/c/cats/watering.html",
+            "title": "A Peasant Watering his Animals at a Ford",
+            "author": "CATS Jacob",
+            "technique": "Black chalk pen and grey and brown ink grey wash 162 x 213 mm",
+            "painting_type": "landscape",
+            "date": "1772"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1741 Altona d. 1799 Amsterdam)",
+    "name": "CATS Jacob",
+    "school": "Dutch"
+}

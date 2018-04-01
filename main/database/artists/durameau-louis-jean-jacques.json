@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12438,
+            "location": "Institut N\u00e9erlandais Paris",
+            "img": "imgs/art/12438.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/durameau/pellerin.html",
+            "title": "Presumed Portrait of Joseph Pellerin",
+            "author": "DURAMEAU Louis-Jean-Jacques",
+            "technique": "Black chalk and pastel",
+            "painting_type": "portrait",
+            "date": "1768"
+        },
+        {
+            "index": 12439,
+            "location": "Private collection",
+            "img": "imgs/art/12439.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/durameau/study.html",
+            "title": "Profile Study of a Bearded Man",
+            "author": "DURAMEAU Louis-Jean-Jacques",
+            "technique": "Oil on paper mounted on canvas 55 x 41 cm",
+            "painting_type": "study",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1733 Paris d. 1796 Versailles)",
+    "name": "DURAMEAU Louis-Jean-Jacques",
+    "school": "French"
+}

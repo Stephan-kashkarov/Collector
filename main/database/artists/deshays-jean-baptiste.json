@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11447,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11447.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/deshays/egypt.html",
+            "title": "The Flight into Egypt",
+            "author": "DESHAYS Jean-Baptiste",
+            "technique": "Oil sketch on paper 33 x 31 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11448,
+            "location": "Mus\u00e9e Fabre Montpellier",
+            "img": "imgs/art/11448.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/deshays/xanthus.html",
+            "title": "Hector Exposed on the Banks of the Xanthus River",
+            "author": "DESHAYS Jean-Baptiste",
+            "technique": "Oil on canvas 244 x 180 cm",
+            "painting_type": "historical",
+            "date": "1759"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1729 Colleville d. 1765 Paris)",
+    "name": "DESHAYS Jean-Baptiste",
+    "school": "French"
+}

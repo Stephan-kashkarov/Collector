@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 14760,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14760.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/blessing.html",
+            "title": "The Blessing Christ",
+            "author": "GALLEGO Fernando",
+            "technique": "Oil on panel 169 x 132 cm",
+            "painting_type": "religious",
+            "date": "c. 1492"
+        },
+        {
+            "index": 14761,
+            "location": "Provincial Fine Arts Museum Salamanca",
+            "img": "imgs/art/14761.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/catherin.html",
+            "title": "Triptych of St Catherine",
+            "author": "GALLEGO Fernando",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14762,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14762.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/catholic.html",
+            "title": "Madonna of the Catholic Kings",
+            "author": "GALLEGO Fernando",
+            "technique": "Tempera on panel 123 x 112 cm",
+            "painting_type": "religious",
+            "date": "1490-95"
+        },
+        {
+            "index": 14763,
+            "location": "Toledo Museum of Art Toledo Ohio",
+            "img": "imgs/art/14763.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/epiphany.html",
+            "title": "Epiphany",
+            "author": "GALLEGO Fernando",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "c. 1480"
+        },
+        {
+            "index": 14764,
+            "location": "Museo Diocesano Salamanca",
+            "img": "imgs/art/14764.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/flagella.html",
+            "title": "Flagellation",
+            "author": "GALLEGO Fernando",
+            "technique": "Wood 104 x 76 cm",
+            "painting_type": "religious",
+            "date": "c. 1506"
+        },
+        {
+            "index": 14765,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14765.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/martyrdo.html",
+            "title": "The Martyrdom of Saint Catherine",
+            "author": "GALLEGO Fernando",
+            "technique": "Tempera on panel 125 x 109 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 14766,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/14766.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gallego/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "GALLEGO Fernando",
+            "technique": "Tempera on panel 118 x 122 cm",
+            "painting_type": "religious",
+            "date": "c. 1470"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1440 Salamanca d. 1507 Salamanca)",
+    "name": "GALLEGO Fernando",
+    "school": "Spanish"
+}

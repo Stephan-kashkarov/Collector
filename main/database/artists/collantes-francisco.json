@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 9286,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9286.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/b_bush.html",
+            "title": "The Burning Bush",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 116 x 163 cm",
+            "painting_type": "religious",
+            "date": "c. 1634"
+        },
+        {
+            "index": 9287,
+            "location": "Private collection",
+            "img": "imgs/art/9287.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/denial.html",
+            "title": "The Denial of St Peter",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 143 x 101 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9288,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/9288.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/landscap.html",
+            "title": "Landscape with Ruins",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 88 x 112 cm",
+            "painting_type": "landscape",
+            "date": "c. 1634"
+        },
+        {
+            "index": 9289,
+            "location": "Private collection",
+            "img": "imgs/art/9289.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/nymphs.html",
+            "title": "Nymphs Turning the Apulian Shepherd into an Olive Tree",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 128 x 176 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 9290,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/9290.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/onuphriu.html",
+            "title": "St Onuphrius",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 168 x 108 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9291,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/9291.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/collante/vision.html",
+            "title": "The Vision of Ezekiel",
+            "author": "COLLANTES Francisco",
+            "technique": "Oil on canvas 177 x 205 cm",
+            "painting_type": "religious",
+            "date": "1630"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1599 Madrid d. 1656 Madrid)",
+    "name": "COLLANTES Francisco",
+    "school": "Spanish"
+}

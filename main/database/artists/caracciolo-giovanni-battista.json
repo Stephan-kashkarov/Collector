@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 7437,
+            "location": "Private collection",
+            "img": "imgs/art/7437.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/adam_eve.html",
+            "title": "Lamentation of Adam and Eve on the Dead Abel",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 200 x 148 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7438,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7438.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/caiaphas.html",
+            "title": "Christ and Caiaphas",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 73 x 103 cm",
+            "painting_type": "religious",
+            "date": "1611-20"
+        },
+        {
+            "index": 7439,
+            "location": "Cappella San Gennaro Certosa di San Martino Naples",
+            "img": "imgs/art/7439.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/certosa.html",
+            "title": "Scenes from the Life of St Januarius",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1632"
+        },
+        {
+            "index": 7440,
+            "location": "Pio Monte della Misericordia Naples",
+            "img": "imgs/art/7440.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/liberati.html",
+            "title": "Liberation of St Peter",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1615"
+        },
+        {
+            "index": 7441,
+            "location": "Museo Civico Prato",
+            "img": "imgs/art/7441.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/noli_me.html",
+            "title": "Noli me tangere",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 209 x 131 cm",
+            "painting_type": "religious",
+            "date": "c. 1620"
+        },
+        {
+            "index": 7442,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/7442.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/onophriu.html",
+            "title": "St Onophrius",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 180 x 116 cm",
+            "painting_type": "religious",
+            "date": "c. 1625"
+        },
+        {
+            "index": 7443,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/7443.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/salome.html",
+            "title": "Salome",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1615-20"
+        },
+        {
+            "index": 7444,
+            "location": "Private collection",
+            "img": "imgs/art/7444.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/sleeping.html",
+            "title": "Sleeping Cupid",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 95 x 159 cm",
+            "painting_type": "mythological",
+            "date": "1618-22"
+        },
+        {
+            "index": 7445,
+            "location": "Private collection",
+            "img": "imgs/art/7445.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caraccio/youngman.html",
+            "title": "A Young Man",
+            "author": "CARACCIOLO Giovanni Battista",
+            "technique": "Oil on canvas 63 x 50 cm",
+            "painting_type": "portrait",
+            "date": "1605-10"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1578 Napoli d. 1635 Napoli)",
+    "name": "CARACCIOLO Giovanni Battista",
+    "school": "Italian"
+}

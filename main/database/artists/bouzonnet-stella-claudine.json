@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5868,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/5868.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bouzonne/holyfami.html",
+            "title": "Holy Family on the Steps",
+            "author": "BOUZONNET-STELLA Claudine",
+            "technique": "Engraving (state 1)",
+            "painting_type": "religious",
+            "date": "c. 1668"
+        },
+        {
+            "index": 5869,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/5869.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bouzonne/mainchau.html",
+            "title": "Hot Cockles (La Main Chaude)",
+            "author": "BOUZONNET-STELLA Claudine",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "1657"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1636 Lyon d. 1697 Paris)",
+    "name": "BOUZONNET-STELLA Claudine",
+    "school": "French"
+}

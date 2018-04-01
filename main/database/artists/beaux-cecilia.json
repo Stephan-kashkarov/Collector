@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3583,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/3583.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beaux/birds.html",
+            "title": "Charles Sumner Bird and His Sister Edith Bird Bass",
+            "author": "BEAUX Cecilia",
+            "technique": "Oil on canvas 240 x 135 cm",
+            "painting_type": "portrait",
+            "date": "1907"
+        },
+        {
+            "index": 3584,
+            "location": "Smithsonian American Art Museum Washington",
+            "img": "imgs/art/3584.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beaux/drinker.html",
+            "title": "Man with a Cat (Henry Sturgis Drinker)",
+            "author": "BEAUX Cecilia",
+            "technique": "Oil on canvas 122 x 88 cm",
+            "painting_type": "portrait",
+            "date": "1898"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1855 Philadelphia d. 1942 Gloucester)",
+    "name": "BEAUX Cecilia",
+    "school": "American"
+}

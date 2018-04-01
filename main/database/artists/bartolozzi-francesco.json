@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3342,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3342.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bartoloz/bacchant.html",
+            "title": "Bacchante",
+            "author": "BARTOLOZZI Francesco",
+            "technique": "Stipple engraving printed in colours 2nd state 359 x 395 mm",
+            "painting_type": "mythological",
+            "date": "1786"
+        },
+        {
+            "index": 3343,
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "img": "imgs/art/3343.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bartoloz/medicea.html",
+            "title": "Biblioteca Medicea Laurenziana",
+            "author": "BARTOLOZZI Francesco",
+            "technique": "Engraving",
+            "painting_type": "interior",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1727 Firenze d. 1815 Lisboa)",
+    "name": "BARTOLOZZI Francesco",
+    "school": "Italian"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 8280,
+            "location": "Private collection",
+            "img": "imgs/art/8280.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavarozz/aminta.html",
+            "title": "Aminta's Lament",
+            "author": "CAVAROZZI Bartolomeo",
+            "technique": "Oil on canvas 83 x 107 cm",
+            "painting_type": "genre",
+            "date": "1614-15"
+        },
+        {
+            "index": 8281,
+            "location": "Private collection",
+            "img": "imgs/art/8281.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavarozz/holyfami.html",
+            "title": "Holy Family with the Young St John the Baptist",
+            "author": "CAVAROZZI Bartolomeo",
+            "technique": "Oil on canvas 195 x 140 cm",
+            "painting_type": "religious",
+            "date": "c. 1620"
+        },
+        {
+            "index": 8282,
+            "location": "Private collection",
+            "img": "imgs/art/8282.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavarozz/sacrifici.html",
+            "title": "Sacrifice of Isaac",
+            "author": "CAVAROZZI Bartolomeo",
+            "technique": "Oil on canvas 116 x 175 cm",
+            "painting_type": "religious",
+            "date": "c. 1617"
+        },
+        {
+            "index": 8283,
+            "location": "Basilica di San Marco Rome",
+            "img": "imgs/art/8283.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavarozz/ursula.html",
+            "title": "St Ursula and Her Companions with Pope Ciriacus and St Catherine of Alexandria",
+            "author": "CAVAROZZI Bartolomeo",
+            "technique": "Oil on canvas 280 x 220 cm",
+            "painting_type": "religious",
+            "date": "1608"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 Viterbo d. 1625 Roma)",
+    "name": "CAVAROZZI Bartolomeo",
+    "school": "Italian"
+}

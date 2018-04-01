@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 16581,
+            "location": "Museo della Citt\u00e0 Rimini",
+            "img": "imgs/art/16581.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/crucifix.html",
+            "title": "Crucifix",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Painted wood",
+            "painting_type": "religious",
+            "date": "1309"
+        },
+        {
+            "index": 16582,
+            "location": "Private collection",
+            "img": "imgs/art/16582.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/crucifiy.html",
+            "title": "Crucifix",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Tempera on cruciform panel 161 x 130 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 16583,
+            "location": "Private collection",
+            "img": "imgs/art/16583.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/life_chl.html",
+            "title": "Left wing of a diptych: Stories from the Life of the Virgin and Saints",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Tempera on panel gold ground 53 x 35 cm",
+            "painting_type": "religious",
+            "date": "c. 1305"
+        },
+        {
+            "index": 16584,
+            "location": "Private collection",
+            "img": "imgs/art/16584.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/life_chm.html",
+            "title": "Left wing of a diptych (detail)",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Tempera on panel gold ground",
+            "painting_type": "religious",
+            "date": "c. 1305"
+        },
+        {
+            "index": 16585,
+            "location": "Private collection",
+            "img": "imgs/art/16585.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/life_chn.html",
+            "title": "Left wing of a diptych (detail)",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Tempera on panel gold ground",
+            "painting_type": "religious",
+            "date": "c. 1305"
+        },
+        {
+            "index": 16586,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/16586.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/giovanni/rimini/life_chr.html",
+            "title": "Right wing of a diptych: Stories from the Life of Christ",
+            "author": "GIOVANNI DA RIMINI",
+            "technique": "Tempera on panel gold ground 53 x 35 cm",
+            "painting_type": "religious",
+            "date": "c. 1305"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active 1292-1336 in Rimini)",
+    "name": "GIOVANNI DA RIMINI",
+    "school": "Italian"
+}

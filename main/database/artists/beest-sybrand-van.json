@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3664,
+            "location": "Private collection",
+            "img": "imgs/art/3664.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beest/allegory.html",
+            "title": "'Vrouwe Wereld': Allegory of Transience",
+            "author": "BEEST Sybrand van",
+            "technique": "Oil on panel 42 x 71 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 3665,
+            "location": "Private collection",
+            "img": "imgs/art/3665.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beest/market.html",
+            "title": "The Hague Vegetable Market in Winter",
+            "author": "BEEST Sybrand van",
+            "technique": "Oil on panel 63 x 104 cm",
+            "painting_type": "landscape",
+            "date": "c. 1650"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1610 Den Haag d. 1674 Amsterdam)",
+    "name": "BEEST Sybrand van",
+    "school": "Dutch"
+}

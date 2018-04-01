@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 5396,
+            "location": "Private collection",
+            "img": "imgs/art/5396.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bossche/gallery.html",
+            "title": "A Nobleman's Picture Gallery",
+            "author": "BOSSCHE Balthasar van den",
+            "technique": "Oil on canvas 90 x 76 cm",
+            "painting_type": "interior",
+            "date": "-"
+        },
+        {
+            "index": 5397,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5397.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bossche/studio1.html",
+            "title": "Studio of a Sculptor",
+            "author": "BOSSCHE Balthasar van den",
+            "technique": "Oil on canvas 66 x 86 cm",
+            "painting_type": "interior",
+            "date": "1712"
+        },
+        {
+            "index": 5398,
+            "location": "Private collection",
+            "img": "imgs/art/5398.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bossche/studio2.html",
+            "title": "An Artist's Studio",
+            "author": "BOSSCHE Balthasar van den",
+            "technique": "Oil on canvas 90 x 76 cm",
+            "painting_type": "interior",
+            "date": "-"
+        },
+        {
+            "index": 5399,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5399.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bossche/studio3.html",
+            "title": "Studio of an Artist",
+            "author": "BOSSCHE Balthasar van den",
+            "technique": "Oil on canvas 66 x 84 cm",
+            "painting_type": "interior",
+            "date": "1709"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1681 Antwerpen d. 1715 Antwerpen)",
+    "name": "BOSSCHE Balthasar van den",
+    "school": "Flemish"
+}

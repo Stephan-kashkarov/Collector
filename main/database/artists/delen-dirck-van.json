@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 11379,
+            "location": "Private collection",
+            "img": "imgs/art/11379.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/capricci.html",
+            "title": "Architectural Capriccio with Jephthah and His Daughter",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 128 x 196 cm",
+            "painting_type": "landscape",
+            "date": "1633"
+        },
+        {
+            "index": 11380,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/11380.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/company.html",
+            "title": "Distinguished Dinner Company in an Interior",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on oak panel 43 x 69 cm",
+            "painting_type": "genre",
+            "date": "1631"
+        },
+        {
+            "index": 11381,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/11381.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/company1.html",
+            "title": "Distinguished Dinner Company in an Interior (detail)",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on oak panel",
+            "painting_type": "genre",
+            "date": "1631"
+        },
+        {
+            "index": 11382,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/11382.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/conversa.html",
+            "title": "Conversation outside a Castle",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel",
+            "painting_type": "genre",
+            "date": "1636"
+        },
+        {
+            "index": 11383,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11383.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/greathal.html",
+            "title": "The Great Hall of the Binnenhof in The Hague",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 52 x 66 cm",
+            "painting_type": "interior",
+            "date": "1651"
+        },
+        {
+            "index": 11384,
+            "location": "Private collection",
+            "img": "imgs/art/11384.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/imaginar.html",
+            "title": "Interior of an Imaginary Church",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 40 x 59 cm",
+            "painting_type": "interior",
+            "date": "1640s"
+        },
+        {
+            "index": 11385,
+            "location": "Private collection",
+            "img": "imgs/art/11385.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/interior.html",
+            "title": "An Interior with Ladies and Gentlemen Dining",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 124 x 188 cm",
+            "painting_type": "interior",
+            "date": "1629"
+        },
+        {
+            "index": 11386,
+            "location": "Private collection",
+            "img": "imgs/art/11386.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/interiox.html",
+            "title": "Interior Scene",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on oak panel 81 x 109 cm",
+            "painting_type": "interior",
+            "date": "1632"
+        },
+        {
+            "index": 11387,
+            "location": "Private collection",
+            "img": "imgs/art/11387.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/loggia.html",
+            "title": "Elegant Figures in a Loggia",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 52 x 60 cm",
+            "painting_type": "interior",
+            "date": "1635"
+        },
+        {
+            "index": 11388,
+            "location": "Private collection",
+            "img": "imgs/art/11388.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/loggia1.html",
+            "title": "Figures Strolling under a Palace Loggia",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 30 x 44 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 11389,
+            "location": "Philip Hahn Collection New York",
+            "img": "imgs/art/11389.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/palace_c.html",
+            "title": "Palace Courtyard with Figures",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel",
+            "painting_type": "landscape",
+            "date": "1635"
+        },
+        {
+            "index": 11390,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11390.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/delen/tomb.html",
+            "title": "A Family beside the Tomb of Willem I in the Nieuwe Kerk Delft",
+            "author": "DELEN Dirck van",
+            "technique": "Oil on panel 74 x 110 cm",
+            "painting_type": "interior",
+            "date": "1645"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1604/5 Heusden d. 1671 Arnemuiden)",
+    "name": "DELEN Dirck van",
+    "school": "Dutch"
+}

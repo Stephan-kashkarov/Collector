@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 15801,
+            "location": "Private collection",
+            "img": "imgs/art/15801.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gilleman/elder/stilfrui.html",
+            "title": "A Fruit Still-Life against a Landscape",
+            "author": "GILLEMANS Jan Pauwel the Elder",
+            "technique": "Oil on copper 28 x 38 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 15802,
+            "location": "Private collection",
+            "img": "imgs/art/15802.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gilleman/elder/stillife.html",
+            "title": "Still-Life",
+            "author": "GILLEMANS Jan Pauwel the Elder",
+            "technique": "Oil on canvas 55 x 77 cm",
+            "painting_type": "still-life",
+            "date": "1640s"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1618 Antwerpen d. 1675 Antwerpen)",
+    "name": "GILLEMANS Jan Pauwel the Elder",
+    "school": "Flemish"
+}

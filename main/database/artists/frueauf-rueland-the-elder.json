@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14519,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/14519.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frueauf/elder/annunci.html",
+            "title": "The Annunciation",
+            "author": "FRUEAUF Rueland the Elder",
+            "technique": "Tempera on pine panel 70 x 375 cm",
+            "painting_type": "religious",
+            "date": "c. 1495"
+        },
+        {
+            "index": 14520,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/14520.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frueauf/elder/annunci1.html",
+            "title": "The Annunciation (detail)",
+            "author": "FRUEAUF Rueland the Elder",
+            "technique": "Tempera on pine panel",
+            "painting_type": "religious",
+            "date": "c. 1495"
+        },
+        {
+            "index": 14521,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/14521.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frueauf/elder/christ_c.html",
+            "title": "Christ with the Crown of Thorns",
+            "author": "FRUEAUF Rueland the Elder",
+            "technique": "Wood 182 x 116 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1440/45 Passau d. 1507 Passau)",
+    "name": "FRUEAUF Rueland the Elder",
+    "school": "Austrian"
+}

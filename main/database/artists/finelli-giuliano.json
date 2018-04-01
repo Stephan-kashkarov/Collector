@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 13842,
+            "location": "Casa Buonarroti Florence",
+            "img": "imgs/art/13842.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/buonarr.html",
+            "title": "Bust of Michelangelo Buonarroti the Younger",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble life-size",
+            "painting_type": "portrait",
+            "date": "1630"
+        },
+        {
+            "index": 13843,
+            "location": "Casa Buonarroti Florence",
+            "img": "imgs/art/13843.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/buonarro.html",
+            "title": "Bust of Michelangelo Buonarroti the Younger",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble life-size",
+            "painting_type": "portrait",
+            "date": "1630"
+        },
+        {
+            "index": 13844,
+            "location": "Private collection",
+            "img": "imgs/art/13844.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/duglioli.html",
+            "title": "Bust of Maria Barberini Duglioli",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble height 57 cm",
+            "painting_type": "portrait",
+            "date": "1626-27"
+        },
+        {
+            "index": 13845,
+            "location": "San Giovanni Laterano Rome",
+            "img": "imgs/art/13845.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/santorio.html",
+            "title": "Bust of Cardinal Giulio Antonio Santorio",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble life-size",
+            "painting_type": "portrait",
+            "date": "1633-34"
+        },
+        {
+            "index": 13846,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13846.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/scipion.html",
+            "title": "Bust of Scipione Borghese",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble height 98 cm (with socle)",
+            "painting_type": "portrait",
+            "date": "1632"
+        },
+        {
+            "index": 13847,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/13847.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/scipione.html",
+            "title": "Bust of Scipione Borghese",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble height 98 cm (with socle)",
+            "painting_type": "portrait",
+            "date": "1632"
+        },
+        {
+            "index": 13848,
+            "location": "Chapel of Treasury San Gennaro Naples",
+            "img": "imgs/art/13848.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/finelli/st_peter.html",
+            "title": "St Peter",
+            "author": "FINELLI Giuliano",
+            "technique": "Marble life-size",
+            "painting_type": "religious",
+            "date": "1639-40"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1601 Carrara d. 1653 Rome)",
+    "name": "FINELLI Giuliano",
+    "school": "Italian"
+}

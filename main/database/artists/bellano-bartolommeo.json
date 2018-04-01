@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 3715,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3715.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bellano/david.html",
+            "title": "David with the Head of Goliath",
+            "author": "BELLANO Bartolommeo",
+            "technique": "Bronze with oil gilding of later date height 29 cm",
+            "painting_type": "religious",
+            "date": "1470s"
+        },
+        {
+            "index": 3716,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3716.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bellano/david1.html",
+            "title": "David with the Head of Goliath (detail)",
+            "author": "BELLANO Bartolommeo",
+            "technique": "Bronze with oil gilding of later date",
+            "painting_type": "religious",
+            "date": "1470s"
+        },
+        {
+            "index": 3717,
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "img": "imgs/art/3717.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bellano/educatio.html",
+            "title": "Education of Cupid in Vulcan's Forge",
+            "author": "BELLANO Bartolommeo",
+            "technique": "Bronze",
+            "painting_type": "mythological",
+            "date": "1490s"
+        },
+        {
+            "index": 3718,
+            "location": "Museo Nazionale del Bargello Florence",
+            "img": "imgs/art/3718.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bellano/europa.html",
+            "title": "Europa and the Bull",
+            "author": "BELLANO Bartolommeo",
+            "technique": "Bronze height 22 cm",
+            "painting_type": "mythological",
+            "date": "1470-90"
+        },
+        {
+            "index": 3719,
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "img": "imgs/art/3719.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bellano/horses_3.html",
+            "title": "Three Horses",
+            "author": "BELLANO Bartolommeo",
+            "technique": "Bronze",
+            "painting_type": "other",
+            "date": "1490s"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1437 Padova d. 1496 Padova)",
+    "name": "BELLANO Bartolommeo",
+    "school": "Italian"
+}

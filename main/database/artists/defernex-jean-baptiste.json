@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 11110,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/11110.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/defernex/favart.html",
+            "title": "Madame Favart",
+            "author": "DEFERNEX Jean-Baptiste",
+            "technique": "Terracotta height 50 cm",
+            "painting_type": "portrait",
+            "date": "1762"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. ca. 1729 Paris d. 1783 Paris)",
+    "name": "DEFERNEX Jean-Baptiste",
+    "school": "French"
+}

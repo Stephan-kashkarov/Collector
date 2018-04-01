@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 6196,
+            "location": "Private collection",
+            "img": "imgs/art/6196.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bronchor/jan/concert.html",
+            "title": "A Concert",
+            "author": "BRONCHORST Jan Gerritsz van",
+            "technique": "Oil on canvas 120 x 154 cm",
+            "painting_type": "genre",
+            "date": "c 1646"
+        },
+        {
+            "index": 6197,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/6197.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bronchor/jan/merry_vi.html",
+            "title": "Merry Company with a Violinist",
+            "author": "BRONCHORST Jan Gerritsz van",
+            "technique": "Oil on canvas 120 x 148 cm",
+            "painting_type": "genre",
+            "date": "1640"
+        },
+        {
+            "index": 6198,
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "img": "imgs/art/6198.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bronchor/jan/sl_nymph.html",
+            "title": "Sleeping Nymph and Shepherd",
+            "author": "BRONCHORST Jan Gerritsz van",
+            "technique": "Oil on canvas 85 x 116 cm",
+            "painting_type": "mythological",
+            "date": "1645-50"
+        },
+        {
+            "index": 6199,
+            "location": "Private collection",
+            "img": "imgs/art/6199.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bronchor/jan/threegra.html",
+            "title": "The Three Graces",
+            "author": "BRONCHORST Jan Gerritsz van",
+            "technique": "Oil on canvas 179 x 179 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1603 Utrecht d. 1661 Amsterdam)",
+    "name": "BRONCHORST Jan Gerritsz van",
+    "school": "Dutch"
+}

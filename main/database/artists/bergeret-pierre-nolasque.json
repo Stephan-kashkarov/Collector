@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4177,
+            "location": "Private collection",
+            "img": "imgs/art/4177.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergeret/aretino.html",
+            "title": "Aretino in the Studio of Tintoretto",
+            "author": "BERGERET Pierre-Nolasque",
+            "technique": "Oil on canvas 59 x 49 cm",
+            "painting_type": "portrait",
+            "date": "c. 1822"
+        },
+        {
+            "index": 4178,
+            "location": "Mus\u00e9e des Beaux-Arts Bordeaux",
+            "img": "imgs/art/4178.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bergeret/charles5.html",
+            "title": "Charles V Picking up Titian's Paintbrush",
+            "author": "BERGERET Pierre-Nolasque",
+            "technique": "Oil on canvas 96 x 129 cm",
+            "painting_type": "genre",
+            "date": "1808"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1782 Bordeaux d. 1863 Paris)",
+    "name": "BERGERET Pierre-Nolasque",
+    "school": "French"
+}

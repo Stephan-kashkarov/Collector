@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5759,
+            "location": "Schloss Sanssouci Berlin",
+            "img": "imgs/art/5759.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boullogn/louis_y/earth.html",
+            "title": "Earth",
+            "author": "BOULLOGNE Louis the Younger",
+            "technique": "Oil on copper 52 x 45 cm",
+            "painting_type": "mythological",
+            "date": "1698"
+        },
+        {
+            "index": 5760,
+            "location": "Private collection",
+            "img": "imgs/art/5760.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boullogn/louis_y/venus_vu.html",
+            "title": "Venus in the Forge of Vulcan",
+            "author": "BOULLOGNE Louis the Younger",
+            "technique": "Oil on canvas 152 x 172 cm",
+            "painting_type": "mythological",
+            "date": "1723"
+        },
+        {
+            "index": 5761,
+            "location": "Private collection",
+            "img": "imgs/art/5761.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boullogn/louis_y/venusvul.html",
+            "title": "Venus Commanding Vulcan to Make Arms for Aeneas",
+            "author": "BOULLOGNE Louis the Younger",
+            "technique": "Oil on canvas 68 x 56 cm",
+            "painting_type": "mythological",
+            "date": "1703"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1654 Paris d. 1733 Paris)",
+    "name": "BOULLOGNE Louis the Younger",
+    "school": "French"
+}

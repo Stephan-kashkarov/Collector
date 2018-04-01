@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 11666,
+            "location": "Galleria d'Arte Antica Udine",
+            "img": "imgs/art/11666.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/domenico/tolmezzo/stlucy.html",
+            "title": "St Lucy Altarpiece (Pala di S. Lucia)",
+            "author": "DOMENICO DA TOLMEZZO",
+            "technique": "Wood",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1448 Canale di Gorto d. 1507 Udine)",
+    "name": "DOMENICO DA TOLMEZZO",
+    "school": "Italian"
+}

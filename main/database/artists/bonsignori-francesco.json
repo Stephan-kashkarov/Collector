@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5045,
+            "location": "National Gallery London",
+            "img": "imgs/art/5045.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonsigno/portman.html",
+            "title": "Portrait of an Elderly Man",
+            "author": "BONSIGNORI Francesco",
+            "technique": "Tempera on wood 42 x 30 cm",
+            "painting_type": "portrait",
+            "date": "1487"
+        },
+        {
+            "index": 5046,
+            "location": "Graphische Sammlung Albertina Vienna",
+            "img": "imgs/art/5046.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bonsigno/portman1.html",
+            "title": "Portrait of a Man",
+            "author": "BONSIGNORI Francesco",
+            "technique": "Black chalk on off-white paper 361 x 262 mm",
+            "painting_type": "portrait",
+            "date": "c. 1487"
+        },
+        {
+            "index": 5047,
+            "location": "Museo di Castelvecchio Verona",
+            "img": "imgs/art/5047.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bonsigno/virgin.html",
+            "title": "Virgin with Child",
+            "author": "BONSIGNORI Francesco",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1455 Verona d. 1519 Caldiero)",
+    "name": "BONSIGNORI Francesco",
+    "school": "Italian"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 279,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/279.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alesso/annuncia.html",
+            "title": "Annunciation",
+            "author": "ALESSO DI BENOZZO",
+            "technique": "Tempera and gold on wood 41 x 36 cm",
+            "painting_type": "religious",
+            "date": "1480-1500"
+        },
+        {
+            "index": 280,
+            "location": "Private collection",
+            "img": "imgs/art/280.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alesso/crucifix.html",
+            "title": "Crucifixion",
+            "author": "ALESSO DI BENOZZO",
+            "technique": "Oil on panel 54 x 41 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 281,
+            "location": "Private collection",
+            "img": "imgs/art/281.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alesso/crucifiz.html",
+            "title": "Crucifixion (detail)",
+            "author": "ALESSO DI BENOZZO",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 282,
+            "location": "Private collection",
+            "img": "imgs/art/282.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alesso/madchild.html",
+            "title": "Madonna and Child",
+            "author": "ALESSO DI BENOZZO",
+            "technique": "Tempera on panel 34 x 25 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 283,
+            "location": "Mus\u00e9e d'art et d'histoire Geneva",
+            "img": "imgs/art/283.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/alesso/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "ALESSO DI BENOZZO",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1473 Firenze d. 1528 Firenze)",
+    "name": "ALESSO DI BENOZZO",
+    "school": "Italian"
+}

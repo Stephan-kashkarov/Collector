@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 172,
+            "location": "State Russian Museum St. Petersburg",
+            "img": "imgs/art/172.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/aivazovs/9th_wave.html",
+            "title": "The Ninth Wave",
+            "author": "AIVAZOVSKY Ivan Konstantinovich",
+            "technique": "Oil on canvas 221 \u00d7 332 cm",
+            "painting_type": "landscape",
+            "date": "1850"
+        },
+        {
+            "index": 173,
+            "location": "Private collection",
+            "img": "imgs/art/173.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aivazovs/astrong.html",
+            "title": "A Strong Wind",
+            "author": "AIVAZOVSKY Ivan Konstantinovich",
+            "technique": "Pencil and gouache on paper 230 x 327 mm",
+            "painting_type": "landscape",
+            "date": "1856"
+        },
+        {
+            "index": 174,
+            "location": "Private collection",
+            "img": "imgs/art/174.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/aivazovs/shipwrec.html",
+            "title": "Shipwreck",
+            "author": "AIVAZOVSKY Ivan Konstantinovich",
+            "technique": "Pencil and gouache on paper 230 x 327 mm",
+            "painting_type": "landscape",
+            "date": "1856"
+        },
+        {
+            "index": 175,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/175.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/aivazovs/stormy.html",
+            "title": "Ship in the Stormy Sea",
+            "author": "AIVAZOVSKY Ivan Konstantinovich",
+            "technique": "Oil on canvas 63 x 97 cm",
+            "painting_type": "landscape",
+            "date": "1887"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1817 Feodosiya d. 1900 Feodosiya)",
+    "name": "AIVAZOVSKY Ivan Konstantinovich",
+    "school": "Russian"
+}

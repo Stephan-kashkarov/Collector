@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3952,
+            "location": "Private collection",
+            "img": "imgs/art/3952.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bello/sacracon.html",
+            "title": "Sacra Conversazione",
+            "author": "BELLO Marco",
+            "technique": "Oil on panel 64 x 84 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3953,
+            "location": "Private collection",
+            "img": "imgs/art/3953.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bello/virgin_c.html",
+            "title": "Virgin and Child",
+            "author": "BELLO Marco",
+            "technique": "Oil on canvas 60 x 50 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1470 Venezia d. 1523 Udine)",
+    "name": "BELLO Marco",
+    "school": "Italian"
+}

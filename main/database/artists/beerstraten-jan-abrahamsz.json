@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 3649,
+            "location": "Private collection",
+            "img": "imgs/art/3649.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/capricci.html",
+            "title": "Capriccio of a Mediterranean Harbour",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on canvas 84 x 114 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3650,
+            "location": "Private collection",
+            "img": "imgs/art/3650.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/coastal.html",
+            "title": "Coastal Landscape",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on panel 56 x 75 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3651,
+            "location": "Private collection",
+            "img": "imgs/art/3651.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/galley.html",
+            "title": "Galley in front of a Mediterranean Coast",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on panel 50 x 77 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3652,
+            "location": "Private collection",
+            "img": "imgs/art/3652.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/harbour.html",
+            "title": "Mediterranean Harbour with the Dutch Vessel Profeet Elias at Anchor",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on oak panel 89 x 122 cm",
+            "painting_type": "landscape",
+            "date": "1650"
+        },
+        {
+            "index": 3653,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/3653.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/nieukoop.html",
+            "title": "Village of Nieukoop in Winter with Child Funeral",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on canvas 915 x 1288 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3654,
+            "location": "Private collection",
+            "img": "imgs/art/3654.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/shipwrec.html",
+            "title": "Shipwreck in Stormy Seas near a Rocky Coast",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on oak panel 70 x 91 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3655,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/3655.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/abrahams/skating.html",
+            "title": "Skating at Sloten near Amsterdam",
+            "author": "BEERSTRATEN Jan Abrahamsz.",
+            "technique": "Oil on canvas 92 x 131 cm",
+            "painting_type": "landscape",
+            "date": "1660-65"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1622 Amsterdam d. 1666 Amsterdam)",
+    "name": "BEERSTRATEN Jan Abrahamsz.",
+    "school": "Flemish"
+}

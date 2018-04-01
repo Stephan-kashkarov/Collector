@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 4222,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/4222.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bernardh/madonna.html",
+            "title": "Madonna Enthroned with Saints",
+            "author": "BERNARDINO DEL SIGNORACCIO",
+            "technique": "Tempera on wood",
+            "painting_type": "religious",
+            "date": "1495"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. 1460 Pistoia d. ca. 1532 Pistoia)",
+    "name": "BERNARDINO DEL SIGNORACCIO",
+    "school": "Italian"
+}

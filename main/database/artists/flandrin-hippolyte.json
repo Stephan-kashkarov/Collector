@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13884,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/13884.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/flandrin/man_sea.html",
+            "title": "Young Man by the Sea",
+            "author": "FLANDRIN Hippolyte",
+            "technique": "Oil on canvas 98 x 124 cm",
+            "painting_type": "other",
+            "date": "1836"
+        },
+        {
+            "index": 13885,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/13885.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/flandrin/napoleon.html",
+            "title": "Napol\u00e9on III Emperor of France",
+            "author": "FLANDRIN Hippolyte",
+            "technique": "Oil on canvas 22 x 19 cm",
+            "painting_type": "portrait",
+            "date": "1860-61"
+        },
+        {
+            "index": 13886,
+            "location": "Mus\u00e9e des Beaux-Arts Lyon",
+            "img": "imgs/art/13886.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/flandrin/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "FLANDRIN Hippolyte",
+            "technique": "Oil on canvas 172 x 258 cm",
+            "painting_type": "religious",
+            "date": "1842"
+        },
+        {
+            "index": 13887,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/13887.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/flandrin/portrait.html",
+            "title": "Portrait of Madame Flandrin",
+            "author": "FLANDRIN Hippolyte",
+            "technique": "Oil on canvas 83 x 66 cm",
+            "painting_type": "portrait",
+            "date": "1846"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1809 Lyon d. 1864 Paris)",
+    "name": "FLANDRIN Hippolyte",
+    "school": "French"
+}

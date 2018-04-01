@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13836,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/13836.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/filloeul/bubbles.html",
+            "title": "Soap Bubbles",
+            "author": "FILLOEUL Pierre",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "c. 1739"
+        },
+        {
+            "index": 13837,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13837.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/filloeul/h_cards.html",
+            "title": "House of Cards",
+            "author": "FILLOEUL Pierre",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "1737"
+        },
+        {
+            "index": 13838,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13838.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/filloeul/woman.html",
+            "title": "Woman Taking Tea",
+            "author": "FILLOEUL Pierre",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "1737"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1696 Abbeville d. after 1754 Paris)",
+    "name": "FILLOEUL Pierre",
+    "school": "French"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 164,
+            "location": "Duomo Arezzo",
+            "img": "imgs/art/164.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/agostino/tarlati.html",
+            "title": "Monument to Bishop Guido Tarlati",
+            "author": "AGOSTINO DI GIOVANNI",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1327-30"
+        },
+        {
+            "index": 165,
+            "location": "Duomo Arezzo",
+            "img": "imgs/art/165.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/agostino/tarlati1.html",
+            "title": "Monument to Bishop Guido Tarlati (detail)",
+            "author": "AGOSTINO DI GIOVANNI",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1327-30"
+        },
+        {
+            "index": 166,
+            "location": "Duomo Arezzo",
+            "img": "imgs/art/166.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/agostino/tarlati2.html",
+            "title": "Monument to Bishop Guido Tarlati",
+            "author": "AGOSTINO DI GIOVANNI",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1327-30"
+        },
+        {
+            "index": 167,
+            "location": "Duomo Arezzo",
+            "img": "imgs/art/167.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/agostino/tarlati3.html",
+            "title": "Monument to Bishop Guido Tarlati",
+            "author": "AGOSTINO DI GIOVANNI",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1327-30"
+        },
+        {
+            "index": 168,
+            "location": "Duomo Arezzo",
+            "img": "imgs/art/168.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/a/agostino/tarlati4.html",
+            "title": "Monument to Bishop Guido Tarlati",
+            "author": "AGOSTINO DI GIOVANNI",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1327-30"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active 1310-1347 in Siena)",
+    "name": "AGOSTINO DI GIOVANNI",
+    "school": "Italian"
+}

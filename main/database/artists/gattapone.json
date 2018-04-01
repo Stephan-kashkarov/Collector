@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 14888,
+            "location": "Collegio di Spagna Bologna",
+            "img": "imgs/art/14888.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi1.html",
+            "title": "Exterior view",
+            "author": "GATTAPONE",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1365-70"
+        },
+        {
+            "index": 14889,
+            "location": "Collegio di Spagna Bologna",
+            "img": "imgs/art/14889.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi2.html",
+            "title": "Interior view",
+            "author": "GATTAPONE",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1365-70"
+        },
+        {
+            "index": 14890,
+            "location": "Collegio di Spagna Bologna",
+            "img": "imgs/art/14890.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gattapon/collegi3.html",
+            "title": "Interior view",
+            "author": "GATTAPONE",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1365-70"
+        },
+        {
+            "index": 14891,
+            "location": "Rocca Albornoziana Spoleto",
+            "img": "imgs/art/14891.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gattapon/rocca1.html",
+            "title": "General view",
+            "author": "GATTAPONE",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1362-70"
+        },
+        {
+            "index": 14892,
+            "location": "Rocca Albornoziana Spoleto",
+            "img": "imgs/art/14892.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gattapon/rocca2.html",
+            "title": "General view",
+            "author": "GATTAPONE",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1362-70"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(b. ca. 1300 Gubbio d. 1383 Gubbio)",
+    "name": "GATTAPONE",
+    "school": "Italian"
+}

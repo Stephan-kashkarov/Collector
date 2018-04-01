@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 10877,
+            "location": "Mus\u00e9e des Beaux-Arts Orl\u00e9ans",
+            "img": "imgs/art/10877.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dauzats/algeria.html",
+            "title": "Passage of the Iron Gates in Algeria",
+            "author": "DAUZATS Adrien",
+            "technique": "Oil on canvas 150 x 130 cm",
+            "painting_type": "landscape",
+            "date": "1840"
+        },
+        {
+            "index": 10878,
+            "location": "Private collection",
+            "img": "imgs/art/10878.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dauzats/cairo.html",
+            "title": "Mosque of Cairo",
+            "author": "DAUZATS Adrien",
+            "technique": "Oil on canvas 35 x 27 cm",
+            "painting_type": "landscape",
+            "date": "1840"
+        },
+        {
+            "index": 10879,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/10879.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dauzats/giralda.html",
+            "title": "The Giralda Seville",
+            "author": "DAUZATS Adrien",
+            "technique": "Oil on paper laid down on canvas 21 x 30 cm",
+            "painting_type": "landscape",
+            "date": "1836-37"
+        },
+        {
+            "index": 10880,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/10880.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dauzats/haguenau.html",
+            "title": "Church of Saint-Georges in Haguenau",
+            "author": "DAUZATS Adrien",
+            "technique": "Drawing",
+            "painting_type": "study",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1804 Bordeaux d. 1868 Paris)",
+    "name": "DAUZATS Adrien",
+    "school": "French"
+}

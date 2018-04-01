@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10436,
+            "location": "painting",
+            "img": "imgs/art/10436.jpg",
+            "form": "French",
+            "url": "historical",
+            "title": "The Fight between the \"\"Lys\"\" and the \"\"Gloire\"\" against the \"\"Cumberland\"\"\"1827\"Oil on canvas 147 x 114 cm",
+            "author": "CR\u00c9PIN Louis Philippe",
+            "technique": "https://www.wga.hu/html/c/crepin/battlesc.html",
+            "painting_type": "1801-1850",
+            "date": "Private collection"
+        },
+        {
+            "index": 10437,
+            "location": "Private collection",
+            "img": "imgs/art/10437.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/crepin/boarding.html",
+            "title": "A Boarding Scene",
+            "author": "CR\u00c9PIN Louis Philippe",
+            "technique": "Oil on canvas 147 x 114 cm",
+            "painting_type": "historical",
+            "date": "-"
+        }
+    ],
+    "timeframe": "",
+    "life": "(b. 1772 Paris d. 1851 Paris)",
+    "name": "CR\u00c9PIN Louis Philippe",
+    "school": ""
+}

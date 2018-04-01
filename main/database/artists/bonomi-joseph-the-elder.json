@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 5041,
+            "location": "Packington Hall Great Packington Warwickshire",
+            "img": "imgs/art/5041.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bonomi/packing1.html",
+            "title": "Pompeian Gallery",
+            "author": "BONOMI Joseph the Elder",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "from 1782"
+        },
+        {
+            "index": 5042,
+            "location": "Packington Hall Great Packington Warwickshire",
+            "img": "imgs/art/5042.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bonomi/packing2.html",
+            "title": "St. James's Church: exterior view",
+            "author": "BONOMI Joseph the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1790"
+        },
+        {
+            "index": 5043,
+            "location": "Packington Hall Great Packington Warwickshire",
+            "img": "imgs/art/5043.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/bonomi/packing3.html",
+            "title": "St. James's Church: interior view",
+            "author": "BONOMI Joseph the Elder",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1790"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1739 Roma d. 1808 London)",
+    "name": "BONOMI Joseph the Elder",
+    "school": "English"
+}

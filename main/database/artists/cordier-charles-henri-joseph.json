@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 9451,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/9451.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/1sudan1.html",
+            "title": "Said Abdullah of the Mayac Kingdom of the Darfur (Sudan)",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze height 51 cm (with base)",
+            "painting_type": "portrait",
+            "date": "1848"
+        },
+        {
+            "index": 9452,
+            "location": "Museum of Art Rhode Island School of Design Providence",
+            "img": "imgs/art/9452.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/1sudan2.html",
+            "title": "African Venus",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze height 51 cm (with base)",
+            "painting_type": "portrait",
+            "date": "1851"
+        },
+        {
+            "index": 9453,
+            "location": "Walters Art Museum Baltimore",
+            "img": "imgs/art/9453.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/1sudan3.html",
+            "title": "African Venus",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze height 50 cm (with base)",
+            "painting_type": "portrait",
+            "date": "1851"
+        },
+        {
+            "index": 9454,
+            "location": "Mus\u00e9e des Beaux-Arts Troyes",
+            "img": "imgs/art/9454.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/capress.html",
+            "title": "La Juivre d'Alger (The Jewish Woman of Algiers)",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze enameled bronze marble",
+            "painting_type": "portrait",
+            "date": "1872"
+        },
+        {
+            "index": 9455,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9455.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/capresse.html",
+            "title": "La Capresse des Colonies",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze height 96 cm (overall)",
+            "painting_type": "portrait",
+            "date": "1851"
+        },
+        {
+            "index": 9456,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9456.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/juivre1.html",
+            "title": "La Juivre d'Alger (The Jewish Woman of Algiers)",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Onyx-marble bronze 90 cm (overall)",
+            "painting_type": "portrait",
+            "date": "1862"
+        },
+        {
+            "index": 9457,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/9457.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/juivre1a.html",
+            "title": "La Juivre d'Alger (detail)",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Onyx-marble bronze",
+            "painting_type": "portrait",
+            "date": "1862"
+        },
+        {
+            "index": 9458,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9458.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/juivre2.html",
+            "title": "La Capresse des Colonies (The Goat Tender of the Colonies)",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Silvered bronze gilt bronze and onyx-marble height 97 cm",
+            "painting_type": "portrait",
+            "date": "1861"
+        },
+        {
+            "index": 9459,
+            "location": "Private collection",
+            "img": "imgs/art/9459.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/love_one.html",
+            "title": "Love One Another",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze mid-brown patina 51 x 40 cm",
+            "painting_type": "genre",
+            "date": "1867"
+        },
+        {
+            "index": 9460,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9460.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/negro.html",
+            "title": "Negro of the Sudan",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze and onyx porphyry plynth height 98 cm",
+            "painting_type": "portrait",
+            "date": "1857"
+        },
+        {
+            "index": 9461,
+            "location": "Private collection",
+            "img": "imgs/art/9461.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/youngaby.html",
+            "title": "Young Abyssinian Woman",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Bronze height 60 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9462,
+            "location": "Private collection",
+            "img": "imgs/art/9462.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/cordierc/youngirl.html",
+            "title": "Young Girl from the Environs of Rome",
+            "author": "CORDIER Charles-Henri-Joseph",
+            "technique": "Tinted white marble height 80 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1827 Cambrai d. 1905 Algiers)",
+    "name": "CORDIER Charles-Henri-Joseph",
+    "school": "French"
+}

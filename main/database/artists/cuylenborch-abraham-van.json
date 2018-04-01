@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 10589,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/10589.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cuylenbo/bacchus.html",
+            "title": "Bacchus and Nymphs in Landscape",
+            "author": "CUYLENBORCH Abraham van",
+            "technique": "Oil on panel. 58 x 72 cm",
+            "painting_type": "mythological",
+            "date": "c. 1645"
+        },
+        {
+            "index": 10590,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/10590.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cuylenbo/bacchus1.html",
+            "title": "Bacchus and Nymphs in Landscape (detail)",
+            "author": "CUYLENBORCH Abraham van",
+            "technique": "Oil on panel",
+            "painting_type": "mythological",
+            "date": "c. 1645"
+        },
+        {
+            "index": 10591,
+            "location": "Galleria Borghese Rome",
+            "img": "imgs/art/10591.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cuylenbo/dianabat.html",
+            "title": "Diana Bathing",
+            "author": "CUYLENBORCH Abraham van",
+            "technique": "Oil on panel. 59 x 70 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 10592,
+            "location": "Private collection",
+            "img": "imgs/art/10592.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cuylenbo/diananym.html",
+            "title": "Diana and Her Nymphs",
+            "author": "CUYLENBORCH Abraham van",
+            "technique": "Oil on panel 35 x 49 cm",
+            "painting_type": "mythological",
+            "date": "1656"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1610 Utrecht d. 1658 Utrecht)",
+    "name": "CUYLENBORCH Abraham van",
+    "school": "Dutch"
+}

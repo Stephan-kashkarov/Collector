@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4881,
+            "location": "Church of the Monastery of Jesus Set\u00fabal",
+            "img": "imgs/art/4881.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/boitac/setubal1.html",
+            "title": "Interior view",
+            "author": "BOITAC Diogo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1490-1510"
+        },
+        {
+            "index": 4882,
+            "location": "Church of the Monastery of Jesus Set\u00fabal",
+            "img": "imgs/art/4882.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/boitac/setubal2.html",
+            "title": "Interior view",
+            "author": "BOITAC Diogo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1490-95"
+        },
+        {
+            "index": 4883,
+            "location": "Church of the Monastery of Jesus Set\u00fabal",
+            "img": "imgs/art/4883.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/boitac/setubal3.html",
+            "title": "Interior view",
+            "author": "BOITAC Diogo",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1490-95"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1460 d. ca. 1528 Batalha)",
+    "name": "BOITAC Diogo",
+    "school": "Portuguese"
+}

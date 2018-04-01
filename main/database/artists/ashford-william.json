@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 2737,
+            "location": "Private collection",
+            "img": "imgs/art/2737.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ashford/kilarney.html",
+            "title": "View of Killarney",
+            "author": "ASHFORD William",
+            "technique": "Oil on canvas 69 x 99 cm",
+            "painting_type": "landscape",
+            "date": "1778"
+        },
+        {
+            "index": 2738,
+            "location": "Private collection",
+            "img": "imgs/art/2738.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ashford/killarn1.html",
+            "title": "A View of Killarney with the Passage to the Upper Lake",
+            "author": "ASHFORD William",
+            "technique": "Oil on canvas 97 x 126 cm",
+            "painting_type": "landscape",
+            "date": "c. 1779"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. ca. 1746 Birmingham d. 1824 Dublin)",
+    "name": "ASHFORD William",
+    "school": "Irish"
+}

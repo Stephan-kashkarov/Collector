@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 7446,
+            "location": "Private collection",
+            "img": "imgs/art/7446.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/carados/amenaide.html",
+            "title": "Amenaide the Operatic Heroine",
+            "author": "CARADOSSI Vittorio",
+            "technique": "White marble height 110 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 7447,
+            "location": "Private collection",
+            "img": "imgs/art/7447.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/carados/shooting.html",
+            "title": "Shooting Stars",
+            "author": "CARADOSSI Vittorio",
+            "technique": "Carrara marble height 154 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1861 Firenze d. 1918 Firenze)",
+    "name": "CARADOSSI Vittorio",
+    "school": "Italian"
+}

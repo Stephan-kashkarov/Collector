@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8278,
+            "location": "Private collection",
+            "img": "imgs/art/8278.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavalori/portrait.html",
+            "title": "Portrait of a Seated Man Holding a Book",
+            "author": "CAVALORI Mirabello",
+            "technique": "Oil on panel 119 x 92 cm",
+            "painting_type": "portrait",
+            "date": "1561-65"
+        },
+        {
+            "index": 8279,
+            "location": "Palazzo Vecchio Florence",
+            "img": "imgs/art/8279.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cavalori/studiolo.html",
+            "title": "Wool Factory",
+            "author": "CAVALORI Mirabello",
+            "technique": "Oil on slate 117 x 85 cm",
+            "painting_type": "historical",
+            "date": "1570-72"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1535 Salincorno d. 1572 Firenze)",
+    "name": "CAVALORI Mirabello",
+    "school": "Italian"
+}

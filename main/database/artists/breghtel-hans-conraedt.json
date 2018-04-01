@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6057,
+            "location": "Victoria and Albert Museum London",
+            "img": "imgs/art/6057.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/b/breghtel/clock.html",
+            "title": "Clock",
+            "author": "BREGHTEL Hans Conraedt",
+            "technique": "Silver and silver-gilt pierced embossed filigree height 92 cm",
+            "painting_type": "other",
+            "date": "1665-70"
+        },
+        {
+            "index": 6058,
+            "location": "Kremlin Museum Moscow",
+            "img": "imgs/art/6058.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/b/breghtel/sconce.html",
+            "title": "Sconce",
+            "author": "BREGHTEL Hans Conraedt",
+            "technique": "Silver parcel-gilt height 93 cm",
+            "painting_type": "other",
+            "date": "1647"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1608 N\u00fcrnberg d. 1675 Den Haag)",
+    "name": "BREGHTEL Hans Conraedt",
+    "school": "German"
+}

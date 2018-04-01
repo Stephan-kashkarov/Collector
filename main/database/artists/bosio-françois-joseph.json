@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 5360,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/5360.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/amelie1.html",
+            "title": "Marie-Am\u00e9lie Queen of the French",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Marble height 83 cm",
+            "painting_type": "portrait",
+            "date": "1841"
+        },
+        {
+            "index": 5361,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/5361.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/amelie2.html",
+            "title": "Marie-Am\u00e9lie Queen of the French (detail)",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Marble",
+            "painting_type": "portrait",
+            "date": "1841"
+        },
+        {
+            "index": 5362,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/5362.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/amelie3.html",
+            "title": "Queen Marie-Am\u00e9lie",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Plaster",
+            "painting_type": "portrait",
+            "date": "1841"
+        },
+        {
+            "index": 5363,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/5363.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/aristaeu.html",
+            "title": "Aristaeus God of the Gardens",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Marble height 216 cm",
+            "painting_type": "mythological",
+            "date": "1817"
+        },
+        {
+            "index": 5364,
+            "location": "Cour Puget Palais du Louvre Paris",
+            "img": "imgs/art/5364.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/hercules.html",
+            "title": "Hercules Fighting Achelous Transformed into a Serpent",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1824"
+        },
+        {
+            "index": 5365,
+            "location": "Private collection",
+            "img": "imgs/art/5365.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/josephin.html",
+            "title": "Bust of Josephine",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Plaster height 72 cm",
+            "painting_type": "portrait",
+            "date": "c. 1809"
+        },
+        {
+            "index": 5366,
+            "location": "Place des Victoires Paris",
+            "img": "imgs/art/5366.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/louis14.html",
+            "title": "Louis XIV",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Bronze",
+            "painting_type": "portrait",
+            "date": "1816-22"
+        },
+        {
+            "index": 5367,
+            "location": "Mus\u00e9e Calvet Avignon",
+            "img": "imgs/art/5367.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bosio/francois/young_in.html",
+            "title": "Young Indian Woman Wrapping a Shell-Fringed Band round her Leg",
+            "author": "BOSIO Fran\u00e7ois-Joseph",
+            "technique": "Marble height 108 cm",
+            "painting_type": "other",
+            "date": "1845"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1768 Monaco d. 1845 Paris)",
+    "name": "BOSIO Fran\u00e7ois-Joseph",
+    "school": "French"
+}

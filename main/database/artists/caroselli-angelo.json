@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 7741,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/7741.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/egypt.html",
+            "title": "Rest on the Flight into Egypt",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on canvas 122 x 144 cm",
+            "painting_type": "religious",
+            "date": "1630-45"
+        },
+        {
+            "index": 7742,
+            "location": "Private collection",
+            "img": "imgs/art/7742.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/holyfami.html",
+            "title": "The Holy Family with St Dorothy",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on panel 53 x 46 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7743,
+            "location": "Private collection",
+            "img": "imgs/art/7743.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/magdalen.html",
+            "title": "Penitent Magdalen",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on canvas 118 x 169 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7744,
+            "location": "San Diego Museum of Art San Diego",
+            "img": "imgs/art/7744.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/magdalex.html",
+            "title": "The Penitent Magdalen or Vanitas",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on panel 50 x 39 cm",
+            "painting_type": "religious",
+            "date": "1609-11"
+        },
+        {
+            "index": 7745,
+            "location": "Private collection",
+            "img": "imgs/art/7745.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/virgchil.html",
+            "title": "Virgin and Child with the Infant St John the Baptist",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on canvas oval 53 x 62 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 7746,
+            "location": "Private collection",
+            "img": "imgs/art/7746.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/carosell/virgin_c.html",
+            "title": "The Virgin and Child with Sts Elizabeth and the Infant John the Baptist",
+            "author": "CAROSELLI Angelo",
+            "technique": "Oil on panel 28 x 20 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1585 Roma d. 1652 Roma)",
+    "name": "CAROSELLI Angelo",
+    "school": "Italian"
+}

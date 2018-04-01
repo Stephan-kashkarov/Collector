@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11508,
+            "location": "Cathedral Schio",
+            "img": "imgs/art/11508.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/diedo/schio1.html",
+            "title": "Exterior view",
+            "author": "DIEDO Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1805"
+        },
+        {
+            "index": 11509,
+            "location": "Cathedral Schio",
+            "img": "imgs/art/11509.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/d/diedo/schio2.html",
+            "title": "Exterior view",
+            "author": "DIEDO Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1805"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1772 Venezia d. 1847 Venezia)",
+    "name": "DIEDO Antonio",
+    "school": "Italian"
+}

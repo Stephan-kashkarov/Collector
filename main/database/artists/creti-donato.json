@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 10488,
+            "location": "Palazzo d'Accursio Bologna",
+            "img": "imgs/art/10488.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/achilles.html",
+            "title": "Achilles Handing over to Chiron",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas 125 x 163 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 10489,
+            "location": "Palazzo d'Accursio Bologna",
+            "img": "imgs/art/10489.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/charity.html",
+            "title": "The Charity",
+            "author": "CRETI Donato",
+            "technique": "Wood diameter: 79 cm",
+            "painting_type": "mythological",
+            "date": "1745"
+        },
+        {
+            "index": 10490,
+            "location": "Palazzo d'Accursio Bologna",
+            "img": "imgs/art/10490.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/mercury.html",
+            "title": "Mercury and Paris",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas 272 x 176 cm",
+            "painting_type": "mythological",
+            "date": "1710s"
+        },
+        {
+            "index": 10491,
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "img": "imgs/art/10491.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/pepoli.html",
+            "title": "Alexander the Great Cuts the Gordian Knot",
+            "author": "CRETI Donato",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1710"
+        },
+        {
+            "index": 10492,
+            "location": "Palazzo Pepoli Campogrande Bologna",
+            "img": "imgs/art/10492.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/pepoli1.html",
+            "title": "Alexander the Great Cuts the Gordian Knot (detail)",
+            "author": "CRETI Donato",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1710"
+        },
+        {
+            "index": 10493,
+            "location": "Private collection",
+            "img": "imgs/art/10493.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/perseus.html",
+            "title": "Perseus and Andromeda",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas 52 x 35 cm",
+            "painting_type": "mythological",
+            "date": "1710s"
+        },
+        {
+            "index": 10494,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/10494.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/sibyl.html",
+            "title": "Sibyl",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas 44 x 38 cm",
+            "painting_type": "mythological",
+            "date": "1718-22"
+        },
+        {
+            "index": 10495,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/10495.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/sibyl1.html",
+            "title": "Sibyl (detail)",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "1718-22"
+        },
+        {
+            "index": 10496,
+            "location": "Private collection",
+            "img": "imgs/art/10496.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/creti/st_peter.html",
+            "title": "Penitent St Peter",
+            "author": "CRETI Donato",
+            "technique": "Oil on canvas 62 x 51 cm",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1671 Cremona d. 1749 Bologna)",
+    "name": "CRETI Donato",
+    "school": "Italian"
+}

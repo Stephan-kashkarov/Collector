@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 2900,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/2900.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/granida.html",
+            "title": "Granida and Daifilo",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 125 x 162 cm",
+            "painting_type": "mythological",
+            "date": "c. 1635"
+        },
+        {
+            "index": 2901,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/2901.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/hearing.html",
+            "title": "The Hearing",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on wood 73 x 62 cm",
+            "painting_type": "mythological",
+            "date": "c. 1635"
+        },
+        {
+            "index": 2902,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/2902.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/p_lutma.html",
+            "title": "Portrait of Johannes Lutma",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on panel 91 x 71 cm",
+            "painting_type": "portrait",
+            "date": "1639-51"
+        },
+        {
+            "index": 2903,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/2903.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/port_old.html",
+            "title": "Portrait of an Old Woman",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on wood 71 x 61 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 2904,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/2904.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/port_wom.html",
+            "title": "Portrait of a Woman",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 128 x 99 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 2905,
+            "location": "Private collection",
+            "img": "imgs/art/2905.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/porthass.html",
+            "title": "Portrait of Geertruida Hasselaer",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 97 x 75 cm",
+            "painting_type": "portrait",
+            "date": "c. 1645"
+        },
+        {
+            "index": 2906,
+            "location": "Private collection",
+            "img": "imgs/art/2906.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 77 x 61 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 2907,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/2907.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/tributem.html",
+            "title": "The Tribute Money",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 139 x 159 cm",
+            "painting_type": "religious",
+            "date": "c. 1633"
+        },
+        {
+            "index": 2908,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/2908.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/tributex.html",
+            "title": "The Tribute Money (detail)",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "c. 1633"
+        },
+        {
+            "index": 2909,
+            "location": "Museum Schloss Fasanerie Eichenzell",
+            "img": "imgs/art/2909.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/backer/venus_ad.html",
+            "title": "Venus and Adonis",
+            "author": "BACKER Jacob Adriaensz.",
+            "technique": "Oil on canvas 200 x 237 cm",
+            "painting_type": "mythological",
+            "date": "c. 1650"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1608 Harlingen d. 1651 Amsterdam)",
+    "name": "BACKER Jacob Adriaensz.",
+    "school": "Dutch"
+}

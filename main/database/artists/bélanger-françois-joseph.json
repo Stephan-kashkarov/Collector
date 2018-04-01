@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 3700,
+            "location": "Bagatelle Bois de Boulogne Paris",
+            "img": "imgs/art/3700.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/belanger/bagatel1.html",
+            "title": "Exterior viev",
+            "author": "B\u00c9LANGER Fran\u00e7ois-Joseph",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1777"
+        },
+        {
+            "index": 3701,
+            "location": "Bagatelle Bois de Boulogne Paris",
+            "img": "imgs/art/3701.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/belanger/bagatel2.html",
+            "title": "Exterior viev",
+            "author": "B\u00c9LANGER Fran\u00e7ois-Joseph",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1777"
+        },
+        {
+            "index": 3702,
+            "location": "Mus\u00e9e Carnavalet Paris",
+            "img": "imgs/art/3702.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/belanger/pavilion.html",
+            "title": "Bagatelle Pavilion",
+            "author": "B\u00c9LANGER Fran\u00e7ois-Joseph",
+            "technique": "Watercolour",
+            "painting_type": "other",
+            "date": "1777"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1744 Paris d. 1818 Paris)",
+    "name": "B\u00c9LANGER Fran\u00e7ois-Joseph",
+    "school": "Italian"
+}

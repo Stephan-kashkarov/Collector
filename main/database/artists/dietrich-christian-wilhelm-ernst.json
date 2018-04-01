@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 11526,
+            "location": "Private collection",
+            "img": "imgs/art/11526.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dietrich/holyfami.html",
+            "title": "Holy Family in a Carpenter's Shop",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Oil on panel 45 x 33 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11527,
+            "location": "Private collection",
+            "img": "imgs/art/11527.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dietrich/italiana.html",
+            "title": "Italianate Landscape",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Oil on canvas 56 x 71 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11528,
+            "location": "Private collection",
+            "img": "imgs/art/11528.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dietrich/oriental.html",
+            "title": "Man in Oriental Costume",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Oil on panel 33 x 26 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 11529,
+            "location": "Private collection",
+            "img": "imgs/art/11529.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dietrich/park_set.html",
+            "title": "Comedic Performance in a Park Setting",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Oil on canvas 73 x 73 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11530,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/11530.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dietrich/sacrific.html",
+            "title": "The Sacrifice of Isaac",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Oil on canvas 66 x 54 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 11531,
+            "location": "Herzog Anton Ulrich-Museum Braunschweig",
+            "img": "imgs/art/11531.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/d/dietrich/z_poison.html",
+            "title": "Hungarian Rat Poison",
+            "author": "DIETRICH Christian Wilhelm Ernst",
+            "technique": "Engraving",
+            "painting_type": "study",
+            "date": "1757"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1712 Weimar d. 1774 Dresden)",
+    "name": "DIETRICH Christian Wilhelm Ernst",
+    "school": "German"
+}

@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 6539,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/6539.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/fruistil.html",
+            "title": "Fruit Still-Life",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 60 x 73 cm",
+            "painting_type": "still-life",
+            "date": "1670s"
+        },
+        {
+            "index": 6540,
+            "location": "Private collection",
+            "img": "imgs/art/6540.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/garland.html",
+            "title": "Garland of Flowers",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 97 x 74 cm",
+            "painting_type": "still-life",
+            "date": "1660s"
+        },
+        {
+            "index": 6541,
+            "location": "Private collection",
+            "img": "imgs/art/6541.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/still_li.html",
+            "title": "Still-Life",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 136 x 177 cm",
+            "painting_type": "still-life",
+            "date": "1665-70"
+        },
+        {
+            "index": 6542,
+            "location": "Private collection",
+            "img": "imgs/art/6542.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/stillfig.html",
+            "title": "Still-Life of Fruits and Flowers with a Figure",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 127 x 182 cm",
+            "painting_type": "still-life",
+            "date": "1660s"
+        },
+        {
+            "index": 6543,
+            "location": "Private collection",
+            "img": "imgs/art/6543.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/stillife.html",
+            "title": "Still-Life",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 113 x 148 cm",
+            "painting_type": "still-life",
+            "date": "1669-75"
+        },
+        {
+            "index": 6544,
+            "location": "Private collection",
+            "img": "imgs/art/6544.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/vaseflow.html",
+            "title": "Flowers in a Bronze Vase",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 99 x 75 cm",
+            "painting_type": "still-life",
+            "date": "1670"
+        },
+        {
+            "index": 6545,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/6545.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/woman.html",
+            "title": "Woman Grasping Fruit",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas 128 x 149 cm",
+            "painting_type": "genre",
+            "date": "1669"
+        },
+        {
+            "index": 6546,
+            "location": "Private collection",
+            "img": "imgs/art/6546.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bruegel/abraham/zilenus.html",
+            "title": "Landscape with Silenus and Putti",
+            "author": "BRUEGHEL Abraham",
+            "technique": "Oil on canvas oval 26 x 22 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1631 Antwerpen d. 1697 Napoli)",
+    "name": "BRUEGHEL Abraham",
+    "school": "Flemish"
+}

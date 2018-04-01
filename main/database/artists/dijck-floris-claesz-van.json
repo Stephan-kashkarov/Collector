@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 11537,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11537.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/cheeses.html",
+            "title": "Laid Table with Cheeses and Fruit",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on panel 822 x 1112 cm",
+            "painting_type": "still-life",
+            "date": "c. 1615"
+        },
+        {
+            "index": 11538,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/11538.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/cheeses1.html",
+            "title": "Laid Table with Cheeses and Fruit (detail)",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on panel",
+            "painting_type": "still-life",
+            "date": "c. 1615"
+        },
+        {
+            "index": 11539,
+            "location": "Private collection",
+            "img": "imgs/art/11539.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/laidtabl.html",
+            "title": "Laid Table",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on wood 100 x 135 cm",
+            "painting_type": "still-life",
+            "date": "1622"
+        },
+        {
+            "index": 11540,
+            "location": "Private collection",
+            "img": "imgs/art/11540.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/stil_lif.html",
+            "title": "Still-Life",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on oak panel 74 x 114 cm",
+            "painting_type": "still-life",
+            "date": "1610"
+        },
+        {
+            "index": 11541,
+            "location": "Frans Halsmuseum Haarlem",
+            "img": "imgs/art/11541.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/stillife.html",
+            "title": "Still-Life with Fruit Nuts and Cheese",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on panel 49 x 77 cm",
+            "painting_type": "still-life",
+            "date": "1613"
+        },
+        {
+            "index": 11542,
+            "location": "Private collection",
+            "img": "imgs/art/11542.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dijck/stilliff.html",
+            "title": "Still-Life",
+            "author": "DIJCK Floris Claesz van",
+            "technique": "Oil on oak panel 28 x 46 cm",
+            "painting_type": "still-life",
+            "date": "1628"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1575 Haarlem d. 1651 Haarlem)",
+    "name": "DIJCK Floris Claesz van",
+    "school": "Dutch"
+}

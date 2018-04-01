@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 12399,
+            "location": "Mus\u00e9e National du Ch\u00e2teau Versailles",
+            "img": "imgs/art/12399.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/angivill.html",
+            "title": "Portrait of the Comte d'Angiviller",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 144 x 106 cm",
+            "painting_type": "portrait",
+            "date": "1779"
+        },
+        {
+            "index": 12400,
+            "location": "National Gallery of Canada Ottawa",
+            "img": "imgs/art/12400.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/debuissy.html",
+            "title": "Portrait of Monsieur de Buissy",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 116 x 89 cm",
+            "painting_type": "portrait",
+            "date": "c. 1780"
+        },
+        {
+            "index": 12401,
+            "location": "Private collection",
+            "img": "imgs/art/12401.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/frankli.html",
+            "title": "Portrait of Benjamin Franklin",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 73 x 59 cm",
+            "painting_type": "portrait",
+            "date": "c. 1779"
+        },
+        {
+            "index": 12402,
+            "location": "Private collection",
+            "img": "imgs/art/12402.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/franklin.html",
+            "title": "Portrait of Benjamin Franklin",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 74 x 59 cm",
+            "painting_type": "portrait",
+            "date": "1778"
+        },
+        {
+            "index": 12403,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/12403.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/gluck.html",
+            "title": "Cristoph Wilibald von Gluck at the Spinet",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 995 x 805 cm",
+            "painting_type": "portrait",
+            "date": "1775"
+        },
+        {
+            "index": 12404,
+            "location": "Pharmacy of H\u00f4tel-Dieu Hospital Carpentras",
+            "img": "imgs/art/12404.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/monochro.html",
+            "title": "Landscape in Blue Monochrome",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Wood",
+            "painting_type": "landscape",
+            "date": "1780s"
+        },
+        {
+            "index": 12405,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/12405.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duplessi/sculptor.html",
+            "title": "Christophe Gabriel Allegrain Sculptor",
+            "author": "DUPLESSIS Joseph-Siffred",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "portrait",
+            "date": "1774"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1725 Carpentras d. 1802 Versailles)",
+    "name": "DUPLESSIS Joseph-Siffred",
+    "school": "French"
+}

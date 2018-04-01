@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 7018,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/7018.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calame/landscap.html",
+            "title": "Landscape with Oaks",
+            "author": "CALAME Alexandre",
+            "technique": "Oil on canvas 173 x 140 cm",
+            "painting_type": "landscape",
+            "date": "1859"
+        },
+        {
+            "index": 7019,
+            "location": "Private collection",
+            "img": "imgs/art/7019.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calame/mountain.html",
+            "title": "Mountainous Landscape with a Torrent",
+            "author": "CALAME Alexandre",
+            "technique": "Oil on canvas 55 x 81 cm",
+            "painting_type": "landscape",
+            "date": "1840"
+        },
+        {
+            "index": 7020,
+            "location": "Private collection",
+            "img": "imgs/art/7020.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calame/riversca.html",
+            "title": "Mountainous Riverscape",
+            "author": "CALAME Alexandre",
+            "technique": "Oil on paper laid down on canvas 45 x 31 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 7021,
+            "location": "Private collection",
+            "img": "imgs/art/7021.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calame/treebank.html",
+            "title": "Trees at the Bank",
+            "author": "CALAME Alexandre",
+            "technique": "Oil on cardboard 35 x 24 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 7022,
+            "location": "Private collection",
+            "img": "imgs/art/7022.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/calame/trunk.html",
+            "title": "An Oaktree Trunk",
+            "author": "CALAME Alexandre",
+            "technique": "Oil on canvas 50 x 36 cm",
+            "painting_type": "landscape",
+            "date": "1850s"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1810 Vevey d. 1864 Menton)",
+    "name": "CALAME Alexandre",
+    "school": "Swiss"
+}

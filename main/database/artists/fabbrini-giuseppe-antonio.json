@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13427,
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "img": "imgs/art/13427.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio1.html",
+            "title": "View of the Segretaria del Granduca",
+            "author": "FABBRINI Giuseppe Antonio",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1777"
+        },
+        {
+            "index": 13428,
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "img": "imgs/art/13428.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio2.html",
+            "title": "Side wall picture: Classical Offering Rite",
+            "author": "FABBRINI Giuseppe Antonio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1777"
+        },
+        {
+            "index": 13429,
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "img": "imgs/art/13429.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio3.html",
+            "title": "Side wall picture: Apollo Pegasus and the Muses",
+            "author": "FABBRINI Giuseppe Antonio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1777"
+        },
+        {
+            "index": 13430,
+            "location": "Villa Poggio Imperiale Arcetri Florence",
+            "img": "imgs/art/13430.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fabbrini/poggio4.html",
+            "title": "Side wall picture: The Fine Arts and Mercury",
+            "author": "FABBRINI Giuseppe Antonio",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "1777"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. ca. 1740 Firenze d. ca. 1795 Firenze)",
+    "name": "FABBRINI Giuseppe Antonio",
+    "school": "French"
+}

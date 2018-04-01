@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13233,
+            "location": "Private collection",
+            "img": "imgs/art/13233.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosb/stilfrui.html",
+            "title": "Still-Life of Fruit",
+            "author": "ESPINOSA Juan Bautista de",
+            "technique": "Oil on canvas 75 x 60 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 13234,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/13234.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosb/still_li.html",
+            "title": "Still-Life of Fruit",
+            "author": "ESPINOSA Juan Bautista de",
+            "technique": "Oil on canvas 76 x 59 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 13235,
+            "location": "Private collection",
+            "img": "imgs/art/13235.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/espinosb/stillife.html",
+            "title": "Still-Life of Fruit and a Plate of Olives",
+            "author": "ESPINOSA Juan Bautista de",
+            "technique": "Oil on canvas 50 x 67 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 ? d. ca. 1641 Madrid)",
+    "name": "ESPINOSA Juan Bautista de",
+    "school": "Spanish"
+}

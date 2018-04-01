@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15798,
+            "location": "Cathedral of Santa Mar\u00eda Segovia",
+            "img": "imgs/art/15798.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gil/segovia1.html",
+            "title": "Exterior view",
+            "author": "GIL DE HONTA\u00d1\u00d3N Juan the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1525"
+        },
+        {
+            "index": 15799,
+            "location": "Cathedral of Santa Mar\u00eda Segovia",
+            "img": "imgs/art/15799.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gil/segovia2.html",
+            "title": "Exterior view",
+            "author": "GIL DE HONTA\u00d1\u00d3N Juan the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1525"
+        },
+        {
+            "index": 15800,
+            "location": "Cathedral of Santa Mar\u00eda Segovia",
+            "img": "imgs/art/15800.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gil/segovia3.html",
+            "title": "Exterior view",
+            "author": "GIL DE HONTA\u00d1\u00d3N Juan the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "begun 1525"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1480 Salamanca d. 1526 Salamanca)",
+    "name": "GIL DE HONTA\u00d1\u00d3N Juan the Elder",
+    "school": "Spanish"
+}

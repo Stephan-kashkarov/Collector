@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 13123,
+            "location": "Palace of Canon Normandy",
+            "img": "imgs/art/13123.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/elie/canon1.html",
+            "title": "View of the park",
+            "author": "ELIE de BEAUMONT Jean-Baptiste",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1768-86"
+        },
+        {
+            "index": 13124,
+            "location": "Palace of Canon Normandy",
+            "img": "imgs/art/13124.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/elie/canon2.html",
+            "title": "View of the park",
+            "author": "ELIE de BEAUMONT Jean-Baptiste",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1768-86"
+        },
+        {
+            "index": 13125,
+            "location": "Palace of Canon Normandy",
+            "img": "imgs/art/13125.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/e/elie/canon3.html",
+            "title": "View of the park",
+            "author": "ELIE de BEAUMONT Jean-Baptiste",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1768-86"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1732 Carentan d. 1786 Paris)",
+    "name": "ELIE de BEAUMONT Jean-Baptiste",
+    "school": "French"
+}

@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 14805,
+            "location": "Collegiata Casole d'Elsa",
+            "img": "imgs/art/14805.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gano/andrei.html",
+            "title": "Tomb of Bishop Tommaso d'Andrea (detail)",
+            "author": "GANO DI FAZIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1303-04"
+        },
+        {
+            "index": 14806,
+            "location": "Collegiata Casole d'Elsa",
+            "img": "imgs/art/14806.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gano/ranieri.html",
+            "title": "Tomb of Ranieri del Porrina",
+            "author": "GANO DI FAZIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1315"
+        },
+        {
+            "index": 14807,
+            "location": "Museo Diocesano Cortona",
+            "img": "imgs/art/14807.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gano/virgin.html",
+            "title": "Virgin with Child",
+            "author": "GANO DI FAZIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1305"
+        },
+        {
+            "index": 14808,
+            "location": "Galleria Chigi-Saracini Siena",
+            "img": "imgs/art/14808.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gano/z_angel.html",
+            "title": "Angel",
+            "author": "GANO DI FAZIO",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(active from 1302 d. before 1318 Siena)",
+    "name": "GANO DI FAZIO",
+    "school": "Italian"
+}

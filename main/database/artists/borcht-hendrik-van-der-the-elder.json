@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 5071,
+            "location": "Castle R\u00e1jec nad Svitavou Czech Republic",
+            "img": "imgs/art/5071.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borcht/landscap.html",
+            "title": "Forest Landscape",
+            "author": "BORCHT Hendrik van der the Elder",
+            "technique": "Oil on canvas 69 x 116 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 5072,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/5072.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/borcht/rarity.html",
+            "title": "Still-Life with Rarity Collection",
+            "author": "BORCHT Hendrik van der the Elder",
+            "technique": "Oil on copper diameter 345 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1583 Bruxelles d. 1651 Frankfurt am Main)",
+    "name": "BORCHT Hendrik van der the Elder",
+    "school": "Flemish"
+}

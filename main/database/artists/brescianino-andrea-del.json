@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6097,
+            "location": "Private collection",
+            "img": "imgs/art/6097.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brescian/ledaswan.html",
+            "title": "Leda and the Swan",
+            "author": "BRESCIANINO Andrea del",
+            "technique": "Oil on panel 69 x 130 cm",
+            "painting_type": "mythological",
+            "date": "1520s"
+        },
+        {
+            "index": 6098,
+            "location": "Private collection",
+            "img": "imgs/art/6098.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brescian/madchild.html",
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "author": "BRESCIANINO Andrea del",
+            "technique": "Oil on panel 73 x 57 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6099,
+            "location": "Private collection",
+            "img": "imgs/art/6099.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brescian/madonna.html",
+            "title": "Madonna and Child with the Infant St John and St Peter Martyr",
+            "author": "BRESCIANINO Andrea del",
+            "technique": "Oil on panel diameter 69 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 6100,
+            "location": "Galleria Borghese Rome",
+            "img": "imgs/art/6100.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brescian/venus_2c.html",
+            "title": "Venus and Two Cupids",
+            "author": "BRESCIANINO Andrea del",
+            "technique": "Oil on canvas 150 x 66 cm",
+            "painting_type": "mythological",
+            "date": "1520-25"
+        },
+        {
+            "index": 6101,
+            "location": "Private collection",
+            "img": "imgs/art/6101.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/brescian/virgin_c.html",
+            "title": "Madonna and Child with the Infant St John the Baptist",
+            "author": "BRESCIANINO Andrea del",
+            "technique": "Oil on panel 51 x 41 cm",
+            "painting_type": "religious",
+            "date": "c. 1524"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 Brescia d. ca. 1545 Firenze)",
+    "name": "BRESCIANINO Andrea del",
+    "school": "Italian"
+}

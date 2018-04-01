@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6890,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/6890.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bussi/stucco1.html",
+            "title": "Decorative plasterwork (detail)",
+            "author": "BUSSI Santino",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "c. 1704"
+        },
+        {
+            "index": 6891,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/6891.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/bussi/stucco2.html",
+            "title": "Decorative plasterwork (detail)",
+            "author": "BUSSI Santino",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "c. 1704"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1664 Bissone d. 1736 Wien)",
+    "name": "BUSSI Santino",
+    "school": "Austrian"
+}

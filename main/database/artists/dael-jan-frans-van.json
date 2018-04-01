@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 10693,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/10693.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/basket.html",
+            "title": "Basket of Fruit",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on canvas 61 x 51 cm",
+            "painting_type": "still-life",
+            "date": "1801-02"
+        },
+        {
+            "index": 10694,
+            "location": "Private collection",
+            "img": "imgs/art/10694.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/bouquet.html",
+            "title": "Bouquet of Flowers in a Glass",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on panel 37 x 29 cm",
+            "painting_type": "still-life",
+            "date": "1825"
+        },
+        {
+            "index": 10695,
+            "location": "Private collection",
+            "img": "imgs/art/10695.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/flowers.html",
+            "title": "Still-Life",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on panel 83 x 65 cm",
+            "painting_type": "still-life",
+            "date": "1814"
+        },
+        {
+            "index": 10696,
+            "location": "Private collection",
+            "img": "imgs/art/10696.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/grape_cl.html",
+            "title": "Grape's Cluster",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on marble 37 x 31 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 10697,
+            "location": "Private collection",
+            "img": "imgs/art/10697.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/stillif.html",
+            "title": "Still-Life",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on canvas 74 x 60 cm",
+            "painting_type": "still-life",
+            "date": "1794-95"
+        },
+        {
+            "index": 10698,
+            "location": "National Gallery of Victoria Melbourne",
+            "img": "imgs/art/10698.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dael/stillife.html",
+            "title": "Flower Still-Life",
+            "author": "DAEL Jan Frans van",
+            "technique": "Oil on canvas 108 x 82 cm",
+            "painting_type": "still-life",
+            "date": "1811"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1764 Antwerpen d. 1840 Paris)",
+    "name": "DAEL Jan Frans van",
+    "school": "Belgian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 9823,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/9823.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coter/adormagi.html",
+            "title": "The Adoration of the Magi",
+            "author": "COTER Colijn de",
+            "technique": "Oil on panel 88 4 x 725 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9824,
+            "location": "Saint Rombout Cathedral Mechelen",
+            "img": "imgs/art/9824.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coter/baptism.html",
+            "title": "Baptism of St Libertus",
+            "author": "COTER Colijn de",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "1490s"
+        },
+        {
+            "index": 9825,
+            "location": "Private collection",
+            "img": "imgs/art/9825.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coter/man_sorr.html",
+            "title": "Christ as the Man of Sorrows",
+            "author": "COTER Colijn de",
+            "technique": "Oil on oak panel 65 x 43 cm",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1446 Bruxelles 1538 Bruxelles)",
+    "name": "COTER Colijn de",
+    "school": "Flemish"
+}

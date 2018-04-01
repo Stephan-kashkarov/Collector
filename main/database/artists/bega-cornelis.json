@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 3669,
+            "location": "J. Paul Getty Museum Los Angeles",
+            "img": "imgs/art/3669.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/alchemis.html",
+            "title": "Alchemist",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on panel 36 x 32 cm",
+            "painting_type": "genre",
+            "date": "1663"
+        },
+        {
+            "index": 3670,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/3670.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/luteplay.html",
+            "title": "The Lute Player",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on canvas 35 x 32 cm",
+            "painting_type": "genre",
+            "date": "1662"
+        },
+        {
+            "index": 3671,
+            "location": "Private collection",
+            "img": "imgs/art/3671.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/peasants.html",
+            "title": "Peasants in an Interior",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on panel 29 x 32 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 3672,
+            "location": "Private collection",
+            "img": "imgs/art/3672.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/tavern.html",
+            "title": "Tavern Interior",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on panel 51 x 74 cm",
+            "painting_type": "interior",
+            "date": "-"
+        },
+        {
+            "index": 3673,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/3673.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/tavern_s.html",
+            "title": "Tavern Scene",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on canvas 486 x 415 cm",
+            "painting_type": "genre",
+            "date": "1664"
+        },
+        {
+            "index": 3674,
+            "location": "Nationalmuseum Stockholm",
+            "img": "imgs/art/3674.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/the_duet.html",
+            "title": "The Duet",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on panel 45 x 41 cm",
+            "painting_type": "genre",
+            "date": "1663"
+        },
+        {
+            "index": 3675,
+            "location": "Private collection",
+            "img": "imgs/art/3675.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/vimarket.html",
+            "title": "Village Market with the Quack",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on canvas 56 x 45 cm",
+            "painting_type": "genre",
+            "date": "1654-58"
+        },
+        {
+            "index": 3676,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/3676.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bega/woman_pl.html",
+            "title": "Woman Playing a Lute",
+            "author": "BEGA Cornelis",
+            "technique": "Oil on wood 36 x 32 cm",
+            "painting_type": "genre",
+            "date": "1664-65"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1631 Haarlem d. 1664 Haarlem)",
+    "name": "BEGA Cornelis",
+    "school": "Dutch"
+}

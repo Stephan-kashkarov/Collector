@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4594,
+            "location": "Museo degli Argenti Palazzo Pitti Florence",
+            "img": "imgs/art/4594.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/b/bilivert/jacopo/panorama.html",
+            "title": "Oval with Panorama of Piazza della Signoria",
+            "author": "BILIVERT Jacopo",
+            "technique": "Mosaic with gold bas-relief silver lapis lazuli and crystal 28 x 26 cm",
+            "painting_type": "other",
+            "date": "1599"
+        },
+        {
+            "index": 4595,
+            "location": "Museo degli Argenti Palazzo Pitti Florence",
+            "img": "imgs/art/4595.jpg",
+            "form": "metalwork",
+            "url": "https://www.wga.hu/html/b/bilivert/jacopo/vase.html",
+            "title": "Vase",
+            "author": "BILIVERT Jacopo",
+            "technique": "Lapis lazuli gold gilded copper",
+            "painting_type": "other",
+            "date": "1583"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1550 Delft d. 1603 Firenze)",
+    "name": "BILIVERT Jacopo",
+    "school": "Dutch"
+}

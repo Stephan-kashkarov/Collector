@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1017,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/1017.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/lucia/selfport.html",
+            "title": "Self-Portrait",
+            "author": "ANGUISSOLA Lucia",
+            "technique": "Oil on panel 28 x 20 cm",
+            "painting_type": "portrait",
+            "date": "1557"
+        },
+        {
+            "index": 1018,
+            "location": "Private collection",
+            "img": "imgs/art/1018.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/lucia/sofonisb.html",
+            "title": "Portrait of Sofonisba Anguissola",
+            "author": "ANGUISSOLA Lucia",
+            "technique": "Oil on panel 12 x 9 cm (oval)",
+            "painting_type": "portrait",
+            "date": "1560-65"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1538 Cremona d. 1565 Cremona)",
+    "name": "ANGUISSOLA Lucia",
+    "school": "Italian"
+}

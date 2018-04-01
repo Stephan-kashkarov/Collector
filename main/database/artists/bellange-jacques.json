@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3711,
+            "location": "British Museum London",
+            "img": "imgs/art/3711.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bellange/3maries.html",
+            "title": "The Three Marys at the Tomb",
+            "author": "BELLANGE Jacques",
+            "technique": "Etching 442 x 287 mm",
+            "painting_type": "religious",
+            "date": "1620s"
+        },
+        {
+            "index": 3712,
+            "location": "British Museum London",
+            "img": "imgs/art/3712.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bellange/annuncia.html",
+            "title": "The Annunciation",
+            "author": "BELLANGE Jacques",
+            "technique": "Etching",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 3713,
+            "location": "Royal Library Windsor",
+            "img": "imgs/art/3713.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bellange/hurdygur.html",
+            "title": "Hurdy-Gurdy Player",
+            "author": "BELLANGE Jacques",
+            "technique": "Etching",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 3714,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/3714.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellange/lamentat.html",
+            "title": "Lamentation",
+            "author": "BELLANGE Jacques",
+            "technique": "Oil on canvas 115 x 175 cm",
+            "painting_type": "religious",
+            "date": "1615-17"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1594 Nancy d. 1638 Nancy)",
+    "name": "BELLANGE Jacques",
+    "school": "French"
+}

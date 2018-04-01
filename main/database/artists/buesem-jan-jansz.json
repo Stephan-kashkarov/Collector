@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6784,
+            "location": "Private collection",
+            "img": "imgs/art/6784.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/buesem/tavern1.html",
+            "title": "Tavern Interior with Peasants",
+            "author": "BUESEM Jan Jansz.",
+            "technique": "Oil on panel 54 x 71 cm",
+            "painting_type": "interior",
+            "date": "1635-40"
+        },
+        {
+            "index": 6785,
+            "location": "Private collection",
+            "img": "imgs/art/6785.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/buesem/tavern2.html",
+            "title": "Peasant Tavern",
+            "author": "BUESEM Jan Jansz.",
+            "technique": "Oil on panel 38 x 29 cm",
+            "painting_type": "genre",
+            "date": "c. 1630"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1600 Amsterdam d. 1649 Amsterdam)",
+    "name": "BUESEM Jan Jansz.",
+    "school": "Dutch"
+}

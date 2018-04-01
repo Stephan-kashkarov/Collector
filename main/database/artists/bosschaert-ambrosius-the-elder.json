@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 5370,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/5370.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet.html",
+            "title": "Bouquet of Flowers",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on panel 23 x 17 cm",
+            "painting_type": "still-life",
+            "date": "c. 1620"
+        },
+        {
+            "index": 5371,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/5371.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet0.html",
+            "title": "Bouquet of Flowers (detail)",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on panel",
+            "painting_type": "still-life",
+            "date": "c. 1620"
+        },
+        {
+            "index": 5372,
+            "location": "Statens Museum for Kunst Copenhagen",
+            "img": "imgs/art/5372.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet1.html",
+            "title": "Bouquet of Flowers in a Vase",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on copper 56 x 40 cm",
+            "painting_type": "still-life",
+            "date": "1618"
+        },
+        {
+            "index": 5373,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/5373.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/bouquet2.html",
+            "title": "Bouquet of Flowers in a Niche",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on panel 35 x 23 cm",
+            "painting_type": "still-life",
+            "date": "-"
+        },
+        {
+            "index": 5374,
+            "location": "Mauritshuis The Hague",
+            "img": "imgs/art/5374.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/flower.html",
+            "title": "Bouquet in an Arched Window",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on panel 64 x 46 cm",
+            "painting_type": "still-life",
+            "date": "c. 1618"
+        },
+        {
+            "index": 5375,
+            "location": "Mauritshuis The Hague",
+            "img": "imgs/art/5375.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/flower_.html",
+            "title": "Bouquet in an Arched Window",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on panel 64 x 46 cm",
+            "painting_type": "still-life",
+            "date": "c. 1618"
+        },
+        {
+            "index": 5376,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/5376.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/flower_c.html",
+            "title": "Flowers in a Chinese Vase",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on copper 69 x 51 cm",
+            "painting_type": "still-life",
+            "date": "1607"
+        },
+        {
+            "index": 5377,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/5377.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/flower_p.html",
+            "title": "Still-Life with Flowers in a Wan-Li Vase",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on copper 31 x 23 cm",
+            "painting_type": "still-life",
+            "date": "1619"
+        },
+        {
+            "index": 5378,
+            "location": "Private collection",
+            "img": "imgs/art/5378.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/flowers.html",
+            "title": "Still-Life of Flowers",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on oak panel 43 x 33 cm",
+            "painting_type": "still-life",
+            "date": "c. 1605"
+        },
+        {
+            "index": 5379,
+            "location": "Private collection",
+            "img": "imgs/art/5379.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/still_li.html",
+            "title": "Still-Life with Flowers in a Wan-Li Vase",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on oak panel 44 x 32 cm",
+            "painting_type": "still-life",
+            "date": "1601-05"
+        },
+        {
+            "index": 5380,
+            "location": "Private collection",
+            "img": "imgs/art/5380.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/still_lj.html",
+            "title": "Still-Life with Flowers in a Wan-Li Vase",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on copper 16 x 11 cm",
+            "painting_type": "still-life",
+            "date": "c. 1619"
+        },
+        {
+            "index": 5381,
+            "location": "Alte Pinakothek Munich",
+            "img": "imgs/art/5381.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bosschae/ambrosiu/stillife.html",
+            "title": "Still-Life of Flowers",
+            "author": "BOSSCHAERT Ambrosius the Elder",
+            "technique": "Oil on wood",
+            "painting_type": "still-life",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1573 Antwerpen d. 1621 Den Haag)",
+    "name": "BOSSCHAERT Ambrosius the Elder",
+    "school": "Dutch"
+}

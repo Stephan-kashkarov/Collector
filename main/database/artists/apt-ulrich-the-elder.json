@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 1152,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/1152.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/apt/2portrai.html",
+            "title": "Portrait of a Man and His Wife",
+            "author": "APT Ulrich the Elder",
+            "technique": "Oil on linden panel 33 x 63 cm",
+            "painting_type": "portrait",
+            "date": "1512"
+        },
+        {
+            "index": 1153,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/1153.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/apt/adormagi.html",
+            "title": "Adoration of the Magi",
+            "author": "APT Ulrich the Elder",
+            "technique": "Oil on panel 125 x 71 cm",
+            "painting_type": "religious",
+            "date": "c. 1510"
+        },
+        {
+            "index": 1154,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/1154.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/apt/lamentat.html",
+            "title": "The Lamentation",
+            "author": "APT Ulrich the Elder",
+            "technique": "Oil on panel 44 x 36 cm",
+            "painting_type": "religious",
+            "date": "c. 1510"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1460 Augsburg d. 1522 Augsburg)",
+    "name": "APT Ulrich the Elder",
+    "school": "German"
+}

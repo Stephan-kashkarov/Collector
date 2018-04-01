@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 8187,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/8187.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catarino/coronati.html",
+            "title": "Coronation of the Virgin",
+            "author": "CATARINO",
+            "technique": "Tempera on panel 89 x 58 cm",
+            "painting_type": "religious",
+            "date": "1375"
+        },
+        {
+            "index": 8188,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/8188.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catarino/coronatj.html",
+            "title": "Coronation of the Virgin (detail)",
+            "author": "CATARINO",
+            "technique": "Tempera on panel",
+            "painting_type": "religious",
+            "date": "1375"
+        },
+        {
+            "index": 8189,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/8189.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catarino/coronatx.html",
+            "title": "Coronation of Mary",
+            "author": "CATARINO",
+            "technique": "Tempera on panel 120 x 75 cm",
+            "painting_type": "religious",
+            "date": "1360s"
+        },
+        {
+            "index": 8190,
+            "location": "Fondazione Querini Stampalia Venice",
+            "img": "imgs/art/8190.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catarino/corvirgin.html",
+            "title": "Coronation of the Virgin",
+            "author": "CATARINO",
+            "technique": "Panel 137 x 77 cm",
+            "painting_type": "religious",
+            "date": "c. 1372"
+        },
+        {
+            "index": 8191,
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "img": "imgs/art/8191.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/catarino/st_paul.html",
+            "title": "St Paul",
+            "author": "CATARINO",
+            "technique": "Tempera on panel 32 x 95 cm",
+            "painting_type": "religious",
+            "date": "1360s"
+        }
+    ],
+    "timeframe": "1351-1400",
+    "life": "(known 1362-1382 in Venice)",
+    "name": "CATARINO",
+    "school": "Italian"
+}

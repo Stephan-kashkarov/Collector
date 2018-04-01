@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14506,
+            "location": "Private collection",
+            "img": "imgs/art/14506.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frolich/african.html",
+            "title": "Portrait of an African Man",
+            "author": "FR\u00d8LICH Lorenz",
+            "technique": "Oil on board laid on canvas 44 x 29 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 14507,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/14507.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/frolich/largeoak.html",
+            "title": "A Large Oak",
+            "author": "FR\u00d8LICH Lorenz",
+            "technique": "Oil on paper 27 x 22 cm",
+            "painting_type": "landscape",
+            "date": "1837"
+        },
+        {
+            "index": 14508,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/14508.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/frolich/youngfam.html",
+            "title": "The Young Family",
+            "author": "FR\u00d8LICH Lorenz",
+            "technique": "Pen and brown ink brush and gray wash 197 x 127 mm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1820 Hellerup d. 1908 K\u00f8benhavn)",
+    "name": "FR\u00d8LICH Lorenz",
+    "school": "Danish"
+}

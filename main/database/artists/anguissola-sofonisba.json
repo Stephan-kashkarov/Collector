@@ -1,0 +1,152 @@
+{
+    "art": [
+        {
+            "index": 1019,
+            "location": "Pinacoteca Nazionale Siena",
+            "img": "imgs/art/1019.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/campipai.html",
+            "title": "Bernardino Campi Painting Sofonisba Anguissola",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 111 x 110 cm",
+            "painting_type": "portrait",
+            "date": "c. 1559"
+        },
+        {
+            "index": 1020,
+            "location": "Muzeum Narodowe Poznan",
+            "img": "imgs/art/1020.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/chess.html",
+            "title": "Portrait of the Artist's Sisters Playing Chess",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 72 x 97 cm",
+            "painting_type": "portrait",
+            "date": "1555"
+        },
+        {
+            "index": 1021,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/1021.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/crawfish.html",
+            "title": "Asdrubale Bitten by a Crawfish",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Black chalk and charcoal on brown paper 333 x 385 mm",
+            "painting_type": "genre",
+            "date": "c. 1554"
+        },
+        {
+            "index": 1022,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/1022.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/laughing.html",
+            "title": "Old Woman Studying the Alphabet with a Laughing Girl",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Black chalk heightened with white on paper mounted on canvas 301 x 345 mm",
+            "painting_type": "genre",
+            "date": "1550s"
+        },
+        {
+            "index": 1023,
+            "location": "Pinacoteca di Brera Milan",
+            "img": "imgs/art/1023.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/minerva.html",
+            "title": "Portrait of Minerva Anguissola",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 36 x 29 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 1024,
+            "location": "City Art Gallery Southampton",
+            "img": "imgs/art/1024.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/port_nun.html",
+            "title": "Portrait of a Nun",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 169 x 53 cm",
+            "painting_type": "portrait",
+            "date": "1551"
+        },
+        {
+            "index": 1025,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/1025.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/profport.html",
+            "title": "Profile Portrait of a Young Woman",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 685 x 525 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 1026,
+            "location": "Museo Poldi Pezzoli Milan",
+            "img": "imgs/art/1026.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/s_portra.html",
+            "title": "Self-Portrait",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 45 x 34 cm",
+            "painting_type": "portrait",
+            "date": "1550s"
+        },
+        {
+            "index": 1027,
+            "location": "Museum of Fine Arts Boston",
+            "img": "imgs/art/1027.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/self_por.html",
+            "title": "Self-Portrait",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on parchment 83 x 64 cm",
+            "painting_type": "portrait",
+            "date": "c. 1556"
+        },
+        {
+            "index": 1028,
+            "location": "Muzeum-Zamek Lancut",
+            "img": "imgs/art/1028.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfease.html",
+            "title": "Self-Portrait at the Easel",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 66 x 57 cm",
+            "painting_type": "portrait",
+            "date": "c. 1556"
+        },
+        {
+            "index": 1029,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/1029.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfport.html",
+            "title": "Self-Portrait",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on panel 20 x 13 cm",
+            "painting_type": "portrait",
+            "date": "1554"
+        },
+        {
+            "index": 1030,
+            "location": "Museo Nazionale di Capodimonte Naples",
+            "img": "imgs/art/1030.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfspin.html",
+            "title": "Self-Portrait Playing the Spinet",
+            "author": "ANGUISSOLA Sofonisba",
+            "technique": "Oil on canvas 57 x 48 cm",
+            "painting_type": "portrait",
+            "date": "1556-57"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1530 Cremona d. 1625 Palermo)",
+    "name": "ANGUISSOLA Sofonisba",
+    "school": "Italian"
+}

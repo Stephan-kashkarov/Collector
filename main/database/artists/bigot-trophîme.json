@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4569,
+            "location": "Galleria Doria Pamphilj Rome",
+            "img": "imgs/art/4569.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bigot/boysinge.html",
+            "title": "Boy Singeing a Bat's Wings",
+            "author": "BIGOT Troph\u00eeme",
+            "technique": "Oil on canvas 45 x 39 cm",
+            "painting_type": "other",
+            "date": "-"
+        },
+        {
+            "index": 4570,
+            "location": "Ashmolean Museum Oxford",
+            "img": "imgs/art/4570.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bigot/doctor_u.html",
+            "title": "A Doctor Examining Urine",
+            "author": "BIGOT Troph\u00eeme",
+            "technique": "Oil on canvas 72 x 99 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 4571,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/4571.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bigot/jerome.html",
+            "title": "St Jerome",
+            "author": "BIGOT Troph\u00eeme",
+            "technique": "Oil on canvas 105 x 138 cm",
+            "painting_type": "religious",
+            "date": "1630s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1600 Arles d. 1650 Avignon)",
+    "name": "BIGOT Troph\u00eeme",
+    "school": "French"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9260,
+            "location": "L'Aquila",
+            "img": "imgs/art/9260.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cola/aquila.html",
+            "title": "San Bernardino",
+            "author": "COLA DELL'AMATRICE",
+            "technique": "-",
+            "painting_type": "religious",
+            "date": "1524-40"
+        },
+        {
+            "index": 9261,
+            "location": "San Bernardino L'Aquila",
+            "img": "imgs/art/9261.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cola/aquila1.html",
+            "title": "Detail of the fa\u00e7ade",
+            "author": "COLA DELL'AMATRICE",
+            "technique": "-",
+            "painting_type": "religious",
+            "date": "1524-40"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 Amatrice d. ca. 1550 Ascoli Piceno)",
+    "name": "COLA DELL'AMATRICE",
+    "school": "Italian"
+}

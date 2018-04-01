@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 10584,
+            "location": "Schloss Nymphenburg Munich",
+            "img": "imgs/art/10584.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cuvillie/amalien1.html",
+            "title": "Exterior view",
+            "author": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1734-39"
+        },
+        {
+            "index": 10585,
+            "location": "Schloss Nymphenburg Munich",
+            "img": "imgs/art/10585.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cuvillie/amalien2.html",
+            "title": "Interior view",
+            "author": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1734-39"
+        },
+        {
+            "index": 10586,
+            "location": "Augustusburg Br\u00fchl",
+            "img": "imgs/art/10586.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cuvillie/bruhl1.html",
+            "title": "Exterior view",
+            "author": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1724 and 1728-40"
+        },
+        {
+            "index": 10587,
+            "location": "Falkenlust hunting lodge Br\u00fchl",
+            "img": "imgs/art/10587.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/cuvillie/bruhl2.html",
+            "title": "Exterior view",
+            "author": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1729-40"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1695 Soignies Hainaut d. 1768 M\u00fcnchen)",
+    "name": "CUVILLI\u00c9S Fran\u00e7ois de the Elder",
+    "school": "French"
+}

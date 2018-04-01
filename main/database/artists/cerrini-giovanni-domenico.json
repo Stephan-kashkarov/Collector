@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8424,
+            "location": "Museo Bardini Florence",
+            "img": "imgs/art/8424.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cerrini/allegory.html",
+            "title": "Allegory of Human Fragility",
+            "author": "CERRINI Giovanni Domenico",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "mythological",
+            "date": "1656-61"
+        },
+        {
+            "index": 8425,
+            "location": "Private collection",
+            "img": "imgs/art/8425.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cerrini/apollo.html",
+            "title": "Apollo and the Cumaean Sibyl",
+            "author": "CERRINI Giovanni Domenico",
+            "technique": "Oil on canvas 102 x 135 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1609 Perugia d. 1681 Roma)",
+    "name": "CERRINI Giovanni Domenico",
+    "school": "Italian"
+}

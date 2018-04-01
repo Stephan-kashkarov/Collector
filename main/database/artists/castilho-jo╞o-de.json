@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 8177,
+            "location": "Monastery of the Knights of Christ Tomar",
+            "img": "imgs/art/8177.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/castilho/doorway1.html",
+            "title": "External view",
+            "author": "CASTILHO Jo\u00e3o de",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1515"
+        },
+        {
+            "index": 8178,
+            "location": "Monastery of the Knights of Christ Tomar",
+            "img": "imgs/art/8178.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/c/castilho/doorway2.html",
+            "title": "External view",
+            "author": "CASTILHO Jo\u00e3o de",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1515"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1490 Santander d. 1552)",
+    "name": "CASTILHO Jo\u00e3o de",
+    "school": "Portuguese"
+}

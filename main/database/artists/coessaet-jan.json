@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9252,
+            "location": "City Hall Mechelen",
+            "img": "imgs/art/9252.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coessaet/opening.html",
+            "title": "Opening Session of the Parliament of Burgundy",
+            "author": "COESSAET Jan",
+            "technique": "Oil on oak panel 149 x 476 cm",
+            "painting_type": "historical",
+            "date": "1587"
+        },
+        {
+            "index": 9253,
+            "location": "City Hall Mechelen",
+            "img": "imgs/art/9253.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/coessaet/opening1.html",
+            "title": "Opening Session of the Parliament of Burgundy (detail)",
+            "author": "COESSAET Jan",
+            "technique": "Oil on oak panel",
+            "painting_type": "historical",
+            "date": "1587"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(active 1563-1587 in Mechelen)",
+    "name": "COESSAET Jan",
+    "school": "Flemish"
+}

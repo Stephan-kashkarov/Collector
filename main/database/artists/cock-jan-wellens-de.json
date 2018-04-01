@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 9183,
+            "location": "Private collection",
+            "img": "imgs/art/9183.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cock_h/father/cristop.html",
+            "title": "St Christopher in a Panoramic Landscape",
+            "author": "COCK Jan Wellens de",
+            "technique": "Oil on canvas 56 x 93 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9184,
+            "location": "Private collection",
+            "img": "imgs/art/9184.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cock_h/father/cristop1.html",
+            "title": "St Christopher in a Panoramic Landscape (detail)",
+            "author": "COCK Jan Wellens de",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 9185,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/9185.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cock_h/father/temptati.html",
+            "title": "Temptation of St Anthony",
+            "author": "COCK Jan Wellens de",
+            "technique": "Oil on panel 60 x 46 cm",
+            "painting_type": "religious",
+            "date": "c. 1520"
+        },
+        {
+            "index": 9186,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/9186.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cock_h/father/triptych.html",
+            "title": "Triptych with Calvary and Patrons",
+            "author": "COCK Jan Wellens de",
+            "technique": "Oil on panel 37 x 26 cm (central) 33 x 10 cm (each wing)",
+            "painting_type": "religious",
+            "date": "1506"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1490 Leiden d. before 1529 Antwerpen)",
+    "name": "COCK Jan Wellens de",
+    "school": "Flemish"
+}

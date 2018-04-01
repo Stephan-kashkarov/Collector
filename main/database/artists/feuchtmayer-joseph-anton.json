@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 13793,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13793.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/angel.html",
+            "title": "Honey-licking putto",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "1746-53"
+        },
+        {
+            "index": 13794,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13794.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/angel1.html",
+            "title": "Honey-licking putto",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Stucco",
+            "painting_type": "religious",
+            "date": "1746-53"
+        },
+        {
+            "index": 13795,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13795.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/birnau.html",
+            "title": "Interior with stucco decoration",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1748-50"
+        },
+        {
+            "index": 13796,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13796.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/birnau1.html",
+            "title": "Interior with stucco decoration",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1748-50"
+        },
+        {
+            "index": 13797,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13797.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/birnau2.html",
+            "title": "Interior with stucco decoration",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Photo",
+            "painting_type": "interior",
+            "date": "1748-50"
+        },
+        {
+            "index": 13798,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13798.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/joachim.html",
+            "title": "St. Joachim",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Plaster life-size",
+            "painting_type": "religious",
+            "date": "1749"
+        },
+        {
+            "index": 13799,
+            "location": "Unsere Liebe Frau Birnau",
+            "img": "imgs/art/13799.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/feuchtma/joseph/pieta.html",
+            "title": "Piet\u00e0",
+            "author": "FEUCHTMAYER Joseph Anton",
+            "technique": "Stucco",
+            "painting_type": "religious",
+            "date": "1746-53"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1696 Wessobrun d. 1770 Wessobrun)",
+    "name": "FEUCHTMAYER Joseph Anton",
+    "school": "German"
+}

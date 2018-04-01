@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 1005,
+            "location": "Galleria Nazionale d'Arte Antica Rome",
+            "img": "imgs/art/1005.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/angelucc/rural_sc.html",
+            "title": "Rural Scene",
+            "author": "ANGELUCCIO",
+            "technique": "Oil on canvas 130 x 97 cm",
+            "painting_type": "landscape",
+            "date": "1640s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1620 Roma d. ca. 1650 Roma)",
+    "name": "ANGELUCCIO",
+    "school": "Italian"
+}

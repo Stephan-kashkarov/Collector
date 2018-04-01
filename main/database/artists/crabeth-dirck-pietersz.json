@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 10051,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/10051.jpg",
+            "form": "stained-glass",
+            "url": "https://www.wga.hu/html/c/crabeth/adameve.html",
+            "title": "Adam and Eve",
+            "author": "CRABETH Dirck Pietersz.",
+            "technique": "Pen in black and brown brush in grey and red 408 x 148 mm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 10052,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/10052.jpg",
+            "form": "stained-glass",
+            "url": "https://www.wga.hu/html/c/crabeth/adameve1.html",
+            "title": "Adam and Eve (detail)",
+            "author": "CRABETH Dirck Pietersz.",
+            "technique": "Pen in black and brown brush in grey and red",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1520 Gouda d. ca. 1576 Gouda)",
+    "name": "CRABETH Dirck Pietersz.",
+    "school": "Netherlandish"
+}

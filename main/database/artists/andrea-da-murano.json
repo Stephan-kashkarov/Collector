@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 570,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/570.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/murano/polyptic.html",
+            "title": "Polyptych",
+            "author": "ANDREA DA MURANO",
+            "technique": "Tempera on wood 152 x 88 cm (centre) 152 x 47 cm (sides) 80 x 199 cm (lunette)",
+            "painting_type": "religious",
+            "date": "c. 1478"
+        },
+        {
+            "index": 571,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/571.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/murano/polyptyc.html",
+            "title": "Polyptych",
+            "author": "ANDREA DA MURANO",
+            "technique": "Tempera on wood 152 x 88 cm (centre) 152 x 47 cm (sides) 80 x 199 cm (lunette)",
+            "painting_type": "religious",
+            "date": "c. 1478"
+        },
+        {
+            "index": 572,
+            "location": "Gallerie dell'Accademia Venice",
+            "img": "imgs/art/572.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/andrea/murano/polyptyx.html",
+            "title": "Polyptych",
+            "author": "ANDREA DA MURANO",
+            "technique": "Tempera on wood transferred to canvas 152 x 88 cm (centre) 152 x 47 cm (sides)",
+            "painting_type": "religious",
+            "date": "c. 1478"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(known 1463 Venezia d. 1512 Castelfranco Veneto)",
+    "name": "ANDREA DA MURANO",
+    "school": "Italian"
+}

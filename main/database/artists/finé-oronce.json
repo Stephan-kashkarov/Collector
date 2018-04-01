@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13840,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13840.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fine/1map.html",
+            "title": "Heart-shaped Map",
+            "author": "FIN\u00c9 Oronce",
+            "technique": "Engraving watercolour 51 x 57 cm",
+            "painting_type": "other",
+            "date": "1536"
+        },
+        {
+            "index": 13841,
+            "location": "Germanisches Nationalmuseum Nuremberg",
+            "img": "imgs/art/13841.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fine/globe.html",
+            "title": "Christ with a Globe",
+            "author": "FIN\u00c9 Oronce",
+            "technique": "Panel",
+            "painting_type": "religious",
+            "date": "1530"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. 1494 Brian\u00e7on d. 1555 Paris)",
+    "name": "FIN\u00c9 Oronce",
+    "school": "French"
+}

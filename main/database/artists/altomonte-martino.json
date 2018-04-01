@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 433,
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "img": "imgs/art/433.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/altomont/martino/immacula.html",
+            "title": "The Immaculate Conception",
+            "author": "ALTOMONTE Martino",
+            "technique": "Oil on canvas 39 x 57 cm",
+            "painting_type": "religious",
+            "date": "1719"
+        },
+        {
+            "index": 434,
+            "location": "Narodna galerija Slovenije Ljubljana",
+            "img": "imgs/art/434.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/altomont/martino/restflig.html",
+            "title": "Rest on the Flight to Egypt",
+            "author": "ALTOMONTE Martino",
+            "technique": "Oil on canvas 78 x 129 cm",
+            "painting_type": "religious",
+            "date": "1737"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b.1657 Napoli d. 1745 Wien)",
+    "name": "ALTOMONTE Martino",
+    "school": "Austrian"
+}

@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 454,
+            "location": "\u00d6sterreichische Galerie Belvedere Vienna",
+            "img": "imgs/art/454.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/arthaber.html",
+            "title": "Rudolf von Arthaber with his Children",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 155 x 221 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 455,
+            "location": "Sch\u00f6nbrunn Palace Vienna",
+            "img": "imgs/art/455.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/franz_1.html",
+            "title": "Emperor Franz I of Austria in his Coronation Robes",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 260 x 175 cm",
+            "painting_type": "portrait",
+            "date": "1832"
+        },
+        {
+            "index": 456,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/456.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/girl.html",
+            "title": "Likeness of a Girl",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 64 x 51 cm",
+            "painting_type": "portrait",
+            "date": "c. 1837"
+        },
+        {
+            "index": 457,
+            "location": "Private collection",
+            "img": "imgs/art/457.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/girlport.html",
+            "title": "Portrait of a Young Girl",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on panel 52 x 43 cm",
+            "painting_type": "portrait",
+            "date": "1837"
+        },
+        {
+            "index": 458,
+            "location": "Neue Pinakothek Munich",
+            "img": "imgs/art/458.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/girlyel.html",
+            "title": "Maiden with a Straw Hat",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 59 x 47 cm",
+            "painting_type": "portrait",
+            "date": "c. 1835"
+        },
+        {
+            "index": 459,
+            "location": "Kunsthistorisches Museum Vienna",
+            "img": "imgs/art/459.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/girlyell.html",
+            "title": "Girl in Yellow Hat",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 58 x 47 cm",
+            "painting_type": "portrait",
+            "date": "1835"
+        },
+        {
+            "index": 460,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/460.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/nako.html",
+            "title": "Countess N\u00e1k\u00f3",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 127 x 106 cm",
+            "painting_type": "portrait",
+            "date": "1855"
+        },
+        {
+            "index": 461,
+            "location": "Liechtenstein Museum Vienna",
+            "img": "imgs/art/461.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/princess.html",
+            "title": "Portrait of Princess Marie Franziska von Liechtenstein Aged Two",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1836"
+        },
+        {
+            "index": 462,
+            "location": "Residenzgalerie Salzburg",
+            "img": "imgs/art/462.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/selfport.html",
+            "title": "Self-Portrait",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 51 x 42 cm",
+            "painting_type": "portrait",
+            "date": "1834"
+        },
+        {
+            "index": 463,
+            "location": "Hungarian Academy of Sciences Budapest",
+            "img": "imgs/art/463.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/amerling/szecheny.html",
+            "title": "Portrait of Count Istv\u00e1n Sz\u00e9chenyi",
+            "author": "AMERLING Friedrich von",
+            "technique": "Oil on canvas 250 x 165 cm",
+            "painting_type": "portrait",
+            "date": "1836"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1803 Wien d. 1887 Wien)",
+    "name": "AMERLING Friedrich von",
+    "school": "Austrian"
+}

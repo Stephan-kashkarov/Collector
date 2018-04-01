@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 3152,
+            "location": "Santi Giovanni e Paolo Venice",
+            "img": "imgs/art/3152.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/baratta/pietro/valier.html",
+            "title": "Monument to the Valier Family",
+            "author": "BARATTA Pietro",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1705-08"
+        },
+        {
+            "index": 3153,
+            "location": "Santi Giovanni e Paolo Venice",
+            "img": "imgs/art/3153.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/baratta/pietro/wisdom.html",
+            "title": "Wisdom",
+            "author": "BARATTA Pietro",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1705-08"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1668 Carrara d. 1729 Carrara)",
+    "name": "BARATTA Pietro",
+    "school": "Italian"
+}

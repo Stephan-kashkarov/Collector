@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3954,
+            "location": "Private collection",
+            "img": "imgs/art/3954.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellotti/geograph.html",
+            "title": "Geography Lesson",
+            "author": "BELLOTTI Pietro",
+            "technique": "Oil on canvas 73 x 60 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 3955,
+            "location": "Private collection",
+            "img": "imgs/art/3955.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellotti/old_phil.html",
+            "title": "Old Philosopher at her Desk",
+            "author": "BELLOTTI Pietro",
+            "technique": "Oil on canvas 79 x 68 cm",
+            "painting_type": "portrait",
+            "date": "1665-70"
+        },
+        {
+            "index": 3956,
+            "location": "Private collection",
+            "img": "imgs/art/3956.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellotti/oldphilo.html",
+            "title": "Old Philosopher",
+            "author": "BELLOTTI Pietro",
+            "technique": "Oil on canvas 73 x 54 cm",
+            "painting_type": "portrait",
+            "date": "1670s"
+        },
+        {
+            "index": 3957,
+            "location": "Private collection",
+            "img": "imgs/art/3957.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bellotti/philosop.html",
+            "title": "Old Philosopher with a Book",
+            "author": "BELLOTTI Pietro",
+            "technique": "Oil on canvas 64 x 72 cm",
+            "painting_type": "portrait",
+            "date": "1670-74"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1623 Volciano di Sal\u00f2 d. 1700 Gargnano)",
+    "name": "BELLOTTI Pietro",
+    "school": "Italian"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15808,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/15808.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gillot/2coaches.html",
+            "title": "The Two Coaches",
+            "author": "GILLOT Claude",
+            "technique": "Oil on canvas 127 x 160 cm",
+            "painting_type": "genre",
+            "date": "c. 1710"
+        },
+        {
+            "index": 15809,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/15809.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/g/gillot/comedian.html",
+            "title": "Italian Comedians",
+            "author": "GILLOT Claude",
+            "technique": "Pen drawing",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 15810,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/15810.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gillot/scene.html",
+            "title": "Scene from the 'Master Andrew's Tomb'",
+            "author": "GILLOT Claude",
+            "technique": "Oil on canvas 100 x 139 cm",
+            "painting_type": "genre",
+            "date": "c. 1707"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1673 Langres d. 1722 Paris)",
+    "name": "GILLOT Claude",
+    "school": "French"
+}

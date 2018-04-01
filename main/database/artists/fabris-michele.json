@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13443,
+            "location": "San Pietro di Castello Venice",
+            "img": "imgs/art/13443.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fabri/castell1.html",
+            "title": "Pope Paul V Giving the Cardinal's Hat to Francesco Vendramin",
+            "author": "FABRIS Michele",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1670s"
+        },
+        {
+            "index": 13444,
+            "location": "San Pietro di Castello Venice",
+            "img": "imgs/art/13444.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fabri/castell2.html",
+            "title": "Poetry",
+            "author": "FABRIS Michele",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1670s"
+        },
+        {
+            "index": 13445,
+            "location": "Private collection",
+            "img": "imgs/art/13445.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fabri/saturn.html",
+            "title": "Saturn",
+            "author": "FABRIS Michele",
+            "technique": "Marble on Sienna marble base height 51 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 13446,
+            "location": "Private collection",
+            "img": "imgs/art/13446.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fabri/time.html",
+            "title": "Time",
+            "author": "FABRIS Michele",
+            "technique": "Marble on Sienna marble base height 58 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1644 Pozsony d. 1684 Venezia)",
+    "name": "FABRIS Michele",
+    "school": "Hungarian"
+}

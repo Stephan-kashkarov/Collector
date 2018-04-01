@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14897,
+            "location": "Private collection",
+            "img": "imgs/art/14897.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gauffier/ulysses.html",
+            "title": "Ulysses Recognises Achilles amongst the Daughters of Lycomedes",
+            "author": "GAUFFIER Louis",
+            "technique": "Oil on canvas 81 x 115 cm",
+            "painting_type": "mythological",
+            "date": "1791"
+        },
+        {
+            "index": 14898,
+            "location": "Private collection",
+            "img": "imgs/art/14898.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gauffier/webster.html",
+            "title": "Portrait of Elizabeth Lady Webster",
+            "author": "GAUFFIER Louis",
+            "technique": "Oil on canvas 51 x 68 cm",
+            "painting_type": "portrait",
+            "date": "1795"
+        },
+        {
+            "index": 14899,
+            "location": "Private collection",
+            "img": "imgs/art/14899.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gauffier/webster1.html",
+            "title": "Portrait of Elizabeth Lady Webster (detail)",
+            "author": "GAUFFIER Louis",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "1795"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1762 Poitiers d. 1801 Livorno)",
+    "name": "GAUFFIER Louis",
+    "school": "French"
+}

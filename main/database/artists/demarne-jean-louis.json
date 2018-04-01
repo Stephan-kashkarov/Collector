@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 11422,
+            "location": "Private collection",
+            "img": "imgs/art/11422.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/demarne/peasants.html",
+            "title": "The Peasant's Family Comforting a Soldier",
+            "author": "DEMARNE Jean-Louis",
+            "technique": "Oil on canvas 90 x 116 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 11423,
+            "location": "Private collection",
+            "img": "imgs/art/11423.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/demarne/vil_fair.html",
+            "title": "Village Fair",
+            "author": "DEMARNE Jean-Louis",
+            "technique": "Oil on panel 55 x 82 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1752 Bruxelles d. 1829 Paris)",
+    "name": "DEMARNE Jean-Louis",
+    "school": "French"
+}

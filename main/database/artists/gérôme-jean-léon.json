@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 15296,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/15296.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/cockfigh.html",
+            "title": "Young Greeks at a Cockfight",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 143 x 204 cm",
+            "painting_type": "genre",
+            "date": "1846"
+        },
+        {
+            "index": 15297,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/15297.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/duel.html",
+            "title": "Duel after a Masked Ball",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 68 x 99 cm",
+            "painting_type": "genre",
+            "date": "1857"
+        },
+        {
+            "index": 15298,
+            "location": "Private collection",
+            "img": "imgs/art/15298.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/gulf_aqa.html",
+            "title": "The Gulf of Aqaba",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 27 x 36 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 15299,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/15299.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/harem.html",
+            "title": "Pool in a Harem",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 74 x 62 cm",
+            "painting_type": "interior",
+            "date": "c. 1876"
+        },
+        {
+            "index": 15300,
+            "location": "Private collection",
+            "img": "imgs/art/15300.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/liondrin.html",
+            "title": "Lion Drinking from a Desert Stream",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 29 x 41 cm",
+            "painting_type": "other",
+            "date": "c. 1885"
+        },
+        {
+            "index": 15301,
+            "location": "Art Gallery Aberdeen",
+            "img": "imgs/art/15301.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/selfport.html",
+            "title": "Self-Portrait",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 41 x 31 cm",
+            "painting_type": "portrait",
+            "date": "1886"
+        },
+        {
+            "index": 15302,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/15302.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gerome/slavmark.html",
+            "title": "Slave Market in Rome",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Oil on canvas 92 x 74 cm",
+            "painting_type": "genre",
+            "date": "c. 1884"
+        },
+        {
+            "index": 15303,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/15303.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerome/ytanagra.html",
+            "title": "Tanagra",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Marble.height 155 cm",
+            "painting_type": "mythological",
+            "date": "1890"
+        },
+        {
+            "index": 15304,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/15304.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/gerome/ztanagra.html",
+            "title": "Tanagra (detail)",
+            "author": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+            "technique": "Marble.height 23 cm (size of the figurine)",
+            "painting_type": "mythological",
+            "date": "1890"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1824 Vesoul d. 1904 Paris)",
+    "name": "G\u00c9R\u00d4ME Jean-L\u00e9on",
+    "school": "French"
+}

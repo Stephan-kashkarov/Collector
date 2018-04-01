@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 6952,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/6952.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caffi/bombardm.html",
+            "title": "Bombardment of Marghera on the Night of May 24 1849",
+            "author": "CAFFI Ippolito",
+            "technique": "Oil on canvas",
+            "painting_type": "historical",
+            "date": "1849"
+        },
+        {
+            "index": 6953,
+            "location": "Private collection",
+            "img": "imgs/art/6953.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caffi/florence.html",
+            "title": "A View of Florence",
+            "author": "CAFFI Ippolito",
+            "technique": "Oil on canvas 40 x 49 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6954,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/6954.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caffi/nocturna.html",
+            "title": "Nocturnal Celebrations in Via Eugenia at Venice",
+            "author": "CAFFI Ippolito",
+            "technique": "Oil on canvas 27 x 44 cm",
+            "painting_type": "landscape",
+            "date": "1840"
+        },
+        {
+            "index": 6955,
+            "location": "Private collection",
+            "img": "imgs/art/6955.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caffi/pantheon.html",
+            "title": "View of the Pantheon Rome",
+            "author": "CAFFI Ippolito",
+            "technique": "Oil on canvas 24 x 31 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6956,
+            "location": "Museo d'Arte Moderna Ca' Pesaro Venice",
+            "img": "imgs/art/6956.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/caffi/snow_fog.html",
+            "title": "Snow and Fog on the Grand Canal",
+            "author": "CAFFI Ippolito",
+            "technique": "Oil on canvas 16 x 42 cm",
+            "painting_type": "landscape",
+            "date": "c. 1840"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1809 Belluno d. 1866 at sea)",
+    "name": "CAFFI Ippolito",
+    "school": "Italian"
+}

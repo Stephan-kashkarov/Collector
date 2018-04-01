@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13966,
+            "location": "Castello Colleoni Malpaga",
+            "img": "imgs/art/13966.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fogolino/malpaga.html",
+            "title": "Fresco cycle",
+            "author": "FOGOLINO Marcello",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "c. 1535"
+        },
+        {
+            "index": 13967,
+            "location": "Castello Colleoni Malpaga",
+            "img": "imgs/art/13967.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fogolino/malpaga1.html",
+            "title": "Fresco cycle (detail)",
+            "author": "FOGOLINO Marcello",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "c. 1535"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1485 Vicenza d. after 1548)",
+    "name": "FOGOLINO Marcello",
+    "school": "Italian"
+}

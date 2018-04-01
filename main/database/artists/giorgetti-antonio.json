@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 15896,
+            "location": "Ponte Sant'Angelo Rome",
+            "img": "imgs/art/15896.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giorgett/antonio/angel.html",
+            "title": "Angel with the Sponge",
+            "author": "GIORGETTI Antonio",
+            "technique": "Marble over life-size",
+            "painting_type": "religious",
+            "date": "1668-69"
+        },
+        {
+            "index": 15897,
+            "location": "S. Sebastiano fouri le Mura Rome",
+            "img": "imgs/art/15897.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giorgett/antonio/sebasti.html",
+            "title": "Martyrdom of St Sebastian",
+            "author": "GIORGETTI Antonio",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 15898,
+            "location": "S. Sebastiano fouri le Mura Rome",
+            "img": "imgs/art/15898.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giorgett/antonio/sebastia.html",
+            "title": "Martyrdom of St Sebastian (detail)",
+            "author": "GIORGETTI Antonio",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1635 Roma d. 1669 Roma)",
+    "name": "GIORGETTI Antonio",
+    "school": "Italian"
+}

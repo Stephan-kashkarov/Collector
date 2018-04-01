@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 9488,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9488.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/aymeric.html",
+            "title": "Pierre Aymeric",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Wood 17 x 14 cm",
+            "painting_type": "portrait",
+            "date": "1534"
+        },
+        {
+            "index": 9489,
+            "location": "Private collection",
+            "img": "imgs/art/9489.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/gentlema.html",
+            "title": "Portrait of a Gentleman",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on panel with extensions 19 x 15 cm",
+            "painting_type": "portrait",
+            "date": "c. 1538-39"
+        },
+        {
+            "index": 9490,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9490.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/jbourbon.html",
+            "title": "Jean de Bourbon-Vend\u00f4me",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Wood 19 x 16 cm",
+            "painting_type": "portrait",
+            "date": "c. 1550"
+        },
+        {
+            "index": 9491,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/9491.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/louiseri.html",
+            "title": "Portrait of Louise de Rieux",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on panel 16 x 12 cm",
+            "painting_type": "portrait",
+            "date": "c. 1550"
+        },
+        {
+            "index": 9492,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/9492.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/p_man.html",
+            "title": "Portrait of a Man",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on walnut 17 x 14 cm",
+            "painting_type": "portrait",
+            "date": "1536-40"
+        },
+        {
+            "index": 9493,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/9493.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/p_woman.html",
+            "title": "Portrait of a Woman",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on wood 20 x 16 cm",
+            "painting_type": "portrait",
+            "date": "c- 1535"
+        },
+        {
+            "index": 9494,
+            "location": "Private collection",
+            "img": "imgs/art/9494.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on panel 19 x 15 cm",
+            "painting_type": "portrait",
+            "date": "c. 1560"
+        },
+        {
+            "index": 9495,
+            "location": "Mus\u00e9e Cond\u00e9 Chantilly",
+            "img": "imgs/art/9495.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/rochecho.html",
+            "title": "Portrait of Gabrielle de Rochechouart",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oil on wood 17 x 14 cm",
+            "painting_type": "portrait",
+            "date": "c. 1574"
+        },
+        {
+            "index": 9496,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/9496.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/corneill/younglad.html",
+            "title": "A Young Lady",
+            "author": "CORNEILLE DE LYON",
+            "technique": "Oak 18 x 15 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1500/10 The Hague d. after 1574 Lyon)",
+    "name": "CORNEILLE DE LYON",
+    "school": "French"
+}

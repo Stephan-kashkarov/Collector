@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 3535,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/3535.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bayeu/francisc/lunch.html",
+            "title": "Lunch on the Field",
+            "author": "BAYEU Y SUBIAS Francisco",
+            "technique": "Oil on canvas 37 x 56 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 3536,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/3536.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bayeu/francisc/olympus.html",
+            "title": "Olympus: The Fall of the Giants",
+            "author": "BAYEU Y SUBIAS Francisco",
+            "technique": "Oil on canvas 68 x 123 cm",
+            "painting_type": "mythological",
+            "date": "1764"
+        },
+        {
+            "index": 3537,
+            "location": "Palacio Real Madrid",
+            "img": "imgs/art/3537.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bayeu/francisc/palacio1.html",
+            "title": "Ceiling fresco (detail)",
+            "author": "BAYEU Y SUBIAS Francisco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 3538,
+            "location": "Palacio Real Madrid",
+            "img": "imgs/art/3538.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bayeu/francisc/palacio2.html",
+            "title": "Ceiling fresco (detail)",
+            "author": "BAYEU Y SUBIAS Francisco",
+            "technique": "Fresco",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 3539,
+            "location": "Museo del Prado Madrid",
+            "img": "imgs/art/3539.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bayeu/francisc/sketch13.html",
+            "title": "Painting with Thirteen Sketches",
+            "author": "BAYEU Y SUBIAS Francisco",
+            "technique": "Oil on canvas 45 x 96 cm",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1734 Zaragoza d. 1795 Madrid)",
+    "name": "BAYEU Y SUBIAS Francisco",
+    "school": "Spanish"
+}

@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 9111,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/9111.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cleveley/younger/hawai.html",
+            "title": "The Resolution and Discovery off Hawaii",
+            "author": "CLEVELEY John the Younger",
+            "technique": "Oil on canvas 45 x 60 cm",
+            "painting_type": "historical",
+            "date": "1780s"
+        },
+        {
+            "index": 9112,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/9112.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cleveley/younger/launch.html",
+            "title": "Launch of HMS Alexander at Deptford in 1778",
+            "author": "CLEVELEY John the Younger",
+            "technique": "Oil on canvas 42 x 67 cm",
+            "painting_type": "historical",
+            "date": "c. 1778"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1747 Deptford d. 1786 London)",
+    "name": "CLEVELEY John the Younger",
+    "school": "English"
+}

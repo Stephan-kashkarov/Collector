@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 9039,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9039.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/clotho1.html",
+            "title": "Clotho",
+            "author": "CLAUDEL Camille",
+            "technique": "Plaster height 90 cm",
+            "painting_type": "mythological",
+            "date": "1893"
+        },
+        {
+            "index": 9040,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9040.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/clotho2.html",
+            "title": "Torso of Clotho",
+            "author": "CLAUDEL Camille",
+            "technique": "Plaster height 45 cm",
+            "painting_type": "mythological",
+            "date": "c. 1893"
+        },
+        {
+            "index": 9041,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9041.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/gossips.html",
+            "title": "Gossips",
+            "author": "CLAUDEL Camille",
+            "technique": "Onyx and bronze 45 x 42 x 39 cm",
+            "painting_type": "genre",
+            "date": "1897"
+        },
+        {
+            "index": 9042,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9042.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/gossips1.html",
+            "title": "Gossips (detail)",
+            "author": "CLAUDEL Camille",
+            "technique": "Onyx and bronze",
+            "painting_type": "genre",
+            "date": "1897"
+        },
+        {
+            "index": 9043,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9043.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/lappetite.html",
+            "title": "La Petite Ch\u00e2telaine",
+            "author": "CLAUDEL Camille",
+            "technique": "Marble height 34 cm",
+            "painting_type": "portrait",
+            "date": "1895"
+        },
+        {
+            "index": 9044,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/9044.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/maturity.html",
+            "title": "The Age of Maturity",
+            "author": "CLAUDEL Camille",
+            "technique": "Bronze 114 x 163 x 72 cm",
+            "painting_type": "mythological",
+            "date": "1898"
+        },
+        {
+            "index": 9045,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9045.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/rodin.html",
+            "title": "Rodin",
+            "author": "CLAUDEL Camille",
+            "technique": "Bronze height 40 cm",
+            "painting_type": "portrait",
+            "date": "1892"
+        },
+        {
+            "index": 9046,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9046.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/vertumnu.html",
+            "title": "Vertumnus and Pomona",
+            "author": "CLAUDEL Camille",
+            "technique": "Marble height 92 cm",
+            "painting_type": "mythological",
+            "date": "1905"
+        },
+        {
+            "index": 9047,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9047.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/vertumnx.html",
+            "title": "Vertumnus and Pomona (detail)",
+            "author": "CLAUDEL Camille",
+            "technique": "Marble",
+            "painting_type": "mythological",
+            "date": "1905"
+        },
+        {
+            "index": 9048,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9048.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/waltz1.html",
+            "title": "The Waltz",
+            "author": "CLAUDEL Camille",
+            "technique": "Bronze height 43 cm",
+            "painting_type": "other",
+            "date": "c. 1895"
+        },
+        {
+            "index": 9049,
+            "location": "Mus\u00e9e Rodin Paris",
+            "img": "imgs/art/9049.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/c/claudel/waltz2.html",
+            "title": "The Waltz",
+            "author": "CLAUDEL Camille",
+            "technique": "Bronze height 43 cm",
+            "painting_type": "other",
+            "date": "c. 1895"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1864 F\u00eare-en-Tardenois d. 1943 Montdevergues)",
+    "name": "CLAUDEL Camille",
+    "school": "French"
+}

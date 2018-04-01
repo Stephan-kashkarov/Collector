@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14418,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/14418.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fremin/diana_co.html",
+            "title": "A Companion of Diana",
+            "author": "FR\u00c9MIN Ren\u00e9",
+            "technique": "Marble height 180 cm",
+            "painting_type": "mythological",
+            "date": "1717"
+        },
+        {
+            "index": 14419,
+            "location": "La Granja hunting lodge San Ildefonso",
+            "img": "imgs/art/14419.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fremin/fountain.html",
+            "title": "Fountain",
+            "author": "FR\u00c9MIN Ren\u00e9",
+            "technique": "Marble",
+            "painting_type": "other",
+            "date": "1734-36"
+        },
+        {
+            "index": 14420,
+            "location": "Palacio Real Madrid",
+            "img": "imgs/art/14420.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/fremin/philip_5.html",
+            "title": "Philip V",
+            "author": "FR\u00c9MIN Ren\u00e9",
+            "technique": "Marble and bronze",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1672 Paris d. 1744 Paris)",
+    "name": "FR\u00c9MIN Ren\u00e9",
+    "school": "French"
+}

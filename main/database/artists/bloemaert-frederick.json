@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4762,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/4762.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bloemaer/frederic/huntsman.html",
+            "title": "Huntsman with Dogs",
+            "author": "BLOEMAERT Frederick",
+            "technique": "Engraving",
+            "painting_type": "landscape",
+            "date": "1630-45"
+        },
+        {
+            "index": 4763,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/4763.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/b/bloemaer/frederic/studies.html",
+            "title": "Figure Studies",
+            "author": "BLOEMAERT Frederick",
+            "technique": "Engraving 184 x 146 mm",
+            "painting_type": "study",
+            "date": "1650-56"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1616 Utrecht d. 1690 Utrecht)",
+    "name": "BLOEMAERT Frederick",
+    "school": "Dutch"
+}

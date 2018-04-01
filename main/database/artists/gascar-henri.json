@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14869,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/14869.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gascar/dukeyork.html",
+            "title": "James Duke of York 1633-1701",
+            "author": "GASCAR Henri",
+            "technique": "Oil on canvas 229 x 173 cm",
+            "painting_type": "portrait",
+            "date": "1672-73"
+        },
+        {
+            "index": 14870,
+            "location": "Private collection",
+            "img": "imgs/art/14870.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gascar/port_lad.html",
+            "title": "Portrait of a Lady",
+            "author": "GASCAR Henri",
+            "technique": "Oil on canvas 96 x 130 cm (in a painted oval)",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 14871,
+            "location": "Private collection",
+            "img": "imgs/art/14871.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gascar/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "GASCAR Henri",
+            "technique": "Oil on canvas128 x 187 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1634 Paris d. 1701 Roma)",
+    "name": "GASCAR Henri",
+    "school": "French"
+}

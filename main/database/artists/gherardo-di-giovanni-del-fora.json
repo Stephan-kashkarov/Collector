@@ -1,0 +1,80 @@
+{
+    "art": [
+        {
+            "index": 15345,
+            "location": "Biblioteca Medicea Laurenziana Florence",
+            "img": "imgs/art/15345.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/g/gherardo/bible.html",
+            "title": "Bible of Matthias Corvinus (Florentine Bible)",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Manuscript (Plut. 15. 17)",
+            "painting_type": "religious",
+            "date": "c. 1490"
+        },
+        {
+            "index": 15346,
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "img": "imgs/art/15346.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/g/gherardo/canzonie.html",
+            "title": "Canzoniere for three and four voices",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Manuscript (Banco Rari 229)",
+            "painting_type": "other",
+            "date": "1490s"
+        },
+        {
+            "index": 15347,
+            "location": "Museo Nazionale del Bargello Florence",
+            "img": "imgs/art/15347.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardo/missal.html",
+            "title": "Missal",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Manuscript",
+            "painting_type": "religious",
+            "date": "1474-75"
+        },
+        {
+            "index": 15348,
+            "location": "Biblioteca Nazionale Centrale Florence",
+            "img": "imgs/art/15348.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/g/gherardo/poems.html",
+            "title": "Manuscript with Poems by Lucrezia Tornabuoni",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Illumination on parchment 221 x 143 mm",
+            "painting_type": "other",
+            "date": "after 1469"
+        },
+        {
+            "index": 15349,
+            "location": "Biblioteca Nazionale Vittorio Emanuele III Naples",
+            "img": "imgs/art/15349.jpg",
+            "form": "illumination",
+            "url": "https://www.wga.hu/html/g/gherardo/portrait.html",
+            "title": "Homer: Works",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Incunable (S. Q. XIII. K. 22) 330 x 225 mm",
+            "painting_type": "portrait",
+            "date": "1488"
+        },
+        {
+            "index": 15350,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/15350.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/g/gherardo/triumph.html",
+            "title": "The Triumph of Chastity",
+            "author": "GHERARDO DI GIOVANNI DEL FORA",
+            "technique": "Oil on wood",
+            "painting_type": "religious",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1445 Firenze d. 1497 Firenze)",
+    "name": "GHERARDO DI GIOVANNI DEL FORA",
+    "school": "Italian"
+}

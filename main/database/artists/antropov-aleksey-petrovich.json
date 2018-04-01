@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 1141,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/1141.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antropov/portrai1.html",
+            "title": "Portrait of Catherine II",
+            "author": "ANTROPOV Aleksey Petrovich",
+            "technique": "Oil on canvas 51 x 38 cm",
+            "painting_type": "portrait",
+            "date": "before 1766"
+        },
+        {
+            "index": 1142,
+            "location": "State Tretyakov Gallery Moscow",
+            "img": "imgs/art/1142.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/antropov/portrai2.html",
+            "title": "Portrait of Catherine II",
+            "author": "ANTROPOV Aleksey Petrovich",
+            "technique": "Oil on canvas",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1716 St. Petersburg d. 1795 St. Petersburg)",
+    "name": "ANTROPOV Aleksey Petrovich",
+    "school": "Russian"
+}

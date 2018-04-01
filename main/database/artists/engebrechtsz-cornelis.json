@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 13165,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13165.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/cecilia.html",
+            "title": "St Cecilia and her Fianc\u00e9",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oak panel diameter: 24 cm",
+            "painting_type": "religious",
+            "date": "1518-20"
+        },
+        {
+            "index": 13166,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/13166.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/christ_t.html",
+            "title": "Christ Taking Leave of his Mother",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on panel 55 x 43 cm",
+            "painting_type": "religious",
+            "date": "c. 1515"
+        },
+        {
+            "index": 13167,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/13167.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/christ_x.html",
+            "title": "Christ in the House of Martha and Mary",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on panel 55 x 44 cm",
+            "painting_type": "religious",
+            "date": "c. 1515"
+        },
+        {
+            "index": 13168,
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "img": "imgs/art/13168.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/crucalta.html",
+            "title": "Lamentation Altarpiece",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on panel 122 x 57 cm",
+            "painting_type": "religious",
+            "date": "1510s"
+        },
+        {
+            "index": 13169,
+            "location": "Stedelijk Museum De Lakenhal Leiden",
+            "img": "imgs/art/13169.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/crucifix.html",
+            "title": "Crucifixion Altarpiece",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on panel",
+            "painting_type": "religious",
+            "date": "1510s"
+        },
+        {
+            "index": 13170,
+            "location": "Museum voor Schone Kunsten Ghent",
+            "img": "imgs/art/13170.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/lamentat.html",
+            "title": "The Lamentation",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on panel 715 x 399 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 13171,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/13171.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/e/engelbre/virginan.html",
+            "title": "Virgin and Child with St Anne",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Oil on oak diameter 24 cm",
+            "painting_type": "religious",
+            "date": "c. 1500"
+        },
+        {
+            "index": 13172,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13172.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/engelbre/z_study1.html",
+            "title": "Character Studies and Nude Figures (recto)",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Brush pen gray and brown ink on blue-grey prepared paper 121 x 160 mm",
+            "painting_type": "study",
+            "date": "c. 1517"
+        },
+        {
+            "index": 13173,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/13173.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/e/engelbre/z_study2.html",
+            "title": "Study of Drapery (verso)",
+            "author": "ENGEBRECHTSZ. Cornelis",
+            "technique": "Brush pen gray and brown ink on blue-grey prepared paper 121 x 160 mm",
+            "painting_type": "study",
+            "date": "c. 1517"
+        }
+    ],
+    "timeframe": "1501-1550",
+    "life": "(b. ca. 1462 Leiden d. 1527 Leiden)",
+    "name": "ENGEBRECHTSZ. Cornelis",
+    "school": "Netherlandish"
+}

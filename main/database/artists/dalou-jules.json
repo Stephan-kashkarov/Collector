@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 10741,
+            "location": "Private collection",
+            "img": "imgs/art/10741.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/bather.html",
+            "title": "Bather Drying her Right Foot",
+            "author": "DALOU Jules",
+            "technique": "Bronze height 35 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10742,
+            "location": "Private collection",
+            "img": "imgs/art/10742.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/courtesa.html",
+            "title": "The Courtesan",
+            "author": "DALOU Jules",
+            "technique": "Bronze 20 x 23 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 10743,
+            "location": "Mus\u00e9e du Petit Palais Paris",
+            "img": "imgs/art/10743.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/embroide.html",
+            "title": "Embroideress",
+            "author": "DALOU Jules",
+            "technique": "Plaster height 28 cm",
+            "painting_type": "genre",
+            "date": "1870"
+        },
+        {
+            "index": 10744,
+            "location": "Private collection",
+            "img": "imgs/art/10744.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/embroidf.html",
+            "title": "The Embroiderer",
+            "author": "DALOU Jules",
+            "technique": "Bronze height 28 cm",
+            "painting_type": "portrait",
+            "date": "1870"
+        },
+        {
+            "index": 10745,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/10745.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalou/girlhead.html",
+            "title": "Girl Wearing a Headscarf",
+            "author": "DALOU Jules",
+            "technique": "Marble height 40 cm",
+            "painting_type": "portrait",
+            "date": "1890-92"
+        },
+        {
+            "index": 10746,
+            "location": "Private collection",
+            "img": "imgs/art/10746.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/mother.html",
+            "title": "Young Mother from Boulogne Feeding her Child",
+            "author": "DALOU Jules",
+            "technique": "Terracotta height 137 cm",
+            "painting_type": "genre",
+            "date": "1876"
+        },
+        {
+            "index": 10747,
+            "location": "Private collection",
+            "img": "imgs/art/10747.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/mother1.html",
+            "title": "Young Mother from Boulogne Feeding her Child (detail)",
+            "author": "DALOU Jules",
+            "technique": "Terracotta",
+            "painting_type": "genre",
+            "date": "1876"
+        },
+        {
+            "index": 10748,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/10748.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/dalou/peasant.html",
+            "title": "Peasant Woman with her Child",
+            "author": "DALOU Jules",
+            "technique": "Terracotta height 125 cm",
+            "painting_type": "genre",
+            "date": "1873"
+        },
+        {
+            "index": 10749,
+            "location": "Place de la Nation Paris",
+            "img": "imgs/art/10749.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/triumph.html",
+            "title": "Triumph of the Republic",
+            "author": "DALOU Jules",
+            "technique": "Bronze height 12 m",
+            "painting_type": "mythological",
+            "date": "1879-99"
+        },
+        {
+            "index": 10750,
+            "location": "Mus\u00e9e d'Orsay Paris",
+            "img": "imgs/art/10750.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/triumph1.html",
+            "title": "Blacksmith",
+            "author": "DALOU Jules",
+            "technique": "Plaster height 68 cm",
+            "painting_type": "other",
+            "date": "1879-89"
+        },
+        {
+            "index": 10751,
+            "location": "Private collection",
+            "img": "imgs/art/10751.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/dalou/truth.html",
+            "title": "Truth Unacknowledged",
+            "author": "DALOU Jules",
+            "technique": "Bronze 32 x 30 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1838 Paris d. 1902 Paris)",
+    "name": "DALOU Jules",
+    "school": "French"
+}

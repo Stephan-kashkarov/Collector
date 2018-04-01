@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 4732,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4732.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/blocklan/adoratio.html",
+            "title": "Adoration of the Shepherds",
+            "author": "BLOCKLANDT VAN MONTFOORT Anthonie",
+            "technique": "Oil on panel 142 x 99 cm",
+            "painting_type": "religious",
+            "date": "1560-72"
+        },
+        {
+            "index": 4733,
+            "location": "Basilica of St. Martin Bingen am Rhein",
+            "img": "imgs/art/4733.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/blocklan/assumpti.html",
+            "title": "Assumption of the Virgin",
+            "author": "BLOCKLANDT VAN MONTFOORT Anthonie",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "1579"
+        },
+        {
+            "index": 4734,
+            "location": "Private collection",
+            "img": "imgs/art/4734.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/blocklan/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "BLOCKLANDT VAN MONTFOORT Anthonie",
+            "technique": "Oil on panel 128 x 95 cm",
+            "painting_type": "portrait",
+            "date": "1580"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. ca. 1533 Montfoort d. 1583 Utrecht)",
+    "name": "BLOCKLANDT VAN MONTFOORT Anthonie",
+    "school": "Netherlandish"
+}

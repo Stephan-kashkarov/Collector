@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 12335,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/12335.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/couple.html",
+            "title": "A Couple in an Interior with a Gypsy Fortune-Teller",
+            "author": "DUCK Jacob",
+            "technique": "Oil on wood 25 x 33 cm",
+            "painting_type": "genre",
+            "date": "1632-33"
+        },
+        {
+            "index": 12336,
+            "location": "Private collection",
+            "img": "imgs/art/12336.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/dividing.html",
+            "title": "Dividing the Spoils",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 46 x 74 cm",
+            "painting_type": "genre",
+            "date": "c. 1635"
+        },
+        {
+            "index": 12337,
+            "location": "Private collection",
+            "img": "imgs/art/12337.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/guardint.html",
+            "title": "A Guardroom Interior",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 25 x 19 cm",
+            "painting_type": "interior",
+            "date": "c. 1630"
+        },
+        {
+            "index": 12338,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/12338.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/guardroo.html",
+            "title": "Guardroom with Soldiers Playing Cards",
+            "author": "DUCK Jacob",
+            "technique": "Oil on canvas 425 x 363 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12339,
+            "location": "Private collection",
+            "img": "imgs/art/12339.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/guardrox.html",
+            "title": "Guardroom Interior",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 43 x 34 cm",
+            "painting_type": "interior",
+            "date": "c. 1635"
+        },
+        {
+            "index": 12340,
+            "location": "Private collection",
+            "img": "imgs/art/12340.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/ladymaid.html",
+            "title": "Elegant Young Lady and Old Maid in an Interior",
+            "author": "DUCK Jacob",
+            "technique": "Oil on oak panel 34 x 28 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12341,
+            "location": "Private collection",
+            "img": "imgs/art/12341.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/notary.html",
+            "title": "Almsgiving in a Notary's Office",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 37 x 52 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12342,
+            "location": "Private collection",
+            "img": "imgs/art/12342.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/notary1.html",
+            "title": "Almsgiving in a Notary's Office (detail)",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12343,
+            "location": "Private collection",
+            "img": "imgs/art/12343.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/selling.html",
+            "title": "A Cavalier Selling His Goods",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 29 x 22 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 12344,
+            "location": "Private collection",
+            "img": "imgs/art/12344.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/sleeping.html",
+            "title": "Bordello Scene with Sleeping Couple",
+            "author": "DUCK Jacob",
+            "technique": "Oil on panel 27x 21 cm",
+            "painting_type": "genre",
+            "date": "1650s"
+        },
+        {
+            "index": 12345,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/12345.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duck/soldiers.html",
+            "title": "Soldier's Rest",
+            "author": "DUCK Jacob",
+            "technique": "Oil on canvas 150 x 204 cm",
+            "painting_type": "genre",
+            "date": "1650s"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1600 Utrecht d. 1667 Utrecht)",
+    "name": "DUCK Jacob",
+    "school": "Dutch"
+}

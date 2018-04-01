@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 6922,
+            "location": "Mus\u00e9e des Beaux-Arts Strasbourg",
+            "img": "imgs/art/6922.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabat/landscap.html",
+            "title": "Landscape",
+            "author": "CABAT Louis-Nicolas",
+            "technique": "Oil on canvas",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 6923,
+            "location": "Private collection",
+            "img": "imgs/art/6923.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cabat/shepherd.html",
+            "title": "A Shepherd with his Flock",
+            "author": "CABAT Louis-Nicolas",
+            "technique": "Oil on canvas 60 x 101 cm",
+            "painting_type": "genre",
+            "date": "1875"
+        }
+    ],
+    "timeframe": "1851-1900",
+    "life": "(b. 1812 Paris d. 1893 Paris)",
+    "name": "CABAT Louis-Nicolas",
+    "school": "French"
+}

@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 16531,
+            "location": "Santa Chiara Naples",
+            "img": "imgs/art/16531.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/andpacio/catherin.html",
+            "title": "Scene from the Life of St Catherine of Alexandria",
+            "author": "GIOVANNI and PACIO DA FIRENZE",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1343-45"
+        },
+        {
+            "index": 16532,
+            "location": "Santa Chiara Naples",
+            "img": "imgs/art/16532.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/andpacio/tomb1.html",
+            "title": "Monument to Robert of Anjou King of Sicily",
+            "author": "GIOVANNI and PACIO DA FIRENZE",
+            "technique": "Stone",
+            "painting_type": "religious",
+            "date": "1343-45"
+        },
+        {
+            "index": 16533,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/16533.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/g/giovanni/andpacio/vultus.html",
+            "title": "Vultus trifrons or an Allegory of Prudence",
+            "author": "GIOVANNI and PACIO DA FIRENZE",
+            "technique": "Marble height 23 cm",
+            "painting_type": "mythological",
+            "date": "1340s"
+        }
+    ],
+    "timeframe": "1301-1350",
+    "life": "(documented 1343-1345)",
+    "name": "GIOVANNI and PACIO DA FIRENZE",
+    "school": "Italian"
+}

@@ -1,0 +1,68 @@
+{
+    "art": [
+        {
+            "index": 519,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/519.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anderson/capture.html",
+            "title": "The Capture of Fort Saint Louis Martinique",
+            "author": "ANDERSON William",
+            "technique": "Oil on canvas 91 x 127 cm",
+            "painting_type": "historical",
+            "date": "1795"
+        },
+        {
+            "index": 520,
+            "location": "Private collection",
+            "img": "imgs/art/520.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anderson/rateship.html",
+            "title": "An English 3rd-Rate Ship of the Line in Three Positions",
+            "author": "ANDERSON William",
+            "technique": "Oil on canvas 84 x 130 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 521,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/521.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anderson/selfport.html",
+            "title": "Self-Portrait",
+            "author": "ANDERSON William",
+            "technique": "Oil on canvas 61 x 54 cm",
+            "painting_type": "portrait",
+            "date": "c. 1800"
+        },
+        {
+            "index": 522,
+            "location": "Private collection",
+            "img": "imgs/art/522.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anderson/shipcalm.html",
+            "title": "Shipping in a Calm Sea off the Coast",
+            "author": "ANDERSON William",
+            "technique": "Oil on oak panel 22 x 30 cm",
+            "painting_type": "landscape",
+            "date": "1803"
+        },
+        {
+            "index": 523,
+            "location": "National Maritime Museum Greenwich",
+            "img": "imgs/art/523.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/anderson/shipping.html",
+            "title": "Shipping on the Thames off Deptford",
+            "author": "ANDERSON William",
+            "technique": "Oil on panel 32 x 43 cm",
+            "painting_type": "landscape",
+            "date": "c. 1825"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1757 Scotland d. 1837 London)",
+    "name": "ANDERSON William",
+    "school": "Scottish"
+}

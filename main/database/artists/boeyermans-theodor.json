@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 4843,
+            "location": "Private collection",
+            "img": "imgs/art/4843.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boeyerma/antwerp.html",
+            "title": "Allegory of the City of Antwerp",
+            "author": "BOEYERMANS Theodor",
+            "technique": "Oil on panel 84 x 118 cm",
+            "painting_type": "mythological",
+            "date": "c. 1660"
+        },
+        {
+            "index": 4844,
+            "location": "Private collection",
+            "img": "imgs/art/4844.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/boeyerma/antwerp1.html",
+            "title": "Allegory of the City of Antwerp (detail)",
+            "author": "BOEYERMANS Theodor",
+            "technique": "Oil on panel",
+            "painting_type": "mythological",
+            "date": "c. 1660"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1620 Antwerpen d. 1678 Antwerpen)",
+    "name": "BOEYERMANS Theodor",
+    "school": "Flemish"
+}

@@ -1,0 +1,128 @@
+{
+    "art": [
+        {
+            "index": 7424,
+            "location": "Wallraf-Richartz-Museum Cologne",
+            "img": "imgs/art/7424.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/calm.html",
+            "title": "Calm",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on oak 475 x 59 cm",
+            "painting_type": "landscape",
+            "date": "1650-55"
+        },
+        {
+            "index": 7425,
+            "location": "National Museum of Wales Cardiff",
+            "img": "imgs/art/7425.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/calm1.html",
+            "title": "Calm",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on canvas 110 x 148 cm",
+            "painting_type": "landscape",
+            "date": "1654"
+        },
+        {
+            "index": 7426,
+            "location": "Metropolitan Museum of Art New York",
+            "img": "imgs/art/7426.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/calm2.html",
+            "title": "A State Yacht and Other Craft in Calm Water",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on wood 70 x 92 cm",
+            "painting_type": "landscape",
+            "date": "c. 1660"
+        },
+        {
+            "index": 7427,
+            "location": "Private collection",
+            "img": "imgs/art/7427.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/calm3.html",
+            "title": "Shipping in a Calm",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on panel",
+            "painting_type": "landscape",
+            "date": "1649"
+        },
+        {
+            "index": 7428,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/7428.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/saluting.html",
+            "title": "The State Barge Saluted by the Home Fleet",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on panel 64 x 93 cm",
+            "painting_type": "landscape",
+            "date": "1650"
+        },
+        {
+            "index": 7429,
+            "location": "National Gallery London",
+            "img": "imgs/art/7429.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/salvo.html",
+            "title": "Dutch Yacht Firing a Salvo",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on wood 855 x 1145 cm",
+            "painting_type": "landscape",
+            "date": "1650"
+        },
+        {
+            "index": 7430,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/7430.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/seascape.html",
+            "title": "Seascape with Sailing Boats",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on canvas 67 x 58 cm",
+            "painting_type": "landscape",
+            "date": "after 1652"
+        },
+        {
+            "index": 7431,
+            "location": "Rijksmuseum Twenthe Enschede",
+            "img": "imgs/art/7431.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/winter_l.html",
+            "title": "Winter Landscape",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on wood",
+            "painting_type": "landscape",
+            "date": "1650s"
+        },
+        {
+            "index": 7432,
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "img": "imgs/art/7432.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/winter_m.html",
+            "title": "Winter Landscape",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on panel 41 x 42 cm",
+            "painting_type": "landscape",
+            "date": "c. 1660"
+        },
+        {
+            "index": 7433,
+            "location": "Private collection",
+            "img": "imgs/art/7433.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cappelle/winter_n.html",
+            "title": "Winter Landscape",
+            "author": "CAPPELLE Jan van de",
+            "technique": "Oil on canvas 40 x 45 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1626 Amsterdam d. 1679 Amsterdam)",
+    "name": "CAPPELLE Jan van de",
+    "school": "Dutch"
+}

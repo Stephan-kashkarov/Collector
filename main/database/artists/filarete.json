@@ -1,0 +1,116 @@
+{
+    "art": [
+        {
+            "index": 13826,
+            "location": "Staatliche Kunstsammlungen Dresden",
+            "img": "imgs/art/13826.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/marcus_a.html",
+            "title": "Equestrian statue of Marcus Aurelius",
+            "author": "FILARETE",
+            "technique": "Bronze glazed and gilded height 37 cm",
+            "painting_type": "other",
+            "date": "1465"
+        },
+        {
+            "index": 13827,
+            "location": "Castello Sforzesco Milan",
+            "img": "imgs/art/13827.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/selfport.html",
+            "title": "Self-Portrait",
+            "author": "FILARETE",
+            "technique": "Cast bronze 8 x 7 cm",
+            "painting_type": "portrait",
+            "date": "c. 1460"
+        },
+        {
+            "index": 13828,
+            "location": "Basilica di San Pietro Vatican",
+            "img": "imgs/art/13828.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/st_pete.html",
+            "title": "Bronze door",
+            "author": "FILARETE",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1433-45"
+        },
+        {
+            "index": 13829,
+            "location": "Basilica di San Pietro Vatican",
+            "img": "imgs/art/13829.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/st_pete0.html",
+            "title": "Bronze door",
+            "author": "FILARETE",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1433-45"
+        },
+        {
+            "index": 13830,
+            "location": "Basilica di San Pietro Vatican",
+            "img": "imgs/art/13830.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/st_pete1.html",
+            "title": "Bronze door (detail)",
+            "author": "FILARETE",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1433-35"
+        },
+        {
+            "index": 13831,
+            "location": "Basilica di San Pietro Vatican",
+            "img": "imgs/art/13831.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/filarete/st_pete2.html",
+            "title": "Bronze door (detail)",
+            "author": "FILARETE",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1433-45"
+        },
+        {
+            "index": 13832,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/13832.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/filarete/tratta1.html",
+            "title": "Page from the Trattato d'architettura",
+            "author": "FILARETE",
+            "technique": "-",
+            "painting_type": "study",
+            "date": "c. 1465"
+        },
+        {
+            "index": 13833,
+            "location": "Galleria degli Uffizi Florence",
+            "img": "imgs/art/13833.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/filarete/tratta2.html",
+            "title": "Page from the Trattato d'architettura",
+            "author": "FILARETE",
+            "technique": "-",
+            "painting_type": "study",
+            "date": "c. 1465"
+        },
+        {
+            "index": 13834,
+            "location": "Ospedale Maggiore Milan",
+            "img": "imgs/art/13834.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/f/filarete/ycortile.html",
+            "title": "Cortile della Speziera",
+            "author": "FILARETE",
+            "technique": "-",
+            "painting_type": "other",
+            "date": "1467"
+        }
+    ],
+    "timeframe": "1401-1450",
+    "life": "(b. ca. 1400 Firenze d. 1469 Roma)",
+    "name": "FILARETE",
+    "school": "Italian"
+}

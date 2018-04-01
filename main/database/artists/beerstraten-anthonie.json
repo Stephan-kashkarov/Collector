@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3645,
+            "location": "Private collection",
+            "img": "imgs/art/3645.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/anthonie/manowar.html",
+            "title": "Dutch Man O' War Firing its Guns",
+            "author": "BEERSTRATEN Anthonie",
+            "technique": "Oil on canvas 92 x 128 cm",
+            "painting_type": "landscape",
+            "date": "1660"
+        },
+        {
+            "index": 3646,
+            "location": "Private collection",
+            "img": "imgs/art/3646.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/anthonie/skating.html",
+            "title": "Skating near a Town Wall",
+            "author": "BEERSTRATEN Anthonie",
+            "technique": "Oil on canvas 88 x 128 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3647,
+            "location": "Private collection",
+            "img": "imgs/art/3647.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/anthonie/winter_l.html",
+            "title": "Winter Landscape",
+            "author": "BEERSTRATEN Anthonie",
+            "technique": "Oil on canvas 95 x 128 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 3648,
+            "location": "Private collection",
+            "img": "imgs/art/3648.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/beerstra/anthonie/winterla.html",
+            "title": "Winter Landscape with Skaters on a Frozen Lake",
+            "author": "BEERSTRATEN Anthonie",
+            "technique": "Oil on canvas 102 x 127 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(active 1635-1665 in Amsterdam)",
+    "name": "BEERSTRATEN Anthonie",
+    "school": "Flemish"
+}

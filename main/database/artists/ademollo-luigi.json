@@ -1,0 +1,140 @@
+{
+    "art": [
+        {
+            "index": 66,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/66.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/ark.html",
+            "title": "View of the Room of the Ark",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1816"
+        },
+        {
+            "index": 67,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/67.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/ark1.html",
+            "title": "View of the Room of the Ark",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1816"
+        },
+        {
+            "index": 68,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/68.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/ark2.html",
+            "title": "The Menorah",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1816"
+        },
+        {
+            "index": 69,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/69.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/ark3.html",
+            "title": "Transportation of the Ark of the Covenant Containing the Tablets of the Law",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1816"
+        },
+        {
+            "index": 70,
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "img": "imgs/art/70.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/chapel.html",
+            "title": "View of the Palatine Chapel",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "interior",
+            "date": "1800s"
+        },
+        {
+            "index": 71,
+            "location": "Palazzo Ducale Lucca",
+            "img": "imgs/art/71.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/lucca1.html",
+            "title": "Episodes in Roman History",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1820s"
+        },
+        {
+            "index": 72,
+            "location": "Palazzo Ducale Lucca",
+            "img": "imgs/art/72.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/lucca2.html",
+            "title": "Episodes in Roman History",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1820s"
+        },
+        {
+            "index": 73,
+            "location": "Palazzo Ducale Lucca",
+            "img": "imgs/art/73.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/lucca3.html",
+            "title": "Episodes in Roman History",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1820s"
+        },
+        {
+            "index": 74,
+            "location": "Palazzo Bianchi-Bandinelli Siena",
+            "img": "imgs/art/74.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/siena1.html",
+            "title": "Fresco decoration (detail)",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1800-10"
+        },
+        {
+            "index": 75,
+            "location": "Palazzo Bianchi-Bandinelli Siena",
+            "img": "imgs/art/75.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/siena2.html",
+            "title": "Fresco decoration (detail)",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1800-10"
+        },
+        {
+            "index": 76,
+            "location": "Palazzo Bianchi-Bandinelli Siena",
+            "img": "imgs/art/76.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/a/ademollo/siena3.html",
+            "title": "Fresco decoration (detail)",
+            "author": "ADEMOLLO Luigi",
+            "technique": "Fresco",
+            "painting_type": "historical",
+            "date": "1800-10"
+        }
+    ],
+    "timeframe": "1801-1850",
+    "life": "(b. 1764 Milano d. 1849 Firenze)",
+    "name": "ADEMOLLO Luigi",
+    "school": "Italian"
+}

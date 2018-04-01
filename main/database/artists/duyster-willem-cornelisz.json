@@ -1,0 +1,92 @@
+{
+    "art": [
+        {
+            "index": 12466,
+            "location": "Private collection",
+            "img": "imgs/art/12466.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/allegory.html",
+            "title": "Allegory of Hearing",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on oak panel 44 x 32 cm",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 12467,
+            "location": "Staatsgalerie Schleissheim",
+            "img": "imgs/art/12467.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/cardplay.html",
+            "title": "Card-Playing Soldiers",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on panel 32 x 43 cm",
+            "painting_type": "genre",
+            "date": "1625-30"
+        },
+        {
+            "index": 12468,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/12468.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/clowns.html",
+            "title": "Carnival Clowns",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on oak 28 x 38 cm",
+            "painting_type": "genre",
+            "date": "c. 1620"
+        },
+        {
+            "index": 12469,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/12469.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/marauder.html",
+            "title": "The Marauders",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on panel 36 x 50 cm",
+            "painting_type": "genre",
+            "date": "1630-35"
+        },
+        {
+            "index": 12470,
+            "location": "Staatliche Museen Berlin",
+            "img": "imgs/art/12470.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/musicmak.html",
+            "title": "Music-Making Couple",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on oak 43 x 36 cm",
+            "painting_type": "genre",
+            "date": "-"
+        },
+        {
+            "index": 12471,
+            "location": "Museum of Art Philadelphia",
+            "img": "imgs/art/12471.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/soldiers.html",
+            "title": "Soldiers beside a Fireplace",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on panel 42 x 47 cm",
+            "painting_type": "genre",
+            "date": "c. 1632"
+        },
+        {
+            "index": 12472,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/12472.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/duyster/soldierx.html",
+            "title": "Soldiers beside a Fireplace",
+            "author": "DUYSTER Willem Cornelisz.",
+            "technique": "Oil on panel 44 x 46 cm",
+            "painting_type": "genre",
+            "date": "c. 1633"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. 1599 Amsterdam d. 1635 Amsterdam)",
+    "name": "DUYSTER Willem Cornelisz.",
+    "school": "Dutch"
+}

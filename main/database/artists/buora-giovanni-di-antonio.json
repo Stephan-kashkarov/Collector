@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 6844,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/6844.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buora/grimani1.html",
+            "title": "Palazzo Grimani Marcello: Fa\u00e7ade",
+            "author": "BUORA Giovanni di Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1500-10"
+        },
+        {
+            "index": 6845,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/6845.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buora/grimani2.html",
+            "title": "Palazzo Grimani Marcello: Fa\u00e7ade",
+            "author": "BUORA Giovanni di Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1500-10"
+        },
+        {
+            "index": 6846,
+            "location": "Canal Grande Venice",
+            "img": "imgs/art/6846.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/b/buora/grimani3.html",
+            "title": "Palazzo Grimani Marcello: Fa\u00e7ade",
+            "author": "BUORA Giovanni di Antonio",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1500-10"
+        },
+        {
+            "index": 6847,
+            "location": "Santo Stefano Venice",
+            "img": "imgs/art/6847.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/b/buora/virgin_c.html",
+            "title": "Virgin and Child with Saints and Donors",
+            "author": "BUORA Giovanni di Antonio",
+            "technique": "Bronze",
+            "painting_type": "religious",
+            "date": "1488-93"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(b. ca. 1450 Osteno d. 1513 Venezia)",
+    "name": "BUORA Giovanni di Antonio",
+    "school": "Italian"
+}

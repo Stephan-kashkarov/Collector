@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 13758,
+            "location": "National Gallery of Art Washington",
+            "img": "imgs/art/13758.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fessard/autumn.html",
+            "title": "Autumn",
+            "author": "FESSARD Etienne",
+            "technique": "Engraving",
+            "painting_type": "mythological",
+            "date": "c. 1740"
+        },
+        {
+            "index": 13759,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13759.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fessard/foundlin.html",
+            "title": "View of the Foundlings' Chapel in Paris",
+            "author": "FESSARD Etienne",
+            "technique": "Engraving",
+            "painting_type": "religious",
+            "date": "1752-59"
+        },
+        {
+            "index": 13760,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13760.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fessard/navarre.html",
+            "title": "Jeanne d'Albret Queen of Navarre",
+            "author": "FESSARD Etienne",
+            "technique": "Engraving",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 13761,
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "img": "imgs/art/13761.jpg",
+            "form": "graphics",
+            "url": "https://www.wga.hu/html/f/fessard/womanwax.html",
+            "title": "Woman Waxing a Letter",
+            "author": "FESSARD Etienne",
+            "technique": "Engraving",
+            "painting_type": "genre",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1751-1800",
+    "life": "(b. 1714 Paris d. 1777 Paris)",
+    "name": "FESSARD Etienne",
+    "school": "French"
+}

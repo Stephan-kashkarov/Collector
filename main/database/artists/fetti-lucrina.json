@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13789,
+            "location": "Private collection",
+            "img": "imgs/art/13789.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fetti/barbara.html",
+            "title": "St Barbara",
+            "author": "FETTI Lucrina",
+            "technique": "Oil on canvas 152 x 97 cm",
+            "painting_type": "religious",
+            "date": "1619"
+        },
+        {
+            "index": 13790,
+            "location": "Palmer Museum of Art The Pennsylvania State University University Park",
+            "img": "imgs/art/13790.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/f/fetti/margaret.html",
+            "title": "St Margaret",
+            "author": "FETTI Lucrina",
+            "technique": "Oil on canvas 55 x 42 cm",
+            "painting_type": "religious",
+            "date": "1614-20"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1590 Roma d. 1651 Mantova)",
+    "name": "FETTI Lucrina",
+    "school": "Italian"
+}

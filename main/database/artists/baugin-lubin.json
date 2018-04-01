@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 3528,
+            "location": "Galleria Spada Rome",
+            "img": "imgs/art/3528.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baugin/candle.html",
+            "title": "Still-Life with Candle",
+            "author": "BAUGIN Lubin",
+            "technique": "Oil on canvas",
+            "painting_type": "still-life",
+            "date": "1630"
+        },
+        {
+            "index": 3529,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/3529.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baugin/chessboa.html",
+            "title": "Still-life with Chessboard (The Five Senses)",
+            "author": "BAUGIN Lubin",
+            "technique": "Oil on panel 55 x 73 cm",
+            "painting_type": "still-life",
+            "date": "1630"
+        },
+        {
+            "index": 3530,
+            "location": "Mus\u00e9e du Louvre Paris",
+            "img": "imgs/art/3530.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baugin/dessert.html",
+            "title": "Still-Life with Wafer Biscuits (Le Dessert de Gaufrettes)",
+            "author": "BAUGIN Lubin",
+            "technique": "Oil on panel 41 x 52 cm",
+            "painting_type": "still-life",
+            "date": "1630s"
+        },
+        {
+            "index": 3531,
+            "location": "Private collection",
+            "img": "imgs/art/3531.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/baugin/olindo.html",
+            "title": "Olindo and Sofronia on the Pyre",
+            "author": "BAUGIN Lubin",
+            "technique": "Oil on canvas oval set in a rectangle with added corners 158 x 112 cm (overall)",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1610 Pithiviers d. 1663 Paris)",
+    "name": "BAUGIN Lubin",
+    "school": "French"
+}

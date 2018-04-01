@@ -1,0 +1,56 @@
+{
+    "art": [
+        {
+            "index": 9131,
+            "location": "National Portrait Gallery London",
+            "img": "imgs/art/9131.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/closterm/ashley.html",
+            "title": "Maurice and Anthony Ashley-Cooper",
+            "author": "CLOSTERMAN John",
+            "technique": "Oil on canvas 243 x 171 cm",
+            "painting_type": "portrait",
+            "date": "c. 1700"
+        },
+        {
+            "index": 9132,
+            "location": "Private collection",
+            "img": "imgs/art/9132.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/closterm/dashwood.html",
+            "title": "Portrait of Thomas and George Dashwood",
+            "author": "CLOSTERMAN John",
+            "technique": "Oil on canvas 158 x 96 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        },
+        {
+            "index": 9133,
+            "location": "Private collection",
+            "img": "imgs/art/9133.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/closterm/killigre.html",
+            "title": "Portrait of Guilford Killigrew When a Boy",
+            "author": "CLOSTERMAN John",
+            "technique": "Oil on canvas 151 x 91 cm",
+            "painting_type": "portrait",
+            "date": "1709"
+        },
+        {
+            "index": 9134,
+            "location": "Private collection",
+            "img": "imgs/art/9134.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/closterm/portlady.html",
+            "title": "Portrait of a Lady",
+            "author": "CLOSTERMAN John",
+            "technique": "Oil on canvas 126 x 103 cm",
+            "painting_type": "portrait",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1660 Osnabr\u00fcck d. 1711 London)",
+    "name": "CLOSTERMAN John",
+    "school": "German"
+}

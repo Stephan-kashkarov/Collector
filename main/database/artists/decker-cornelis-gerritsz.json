@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 11102,
+            "location": "National Gallery London",
+            "img": "imgs/art/11102.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decker_c/cottage.html",
+            "title": "Cottage among Trees on Bank of Stream",
+            "author": "DECKER Cornelis Gerritsz",
+            "technique": "Oil on canvas 65 x 78 cm",
+            "painting_type": "landscape",
+            "date": "1669"
+        },
+        {
+            "index": 11103,
+            "location": "Private collection",
+            "img": "imgs/art/11103.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decker_c/farmyarc.html",
+            "title": "Landscape with a Village Road",
+            "author": "DECKER Cornelis Gerritsz",
+            "technique": "Oil on canvas 84 x 107 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        },
+        {
+            "index": 11104,
+            "location": "Private collection",
+            "img": "imgs/art/11104.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/d/decker_c/farmyard.html",
+            "title": "Landscape with a Farmyard",
+            "author": "DECKER Cornelis Gerritsz",
+            "technique": "Oil on canvas 84 x 107 cm",
+            "painting_type": "landscape",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1618 Haarlem d. 1678 Haarlem)",
+    "name": "DECKER Cornelis Gerritsz",
+    "school": "Dutch"
+}

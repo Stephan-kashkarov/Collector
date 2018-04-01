@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 13933,
+            "location": "Cathedral Tournai",
+            "img": "imgs/art/13933.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/floris/cornelis/carrying.html",
+            "title": "Christ Carrying the Cross",
+            "author": "FLORIS Cornelis",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "c. 1570"
+        },
+        {
+            "index": 13934,
+            "location": "Church of St. Leonard Zoutleeuw",
+            "img": "imgs/art/13934.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/f/floris/cornelis/tabernac.html",
+            "title": "Sacrament house",
+            "author": "FLORIS Cornelis",
+            "technique": "Marble",
+            "painting_type": "religious",
+            "date": "1550-52"
+        }
+    ],
+    "timeframe": "1551-1600",
+    "life": "(b. 1514 Antwerpen d. 1575 Antwerpen)",
+    "name": "FLORIS Cornelis",
+    "school": "Flemish"
+}

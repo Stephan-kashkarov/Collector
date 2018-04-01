@@ -1,0 +1,104 @@
+{
+    "art": [
+        {
+            "index": 8820,
+            "location": "Sant'Andrea della Valle Rome",
+            "img": "imgs/art/8820.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/andrew.html",
+            "title": "St Andrew Condemned by Aegeus",
+            "author": "CIGNANI Carlo",
+            "technique": "Fresco",
+            "painting_type": "religious",
+            "date": "1662-65"
+        },
+        {
+            "index": 8821,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/8821.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/fallman.html",
+            "title": "The Fall of Man",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas 312 x 197 cm",
+            "painting_type": "religious",
+            "date": "c. 1700"
+        },
+        {
+            "index": 8822,
+            "location": "Sz\u00e9pm\u00fbv\u00e9szeti M\u00fazeum Budapest",
+            "img": "imgs/art/8822.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/fallman1.html",
+            "title": "The Fall of Man (detail)",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas",
+            "painting_type": "religious",
+            "date": "c. 1700"
+        },
+        {
+            "index": 8823,
+            "location": "Gem\u00e4ldegalerie Dresden",
+            "img": "imgs/art/8823.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/joseph.html",
+            "title": "Joseph and Potiphar's Wife",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas 99 x 99 cm",
+            "painting_type": "religious",
+            "date": "1678-80"
+        },
+        {
+            "index": 8824,
+            "location": "Private collection",
+            "img": "imgs/art/8824.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/madchild.html",
+            "title": "Madonna and Child",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on copper 55 x 40 cm",
+            "painting_type": "religious",
+            "date": "-"
+        },
+        {
+            "index": 8825,
+            "location": "The Hermitage St. Petersburg",
+            "img": "imgs/art/8825.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/shepherd.html",
+            "title": "Shepherd and Shepherdess",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas 103 x 128 cm",
+            "painting_type": "mythological",
+            "date": "1670s"
+        },
+        {
+            "index": 8826,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/8826.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/venus_c.html",
+            "title": "Venus and Cupid",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "-"
+        },
+        {
+            "index": 8827,
+            "location": "Galleria Sabauda Turin",
+            "img": "imgs/art/8827.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/cignani/venus_c1.html",
+            "title": "Venus and Cupid (detail)",
+            "author": "CIGNANI Carlo",
+            "technique": "Oil on canvas",
+            "painting_type": "mythological",
+            "date": "-"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. 1628 Bologna d. 1719 Forli)",
+    "name": "CIGNANI Carlo",
+    "school": "Italian"
+}

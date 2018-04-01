@@ -1,0 +1,20 @@
+{
+    "art": [
+        {
+            "index": 4708,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/4708.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/b/bleker/dirck/magdalen.html",
+            "title": "The Penitent Mary Magdalen",
+            "author": "BLEKER Dirck Gerritsz",
+            "technique": "Oil on canvas 112 x 83 cm",
+            "painting_type": "religious",
+            "date": "1651"
+        }
+    ],
+    "timeframe": "1651-1700",
+    "life": "(b. ca. 1621 Haarlem d. ca. 1679 Den Haag)",
+    "name": "BLEKER Dirck Gerritsz",
+    "school": "Dutch"
+}

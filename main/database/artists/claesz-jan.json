@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 8948,
+            "location": "Private collection",
+            "img": "imgs/art/8948.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claesz_j/chilport.html",
+            "title": "Portrait of a Young Child",
+            "author": "CLAESZ. Jan",
+            "technique": "Oil on panel 84 x 64 cm",
+            "painting_type": "portrait",
+            "date": "1606"
+        },
+        {
+            "index": 8949,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/8949.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claesz_j/pendant1.html",
+            "title": "Portrait of Bartholomeus van der Wiere",
+            "author": "CLAESZ. Jan",
+            "technique": "Oil on panel 107 x 82 cm",
+            "painting_type": "portrait",
+            "date": "1593"
+        },
+        {
+            "index": 8950,
+            "location": "Rijksmuseum Amsterdam",
+            "img": "imgs/art/8950.jpg",
+            "form": "painting",
+            "url": "https://www.wga.hu/html/c/claesz_j/pendant2.html",
+            "title": "Portrait of Lysbeth Hendriksdr",
+            "author": "CLAESZ. Jan",
+            "technique": "Oil on panel 107 x 82 cm",
+            "painting_type": "portrait",
+            "date": "1593"
+        }
+    ],
+    "timeframe": "1601-1650",
+    "life": "(b. ca. 1570 Haarlem d. 1618 Enkhuisen)",
+    "name": "CLAESZ. Jan",
+    "school": "Netherlandish"
+}

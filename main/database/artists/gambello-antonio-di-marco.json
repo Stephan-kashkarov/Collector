@@ -1,0 +1,44 @@
+{
+    "art": [
+        {
+            "index": 14780,
+            "location": "Campo San Zaccaria Venice",
+            "img": "imgs/art/14780.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gambello/antonio/zaccari.html",
+            "title": "San Zaccaria: Fa\u00e7ade",
+            "author": "GAMBELLO Antonio di Marco",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1458-89"
+        },
+        {
+            "index": 14781,
+            "location": "Campo San Zaccaria Venice",
+            "img": "imgs/art/14781.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gambello/antonio/zaccari1.html",
+            "title": "San Zaccaria: Fa\u00e7ade",
+            "author": "GAMBELLO Antonio di Marco",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1450-1500"
+        },
+        {
+            "index": 14782,
+            "location": "Campo San Zaccaria Venice",
+            "img": "imgs/art/14782.jpg",
+            "form": "architecture",
+            "url": "https://www.wga.hu/html/g/gambello/antonio/zaccari2.html",
+            "title": "San Zaccaria: Interior",
+            "author": "GAMBELLO Antonio di Marco",
+            "technique": "Photo",
+            "painting_type": "other",
+            "date": "1458-89"
+        }
+    ],
+    "timeframe": "1451-1500",
+    "life": "(active 1458 d. 1481 Venezia)",
+    "name": "GAMBELLO Antonio di Marco",
+    "school": "Italian"
+}

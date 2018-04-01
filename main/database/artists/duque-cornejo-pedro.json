@@ -1,0 +1,32 @@
+{
+    "art": [
+        {
+            "index": 12428,
+            "location": "Carthusian monastery El Paular",
+            "img": "imgs/art/12428.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/duque/paular1.html",
+            "title": "Sagrario (detail)",
+            "author": "DUQUE CORNEJO Pedro",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "c. 1720"
+        },
+        {
+            "index": 12429,
+            "location": "Carthusian monastery El Paular",
+            "img": "imgs/art/12429.jpg",
+            "form": "sculpture",
+            "url": "https://www.wga.hu/html/d/duque/paular2.html",
+            "title": "Sagrario (detail)",
+            "author": "DUQUE CORNEJO Pedro",
+            "technique": "Stucco",
+            "painting_type": "other",
+            "date": "c. 1720"
+        }
+    ],
+    "timeframe": "1701-1750",
+    "life": "(b. 1678 Sevilla d. 1757 C\u00f3rdoba)",
+    "name": "DUQUE CORNEJO Pedro",
+    "school": "Spanish"
+}

@@ -64,4 +64,18 @@ $(document).ready(function () {
 	$(document).on("click", ".back_full", function (e) {
 		loaded[0].full.print()
 	})
+
+	$("#artist_input").focus(function(e){
+		$("nav").animate({"height": "20%"})
+		$("main").animate({"padding-top": "60%"})
+	})
+
+	$("#artist_input").blur(function(e){
+		$("nav").animate({
+			"height": "25px"
+		})
+		$("main").animate({
+			"padding-top": "10%"
+		})
+	});
 });

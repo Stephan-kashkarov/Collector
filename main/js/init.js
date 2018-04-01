@@ -45,9 +45,9 @@ $(document).ready(function () {
 			console.log("localStorage was cleared");
 			console.log(window.localStorage.key(0), "=", window.localStorage.getItem(window.localStorage.key(0)));
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
-			artist_list = JSON.stringify(artist_list);
+			artist_list = JSON.parse(artist_list);
 			artist_lite_list = window.localStorage.getItem(window.localStorage.key(1));
-			artist_lite_list = JSON.stringify(artist_lite_list);
+			artist_lite_list = JSON.parse(artist_lite_list);
 		}
 	}
 	if(artist_lite_list.length != artist_list.length) {

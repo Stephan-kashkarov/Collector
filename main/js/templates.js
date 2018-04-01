@@ -1,11 +1,11 @@
 // Template for Artist Profile
 const artist_template = ({
-	author,
-	life,
-	school,
-	timeframe
-}) =>
-`
+		author,
+		life,
+		school,
+		timeframe
+	}) =>
+	`
 <li class="artist">
 	<span class="author-title">
 		${author}
@@ -17,11 +17,11 @@ const artist_template = ({
 `;
 
 const artist_lite_template = ({
-	name,
-	school,
-	timeframe
-}) =>
-`
+		name,
+		school,
+		timeframe
+	}) =>
+	`
 <li class="name article artist-lite">
 	<a class="artist_lite name">
 		${name}
@@ -36,11 +36,11 @@ const artist_lite_template = ({
 `;
 
 const art_list_template = ({
-	title,
-	date,
-	index
-}) =>
-`
+		title,
+		date,
+		index
+	}) =>
+	`
 <li class="art-contained">
 	<a class="art">
 		<span class="art-title">
@@ -54,16 +54,16 @@ const art_list_template = ({
 `
 // Template for Art Profile
 const art_profile = ({
-	title,
-	date,
-	technique,
-	location,
-	form,
-	painting_type,
-	index,
-	img
-}) =>
-`
+		title,
+		date,
+		technique,
+		location,
+		form,
+		painting_type,
+		index,
+		img
+	}) =>
+	`
 <li class="art_article">
 	<span>
 		${title}
@@ -92,9 +92,9 @@ const art_profile = ({
 </li>
 `
 const auto_complete = ({
-	name
-}) =>
-`
+		name
+	}) =>
+	`
 <option>
 	${name}
 <option>

@@ -29,7 +29,7 @@ $(document).ready(function () {
 			artist_lite_list = JSON.parse(artist_lite_list);
 		}
 	} else {
-		if (window.localStorage.getItem("artist_list") == []) {
+		if(window.localStorage.getItem("artist_list") == []) {
 			window.localStorage.clear();
 			artist_list = $.ajax({
 				url: "database/artists.json",

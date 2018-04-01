@@ -83,6 +83,9 @@ const art_profile = ({
 		<br>
 		Index: ${index}
 	</p>
+	<br>
+</li>
+<li class="art_article back_full">
 	<a class="back_full">
 		BACK!
 	</a>

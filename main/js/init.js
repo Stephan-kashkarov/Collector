@@ -1,7 +1,9 @@
 $(document).ready(function () {
 	if(window.localStorage.key(0) != "artist_list") {
 		console.log("localStorage c0rrupted");
+		console.log(window.localStorage.key(0), "is not artist_list");
 		if(window.localStorage.length == 0) {
+			window.localStorage.clear();
 			console.log("localStorage empty");
 			artist_list = $.ajax({
 				url: "database/artists.json",
@@ -15,21 +17,38 @@ $(document).ready(function () {
 			artist_list = JSON.parse(artist_list);
 
 			console.log("doing localStorage suff");
-			artist_list = JSON.stringify(artist_list);
-			window.localStorage.setItem("artist_list", artist_list);
-			artist_list = JSON.parse(artist_list);
+			window.localStorage.setItem("artist_list", JSON.stringify(artist_list))
+			window.localStorage.setItem("artist_lite_list", JSON.stringify(artist_lite_list))
 
 		} else {
 			console.log("Lists cached in localStorage");
+			window.localStorage.clear();
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
 			artist_lite_list = window.localStorage.getItem(window.localStorage.key(1));
 			artist_list = JSON.parse(artist_list);
 			artist_lite_list = JSON.parse(artist_lite_list);
 		}
 	} else {
-		console.log("localStorage was cleared");
-		window.localStorage.clear();
-		location.reload();
+		if (window.localStorage.getItem("artist_list") == []) {
+			window.localStorage.clear();
+			artist_list = $.ajax({
+				url: "database/artists.json",
+				method: "GET",
+				async: false,
+				done: function (xhr) {
+					console.log("Ajax completed, Status:", xhr.status);
+				}
+			});
+			artist_list = artist_list.responseText;
+			artist_list = JSON.parse(artist_list);
+		} else {
+			console.log("localStorage was cleared");
+			console.log(window.localStorage.key(0), "=", window.localStorage.getItem(window.localStorage.key(0)));
+			artist_list = window.localStorage.getItem(window.localStorage.key(0));
+			artist_list = JSON.stringify(artist_list);
+			artist_lite_list = window.localStorage.getItem(window.localStorage.key(1));
+			artist_lite_list = JSON.stringify(artist_lite_list);
+		}
 	}
 	if(artist_lite_list.length != artist_list.length) {
 		regen = true;
@@ -62,4 +81,6 @@ $(document).ready(function () {
 			}
 		}
 	}
+	window.localStorage.setItem("artist_list", JSON.stringify(artist_list))
+	window.localStorage.setItem("artist_lite_list", JSON.stringify(artist_lite_list))
 });

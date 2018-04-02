@@ -26,6 +26,7 @@ const artist_lite_template = ({
 	<a class="artist_lite name">
 		${name}
 	</a>
+	<br>
 	<a class="artist_lite school">
 		${school}
 	</a>
@@ -99,3 +100,7 @@ const auto_complete = ({
 	${name}
 <option>
 `
+
+// INTRO TEMPLATE
+
+const intro = "<li class='intro'><h2>Welcome to Collector!</h2><br><p>Press 'SORT!' to sort by all</p></li>"

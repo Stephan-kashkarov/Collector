@@ -80,6 +80,7 @@ $(document).ready(function () {
 			}
 		}
 	}
+	$(".main").append(intro)
 	window.localStorage.setItem("artist_list", JSON.stringify(artist_list))
 	window.localStorage.setItem("artist_lite_list", JSON.stringify(artist_lite_list))
 });

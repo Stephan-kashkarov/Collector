@@ -1,32 +1,32 @@
 {
+    "name": "APOLLONIO DI GIOVANNI",
+    "life": "(b. ca. 1414 Firenze d. 1465 Firenze)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
     "art": [
         {
-            "index": 1143,
-            "location": "Metropolitan Museum of Art New York",
-            "img": "imgs/art/1143.jpg",
-            "form": "furniture",
-            "url": "https://www.wga.hu/html/a/apolloni/cassone1.html",
             "title": "Cassone",
-            "author": "APOLLONIO DI GIOVANNI",
+            "date": "1461-65",
             "technique": "Tempera and gold on panel 103 x 196 x 84 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/apolloni/cassone1.html",
+            "form": "furniture",
             "painting_type": "other",
-            "date": "1461-65"
+            "index": 1143,
+            "author": "APOLLONIO DI GIOVANNI",
+            "img": "imgs/art/1143.jpg"
         },
         {
-            "index": 1144,
-            "location": "Rijksmuseum Amsterdam",
-            "img": "imgs/art/1144.jpg",
-            "form": "furniture",
-            "url": "https://www.wga.hu/html/a/apolloni/cassone2.html",
             "title": "Front panel of a cassone",
-            "author": "APOLLONIO DI GIOVANNI",
+            "date": "1450-55",
             "technique": "Panel 49 x 102 cm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/apolloni/cassone2.html",
+            "form": "furniture",
             "painting_type": "other",
-            "date": "1450-55"
+            "index": 1144,
+            "author": "APOLLONIO DI GIOVANNI",
+            "img": "imgs/art/1144.jpg"
         }
-    ],
-    "timeframe": "1451-1500",
-    "life": "(b. ca. 1414 Firenze d. 1465 Firenze)",
-    "name": "APOLLONIO DI GIOVANNI",
-    "school": "Italian"
+    ]
 }

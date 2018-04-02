@@ -1,44 +1,44 @@
 {
+    "name": "ANQUETIN. Louis",
+    "life": "(b. 1861 \u00c9tr\u00e9pagny nr Gisors d. 1932 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
     "art": [
         {
-            "index": 1031,
-            "location": "Wadsworth Atheneum Hartford",
-            "img": "imgs/art/1031.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anquetin/clichy.html",
             "title": "Avenue de Clichy - Five O'Clock in the Evening",
-            "author": "ANQUETIN. Louis",
+            "date": "1887",
             "technique": "Oil on canvas 69 x 54 cm",
+            "location": "Wadsworth Atheneum Hartford",
+            "url": "https://www.wga.hu/html/a/anquetin/clichy.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "1887"
+            "index": 1031,
+            "author": "ANQUETIN. Louis",
+            "img": "imgs/art/1031.jpg"
         },
         {
-            "index": 1032,
-            "location": "Tate Gallery London",
-            "img": "imgs/art/1032.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anquetin/reading.html",
             "title": "Girl Reading a Newspaper",
-            "author": "ANQUETIN. Louis",
+            "date": "1890",
             "technique": "Pastel on paper on card 54 x 44 cm",
+            "location": "Tate Gallery London",
+            "url": "https://www.wga.hu/html/a/anquetin/reading.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "1890"
+            "index": 1032,
+            "author": "ANQUETIN. Louis",
+            "img": "imgs/art/1032.jpg"
         },
         {
-            "index": 1033,
-            "location": "Private collection",
-            "img": "imgs/art/1033.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anquetin/theatre.html",
             "title": "The Theatre Foyer",
-            "author": "ANQUETIN. Louis",
+            "date": "1892",
             "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/anquetin/theatre.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "1892"
+            "index": 1033,
+            "author": "ANQUETIN. Louis",
+            "img": "imgs/art/1033.jpg"
         }
-    ],
-    "timeframe": "1851-1900",
-    "life": "(b. 1861 \u00c9tr\u00e9pagny nr Gisors d. 1932 Paris)",
-    "name": "ANQUETIN. Louis",
-    "school": "French"
+    ]
 }

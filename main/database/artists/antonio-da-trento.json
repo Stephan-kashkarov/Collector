@@ -1,20 +1,20 @@
 {
+    "name": "ANTONIO DA TRENTO",
+    "life": "(active c. 1527 in Bologna)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 1136,
-            "location": "Kunsthalle Bremen",
-            "img": "imgs/art/1136.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/antonio/trento/narcissu.html",
             "title": "Nude Man in a Landscape",
-            "author": "ANTONIO DA TRENTO",
+            "date": "c. 1527",
             "technique": "Woodcut (two plates) 290 x 187 mm",
+            "location": "Kunsthalle Bremen",
+            "url": "https://www.wga.hu/html/a/antonio/trento/narcissu.html",
+            "form": "graphics",
             "painting_type": "study",
-            "date": "c. 1527"
+            "index": 1136,
+            "author": "ANTONIO DA TRENTO",
+            "img": "imgs/art/1136.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(active c. 1527 in Bologna)",
-    "name": "ANTONIO DA TRENTO",
-    "school": "Italian"
+    ]
 }

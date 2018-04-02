@@ -1,80 +1,80 @@
 {
+    "name": "ABBATE Niccol\u00f2 dell'",
+    "life": "(b. 1509 Modena d. 1571 Fontainebleau)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 13,
-            "location": "Ch\u00e2teau \u00c9couen",
-            "img": "imgs/art/13.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbate/chimney1.html",
             "title": "Chimney breast",
-            "author": "ABBATE Niccol\u00f2 dell'",
+            "date": "c. 1552",
             "technique": "-",
-            "painting_type": "other",
-            "date": "c. 1552"
-        },
-        {
-            "index": 14,
             "location": "Ch\u00e2teau \u00c9couen",
-            "img": "imgs/art/14.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/abbate/chimney2.html",
-            "title": "Chimney breast",
-            "author": "ABBATE Niccol\u00f2 dell'",
-            "technique": "Marble",
+            "url": "https://www.wga.hu/html/a/abbate/chimney1.html",
+            "form": "painting",
             "painting_type": "other",
-            "date": "c. 1552"
+            "index": 13,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/13.jpg"
         },
         {
-            "index": 15,
-            "location": "Galleria Borghese Rome",
-            "img": "imgs/art/15.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbate/deerhunt.html",
+            "title": "Chimney breast",
+            "date": "c. 1552",
+            "technique": "Marble",
+            "location": "Ch\u00e2teau \u00c9couen",
+            "url": "https://www.wga.hu/html/a/abbate/chimney2.html",
+            "form": "sculpture",
+            "painting_type": "other",
+            "index": 14,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/14.jpg"
+        },
+        {
             "title": "Stag Hunt",
-            "author": "ABBATE Niccol\u00f2 dell'",
+            "date": "1550-52",
             "technique": "Oil on canvas 116 x 159 cm",
+            "location": "Galleria Borghese Rome",
+            "url": "https://www.wga.hu/html/a/abbate/deerhunt.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "1550-52"
+            "index": 15,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/15.jpg"
         },
         {
-            "index": 16,
-            "location": "National Gallery London",
-            "img": "imgs/art/16.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbate/orpheus.html",
             "title": "Orpheus and Eurydice",
-            "author": "ABBATE Niccol\u00f2 dell'",
+            "date": "-",
             "technique": "Oil on canvas 188 x 237 cm",
+            "location": "National Gallery London",
+            "url": "https://www.wga.hu/html/a/abbate/orpheus.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "-"
+            "index": 16,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/16.jpg"
         },
         {
-            "index": 17,
-            "location": "Mus\u00e9e du Louvre Paris",
-            "img": "imgs/art/17.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbate/proserpi.html",
             "title": "The Rape of Proserpine",
-            "author": "ABBATE Niccol\u00f2 dell'",
+            "date": "c. 1570",
             "technique": "Oil on canvas 196 x 220 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/abbate/proserpi.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "c. 1570"
+            "index": 17,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/17.jpg"
         },
         {
-            "index": 18,
-            "location": "Mus\u00e9e du Louvre Paris",
-            "img": "imgs/art/18.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbate/scipio.html",
             "title": "The Continence of Scipio",
-            "author": "ABBATE Niccol\u00f2 dell'",
+            "date": "c. 1555",
             "technique": "Oil on canvas 127 x 115 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/abbate/scipio.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "c. 1555"
+            "index": 18,
+            "author": "ABBATE Niccol\u00f2 dell'",
+            "img": "imgs/art/18.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. 1509 Modena d. 1571 Fontainebleau)",
-    "name": "ABBATE Niccol\u00f2 dell'",
-    "school": "Italian"
+    ]
 }

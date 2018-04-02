@@ -1,44 +1,44 @@
 {
+    "name": "ANTONIO DI VINCENZO",
+    "life": "(b. ca. 1350 Bologna d. ca. 1402 Bologna)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
     "art": [
         {
-            "index": 1137,
+            "title": "Interior view",
+            "date": "begun 1390",
+            "technique": "Photo",
             "location": "San Petronio Bologna",
-            "img": "imgs/art/1137.jpg",
-            "form": "architecture",
             "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni1.html",
-            "title": "Interior view",
-            "author": "ANTONIO DI VINCENZO",
-            "technique": "Photo",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "begun 1390"
+            "index": 1137,
+            "author": "ANTONIO DI VINCENZO",
+            "img": "imgs/art/1137.jpg"
         },
         {
-            "index": 1138,
+            "title": "Interior view",
+            "date": "begun 1390",
+            "technique": "Photo",
             "location": "San Petronio Bologna",
-            "img": "imgs/art/1138.jpg",
-            "form": "architecture",
             "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni2.html",
-            "title": "Interior view",
-            "author": "ANTONIO DI VINCENZO",
-            "technique": "Photo",
+            "form": "architecture",
             "painting_type": "interior",
-            "date": "begun 1390"
+            "index": 1138,
+            "author": "ANTONIO DI VINCENZO",
+            "img": "imgs/art/1138.jpg"
         },
         {
-            "index": 1139,
-            "location": "San Petronio Bologna",
-            "img": "imgs/art/1139.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni3.html",
             "title": "Interior view",
-            "author": "ANTONIO DI VINCENZO",
+            "date": "begun 1390",
             "technique": "Photo",
+            "location": "San Petronio Bologna",
+            "url": "https://www.wga.hu/html/a/antonio/vincenzo/petroni3.html",
+            "form": "architecture",
             "painting_type": "interior",
-            "date": "begun 1390"
+            "index": 1139,
+            "author": "ANTONIO DI VINCENZO",
+            "img": "imgs/art/1139.jpg"
         }
-    ],
-    "timeframe": "1351-1400",
-    "life": "(b. ca. 1350 Bologna d. ca. 1402 Bologna)",
-    "name": "ANTONIO DI VINCENZO",
-    "school": "Italian"
+    ]
 }

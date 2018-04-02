@@ -1,56 +1,56 @@
 {
+    "name": "ABBATI Giuseppe",
+    "life": "(b. 1836 Napoli d. 1868 Firenze)",
+    "school": "Italian",
+    "timeframe": "1851-1900",
     "art": [
         {
-            "index": 19,
-            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
-            "img": "imgs/art/19.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbati/abbati1.html",
             "title": "Landscape at Castiglioncello",
-            "author": "ABBATI Giuseppe",
+            "date": "1863",
             "technique": "Oil on panel 10 x 30 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/a/abbati/abbati1.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "1863"
+            "index": 19,
+            "author": "ABBATI Giuseppe",
+            "img": "imgs/art/19.jpg"
         },
         {
-            "index": 20,
-            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
-            "img": "imgs/art/20.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbati/abbati2.html",
             "title": "Country Road with Cypresses",
-            "author": "ABBATI Giuseppe",
+            "date": "c. 1860",
             "technique": "Oil on canvas 28 x 37 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/a/abbati/abbati2.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "c. 1860"
+            "index": 20,
+            "author": "ABBATI Giuseppe",
+            "img": "imgs/art/20.jpg"
         },
         {
-            "index": 21,
-            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
-            "img": "imgs/art/21.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbati/abbati3.html",
             "title": "Cloister",
-            "author": "ABBATI Giuseppe",
+            "date": "1861-62",
             "technique": "Oil on cardboard 19 x 25 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/a/abbati/abbati3.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "1861-62"
+            "index": 21,
+            "author": "ABBATI Giuseppe",
+            "img": "imgs/art/21.jpg"
         },
         {
-            "index": 22,
-            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
-            "img": "imgs/art/22.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/abbati/abbati4.html",
             "title": "Portrait of a Woman",
-            "author": "ABBATI Giuseppe",
+            "date": "1865-66",
             "technique": "Oil on panel 26 x 14 cm",
+            "location": "Galleria dell'Arte Moderna Palazzo Pitti Florence",
+            "url": "https://www.wga.hu/html/a/abbati/abbati4.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1865-66"
+            "index": 22,
+            "author": "ABBATI Giuseppe",
+            "img": "imgs/art/22.jpg"
         }
-    ],
-    "timeframe": "1851-1900",
-    "life": "(b. 1836 Napoli d. 1868 Firenze)",
-    "name": "ABBATI Giuseppe",
-    "school": "Italian"
+    ]
 }

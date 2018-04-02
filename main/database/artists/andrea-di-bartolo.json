@@ -1,56 +1,56 @@
 {
+    "name": "ANDREA DI BARTOLO",
+    "life": "(b. 1360/70 Siena d. 1428 Siena)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
     "art": [
         {
-            "index": 686,
-            "location": "Galleria Franchetti Ca' d'Oro Venice",
-            "img": "imgs/art/686.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronati.html",
             "title": "Coronation of the Virgin",
-            "author": "ANDREA DI BARTOLO",
+            "date": "1405-07",
             "technique": "Panel 106 x 74 cm",
+            "location": "Galleria Franchetti Ca' d'Oro Venice",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronati.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1405-07"
+            "index": 686,
+            "author": "ANDREA DI BARTOLO",
+            "img": "imgs/art/686.jpg"
         },
         {
-            "index": 687,
-            "location": "Pinacoteca di Brera Milan",
-            "img": "imgs/art/687.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronatj.html",
             "title": "Coronation of the Virgin",
-            "author": "ANDREA DI BARTOLO",
+            "date": "1410s",
             "technique": "Oil on panel 160 x 65 cm (centre) 142 x 36 cm (each side panel)",
+            "location": "Pinacoteca di Brera Milan",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/coronatj.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1410s"
+            "index": 687,
+            "author": "ANDREA DI BARTOLO",
+            "img": "imgs/art/687.jpg"
         },
         {
-            "index": 688,
-            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
-            "img": "imgs/art/688.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/andrea/bartolo/road_cal.html",
             "title": "Christ on the Road to Calvary",
-            "author": "ANDREA DI BARTOLO",
+            "date": "1415-20",
             "technique": "Tempera on wood 55 x 49 cm",
+            "location": "Fundaci\u00f3n Colecci\u00f3n Thyssen-Bornemisza Pedralbes",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/road_cal.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1415-20"
+            "index": 688,
+            "author": "ANDREA DI BARTOLO",
+            "img": "imgs/art/688.jpg"
         },
         {
-            "index": 689,
-            "location": "Private collection",
-            "img": "imgs/art/689.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/andrea/bartolo/st_paul.html",
             "title": "St Paul",
-            "author": "ANDREA DI BARTOLO",
+            "date": "-",
             "technique": "Oil on panel 29 x 20 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/andrea/bartolo/st_paul.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 689,
+            "author": "ANDREA DI BARTOLO",
+            "img": "imgs/art/689.jpg"
         }
-    ],
-    "timeframe": "1401-1450",
-    "life": "(b. 1360/70 Siena d. 1428 Siena)",
-    "name": "ANDREA DI BARTOLO",
-    "school": "Italian"
+    ]
 }

@@ -1,20 +1,20 @@
 {
+    "name": "ALEKSANDROVI\u00c6 Ljubomir",
+    "life": "(b. 1828 Srpski Sv. Marton d. 1887)",
+    "school": "Other",
+    "timeframe": "1851-1900",
     "art": [
         {
-            "index": 269,
-            "location": "National Museum Belgrade",
-            "img": "imgs/art/269.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aleksand/grapehar.html",
             "title": "Grape Harvest Girl",
-            "author": "ALEKSANDROVI\u00c6 Ljubomir",
+            "date": "1878",
             "technique": "Oil on canvas 127 x 94 cm",
+            "location": "National Museum Belgrade",
+            "url": "https://www.wga.hu/html/a/aleksand/grapehar.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "1878"
+            "index": 269,
+            "author": "ALEKSANDROVI\u00c6 Ljubomir",
+            "img": "imgs/art/269.jpg"
         }
-    ],
-    "timeframe": "1851-1900",
-    "life": "(b. 1828 Srpski Sv. Marton d. 1887)",
-    "name": "ALEKSANDROVI\u00c6 Ljubomir",
-    "school": "Other"
+    ]
 }

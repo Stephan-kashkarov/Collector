@@ -1,92 +1,92 @@
 {
+    "name": "AMBERGER Christoph",
+    "life": "(b. ca. 1505 Augsburg d. 1562 Augsburg)",
+    "school": "German",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 444,
-            "location": "Alte Pinakothek Munich",
-            "img": "imgs/art/444.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/fugger.html",
             "title": "Christoph Fugger",
-            "author": "AMBERGER Christoph",
+            "date": "1541",
             "technique": "Wood 97 x 80 cm",
-            "painting_type": "portrait",
-            "date": "1541"
-        },
-        {
-            "index": 445,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/445.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/goldsmit.html",
-            "title": "Goldsmith J\u00f6rg Z\u00fcrer of Augsburg",
-            "author": "AMBERGER Christoph",
-            "technique": "Oil on panel 78 x 51 cm",
-            "painting_type": "portrait",
-            "date": "1531"
-        },
-        {
-            "index": 446,
-            "location": "Staatliche Museen Berlin",
-            "img": "imgs/art/446.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/munster.html",
-            "title": "Portrait of the Cosmographer Sebastien M\u00fcnster",
-            "author": "AMBERGER Christoph",
-            "technique": "Oil on wood 54 x 42 cm",
-            "painting_type": "portrait",
-            "date": "c. 1552"
-        },
-        {
-            "index": 447,
-            "location": "Museo Thyssen-Bornemisza Madrid",
-            "img": "imgs/art/447.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/schwarz.html",
-            "title": "Portrait of Matth\u00e4us Schwarz",
-            "author": "AMBERGER Christoph",
-            "technique": "Oil on panel 74 x 61 cm",
-            "painting_type": "portrait",
-            "date": "1542"
-        },
-        {
-            "index": 448,
             "location": "Alte Pinakothek Munich",
-            "img": "imgs/art/448.jpg",
+            "url": "https://www.wga.hu/html/a/amberger/fugger.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/seiler.html",
+            "painting_type": "portrait",
+            "index": 444,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/444.jpg"
+        },
+        {
+            "title": "Goldsmith J\u00f6rg Z\u00fcrer of Augsburg",
+            "date": "1531",
+            "technique": "Oil on panel 78 x 51 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/amberger/goldsmit.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 445,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/445.jpg"
+        },
+        {
+            "title": "Portrait of the Cosmographer Sebastien M\u00fcnster",
+            "date": "c. 1552",
+            "technique": "Oil on wood 54 x 42 cm",
+            "location": "Staatliche Museen Berlin",
+            "url": "https://www.wga.hu/html/a/amberger/munster.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 446,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/446.jpg"
+        },
+        {
+            "title": "Portrait of Matth\u00e4us Schwarz",
+            "date": "1542",
+            "technique": "Oil on panel 74 x 61 cm",
+            "location": "Museo Thyssen-Bornemisza Madrid",
+            "url": "https://www.wga.hu/html/a/amberger/schwarz.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 447,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/447.jpg"
+        },
+        {
             "title": "Portrait of Felicitas Seiler",
-            "author": "AMBERGER Christoph",
+            "date": "1537",
             "technique": "Wood 90 x 80 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/a/amberger/seiler.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1537"
+            "index": 448,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/448.jpg"
         },
         {
-            "index": 449,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/449.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/youngman.html",
             "title": "Portrait of a Young Man",
-            "author": "AMBERGER Christoph",
+            "date": "after 1548",
             "technique": "Oil on wood 51 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/amberger/youngman.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "after 1548"
+            "index": 449,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/449.jpg"
         },
         {
-            "index": 450,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/450.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amberger/youngwom.html",
             "title": "Portrait of a Young Woman",
-            "author": "AMBERGER Christoph",
+            "date": "after 1548",
             "technique": "Oil on wood 51 x 43 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/amberger/youngwom.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "after 1548"
+            "index": 450,
+            "author": "AMBERGER Christoph",
+            "img": "imgs/art/450.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. ca. 1505 Augsburg d. 1562 Augsburg)",
-    "name": "AMBERGER Christoph",
-    "school": "German"
+    ]
 }

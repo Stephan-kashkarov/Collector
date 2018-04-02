@@ -1,68 +1,68 @@
 {
+    "name": "ANDERSON William",
+    "life": "(b. 1757 Scotland d. 1837 London)",
+    "school": "Scottish",
+    "timeframe": "1801-1850",
     "art": [
         {
-            "index": 519,
-            "location": "National Maritime Museum Greenwich",
-            "img": "imgs/art/519.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anderson/capture.html",
             "title": "The Capture of Fort Saint Louis Martinique",
-            "author": "ANDERSON William",
+            "date": "1795",
             "technique": "Oil on canvas 91 x 127 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/a/anderson/capture.html",
+            "form": "painting",
             "painting_type": "historical",
-            "date": "1795"
+            "index": 519,
+            "author": "ANDERSON William",
+            "img": "imgs/art/519.jpg"
         },
         {
-            "index": 520,
-            "location": "Private collection",
-            "img": "imgs/art/520.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anderson/rateship.html",
             "title": "An English 3rd-Rate Ship of the Line in Three Positions",
-            "author": "ANDERSON William",
+            "date": "-",
             "technique": "Oil on canvas 84 x 130 cm",
-            "painting_type": "landscape",
-            "date": "-"
-        },
-        {
-            "index": 521,
-            "location": "National Maritime Museum Greenwich",
-            "img": "imgs/art/521.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anderson/selfport.html",
-            "title": "Self-Portrait",
-            "author": "ANDERSON William",
-            "technique": "Oil on canvas 61 x 54 cm",
-            "painting_type": "portrait",
-            "date": "c. 1800"
-        },
-        {
-            "index": 522,
             "location": "Private collection",
-            "img": "imgs/art/522.jpg",
+            "url": "https://www.wga.hu/html/a/anderson/rateship.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/anderson/shipcalm.html",
-            "title": "Shipping in a Calm Sea off the Coast",
-            "author": "ANDERSON William",
-            "technique": "Oil on oak panel 22 x 30 cm",
             "painting_type": "landscape",
-            "date": "1803"
+            "index": 520,
+            "author": "ANDERSON William",
+            "img": "imgs/art/520.jpg"
         },
         {
-            "index": 523,
+            "title": "Self-Portrait",
+            "date": "c. 1800",
+            "technique": "Oil on canvas 61 x 54 cm",
             "location": "National Maritime Museum Greenwich",
-            "img": "imgs/art/523.jpg",
+            "url": "https://www.wga.hu/html/a/anderson/selfport.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/anderson/shipping.html",
-            "title": "Shipping on the Thames off Deptford",
+            "painting_type": "portrait",
+            "index": 521,
             "author": "ANDERSON William",
-            "technique": "Oil on panel 32 x 43 cm",
+            "img": "imgs/art/521.jpg"
+        },
+        {
+            "title": "Shipping in a Calm Sea off the Coast",
+            "date": "1803",
+            "technique": "Oil on oak panel 22 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/anderson/shipcalm.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "c. 1825"
+            "index": 522,
+            "author": "ANDERSON William",
+            "img": "imgs/art/522.jpg"
+        },
+        {
+            "title": "Shipping on the Thames off Deptford",
+            "date": "c. 1825",
+            "technique": "Oil on panel 32 x 43 cm",
+            "location": "National Maritime Museum Greenwich",
+            "url": "https://www.wga.hu/html/a/anderson/shipping.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 523,
+            "author": "ANDERSON William",
+            "img": "imgs/art/523.jpg"
         }
-    ],
-    "timeframe": "1801-1850",
-    "life": "(b. 1757 Scotland d. 1837 London)",
-    "name": "ANDERSON William",
-    "school": "Scottish"
+    ]
 }

@@ -1,32 +1,32 @@
 {
+    "name": "AGUADO L\u00d3PEZ Antonio",
+    "life": "(b. 1764 Sang\u00fcesa d. 1831 Sang\u00fcesa)",
+    "school": "Spanish",
+    "timeframe": "1801-1850",
     "art": [
         {
-            "index": 170,
-            "location": "Puerta de Toledo Madrid",
-            "img": "imgs/art/170.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/aguado/puerta.html",
             "title": "General view",
-            "author": "AGUADO L\u00d3PEZ Antonio",
+            "date": "1816-17",
             "technique": "Photo",
+            "location": "Puerta de Toledo Madrid",
+            "url": "https://www.wga.hu/html/a/aguado/puerta.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1816-17"
+            "index": 170,
+            "author": "AGUADO L\u00d3PEZ Antonio",
+            "img": "imgs/art/170.jpg"
         },
         {
-            "index": 171,
-            "location": "Teatro Real Madrid",
-            "img": "imgs/art/171.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/aguado/teatro.html",
             "title": "Exterior view",
-            "author": "AGUADO L\u00d3PEZ Antonio",
+            "date": "1818-50",
             "technique": "Photo",
+            "location": "Teatro Real Madrid",
+            "url": "https://www.wga.hu/html/a/aguado/teatro.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1818-50"
+            "index": 171,
+            "author": "AGUADO L\u00d3PEZ Antonio",
+            "img": "imgs/art/171.jpg"
         }
-    ],
-    "timeframe": "1801-1850",
-    "life": "(b. 1764 Sang\u00fcesa d. 1831 Sang\u00fcesa)",
-    "name": "AGUADO L\u00d3PEZ Antonio",
-    "school": "Spanish"
+    ]
 }

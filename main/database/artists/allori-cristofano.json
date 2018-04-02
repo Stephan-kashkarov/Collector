@@ -1,68 +1,68 @@
 {
+    "name": "ALLORI Cristofano",
+    "life": "(b. 1577 Firenze d. 1621 Firenze)",
+    "school": "Italian",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 348,
-            "location": "Royal Collection Windsor",
-            "img": "imgs/art/348.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/allori/cristofa/judith.html",
             "title": "Judith with the Head of Holofernes",
-            "author": "ALLORI Cristofano",
+            "date": "1613",
             "technique": "Oil on canvas 1204 x 1003 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1613"
+            "index": 348,
+            "author": "ALLORI Cristofano",
+            "img": "imgs/art/348.jpg"
         },
         {
-            "index": 349,
+            "title": "Judith with the Head of Holofernes",
+            "date": "1615-17",
+            "technique": "Oil on canvas 139 x 116 cm",
             "location": "Galleria Palatina (Palazzo Pitti) Florence",
-            "img": "imgs/art/349.jpg",
-            "form": "painting",
             "url": "https://www.wga.hu/html/a/allori/cristofa/judith_h.html",
-            "title": "Judith with the Head of Holofernes",
-            "author": "ALLORI Cristofano",
-            "technique": "Oil on canvas 139 x 116 cm",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1615-17"
+            "index": 349,
+            "author": "ALLORI Cristofano",
+            "img": "imgs/art/349.jpg"
         },
         {
-            "index": 350,
-            "location": "Galleria Palatina (Palazzo Pitti) Florence",
-            "img": "imgs/art/350.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_k.html",
             "title": "Judith with the Head of Holofernes",
-            "author": "ALLORI Cristofano",
+            "date": "1615-17",
             "technique": "Oil on canvas 139 x 116 cm",
+            "location": "Galleria Palatina (Palazzo Pitti) Florence",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_k.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "1615-17"
+            "index": 350,
+            "author": "ALLORI Cristofano",
+            "img": "imgs/art/350.jpg"
         },
         {
-            "index": 351,
-            "location": "Private collection",
-            "img": "imgs/art/351.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_p.html",
             "title": "Judith with the Head of Holofernes",
-            "author": "ALLORI Cristofano",
+            "date": "1610-12",
             "technique": "Oil on canvas 142 x 107 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_p.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "1610-12"
+            "index": 351,
+            "author": "ALLORI Cristofano",
+            "img": "imgs/art/351.jpg"
         },
         {
-            "index": 352,
-            "location": "Private collection",
-            "img": "imgs/art/352.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_r.html",
             "title": "Judith with the Head of Holofernes (detail)",
-            "author": "ALLORI Cristofano",
+            "date": "1610-12",
             "technique": "Oil on canvas",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/allori/cristofa/judith_r.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "1610-12"
+            "index": 352,
+            "author": "ALLORI Cristofano",
+            "img": "imgs/art/352.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1577 Firenze d. 1621 Firenze)",
-    "name": "ALLORI Cristofano",
-    "school": "Italian"
+    ]
 }

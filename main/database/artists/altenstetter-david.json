@@ -1,20 +1,20 @@
 {
+    "name": "ALTENSTETTER David",
+    "life": "(b. ca. 1547 Colmar d. 1617 Augsburg)",
+    "school": "German",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 404,
-            "location": "Wallace Collection London",
-            "img": "imgs/art/404.jpg",
-            "form": "metalwork",
-            "url": "https://www.wga.hu/html/a/altenste/cupcover.html",
             "title": "Cup and Cover",
-            "author": "ALTENSTETTER David",
+            "date": "c. 1600",
             "technique": "Silver and silvergilt with translucent enamel arabesques height 225 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/a/altenste/cupcover.html",
+            "form": "metalwork",
             "painting_type": "other",
-            "date": "c. 1600"
+            "index": 404,
+            "author": "ALTENSTETTER David",
+            "img": "imgs/art/404.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. ca. 1547 Colmar d. 1617 Augsburg)",
-    "name": "ALTENSTETTER David",
-    "school": "German"
+    ]
 }

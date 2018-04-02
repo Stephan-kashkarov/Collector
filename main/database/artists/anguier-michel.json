@@ -1,80 +1,80 @@
 {
+    "name": "ANGUIER Michel",
+    "life": "(b. ca. 1613 Eu d. 1686 Paris)",
+    "school": "French",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 1011,
-            "location": "Mus\u00e9e du Louvre Paris",
-            "img": "imgs/art/1011.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/michel/amphitri.html",
             "title": "Amphitrite",
-            "author": "ANGUIER Michel",
+            "date": "1680",
             "technique": "Marble height 198 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/anguier/michel/amphitri.html",
+            "form": "sculpture",
             "painting_type": "mythological",
-            "date": "1680"
+            "index": 1011,
+            "author": "ANGUIER Michel",
+            "img": "imgs/art/1011.jpg"
         },
         {
-            "index": 1012,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/1012.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/michel/ceres.html",
             "title": "Ceres",
-            "author": "ANGUIER Michel",
+            "date": "1650s",
             "technique": "Bronze height 56 cm",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/anguier/michel/ceres.html",
+            "form": "sculpture",
             "painting_type": "mythological",
-            "date": "1650s"
+            "index": 1012,
+            "author": "ANGUIER Michel",
+            "img": "imgs/art/1012.jpg"
         },
         {
-            "index": 1013,
+            "title": "Nativity",
+            "date": "1665-68",
+            "technique": "Marble height 160 cm",
             "location": "St Roch Paris",
-            "img": "imgs/art/1013.jpg",
-            "form": "sculpture",
             "url": "https://www.wga.hu/html/a/anguier/michel/nativit.html",
-            "title": "Nativity",
-            "author": "ANGUIER Michel",
-            "technique": "Marble height 160 cm",
+            "form": "sculpture",
             "painting_type": "religious",
-            "date": "1665-68"
+            "index": 1013,
+            "author": "ANGUIER Michel",
+            "img": "imgs/art/1013.jpg"
         },
         {
-            "index": 1014,
-            "location": "St Roch Paris",
-            "img": "imgs/art/1014.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/michel/nativitz.html",
             "title": "Nativity (detail)",
-            "author": "ANGUIER Michel",
+            "date": "1665-68",
             "technique": "Marble",
-            "painting_type": "religious",
-            "date": "1665-68"
-        },
-        {
-            "index": 1015,
             "location": "St Roch Paris",
-            "img": "imgs/art/1015.jpg",
+            "url": "https://www.wga.hu/html/a/anguier/michel/nativitz.html",
             "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/michel/nativity.html",
-            "title": "Nativity",
-            "author": "ANGUIER Michel",
-            "technique": "Marble height 160 cm",
             "painting_type": "religious",
-            "date": "1665-68"
+            "index": 1014,
+            "author": "ANGUIER Michel",
+            "img": "imgs/art/1014.jpg"
         },
         {
-            "index": 1016,
-            "location": "Val-de-Gr\u00e2ce Paris",
-            "img": "imgs/art/1016.jpg",
+            "title": "Nativity",
+            "date": "1665-68",
+            "technique": "Marble height 160 cm",
+            "location": "St Roch Paris",
+            "url": "https://www.wga.hu/html/a/anguier/michel/nativity.html",
             "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/michel/valgrace.html",
-            "title": "Interior decoration",
+            "painting_type": "religious",
+            "index": 1015,
             "author": "ANGUIER Michel",
+            "img": "imgs/art/1015.jpg"
+        },
+        {
+            "title": "Interior decoration",
+            "date": "1662-67",
             "technique": "Marble and stucco",
+            "location": "Val-de-Gr\u00e2ce Paris",
+            "url": "https://www.wga.hu/html/a/anguier/michel/valgrace.html",
+            "form": "sculpture",
             "painting_type": "interior",
-            "date": "1662-67"
+            "index": 1016,
+            "author": "ANGUIER Michel",
+            "img": "imgs/art/1016.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. ca. 1613 Eu d. 1686 Paris)",
-    "name": "ANGUIER Michel",
-    "school": "French"
+    ]
 }

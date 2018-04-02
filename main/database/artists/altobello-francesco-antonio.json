@@ -1,20 +1,20 @@
 {
+    "name": "ALTOBELLO Francesco Antonio",
+    "life": "(b. 1637 Barletta d. after 1695)",
+    "school": "Italian",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 431,
-            "location": "Private collection",
-            "img": "imgs/art/431.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/altobell/shepherd.html",
             "title": "Adoration of the Shepherds",
-            "author": "ALTOBELLO Francesco Antonio",
+            "date": "-",
             "technique": "Oil on canvas 155 x 228 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/altobell/shepherd.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 431,
+            "author": "ALTOBELLO Francesco Antonio",
+            "img": "imgs/art/431.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. 1637 Barletta d. after 1695)",
-    "name": "ALTOBELLO Francesco Antonio",
-    "school": "Italian"
+    ]
 }

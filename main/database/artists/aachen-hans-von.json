@@ -1,68 +1,68 @@
 {
+    "name": "AACHEN Hans von",
+    "life": "(b. 1552 K\u00f6ln d. 1615 Praha)",
+    "school": "German",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 1,
-            "location": "Alte Pinakothek Munich",
-            "img": "imgs/art/1.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aachen/allegory.html",
             "title": "Allegory",
-            "author": "AACHEN Hans von",
+            "date": "1598",
             "technique": "Oil on copper 56 x 47 cm",
+            "location": "Alte Pinakothek Munich",
+            "url": "https://www.wga.hu/html/a/aachen/allegory.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "1598"
+            "index": 1,
+            "author": "AACHEN Hans von",
+            "img": "imgs/art/1.jpg"
         },
         {
-            "index": 2,
-            "location": "Kunsthistorisches Museum Vienna",
-            "img": "imgs/art/2.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aachen/bacchus.html",
             "title": "Bacchus Ceres and Cupid",
-            "author": "AACHEN Hans von",
+            "date": "-",
             "technique": "Oil on canvas 163 x 113 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/a/aachen/bacchus.html",
+            "form": "painting",
             "painting_type": "mythological",
-            "date": "-"
+            "index": 2,
+            "author": "AACHEN Hans von",
+            "img": "imgs/art/2.jpg"
         },
         {
-            "index": 3,
-            "location": "Kunsthistorisches Museum Vienna",
-            "img": "imgs/art/3.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aachen/j_couple.html",
             "title": "Joking Couple",
-            "author": "AACHEN Hans von",
+            "date": "-",
             "technique": "Copperplate 25 x 20 cm",
-            "painting_type": "genre",
-            "date": "-"
-        },
-        {
-            "index": 4,
             "location": "Kunsthistorisches Museum Vienna",
-            "img": "imgs/art/4.jpg",
+            "url": "https://www.wga.hu/html/a/aachen/j_couple.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/aachen/rudolf2.html",
-            "title": "Portrait of Emperor Rudolf II",
+            "painting_type": "genre",
+            "index": 3,
             "author": "AACHEN Hans von",
-            "technique": "Oil on canvas 60 x 48 cm",
-            "painting_type": "portrait",
-            "date": "1590s"
+            "img": "imgs/art/3.jpg"
         },
         {
-            "index": 5,
-            "location": "Private collection",
-            "img": "imgs/art/5.jpg",
+            "title": "Portrait of Emperor Rudolf II",
+            "date": "1590s",
+            "technique": "Oil on canvas 60 x 48 cm",
+            "location": "Kunsthistorisches Museum Vienna",
+            "url": "https://www.wga.hu/html/a/aachen/rudolf2.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/aachen/selfport.html",
-            "title": "Self-Portrait with a Glass of Wine",
-            "author": "AACHEN Hans von",
-            "technique": "Oil on canvas 53 x 44 cm",
             "painting_type": "portrait",
-            "date": "c. 1596"
+            "index": 4,
+            "author": "AACHEN Hans von",
+            "img": "imgs/art/4.jpg"
+        },
+        {
+            "title": "Self-Portrait with a Glass of Wine",
+            "date": "c. 1596",
+            "technique": "Oil on canvas 53 x 44 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aachen/selfport.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 5,
+            "author": "AACHEN Hans von",
+            "img": "imgs/art/5.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1552 K\u00f6ln d. 1615 Praha)",
-    "name": "AACHEN Hans von",
-    "school": "German"
+    ]
 }

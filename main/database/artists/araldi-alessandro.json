@@ -1,20 +1,20 @@
 {
+    "name": "ARALDI Alessandro",
+    "life": "(b. ca. 1460 Parma d. ca. 1530 Parma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 1155,
-            "location": "Galleria degli Uffizi Florence",
-            "img": "imgs/art/1155.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/araldi/pallavic.html",
             "title": "Portrait of Barbara Pallavicino",
-            "author": "ARALDI Alessandro",
+            "date": "1510s",
             "technique": "Oil on wood 465 x 35 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/araldi/pallavic.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1510s"
+            "index": 1155,
+            "author": "ARALDI Alessandro",
+            "img": "imgs/art/1155.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. ca. 1460 Parma d. ca. 1530 Parma)",
-    "name": "ARALDI Alessandro",
-    "school": "Italian"
+    ]
 }

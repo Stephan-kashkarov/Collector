@@ -1,20 +1,20 @@
 {
+    "name": "ANCHER Michael Peter",
+    "life": "(b. 1849 Rutsker d. 1927 Skagen)",
+    "school": "Danish",
+    "timeframe": "1851-1900",
     "art": [
         {
-            "index": 517,
-            "location": "Statens Museum for Kunst Copenhagen",
-            "img": "imgs/art/517.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/ancher/michael/lifeboat.html",
             "title": "The Lifeboat is Taken through the Dunes",
-            "author": "ANCHER Michael Peter",
+            "date": "1883",
             "technique": "Oil on canvas 171 x 221 cm",
+            "location": "Statens Museum for Kunst Copenhagen",
+            "url": "https://www.wga.hu/html/a/ancher/michael/lifeboat.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "1883"
+            "index": 517,
+            "author": "ANCHER Michael Peter",
+            "img": "imgs/art/517.jpg"
         }
-    ],
-    "timeframe": "1851-1900",
-    "life": "(b. 1849 Rutsker d. 1927 Skagen)",
-    "name": "ANCHER Michael Peter",
-    "school": "Danish"
+    ]
 }

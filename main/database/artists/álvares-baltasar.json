@@ -1,32 +1,32 @@
 {
+    "name": "\u00c1LVARES Baltasar",
+    "life": "(active 1570 died 1624)",
+    "school": "Portuguese",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 435,
-            "location": "Nossa Senhora dos Grilos Porto",
-            "img": "imgs/art/435.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/alvares/porto1.html",
             "title": "Exterior view",
-            "author": "\u00c1LVARES Baltasar",
+            "date": "1622",
             "technique": "Photo",
+            "location": "Nossa Senhora dos Grilos Porto",
+            "url": "https://www.wga.hu/html/a/alvares/porto1.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1622"
+            "index": 435,
+            "author": "\u00c1LVARES Baltasar",
+            "img": "imgs/art/435.jpg"
         },
         {
-            "index": 436,
-            "location": "Nossa Senhora dos Grilos Porto",
-            "img": "imgs/art/436.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/alvares/porto2.html",
             "title": "Exterior view",
-            "author": "\u00c1LVARES Baltasar",
+            "date": "1622",
             "technique": "Photo",
+            "location": "Nossa Senhora dos Grilos Porto",
+            "url": "https://www.wga.hu/html/a/alvares/porto2.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1622"
+            "index": 436,
+            "author": "\u00c1LVARES Baltasar",
+            "img": "imgs/art/436.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(active 1570 died 1624)",
-    "name": "\u00c1LVARES Baltasar",
-    "school": "Portuguese"
+    ]
 }

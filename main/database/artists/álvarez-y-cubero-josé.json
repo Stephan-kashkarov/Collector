@@ -1,44 +1,44 @@
 {
+    "name": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+    "life": "(b. 1768 Priego de C\u00f3rdoba d. 1827 Madrid)",
+    "school": "Spanish",
+    "timeframe": "1801-1850",
     "art": [
         {
-            "index": 437,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/437.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/alvarez/apollo.html",
             "title": "Apollo",
-            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "date": "1808-14",
             "technique": "Marble height 150 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/alvarez/apollo.html",
+            "form": "sculpture",
             "painting_type": "mythological",
-            "date": "1808-14"
+            "index": 437,
+            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "img": "imgs/art/437.jpg"
         },
         {
-            "index": 438,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/438.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/alvarez/defence.html",
             "title": "The Defence of Zaragoza",
-            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "date": "1823",
             "technique": "Marble 280 x 200 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/alvarez/defence.html",
+            "form": "sculpture",
             "painting_type": "historical",
-            "date": "1823"
+            "index": 438,
+            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "img": "imgs/art/438.jpg"
         },
         {
-            "index": 439,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/439.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/alvarez/isabel.html",
             "title": "Isabel de Braganza Queen of Spain",
-            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "date": "1826",
             "technique": "Marble height 145 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/alvarez/isabel.html",
+            "form": "sculpture",
             "painting_type": "portrait",
-            "date": "1826"
+            "index": 439,
+            "author": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
+            "img": "imgs/art/439.jpg"
         }
-    ],
-    "timeframe": "1801-1850",
-    "life": "(b. 1768 Priego de C\u00f3rdoba d. 1827 Madrid)",
-    "name": "\u00c1LVAREZ Y CUBERO Jos\u00e9",
-    "school": "Spanish"
+    ]
 }

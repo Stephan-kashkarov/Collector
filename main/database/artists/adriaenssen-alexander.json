@@ -1,68 +1,68 @@
 {
+    "name": "ADRIAENSSEN Alexander",
+    "life": "(b. 1587 Antwerpen d. 1661 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 79,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/79.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/adriaens/fishgame.html",
             "title": "Fish and Dead Game",
-            "author": "ADRIAENSSEN Alexander",
+            "date": "1643",
             "technique": "Oil on canvas 58 x 87 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/adriaens/fishgame.html",
+            "form": "painting",
             "painting_type": "still-life",
-            "date": "1643"
+            "index": 79,
+            "author": "ADRIAENSSEN Alexander",
+            "img": "imgs/art/79.jpg"
         },
         {
-            "index": 80,
-            "location": "Groeninge Museum Bruges",
-            "img": "imgs/art/80.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/adriaens/stilfish.html",
             "title": "Still-Life with Fish",
-            "author": "ADRIAENSSEN Alexander",
+            "date": "-",
             "technique": "Oil on oak panel 55 x 756 cm",
+            "location": "Groeninge Museum Bruges",
+            "url": "https://www.wga.hu/html/a/adriaens/stilfish.html",
+            "form": "painting",
             "painting_type": "still-life",
-            "date": "-"
+            "index": 80,
+            "author": "ADRIAENSSEN Alexander",
+            "img": "imgs/art/80.jpg"
         },
         {
-            "index": 81,
-            "location": "Private collection",
-            "img": "imgs/art/81.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/adriaens/stilflow.html",
             "title": "Still-Life with Flowers in a Glass Vase",
-            "author": "ADRIAENSSEN Alexander",
+            "date": "c. 1650",
             "technique": "Oil on panel 54 x 43 cm",
-            "painting_type": "still-life",
-            "date": "c. 1650"
-        },
-        {
-            "index": 82,
             "location": "Private collection",
-            "img": "imgs/art/82.jpg",
+            "url": "https://www.wga.hu/html/a/adriaens/stilflow.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/adriaens/stillife.html",
-            "title": "Still-Life",
-            "author": "ADRIAENSSEN Alexander",
-            "technique": "Oil on panel 44 x 64 cm",
             "painting_type": "still-life",
-            "date": "1646"
+            "index": 81,
+            "author": "ADRIAENSSEN Alexander",
+            "img": "imgs/art/81.jpg"
         },
         {
-            "index": 83,
-            "location": "N\u00e1rodn\u00ed Galerie Prague",
-            "img": "imgs/art/83.jpg",
+            "title": "Still-Life",
+            "date": "1646",
+            "technique": "Oil on panel 44 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/adriaens/stillife.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/adriaens/stiloyst.html",
-            "title": "Still-Life with Oysters",
-            "author": "ADRIAENSSEN Alexander",
-            "technique": "Oil on oak panel 44 x 36 cm",
             "painting_type": "still-life",
-            "date": "1630s"
+            "index": 82,
+            "author": "ADRIAENSSEN Alexander",
+            "img": "imgs/art/82.jpg"
+        },
+        {
+            "title": "Still-Life with Oysters",
+            "date": "1630s",
+            "technique": "Oil on oak panel 44 x 36 cm",
+            "location": "N\u00e1rodn\u00ed Galerie Prague",
+            "url": "https://www.wga.hu/html/a/adriaens/stiloyst.html",
+            "form": "painting",
+            "painting_type": "still-life",
+            "index": 83,
+            "author": "ADRIAENSSEN Alexander",
+            "img": "imgs/art/83.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1587 Antwerpen d. 1661 Antwerpen)",
-    "name": "ADRIAENSSEN Alexander",
-    "school": "Flemish"
+    ]
 }

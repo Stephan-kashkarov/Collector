@@ -1,56 +1,56 @@
 {
+    "name": "ANTONIO DA FIRENZE",
+    "life": "(active in the first half of the 15th century)",
+    "school": "Italian",
+    "timeframe": "1401-1450",
     "art": [
         {
-            "index": 1130,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/1130.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antonio/firenze/crucifix.html",
             "title": "Crucifixion with Mary and St John the Evangelist",
-            "author": "ANTONIO DA FIRENZE",
+            "date": "1400-50",
             "technique": "Tempera on wood 151 x 85 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/antonio/firenze/crucifix.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1400-50"
+            "index": 1130,
+            "author": "ANTONIO DA FIRENZE",
+            "img": "imgs/art/1130.jpg"
         },
         {
-            "index": 1131,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/1131.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antonio/firenze/crucifiy.html",
             "title": "Crucifixion with Mary and St John the Evangelist (detail)",
-            "author": "ANTONIO DA FIRENZE",
+            "date": "1400-50",
             "technique": "Tempera on wood",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/antonio/firenze/crucifiy.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1400-50"
+            "index": 1131,
+            "author": "ANTONIO DA FIRENZE",
+            "img": "imgs/art/1131.jpg"
         },
         {
-            "index": 1132,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/1132.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antonio/firenze/madonna.html",
             "title": "Madonna and Child with Saints",
-            "author": "ANTONIO DA FIRENZE",
+            "date": "1400-50",
             "technique": "Tempera on wood 151 x 85 cm",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/antonio/firenze/madonna.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1400-50"
+            "index": 1132,
+            "author": "ANTONIO DA FIRENZE",
+            "img": "imgs/art/1132.jpg"
         },
         {
-            "index": 1133,
-            "location": "The Hermitage St. Petersburg",
-            "img": "imgs/art/1133.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antonio/firenze/madonnx.html",
             "title": "Madonna and Child with Saints (detail)",
-            "author": "ANTONIO DA FIRENZE",
+            "date": "1400-50",
             "technique": "Tempera on wood",
+            "location": "The Hermitage St. Petersburg",
+            "url": "https://www.wga.hu/html/a/antonio/firenze/madonnx.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1400-50"
+            "index": 1133,
+            "author": "ANTONIO DA FIRENZE",
+            "img": "imgs/art/1133.jpg"
         }
-    ],
-    "timeframe": "1401-1450",
-    "life": "(active in the first half of the 15th century)",
-    "name": "ANTONIO DA FIRENZE",
-    "school": "Italian"
+    ]
 }

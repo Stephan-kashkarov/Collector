@@ -1,20 +1,20 @@
 {
+    "name": "ADLER Salomon",
+    "life": "(b. 1630 Danzig d. 1709 Milano)",
+    "school": "German",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 77,
-            "location": "Private collection",
-            "img": "imgs/art/77.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/adler/selfport.html",
             "title": "Self-Portrait",
-            "author": "ADLER Salomon",
+            "date": "1650s",
             "technique": "Oil on canvas 74 x 60 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/adler/selfport.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1650s"
+            "index": 77,
+            "author": "ADLER Salomon",
+            "img": "imgs/art/77.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. 1630 Danzig d. 1709 Milano)",
-    "name": "ADLER Salomon",
-    "school": "German"
+    ]
 }

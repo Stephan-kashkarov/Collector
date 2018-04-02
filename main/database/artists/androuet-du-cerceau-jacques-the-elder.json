@@ -1,56 +1,56 @@
 {
+    "name": "ANDROUET DU CERCEAU Jacques the Elder",
+    "life": "(b. ca. 1515 ? d. 1584 Annecy)",
+    "school": "French",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 713,
-            "location": "Biblioth\u00e8que Nationale Paris",
-            "img": "imgs/art/713.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/androuet/charleva.html",
             "title": "Ch\u00e2teau Charleval",
-            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "date": "c. 1570",
             "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/androuet/charleva.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "c. 1570"
+            "index": 713,
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "img": "imgs/art/713.jpg"
         },
         {
-            "index": 714,
-            "location": "Biblioth\u00e8que Nationale Paris",
-            "img": "imgs/art/714.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/androuet/ecouen.html",
             "title": "Entrance to the Ch\u00e2teau \u00c9couen",
-            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "date": "1555-60",
             "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/androuet/ecouen.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1555-60"
+            "index": 714,
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "img": "imgs/art/714.jpg"
         },
         {
-            "index": 715,
-            "location": "Biblioth\u00e8que Nationale Paris",
-            "img": "imgs/art/715.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/androuet/townhous.html",
             "title": "Design for a Town House",
-            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "date": "1559",
             "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/androuet/townhous.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1559"
+            "index": 715,
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "img": "imgs/art/715.jpg"
         },
         {
-            "index": 716,
-            "location": "Biblioth\u00e8que Nationale Paris",
-            "img": "imgs/art/716.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/androuet/verneuil.html",
             "title": "Ch\u00e2teau Verneuil",
-            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "date": "c. 1560",
             "technique": "Engraving",
+            "location": "Biblioth\u00e8que Nationale Paris",
+            "url": "https://www.wga.hu/html/a/androuet/verneuil.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "c. 1560"
+            "index": 716,
+            "author": "ANDROUET DU CERCEAU Jacques the Elder",
+            "img": "imgs/art/716.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. ca. 1515 ? d. 1584 Annecy)",
-    "name": "ANDROUET DU CERCEAU Jacques the Elder",
-    "school": "French"
+    ]
 }

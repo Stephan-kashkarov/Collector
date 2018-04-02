@@ -1,56 +1,56 @@
 {
+    "name": "ANTOLINEZ Francisco",
+    "life": "(b. 1644 Sevilla d. 1700 Sevilla)",
+    "school": "Spanish",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 1073,
-            "location": "Private collection",
-            "img": "imgs/art/1073.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antoline/francisc/david1.html",
             "title": "David Triumphs over Goliath",
-            "author": "ANTOLINEZ Francisco",
+            "date": "1685",
             "technique": "Oil on canvas 122 x 186 cm",
-            "painting_type": "mythological",
-            "date": "1685"
-        },
-        {
-            "index": 1074,
             "location": "Private collection",
-            "img": "imgs/art/1074.jpg",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/david1.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/antoline/francisc/david2.html",
-            "title": "Samuel Anoints David",
-            "author": "ANTOLINEZ Francisco",
-            "technique": "Oil on canvas 122 x 186 cm",
             "painting_type": "mythological",
-            "date": "1685"
+            "index": 1073,
+            "author": "ANTOLINEZ Francisco",
+            "img": "imgs/art/1073.jpg"
         },
         {
-            "index": 1075,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/1075.jpg",
+            "title": "Samuel Anoints David",
+            "date": "1685",
+            "technique": "Oil on canvas 122 x 186 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/david2.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin1.html",
+            "painting_type": "mythological",
+            "index": 1074,
+            "author": "ANTOLINEZ Francisco",
+            "img": "imgs/art/1074.jpg"
+        },
+        {
             "title": "Flight into Egypt",
-            "author": "ANTOLINEZ Francisco",
+            "date": "-",
             "technique": "Oil on canvas 73 x 45 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin1.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1075,
+            "author": "ANTOLINEZ Francisco",
+            "img": "imgs/art/1075.jpg"
         },
         {
-            "index": 1076,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/1076.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin2.html",
             "title": "Presentation of the Virgin",
-            "author": "ANTOLINEZ Francisco",
+            "date": "-",
             "technique": "Oil on canvas 73 x 45 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/antoline/francisc/virgin2.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1076,
+            "author": "ANTOLINEZ Francisco",
+            "img": "imgs/art/1076.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. 1644 Sevilla d. 1700 Sevilla)",
-    "name": "ANTOLINEZ Francisco",
-    "school": "Spanish"
+    ]
 }

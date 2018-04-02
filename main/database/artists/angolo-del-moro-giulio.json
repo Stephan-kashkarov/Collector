@@ -1,20 +1,20 @@
 {
+    "name": "ANGOLO DEL MORO Giulio",
+    "life": "(b. 1555 Verona d. 1616 Venezia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 1007,
-            "location": "Palazzo Ducale Venice",
-            "img": "imgs/art/1007.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/angolo/crest.html",
             "title": "Crest of Doge Marcantonio Memmo",
-            "author": "ANGOLO DEL MORO Giulio",
+            "date": "-",
             "technique": "Stucco",
+            "location": "Palazzo Ducale Venice",
+            "url": "https://www.wga.hu/html/a/angolo/crest.html",
+            "form": "sculpture",
             "painting_type": "other",
-            "date": "-"
+            "index": 1007,
+            "author": "ANGOLO DEL MORO Giulio",
+            "img": "imgs/art/1007.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. 1555 Verona d. 1616 Venezia)",
-    "name": "ANGOLO DEL MORO Giulio",
-    "school": "Italian"
+    ]
 }

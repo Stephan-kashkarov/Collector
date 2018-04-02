@@ -1,68 +1,68 @@
 {
+    "name": "ALSLOOT Denis van",
+    "life": "(b. 1570 Bruxelles d. 1626 Bruxelles)",
+    "school": "Flemish",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 361,
-            "location": "Private collection",
-            "img": "imgs/art/361.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alsloot/extensiv.html",
             "title": "Extensive Wooded Landscape with Cephalus and Procris",
-            "author": "ALSLOOT Denis van",
+            "date": "-",
             "technique": "Oil on copper 26 x 33 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alsloot/extensiv.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "-"
+            "index": 361,
+            "author": "ALSLOOT Denis van",
+            "img": "imgs/art/361.jpg"
         },
         {
-            "index": 362,
-            "location": "Private collection",
-            "img": "imgs/art/362.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alsloot/flight_e.html",
             "title": "The Flight into Egypt",
-            "author": "ALSLOOT Denis van",
+            "date": "c. 1608",
             "technique": "Oil on oak panel 52 x 67 cm",
-            "painting_type": "religious",
-            "date": "c. 1608"
-        },
-        {
-            "index": 363,
-            "location": "Museo del Prado Madrid",
-            "img": "imgs/art/363.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alsloot/skating.html",
-            "title": "Skating during Carnival",
-            "author": "ALSLOOT Denis van",
-            "technique": "Oil on panel 57 x 100 cm",
-            "painting_type": "landscape",
-            "date": "c. 1620"
-        },
-        {
-            "index": 364,
-            "location": "Mus\u00e9e du Louvre Paris",
-            "img": "imgs/art/364.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alsloot/winter_l.html",
-            "title": "Winter Landscape",
-            "author": "ALSLOOT Denis van",
-            "technique": "Oil on wood 36 x 47 cm",
-            "painting_type": "landscape",
-            "date": "1610"
-        },
-        {
-            "index": 365,
             "location": "Private collection",
-            "img": "imgs/art/365.jpg",
+            "url": "https://www.wga.hu/html/a/alsloot/flight_e.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/alsloot/winterla.html",
-            "title": "Winter Landscape in the F\u00f4ret de Soignes with the Flight Into Egypt",
+            "painting_type": "religious",
+            "index": 362,
             "author": "ALSLOOT Denis van",
-            "technique": "Oil on oak panel 49 x 67 cm",
+            "img": "imgs/art/362.jpg"
+        },
+        {
+            "title": "Skating during Carnival",
+            "date": "c. 1620",
+            "technique": "Oil on panel 57 x 100 cm",
+            "location": "Museo del Prado Madrid",
+            "url": "https://www.wga.hu/html/a/alsloot/skating.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "c. 1616"
+            "index": 363,
+            "author": "ALSLOOT Denis van",
+            "img": "imgs/art/363.jpg"
+        },
+        {
+            "title": "Winter Landscape",
+            "date": "1610",
+            "technique": "Oil on wood 36 x 47 cm",
+            "location": "Mus\u00e9e du Louvre Paris",
+            "url": "https://www.wga.hu/html/a/alsloot/winter_l.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 364,
+            "author": "ALSLOOT Denis van",
+            "img": "imgs/art/364.jpg"
+        },
+        {
+            "title": "Winter Landscape in the F\u00f4ret de Soignes with the Flight Into Egypt",
+            "date": "c. 1616",
+            "technique": "Oil on oak panel 49 x 67 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alsloot/winterla.html",
+            "form": "painting",
+            "painting_type": "landscape",
+            "index": 365,
+            "author": "ALSLOOT Denis van",
+            "img": "imgs/art/365.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1570 Bruxelles d. 1626 Bruxelles)",
-    "name": "ALSLOOT Denis van",
-    "school": "Flemish"
+    ]
 }

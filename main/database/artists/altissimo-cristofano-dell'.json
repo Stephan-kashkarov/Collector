@@ -1,32 +1,32 @@
 {
+    "name": "ALTISSIMO Cristofano dell'",
+    "life": "(b. ca. 1530 d. 1605 Firenze)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 429,
-            "location": "Galleria degli Uffizi Florence",
-            "img": "imgs/art/429.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/altissim/alchitro.html",
             "title": "Alchitrof Emperor of Ethiopia",
-            "author": "ALTISSIMO Cristofano dell'",
+            "date": "1568",
             "technique": "Oil on wood 59 x 42 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/altissim/alchitro.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1568"
+            "index": 429,
+            "author": "ALTISSIMO Cristofano dell'",
+            "img": "imgs/art/429.jpg"
         },
         {
-            "index": 430,
-            "location": "Galleria degli Uffizi Florence",
-            "img": "imgs/art/430.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/altissim/columbus.html",
             "title": "Portrait of Christopher Columbus",
-            "author": "ALTISSIMO Cristofano dell'",
+            "date": "1556",
             "technique": "Oil on canvas 59 x 42 cm",
+            "location": "Galleria degli Uffizi Florence",
+            "url": "https://www.wga.hu/html/a/altissim/columbus.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "1556"
+            "index": 430,
+            "author": "ALTISSIMO Cristofano dell'",
+            "img": "imgs/art/430.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. ca. 1530 d. 1605 Firenze)",
-    "name": "ALTISSIMO Cristofano dell'",
-    "school": "Italian"
+    ]
 }

@@ -1,20 +1,20 @@
 {
+    "name": "AGRATE Gian Francesco Ferrari d'",
+    "life": "(b. 1489 Parma d. ca. 1563 Parma)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 169,
-            "location": "Santa Maria della Steccata Parma",
-            "img": "imgs/art/169.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/agrate/sforza.html",
             "title": "Sepulchral Monument to Sforzino Sforza",
-            "author": "AGRATE Gian Francesco Ferrari d'",
+            "date": "1528-36",
             "technique": "Marble",
+            "location": "Santa Maria della Steccata Parma",
+            "url": "https://www.wga.hu/html/a/agrate/sforza.html",
+            "form": "sculpture",
             "painting_type": "other",
-            "date": "1528-36"
+            "index": 169,
+            "author": "AGRATE Gian Francesco Ferrari d'",
+            "img": "imgs/art/169.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. 1489 Parma d. ca. 1563 Parma)",
-    "name": "AGRATE Gian Francesco Ferrari d'",
-    "school": "Italian"
+    ]
 }

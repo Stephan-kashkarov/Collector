@@ -1,20 +1,20 @@
 {
+    "name": "ANGELO DA SIENA",
+    "life": "(documented 1447 Ferrara d. 1456 Ferrara)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
     "art": [
         {
-            "index": 1003,
-            "location": "Museo Correr Venice",
-            "img": "imgs/art/1003.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/angelo_s/fem_port.html",
             "title": "Small Female Portrait",
-            "author": "ANGELO DA SIENA",
+            "date": "-",
             "technique": "Panel 42 x 33 cm",
+            "location": "Museo Correr Venice",
+            "url": "https://www.wga.hu/html/a/angelo_s/fem_port.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "-"
+            "index": 1003,
+            "author": "ANGELO DA SIENA",
+            "img": "imgs/art/1003.jpg"
         }
-    ],
-    "timeframe": "1451-1500",
-    "life": "(documented 1447 Ferrara d. 1456 Ferrara)",
-    "name": "ANGELO DA SIENA",
-    "school": "Italian"
+    ]
 }

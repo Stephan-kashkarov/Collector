@@ -1,68 +1,68 @@
 {
+    "name": "ALESSO DI BENOZZO",
+    "life": "(b. 1473 Firenze d. 1528 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 279,
-            "location": "Metropolitan Museum of Art New York",
-            "img": "imgs/art/279.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alesso/annuncia.html",
             "title": "Annunciation",
-            "author": "ALESSO DI BENOZZO",
+            "date": "1480-1500",
             "technique": "Tempera and gold on wood 41 x 36 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/alesso/annuncia.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "1480-1500"
+            "index": 279,
+            "author": "ALESSO DI BENOZZO",
+            "img": "imgs/art/279.jpg"
         },
         {
-            "index": 280,
-            "location": "Private collection",
-            "img": "imgs/art/280.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alesso/crucifix.html",
             "title": "Crucifixion",
-            "author": "ALESSO DI BENOZZO",
+            "date": "-",
             "technique": "Oil on panel 54 x 41 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alesso/crucifix.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 280,
+            "author": "ALESSO DI BENOZZO",
+            "img": "imgs/art/280.jpg"
         },
         {
-            "index": 281,
-            "location": "Private collection",
-            "img": "imgs/art/281.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alesso/crucifiz.html",
             "title": "Crucifixion (detail)",
-            "author": "ALESSO DI BENOZZO",
+            "date": "-",
             "technique": "Oil on panel",
-            "painting_type": "religious",
-            "date": "-"
-        },
-        {
-            "index": 282,
             "location": "Private collection",
-            "img": "imgs/art/282.jpg",
+            "url": "https://www.wga.hu/html/a/alesso/crucifiz.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/alesso/madchild.html",
-            "title": "Madonna and Child",
-            "author": "ALESSO DI BENOZZO",
-            "technique": "Tempera on panel 34 x 25 cm",
             "painting_type": "religious",
-            "date": "-"
+            "index": 281,
+            "author": "ALESSO DI BENOZZO",
+            "img": "imgs/art/281.jpg"
         },
         {
-            "index": 283,
-            "location": "Mus\u00e9e d'art et d'histoire Geneva",
-            "img": "imgs/art/283.jpg",
+            "title": "Madonna and Child",
+            "date": "-",
+            "technique": "Tempera on panel 34 x 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alesso/madchild.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/alesso/pieta.html",
-            "title": "Piet\u00e0",
-            "author": "ALESSO DI BENOZZO",
-            "technique": "Tempera on wood",
             "painting_type": "religious",
-            "date": "-"
+            "index": 282,
+            "author": "ALESSO DI BENOZZO",
+            "img": "imgs/art/282.jpg"
+        },
+        {
+            "title": "Piet\u00e0",
+            "date": "-",
+            "technique": "Tempera on wood",
+            "location": "Mus\u00e9e d'art et d'histoire Geneva",
+            "url": "https://www.wga.hu/html/a/alesso/pieta.html",
+            "form": "painting",
+            "painting_type": "religious",
+            "index": 283,
+            "author": "ALESSO DI BENOZZO",
+            "img": "imgs/art/283.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. 1473 Firenze d. 1528 Firenze)",
-    "name": "ALESSO DI BENOZZO",
-    "school": "Italian"
+    ]
 }

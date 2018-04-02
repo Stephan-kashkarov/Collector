@@ -1,20 +1,20 @@
 {
+    "name": "ANGELO DI NALDUCCIO",
+    "life": "(active 1342-1389 in Siena)",
+    "school": "Italian",
+    "timeframe": "1351-1400",
     "art": [
         {
-            "index": 1004,
-            "location": "Museo Civico e Diocesano d'Arte Sacra Montalcino",
-            "img": "imgs/art/1004.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/angelo/gabriel.html",
             "title": "The Archangel Gabriel",
-            "author": "ANGELO DI NALDUCCIO",
+            "date": "1370",
             "technique": "Polychrome wood height 176 cm",
+            "location": "Museo Civico e Diocesano d'Arte Sacra Montalcino",
+            "url": "https://www.wga.hu/html/a/angelo/gabriel.html",
+            "form": "sculpture",
             "painting_type": "religious",
-            "date": "1370"
+            "index": 1004,
+            "author": "ANGELO DI NALDUCCIO",
+            "img": "imgs/art/1004.jpg"
         }
-    ],
-    "timeframe": "1351-1400",
-    "life": "(active 1342-1389 in Siena)",
-    "name": "ANGELO DI NALDUCCIO",
-    "school": "Italian"
+    ]
 }

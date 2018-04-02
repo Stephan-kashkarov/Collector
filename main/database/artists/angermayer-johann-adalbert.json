@@ -1,20 +1,20 @@
 {
+    "name": "ANGERMAYER Johann Adalbert",
+    "life": "(b. 1674 Bilina d. 1740 Praha)",
+    "school": "Bohemian",
+    "timeframe": "1701-1750",
     "art": [
         {
-            "index": 1006,
-            "location": "Liechtenstein Museum Vienna",
-            "img": "imgs/art/1006.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/angermay/bouquet.html",
             "title": "Bouquet of Flowers with Animals",
-            "author": "ANGERMAYER Johann Adalbert",
+            "date": "1704",
             "technique": "Oil on panel 50 x 34 cm",
+            "location": "Liechtenstein Museum Vienna",
+            "url": "https://www.wga.hu/html/a/angermay/bouquet.html",
+            "form": "painting",
             "painting_type": "still-life",
-            "date": "1704"
+            "index": 1006,
+            "author": "ANGERMAYER Johann Adalbert",
+            "img": "imgs/art/1006.jpg"
         }
-    ],
-    "timeframe": "1701-1750",
-    "life": "(b. 1674 Bilina d. 1740 Praha)",
-    "name": "ANGERMAYER Johann Adalbert",
-    "school": "Bohemian"
+    ]
 }

@@ -1,20 +1,20 @@
 {
+    "name": "ANGUIER Fran\u00e7ois",
+    "life": "(b. 1604 Eu d. 1669 Paris)",
+    "school": "French",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 1010,
-            "location": "Chapel of the Lyc\u00e9e Moulins",
-            "img": "imgs/art/1010.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/anguier/francois/montmore.html",
             "title": "Montmorency Tomb",
-            "author": "ANGUIER Fran\u00e7ois",
+            "date": "1649-52",
             "technique": "Marble",
+            "location": "Chapel of the Lyc\u00e9e Moulins",
+            "url": "https://www.wga.hu/html/a/anguier/francois/montmore.html",
+            "form": "sculpture",
             "painting_type": "religious",
-            "date": "1649-52"
+            "index": 1010,
+            "author": "ANGUIER Fran\u00e7ois",
+            "img": "imgs/art/1010.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1604 Eu d. 1669 Paris)",
-    "name": "ANGUIER Fran\u00e7ois",
-    "school": "French"
+    ]
 }

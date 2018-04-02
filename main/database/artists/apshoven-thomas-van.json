@@ -1,20 +1,20 @@
 {
+    "name": "APSHOVEN Thomas van",
+    "life": "(b. ca. 1622 Antwerpen d. ca. 1665 Antwerpen)",
+    "school": "Flemish",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 1151,
-            "location": "Private collection",
-            "img": "imgs/art/1151.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/apshoven/landscap.html",
             "title": "Landscape with a Musician",
-            "author": "APSHOVEN Thomas van",
+            "date": "-",
             "technique": "Oil on panel 49 x 66 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/apshoven/landscap.html",
+            "form": "painting",
             "painting_type": "landscape",
-            "date": "-"
+            "index": 1151,
+            "author": "APSHOVEN Thomas van",
+            "img": "imgs/art/1151.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. ca. 1622 Antwerpen d. ca. 1665 Antwerpen)",
-    "name": "APSHOVEN Thomas van",
-    "school": "Flemish"
+    ]
 }

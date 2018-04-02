@@ -1,20 +1,20 @@
 {
+    "name": "ANTIGNA Alexandre",
+    "life": "(b. 1817 Orl\u00e9ans d. 1878 Paris)",
+    "school": "French",
+    "timeframe": "1801-1850",
     "art": [
         {
-            "index": 1067,
-            "location": "Mus\u00e9e des Augustins Toulouse",
-            "img": "imgs/art/1067.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/antigna/lightnin.html",
             "title": "The Lightning",
-            "author": "ANTIGNA Alexandre",
+            "date": "1848",
             "technique": "Oil on canvas 220 x 171 cm",
+            "location": "Mus\u00e9e des Augustins Toulouse",
+            "url": "https://www.wga.hu/html/a/antigna/lightnin.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "1848"
+            "index": 1067,
+            "author": "ANTIGNA Alexandre",
+            "img": "imgs/art/1067.jpg"
         }
-    ],
-    "timeframe": "1801-1850",
-    "life": "(b. 1817 Orl\u00e9ans d. 1878 Paris)",
-    "name": "ANTIGNA Alexandre",
-    "school": "French"
+    ]
 }

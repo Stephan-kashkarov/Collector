@@ -1,20 +1,20 @@
 {
+    "name": "AMSTEL Jan van",
+    "life": "(b. ca. 1500 Amsterdam d. ca. 1542 Antwerpen)",
+    "school": "Netherlandish",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 513,
-            "location": "Private collection",
-            "img": "imgs/art/513.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/amstel/brothel.html",
             "title": "Dispute in a Brothel",
-            "author": "AMSTEL Jan van",
+            "date": "-",
             "technique": "Oil on oak panel 76 x 105 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/amstel/brothel.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "-"
+            "index": 513,
+            "author": "AMSTEL Jan van",
+            "img": "imgs/art/513.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. ca. 1500 Amsterdam d. ca. 1542 Antwerpen)",
-    "name": "AMSTEL Jan van",
-    "school": "Netherlandish"
+    ]
 }

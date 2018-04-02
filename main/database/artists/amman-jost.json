@@ -1,68 +1,68 @@
 {
+    "name": "AMMAN Jost",
+    "life": "(b. 1539 Z\u00fcrich d. 1591 N\u00fcrnberg)",
+    "school": "Swiss",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 479,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/479.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/amman/amman1.html",
             "title": "Papermaking (from the Book of Trades)",
-            "author": "AMMAN Jost",
+            "date": "1568",
             "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman1.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1568"
+            "index": 479,
+            "author": "AMMAN Jost",
+            "img": "imgs/art/479.jpg"
         },
         {
-            "index": 480,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/480.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/amman/amman2.html",
             "title": "Casting type in hot metal (from the Book of Trades)",
-            "author": "AMMAN Jost",
+            "date": "1568",
             "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman2.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1568"
+            "index": 480,
+            "author": "AMMAN Jost",
+            "img": "imgs/art/480.jpg"
         },
         {
-            "index": 481,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/481.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/amman/amman3.html",
             "title": "Typesetting and inking (from the Book of Trades)",
-            "author": "AMMAN Jost",
+            "date": "1568",
             "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman3.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1568"
+            "index": 481,
+            "author": "AMMAN Jost",
+            "img": "imgs/art/481.jpg"
         },
         {
-            "index": 482,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/482.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/amman/amman4.html",
             "title": "Cutting a woodblock (from the Book of Trades)",
-            "author": "AMMAN Jost",
+            "date": "1568",
             "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman4.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1568"
+            "index": 482,
+            "author": "AMMAN Jost",
+            "img": "imgs/art/482.jpg"
         },
         {
-            "index": 483,
-            "location": "Victoria and Albert Museum London",
-            "img": "imgs/art/483.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/amman/amman5.html",
             "title": "Bookbinding (from the Book of Trades)",
-            "author": "AMMAN Jost",
+            "date": "1568",
             "technique": "Woodcut",
+            "location": "Victoria and Albert Museum London",
+            "url": "https://www.wga.hu/html/a/amman/amman5.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "1568"
+            "index": 483,
+            "author": "AMMAN Jost",
+            "img": "imgs/art/483.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. 1539 Z\u00fcrich d. 1591 N\u00fcrnberg)",
-    "name": "AMMAN Jost",
-    "school": "Swiss"
+    ]
 }

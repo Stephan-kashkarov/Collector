@@ -1,32 +1,32 @@
 {
+    "name": "ANDREOLI Giorgio",
+    "life": "(b. ca. 1465 Intra d. 1553 Gubbio)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 709,
-            "location": "Wallace Collection London",
-            "img": "imgs/art/709.jpg",
-            "form": "ceramics",
-            "url": "https://www.wga.hu/html/a/andreoli/dish.html",
             "title": "Dish",
-            "author": "ANDREOLI Giorgio",
+            "date": "1525",
             "technique": "Tin-glazed earthenware diameter 45 cm",
+            "location": "Wallace Collection London",
+            "url": "https://www.wga.hu/html/a/andreoli/dish.html",
+            "form": "ceramics",
             "painting_type": "other",
-            "date": "1525"
+            "index": 709,
+            "author": "ANDREOLI Giorgio",
+            "img": "imgs/art/709.jpg"
         },
         {
-            "index": 710,
-            "location": "Private collection",
-            "img": "imgs/art/710.jpg",
-            "form": "ceramics",
-            "url": "https://www.wga.hu/html/a/andreoli/dish1.html",
             "title": "Dish",
-            "author": "ANDREOLI Giorgio",
+            "date": "1525-30",
             "technique": "Lustred tin-glazed earthenware diameter 25 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/andreoli/dish1.html",
+            "form": "ceramics",
             "painting_type": "other",
-            "date": "1525-30"
+            "index": 710,
+            "author": "ANDREOLI Giorgio",
+            "img": "imgs/art/710.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. ca. 1465 Intra d. 1553 Gubbio)",
-    "name": "ANDREOLI Giorgio",
-    "school": "Italian"
+    ]
 }

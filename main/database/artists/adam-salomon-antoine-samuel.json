@@ -1,20 +1,20 @@
 {
+    "name": "ADAM-SALOMON Antoine-Samuel",
+    "life": "(b. 1818 La Ferte-sous-Jouarre d. 1881 Paris)",
+    "school": "French",
+    "timeframe": "1851-1900",
     "art": [
         {
-            "index": 63,
-            "location": "Private collection",
-            "img": "imgs/art/63.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/adam-sal/pereire.html",
             "title": "Bust of Isaac P\u00e9reire",
-            "author": "ADAM-SALOMON Antoine-Samuel",
+            "date": "-",
             "technique": "White marble height 77 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/adam-sal/pereire.html",
+            "form": "sculpture",
             "painting_type": "portrait",
-            "date": "-"
+            "index": 63,
+            "author": "ADAM-SALOMON Antoine-Samuel",
+            "img": "imgs/art/63.jpg"
         }
-    ],
-    "timeframe": "1851-1900",
-    "life": "(b. 1818 La Ferte-sous-Jouarre d. 1881 Paris)",
-    "name": "ADAM-SALOMON Antoine-Samuel",
-    "school": "French"
+    ]
 }

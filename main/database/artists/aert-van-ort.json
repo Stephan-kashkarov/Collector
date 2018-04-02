@@ -1,20 +1,20 @@
 {
+    "name": "AERT VAN ORT",
+    "life": "(active 1490-1536)",
+    "school": "Netherlandish",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 112,
-            "location": "Metropolitan Museum of Art New York",
-            "img": "imgs/art/112.jpg",
-            "form": "stained-glass",
-            "url": "https://www.wga.hu/html/a/aert/susanna.html",
             "title": "Susanna and the Elders",
-            "author": "AERT VAN ORT",
+            "date": "1520-25",
             "technique": "Stained glass diameter 24 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/aert/susanna.html",
+            "form": "stained-glass",
             "painting_type": "religious",
-            "date": "1520-25"
+            "index": 112,
+            "author": "AERT VAN ORT",
+            "img": "imgs/art/112.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(active 1490-1536)",
-    "name": "AERT VAN ORT",
-    "school": "Netherlandish"
+    ]
 }

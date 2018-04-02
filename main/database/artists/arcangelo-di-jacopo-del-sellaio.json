@@ -1,68 +1,68 @@
 {
+    "name": "ARCANGELO DI JACOPO DEL SELLAIO",
+    "life": "(b. 1477/78 Firenze d. 1530 Firenze)",
+    "school": "Italian",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 1156,
-            "location": "Private collection",
-            "img": "imgs/art/1156.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/arcangel/annuncia.html",
             "title": "The Annunciation",
-            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "date": "-",
             "technique": "Tempera on panel 131 x 79 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/annuncia.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1156,
+            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "img": "imgs/art/1156.jpg"
         },
         {
-            "index": 1157,
-            "location": "Private collection",
-            "img": "imgs/art/1157.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/arcangel/diptych.html",
             "title": "St Jerome and St Mary of Egypt",
-            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "date": "-",
             "technique": "Panel 32 x 11 cm (each)",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/diptych.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1157,
+            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "img": "imgs/art/1157.jpg"
         },
         {
-            "index": 1158,
-            "location": "Private collection",
-            "img": "imgs/art/1158.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/arcangel/madonna.html",
             "title": "Madonna and Child",
-            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "date": "-",
             "technique": "Tempera on panel diameter 85 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/madonna.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1158,
+            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "img": "imgs/art/1158.jpg"
         },
         {
-            "index": 1159,
-            "location": "Private collection",
-            "img": "imgs/art/1159.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/arcangel/stjerome.html",
             "title": "Penitent St Jerome in the Wilderness",
-            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "date": "-",
             "technique": "Oil on poplar panel 22 x 17 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/stjerome.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1159,
+            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "img": "imgs/art/1159.jpg"
         },
         {
-            "index": 1160,
-            "location": "Private collection",
-            "img": "imgs/art/1160.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/arcangel/virgin_c.html",
             "title": "Virgin and Child Enthroned with Two Dominican Saints and Two Angels",
-            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "date": "-",
             "technique": "Tempera on panel 38 x 30 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/arcangel/virgin_c.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 1160,
+            "author": "ARCANGELO DI JACOPO DEL SELLAIO",
+            "img": "imgs/art/1160.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. 1477/78 Firenze d. 1530 Firenze)",
-    "name": "ARCANGELO DI JACOPO DEL SELLAIO",
-    "school": "Italian"
+    ]
 }

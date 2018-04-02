@@ -1,32 +1,32 @@
 {
+    "name": "ADELCRANTZ Carl Fredrik",
+    "life": "(b. 1716 Stockholm d. 1796 Stockholm)",
+    "school": "Swedish",
+    "timeframe": "1751-1800",
     "art": [
         {
-            "index": 64,
-            "location": "Palace Theatre Drottningholm",
-            "img": "imgs/art/64.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/adelcran/theatre1.html",
             "title": "Exterior view",
-            "author": "ADELCRANTZ Carl Fredrik",
+            "date": "1766",
             "technique": "Photo",
+            "location": "Palace Theatre Drottningholm",
+            "url": "https://www.wga.hu/html/a/adelcran/theatre1.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1766"
+            "index": 64,
+            "author": "ADELCRANTZ Carl Fredrik",
+            "img": "imgs/art/64.jpg"
         },
         {
-            "index": 65,
-            "location": "Palace Theatre Drottningholm",
-            "img": "imgs/art/65.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/adelcran/theatre2.html",
             "title": "Interior view",
-            "author": "ADELCRANTZ Carl Fredrik",
+            "date": "1766",
             "technique": "Photo",
+            "location": "Palace Theatre Drottningholm",
+            "url": "https://www.wga.hu/html/a/adelcran/theatre2.html",
+            "form": "architecture",
             "painting_type": "interior",
-            "date": "1766"
+            "index": 65,
+            "author": "ADELCRANTZ Carl Fredrik",
+            "img": "imgs/art/65.jpg"
         }
-    ],
-    "timeframe": "1751-1800",
-    "life": "(b. 1716 Stockholm d. 1796 Stockholm)",
-    "name": "ADELCRANTZ Carl Fredrik",
-    "school": "Swedish"
+    ]
 }

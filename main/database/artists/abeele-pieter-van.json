@@ -1,44 +1,44 @@
 {
+    "name": "ABEELE Pieter van",
+    "life": "(b. 1608 Middelburg d. 1684 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1601-1650",
     "art": [
         {
-            "index": 24,
-            "location": "Royal Collection Windsor",
-            "img": "imgs/art/24.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/abeele/commemo1.html",
             "title": "Medal commemorating Charles II embarkation at Scheveningen",
-            "author": "ABEELE Pieter van",
+            "date": "1660",
             "technique": "Silver diameter 7 cm",
+            "location": "Royal Collection Windsor",
+            "url": "https://www.wga.hu/html/a/abeele/commemo1.html",
+            "form": "sculpture",
             "painting_type": "historical",
-            "date": "1660"
+            "index": 24,
+            "author": "ABEELE Pieter van",
+            "img": "imgs/art/24.jpg"
         },
         {
-            "index": 25,
-            "location": "Private collection",
-            "img": "imgs/art/25.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/abeele/commemo2.html",
             "title": "Commemorative Medal for Admiral Maarten Harpertszoon Tromp",
-            "author": "ABEELE Pieter van",
+            "date": "1653",
             "technique": "Silver cast chased and engraved diameter 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/abeele/commemo2.html",
+            "form": "sculpture",
             "painting_type": "historical",
-            "date": "1653"
+            "index": 25,
+            "author": "ABEELE Pieter van",
+            "img": "imgs/art/25.jpg"
         },
         {
-            "index": 26,
-            "location": "Metropolitan Museum of Art New York",
-            "img": "imgs/art/26.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/abeele/william3.html",
             "title": "William III Prince of Orange at the Age of Four",
-            "author": "ABEELE Pieter van",
+            "date": "1654",
             "technique": "Silver two cast chased shells soldered together diameter 7 cm",
+            "location": "Metropolitan Museum of Art New York",
+            "url": "https://www.wga.hu/html/a/abeele/william3.html",
+            "form": "sculpture",
             "painting_type": "historical",
-            "date": "1654"
+            "index": 26,
+            "author": "ABEELE Pieter van",
+            "img": "imgs/art/26.jpg"
         }
-    ],
-    "timeframe": "1601-1650",
-    "life": "(b. 1608 Middelburg d. 1684 Amsterdam)",
-    "name": "ABEELE Pieter van",
-    "school": "Dutch"
+    ]
 }

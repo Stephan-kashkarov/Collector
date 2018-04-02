@@ -1,56 +1,56 @@
 {
+    "name": "AKEN Joseph van",
+    "life": "(b. ca. 1699 Antwerpen d. 1749 London)",
+    "school": "Flemish",
+    "timeframe": "1701-1750",
     "art": [
         {
-            "index": 176,
-            "location": "Private collection",
-            "img": "imgs/art/176.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aken/brothers.html",
             "title": "The Van Aken Brothers",
-            "author": "AKEN Joseph van",
+            "date": "-",
             "technique": "Oil on canvas 89 x 125 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aken/brothers.html",
+            "form": "painting",
             "painting_type": "portrait",
-            "date": "-"
+            "index": 176,
+            "author": "AKEN Joseph van",
+            "img": "imgs/art/176.jpg"
         },
         {
-            "index": 177,
-            "location": "Private collection",
-            "img": "imgs/art/177.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aken/conversa.html",
             "title": "A Sporting Conversation Piece",
-            "author": "AKEN Joseph van",
+            "date": "c. 1730",
             "technique": "Oil on canvas 58 x 71 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aken/conversa.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "c. 1730"
+            "index": 177,
+            "author": "AKEN Joseph van",
+            "img": "imgs/art/177.jpg"
         },
         {
-            "index": 178,
-            "location": "Private collection",
-            "img": "imgs/art/178.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aken/vegetab1.html",
             "title": "A Vegetable Seller and his Son",
-            "author": "AKEN Joseph van",
+            "date": "-",
             "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aken/vegetab1.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "-"
+            "index": 178,
+            "author": "AKEN Joseph van",
+            "img": "imgs/art/178.jpg"
         },
         {
-            "index": 179,
-            "location": "Private collection",
-            "img": "imgs/art/179.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/aken/vegetab2.html",
             "title": "Vegetable and Fruit Market",
-            "author": "AKEN Joseph van",
+            "date": "-",
             "technique": "Oil on canvas 76 x 64 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/aken/vegetab2.html",
+            "form": "painting",
             "painting_type": "genre",
-            "date": "-"
+            "index": 179,
+            "author": "AKEN Joseph van",
+            "img": "imgs/art/179.jpg"
         }
-    ],
-    "timeframe": "1701-1750",
-    "life": "(b. ca. 1699 Antwerpen d. 1749 London)",
-    "name": "AKEN Joseph van",
-    "school": "Flemish"
+    ]
 }

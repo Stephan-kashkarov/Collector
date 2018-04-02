@@ -1,44 +1,44 @@
 {
+    "name": "ANTHONISZ Cornelis",
+    "life": "(b. ca. 1499 Amsterdam d. ca. 1555 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1501-1550",
     "art": [
         {
-            "index": 1049,
-            "location": "Historisch Museum Amsterdam",
-            "img": "imgs/art/1049.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/anthonis/copperco.html",
             "title": "Banquet of Members of Amsterdam's Crossbow Civic Guard",
-            "author": "ANTHONISZ Cornelis",
+            "date": "1533",
             "technique": "Oil on panel 130 x 207 cm",
-            "painting_type": "portrait",
-            "date": "1533"
-        },
-        {
-            "index": 1050,
-            "location": "Rijksmuseum Amsterdam",
-            "img": "imgs/art/1050.jpg",
+            "location": "Historisch Museum Amsterdam",
+            "url": "https://www.wga.hu/html/a/anthonis/copperco.html",
             "form": "painting",
-            "url": "https://www.wga.hu/html/a/anthonis/henry8.html",
-            "title": "Henry VIII of England on Horseback",
-            "author": "ANTHONISZ Cornelis",
-            "technique": "Hand-coloured woodcut 403 x 295 mm",
             "painting_type": "portrait",
-            "date": "c. 1538"
+            "index": 1049,
+            "author": "ANTHONISZ Cornelis",
+            "img": "imgs/art/1049.jpg"
         },
         {
-            "index": 1051,
+            "title": "Henry VIII of England on Horseback",
+            "date": "c. 1538",
+            "technique": "Hand-coloured woodcut 403 x 295 mm",
             "location": "Rijksmuseum Amsterdam",
-            "img": "imgs/art/1051.jpg",
-            "form": "graphics",
-            "url": "https://www.wga.hu/html/a/anthonis/st_cross.html",
-            "title": "Saint Crosspatch",
+            "url": "https://www.wga.hu/html/a/anthonis/henry8.html",
+            "form": "painting",
+            "painting_type": "portrait",
+            "index": 1050,
             "author": "ANTHONISZ Cornelis",
+            "img": "imgs/art/1050.jpg"
+        },
+        {
+            "title": "Saint Crosspatch",
+            "date": "c. 1550",
             "technique": "Woodcut hand-coloured 229 x 202 mm",
+            "location": "Rijksmuseum Amsterdam",
+            "url": "https://www.wga.hu/html/a/anthonis/st_cross.html",
+            "form": "graphics",
             "painting_type": "other",
-            "date": "c. 1550"
+            "index": 1051,
+            "author": "ANTHONISZ Cornelis",
+            "img": "imgs/art/1051.jpg"
         }
-    ],
-    "timeframe": "1501-1550",
-    "life": "(b. ca. 1499 Amsterdam d. ca. 1555 Amsterdam)",
-    "name": "ANTHONISZ Cornelis",
-    "school": "Dutch"
+    ]
 }

@@ -1,20 +1,20 @@
 {
+    "name": "AGNOLO DI POLO",
+    "life": "(b. ca. 1470 Firenze d. after 1498)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
     "art": [
         {
-            "index": 138,
-            "location": "Private collection",
-            "img": "imgs/art/138.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/agnolo/magdalen.html",
             "title": "Mary Magdalene",
-            "author": "AGNOLO DI POLO",
+            "date": "c. 1495",
             "technique": "Gilt and painted terracotta height 156 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/agnolo/magdalen.html",
+            "form": "sculpture",
             "painting_type": "religious",
-            "date": "c. 1495"
+            "index": 138,
+            "author": "AGNOLO DI POLO",
+            "img": "imgs/art/138.jpg"
         }
-    ],
-    "timeframe": "1451-1500",
-    "life": "(b. ca. 1470 Firenze d. after 1498)",
-    "name": "AGNOLO DI POLO",
-    "school": "Italian"
+    ]
 }

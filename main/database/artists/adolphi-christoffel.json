@@ -1,20 +1,20 @@
 {
+    "name": "ADOLPHI Christoffel",
+    "life": "(b. ca. 1631 Augusburg d. 1680 Amsterdam)",
+    "school": "Dutch",
+    "timeframe": "1651-1700",
     "art": [
         {
-            "index": 78,
-            "location": "Private collection",
-            "img": "imgs/art/78.jpg",
-            "form": "sculpture",
-            "url": "https://www.wga.hu/html/a/adolphi/ruyter.html",
             "title": "Commemorative Medal for Admiral Michiel Adriaensz. de Ruyter",
-            "author": "ADOLPHI Christoffel",
+            "date": "1676",
             "technique": "Silver struck and embossed diameter 7 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/adolphi/ruyter.html",
+            "form": "sculpture",
             "painting_type": "historical",
-            "date": "1676"
+            "index": 78,
+            "author": "ADOLPHI Christoffel",
+            "img": "imgs/art/78.jpg"
         }
-    ],
-    "timeframe": "1651-1700",
-    "life": "(b. ca. 1631 Augusburg d. 1680 Amsterdam)",
-    "name": "ADOLPHI Christoffel",
-    "school": "Dutch"
+    ]
 }

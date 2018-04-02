@@ -1,20 +1,20 @@
 {
+    "name": "ALBA Macrino d'",
+    "life": "(b. ca. 1460 Alba d. ca. 1528 Alba)",
+    "school": "Italian",
+    "timeframe": "1451-1500",
     "art": [
         {
-            "index": 182,
-            "location": "Private collection",
-            "img": "imgs/art/182.jpg",
-            "form": "painting",
-            "url": "https://www.wga.hu/html/a/alba/figsaint.html",
             "title": "Figure of a Saint",
-            "author": "ALBA Macrino d'",
+            "date": "-",
             "technique": "Oil on panel 48 x 27 cm",
+            "location": "Private collection",
+            "url": "https://www.wga.hu/html/a/alba/figsaint.html",
+            "form": "painting",
             "painting_type": "religious",
-            "date": "-"
+            "index": 182,
+            "author": "ALBA Macrino d'",
+            "img": "imgs/art/182.jpg"
         }
-    ],
-    "timeframe": "1451-1500",
-    "life": "(b. ca. 1460 Alba d. ca. 1528 Alba)",
-    "name": "ALBA Macrino d'",
-    "school": "Italian"
+    ]
 }

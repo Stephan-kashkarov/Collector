@@ -1,44 +1,44 @@
 {
+    "name": "ALESSI Galeazzo",
+    "life": "(b. 1512 Perugia d. 1572 Perugia)",
+    "school": "Italian",
+    "timeframe": "1551-1600",
     "art": [
         {
-            "index": 276,
-            "location": "Santa Maria Assunta di Carignano Genoa",
-            "img": "imgs/art/276.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/alessi/assunta.html",
             "title": "View of the fa\u00e7ade",
-            "author": "ALESSI Galeazzo",
+            "date": "1552",
             "technique": "-",
+            "location": "Santa Maria Assunta di Carignano Genoa",
+            "url": "https://www.wga.hu/html/a/alessi/assunta.html",
+            "form": "architecture",
             "painting_type": "religious",
-            "date": "1552"
+            "index": 276,
+            "author": "ALESSI Galeazzo",
+            "img": "imgs/art/276.jpg"
         },
         {
-            "index": 277,
-            "location": "Villa Giustiniani Cambiaso Genoa",
-            "img": "imgs/art/277.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/alessi/villa1.html",
             "title": "Fa\u00e7ade",
-            "author": "ALESSI Galeazzo",
+            "date": "1548",
             "technique": "-",
+            "location": "Villa Giustiniani Cambiaso Genoa",
+            "url": "https://www.wga.hu/html/a/alessi/villa1.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1548"
+            "index": 277,
+            "author": "ALESSI Galeazzo",
+            "img": "imgs/art/277.jpg"
         },
         {
-            "index": 278,
-            "location": "Villa Giustiniani Cambiaso Genoa",
-            "img": "imgs/art/278.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/alessi/villa2.html",
             "title": "Interior of the loggia",
-            "author": "ALESSI Galeazzo",
+            "date": "1548",
             "technique": "-",
+            "location": "Villa Giustiniani Cambiaso Genoa",
+            "url": "https://www.wga.hu/html/a/alessi/villa2.html",
+            "form": "architecture",
             "painting_type": "interior",
-            "date": "1548"
+            "index": 278,
+            "author": "ALESSI Galeazzo",
+            "img": "imgs/art/278.jpg"
         }
-    ],
-    "timeframe": "1551-1600",
-    "life": "(b. 1512 Perugia d. 1572 Perugia)",
-    "name": "ALESSI Galeazzo",
-    "school": "Italian"
+    ]
 }

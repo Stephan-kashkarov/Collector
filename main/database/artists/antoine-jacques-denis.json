@@ -1,68 +1,68 @@
 {
+    "name": "ANTOINE Jacques-Denis",
+    "life": "(b. 1733 Paris d. 19801 Paris)",
+    "school": "French",
+    "timeframe": "1751-1800",
     "art": [
         {
-            "index": 1068,
-            "location": "H\u00f4tel de la Monnaie Paris",
-            "img": "imgs/art/1068.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/antoine/monnaie1.html",
             "title": "General view",
-            "author": "ANTOINE Jacques-Denis",
+            "date": "1771-85",
             "technique": "Photo",
+            "location": "H\u00f4tel de la Monnaie Paris",
+            "url": "https://www.wga.hu/html/a/antoine/monnaie1.html",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1771-85"
+            "index": 1068,
+            "author": "ANTOINE Jacques-Denis",
+            "img": "imgs/art/1068.jpg"
         },
         {
-            "index": 1069,
+            "title": "Exterior view",
+            "date": "1771-85",
+            "technique": "Photo",
             "location": "H\u00f4tel de la Monnaie Paris",
-            "img": "imgs/art/1069.jpg",
-            "form": "architecture",
             "url": "https://www.wga.hu/html/a/antoine/monnaie2.html",
-            "title": "Exterior view",
-            "author": "ANTOINE Jacques-Denis",
-            "technique": "Photo",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1771-85"
+            "index": 1069,
+            "author": "ANTOINE Jacques-Denis",
+            "img": "imgs/art/1069.jpg"
         },
         {
-            "index": 1070,
+            "title": "Exterior view",
+            "date": "1771-85",
+            "technique": "Photo",
             "location": "H\u00f4tel de la Monnaie Paris",
-            "img": "imgs/art/1070.jpg",
-            "form": "architecture",
             "url": "https://www.wga.hu/html/a/antoine/monnaie3.html",
-            "title": "Exterior view",
-            "author": "ANTOINE Jacques-Denis",
-            "technique": "Photo",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1771-85"
+            "index": 1070,
+            "author": "ANTOINE Jacques-Denis",
+            "img": "imgs/art/1070.jpg"
         },
         {
-            "index": 1071,
+            "title": "Exterior view",
+            "date": "1771-85",
+            "technique": "Photo",
             "location": "H\u00f4tel de la Monnaie Paris",
-            "img": "imgs/art/1071.jpg",
-            "form": "architecture",
             "url": "https://www.wga.hu/html/a/antoine/monnaie4.html",
-            "title": "Exterior view",
-            "author": "ANTOINE Jacques-Denis",
-            "technique": "Photo",
+            "form": "architecture",
             "painting_type": "other",
-            "date": "1771-85"
+            "index": 1071,
+            "author": "ANTOINE Jacques-Denis",
+            "img": "imgs/art/1071.jpg"
         },
         {
-            "index": 1072,
-            "location": "H\u00f4tel de la Monnaie Paris",
-            "img": "imgs/art/1072.jpg",
-            "form": "architecture",
-            "url": "https://www.wga.hu/html/a/antoine/monnaie5.html",
             "title": "Interior view",
-            "author": "ANTOINE Jacques-Denis",
+            "date": "1771-85",
             "technique": "Photo",
+            "location": "H\u00f4tel de la Monnaie Paris",
+            "url": "https://www.wga.hu/html/a/antoine/monnaie5.html",
+            "form": "architecture",
             "painting_type": "interior",
-            "date": "1771-85"
+            "index": 1072,
+            "author": "ANTOINE Jacques-Denis",
+            "img": "imgs/art/1072.jpg"
         }
-    ],
-    "timeframe": "1751-1800",
-    "life": "(b. 1733 Paris d. 19801 Paris)",
-    "name": "ANTOINE Jacques-Denis",
-    "school": "French"
+    ]
 }

@@ -1,4 +1,5 @@
 $(document).ready(function () {
+	// check for event in range of change
 	$(".sortby").change(function (e) {
 		new_cat = $(this).val();
 		if(new_cat == "Name") {
@@ -12,7 +13,7 @@ $(document).ready(function () {
 			$(".sorter").attr("list", "timeframe-list");
 		}
 	});
-
+	// check for event in range of click
 	$("#sorter").on('click', function (e) {
 		clear()
 		var cat = $(".sortby").val();
@@ -39,7 +40,7 @@ $(document).ready(function () {
 			}
 		}
 	});
-
+	// check for event in range of click
 	$(document).on("click", ".article", function (e) {
 		name = $(this).children(".name").text().trim();
 		console.log(name, "was clicked");
@@ -55,22 +56,22 @@ $(document).ready(function () {
 			}
 		}
 	});
-
+	// click check
 	$(document).on("click", ".art", function (e) {
 		var title = $(this).find("span").text().trim();
 		loaded[0].full.load_art(title)
 	});
-
+	// click check
 	$(document).on("click", ".back_full", function (e) {
 		loaded[0].full.print()
 	})
-
+	// click check
 	$("#artist_input").focus(function (e) {
 		$("nav").animate({
 			"height": "10%"
 		})
 	})
-
+	// click check
 	$("#artist_input").blur(function (e) {
 		$("nav").animate({
 			"height": "25px"

@@ -1,3 +1,4 @@
+// variables
 var artist_list = [];
 var artist_lite_list = [];
 var name_list = [];
@@ -7,6 +8,7 @@ var obj;
 var regen;
 var loaded = [];
 
+// class artist_list
 class artist_lite {
 	constructor(obj) {
 		this.obj = obj;
@@ -16,7 +18,7 @@ class artist_lite {
 		this.url = obj[3];
 		this.full = "";
 	}
-
+	// load main file from json
 	load() {
 		var full = $.ajax({
 			url: this.url,
@@ -27,7 +29,7 @@ class artist_lite {
 		full = JSON.parse(full)
 		this.full = new artist(full)
 	}
-
+	// print artist lite
 	print() {
 		console.log("printing:", this.name);
 		$(".main").append([this].map(artist_lite_template).join(','));
@@ -35,6 +37,7 @@ class artist_lite {
 
 }
 
+// class artist
 class artist {
 	constructor(obj) {
 		this.obj = obj;
@@ -45,6 +48,7 @@ class artist {
 		this.art = obj["art"];
 	}
 
+	// print full artist
 	print() {
 		clear();
 		$(".main").append([this].map(artist_template).join(","));
@@ -52,7 +56,7 @@ class artist {
 			$(".art-container").append([this.art[i]].map(art_list_template).join(","));
 		}
 	}
-
+	// load art from artist
 	load_art(name) {
 		clear();
 		for(var i in this.art) {
@@ -66,6 +70,7 @@ class artist {
 	}
 }
 
+// clear
 function clear() {
 	console.log("clearing main container");
 	$(".main").children().remove()

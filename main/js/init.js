@@ -1,10 +1,13 @@
 $(document).ready(function () {
+	// check if the localStorage is corrupted
 	if(window.localStorage.key(0) != "artist_list") {
 		console.log("localStorage c0rrupted");
 		console.log(window.localStorage.key(0), "is not artist_list");
+		// check if localStorage is empty
 		if(window.localStorage.length == 0) {
 			window.localStorage.clear();
 			console.log("localStorage empty");
+			// import datalist
 			artist_list = $.ajax({
 				url: "database/artists.json",
 				method: "GET",
@@ -15,12 +18,13 @@ $(document).ready(function () {
 			});
 			artist_list = artist_list.responseText;
 			artist_list = JSON.parse(artist_list);
-
+			// commit things to localStorage
 			console.log("doing localStorage suff");
 			window.localStorage.setItem("artist_list", JSON.stringify(artist_list))
 			window.localStorage.setItem("artist_lite_list", JSON.stringify(artist_lite_list))
 
 		} else {
+			// load from local storage
 			console.log("Lists cached in localStorage");
 			window.localStorage.clear();
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
@@ -29,8 +33,10 @@ $(document).ready(function () {
 			artist_lite_list = JSON.parse(artist_lite_list);
 		}
 	} else {
+		// if it is equal to list
 		if(window.localStorage.getItem("artist_list") == []) {
 			window.localStorage.clear();
+			// import data
 			artist_list = $.ajax({
 				url: "database/artists.json",
 				method: "GET",
@@ -41,7 +47,7 @@ $(document).ready(function () {
 			});
 			artist_list = artist_list.responseText;
 			artist_list = JSON.parse(artist_list);
-		} else {
+		} else { // comment
 			console.log("localStorage was cleared");
 			console.log(window.localStorage.key(0), "=", window.localStorage.getItem(window.localStorage.key(0)));
 			artist_list = window.localStorage.getItem(window.localStorage.key(0));
@@ -81,6 +87,7 @@ $(document).ready(function () {
 		}
 	}
 	$(".main").append(intro)
+	// commit to localStorage
 	window.localStorage.setItem("artist_list", JSON.stringify(artist_list))
 	window.localStorage.setItem("artist_lite_list", JSON.stringify(artist_lite_list))
 });

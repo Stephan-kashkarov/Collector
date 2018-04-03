@@ -67,7 +67,7 @@ $(document).ready(function () {
 
 	$("#artist_input").focus(function (e) {
 		$("nav").animate({
-			"height": "20%"
+			"height": "10%"
 		})
 	})
 
